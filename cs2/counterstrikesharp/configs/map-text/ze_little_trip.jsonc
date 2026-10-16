@@ -1,92 +1,302 @@
 {
   "*** Afk teleport in 10 secons ***": {
-    "translation": "***10秒后传送挂机玩家***"
+    "translation": "***10秒后传送挂机玩家***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ AFKテレポートまで10秒",
+      "CN": "*** 10秒后自动传送 ***",
+      "KR": "*** 10초 후에 AFK 텔레포트 ***",
+      "TW": "*** 十秒後傳送離線玩家 ***"
+    }
   },
   "*** Afk teleport in 20 seconds ***": {
-    "translation": "***20秒后传送挂机玩家***"
+    "translation": "***20秒后传送挂机玩家***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ AFKテレポートまで20秒",
+      "CN": "*** 20秒后自动传送 ***",
+      "KR": "*** 20초 후에 AFK 텔레포트 ***",
+      "TW": "*** 二十秒後傳送離線玩家 ***"
+    }
   },
   "*** Boat leaving in 30 seconds ***": {
-    "translation": "***30秒后船将离开***"
+    "translation": "***30秒后船将离开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ 船に出航まで30秒",
+      "CN": "*** 船只即将在30秒后离开 ***",
+      "KR": "*** 30초 후에 선박 출항 ***",
+      "TW": "*** 船隻三十秒後啟航 ***"
+    }
   },
   "*** Boss teleport activated in 10 seconds ***": {
-    "translation": "***10秒后激活Boss传送***"
+    "translation": "***10秒后激活Boss传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ ボスのテレポート開始まで10秒",
+      "CN": "*** BOSS传送10秒后激活 ***",
+      "KR": "*** 10초 후에 보스 텔레포트 활성화 ***",
+      "TW": "*** 十秒後傳送Boss ***"
+    }
   },
   "*** Boss teleport activated in 30 seconds ***": {
-    "translation": "***30秒后激活Boss传送***"
+    "translation": "***30秒后激活Boss传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ ボスのテレポート開始まで30秒",
+      "CN": "*** BOSS传送30秒后激活 ***",
+      "KR": "*** 30초 후에 보스 텔레포트 활성화 ***",
+      "TW": "*** 三十秒後傳送Boss ***"
+    }
   },
   "*** Boss used danger field! ***": {
-    "translation": "***5秒，Boss使用了危险领域！***"
+    "translation": "***5秒，Boss使用了危险领域！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ ボスが危険フィールドを使用しました！",
+      "CN": "*** BOSS使用了危险领域！***",
+      "KR": "*** 보스가 위험 지역 사용! ***",
+      "TW": "*** Boss已使用危險領域！***"
+    }
   },
   "*** Boss used hurt ***": {
-    "translation": "***5秒，Boss使用了伤害***"
+    "translation": "***5秒，Boss使用了伤害***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ ボスがダメージを与える攻撃を使用",
+      "CN": "*** BOSS使用了伤害技能 ***",
+      "KR": "*** 보스가 피해 사용 ***",
+      "TW": "*** Boss已使用攻擊技能 ***"
+    }
   },
   "*** Boss used moving wall ***": {
-    "translation": "***5秒，Boss使用了移动墙***"
+    "translation": "***5秒，Boss使用了移动墙***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ ボスが移動壁を使用した",
+      "CN": "*** BOSS使用了移动墙壁 ***",
+      "KR": "*** 보스가 이동 벽 사용 ***",
+      "TW": "*** Boss已使用移動牆壁 ***"
+    }
   },
   "*** Boss used pull ***": {
-    "translation": "***5秒，Boss使用了吸力***"
+    "translation": "***5秒，Boss使用了吸力***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ボス：引き寄せ技使用 ***",
+      "CN": "*** Boss used pull ***",
+      "KR": "*** 보스가 당기기 사용 ***",
+      "TW": "***  boss 發動了拉扯技能 ***"
+    }
   },
   "*** Boss used push ***": {
-    "translation": "***5秒，Boss使用了推力***"
+    "translation": "***5秒，Boss使用了推力***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ボス：押し戻し技使用 ***",
+      "CN": "*** Boss used push ***",
+      "KR": "*** 보스가 밀기 사용 ***",
+      "TW": "***  boss 發動了推進技能 ***"
+    }
   },
   "*** Boss used rotating wall ***": {
-    "translation": "***5秒，Boss使用了旋转墙***"
+    "translation": "***5秒，Boss使用了旋转墙***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ボス：回転壁出現 ***",
+      "CN": "*** Boss used rotating wall ***",
+      "KR": "*** 보스가 회전 벽 사용 ***",
+      "TW": "***  boss 發動了旋轉牆壁 ***"
+    }
   },
   "*** CONGRATS!!! ***": {
-    "translation": "***恭喜！！！***"
+    "translation": "***恭喜！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** おめでとうございます！ ***",
+      "CN": "*** CONGRATS!!! ***",
+      "KR": "*** 축하합니다!!! ***",
+      "TW": "*** 恭喜！！！***"
+    }
   },
   "*** Crouch! ***": {
-    "translation": "***5秒，蹲下！***"
+    "translation": "***5秒，蹲下！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** しゃがむ！ ***",
+      "CN": "*** Crouch! ***",
+      "KR": "*** 쪼그려 앉으세요! ***",
+      "TW": "*** 蹲下！***"
+    }
   },
   "*** Door open in 15 seconds ***": {
-    "translation": "***门将在15秒后打开***"
+    "translation": "***门将在15秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後に扉が開きます ***",
+      "CN": "*** Door open in 15 seconds ***",
+      "KR": "*** 문이 15초 후에 열립니다 ***",
+      "TW": "*** 門將於15秒後開啟 ***"
+    }
   },
   "*** Door open in 20 seconds ***": {
-    "translation": "***门将在20秒后打开***"
+    "translation": "***门将在20秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後に扉が開きます ***",
+      "CN": "*** Door open in 20 seconds ***",
+      "KR": "*** 문이 20초 후에 열립니다 ***",
+      "TW": "*** 門將於20秒後開啟 ***"
+    }
   },
   "*** Door open in 25 seconds ***": {
-    "translation": "***门将在25秒后打开***"
+    "translation": "***门将在25秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒後に扉が開きます ***",
+      "CN": "*** Door open in 25 seconds ***",
+      "KR": "*** 문이 25초 후에 열립니다 ***",
+      "TW": "*** 門將於25秒後開啟 ***"
+    }
   },
   "*** Door open in 40 seconds ***": {
-    "translation": "***门将在40秒后打开***"
+    "translation": "***门将在40秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 40秒後に扉が開きます ***",
+      "CN": "*** 40秒后开门 ***",
+      "KR": "*** 문이 40초 후에 열립니다 ***",
+      "TW": "*** 門在 40 秒後開啟 ***"
+    }
   },
   "*** Press S! ***": {
-    "translation": "***5秒，按S键！***"
+    "translation": "***5秒，按S键！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Sを押してください! ***",
+      "CN": "*** 按S键！***",
+      "KR": "*** S를 누르세요! ***",
+      "TW": "*** 按下 S！***"
+    }
   },
   "*** Press W! ***": {
-    "translation": "***5秒，按W键！***"
+    "translation": "***5秒，按W键！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Wを押してください! ***",
+      "CN": "*** 按W键！***",
+      "KR": "*** W를 누르세요! ***",
+      "TW": "*** 按下 W！***"
+    }
   },
   "*** Shoot it before it touches you! ***": {
-    "translation": "***在它碰到你之前射击它！***"
+    "translation": "***在它碰到你之前射击它！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 自分に触れる前に撃ってください! ***",
+      "CN": "*** 在它碰到你之前射杀它！***",
+      "KR": "*** 몸에 닿기 전에 쏘세요! ***",
+      "TW": "*** 在它碰到你之前射擊它！***"
+    }
   },
   "*** Stand on the green floor! ***": {
-    "translation": "***站在绿色地板上！***"
+    "translation": "***站在绿色地板上！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 緑の床に乗ってください! ***",
+      "CN": "*** 站在绿色地板上！***",
+      "KR": "*** 초록색 바닥에 서세요! ***",
+      "TW": "*** 站在綠色地板上！***"
+    }
   },
   "*** Vent break in 30 seconds ***": {
-    "translation": "***30秒后通风口破裂***"
+    "translation": "***30秒后通风口破裂***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後に換気口が破損します ***",
+      "CN": "*** 30秒后通风口破裂 ***",
+      "KR": "*** 배기구가 30초 후에 부서집니다 ***",
+      "TW": "*** 通風口破裂在 30 秒後 ***"
+    }
   },
   "*** Zombies teleport in 10 seconds ***": {
-    "translation": "***10秒后僵尸传送***"
+    "translation": "***10秒后僵尸传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが10秒後にテレポート ***",
+      "CN": "*** 10秒后僵尸传送 ***",
+      "KR": "*** 좀비가 10초 후에 텔레포트합니다 ***",
+      "TW": "*** 殭屍在 10 秒後傳送到此處 ***"
+    }
   },
   "***Afk teleport in 10 seconds***": {
-    "translation": "***10秒后传送挂机玩家***"
+    "translation": "***10秒后传送挂机玩家***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後にAFKテレポート ***",
+      "CN": "*** 10秒后挂机传送 ***",
+      "KR": "*** 미활동자 10초 후 텔레포트 ***",
+      "TW": "*** AFK 在 10 秒後傳送到此處***"
+    }
   },
   "***Afk teleport in 15 seconds***": {
-    "translation": "***15秒后传送挂机玩家***"
+    "translation": "***15秒后传送挂机玩家***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後にアフレクテレポート***",
+      "CN": "***15秒后传送离开***",
+      "KR": "***아펙트 텔레포트 15초 후***",
+      "TW": "***15秒後傳送離開狀態的單位***"
+    }
   },
   "***Bomb explode in 10 seconds***": {
-    "translation": "***10秒后炸弹爆炸***"
+    "translation": "***10秒后炸弹爆炸***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***爆発まで残り10秒***",
+      "CN": "***10秒后炸弹爆炸***",
+      "KR": "***폭탄 폭발 10초 후***",
+      "TW": "***10秒後炸彈爆炸***"
+    }
   },
   "***Bomb explode in 30 seconds***": {
-    "translation": "***30秒后炸弹爆炸***"
+    "translation": "***30秒后炸弹爆炸***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***爆発まで残り30秒***",
+      "CN": "***30秒后炸弹爆炸***",
+      "KR": "***폭탄 폭발 30초 후***",
+      "TW": "***30秒後炸彈爆炸***"
+    }
   },
   "***Door open in 20 seconds***": {
-    "translation": "***门将在20秒后打开***"
+    "translation": "***门将在20秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***20秒後に扉が開きます***",
+      "CN": "***20秒后开门***",
+      "KR": "***문 열림 20초 후***",
+      "TW": "***20秒後房門開啟***"
+    }
   },
   "***Door open in 45 seconds***": {
-    "translation": "***门将在45秒后打开***"
+    "translation": "***门将在45秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***45秒後に扉が開きます***",
+      "CN": "***45秒后开门***",
+      "KR": "***문 열림 45초 후***",
+      "TW": "***45秒後房門開啟***"
+    }
   },
   "***Teleport activates in 25 seconds***": {
-    "translation": "***25秒后激活传送***"
+    "translation": "***25秒后激活传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***テレポート発動まで残り25秒***",
+      "CN": "***25秒后激活传送***",
+      "KR": "***텔레포트 발동 25초 후***",
+      "TW": "***25秒後啟動傳送***"
+    }
   }
 }

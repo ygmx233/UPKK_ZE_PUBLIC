@@ -1,0 +1,962 @@
+{
+  "*** !? ***": {
+    "translation": "*** !? ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 1 ***": {
+    "translation": "*** 1秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 1秒 ***",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 10 ***": {
+    "translation": "*** 10秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 10秒 ***",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 100seconds ***": {
+    "translation": "*** 100秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 100秒 ***",
+      "CN": "*** 100秒 ***",
+      "KR": "*** 100초 ***",
+      "TW": "*** 100秒 ***"
+    }
+  },
+  "*** 10seconds ***": {
+    "translation": "*** 10秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒 ***",
+      "CN": "*** 10秒 ***",
+      "KR": "*** 10초 ***",
+      "TW": "*** 10秒 ***"
+    }
+  },
+  "*** 180seconds ***": {
+    "translation": "*** 180秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 180秒 ***",
+      "CN": "*** 180秒 ***",
+      "KR": "*** 180초 ***",
+      "TW": "*** 180秒 ***"
+    }
+  },
+  "*** 2 ***": {
+    "translation": "*** 2秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 2秒 ***",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 3 ***": {
+    "translation": "*** 3秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 3秒 ***",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 30 seconds ***": {
+    "translation": "*** 30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒 ***",
+      "CN": "*** 30秒 ***",
+      "KR": "*** 30초 ***",
+      "TW": "*** 30秒 ***"
+    }
+  },
+  "*** 4 ***": {
+    "translation": "*** 4秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 4秒 ***",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 5 ***": {
+    "translation": "*** 5秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 5秒 ***",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 50seconds ***": {
+    "translation": "*** 50秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 50秒 ***",
+      "CN": "*** 50秒 ***",
+      "KR": "*** 50초 ***",
+      "TW": "*** 50秒 ***"
+    }
+  },
+  "*** A zombie picked up Heal Magic ***": {
+    "translation": "*** 一只僵尸拾取了奶 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが回復の魔法を拾った ***",
+      "CN": "*** 一个僵尸拾取了治疗魔法 ***",
+      "KR": "*** 좀비가 치유 마법을 줍니다 ***",
+      "TW": "*** 殭屍拾取了治療魔法 ***"
+    }
+  },
+  "*** A zombie picked up Ice Magic ***": {
+    "translation": "*** 一只僵尸拾取了冰 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが氷の魔法を拾った ***",
+      "CN": "*** 一个僵尸拾取了冰冻魔法 ***",
+      "KR": "*** 좀빙이 얼음 마법을 줍니다 ***",
+      "TW": "*** 殭屍拾取了冰凍魔法 ***"
+    }
+  },
+  "*** A zombie picked up Warp Magic ***": {
+    "translation": "*** 一只僵尸拾取了秒杀 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが転移の魔法を拾った ***",
+      "CN": "*** 一个僵尸拾取了传送魔法 ***",
+      "KR": "*** 좀비가 워프 마법을 줍니다 ***",
+      "TW": "*** 殭屍拾取了躍遷魔法 ***"
+    }
+  },
+  "*** Admin Selected HardMode ***": {
+    "translation": "*** 管理员选择了困难模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者がハードモードを選択 ***",
+      "CN": "*** 管理员已选择困难模式 ***",
+      "KR": "*** 관리자가 HardMode를 선택했습니다 ***",
+      "TW": "*** 管理員選定極難模式 ***"
+    }
+  },
+  "*** Admin Selected NormalMode ***": {
+    "translation": "*** 管理员选择了普通模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者がノーマルモードを選択 ***",
+      "CN": "*** 管理员已选择普通模式 ***",
+      "KR": "*** 관리자가 NormalMode를 선택했습니다 ***",
+      "TW": "*** 管理員選定普通模式 ***"
+    }
+  },
+  "*** Admin Selected SoulMode ***": {
+    "translation": "*** 管理员选择了灵魂模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者がソウルモードを選択 ***",
+      "CN": "*** 管理员已选择灵魂模式 ***",
+      "KR": "*** 관리자가 SoulMode를 선택했습니다 ***",
+      "TW": "*** 管理員選定靈魂模式 ***"
+    }
+  },
+  "*** Admin Selected ThelastMode ***": {
+    "translation": "*** 管理员选择了最终模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者がザラストモードを選択 ***",
+      "CN": "*** 管理员已选择终极模式 ***",
+      "KR": "*** 관리자가 ThelastMode를 선택했습니다 ***",
+      "TW": "*** 管理員選定最終模式 ***"
+    }
+  },
+  "*** Admin Selected ZombiesMode ***": {
+    "translation": "*** 管理员选择了僵尸模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者がゾンビモードを選択 ***",
+      "CN": "*** 管理员已选择僵尸模式 ***",
+      "KR": "*** 관리자가 ZombiesMode를 선택했습니다 ***",
+      "TW": "*** 管理員選定喪屍模式 ***"
+    }
+  },
+  "*** Ancient Elculous Defeated ***": {
+    "translation": "*** 艾尔库鲁斯已被击败 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 古代エルクロス撃破 ***",
+      "CN": "*** 远古厄古洛斯已被击败 ***",
+      "KR": "*** 고대 엘쿨러스 격파 ***",
+      "TW": "*** 擊敗古代艾爾庫羅斯 ***"
+    }
+  },
+  "*** Defend ***": {
+    "translation": "*** 防守 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ディフェンデ ***",
+      "CN": "*** 防守 ***",
+      "KR": "*** 방어 ***",
+      "TW": "*** 守衛 ***"
+    }
+  },
+  "*** Defend the final 35 seconds ***": {
+    "translation": "*** 最后防守35秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後の35秒を守れ ***",
+      "CN": "*** 坚守最后35秒 ***",
+      "KR": "*** 마지막 35초간 방어 ***",
+      "TW": "*** 守衛最後35秒 ***"
+    }
+  },
+  "*** Double Hand Stomp ***": {
+    "translation": "*** 3秒，双手捶地，保持跳跃 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 両手踏み付け ***",
+      "CN": "*** 双手跺地 ***",
+      "KR": "*** 양손 발차기 ***",
+      "TW": "***雙手猛擊***"
+    }
+  },
+  "*** Earth Quake ***": {
+    "translation": "*** 3秒，地震，一直跳 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 大地震 ***",
+      "CN": "*** 地震 ***",
+      "KR": "*** 지진 ***",
+      "TW": "***地震***"
+    }
+  },
+  "*** Escape ***": {
+    "translation": "*** 撤退 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エスケープ ***",
+      "CN": "*** 逃脱 ***",
+      "KR": "*** 탈출 ***",
+      "TW": "***逃脫***"
+    }
+  },
+  "*** Golem Ahglan Defeated ***": {
+    "translation": "*** 巨像阿格兰已被击败 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゴレム・アグラン撃破 ***",
+      "CN": "*** 石像鬼阿格兰被击败 ***",
+      "KR": "*** 골렘 아글란 격파 ***",
+      "TW": "石巨人亞格朗被擊敗***"
+    }
+  },
+  "*** Gravity ***": {
+    "translation": "*** 3秒，黑洞，按住S ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 重力 ***",
+      "CN": "*** 重力 ***",
+      "KR": "*** 중력 ***",
+      "TW": "***重力***"
+    }
+  },
+  "*** Grim Reaper defeated ***": {
+    "translation": "*** 死神已被击败 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 死神撃破 ***",
+      "CN": "*** 死神被击败 ***",
+      "KR": "*** Grim Reaper 격파 ***",
+      "TW": "死神被擊敗***"
+    }
+  },
+  "*** Hand Attack ***": {
+    "translation": "*** 3秒，手掌攻击，看准时机跳 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 手攻撃 ***",
+      "CN": "*** 手部攻击 ***",
+      "KR": "*** 손 공격 ***",
+      "TW": "***手部攻擊***"
+    }
+  },
+  "*** It going to break ***": {
+    "translation": "*** 桥梁即将断裂 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 壊れそう ***",
+      "CN": "*** 即将碎裂 ***",
+      "KR": "*** 깨져 나간다 ***",
+      "TW": "***即將瓦解***"
+    }
+  },
+  "*** Its getting dark.... ***": {
+    "translation": "*** 天色渐暗.... ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 暗くなってきた… ***",
+      "CN": "*** 天快黑了.... ***",
+      "KR": "***어둠이 내려간다...***",
+      "TW": "*** 天色漸暗.... ***"
+    }
+  },
+  "*** Moving to NORMAL mode ***": {
+    "translation": "*** 调关至普通模式 ***",
+    "MultiLang": {
+      "US": "*** Switching to NORMAL mode ***",
+      "JP": "*** 通常モードに切り替え中 ***",
+      "CN": "*** 切换至普通模式 ***",
+      "KR": "***NORMAL 모드로 전환 중***",
+      "TW": "*** 切換至普通模式 ***"
+    }
+  },
+  "*** Open in 10seconds ***": {
+    "translation": "*** 10秒后开门 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後にオープン ***",
+      "CN": "*** 10秒后开启 ***",
+      "KR": "***10초 후 오픈***",
+      "TW": "*** 10秒後開啟 ***"
+    }
+  },
+  "*** Open in 20seconds ***": {
+    "translation": "*** 20秒后开门 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にオープン ***",
+      "CN": "*** 20秒后开启 ***",
+      "KR": "***20초 후 오픈***",
+      "TW": "*** 20秒後開啟 ***"
+    }
+  },
+  "*** The Gates are going to open in 45 seconds***": {
+    "translation": "*** 大门将在45秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 門が45秒後に開放されます ***",
+      "CN": "*** 45秒后开启传送门 ***",
+      "KR": "***Gate가 45초 후 열립니다***",
+      "TW": "*** 大門將在45秒後開啟 ***"
+    }
+  },
+  "*** The LeftGate is unlocked ***": {
+    "translation": "*** 左门已解锁 ***",
+    "MultiLang": {
+      "US": "*** LeftGate Unlocked ***",
+      "JP": "*** 左のゲートがロック解除されました ***",
+      "CN": "*** 左侧大门已解锁 ***",
+      "KR": "***LeftGate 잠금 해제***",
+      "TW": "*** 左側大門已解鎖 ***"
+    }
+  },
+  "*** The RightGate is unlocked ***": {
+    "translation": "*** 右门已解锁 ***",
+    "MultiLang": {
+      "US": "*** RightGate Unlocked ***",
+      "JP": "*** 右のゲートがロック解除されました ***",
+      "CN": "*** 右侧大门已解锁 ***",
+      "KR": "***RightGate 잠금 해제***",
+      "TW": "*** 右側大門已解鎖 ***"
+    }
+  },
+  "*** The Soul was killed ***": {
+    "translation": "*** 魂球已被击杀 ***",
+    "MultiLang": {
+      "US": "*** The Soul Was Killed ***",
+      "JP": "*** ソウルが倒されました ***",
+      "CN": "*** 灵魂已被消灭 ***",
+      "KR": "***소ул이 사멸함***",
+      "TW": "*** 靈魂已被殲滅 ***"
+    }
+  },
+  "*** The vents are going to open ***": {
+    "translation": "*** 下水道出口即将打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 換気口が開放されます ***",
+      "CN": "***通风口即将开启***",
+      "KR": "*** 벤트가 열립니다 ***",
+      "TW": "*** 通風口即將開啟 ***"
+    }
+  },
+  "*** Wind ***": {
+    "translation": "*** 3秒，风，按住W ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 風 ***",
+      "CN": "***风力***",
+      "KR": "*** 바람 ***",
+      "TW": "*** 風 ***"
+    }
+  },
+  "*** failed ***": {
+    "translation": "*** 失败 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 失敗 ***",
+      "CN": "***失败***",
+      "KR": "*** 실패 ***",
+      "TW": "*** 失敗 ***"
+    }
+  },
+  "***Defend 15seconds***": {
+    "translation": "*** 防守15秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒間守備 ***",
+      "CN": "***坚守15秒***",
+      "KR": "*** 15초 동안 방어하기 ***",
+      "TW": "***防禦15秒***"
+    }
+  },
+  "***Defend 20 seconds***": {
+    "translation": "*** 防守20秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒間守備 ***",
+      "CN": "***坚守20秒***",
+      "KR": "*** 20초 동안 방어하기 ***",
+      "TW": "***防禦20秒***"
+    }
+  },
+  "***Defend 20seconds***": {
+    "translation": "*** 防守20秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒間守衛 ***",
+      "CN": "***坚守20秒***",
+      "KR": "*** 20초 동안 방어하기 ***",
+      "TW": "***防禦20秒***"
+    }
+  },
+  "***Defend 25 seconds***": {
+    "translation": "*** 防守25秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒間守備 ***",
+      "CN": "***坚守25秒***",
+      "KR": "*** 25초 동안 방어하기 ***",
+      "TW": "***防禦25秒***"
+    }
+  },
+  "***Defend 25seconds***": {
+    "translation": "*** 防守25秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒間守衛 ***",
+      "CN": "***坚守25秒***",
+      "KR": "*** 25초 동안 방어하기 ***",
+      "TW": "***防禦25秒***"
+    }
+  },
+  "***Defend 30seconds***": {
+    "translation": "*** 防守30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間防衛",
+      "CN": "***防守30秒***",
+      "KR": "***30초 방어***",
+      "TW": "***防禦30秒***"
+    }
+  },
+  "***Defend 35seconds***": {
+    "translation": "*** 防守35秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒間防衛",
+      "CN": "***防守35秒***",
+      "KR": "***35초 방어***",
+      "TW": "***防禦35秒***"
+    }
+  },
+  "***Defend more 15seconds***": {
+    "translation": "*** 再防守15秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "さらに15秒間防衛",
+      "CN": "***再多防守15秒***",
+      "KR": "***15초 더 방어***",
+      "TW": "***防禦再加15秒***"
+    }
+  },
+  "***Failed***": {
+    "translation": "*** 失败 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "失敗",
+      "CN": "***失败***",
+      "KR": "***실패***",
+      "TW": "***失敗***"
+    }
+  },
+  "***Hold 15seconds***": {
+    "translation": "*** 防守15秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間保持",
+      "CN": "***坚守15秒***",
+      "KR": "***15초 유지***",
+      "TW": "***持續15秒***"
+    }
+  },
+  "***Hold 20seconds***": {
+    "translation": "*** 防守20秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間保持",
+      "CN": "***坚守20秒***",
+      "KR": "***20초 유지***",
+      "TW": "***持續20秒***"
+    }
+  },
+  "***Hold 25 seconds***": {
+    "translation": "*** 防守25秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間保持",
+      "CN": "***坚守25秒***",
+      "KR": "***25초 유지***",
+      "TW": "***持續25秒***"
+    }
+  },
+  "***Hold 25seconds***": {
+    "translation": "*** 防守25秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間保持",
+      "CN": "***坚守25秒***",
+      "KR": "***25초 유지***",
+      "TW": "***持續25秒***"
+    }
+  },
+  "***Hold 30seconds***": {
+    "translation": "*** 防守30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒間押し続けます***",
+      "CN": "***按住30秒***",
+      "KR": "***30초간 유지***",
+      "TW": "按住30秒"
+    }
+  },
+  "***Keep Defending 30 seconds***": {
+    "translation": "*** 继续防守30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒間守備を維持***",
+      "CN": "***坚守防御30秒***",
+      "KR": "***30초간 방어 유지***",
+      "TW": "持續防禦30秒"
+    }
+  },
+  "***Middle Gate open in 20 seconds***": {
+    "translation": "*** 中门将在20秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***中門が20秒後に開きます***",
+      "CN": "***中路城门将在20秒后开启***",
+      "KR": "***중문 20초 후 개방***",
+      "TW": "中門將在20秒後開啟"
+    }
+  },
+  "***Survive in 180 seconds***": {
+    "translation": "*** 生存180秒 ***",
+    "MultiLang": {
+      "US": "***Survive for 180 seconds***",
+      "JP": "***180秒間生存***",
+      "CN": "***坚持生存180秒***",
+      "KR": "***180초간 생존***",
+      "TW": "存活180秒"
+    }
+  },
+  "***The Last Gate is going to close in 35 seconds. Defend***": {
+    "translation": "*** 最后一扇门将在35秒后关闭，防守 ***",
+    "MultiLang": {
+      "US": "***The Last Gate will close in 35 seconds. Defend***",
+      "JP": "***最後の門が35秒後に閉まります。防衛してください***",
+      "CN": "***最后一道城门将在35秒后关闭。请坚守***",
+      "KR": "***최후의 문이 35초 후 닫힙니다. 방어하세요***",
+      "TW": "最後一扇門將在35秒後關閉，請防禦"
+    }
+  },
+  "***The Last Gate is going to close in 45 seconds***": {
+    "translation": "*** 最后一扇门将在45秒后关闭 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***最後の門が45秒後に閉まります***",
+      "CN": "***最后一道城门将在45秒后关闭***",
+      "KR": "***최후의 문이 45초 후 닫힙니다***",
+      "TW": "最後一扇門將在45秒後關閉"
+    }
+  },
+  "***The Last gates will open in 190seconds***": {
+    "translation": "*** 最后一扇门将在190秒后打开 ***",
+    "MultiLang": {
+      "US": "***The Last Gates Will Open in 190 Seconds***",
+      "JP": "***最後の門が190秒後に開きます***",
+      "CN": "***最后一批城门将在190秒后开启***",
+      "KR": "***최후의 문들이 190초 후 개방됩니다***",
+      "TW": "最後的門将在190秒後開啟"
+    }
+  },
+  "***The LeftGate is going to open in 40 seconds***": {
+    "translation": "*** 左门将在40秒后打开 ***",
+    "MultiLang": {
+      "US": "***The LeftGate will open in 40 seconds***",
+      "JP": "***左の門が40秒後に開きます***",
+      "CN": "***左侧城门将在40秒后开启***",
+      "KR": "***왼쪽 문이 40초 후 개방됩니다***",
+      "TW": "左門將在40秒後開啟"
+    }
+  },
+  "***The MetalGate is going to break in 20seconds***": {
+    "translation": "*** 金属门将在20秒后破裂 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "メタルゲートが20秒後に開放されます",
+      "CN": "***金属门将在20秒后破碎***",
+      "KR": "***메탈게이트가 20초 후에 파열됩니다***",
+      "TW": "***金門將在 20 秒後破裂***"
+    }
+  },
+  "***The RightGate is going to open in 40 seconds***": {
+    "translation": "*** 右门将在40秒后打开 ***",
+    "MultiLang": {
+      "US": "***The RightGate will open in 40 seconds***",
+      "JP": "右側ゲートが40秒後に開放されます",
+      "CN": "***右侧闸门将在40秒后开启***",
+      "KR": "***오른쪽 게이트가 40초 후에 열립니다***",
+      "TW": "***右側的大門將在 40 秒後開啟***"
+    }
+  },
+  "***You won Hard Mode***": {
+    "translation": "*** 你赢得了困难模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハードモードをクリアしました",
+      "CN": "***您已通关简单难度***",
+      "KR": "***하드 모드 클리어***",
+      "TW": "***您獲得了困難模式勝利***"
+    }
+  },
+  "***You won Normal Mode***": {
+    "translation": "*** 你赢得了普通模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ノーマルモードをクリアしました",
+      "CN": "***您已通关普通难度***",
+      "KR": "***노멀 모드 클리어***",
+      "TW": "***您獲得了普通模式勝利***"
+    }
+  },
+  "***You won Soul Mode***": {
+    "translation": "*** 你赢得了灵魂模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ソウルモードをクリアしました",
+      "CN": "***您已通关灵魂模式***",
+      "KR": "***소울 모드 클리어***",
+      "TW": "***您獲得了靈魂模式勝利***"
+    }
+  },
+  "***You won TheLast Mode***": {
+    "translation": "*** 你赢得了最终模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終モードをクリアしました",
+      "CN": "***您已通关TheLast模式***",
+      "KR": "***TheLast 모드 클리어***",
+      "TW": "***您獲得了最後模式勝利***"
+    }
+  },
+  "***You won Thelast Mode***": {
+    "translation": "*** 你赢得了最终模式 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終モードをクリアしました",
+      "CN": "***您已通关Thelast模式***",
+      "KR": "***Thelast 모드 클리어***",
+      "TW": "***您獲得了最後模式勝利***"
+    }
+  },
+  "*A player has picked up Ancient Earth Magic*": {
+    "translation": "*** 一名玩家拾取了土 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが古代の土魔術を取得しました",
+      "CN": "*一名玩家已拾取古代地系魔法*",
+      "KR": "*플레이어가 고대 토지 마법을 수락했습니다*",
+      "TW": "*一名玩家拾取了古代地之魔法*"
+    }
+  },
+  "*A player has picked up Fire Magic*": {
+    "translation": "*** 一名玩家拾取了火 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*あるプレイヤーが火魔法を手に入れた*",
+      "CN": "*一名玩家拾取了火焰魔法*",
+      "KR": "*한 플레이어가 화염 마법을 획득했습니다*",
+      "TW": "*一位玩家拾取了火焰魔法*"
+    }
+  },
+  "*A player has picked up Heal Magic*": {
+    "translation": "*** 一名玩家拾取了奶 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*あるプレイヤーが回復魔法を手に入れた*",
+      "CN": "*一名玩家拾取了治疗魔法*",
+      "KR": "*한 플레이자가 치유 마법을 획득했습니다*",
+      "TW": "*一位玩家拾取了治療魔法*"
+    }
+  },
+  "*A player has picked up Ice Magic*": {
+    "translation": "*** 一名玩家拾取了冰 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*あるプレイヤーが氷魔法を手に入れた*",
+      "CN": "*一名玩家拾取了冰霜魔法*",
+      "KR": "*한 플레이자가 얼음 마법을 획득했습니다*",
+      "TW": "*一位玩家拾取了冰霜魔法*"
+    }
+  },
+  "*A player has picked up Wind Magic*": {
+    "translation": "*** 一名玩家拾取了风 ***",
+    "MultiLang": {
+      "US": "*A player has acquired Wind Magic*",
+      "JP": "*あるプレイヤーが風魔法を手に入れた*",
+      "CN": "*一名玩家拾取了风之魔法*",
+      "KR": "*한 플레이자가 바람 마법을 획득했습니다*",
+      "TW": "*一位玩家拾取了風元素魔法*"
+    }
+  },
+  "< ??? >": {
+    "translation": "< ??? >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< A?nCie?? E??R?? >": {
+    "translation": "< A?nCie?? E??R?? >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "***安妮?? 埃蕾??***",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Thanks for playing >": {
+    "translation": "< 感谢你的游玩 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ゲームをプレイしていただきありがとうございます >",
+      "CN": "< 感谢你的游玩 >",
+      "KR": "< 게임을 즐겨주셔서 감사합니다 >",
+      "TW": "感謝您遊玩"
+    }
+  },
+  "< ze_genso_of_last_v3 >": {
+    "translation": "< ze_genso_of_last_v3 遥远的理想乡>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< ze_genso_of_last_v3 遥远的理想乡>",
+      "KR": "",
+      "TW": "<最後靈魂_of_最終_v3>"
+    }
+  },
+  ">>> Failed <<<": {
+    "translation": ">>> 失败 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 失敗 <<<",
+      "CN": "<<< 失败 >>>",
+      "KR": ">>> 실패 <<<",
+      "TW": ">>> 失敗 <<<"
+    }
+  },
+  "Map by Pohmian/Mochi": {
+    "translation": "地图作者：Pohmian/Mochi 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "制作: Pohmian/Mochi",
+      "CN": "地图作者：Pohmian/Mochi",
+      "KR": "맵 제작: Pohmian/Mochi",
+      "TW": "地圖製作：Pohmian/Mochi"
+    }
+  },
+  "Map by XXPohmian/XXMochi": {
+    "translation": "地图作者：XXPohmian/XXMochi 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "制作: XXPohmian/XXMochi",
+      "CN": "地图制作：XXPohmian/XXMochi",
+      "KR": "맵 제작: XXPohmian/XXMochi",
+      "TW": "地圖製作：XXPohmian/XXMochi"
+    }
+  },
+  "Port by 三百度幸运12121": {
+    "translation": "地图移植：三百度幸运12121",
+    "MultiLang": {
+      "US": "Port by 三百度幸运12121",
+      "JP": "Port by 三百度幸运12121",
+      "CN": "地图移植：三百度幸运12121",
+      "KR": "포트 제작: 三百度幸运12121",
+      "TW": "端口移植：三百度幸运12121"
+    }
+  },
+  "[HARD MODE - Search The Genso to Escape]": {
+    "translation": "[困难模式 - 在理想乡中探寻逃离之路]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ハードモード - 幻界を捜索して脱出せよ]",
+      "CN": "[HARD MODE - 寻找幻之境界以逃脱]",
+      "KR": "[하드 모드 - Genso 탈출을 위한 탐색]",
+      "TW": "[極限模式 - 搜尋幻象以求脫身]"
+    }
+  },
+  "[Hard Mode]": {
+    "translation": "[困难模式]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ハードモード]",
+      "CN": "[困难模式]",
+      "KR": "[하드 모드]",
+      "TW": "[極限模式]"
+    }
+  },
+  "[NORMAL MODE - Welcome to the Genso]": {
+    "translation": "[普通模式 - 欢迎来到理想乡]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ノーマルモード - 幻界へようこそ]",
+      "CN": "[普通模式 - 欢迎来到幻境]",
+      "KR": "[노멀 모드 - Genso에 오신 것을 환영합니다]",
+      "TW": "[普通模式 - 歡迎來到幻象世界]"
+    }
+  },
+  "[Normal Mode]": {
+    "translation": "[普通模式]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ノーマルモード]",
+      "CN": "[普通模式]",
+      "KR": "[노멀 모드]",
+      "TW": "[普通模式]"
+    }
+  },
+  "[SOUL MODE - Escape From The Genso]": {
+    "translation": "[灵魂模式 - 从理想乡的幽境中逃脱]",
+    "MultiLang": {
+      "US": "[Soul Mode - Escape from the Genso]",
+      "JP": "[ソウルモード - 幻界から脱出せよ]",
+      "CN": "[灵魂模式 - 逃离幻境]",
+      "KR": "[소울 모드 - Genso에서의 탈출]",
+      "TW": "[靈魂模式 - 從幻象中逃脫]"
+    }
+  },
+  "[Soul Mode]": {
+    "translation": "[灵魂模式]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ソウルモード]",
+      "CN": "[灵魂模式]",
+      "KR": "[소울 모드]",
+      "TW": "[靈魂模式]"
+    }
+  },
+  "[THELAST MODE - The Genso is Going to end]": {
+    "translation": "[最终模式 - 理想乡的终焉]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ザラストモード - 幻界が終焉を迎える]",
+      "CN": "[最终模式 - 幻境即将终结]",
+      "KR": "[데스트레스트 모드 - Genso의 종말]",
+      "TW": "[最終模式 - 幻象即將終結]"
+    }
+  },
+  "[TheLast Mode]": {
+    "translation": "[最终模式]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ザラストモード]",
+      "CN": "[最终模式]",
+      "KR": "[데스트레스트 모드]",
+      "TW": "[最終模式]"
+    }
+  },
+  "[WARM-UP ROUND 50SECONDS]": {
+    "translation": "[热身回合50秒]",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ウォーミングアップ ラウンド 50秒】",
+      "CN": "[热身赛 50秒]",
+      "KR": "[예선 라운드 50초]",
+      "TW": "[熱身回合 50秒]"
+    }
+  },
+  "[ZOMBIES MODE - The Genso Ended]": {
+    "translation": "[僵尸模式 - 理想乡的黄昏]",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビモード - 幻の終了",
+      "CN": "[僵尸模式 - 幻象终结]",
+      "KR": "[ 좀비 모드 - 환상 종료 ]",
+      "TW": "[殭屍模式 - 幻境已結束]"
+    }
+  },
+  "[Zombies Mode]": {
+    "translation": "[僵尸模式]",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビモード",
+      "CN": "[僵尸模式]",
+      "KR": "[ 좀비 모드 ]",
+      "TW": "[殭屍模式]"
+    }
+  },
+  "***The Last Gate completely closed in 55 seconds***": {
+    "translation": "***最后一扇门将在55秒内完全关闭***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***最後のゲートが55秒以内に完全に閉鎖されました***",
+      "CN": "***最后一扇门已在55秒内完全关闭***",
+      "KR": "***55초 내에 마지막 관문이 완전히 닫혔습니다***",
+      "TW": "***最後的門已在55秒內完全關閉***"
+    }
+  },
+  "7.30test1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

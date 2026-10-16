@@ -1,35 +1,112 @@
 {
   "*** You took way too long ! ***": {
-    "translation": "*** 你花的时间太长了 ***"
+    "translation": "*** 你花的时间太长了 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 時間かかりすぎ！ ***",
+      "CN": "*** 你花的时间太久了！***",
+      "KR": "*** 시간이 너무 오래걸렸어요 ! ***",
+      "TW": "*** 你太慢了！***"
+    }
   },
   "**Boat will arrive in 30 seconds**": {
-    "translation": "**船将在 30 秒后到达**"
+    "translation": "**船将在 30 秒后到达**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒後に船が到着 **",
+      "CN": "**船只将在30秒后到达**",
+      "KR": "**보트가 30초 후에 도착합니다**",
+      "TW": "**船隻將在30秒後抵達**"
+    }
   },
   "**Elevator is leaving in 35s**": {
-    "translation": "**电梯将在 35 秒后离开"
+    "translation": "**电梯将在 35 秒后离开",
+    "MultiLang": {
+      "US": "***Elevator leaves in 35s***",
+      "JP": "** エレベーター、35秒後に出発 **",
+      "CN": "**电梯将在35秒后离开**",
+      "KR": "**엘리베이터가 35초 후 떠납니다**",
+      "TW": "**電梯即將在35秒後離開**"
+    }
   },
   "**Elevator is leaving in 5s**": {
-    "translation": "**电梯5秒后离开"
+    "translation": "**电梯5秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "** エレベーター、5秒後に出発 **",
+      "CN": "**电梯将在5秒后离开**",
+      "KR": "**엘리베이터가 5초 후 떠납니다**",
+      "TW": "**電梯即將在5秒後離開**"
+    }
   },
   "** Boss Fight in 5s **": {
-    "translation": "** 5秒后打BOSS"
+    "translation": "** 5秒后打BOSS",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボス戦開始、5秒後 **",
+      "CN": "** Boss战 5秒后开始 **",
+      "KR": "** 보스전 5초 뒤 **",
+      "TW": "** Boss 戰將在5秒後開始 **"
+    }
   },
   "** Boss Fight in 10s **": {
-    "translation": "** 10秒后打BOSS"
+    "translation": "** 10秒后打BOSS",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボス戦開始、10秒後 **",
+      "CN": "** Boss战 10秒后开始 **",
+      "KR": "** 보스전 10초 뒤 **",
+      "TW": "** Boss 戰將在10秒後開始 **"
+    }
   },
   "** Nades do more damage **": {
-    "translation": "手雷造成更多伤害"
+    "translation": "手雷造成更多伤害",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ナードのダメージが増加 **",
+      "CN": "** 手榴弹伤害更高 **",
+      "KR": "** 낙하산이 더 큰 피해를 줍니다 **",
+      "TW": "** 手榴彈傷害更高 **"
+    }
   },
   "** Boss is dead - Escape ! **": {
-    "translation": "BOSS已死 - 逃脱！**"
+    "translation": "BOSS已死 - 逃脱！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボス撃破 - 脱出せよ！**",
+      "CN": "** Boss已死亡 - 撤离！**",
+      "KR": "** 보스가 처치됨 - 탈출 ! **",
+      "TW": "** Boss 已死亡 - 逃離！**"
+    }
   },
   "**The door will open in 30 seconds. Cover!!**": {
-    "translation": "**门将在 30 秒后打开。掩护！"
+    "translation": "**门将在 30 秒后打开。掩护！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが30秒後に開きます。掩護せよ！！",
+      "CN": "门将在30秒后打开，准备进攻！！",
+      "KR": "**30초 후 문이 열립니다. 보호자!**",
+      "TW": "門將在30秒後打開。掩護！！"
+    }
   },
   "**The door will open in 45 seconds. Cover!!**": {
-    "translation": "**门将在 45 秒后打开。掩护！"
+    "translation": "**门将在 45 秒后打开。掩护！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが45秒後に開きます。掩護せよ！！",
+      "CN": "门将在45秒后打开，准备进攻！！",
+      "KR": "**45초 후 문이 열립니다. 보호자!**",
+      "TW": "門將在45秒後打開。掩護！！"
+    }
   },
   "**Door is open 10 sec**": {
-    "translation": "**门在 10 秒后打开**"
+    "translation": "**门在 10 秒后打开**",
+    "MultiLang": {
+      "US": "***Door open in 10 sec***",
+      "JP": "ドアは10秒間開放されます",
+      "CN": "门已开启，限时10秒",
+      "KR": "문이 10초간 열린다",
+      "TW": "門開啟10秒"
+    }
   }
 }

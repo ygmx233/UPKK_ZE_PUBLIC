@@ -1,0 +1,612 @@
+{
+  "严禁在正式社区服游玩此版本！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Strictly prohibited to play this version on official community servers!",
+      "JP": "公式コミュニティサーバーでこのバージョンをプレイすることは厳禁です！",
+      "CN": "",
+      "KR": "이 버전은 공식 커뮤니티 서버에서 사용하지 마십시오!",
+      "TW": "嚴禁在正式社區服遊玩此版本！"
+    }
+  },
+  "DO NOT RUN MAP AT SERVER": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サーバーでマップを起動しないでください",
+      "CN": "请勿在服务器运行地图",
+      "KR": "서버에서는 맵을 실행하지 마세요",
+      "TW": "請勿在此伺服器上執行地圖"
+    }
+  },
+  "Devil Breaker >Ragtime< Obtained": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "デビルブレイカー >ラグタイム< 入手済",
+      "CN": "恶魔终结者 >Ragtime< 已获得",
+      "KR": "디브레이커 >래그타임< 획득",
+      "TW": "獲得惡魔獵人 >Ragtime<"
+    }
+  },
+  "Devil Hunter >Nero< has join the game!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "デビルハンター >ネロ< がゲームに参加しました！",
+      "CN": "恶魔猎人 >Nero< 已加入游戏！",
+      "KR": "데빌 헌터 >네로<가 게임에 참가했습니다!",
+      "TW": "惡魔獵人 >Nero< 已加入遊戲！"
+    }
+  },
+  "reset": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リセット",
+      "CN": "重置",
+      "KR": "초기화",
+      "TW": "重置"
+    }
+  },
+  "Devil Breaker >Sweet Surrender< Obtained": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "デビルブレイカー >スイートサレンダー< 入手済",
+      "CN": "恶魔终结者 >Sweet Surrender< 已获得",
+      "KR": "디브레이커 >스위트 서렌더< 획득",
+      "TW": "獲得惡魔獵人 >Sweet Surrender<"
+    }
+  },
+  "Devil Breaker >Rawhide< Obtained": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "デビルブレイカー >ローハイド< 入手済",
+      "CN": "恶魔终结者 >Rawhide< 已获得",
+      "KR": "디브레이커 >롤코타나< 획득",
+      "TW": "獲得惡魔獵人 >Rawhide<"
+    }
+  },
+  "< Map by @Seth (英俊) >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">Nero: What am i doin',wasting my time here?He's got this.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ネロ：俺、ここで時間を無駄にしてなんでんだ？こいつならできそうだぞ。",
+      "CN": ">Nero：我在干什么，在这里浪费我的时间？他能搞定。",
+      "KR": ">네로: 내가 여기서 뭘 하고 있지? 시간을 낭비하는 건데... 저 녀석이 할 거야.",
+      "TW": ">Nero：我在做什麼，浪費時間在這裡？他會有辦法的。"
+    }
+  },
+  "> Zombie Item's ability unlock in 20 sec. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビアイテムの能力が20秒後に開放されます。",
+      "CN": "<20 秒后解锁僵尸物品能力>",
+      "KR": "좀비 아이템의 능력 해제까지 20초 남음.",
+      "TW": "> 殭屍道具的權限將於 20 秒後解鎖。<"
+    }
+  },
+  ">V: You should not underestimate this demon.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：この悪魔を過小評価するな。",
+      "CN": ">V：你不该小看这个恶魔。",
+      "KR": "V: 너는 이 악마를 과소평가해서는 안 된다.",
+      "TW": "> V：你不應該輕視這股邪惡勢力。"
+    }
+  },
+  ">V: After all,It was he who took your right arm...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：あの男はお前の右腕を奪った人物だ…",
+      "CN": ">V：毕竟，是他夺走了你的右臂……",
+      "KR": "V: 결국 그대가 네 오른팔을 앗아간 자는...",
+      "TW": "> V：畢竟，曾奪走你右臂的就是他……"
+    }
+  },
+  ">V: ...and gained a great deal of power from it.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：そして、それによって莫大な力を得たのだ。",
+      "CN": ">V：……并从中获得了巨大的力量。",
+      "KR": "V: ...그리고 그것으로부터 막대한 힘을 얻었지.",
+      "TW": "> V：並從中獲得了強大的力量。"
+    }
+  },
+  ">V: I'm leaving.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：私は去る。",
+      "CN": ">V：我要走了。",
+      "KR": "V: 나는 떠난다.",
+      "TW": "> V：我要走了。"
+    }
+  },
+  ">V: I'm suggest you do not fall behind.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：お前の後を追いかけるよう勧めようか。",
+      "CN": ">V：我建议你别掉队。",
+      "KR": "V: 너는 뒤처지지 않길 권한다.",
+      "TW": "> V：我勸你最好別落在後面。"
+    }
+  },
+  ">Nero: Yeah...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネロ：うん…",
+      "CN": ">Nero：是啊……",
+      "KR": "네로: 응...",
+      "TW": "> Nero：是啊……"
+    }
+  },
+  "< Zombie Item's ability has unlocked. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">Nero: Ok V...You're an interesting guy,But you're right.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネロ：よかろう、V…お前は興味深い男だ。だが、お前の言う通りだ。",
+      "CN": ">Nero：好吧，V……你是个有趣的人，但你说得对。",
+      "KR": "네로: 알았어 V... 너는 흥미로운 놈이긴 해. 하지만 네 말이 맞지.",
+      "TW": "> Nero：好吧 V……你確實是個有趣的人，但你也沒說錯。"
+    }
+  },
+  ">Nero: I've got a score to settle with that son of a bitch.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ネロ：あんな畜生とは清算だ",
+      "CN": ">Nero：我得去跟那个混蛋算算账。",
+      "KR": ">네로: 그 개자식과는 한판 붙어야 해.",
+      "TW": ">尼祿：我這筆帳要那個雜種好好算清楚。"
+    }
+  },
+  "< 1/4 Soul stone found. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Max health up to 125. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 2/4 Soul stone found. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Max health up to 150. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "> 20 <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 3/4 Soul stone found. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Max health up to 175. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">Nero: Hey,jackass!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ネロ：おい、痴漢野郎！",
+      "CN": ">尼禄：嘿，贱人！",
+      "KR": ">네로: 야, 씨발!",
+      "TW": ">尼祿：喂，渾蛋！"
+    }
+  },
+  ">Nero: Didn't your mother ever teach you it's not nice to steal?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ネロ：お母さんに盗みは良くないと教えられてなかったのか？",
+      "CN": ">尼禄：你妈没教过你不能随便偷东西吗？",
+      "KR": ">네로: 어머니께서 도둑놈은 나쁜 놈이라고 가르쳐 주지 않으셨나?",
+      "TW": ">尼祿：妳媽媽沒教過妳偷東西是不好的嗎？"
+    }
+  },
+  ">Nero: Sorry,Dante...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ネロ：ごめん、ダンテ…",
+      "CN": ">尼禄：对不起，但丁……",
+      "KR": ">네로: sorry, 단테...",
+      "TW": ">尼祿：對不起，但丁……"
+    }
+  },
+  ">Nero: I'm baggin' this bitch!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ネロ：この野郎を仕留めてやる！",
+      "CN": ">尼禄：老子今天要把你给撂了！",
+      "KR": ">네로: 이 새끼는 내가 잡는다!",
+      "TW": ">尼祿：老娘要把這婊子打包！"
+    }
+  },
+  ">???: ...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">Dante: Round two!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ダンテ：ラウンド２！",
+      "CN": ">但丁：再来一轮！",
+      "KR": ">단테: 라운드 2!",
+      "TW": ">但丁：再來過一次吧！"
+    }
+  },
+  ">Dante: V,Get Nero out of here!This was a bad move!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ダンテ：Ｖ、ネロをここで引き離せ！これは危険な選択だ！",
+      "CN": ">但丁：V，把尼禄带离这里！这是个失误！",
+      "KR": ">단테: V, 네로를 여기서 꺼내! 잘못된 선택이었어!",
+      "TW": ">但丁：V，把尼祿帶離這裡！這是個失策！"
+    }
+  },
+  "> Seal off in 20 sec. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 封鎖まで20秒<",
+      "CN": "> 20秒后封锁。",
+      "KR": "> 20초 후 격납完毕.",
+      "TW": "<密封程序倒計時 20 秒。>"
+    }
+  },
+  ">Nero: I can still fight!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネロ：まだ戦える！",
+      "CN": ">尼禄：我还能打！",
+      "KR": ">네로: 나는 아직 전투할 수 있어!",
+      "TW": ">尼禄：我還打得！"
+    }
+  },
+  ">Dante: Nero,go!You're just dead weight.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ダンテ：ネロ、行くんだ！お前はただの足手まといだ。",
+      "CN": ">但丁： Nero，上！你纯粹是个累赘。",
+      "KR": ">덴테: 너로, 가봐! 넌 그냥 짐일 뿐이야.",
+      "TW": ">但丁：尼祿，上！你只是個累贅。"
+    }
+  },
+  ">Nero: Back off!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネロ：下がれ！",
+      "CN": ">Nero：别碰我！",
+      "KR": ">네로: 물러서!",
+      "TW": ">尼祿：退開！"
+    }
+  },
+  ">Nero: That bastard called me dead weight!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネロ：あのクソ野郎、俺を足手まといだと称した！?",
+      "CN": ">Nero：那混蛋居然说我是个累赘！",
+      "KR": ">네로: 그 새끼가 나를 짐이라고 불렀다!",
+      "TW": ">尼祿：那個雜種竟叫我累贅！"
+    }
+  },
+  ">Nero: I didn't come all this way for nothing!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネロ：ここに辿り着くためにここまできたんだ、無駄にしたりはしない！",
+      "CN": ">Nero：我这一路走来绝非徒劳！",
+      "KR": ">네로: 내가 여기까지 온 것은 헛되지 않았어!",
+      "TW": ">尼祿：我絕不白來這一趟！"
+    }
+  },
+  ">V: Stop hitting yourself.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：自分を殴り続けるのはやめて。",
+      "CN": ">V：别打自己了。",
+      "KR": ">V: 너 자신을 때리는 것을 멈춰.",
+      "TW": ">V：別打自己了。"
+    }
+  },
+  ">V: And think of ways to get stronger and actually help.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：そして、強くなって本当に役に立つ方法を考えて。",
+      "CN": ">V：并且想办法让自己变强，切实地帮上忙。",
+      "KR": ">V: 그리고 더 강해지고 실제로 도울 방법을 생각해 봐.",
+      "TW": ">V：多想辦法變強，真正幫上忙吧。"
+    }
+  },
+  ">V: If dante loses...you are all that can defeat Urizen.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：もしダンテが負けたら……君たちがウルジンを倒せる最後の希望だ。",
+      "CN": ">V：如果但丁输了……你们就是唯一能击败乌瑞琴的希望。",
+      "KR": ">V: 덴테가 진다면... 너만이 우르잔을 물릴 유일한 존재야.",
+      "TW": ">V：如果但丁輸了……你們將是擊敗烏利森的唯一希望。"
+    }
+  },
+  ">Nero: Is that what you called him?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネロ：それがあなたたちが呼んだ名前？",
+      "CN": ">Nero：你刚才就是这么称呼他的？",
+      "KR": "> 네로: 그런 식으로 그를 불렀지?",
+      "TW": ">尼祿：你就這麼叫他？"
+    }
+  },
+  ">V: Yes,Urizen,The demon king...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：はい、ユリゼン。 demons king …",
+      "CN": "对，乌利森，魔王……",
+      "KR": "> V: 네, 유라이젠, 마왕이시여...",
+      "TW": ">V：是的，烏立森，魔王……"
+    }
+  },
+  ">V: That's the name of the demon that took your arm.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "V：あなたの腕を奪った魔物の名前です。",
+      "CN": "那就是夺走你手臂的恶魔的名字。",
+      "KR": "> V: 그건 당신의 팔을 앗아간 마귀의 이름입니다.",
+      "TW": ">V：那是奪走你手臂的惡魔之名。"
+    }
+  },
+  "> ACT 0 CLEARED <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ACT 0 完了 >",
+      "CN": "> 第0章已通关 <",
+      "KR": "> 액트 0 클리어",
+      "TW": "< 階段0 通過 >"
+    }
+  },
+  "地图目前未完成,该版本仅供预览游玩": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The map is currently incomplete. This version is for preview purposes only.",
+      "JP": "マップは現在未完成です。このバージョンはプレビュー用のみです。",
+      "CN": "",
+      "KR": "지도는 현재 완성되지 않았습니다. 이 버전은 미리보기용으로 제공됩니다.",
+      "TW": "地圖目前尚未完成，此版本僅供預覽遊玩"
+    }
+  },
+  "MAP NOW WIP,THIS VERSION ONLY FOR TRY OUT": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "MAP NOW WIP, THIS VERSION ONLY FOR TRY OUT",
+      "CN": "地图制作中，此版本仅供体验。",
+      "KR": "지도 기능 진행 중, 이번 버전은 체험용입니다",
+      "TW": "地圖仍在製作中，此版本僅供測試"
+    }
+  },
+  "> Game start in 25 sec. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゲーム開始まであと25秒 <",
+      "CN": "> 游戏将在25秒后开始 <",
+      "KR": "> 게임 25초 후 시작.",
+      "TW": ">遊戲將在25秒後開始。<"
+    }
+  },
+  "> 15 <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "> 10 <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "> Now go back and place the bug. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> さて、戻ってバグを配置しましょう。<",
+      "CN": "现在请返回并放置虫子。",
+      "KR": "> 이제 돌아가서 벌레를 배치하세요.",
+      "TW": ">現在請回到剛才並放置這個漏洞（bug）。<"
+    }
+  },
+  "> Go back to the van. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> バンに戻れ <",
+      "CN": "返回货车。",
+      "KR": "밴으로 돌아가세요.",
+      "TW": "返回貨車。"
+    }
+  },
+  "> Sealed up in 40 sec. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 40秒以内に封印 <",
+      "CN": "> 40秒后封印完成 <",
+      "KR": "40초 후 봉쇄됩니다.",
+      "TW": "40秒內封印。"
+    }
+  },
+  "> ACT I CLEARED <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> アクトI クリア <",
+      "CN": "第一章 通关",
+      "KR": "<b>ACT I 클리어</b>",
+      "TW": "第一章通過！"
+    }
+  },
+  "Devil Breaker >Punchline< Obtained": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "デビルブレーカー >パンチライン< 入手",
+      "CN": "获得恶魔破坏者 < Punchline >",
+      "KR": "데빌 브레이커 <Punchline> 획득",
+      "TW": "獲得 Devil Breaker >〈 Punchline〉。"
+    }
+  },
+  "< All Soul stone found. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Max health up to 200. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Devil Breaker >Overture< Obtained": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "デビルブレーカー >序曲< 入手",
+      "CN": "获得恶魔破坏者 < Overture >",
+      "KR": "데빌 브레이커 <Overture> 획득",
+      "TW": "獲得 Devil Breaker >〈Overture〉。"
+    }
+  },
+  "< Nero has been take down... >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Map require keep cs2f_use_old_push enable! >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

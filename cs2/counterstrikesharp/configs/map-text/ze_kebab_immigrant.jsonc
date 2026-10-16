@@ -1,0 +1,532 @@
+{
+  "[ ze_Kebab_Immigrant ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze_Kebab_Immigrant",
+      "CN": "[ 凯巴布_移民 ]",
+      "KR": "[ 케밥 이민자 ]",
+      "TW": "ze_Kebab_Immigrant"
+    }
+  },
+  "[ Map By Nostar ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Map By Nostar",
+      "CN": "[ Nostar 制作地图 ]",
+      "KR": "[ 맵 제작: Nostar ]",
+      "TW": "地圖製作：Nostar"
+    }
+  },
+  "终点跳刀魔改为只有高刀(注意!!!!!)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Final destination Knockaway mod changed to High knockdown only (Note!!!!!)",
+      "JP": "ゴール地点のジャンプナイフ修正はハイジャンプのみ（注意!!!!!）",
+      "CN": "",
+      "KR": "종점 점프블레이드 마법 수정은 고검만(주의!!!!!)",
+      "TW": "終點跳刀魔改僅保留高刀（注意！！！！！）"
+    }
+  },
+  "[ Bridge coming in 20 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[橋まで20秒以内]",
+      "CN": "[ 桥梁将在 20 秒后出现 ]",
+      "KR": "[ 20초 후 다리와 연결 ]",
+      "TW": "[ 橋樑預計 20 秒內到達 ]"
+    }
+  },
+  "[ AMMO item has been picked ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[弾薬アイテムを拾った]",
+      "CN": "[ 已拾取弹药道具 ]",
+      "KR": "[ AMMO 아이템을 획득했습니다 ]",
+      "TW": "[ 已拾取子彈道具 ]"
+    }
+  },
+  "[ You took too long to trigger, slaying all humans... ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トリガー発動まで時間が掛かりすぎた。全人類を殺害...]",
+      "CN": "[ 你触发太慢，导致全人类被杀... ]",
+      "KR": "너무 오래 걸려서 모든 인간들을 죽였습니다.",
+      "TW": "[ 觸發時間過長，所有人類已被消滅… ]"
+    }
+  },
+  "[ SHOTGUN item has been picked ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ショットガンアイテムを拾った]",
+      "CN": "[ 已拾取霰弹枪道具 ]",
+      "KR": "[ SHOTGUN 아이템을 획득했습니다 ]",
+      "TW": "[ 已拾取霰彈槍道具 ]"
+    }
+  },
+  "[ The bridges are on the way ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[橋は進行中]",
+      "CN": "[ 桥梁正在生成中 ]",
+      "KR": "[ 다리가 연결됩니다 ]",
+      "TW": "[ 橋樑正在建置中 ]"
+    }
+  },
+  "[ FALL BACK ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ フォールバック ]",
+      "CN": "[ 撤退 ]",
+      "KR": "[ 폴백 ]",
+      "TW": "[ 備用方案 ]"
+    }
+  },
+  "[ JERRYCAN item has been picked ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ ジェリカン アイテムを拾いました ]",
+      "CN": "[ 已拾取油桶 ]",
+      "KR": "[ 점프캔 아이템 획득 ]",
+      "TW": "[ 已拾取 Jerrycan 物品 ]"
+    }
+  },
+  "[ FREEZEGUN item has been picked ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ フリーズガン アイテムを拾いました ]",
+      "CN": "[ 已拾取冷冻枪 ]",
+      "KR": "[ 얼음총 아이템 획득 ]",
+      "TW": "[ 已拾取 FREEZEGUN 物品 ]"
+    }
+  },
+  "[ Door open in 20 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ 20秒後にドアが開きます ]",
+      "CN": "[ 门将在 20 秒后打开 ]",
+      "KR": "[ 문 20초 후 개방 ]",
+      "TW": "[ 門将在 20 秒後開啟 ]"
+    }
+  },
+  "[ Door open in 15 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ 15秒後にドアが開きます ]",
+      "CN": "[ 门将在 15 秒后打开 ]",
+      "KR": "[ 문 15초 후 개방 ]",
+      "TW": "[ 門将在 15 秒後開啟 ]"
+    }
+  },
+  "[ AFK Teleport in 5 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ 5秒後にAFKテレポート ]",
+      "CN": "[ 挂机传送将在 5 秒后进行 ]",
+      "KR": "[ 5초 후 AFK 텔레포트 ]",
+      "TW": "[ AFK 傳送至 5 秒後 ]"
+    }
+  },
+  "[ Elevator start in 15 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ 15秒後にエレベーター始動 ]",
+      "CN": "[ 电梯将在 15 秒后启动 ]",
+      "KR": "[ 엘리베이터 15초 후 출발 ]",
+      "TW": "[ 電梯將在 15 秒後啟動 ]"
+    }
+  },
+  "[ The 3 levers have been activated ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ レバー3つが作動しました ]",
+      "CN": "[ 3个拉杆已激活 ]",
+      "KR": "[ 3개의 레버 작동 완료 ]",
+      "TW": "[ 已啟用 3 個手柄 ]"
+    }
+  },
+  "[ Elevator go up in 30 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[30秒後にエレベーターが上昇します]",
+      "CN": "[ 电梯将在 30 秒后上升 ]",
+      "KR": "엘리베이터 30초 후 출발",
+      "TW": "[電梯 30 秒後上樓]"
+    }
+  },
+  "[ 20 SECONDS LEFT ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[残り20秒]",
+      "CN": "还剩 20 秒",
+      "KR": "남은 시간: 20초",
+      "TW": "[剩餘 20 秒]"
+    }
+  },
+  "[ 10 SECONDS LEFT ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[残り10秒]",
+      "CN": "还剩 10 秒",
+      "KR": "남은 시간: 10초",
+      "TW": "[剩餘 10 秒]"
+    }
+  },
+  "[ Zombies coming in 5 seconds ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[5秒後にゾンビが接近]",
+      "CN": "5 秒后僵尸来袭",
+      "KR": "좀비 5초 후 도착",
+      "TW": "[殭屍即將在 5 秒後到達]"
+    }
+  },
+  "[ The gates will open in 20 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[20秒後にゲートが開きます]",
+      "CN": "城门将于 20 秒后打开",
+      "KR": "게이트 20초 후 개방",
+      "TW": "[大門 20 秒後開啟]"
+    }
+  },
+  "[ Gates will close in 20 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[20秒後にゲートが閉じます]",
+      "CN": "城门将于 20 秒后关闭",
+      "KR": "게이트 20초 후 닫힘",
+      "TW": "[大門 20 秒後關閉]"
+    }
+  },
+  "[ WAIT... ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[待つ...]",
+      "CN": "等等……",
+      "KR": "기다려...",
+      "TW": "[稍等...]"
+    }
+  },
+  "[ SOMETHING COMING... ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[何か approaching...]",
+      "CN": "有东西过来了……",
+      "KR": "무언가 오고 있음...",
+      "TW": "[有東西來了...]"
+    }
+  },
+  "[ OH NO PLEASE.. ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "やばい…",
+      "CN": "天哪，求你了……",
+      "KR": "아니야, 제발..",
+      "TW": "【 天啊，拜託…… 】"
+    }
+  },
+  "[ NOT THIS RETARD ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "こいつを倒せ",
+      "CN": "[不是这个蠢货]",
+      "KR": "이 멍청이는 싫어",
+      "TW": "【 別這個笨蛋了 】"
+    }
+  },
+  "[ SHOOT HIM !!! ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "撃て！！！",
+      "CN": "[射死他！！！]",
+      "KR": "저 놈을 쏴!!!",
+      "TW": "【 開槍射他 ！！！】"
+    }
+  },
+  "[ CHET USE ATTRACT FAT ASS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "チェット、吸引力のあるお尻を使え",
+      "CN": "[切特使用厚血攻击]",
+      "KR": "쳇, 매력적인 뚱보 쓰셈",
+      "TW": "【 CHET 使用魅力大肥臀 】"
+    }
+  },
+  "[ CHET USE DONUT ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "チェット、ドーナツを使え",
+      "CN": "[切特使用甜甜圈]",
+      "KR": "쳇, 도넛 사용",
+      "TW": "【 CHET 使用甜甜圈 】"
+    }
+  },
+  "[ CHET USE FIRE LASERS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "チェット、火炎レーザーを使え",
+      "CN": "[切特使用火焰激光]",
+      "KR": "쳇, 화염 레이저 사용",
+      "TW": "【 CHET 使用火焰雷射 】"
+    }
+  },
+  "[ HEAL item has been picked ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "回復アイテムを拾った",
+      "CN": "[已拾取回血物品]",
+      "KR": "회복 아이템을 획득했습니다.",
+      "TW": "【已拾取治療物品】"
+    }
+  },
+  "[ Door open in 10 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にドアが開きます",
+      "CN": "[门将在10秒后打开]",
+      "KR": "문이 10초 후에 열립니다.",
+      "TW": "【10秒後開門】"
+    }
+  },
+  "[ Door close in 5 seconds ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後ドア閉じます",
+      "CN": "[门将在5秒后关闭]",
+      "KR": "5초 후 문 닫힘",
+      "TW": "[五秒後門將關閉]"
+    }
+  },
+  "[ Lift leaving in 30 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にリフトが発車します",
+      "CN": "[电梯将于30秒后离开]",
+      "KR": "엘리베이터 30초 후 출발",
+      "TW": "[電梯30秒後離開]"
+    }
+  },
+  "[ Lift leaving in 20 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後にリフトが発車します",
+      "CN": "[电梯将于20秒后离开]",
+      "KR": "엘리베이터 20초 후 출발",
+      "TW": "[電梯20秒後離開]"
+    }
+  },
+  "[ Lift leaving in 10 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にリフトが発車します",
+      "CN": "[电梯将于10秒后离开]",
+      "KR": "엘리베이터 10초 후 출발",
+      "TW": "[電梯10秒後離開]"
+    }
+  },
+  "[ Doors open in 30 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後ドアが開きます",
+      "CN": "[门将在30秒后打开]",
+      "KR": "30초 후 문 열림",
+      "TW": "[門30秒後開啟]"
+    }
+  },
+  "[ Elevator leaving in 40 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒後にエレベーターが発車します",
+      "CN": "[电梯将于40秒后离开]",
+      "KR": "엘리베이터 40초 후 출발",
+      "TW": "[電梯40秒後離開]"
+    }
+  },
+  "[ Hold 20 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間保持してください",
+      "CN": "[按住20秒]",
+      "KR": "20초 유지",
+      "TW": "[持續20秒]"
+    }
+  },
+  "[ Oh god not this kebab immigrant ! ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ほらまたこのケバブ移民が！",
+      "CN": "[哦，天哪，又是那个烤串难民！]",
+      "KR": "신경 써 이 kebap 이민자야!",
+      "TW": "[天啊，又是這個烤肉店移民！]"
+    }
+  },
+  "[ SHOOT HIM ! ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "撃て！",
+      "CN": "[开枪射击他！]",
+      "KR": "[ 쏴 ! ]",
+      "TW": "[射他！]"
+    }
+  },
+  "[ Rocklee use Kebab Bridge ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロックリー、ケbabブリッジを使用",
+      "CN": "[ 洛克李使用了烤肉串之桥 ]",
+      "KR": "[ 록리 케밥 다리 사용 ]",
+      "TW": "[洛克利使用烤肉串橋]"
+    }
+  },
+  "[ Rocklee use Kebab Laser ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロックリー、ケebabレーザーを使用",
+      "CN": "[ 洛克李使用了烤肉串激光 ]",
+      "KR": "[ 록리 케밥 레이저 사용 ]",
+      "TW": "[洛克利使用烤肉串雷射]"
+    }
+  },
+  "[ Rocklee use Kebab Meteor ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロックリー、ケebabメテオを使用",
+      "CN": "[ 洛克李使用了烤肉串陨石 ]",
+      "KR": "[ 록리 케밥 운석 사용 ]",
+      "TW": "[洛克利使用烤肉串流星]"
+    }
+  },
+  "[ Rocklee use Rotating Kebab ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロックリー、回転ケbabを使用",
+      "CN": "[ 洛克李使用了旋转烤肉串 ]",
+      "KR": "[ 록리 회전 케밥 사용 ]",
+      "TW": "[洛克利使用旋轉烤肉串]"
+    }
+  },
+  "[ Donut go down in 30 seconds ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドーナットは30秒後に消滅",
+      "CN": "[ 甜甜圈将在30秒后失效 ]",
+      "KR": "[ 도넛 30초 후 도착 ]",
+      "TW": "[甜甜圈將在30秒內降落]"
+    }
+  },
+  "[ Donut is on the way ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドーナットは準備中だ",
+      "CN": "[ 甜甜圈即将到达 ]",
+      "KR": "[ 도넛 배송 중 ]",
+      "TW": "[甜甜圈正在趕來的路上]"
+    }
+  },
+  "[ Donut leaving in 15 SECONDS ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドーナットは15秒後に離脱",
+      "CN": "[ 甜甜圈将在15秒后离开 ]",
+      "KR": "[ 도넛 15초 후 출발 ]",
+      "TW": "[甜甜圈將於15秒內離開]"
+    }
+  },
+  "[ Oh no ! It's the mapper ! ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "やばい！マッパーが来た！",
+      "CN": "[ 哦不！是地图绘制者！ ]",
+      "KR": "[ 아차 ! 매핑러다! ]",
+      "TW": "糟糕！是地圖製作人！"
+    }
+  },
+  "[ He don't know how to finish the map ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼はマップを終わらせる方法がわからない",
+      "CN": "他不会完成关卡",
+      "KR": "[ 그는 맵을 완성하는 법을 모르지 ]",
+      "TW": "他不知道如何完成地圖"
+    }
+  },
+  "[ So he will add somes lasers for you fckg faggot ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "だから彼はあなたのためにいくつかのレーザーを追加するんだ、お前のクソ野郎が！",
+      "CN": "所以他会给你加一些激光，你这个该死的杂种",
+      "KR": "[ 그래서 그는 너에게 레이저를 좀 더 추가할 거야, 지랄발광한 ]",
+      "TW": "所以他要加些雷射來對付你這個賤貨"
+    }
+  },
+  "[ YOU WON THE MAP ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなたはマップを勝ち取った",
+      "CN": "你赢得了关卡",
+      "KR": "[ 너는 맵을 클리어했다! ]",
+      "TW": "您贏得了地圖"
+    }
+  },
+  "[ YOU'RE THE REAL KEBAB IMMIGRANT ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなたは本物のケバブ移民だ",
+      "CN": "你才是真正的气泡移民",
+      "KR": "[ 너는 진짜 케밥 이민자야! ]",
+      "TW": "您才是真正的沙瓦移民"
+    }
+  }
+}

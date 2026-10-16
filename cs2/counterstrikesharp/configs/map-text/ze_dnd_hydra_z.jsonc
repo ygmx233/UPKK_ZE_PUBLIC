@@ -1,0 +1,332 @@
+{
+  "**15 seconds until rocks are cleared**": {
+    "translation": "**距离岩石清除还有15秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "岩の除去まで15秒",
+      "CN": "距离清除岩石还有 15 秒",
+      "KR": "돌 제거까지 15초 남음",
+      "TW": "距離岩石清除剩 15 秒"
+    }
+  },
+  "**20 seconds until rocks are cleared**": {
+    "translation": "**距离岩石清除还有20秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "岩の除去まで20秒",
+      "CN": "距离清除岩石还有 20 秒",
+      "KR": "돌 제거까지 20초 남음",
+      "TW": "距離岩石清除剩 20 秒"
+    }
+  },
+  "**40 seconds until rocks are cleared**": {
+    "translation": "**距离岩石清除还有40秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "岩の除去まで40秒",
+      "CN": "距离清除岩石还有 40 秒",
+      "KR": "돌 제거까지 40초 남음",
+      "TW": "距離岩石清除剩 40 秒"
+    }
+  },
+  "**A lever has been pulled**": {
+    "translation": "**杠杆已被拉动**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レバーが引かれました",
+      "CN": "已拉动杠杆",
+      "KR": "레버가 당겨졌습니다",
+      "TW": "拉杆已被拉动"
+    }
+  },
+  "**AFK Teleport in 25 seconds**": {
+    "translation": "**挂机玩家将于25秒后传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKテレポートまで25秒",
+      "CN": "25 秒后自动传送（AFK）",
+      "KR": "AFK 텔레포트까지 25초 남음",
+      "TW": "25 秒後將因離線傳送到主場景"
+    }
+  },
+  "**AFK Teleport in 5 seconds**": {
+    "translation": "**挂机玩家将在5秒后传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKテレポートまで5秒",
+      "CN": "5 秒后自动传送（AFK）",
+      "KR": "AFK 텔레포트까지 5초 남음",
+      "TW": "5 秒後將因離線傳送到主場景"
+    }
+  },
+  "**AFK teleport in 5 seconds**": {
+    "translation": "**挂机玩家将在5秒后传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKテレポートまで5秒",
+      "CN": "5 秒后自动传送（AFK）",
+      "KR": "AFK 텔레포트까지 5초 남음",
+      "TW": "5 秒後將因離線傳送到主場景"
+    }
+  },
+  "**Defend for 25 seconds**": {
+    "translation": "**防守25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間防衛してください",
+      "CN": "防御 25 秒",
+      "KR": "25초 동안 방어하세요",
+      "TW": "防禦 25 秒"
+    }
+  },
+  "**Defend for 40 seconds**": {
+    "translation": "**防守40秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒間防衛せよ",
+      "CN": "坚守40秒",
+      "KR": "**40초간 방어하세요**",
+      "TW": "防禦 40 秒"
+    }
+  },
+  "**Door opens in 25 seconds**": {
+    "translation": "**门将在25秒后打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒後にドアが開く",
+      "CN": "门将在25秒后开启",
+      "KR": "**문이 25초 후에 열립니다**",
+      "TW": "門將在 25 秒後開啟"
+    }
+  },
+  "**Door will open in 25 seconds**": {
+    "translation": "**门将在25秒后打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒後にドアが開く",
+      "CN": "门将于25秒后开启",
+      "KR": "**문이 25초 후에 열립니다**",
+      "TW": "門將在 25 秒後開啟"
+    }
+  },
+  "**Enter the arena now!**": {
+    "translation": "**现在进入竞技场！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "アリーナへ即投入！",
+      "CN": "立即进入竞技场！",
+      "KR": "**지금 아레나로 진입하세요!**",
+      "TW": "現在進入競技場！"
+    }
+  },
+  "**Lift raises in 30 seconds**": {
+    "translation": "**升降机将在30秒后升起**",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にリフト上昇",
+      "CN": "升降机将在30秒后升起",
+      "KR": "**리프트가 30초 후에 상승합니다**",
+      "TW": "升降台將在 30 秒後升起"
+    }
+  },
+  "**Map completed**": {
+    "translation": "**地图通关 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ完了",
+      "CN": "地图已完成",
+      "KR": "**맵 완료**",
+      "TW": "地圖完成"
+    }
+  },
+  "**Nuke in 4 seconds**": {
+    "translation": "**核弹在4秒后引爆**",
+    "MultiLang": {
+      "US": "",
+      "JP": "4秒後に核爆発",
+      "CN": "炸弹即将爆炸：4秒",
+      "KR": "**핵폭발까지 4초**",
+      "TW": "核彈发射倒數 4 秒"
+    }
+  },
+  "**Quest successful**": {
+    "translation": "**任务成功**",
+    "MultiLang": {
+      "US": "",
+      "JP": "クエスト成功",
+      "CN": "任务完成",
+      "KR": "**퀘스트 성공**",
+      "TW": "任務成功"
+    }
+  },
+  "**Retreat to the surface**": {
+    "translation": "**撤退到地面**",
+    "MultiLang": {
+      "US": "",
+      "JP": "地表に撤退する",
+      "CN": "返回地表",
+      "KR": "**표면으로 탈출**",
+      "TW": "**撤回至地表**"
+    }
+  },
+  "**Thanks for playing**": {
+    "translation": "**感谢你的游玩**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイありがとう",
+      "CN": "感谢您的游玩",
+      "KR": "**플레이해 주셔서 감사합니다**",
+      "TW": "**感謝遊玩**"
+    }
+  },
+  "**The Hydra blasts you with acid**": {
+    "translation": "**九头蛇使用酸液攻击**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラが酸を浴びせる",
+      "CN": "海德拉用酸液喷射你",
+      "KR": "**히드라가 산성을 발사합니다**",
+      "TW": "**海德拉噴射酸液攻擊你**"
+    }
+  },
+  "**The Hydra breaks the earth**": {
+    "translation": "**九头蛇使用撕裂大地**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラが大地を壊す",
+      "CN": "海德拉震裂大地",
+      "KR": "**히드라가 지상을 부숩니다**",
+      "TW": "**海德拉震裂地面**"
+    }
+  },
+  "**The Hydra breathes acid smoke**": {
+    "translation": "**九头蛇使用喷吐酸烟**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラが酸の煙を吐く",
+      "CN": "海德拉吐出酸性烟雾",
+      "KR": "**히드라가 산성 연기를 뿜습니다**",
+      "TW": "**海德拉呼出酸霧**"
+    }
+  },
+  "**The Hydra dwells beneath the surface**": {
+    "translation": "**九头蛇使用地下栖息**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラは地表の下に住んでいる",
+      "CN": "海德拉潜伏于地表之下",
+      "KR": "**히드라는 표면 아래에 서식합니다**",
+      "TW": "**海德拉棲息於地底深處**"
+    }
+  },
+  "**The Hydra has been defeated**": {
+    "translation": "**九头蛇已被击败**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラを倒した",
+      "CN": "海德拉已被击败",
+      "KR": "**히드라가 격파되었습니다**",
+      "TW": "**海德拉已被擊敗**"
+    }
+  },
+  "**The Hydra is approaching**": {
+    "translation": "**九头蛇正在接近**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラが近づいている",
+      "CN": "海德拉正在靠近",
+      "KR": "**히드라가 접근합니다**",
+      "TW": "**海德拉正在接近**"
+    }
+  },
+  "**The Hydra is vulnerable**": {
+    "translation": "**九头蛇处于脆弱状态**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラの弱体化",
+      "CN": "海德拉处于脆弱状态",
+      "KR": "**하이드라가 취약**",
+      "TW": "海德拉已陷入脆弱狀態"
+    }
+  },
+  "**The Hydra lost its left head**": {
+    "translation": "**九头蛇失去了左边的头**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラ左頭脱落",
+      "CN": "海德拉失去了左头",
+      "KR": "**하이드라의 왼쪽 머리가 끊겼습니다**",
+      "TW": "海德拉的左頭已失去"
+    }
+  },
+  "**The Hydra lost its right head**": {
+    "translation": "**九头蛇失去了右边的头**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラ右頭脱落",
+      "CN": "海德拉失去了右头",
+      "KR": "**하이드라의 오른쪽 머리가 끊겼습니다**",
+      "TW": "海德拉的右頭已失去"
+    }
+  },
+  "**The Hydra quakes the earth**": {
+    "translation": "**九头蛇使用地震**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラが大地を揺るがす",
+      "CN": "海德拉震天动地",
+      "KR": "**하이드라가 대지를 진동시킨다**",
+      "TW": "海德拉顫動大地"
+    }
+  },
+  "**The Hydra rejuvenates**": {
+    "translation": "**九头蛇正在恢复力量**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラの再生能力发动",
+      "CN": "海德拉恢复生机",
+      "KR": "**하이드라가 재생된다**",
+      "TW": "海德拉正恢復活力"
+    }
+  },
+  "**The Hydra screams deafening**": {
+    "translation": "**九头蛇发出尖叫**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラが怒号を上げる",
+      "CN": "海德拉发出震耳欲聋的咆哮",
+      "KR": "**하이드라가 귀를 찢을 듯한 비명을 지른다**",
+      "TW": "海德拉發出震耳欲聾的嘶吼"
+    }
+  },
+  "**The Hydra spits acid**": {
+    "translation": "**九头蛇吐出酸液**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒドラが酸を出す",
+      "CN": "海德拉喷射酸液",
+      "KR": "**하이드라가 산성을 �뱉는다**",
+      "TW": "海德拉噴射酸液"
+    }
+  },
+  "**The hydra is starting to collapse the cave**": {
+    "translation": "**九头蛇正在开始塌陷洞穴**",
+    "MultiLang": {
+      "US": "",
+      "JP": "洞窟の崩壊が始まる",
+      "CN": "海德拉开始引发洞穴坍塌",
+      "KR": "**하이드라가 동굴을 무너뜨리기 시작합니다**",
+      "TW": "海德拉開始導致洞穴坍塌"
+    }
+  },
+  "**We have to defeat the Hydra soon or it will bury us**": {
+    "translation": "**我们必须尽快击败九头蛇，否则我们会被埋进洞穴里**",
+    "MultiLang": {
+      "US": "",
+      "JP": "我々はすぐに頭数を減らさなければなりません、さもなければ我々に埋もれるでしょう",
+      "CN": "我们必须尽快击败九头蛇，否则它会将我们掩埋",
+      "KR": "히드라를 곧 처치하지 않으면 우리를 묻어버릴 것이다",
+      "TW": "我們必須盡快擊敗九頭蛇，否則它會將我們活埋"
+    }
+  }
+}

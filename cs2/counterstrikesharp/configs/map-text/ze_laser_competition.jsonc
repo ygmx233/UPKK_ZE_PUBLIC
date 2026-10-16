@@ -1,0 +1,32 @@
+{
+  ">>The winner appeared<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>勝者が現れた<<",
+      "CN": ">>恭喜获胜者出现<<",
+      "KR": "승자 등장",
+      "TW": ">>勝利者現身<<"
+    }
+  },
+  ">> Balrog is back <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>バルログが再び<<",
+      "CN": ">>豪鬼回归<<",
+      "KR": "발로그가 돌아왔다",
+      "TW": ">>巴爾克回來了<<"
+    }
+  },
+  "** GET READY FOR HIS FINAL ATTACK **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**彼の最後の攻撃の準備をせよ**",
+      "CN": "**准备好迎接他的最终攻击吧**",
+      "KR": "** 최종 공격 준비 **",
+      "TW": "**準備好應對他的最終攻擊吧**"
+    }
+  }
+}

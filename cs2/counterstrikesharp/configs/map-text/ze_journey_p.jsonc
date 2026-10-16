@@ -1,92 +1,302 @@
 {
   "Created by Soft Serve": {
-    "translation": "由 Soft Serve 制作 翻译：Ayanami♪"
+    "translation": "由 Soft Serve 制作 翻译：Ayanami♪",
+    "MultiLang": {
+      "US": "",
+      "JP": "Soft Serve製",
+      "CN": "Soft Serve 制作",
+      "KR": "Soft Serve가 개발했습니다",
+      "TW": "由 Soft Serve 製作"
+    }
   },
   "ZE Journey": {
-    "translation": "黑暗之魂：旅途"
+    "translation": "黑暗之魂：旅途",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZEジャーニー",
+      "CN": "ZE 旅程",
+      "KR": "ZE 여정",
+      "TW": "ZE 旅程"
+    }
   },
   "*** Door opening in 20 seconds ***": {
-    "translation": "*** 门将在 20 秒后打开 ***"
+    "translation": "*** 门将在 20 秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後に扉が開きます ***",
+      "CN": "*** 门将在 20 秒后开启 ***",
+      "KR": "*** 문이 20초 후에 열립니다 ***",
+      "TW": "*** 大門將於 20 秒後開啟 ***"
+    }
   },
   "*** Door opening in 5 seconds ***": {
-    "translation": "*** 门将在 5 秒后打开 ***"
+    "translation": "*** 门将在 5 秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後に扉が開きます ***",
+      "CN": "*** 门将在 5 秒后开启 ***",
+      "KR": "*** 문이 5초 후에 열립니다 ***",
+      "TW": "*** 大門將於 5 秒後開啟 ***"
+    }
   },
   "*** Boats departing in 20 seconds ***": {
-    "translation": "*** 船只将在 20 秒后出发 ***"
+    "translation": "*** 船只将在 20 秒后出发 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後に船が発つ ***",
+      "CN": "*** 船只将在 20 秒后出发 ***",
+      "KR": "*** 배가 20초 후에 출발합니다 ***",
+      "TW": "*** 船隻將於 20 秒後出發 ***"
+    }
   },
   "*** Boats departing in 5 seconds ***": {
-    "translation": "*** 船只将在 5 秒后出发 ***"
+    "translation": "*** 船只将在 5 秒后出发 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後に船が発つ ***",
+      "CN": "*** 船只将在 5 秒后出发 ***",
+      "KR": "*** 배가 5초 후에 출발합니다 ***",
+      "TW": "*** 船隻將於 5 秒後出發 ***"
+    }
   },
   "*** Burning Orb has been acquired ***": {
-    "translation": "*** 火已被拾取——按E发射光球点燃僵尸 ***"
+    "translation": "*** 火已被拾取——按E发射光球点燃僵尸 ***",
+    "MultiLang": {
+      "US": "*** Burning Orb Acquired ***",
+      "JP": "*** 燃えるオーブを獲得しました ***",
+      "CN": "*** 已获得燃烧球 ***",
+      "KR": "*** 불꽃 공을 획득했습니다 ***",
+      "TW": "*** 已獲得火焰之球 ***"
+    }
   },
   "*** Gust Orb has been acquired ***": {
-    "translation": "*** 风已被拾取——按E发射光球推开僵尸 ***"
+    "translation": "*** 风已被拾取——按E发射光球推开僵尸 ***",
+    "MultiLang": {
+      "US": "*** Gust Orb obtained ***",
+      "JP": "*** 風のオーブを獲得しました ***",
+      "CN": "*** 已获得强风球 ***",
+      "KR": "*** 바람공을 획득했습니다 ***",
+      "TW": "*** 已獲得氣流之球 ***"
+    }
   },
   "*** Gate opening in 10 seconds ***": {
-    "translation": "*** 大门将在 10 秒后打开"
+    "translation": "*** 大门将在 10 秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後にゲートが開放されます ***",
+      "CN": "*** 传送门将在 10 秒后开启 ***",
+      "KR": "*** 10초 후 게이트 개방 ***",
+      "TW": "*** 大門將於 10 秒後開啟 ***"
+    }
   },
   "*** 5 seconds left ***": {
-    "translation": "*** 还剩 5 秒 ***"
+    "translation": "*** 还剩 5 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り5秒 ***",
+      "CN": "*** 剩余时间：5 秒 ***",
+      "KR": "*** 남은 시간 5초 ***",
+      "TW": "*** 剩餘 5 秒 ***"
+    }
   },
   "*** Divine Orb has been acquired ***": {
-    "translation": "*** 神圣已被拾取——按E发射光球秒杀僵尸 ***"
+    "translation": "*** 神圣已被拾取——按E发射光球秒杀僵尸 ***",
+    "MultiLang": {
+      "US": "*** Divine Orb Acquired ***",
+      "JP": "*** 神聖オーブを手に入れました ***",
+      "CN": "*** 已获取神圣宝珠 ***",
+      "KR": "*** 신성한 오브 획득 ***",
+      "TW": "*** 已獲得神聖寶珠 ***"
+    }
   },
   "*** Round failed! Zombies have reached the objective! ***": {
-    "translation": "*** 回合失败！僵尸触发了开关！***"
+    "translation": "*** 回合失败！僵尸触发了开关！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ラウンド失敗！ ゾンビが目標地点に到達しました！ ***",
+      "CN": "*** 回合失败！僵尸已抵达目标点！***",
+      "KR": "*** 라운드 실패! 좀비가 목표 지점에 도달했습니다! ***",
+      "TW": "*** 回合失敗！殭屍已到達目標點！ ***"
+    }
   },
   "*** Glacial Orb has been acquired ***": {
-    "translation": "*** 冰已被拾取——按E发射光球冻结僵尸 ***"
+    "translation": "*** 冰已被拾取——按E发射光球冻结僵尸 ***",
+    "MultiLang": {
+      "US": "*** Glacial Orb Acquired ***",
+      "JP": "*** 氷結オーブを手に入れました ***",
+      "CN": "*** 已获取冰霜宝珠 ***",
+      "KR": "*** 빙하 오브 획득 ***",
+      "TW": "*** 已獲得冰川寶珠 ***"
+    }
   },
   "*** Abyssal Orb has been acquired ***": {
-    "translation": "*** 深渊已被拾取——按E发射光球传送僵尸 ***"
+    "translation": "*** 深渊已被拾取——按E发射光球传送僵尸 ***",
+    "MultiLang": {
+      "US": "*** Abyssal Orb Acquired ***",
+      "JP": "*** 深淵オーブを手に入れました ***",
+      "CN": "*** 已获取深渊宝珠 ***",
+      "KR": "*** 심연 오브 획득 ***",
+      "TW": "*** 已獲得深淵寶珠 ***"
+    }
   },
   "*** Celestial Embrace has been acquired ***": {
-    "translation": "*** 治愈已被拾取——光圈内玩家每秒恢复2HP ***"
+    "translation": "*** 治愈已被拾取——光圈内玩家每秒恢复2HP ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 天界的抱擁を手に入れました ***",
+      "CN": "*** 已获取天界圣印 ***",
+      "KR": "*** 천상의 포용 획득 ***",
+      "TW": "*** 已獲得天界擁抱 ***"
+    }
   },
   "*** All 4 levers activated ***": {
-    "translation": "*** 所有 4 个拉杆均已激活 ***"
+    "translation": "*** 所有 4 个拉杆均已激活 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 4つのレバーがすべて作動しました ***",
+      "CN": "*** 全部4个拉杆已激活 ***",
+      "KR": "*** 모든 4개의 레버 작동 완료 ***",
+      "TW": "*** 4 個操控桿全部激活 ***"
+    }
   },
   "*** Gate opening in 15 seconds ***": {
-    "translation": "*** 大门将在 15 秒后打开 ***"
+    "translation": "*** 大门将在 15 秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後にゲートが開きます ***",
+      "CN": "*** 传送门将于15秒后开启 ***",
+      "KR": "*** 15초 후 문 열림 ***",
+      "TW": "*** 15秒後開啟傳送門 ***"
+    }
   },
   "*** Lightning Orb has been acquired ***": {
-    "translation": "*** 闪电已被拾取——按E发射光球造成高额伤害 ***"
+    "translation": "*** 闪电已被拾取——按E发射光球造成高额伤害 ***",
+    "MultiLang": {
+      "US": "*** Lightning Orb Acquired ***",
+      "JP": "*** レイテンスオーブを取得しました ***",
+      "CN": "*** 已获取闪电宝珠 ***",
+      "KR": "*** 번개 오브 획득 ***",
+      "TW": "*** 已取得閃電球 ***"
+    }
   },
   "*** Gate opening ***": {
-    "translation": "*** 大门正在打开 ***"
+    "translation": "*** 大门正在打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゲートが開きます ***",
+      "CN": "*** 传送门开启中 ***",
+      "KR": "*** 문 열림 ***",
+      "TW": "*** 傳送門開啟 ***"
+    }
   },
   "*** Lift activated ***": {
-    "translation": "*** 升降已激活 ***"
+    "translation": "*** 升降已激活 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** リフトが作動しました ***",
+      "CN": "*** 升降台已激活 ***",
+      "KR": "*** 리프트 작동 ***",
+      "TW": "*** 升降機啟動 ***"
+    }
   },
   "*** Gate opening in 20 seconds ***": {
-    "translation": "*** 大门将在 20 秒后打开 ***"
+    "translation": "*** 大门将在 20 秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にゲートが開きます ***",
+      "CN": "*** 传送门将于20秒后开启 ***",
+      "KR": "*** 20초 후 문 열림 ***",
+      "TW": "*** 20秒後開啟傳送門 ***"
+    }
   },
   "*** Door opening in 15 seconds ***": {
-    "translation": "*** 门将在 15 秒后打开 ***"
+    "translation": "*** 门将在 15 秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後に扉が開きます ***",
+      "CN": "*** 门将于15秒后打开 ***",
+      "KR": "*** 15초 후 문 열림 ***",
+      "TW": "*** 15秒後開啟大門 ***"
+    }
   },
   "*** Platform rising in 15 seconds ***": {
-    "translation": "*** 平台将在 15 秒后升起 ***"
+    "translation": "*** 平台将在 15 秒后升起 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後にプラットフォームが上昇します ***",
+      "CN": "*** 平台将于15秒后升起 ***",
+      "KR": "*** 15초 후 플랫폼 상승 ***",
+      "TW": "*** 15秒後平台升起 ***"
+    }
   },
   "*** Left lever activated ***": {
-    "translation": "*** 左边的拉杆已激活 ***"
+    "translation": "*** 左边的拉杆已激活 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 左側のレバーが作動しました ***",
+      "CN": "*** 已激活左侧拉杆 ***",
+      "KR": "*** 왼쪽 레버 작동 ***",
+      "TW": "*** 已啟動左側槓桿 ***"
+    }
   },
   "*** Right lever activated ***": {
-    "translation": "*** 右边的拉杆已激活 ***"
+    "translation": "*** 右边的拉杆已激活 ***",
+    "MultiLang": {
+      "US": "*** Right lever engaged ***",
+      "JP": "*** 右側のレバーが作動しました ***",
+      "CN": "*** 右侧杠杆已激活 ***",
+      "KR": "*** 우측 레버 작동 중 ***",
+      "TW": "*** 右側槓桿已啟動 ***"
+    }
   },
   "*** Final door opening in 30 seconds ***": {
-    "translation": "*** 终点大门将在 30 秒后打开 ***"
+    "translation": "*** 终点大门将在 30 秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後の扉が30秒後に開放されます ***",
+      "CN": "*** 最终大门将在30秒后开启 ***",
+      "KR": "*** 마지막 문 30초 후에 열림 ***",
+      "TW": "*** 最終大門30秒後開啟 ***"
+    }
   },
   "*** Final door opening in 5 seconds ***": {
-    "translation": "*** 终点大门将在 5 秒后打开 ***"
+    "translation": "*** 终点大门将在 5 秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後の扉が5秒後に開放されます ***",
+      "CN": "*** 最终大门将在5秒后开启 ***",
+      "KR": "*** 마지막 문 5초 후에 열림 ***",
+      "TW": "*** 最終大門5秒後開啟 ***"
+    }
   },
   "*** Final door closing in 5 seconds ***": {
-    "translation": "*** 终点大门将在 5 秒后关闭 ***"
+    "translation": "*** 终点大门将在 5 秒后关闭 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後の扉が5秒後に閉鎖されます ***",
+      "CN": "*** 最终大门将在5秒后关闭 ***",
+      "KR": "*** 마지막 문 5초 후에 닫힘 ***",
+      "TW": "*** 最終大門5秒後關閉 ***"
+    }
   },
   "*** Humans win! ***": {
-    "translation": "*** 人类获胜！ ***"
+    "translation": "*** 人类获胜！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヒューマンズ勝利！ ***",
+      "CN": "*** 人类获胜！ ***",
+      "KR": "*** 인간 승리! ***",
+      "TW": "*** 人類獲勝！ ***"
+    }
   },
   "已加载滚石修复 stripper(by bxzl)": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Loaded Roller Fix stripper (by bxzl)",
+      "JP": "ローリングストーン修復 stripper(by bxzl) をロード済み",
+      "CN": "",
+      "KR": "롤스톤 수정기 추가 (bxzl 제작)",
+      "TW": "已載入滾石修復 stripper(by bxzl)"
+    }
   }
 }

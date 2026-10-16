@@ -1,59 +1,192 @@
 {
   "++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++": {
-    "translation": "++ 还剩 30 秒到达安全地带：LICCIANA！！ ++"
+    "translation": "++ 还剩 30 秒到达安全地带：LICCIANA！！ ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ 安全地まで残り30秒！リッチアナ！！ ++",
+      "CN": "++ 距离安全地带仅剩30秒：莉奇亚娜！！ ++",
+      "KR": "++ 안전한 곳으로 가기까지 30초 남았습니다 : 리치아나 !! ++",
+      "TW": "++ 距離安全區域仅剩 30 秒 ：利切娜！！ ++"
+    }
   },
   "++ ESCAPE LIFT 1 ARRIVED ++": {
-    "translation": "++ 逃生电梯 1 已到达 ++"
+    "translation": "++ 逃生电梯 1 已到达 ++",
+    "MultiLang": {
+      "US": "++ ESCAPE Lift 1 Arrived ++",
+      "JP": "++ エスケープリフト1 到着 ++",
+      "CN": "++ 1号逃生梯已到达 ++",
+      "KR": "++ 비상용 엘리베이터 1호 도착 ++",
+      "TW": "++ 逃生電梯 1 已抵達 ++"
+    }
   },
   "++ ESCAPE LIFT 1 ARRIVING IN 20 SECONDS ++": {
-    "translation": "++ 逃生电梯 1 将于 20 秒后到达 ++"
+    "translation": "++ 逃生电梯 1 将于 20 秒后到达 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ エスケープリフト1 到着まで残り20秒 ++",
+      "CN": "++ 1号逃生梯将于20秒后到达 ++",
+      "KR": "++ 비상용 엘리베이터 1호가 20초 후에 도착합니다 ++",
+      "TW": "++ 逃生電梯 1 即將於 20 秒後抵達 ++"
+    }
   },
   "++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++": {
-    "translation": "++ 逃生电梯 1 将于 5 秒后离开 ++"
+    "translation": "++ 逃生电梯 1 将于 5 秒后离开 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ エスケープリフト1 発車まで残り5秒 ++",
+      "CN": "++ 1号逃生梯将在5秒后出发 ++",
+      "KR": "++ 비상용 엘리베이터 1호가 5초 후에 출발합니다 ++",
+      "TW": "++ 逃生電梯 1 即將於 5 秒後離開 ++"
+    }
   },
   "++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++": {
-    "translation": "++ 逃生电梯 1 将于 15 秒后离开 ++"
+    "translation": "++ 逃生电梯 1 将于 15 秒后离开 ++",
+    "MultiLang": {
+      "US": "++ ESCAPE Lift 1 Leaving in 15 Seconds ++",
+      "JP": "++ エスケープリフト1 発車まで残り15秒 ++",
+      "CN": "++ 1号逃生梯将于15秒后出发 ++",
+      "KR": "++ 비상용 엘리베이터 1호가 15초 후에 출발합니다 ++",
+      "TW": "++ 逃生電梯 1 即將於 15 秒後離開 ++"
+    }
   },
   "++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++": {
-    "translation": "++ 逃生电梯 1 将于 30 秒后离开 ++"
+    "translation": "++ 逃生电梯 1 将于 30 秒后离开 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ エスケープリフト1 発車まで残り30秒 ++",
+      "CN": "++ 1号逃生梯将在30秒后出发 ++",
+      "KR": "++ 비상용 엘리베이터 1호가 30초 후에 출발합니다 ++",
+      "TW": "++ 逃生電梯 1 即將於 30 秒後離開 ++"
+    }
   },
   "++ ESCAPE LIFT 2 ARRIVED ++": {
-    "translation": "++ 逃生电梯 2 已到达 ++"
+    "translation": "++ 逃生电梯 2 已到达 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ エスケープリフト2 到着 ++",
+      "CN": "++ 2号逃生梯已到达 ++",
+      "KR": "++ 비상용 엘리베이터 2호 도착 ++",
+      "TW": "++ 逃生電梯 2 已抵達 ++"
+    }
   },
   "++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++": {
-    "translation": "++ 逃生电梯 2 将于 30 秒后到达 ++"
+    "translation": "++ 逃生电梯 2 将于 30 秒后到达 ++",
+    "MultiLang": {
+      "US": "++ ESCAPE Lift 2 Arriving in 30 Seconds ++",
+      "JP": "++ エスケープリフト2 到着まで残り30秒 ++",
+      "CN": "++ 2号逃生梯将于30秒后到达 ++",
+      "KR": "++ 비상용 엘리베이터 2호가 30초 후에 도착합니다 ++",
+      "TW": "++ 逃生電梯 2 即將於 30 秒後抵達 ++"
+    }
   },
   "++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++": {
-    "translation": "++ 逃生电梯 2 将于 5 秒后离开 ++"
+    "translation": "++ 逃生电梯 2 将于 5 秒后离开 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ 脱出エレベーター2が5秒後に発車します ++",
+      "CN": "++ 2号逃生电梯5秒后出发 ++",
+      "KR": "++ 탈출 엘리베이터 2호, 5초 뒤 출발 ++",
+      "TW": "++ 逃生電梯2號將在5秒後離開 ++"
+    }
   },
   "++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++": {
-    "translation": "++ 逃生电梯 2 将于 15 秒后离开 ++"
+    "translation": "++ 逃生电梯 2 将于 15 秒后离开 ++",
+    "MultiLang": {
+      "US": "++ ESCAPE Lift 2 Leaving in 15 Seconds ++",
+      "JP": "++ 脱出エレベーター2が15秒後に発車します ++",
+      "CN": "++ 2号逃生电梯15秒后出发 ++",
+      "KR": "++ 탈출 엘리베이터 2호, 15초 뒤 출발 ++",
+      "TW": "++ 逃生電梯2號將於15秒後離開 ++"
+    }
   },
   "++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++": {
-    "translation": "++ 逃生电梯 2 将于 30 秒后离开 ++"
+    "translation": "++ 逃生电梯 2 将于 30 秒后离开 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ 脱出エレベーター2が30秒後に発車します ++",
+      "CN": "++ 2号逃生电梯30秒后出发 ++",
+      "KR": "++ 탈출 엘리베이터 2호, 30초 뒤 출발 ++",
+      "TW": "++ 逃生電梯2號將於30秒後離開 ++"
+    }
   },
   "++ GARGANTUA'S BOAT IS LEAVING!! ++": {
-    "translation": "++ GARGANTUA 的船正在离开！！ ++"
+    "translation": "++ GARGANTUA 的船正在离开！！ ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ ガージェントの船が発進します！！ ++",
+      "CN": "++ 巨人号的船即将离岸！ ++",
+      "KR": "++ 가르탕루아 선박 출항!! ++",
+      "TW": "++ 巨人的船即將開動！！++"
+    }
   },
   "++ GARGANTUA'S BOAT LEAVING IN 3 SECONDS ++": {
-    "translation": "++ GARGANTUA 的船将在 3 秒内离开 ++"
+    "translation": "++ GARGANTUA 的船将在 3 秒内离开 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ ガージェントの船が3秒後に発進します ++",
+      "CN": "++ 巨人号的船3秒后离岸 ++",
+      "KR": "++ 가르탕루아 선박, 3초 뒤 출항 ++",
+      "TW": "++ 巨人的船將在3秒後離港 ++"
+    }
   },
   "++ LIFT DOOR 1 OPENING UP ++": {
-    "translation": "++ 电梯门 1 正在打开 ++"
+    "translation": "++ 电梯门 1 正在打开 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ エレベーター扉1が開きます ++",
+      "CN": "++ 1号舱门开启 ++",
+      "KR": "++ 엘리베이터문 1호 개방 중 ++",
+      "TW": "++ 電梯門1即將開啟 ++"
+    }
   },
   "++ LIFT DOOR 2 OPENING UP ++": {
-    "translation": "++ 电梯门 2 正在打开 ++"
+    "translation": "++ 电梯门 2 正在打开 ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ エレベーター扉2が開きます ++",
+      "CN": "++ 2号舱门开启 ++",
+      "KR": "++ 엘리베이터문 2호 개방 중 ++",
+      "TW": "++ 電梯門2即將開啟 ++"
+    }
   },
   "++ SECRET LIFT IS LEAVING!! ++": {
-    "translation": "++ 秘密电梯正在离开！！ ++"
+    "translation": "++ 秘密电梯正在离开！！ ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ 秘密のエレベーターが発進します！！ ++",
+      "CN": "++ 秘密电梯即将离岸！ ++",
+      "KR": "++ 비밀 엘리베이터 출항!! ++",
+      "TW": "++ 秘密電梯即將開動！！++"
+    }
   },
   "++ TOXIC MINE GAS HAS BEEN RELEASED!! ++": {
-    "translation": "++ 矿井已释放有毒气体！！ ++"
+    "translation": "++ 矿井已释放有毒气体！！ ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ 有毒な鉱山ガスが放出されました！ ++",
+      "CN": "已释放剧毒瓦斯！！",
+      "KR": "++ 독성 광산 가스가 방출되었습니다!! ++",
+      "TW": "++ 有毒礦坑氣體已釋放！！ ++"
+    }
   },
   "++ TOXIC MINE GAS IN AIR !! ++": {
-    "translation": "++ 空气中弥漫着有毒气体！！ ++"
+    "translation": "++ 空气中弥漫着有毒气体！！ ++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ 大気中に有毒な鉱山ガスがあります！ ++",
+      "CN": "空气中存在有毒瓦斯！！",
+      "KR": "++ 공기 중 독성 광산 가스!! ++",
+      "TW": "++ 空氣中含有毒礦坑氣體！！ ++"
+    }
   },
   "MAP MADE BY GARGANTUA": {
-    "translation": "地图作者：GARGANTUA 翻译：Ayanami♪"
+    "translation": "地图作者：GARGANTUA 翻译：Ayanami♪",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ製作：ガルファンタ",
+      "CN": "由巨宝开发的地图",
+      "KR": "거대괴수 제작지도",
+      "TW": "地圖由巨魔建造"
+    }
   }
 }

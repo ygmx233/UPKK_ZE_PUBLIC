@@ -1,0 +1,1322 @@
+{
+  "【NPST】…这是什么地方？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[NPST]...Where is this place?",
+      "JP": "【NPST】…ここはどこだ？",
+      "CN": "",
+      "KR": "【NPST】…여기는 어디인가?",
+      "TW": "【NPST】……這是什麼地方？"
+    }
+  },
+  "【NPST】这绝对不是XEN星...我们还在地球上!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[NPST] This is definitely not Planet XEN... We're still on Earth!",
+      "JP": "【NPST】ここは間違いなくXEN星ではない…我々はまだ地球にいる！",
+      "CN": "",
+      "KR": "【NPST】이곳은 절대로 XEN 행성이 아니다... 우리는 여전히 지구에 있다!",
+      "TW": "【NPST】這裡絕對不是XEN星……我們還在地球上！"
+    }
+  },
+  "【NPST】..该死的尼赫伦斯，转移了我们的坐标吗…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[NPST]..Damn Nekhrons, did they shift our coordinates...?",
+      "JP": "【NPST】…クソっ、ネフレンスが座標を転移させたのか…",
+      "CN": "",
+      "KR": "【NPST】..씨발 네흐루너스가 우리 좌표를 전환했나…",
+      "TW": "【NPST】……該死的尼赫倫斯，轉移了我們的座標嗎？"
+    }
+  },
+  "【NPST】\"总部,这里是NPST小队,传送受到了尼赫伦斯的干扰,接收到请立即回复.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[NPST] \"Command, this is Team NPST. Our teleportation was interfered with by the Nekhrons. Please respond immediately upon receiving this.\"",
+      "JP": "【NPST】「本部、这里是NPST小队だ。転送はネフレンスに干渉された。受信即座に返信願う。」",
+      "CN": "",
+      "KR": "【NPST】\"본부,这里是 NPST 대원입니다. 전송이 네흐루너스의 간섭을 받았습니다. 수신이 확인되면 즉시 회신 바랍니다.\"",
+      "TW": "【NPST】「總部，這裡是NPST小隊。傳送受到尼赫倫斯干擾，接收到請立即回覆。」"
+    }
+  },
+  "【Aurora】\"这里是Aurora基地,你们为什么会有这个频段?战斗序列中根本没有NPST小队..\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] \"This is Aurora Base. Why are you on this frequency? There's no NPST team in our combat registry..\"",
+      "JP": "【Aurora】「这里是Aurora基地だ。なぜ君たちはこの周波数帯を持っている？戦闘序列にNPST小队の记录などない。」",
+      "CN": "",
+      "KR": "【Aurora】\"这里是 Aurora 기지입니다. 여러분은 어떻게 이 주파수를 가지게 되었습니까? 전투 시퀀스에 NPST 대원은 존재하지 않습니다..\"",
+      "TW": "【Aurora】「這裡是Aurora基地。你們怎麼會有這個頻段？戰鬥序列中根本沒有NPST小隊……」"
+    }
+  },
+  "【Aurora】\"根据历史记录识别...不...这不可能,Rescape计划根本没有通过.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] \"Identifying via historical records... No... This is impossible. The Rescape project was never approved.\"",
+      "JP": "【Aurora】「历史记录を识别…いや…ありえない。Rescape计划は根本没有通过だ。」",
+      "CN": "",
+      "KR": "【Aurora】\"기록에 따라 식별하면... 아니, 불가능해 보입니다. Rescape 계획은 결코 승인되지 않았습니다.\"",
+      "TW": "【Aurora】「根據歷史記錄識別……不……這不可能，Rescape計劃根本沒有通過。」"
+    }
+  },
+  "【Aurora】\"Pharos的运行可能引发了引力波混乱,让我们阴差阳错接收到了另一个时间的波段.”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] \"The operation of the Pharos may have triggered gravitational wave chaos, causing us to accidentally intercept a broadcast from another timeline.\"",
+      "JP": "【Aurora】「Pharosの运行が引力波の混乱を引き起こし、偶然にも別の时间帯の周波を受信したようだ。」",
+      "CN": "",
+      "KR": "【Aurora】\"Pharos의 작동이 중력파 혼란을 일으켜, 우연히 다른 시간대의 주파수를 수신하게 된 것 같습니다.\"",
+      "TW": "【Aurora】「Pharos的運行可能引發了引力波混亂，讓我們陰差陽錯接收到了另一個時間的波段。」"
+    }
+  },
+  "【Aurora】\"等会,尼赫伦斯?它不是已经从Aurora逃走三个月了吗.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] \"Wait, Nekhrons? Haven't they already fled from Aurora three months ago.\"",
+      "JP": "【Aurora】「待て、ネフレンス？それはAuroraから逃げ出して三个月経つはずだぞ。」",
+      "CN": "",
+      "KR": "【Aurora】\"잠깐, 네흐루너스? 그 녀석이 Aurora를 탈출한 지 이미 3개월이 지났는데요.\"",
+      "TW": "【Aurora】「等等，尼赫倫斯？它不是已經從Aurora逃走三個月了嗎？」"
+    }
+  },
+  "【NPST】\"三个月?我们刚刚还在追击它!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[NPC] 'Three months? We were just chasing it!'",
+      "JP": "【NPST】「3ヶ月？俺たちはまだ追跡中だ！」",
+      "CN": "",
+      "KR": "【NPST】‘3개월? 우리는 방금 그를 쫓아다니고 있었어!’",
+      "TW": "【NPC】「三個月？我們剛剛還在追擊它！」"
+    }
+  },
+  "【Aurora】\"我们需要详细谈谈,你们所在的位置附近有叛军活动,我们正计划摧毁那里.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] 'We need to discuss this in detail. Rebel activity is detected near your location, and we are planning a strike on the area.'",
+      "JP": "【Aurora】「詳細な打ち合わせが必要です。貴方の現在地付近で反乱軍の活動が確認されており、我々はそこを破壊する計画を立てています。」",
+      "CN": "",
+      "KR": "【Aurora】‘자세히 의논해야 합니다. 귀하가 위치한 곳은 반군이 활동하는 지역으로, 우리측에서는 해당 지역을 파괴할 계획입니다.’",
+      "TW": "【Aurora】「我们需要詳細商談，你們所在的區域附近有叛軍活動，我們正計畫摧毀那裡。」"
+    }
+  },
+  "【Aurora】\"你们需要穿过基地,我们会在基地外安排支援.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] 'You need to pass through the base. We will arrange support outside.'",
+      "JP": "【Aurora】「基地を通過する必要があります。我々は基地外で援軍を手配します。」",
+      "CN": "",
+      "KR": "【Aurora】‘여러분은 기지 안을 통과해야 합니다. 기지 밖에서 지원을 마련하겠습니다.’",
+      "TW": "【Aurora】「你們需要穿過基地，我們會在基地外安排支援。」"
+    }
+  },
+  "【Aurora】\"让莱恩先生给AOH总部发一封邮件,申请再次派遣OUROBOROS小队.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] 'Have Mr. Ryan send an email to AOH headquarters requesting the dispatch of the OUROBOROS team again.'",
+      "JP": "【Aurora】「レイン氏にAOH本部へメールを送らせ、OUROBOROS小隊の再派遣を申請させます。」",
+      "CN": "",
+      "KR": "【Aurora】‘라이언 씨가 AOH 본부에 다시금 OUROBOROS 팀을 파견해달라고 이메일로 요청하십시오.’",
+      "TW": "【Aurora】「請讓萊恩先生發送一封郵件至AOH總部，申請再次派遣OUROBOROS小隊。」"
+    }
+  },
+  "【Aurora】\"我知道他们执行Pharos计划时已经受到重创,但他们是我们所信任的最可靠的雇佣兵组织…\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] 'I know they were heavily damaged when they executed the Pharos project, but they are our most trusted mercenary organization...'",
+      "JP": "【Aurora】「彼らがファロス計画実行時に甚大な被害を受けたことは承知していますが、彼らは我々が信頼できる最も頼れる傭兵組織です…」",
+      "CN": "",
+      "KR": "【Aurora】‘그들이 Pharos 계획을 수행할 때 이미 큰 타격을 입었다는 것은 알고 있습니다. 하지만 그들만큼 우리가 신뢰할 수 있는 용병 조직도 없습니다…’",
+      "TW": "【Aurora】「我知道他們在執行Pharos計畫時已遭受重創，但他們是我們最信任且最可靠的傭兵組織……」"
+    }
+  },
+  "Map release November 2016": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ公開：2016年11月",
+      "CN": "地图发布日期：2016年11月",
+      "KR": "맵 배포일: 2016년 11월",
+      "TW": "地圖公開發售：2016年11月"
+    }
+  },
+  "This version May 2024": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "このバージョン：2024年5月",
+      "CN": "此版本发布于2024年5月",
+      "KR": "본 버전 배포일: 2024년 5월",
+      "TW": "此版本發行時間：2024年5月"
+    }
+  },
+  "Map is currently choosing ending music album between Darksynth and MetalSynth / Metal and Rock Instrumental": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップは現在、エンド曲アルバム『ダークシンセ』と『メタルシンセ/ロック&メタルインストラメンタル』の選択中です",
+      "CN": "地图正在“暗色合成器”与“金属合成器/金属与摇滚纯音乐”结尾曲专辑之间进行选择",
+      "KR": "현재 맵은 엔딩 음악을 선택 중이며, 옵션으로 ‘다크신스(Darksynth)’ 또는 ‘메탈신스(MetalSynth)’, ‘메탈과 록 인스트루멘탈’ 중 하나가 선택됩니다.",
+      "TW": "地圖目前正處於結局配樂專輯的選曲階段，於DarkSynth與MetalSynth／Metal及Rock Instrumental之間進行選擇"
+    }
+  },
+  "【NPST】联系不上总部.......但是为什么这里会变成这样？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[NPC] Unable to contact HQ... But why has it become like this here?",
+      "JP": "【NPST】本部に連絡が取れない……なぜ、ここがこんな状態になっているのか？",
+      "CN": "",
+      "KR": "【NPST】총본부와 연락이 닿지 않는다....... 그런데 왜 여기가 이렇게 변해 버린 걸까?",
+      "TW": "【NPST】聯繫不上總部……但為什麼這裡會變成這樣？"
+    }
+  },
+  "【NPST】我们需要更多的情报,先按他们说的,等待Ouroboros小队的接应吧.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[NPC] We need more intelligence. For now, let's wait for the Ouroboros team's support as instructed.",
+      "JP": "【NPST】より多くの情報が必要だ。まずは彼らの指示通りに、『オーロラ』小隊の迎えを待とう。",
+      "CN": "",
+      "KR": "【NPST】우리는 더 많은 정보가 필요합니다. 그들이 한 말대로 우선 오로보로스小隊的의 접대를 기다립시다.",
+      "TW": "【NPST】我們需要更多情報，先照他們說的做，等待蛇尾騎士隊的接應吧。"
+    }
+  },
+  "Darksynth and MetalSynth album has been selected ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ダークシンスとメタルシンスのアルバムが選択されました",
+      "CN": "已选定“暗色合成器与金属合成器”专辑",
+      "KR": "다크신스와 메탈신스 앨범이 선택되었습니다",
+      "TW": "已選取 Darksynth 與 MetalSynth 專輯"
+    }
+  },
+  "【Aurora】\"时间紧迫,情报显示叛军也发现了你们的存在,正在调集力量前往你们的位置!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] 'Time is tight. Intelligence indicates the rebels have also discovered your presence and are gathering forces to move on your location!'",
+      "JP": "【Aurora】「時間がありません。インテリジェンスにより、反乱軍も你们的存在に気づき、你们的所在地に向けて兵力を動員しています！」",
+      "CN": "",
+      "KR": "【Aurora】\"시간이 촉박합니다. 정보에 따르면 반군도 여러분의 존재를 파악했고, 현재 그들의 위치로 병력을 집결시키고 있습니다!\"",
+      "TW": "【Aurora】「時間緊迫，情報顯示叛軍也發現了你們的存在，正在調集力量前往你們的位置！」"
+    }
+  },
+  "【Aurora】\"基地内部的地图已经发送到你们的终端,总部已经接收到我们的请求.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] \"The map inside the base has been sent to your terminals. HQ has received our request.\"",
+      "JP": "【Aurora】「基地内のマップは你们的端末に送信済みです。本部は当方の要請を受領しました。」",
+      "CN": "",
+      "KR": "【Aurora】\"기지 내부의 지도가 이미 여러분의 터미널로 전송되었습니다. 총본부는 저희의 요청을 수신했습니다.\"*",
+      "TW": "【Aurora】「基地內部的地圖已發送至你們的終端，總部已收到我們的請求。」"
+    }
+  },
+  "【Aurora】\"请你们务必小心,希望在山崖的另一处还能见到你们.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] \"Please be extremely careful. I hope we can see you again on the other side of the cliff.\"",
+      "JP": "【Aurora】「你們务必小心、希望在山崖的另一处还能见到你们。」",
+      "CN": "",
+      "KR": "【Aurora】\"각별히 주의하시기 바랍니다. 절벽 너머에서 다시 만나길 바랄게요.\"*",
+      "TW": "【Aurora】「請務必小心，希望能在山崖的另一側再見到你們。」"
+    }
+  },
+  "【NPST】\"地图就用不上了,我们有曾经在这战斗过的记忆,经历早已烙印脑中.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[NPST] \"No map needed. We have memories of fighting here before; the experiences are branded into our minds.\"",
+      "JP": "【NPST】「地図は不要です。かつてここで戦った記憶があり、経験はすでに脳に刻み込まれています。」",
+      "CN": "",
+      "KR": "【NPST】\"지도는 필요 없습니다. 우리가 이 곳에서 전투했던 기억이 있으며, 그 경험들은 이미 머릿속에 선명하게 새겨져 있습니다.\"",
+      "TW": "【NPST】「地圖就用不上了，我們曾有過在這裡戰鬥的記憶，經歷早已烙印在腦海裡。」"
+    }
+  },
+  "【Aurora】\"那好，整装待发，你们本次行动代号命名为......\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Aurora] \"Very well. Prepare for departure. Your mission code name is...\"",
+      "JP": "【Aurora】「了解。準備は完了だ。本次行动のコードネームを……」",
+      "CN": "",
+      "KR": "【Aurora】\"좋습니다. 만전한 태세로 임하세요. 이번 작전의 작전명은......\"\"",
+      "TW": "【Aurora】「那好，整裝待發，你們本次行動代號命名為……」"
+    }
+  },
+  "RAMPAGE": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "暴走",
+      "CN": "狂暴模式",
+      "KR": "rampage (RAMPAGE)",
+      "TW": "暴走狀態"
+    }
+  },
+  "Power will be cut off in a few moments": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "まもなく電力が切断されます",
+      "CN": "即将断电",
+      "KR": "전원이 곧 차단됩니다.",
+      "TW": "電力即將中斷"
+    }
+  },
+  "【RAMPAGE】接下来要穿过蒸汽房,翻越管道,抵达激光测试场地黑入系统…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] \"Next, we need to cross the steam room, climb over the pipes, reach the laser testing ground, and hack the system...\"",
+      "JP": "【暴走】次は蒸気室を通り抜け、配管を越えてレーザーテストエリアに到着し、システムをハックします…",
+      "CN": "",
+      "KR": "[RAMPAGE] 이제 증기실을 통과하고 파이프를 넘어 레이저 테스트구역에 도달하여 시스템을 해킹합시다…",
+      "TW": "【RAMPAGE】接下來要穿過蒸氣室、翻越管道，抵達雷射測試場地並駭入系統……"
+    }
+  },
+  "【RAMPAGE】就跟首次执行任务那会一样兄弟们，打起精神，我们能做到的!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] \"Just like our first mission, brothers. Stay sharp. We can do this!\"",
+      "JP": "【暴走】最初の任務の時と同じだ、みんな、気を引き絞って、できるさ！",
+      "CN": "",
+      "KR": "[RAMPAGE] 첫 미션 수행 당시와 똑같아, 형들! 정신 차리자. 우리一定能能做到!",
+      "TW": "【RAMPAGE】就像第一次執行任務那樣，兄弟们，打起精神，我們做得到！"
+    }
+  },
+  "Power is OFF": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電源OFF",
+      "CN": "电源已关闭",
+      "KR": "전원 차단됨",
+      "TW": "電源已關閉"
+    }
+  },
+  "Find a way to get rid of the gas": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガスを排除する手立てを見つけろ",
+      "CN": "找到清除气体的方法",
+      "KR": "가스를 제거할 방법을 찾아라.",
+      "TW": "想辦法排除氣體"
+    }
+  },
+  "Valve turned": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バルブを開けた",
+      "CN": "阀门已打开",
+      "KR": "밸브 조작 완료",
+      "TW": "閥門已轉動"
+    }
+  },
+  "The gas is gone": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガスが消えた",
+      "CN": "燃气已耗尽",
+      "KR": "가스가 제거됨",
+      "TW": "氣體已清除"
+    }
+  },
+  "Run in 10 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に実行",
+      "CN": "10秒后启动",
+      "KR": "10초 안에 출발",
+      "TW": "10秒後啟動"
+    }
+  },
+  "RUN IN 5 SECONDS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒以内に実行",
+      "CN": "5秒后启动",
+      "KR": "5초 내에 출발",
+      "TW": "5秒內進入"
+    }
+  },
+  "DOOR IS OPEN": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いている",
+      "CN": "门已开启",
+      "KR": "문이 열려 있음",
+      "TW": "門已開啟"
+    }
+  },
+  "Door is opening": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いています",
+      "CN": "门正在打开",
+      "KR": "문 열고 있음",
+      "TW": "門正在開啟"
+    }
+  },
+  "RUN": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "走る",
+      "CN": "快跑",
+      "KR": "도주",
+      "TW": "逃跑"
+    }
+  },
+  "Get inside": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "中に入る",
+      "CN": "进舱",
+      "KR": "안으로 들어가기",
+      "TW": "進入內部"
+    }
+  },
+  "Hack the computer to find a way out !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コンピュータをハックして脱出方法を見つけろ！",
+      "CN": "黑入电脑，找到出路！",
+      "KR": "컴퓨터 해킹하여 탈출길 찾기!",
+      "TW": "駭入電腦，尋找出路！"
+    }
+  },
+  "THE DOOR OPENED RUN !!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いた！走れ！！",
+      "CN": "门开了，快跑！！！",
+      "KR": "문이 열렸다! 도망치세요!!!",
+      "TW": "門開了，快跑！！！"
+    }
+  },
+  "Get down the stair ! They going to drop from the roof": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "階段を下りろ！彼らは屋根から降りてくるぞ",
+      "CN": "快下楼梯！他们要从屋顶空降下来。",
+      "KR": "계단으로 내려가! 그들이 지붕에서 떨어질 거야.",
+      "TW": "快下樓梯！他們要從屋頂跳下來！"
+    }
+  },
+  "Prepare to leave in 10sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に離脱する準備をしてください",
+      "CN": "10秒后离开",
+      "KR": "10초 이내에 떠날 준비를 해.",
+      "TW": "10秒後準備離開"
+    }
+  },
+  "Doop is open": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Duoの開放は完了しました",
+      "CN": "管道已打开",
+      "KR": "구출 경로가 열려 있음",
+      "TW": "通道已開啟"
+    }
+  },
+  "GET ON THE ELEVATOR BEFORE IT CLOSES": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "閉じる前にエレベーターに乗り込め",
+      "CN": "电梯即将关闭，快进去",
+      "KR": "문이 닫히기 전에 엘리베이터로 들어가!",
+      "TW": "電梯即將關閉，快上電梯！"
+    }
+  },
+  "You have 50 seconds to find the exit": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "出口を見つけるまで50秒しかありません",
+      "CN": "你有50秒的时间找到出口",
+      "KR": "출구를 찾는데 50초가 주어집니다.",
+      "TW": "你有 50 秒時間找到出口"
+    }
+  },
+  "Shit the elevator is stuck find a new way...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが動かなくなった…新しい経路を探せ……",
+      "CN": "见鬼，电梯卡住了，找找新路线……",
+      "KR": "엘리베이터가 멈췄다... 다른 경로를 찾아야 한다.",
+      "TW": "該死的，電梯卡住了，找條新路線……"
+    }
+  },
+  "【RAMPAGE】电梯停住了!这是…另一条时间线？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] \"The elevator stopped! What is this... another timeline?\"",
+      "JP": "【暴走】エレベーターが停止！これは…別のタイムライン？",
+      "CN": "",
+      "KR": "【폭주 모드】엘리베이터가 멈췄다! 이것은... 다른 시간선인가?",
+      "TW": "【狂暴模式】電梯停住了！這是……另一條時間線？"
+    }
+  },
+  "【RAMPAGE】全体注意,撤离路线发生变化,我们需要向后绕行!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] \"All hands, the extraction route has changed. We need to detour backwards!\"",
+      "JP": "【暴走】全員注意、避難経路が変更されました。後方迂回してください！",
+      "CN": "",
+      "KR": "【폭주 모드】전원 주의, 대피 경로가 변경되었습니다. 뒤쪽으로 우회해야 합니다!",
+      "TW": "【狂暴模式】全體注意，撤离路线已变更，我们需要绕行后方！"
+    }
+  },
+  "【RAMPAGE】现在开始,抛弃过去的记忆,我们恐怕要面临一个不同的路线了..": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] From now on, we must cast off our past memories. It seems we're heading down a different path...",
+      "JP": "【RAMPAGE】これより、過去の記憶を捨てよ。お前たちは異なる道を進むことになるだろう…",
+      "CN": "",
+      "KR": "【RAMPAGE】이제부터는 과거의 기억을 버리고, 우리는 다른 길을 걷게 될 것입니다..",
+      "TW": "【狂暴模式】從現在開始，拋棄過去的記憶，我們恐怕要走上一條不同的路線了……"
+    }
+  },
+  "Zombie Advance": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンミックアドバンス",
+      "CN": "僵尸推进",
+      "KR": "좀비 어드밴스",
+      "TW": "殭屍突襲"
+    }
+  },
+  "Prepare to leave": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "離脱の準備",
+      "CN": "准备离开",
+      "KR": "떠날 준비를 하세요",
+      "TW": "準備離開"
+    }
+  },
+  "Door opened": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いた",
+      "CN": "门已打开",
+      "KR": "문이 열렸습니다",
+      "TW": "門已開啟"
+    }
+  },
+  "Door open !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "開放された！",
+      "CN": "开门！",
+      "KR": "문 열림!",
+      "TW": "門開啟！"
+    }
+  },
+  "Vent breaks RUN": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "換気口破裂！逃走",
+      "CN": "通风口破裂 快跑",
+      "KR": "환풍구 파손, 도주",
+      "TW": "通風口破裂，快跑"
+    }
+  },
+  "Wait a moment before the water goes down": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位下降前に少し待て",
+      "CN": "等水降下一点",
+      "KR": "물이 내려가기 전 잠시 기다리세요",
+      "TW": "在水位下降之前稍等片刻"
+    }
+  },
+  "Water going down": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位低下中",
+      "CN": "水位下降中",
+      "KR": "물 내려가는 중",
+      "TW": "水位正在下降"
+    }
+  },
+  "Water fully down": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "水を完全に流す",
+      "CN": "水位已完全降至最低",
+      "KR": "물이 완전히 내려감",
+      "TW": "將水完全注入"
+    }
+  },
+  "Defend a bit until a station pump door open...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "駅ポンプの扉が開くまで少しの間、防御しろ…",
+      "CN": "坚持守御，直到泵站门打开……",
+      "KR": "송수송관 문이 열릴 때까지 조금 기다려...",
+      "TW": "防守片刻，直到泵站的門打開..."
+    }
+  },
+  "Pump station door 2 has opened": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポンプステーションの扉2が開いた",
+      "CN": "2号泵站门已开启",
+      "KR": "송수송관 2호문이 열렸습니다",
+      "TW": "泵站門2已開啟"
+    }
+  },
+  "Button pressed": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタンが押された",
+      "CN": "按钮已被按下",
+      "KR": "버튼이 눌렸습니다",
+      "TW": "按鈕已按下"
+    }
+  },
+  "Laser OFF": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザー オフ",
+      "CN": "激光已关闭",
+      "KR": "레이저 꺼짐",
+      "TW": "雷射關閉"
+    }
+  },
+  "Get on the lift in 10 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒以内にリフトに乗れ",
+      "CN": "请在10秒内登上电梯",
+      "KR": "10초 이내에 엘리베이터로 탑승하세요",
+      "TW": "在10秒內登上電梯"
+    }
+  },
+  "Get on the lift in 5 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒以内にリフトに乗れ",
+      "CN": "请在5秒内登上电梯",
+      "KR": "5초 이내에 엘리베이터로 탑승하세요",
+      "TW": "在5秒內登上電梯"
+    }
+  },
+  "Lift is leaving": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リフトが出発する",
+      "CN": "电梯即将离开",
+      "KR": "리프트가 출발합니다",
+      "TW": "電梯即將離去"
+    }
+  },
+  "The fire will be cut off in a few seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "火は数秒後に遮断されます",
+      "CN": "火势将在几秒后切断",
+      "KR": "몇 초 후 화염 차단됨",
+      "TW": "火焰將在數秒後切斷"
+    }
+  },
+  "Fire OFF": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "点火 OFF",
+      "CN": "电力 关闭",
+      "KR": "화력 OFF",
+      "TW": "火焰關閉"
+    }
+  },
+  "Exit door opened !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "避難口開放！",
+      "CN": "出口门已打开！",
+      "KR": "출구문 개방!",
+      "TW": "出口已開啟！"
+    }
+  },
+  "Close in 10 sec,door won't hold long": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒以内に閉鎖、扉は長持ちしません",
+      "CN": "10秒后关闭，门将无法保持开启",
+      "KR": "10초 후 폐쇄, 문은 오래 버티지 못함",
+      "TW": "10秒後關閉，門堅持不了多久"
+    }
+  },
+  "RESIST 15 SECONDS !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間耐えろ！",
+      "CN": "坚持15秒！",
+      "KR": "15초간 저항!",
+      "TW": "堅守15秒！"
+    }
+  },
+  "Get in the room before it closes": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "閉まる前に部屋に入れ",
+      "CN": "在门关闭前进入房间",
+      "KR": "닫히기 전에 방으로 들어오세요",
+      "TW": "在門關閉前進入房間"
+    }
+  },
+  "【OUROBOROS】\"这里是Ouroboros小队,叛军比我们动作更快,我们在路上已经被击毁了一架开路的米格29,终究还是未能赶上他们的速度…\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] This is Squad Ouroboros. The rebels are moving faster than anticipated. We've already lost a lead MiG-29 during transit. In the end, we couldn't match their speed...",
+      "JP": "【ウロボロス】「ウロボロス隊です。反乱軍の動きが私たちより速いです。開拓用のMiG29を1機、途中で見失いました。結局、彼らの速度には追いつけませんでした…」",
+      "CN": "",
+      "KR": "[우로보로스] '우로보로스小队입니다. 반군이 예상보다 빠르게 움직이고 있으며, 길에서 앞장서는 미그-29기 한 대를 격추당했습니다. 결국 그들의 속도를 따라잡지 못했습니다…'",
+      "TW": "【OUROBOROS】「這裡是Ouroboros小隊，叛軍行動比我們更快，我們在路上已經損失了一架開路的米格-29，最終還是沒能趕上他們的速度……」"
+    }
+  },
+  "【OUROBOROS】\"那是一架挂载多类重型武器的阿帕奇武装直升机,目前正在迅速向你们的坐标飞去,注意不要前往基地之外被它发现.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] That's an Apache attack helicopter armed with various heavy weapons. It's currently moving rapidly toward your coordinates. Be careful not to leave the base and be spotted.",
+      "JP": "【ウロボロス】「多種の重武装を携えたアパッチ攻撃ヘリコプターです。現在、貴方たちの座標へ急速に接近しています。基地の外に出て発見されないよう注意してください。」",
+      "CN": "",
+      "KR": "[우로보로스] '거기에 다종의 중형 무장을 탑재한 아파치 공격 헬기 한 대가 있습니다. 현재贵方坐标로 빠르게 이동 중이니, 기지를 벗어나지 말고 그에게 발각되지 않도록 주의하십시오.'",
+      "TW": "【OUROBOROS】「那是一架掛載多種重型武器的阿帕奇武裝直升機，目前正在迅速向你們的座標飛去，注意不要前往基地外被它發現。」"
+    }
+  },
+  "【RAMPAGE】\"无路可走,那些玩意咬的很紧,我们必须要利用外场进行迂回.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] We have no way out; those things are closing in tightly. We must use the airfield to make a detour.",
+      "JP": "【RAMPAGE】「道は途絶えている、奴らは牙を剥いて追ってくる。外回りでの迂回を使わなければいけない」",
+      "CN": "",
+      "KR": "【RAMPAGE】\"후퇴할 길이 없네. 저 자식들이 따라잡는 데 시간이 얼마 안 남았어. 우리가 우회할 구역을 찾는 게 급야.\"",
+      "TW": "「暴走」\"沒有退路了，那些東西咬得很緊，我們必須利用外場進行迂迴。\""
+    }
+  },
+  "【OUROBOROS】\"我提议沿崖壁转移,利用掩体和道路上之前遗留的医疗器械,有一处进入山体的入口.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] I propose we move along the cliff face. Using cover and leftover medical equipment on the road, there's an entrance leading into the mountain.",
+      "JP": "【OUROBOROS】「崖沿いへの移動を提案する。掩蔽物と道路に残された医療器具を利用し、山体に穴が開いている」",
+      "CN": "",
+      "KR": "【OUROBOROS】\"절벽을 따라 이동하도록 제안한다. 가림막과 도로에 버려진 의료 기구를 활용하면 산 내부로 들어갈 수 있는 구멍이 하나 있어.\"",
+      "TW": "「蛇尾」\"我提議沿著崖壁轉移，利用掩體以及道路上之前遺留的醫療設備，有一處進入山體的入口。\""
+    }
+  },
+  "【OUROBOROS】\"预报显示雷雨风暴正在接近,注意不要摔下悬崖了.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] The forecast shows a thunderstorm approaching. Watch your step and don't fall off the cliff.",
+      "JP": "【OUROBOROS】「予報では雷雨嵐が接近中だ。落ちないよう注意しろ」",
+      "CN": "",
+      "KR": "【OUROBOROS】\"예보에 따르면 뇌우가 점차 다가오고 있으니 절벽에서 떨어지지 않도록 주의해.\"",
+      "TW": "「蛇尾」\"預報顯示雷雨風暴正在接近，注意別摔下懸崖。\""
+    }
+  },
+  "SOMEONE FOUND THE HEALTHCHARGER BATTERY": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "SOMEONE FOUND THE HEALTHCHARGER BATTERY",
+      "CN": "有人找到了充电器的电池",
+      "KR": "누군가가 헬스charger 배터리를 발견했습니다",
+      "TW": "有人找到了電量補充器電池"
+    }
+  },
+  "Electricity will be cut in few seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Electricity will be cut in few seconds",
+      "CN": "几秒后断电",
+      "KR": "몇 초 후 전원이 차단됩니다",
+      "TW": "數秒後將切斷電源"
+    }
+  },
+  "Electricity OFF": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Electricity OFF",
+      "CN": "电力已切断",
+      "KR": "전기 공급 꺼짐",
+      "TW": "電源關閉"
+    }
+  },
+  "【OUROBOROS】\"对了,你们是否携带了尼赫伦斯的信息?我们虽然研制出了传送装置,但是没有坐标根本无法抵达XEN星.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] By the way, did you bring Nyhelens's data? Although we developed a teleportation device, we can't reach Planet XEN without coordinates.",
+      "JP": "【OUROBOROS】「そうだ、君たちはニハレンスの情報を携帯しているか？我々は転送装置を開発したが、座標なしではXEN星には到達できない」",
+      "CN": "",
+      "KR": "【OUROBOROS】\"그런데 말인데, 너희들이 니흐로스(Nikhros)의 정보를 가지고 있나? 우리가 전송 장치를 개발했다고는 하지만 좌표가 없으면 엑센(XEN) 행성에는 절대 도달할 수 없어.\"",
+      "TW": "「蛇尾」\"對了，你們是否攜帶了尼赫倫斯的信息？我們雖然研發出了傳送裝置，但沒有坐標根本無法抵達XEN星。\""
+    }
+  },
+  "【RAMPAGE】\"当然,Filth小队给我们留下的技术官在NPST基地中传送走的最后一刻记录下了一个坐标,我想那就是我们都需要的东西.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] Naturally. A technician left by Squad Filth recorded the coordinates at the very last moment of their teleportation from the NPST base. I think that's what we all need.",
+      "JP": "【RAMPAGE】「当然だ。Filth中隊から我々への技術者の転送最終記録には座標が残されており、それが我々に必要な物だ」",
+      "CN": "",
+      "KR": "【RAMPAGE】\"당연하지. 피스(Filth) 소대가 남긴 기술자가 NPST 기지에서 전송된 마지막 순간에 한 좌표를 기록해 놨거든. 그거야말로 우리가 모두 필요로 하는 것일세.\"",
+      "TW": "「暴走」\"當然，Filth小隊留給我們的技術官在NPST基地中傳走的瞬間記錄下了最後一個坐標，我想那就是我們都需要的東西。\""
+    }
+  },
+  "【OUROBOROS】\"那真是再好不过了,我们正在加速赶来,回见.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] 'That's excellent news. We're accelerating our approach. See you soon.'",
+      "JP": "【ウロボロス】「それなら最高ですね。加速して急行中。また会いましょう。」",
+      "CN": "",
+      "KR": "【오로보로스】'그건 정말 다행이네요. 우리는 긴급 출동 중이며 곧 도달할 예정입니다. 나중에 다시 만나겠습니다.'",
+      "TW": "【OUROBOROS】「那真是再好不過了，我們正在加速趕來，回見。」"
+    }
+  },
+  "C4 placed !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4設置完了！",
+      "CN": "已放置 C4！",
+      "KR": "C4 설치 완료!",
+      "TW": "已放置 C4！"
+    }
+  },
+  "C4 will explode soon": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4はまもなく爆発します",
+      "CN": "C4 即将爆炸",
+      "KR": "C4가 곧 폭발합니다.",
+      "TW": "C4 即將爆炸"
+    }
+  },
+  "C4 EXPLODED": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4爆破完了",
+      "CN": "C4 已引爆",
+      "KR": "C4 폭발!",
+      "TW": "C4 已爆炸"
+    }
+  },
+  "Button activated": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタン作動",
+      "CN": "按钮已激活",
+      "KR": "버튼 활성화됨",
+      "TW": "按鈕已啟用"
+    }
+  },
+  "Defend 52 seconds ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り52秒で守りきってください",
+      "CN": "坚守 52 秒",
+      "KR": "52초 동안 방어하세요.",
+      "TW": "防禦 52 秒"
+    }
+  },
+  "You can now cross the cliff": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "cliffを渡る事ができます",
+      "CN": "你可以跨越悬崖了",
+      "KR": "절벽을 건널 수 있습니다.",
+      "TW": "您現在可以跨越懸崖"
+    }
+  },
+  "【RAMPAGE】..这医疗箱还真是坏的不成样.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] ...This medkit is really busted.",
+      "JP": "【ラウンティ】…この医療箱、完全に壊れちゃってるな。",
+      "CN": "",
+      "KR": "[람페이지] '..이 의학 상자는 정말 망가진 게 많아.'",
+      "TW": "【RAMPAGE】「這醫療箱還真是壞得不成樣。」"
+    }
+  },
+  "【RAMPAGE】兄弟们,这玩意剂量只够我们使用两次,必须给需要的队友留点!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] Guys, this stuff only has enough dosage for two uses. We need to save some for teammates who actually need it!",
+      "JP": "【RAMPAGE】兄さんたち、これでは2回しか使えない。必要な仲間に分けてやって！",
+      "CN": "",
+      "KR": "【RAMPAGE】형제들, 이Thing은 우리 두 번 쓸 만큼밖에 안 돼. 필요할 형제들을 위해 남겨야 해!",
+      "TW": "【RAMPAGE】兄弟們，這玩意的劑量只夠我們用兩次，必須留點給需要的隊友！"
+    }
+  },
+  "【RAMPAGE】有位不太友善的客人要来拜访，我们会需要这玩意.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] An uninvited guest is coming to pay us a visit. We'll need this.",
+      "JP": "【RAMPAGE】不穏な客が来訪する見込みだ。これは必要になるだろう。",
+      "CN": "",
+      "KR": "【RAMPAGE】못된 손님이 오실 거야. 이Thing이 필요할 거다.",
+      "TW": "【RAMPAGE】有位不太友善的客人即將蒞臨，我們會需要這玩意。"
+    }
+  },
+  "【RAMPAGE】打起精神，准备接客了.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] Cheer up, folks. It's time to show the guests some hospitality.",
+      "JP": "【RAMPAGE】気合を入れて、お客さんを迎える準備だ。",
+      "CN": "",
+      "KR": "【RAMPAGE】정신 차려! 손님 맞을 준비 다 끝났어.",
+      "TW": "【RAMPAGE】打起精神，準備接客了。"
+    }
+  },
+  "Run to the door": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアへ走れ",
+      "CN": "跑向门口",
+      "KR": "문으로 달려가세요",
+      "TW": "跑向門口"
+    }
+  },
+  "Press the button to activate the elevator": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタンを押してエレベーターを起動せよ",
+      "CN": "按下按钮启动电梯",
+      "KR": "버튼을 눌러 엘리베이터를 작동하세요",
+      "TW": "按下按鈕以啟動電梯"
+    }
+  },
+  "Elevator activated it will move in 10 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター起動、10秒後に移動開始",
+      "CN": "电梯已启动，将在10秒后移动",
+      "KR": "엘리베이터가 작동되었습니다. 10초 후에 움직입니다.",
+      "TW": "電梯已啟動，10秒後將移動"
+    }
+  },
+  "Get in": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "乗り込め",
+      "CN": "上车",
+      "KR": "타세요",
+      "TW": "進入"
+    }
+  },
+  "【OUROBOROS】\"这里是Ouroboros,你们的情况怎么样?\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] 'This is Ouroboros. How are you doing?'",
+      "JP": "【OUROBOROS】「ここはouroboros、貴方たちの状況はどうだ？」",
+      "CN": "",
+      "KR": "【OUROBOROS】\"오로보로스다. 너희 상황은 어떻게 되는가?\"",
+      "TW": "【OUROBOROS】「這裡是Ouroboros，你們的情況怎麼樣？」"
+    }
+  },
+  "【RAMPAGE】\"Ouroboros,敌机已清除,接下来的路线是什么?\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] 'Ouroboros, enemy aircraft cleared. What's the next route?'",
+      "JP": "【レムペイジ】「オーロボロス、敵機はすべて排除された。次のルートは？」",
+      "CN": "",
+      "KR": "【RAMPAGE】\"오로보로스, 적기 격파. 다음 경로?",
+      "TW": "【狂暴狀態】「巨蛇，敵人已清除。下一步行動是什麼？」"
+    }
+  },
+  "【OUROBOROS】\"什么?你们用步枪把它打下来了?...\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] 'What? You brought it down with rifles?...'",
+      "JP": "【オーロボロス】「な、なんだ？ ライフルで仕留めたのか？…」",
+      "CN": "",
+      "KR": "【OUROBOROS】\"뭐? 라이플로 떨어뜨렸다고?...",
+      "TW": "【巨蛇】「什麼？你們用步槍把它擊落了？...」"
+    }
+  },
+  "【OUROBOROS】\"...好吧,这点事对RESCAPE小队确实自然不在话下.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] '...Well, this is definitely within RESCAPE's capabilities.'",
+      "JP": "【オーロボロス】「…まあ、リスキー隊にとってそんなことは朝飯前だな」",
+      "CN": "",
+      "KR": "【OUROBOROS】\"...알겠어, REscape 팀에겐 이런 일은 별일 아니지.",
+      "TW": "【巨蛇】「...好吧，這點小事對RESCAPE小隊來說確實是小菜一碟。」"
+    }
+  },
+  "【OUROBOROS】\"往下进入矿洞,穿过巨型风扇原型,然后抵达山崖边,支援已经突破交战区域.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] 'Proceed into the mine, pass the giant fan prototype, then reach the cliffside. Support has already broken through the combat zone.'",
+      "JP": "【オーロボロス】「トンネルをくぐり抜けて巨大ファン原型を通り、断崖へ向かえ。交戦区域突破の支援をしている」",
+      "CN": "",
+      "KR": "【OUROBOROS】\"다음 구간으로 이동, 대형 선풍기 관통 후 절벽 끝에 도달하여 교전 지역 돌파 지원을 이어가라.",
+      "TW": "【巨蛇】「向下進入礦坑，穿過巨型風扇原型，然後到達懸崖邊緣，支援已經突破了交戰區域。」"
+    }
+  },
+  "The gate is currently slowly opening...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが現在ゆっくりと開いている…",
+      "CN": "闸门正在缓慢开启...",
+      "KR": "성이 천천히 열리고 있다...",
+      "TW": "閘門目前正在緩慢開啟..."
+    }
+  },
+  "The door opened": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いた",
+      "CN": "门已打开",
+      "KR": "문이 열렸다.",
+      "TW": "門已打開"
+    }
+  },
+  "Find a way to take the C4": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4を確保する方法を探す",
+      "CN": "想办法获取C4炸药",
+      "KR": "C4를 획득하는 방법을 찾는다",
+      "TW": "想辦法取得C4炸藥"
+    }
+  },
+  "C4 is placed ! It will explode in 28 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4を設置！ 28秒後に爆発する",
+      "CN": "C4已安放！将在28秒后爆炸",
+      "KR": "C4가 설치되었다! 28초 후 폭발!",
+      "TW": "已放置C4！28秒後爆炸"
+    }
+  },
+  "Button 1 activated": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタン1作動",
+      "CN": "1号按钮已激活",
+      "KR": "버튼 1 활성화",
+      "TW": "按鈕 1 已啟動"
+    }
+  },
+  "RESIST 40 SECONDS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "耐性 40秒",
+      "CN": "坚守40秒",
+      "KR": "저항 40초",
+      "TW": "抵抗 40 秒"
+    }
+  },
+  "GO GO GOOO": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "行く行け行け！",
+      "CN": "冲 冲 冲",
+      "KR": "쭈우욱 가자",
+      "TW": "快衝!"
+    }
+  },
+  "STEAM OFF": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "蒸気オフ",
+      "CN": "蒸汽关闭",
+      "KR": "증기 꺼짐",
+      "TW": "蒸氣關閉"
+    }
+  },
+  "RESIST 53 SECONDS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "耐性 53秒",
+      "CN": "坚持53秒",
+      "KR": "저항 53초",
+      "TW": "抵抗 53 秒"
+    }
+  },
+  "Wait for power off": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電源オフを待つ",
+      "CN": "等待蒸汽关闭",
+      "KR": "전원 끄기 대기",
+      "TW": "等待電力關閉"
+    }
+  },
+  "WHEN THE STEAM IS OFF GET AWAY FROM THE MIDDLE OR YOU WILL GET ASPIRED BY THE TURBINE": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "蒸気が止まったら中央から離れること、タービンに吸い込まれるぞ",
+      "CN": "当蒸汽阀门关闭时，远离中心区域，否则会被涡轮机吸入",
+      "KR": "증기가 꺼지면 가운데에서 벗어나세요. 터보기에 빨려 들어갑니다.",
+      "TW": "蒸氣關閉時，請遠離中心區域，否則會被渦輪吸入"
+    }
+  },
+  "LIFT LEAVE IN 10 SEC": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リフト、10秒後離脱",
+      "CN": "升降机将在10秒后启动",
+      "KR": "10초 후 이탈",
+      "TW": "離升平台剩餘 10 秒"
+    }
+  },
+  "【OUROBOROS】\"RAMPAGE!终于联系上你们了!我们已经突破敌军封锁,正在快速接近!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] 'RAMPAGE! Finally got through to you! We've broken the enemy blockade and are closing in fast!'",
+      "JP": "【ウロボロス】『ランプージ！ようやく連絡 took 你们了！我们已经突破敌军封锁,正在快速接近!'",
+      "CN": "",
+      "KR": "[오로보로스] '램페이지! 드디어 너희에게 연락했다! 적군의 봉쇄를 돌파했고 빠르게 접근 중이야!'",
+      "TW": "【咬蛇】「暴走！終於聯繫上你們了！我們已經突破敵軍封鎖，正在快速接近！」"
+    }
+  },
+  "【OUROBOROS】\"悬崖已经布满了感染者,战机即将抵达为你们开拓一条直抵终点的道路!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] 'The cliff is overrun with infected. The fighter jet will arrive shortly to carve a direct path to the finish line for you.'",
+      "JP": "【ウロボロス】『崖已经布满了感染者,战机即将抵达为你们开拓一条直抵终点的道路!'",
+      "CN": "",
+      "KR": "[오로보로스] 절벽 전체가 감염자로 가득 차 있으며, 전투기가 도착하면 끝까지 reaching 하는 통로를 열어줄 거야!'",
+      "TW": "【咬蛇】「懸崖已經佈滿了感染者，戰機即將抵達為你們開闢一條直抵終點的道路！」"
+    }
+  },
+  "【RAMPAGE】......": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ランプージ】......",
+      "CN": "【暴走】……",
+      "KR": "【RAMPAGE】......",
+      "TW": "【暴走狀態】......"
+    }
+  },
+  "【RAMPAGE】所以，我们也算是故地重游了....不是吗?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] So, this could be considered a trip down memory lane... right?",
+      "JP": "【ランプージ】所以，我们也算是故地重游了....不是吗?",
+      "CN": "",
+      "KR": "[램페이지] 그렇다면, 우리도 다시 옛땅을 밟는 셈이네.... 그렇지?",
+      "TW": "【暴走】所以，我們也算是故地重遊了....不是吗？"
+    }
+  },
+  "【RAMPAGE】…再一次地揭开我们的旧伤.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] ...Tearing open old wounds, once again.",
+      "JP": "【ランプージ】…再一次地揭开我们的旧伤.",
+      "CN": "",
+      "KR": "[램페이지] ...다시 한 번 옛 상처를 건드리는군.",
+      "TW": "【暴走】…再一次地揭開我們的舊傷。"
+    }
+  },
+  "【OUROBOROS】愿我们在XEN星相见!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[OUROBOROS] May we meet on Planet XEN!",
+      "JP": "【ウロボロス】愿我们在XEN星相见!",
+      "CN": "",
+      "KR": "[오로보로스] 우리가 XEN 행성에서 만나길 바라며!",
+      "TW": "【咬蛇】願我們在XEN星相見！"
+    }
+  },
+  "【RAMPAGE】如果在法国大使馆我们没能通过测试,那么世界会变成什么样子?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] What would the world look like if we hadn't passed the test at the French Embassy?",
+      "JP": "【ランプージ】如果在法国大使馆我们没能通过测试,那么世界会变成什么样子?",
+      "CN": "",
+      "KR": "[램페이지] 프랑스 대사관에서의 테스트를 통과하지 못했다면, 세상은 어떻게 변해 있었을까?",
+      "TW": "【暴走】如果在法國大使館我們未能通過測試，那麼世界會變成什麼樣？"
+    }
+  },
+  "Bomb actived": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Bomb actived",
+      "CN": "炸弹已激活",
+      "KR": "폭발물 작동",
+      "TW": "Bomb actived"
+    }
+  },
+  "【RAMPAGE】技术官,如果当时,你们没前往X13基地,原地等待支援,是不是会有更好的结果?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] Technician, if you hadn't gone to Base X13 and had instead waited for support on the spot, would the outcome have been better?",
+      "JP": "【RAMPAGE】技術官、もしあの時、あなたがたがX13基地へ向かわず、そこで支援を待っていたら、もっと良い結果になったでしょうか？",
+      "CN": "",
+      "KR": "【RAMPAGE】기술관, 만약 그때 우리가 X13 기지로 향하지 않고原地에서 지지를 기다렸다면, 더 좋은 결과가 나왔을까요?",
+      "TW": "【RAMPAGE】技術官，如果當時你們沒前往X13基地，而是原地等待支援，結果會不會更好？"
+    }
+  },
+  "【RAMPAGE】如果尼赫伦斯没耍这些小把戏,是不是现在一切已经结束了?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] If the Nihrines hadn't pulled those little tricks, wouldn't everything have been over by now?",
+      "JP": "【RAMPAGE】もしネウロンスがそうした小手閑を使っていなければ、もうすべては終わっていたのでしょうか？",
+      "CN": "",
+      "KR": "【RAMPAGE】만약 니헬렌스가 이런 꼼수를 부리지 않았다면, 지금 모든 것이 끝났을까요?",
+      "TW": "【RAMPAGE】如果尼赫倫斯沒耍這些小把戲，現在的一切是不是已經結束了？"
+    }
+  },
+  "【RAMPAGE】如果当时FILTH和VERTIGO都活下来,我们是不是还能一起参战NPST?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] If both FILTH and VERTIGO had survived back then, could we have participated in NPST together?",
+      "JP": "【RAMPAGE】もしあの時、FILTHとVERTIGOが生き残っていれば、私たちはまだNPSTに参戦できていたのでしょうか？",
+      "CN": "",
+      "KR": "【RAMPAGE】만약 그때 FILTH와 VERTIGO가 살아남았다면, 우리는 함께 NPST에 참전할 수 있었을까요?",
+      "TW": "【RAMPAGE】如果當時FILTH和VERTIGO都活下來，我們是不是還能一起參戰NPST？"
+    }
+  },
+  "GET ON THE HELICOPTER": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターに乗れ",
+      "CN": "登机",
+      "KR": "헬리콥터로 올라타라",
+      "TW": "快上直升機"
+    }
+  },
+  "【RAMPAGE】无论如何,现在...要做的只有一件事.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] Regardless... there's only one thing left to do now.",
+      "JP": "【RAMPAGE】無論、今…やるべきことはたった一つだ。",
+      "CN": "",
+      "KR": "【RAMPAGE】어쨌든, 지금... 해야 할 일은 단 하나.",
+      "TW": "【RAMPAGE】無論如何，現在……要做的只有一件事。"
+    }
+  },
+  "【RAMPAGE】连同这一切悲剧…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] With all this tragedy...",
+      "JP": "【RAMPAGE】このすべての悲劇と…",
+      "CN": "",
+      "KR": "【RAMPAGE】이 모든 비극과 함께...",
+      "TW": "【RAMPAGE】讓這些悲劇……"
+    }
+  },
+  "【RAMPAGE】一起引爆!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMPAGE] Let's blow them up together!",
+      "JP": "【RAMPAGE】一緒に吹き飛ばそう！",
+      "CN": "",
+      "KR": "【RAMPAGE】함께 격파하자!",
+      "TW": "【RAMPAGE】一起引爆！"
+    }
+  },
+  "【RAMAPGE】XEN星吗...以血还血......": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAMAPGE] Planet XEN... blood for blood...",
+      "JP": "【RAMAPGE】ゼン星か…血には血を...",
+      "CN": "",
+      "KR": "【RAMAPGE】XEN 행성인가... 피로 갚자...",
+      "TW": "【RAMAPGE】XEN星嗎……以血還血……"
+    }
+  },
+  "Button 3 activated": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタン3作動",
+      "CN": "按钮3已激活",
+      "KR": "단추 3 활성화",
+      "TW": "已啟動按鈕 3"
+    }
+  },
+  "Button 2 activated": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタン2作動",
+      "CN": "按钮2已激活",
+      "KR": "단추 2 활성화",
+      "TW": "已啟動按鈕 2"
+    }
+  },
+  "Lasers OFF": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザーOFF",
+      "CN": "激光关闭",
+      "KR": "레이저 끔",
+      "TW": "雷射關閉"
+    }
+  },
+  "Run in 10 sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に走行",
+      "CN": "10秒后开始行动",
+      "KR": "10초 후 시작",
+      "TW": "10 秒後啟動"
+    }
+  }
+}

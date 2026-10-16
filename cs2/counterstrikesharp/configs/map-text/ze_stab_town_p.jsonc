@@ -1,11 +1,32 @@
 {
   "*": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "【Start translating】",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "【번역 시작】",
+      "TW": ""
+    }
   },
   "***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   }
 }

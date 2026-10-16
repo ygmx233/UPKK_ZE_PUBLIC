@@ -1,0 +1,182 @@
+{
+  "\"ze_name_defense\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze_name_defense",
+      "CN": "兵种名称-防御",
+      "KR": "지명 방어",
+      "TW": "技能名稱_防禦"
+    }
+  },
+  "\"Author:Charlie\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "制作者:Charlie",
+      "CN": "作者：Charlie",
+      "KR": "제작자: Charlie",
+      "TW": "作者：Charlie"
+    }
+  },
+  "\"This is my first map. Please comment on workshop page if any question exists.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "これは私の初めてのマップです。質問がある場合はワークショップページでコメントしてください。",
+      "CN": "这是我的第一张地图。如有问题，请在创意工坊页面留言评论。",
+      "KR": "이것은 제 첫 번째 맵입니다. 궁금한 점이 있다면 워크샵 페이지에 코멘트를 남겨주세요.",
+      "TW": "這是我的第一張地圖。如有任何問題，歡迎在創意工坊頁面留言評論。"
+    }
+  },
+  "\"Head for stage1.Defend somewhere for 60s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1へ移動。60秒間どこかを防衛せよ。",
+      "CN": "前往第1阶段。在指定位置坚守60秒。",
+      "KR": "ステージ 1로 이동. 60초간 어디선가 방어하세요.",
+      "TW": "前往第1關。在某處防禦60秒。"
+    }
+  },
+  "\"Head for stage2.Defend somewhere for 60s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2へ移動。60秒間どこかを防衛せよ。",
+      "CN": "前往第2阶段。在指定位置坚守60秒。",
+      "KR": "ステージ 2로 이동. 60초간 어디선가 방어하세요.",
+      "TW": "前往第2關。在某處防禦60秒。"
+    }
+  },
+  "\"Head for last stage.Defend somewhere for 60s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終ステージへ移動。60秒間どこかを防衛せよ。",
+      "CN": "前往最终阶段。在指定位置坚守60秒。",
+      "KR": "최종 스테이지로 이동. 60초간 어디선가 방어하세요.",
+      "TW": "前往最終關。在某處防禦60秒。"
+    }
+  },
+  "\"Prohibit implying map name. \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ名を暗に示すことは禁止。",
+      "CN": "禁止暗示地图名称。",
+      "KR": "맵 이름을 추측하는 것은 금지됩니다.",
+      "TW": "禁止暗示地圖名稱。"
+    }
+  },
+  "Zombie will be released 15s later.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビーは15秒後に出現します。",
+      "CN": "僵尸将在15秒后出现。",
+      "KR": "지브리가 15초 후에 생성됩니다.",
+      "TW": "殭屍將在15秒後釋放。"
+    }
+  },
+  "ze_name_defense by Charlie": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "対戦相手:Charlie",
+      "CN": "ze_name_defense by Charlie",
+      "KR": "ze_name_defense by Charlie",
+      "TW": "ze_name_defense 由 Charlie"
+    }
+  },
+  "Defend here for 45s.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここを守る：45秒",
+      "CN": "在此防守45秒。",
+      "KR": "45초 동안 여기에서 방어하세요.",
+      "TW": "在此防守45秒。"
+    }
+  },
+  "Head for next stage.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のステージへ移動",
+      "CN": "前往下一关。",
+      "KR": "다음 스테이지로 이동합니다.",
+      "TW": "前往下一關卡。"
+    }
+  },
+  "Laser and bullet competition starts in 15s.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザーと弾丸の対戦：15秒後開始",
+      "CN": "激光与子弹竞赛将于15秒后开始。",
+      "KR": "레이저와 총기 대결이 15초 후에 시작됩니다.",
+      "TW": "激光與子彈競賽將於15秒後開始。"
+    }
+  },
+  "Noob has been cleared.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ノブを撃破しました。",
+      "CN": "新手已清除。",
+      "KR": "누브가 제거되었습니다.",
+      "TW": "新手已清除。"
+    }
+  },
+  "You've won the championship again.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなたは見事チャンピオンになりました。",
+      "CN": "你再次赢得了冠军。",
+      "KR": "다시 한 번 챔피언십에서 승리하셨습니다.",
+      "TW": "您再次奪得錦標賽冠軍。"
+    }
+  },
+  "Enjoy your spoils.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "戦利品を楽しんでください。",
+      "CN": "享受你的战利品。",
+      "KR": "전리품을 즐기세요.",
+      "TW": "享受您的戰利品。"
+    }
+  },
+  "Head for last stage.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後のステージへ移動",
+      "CN": "前往最终关卡。",
+      "KR": "마지막 스테이지로 이동합니다.",
+      "TW": "前往最後關卡。"
+    }
+  },
+  "Prohibit suggesting map name.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ名を提案することは禁止されています。",
+      "CN": "禁止建议使用地图名称。",
+      "KR": "지도 이름 제안 금지",
+      "TW": "禁止建議地圖名稱。"
+    }
+  },
+  "Audio gun 2 has been picked up.It can play music with 20s cooldown.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "オーディオガン2を拾いました。20秒のクールタイムで音楽を再生できます。",
+      "CN": "已拾取音频枪2。它可以播放音乐，冷却时间为20秒。",
+      "KR": "[오디오 건 2]를 획득했습니다. 20초의 쿨타임 후 음악을 재생할 수 있습니다.",
+      "TW": "已拾取音效槍 2，可播放音樂，冷卻時間為 20 秒。"
+    }
+  }
+}

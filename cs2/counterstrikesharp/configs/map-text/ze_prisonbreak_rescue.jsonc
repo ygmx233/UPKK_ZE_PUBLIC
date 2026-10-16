@@ -1,0 +1,542 @@
+{
+  "Activate one controller in Area A!": {
+    "translation": "A区控制器已激活！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エリアAのコントローラを1つ作動させる！",
+      "CN": "在A区启动一台控制器！",
+      "KR": "지역 A의 컨트롤러 1개를 활성화하세요!",
+      "TW": "啟動區域A中的一個控制器！"
+    }
+  },
+  "Activate the emergency power controller!": {
+    "translation": "去激活紧急电源控制器！",
+    "MultiLang": {
+      "US": "",
+      "JP": "緊急電力コントローラを作動させる！",
+      "CN": "启动紧急电源控制器！",
+      "KR": "비상 전원 컨트롤러를 활성화하세요!",
+      "TW": "啟動緊急電源控制器！"
+    }
+  },
+  "Activate the firewall controller!": {
+    "translation": "去激活防火墙控制器！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールコントローラを作動させる！",
+      "CN": "启动防火墙控制器！",
+      "KR": "방화벽 컨트롤러를 활성화하세요!",
+      "TW": "啟動防火牆控制器！"
+    }
+  },
+  "Activate three controllers in Area C!": {
+    "translation": "C区控制器已激活！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エリアCのコントローラを3つ作動させる！",
+      "CN": "在C区启动三台控制器！",
+      "KR": "지역 C의 컨트롤러 3개를 활성화하세요!",
+      "TW": "啟動區域C中的三個控制器！"
+    }
+  },
+  "Activate two controllers in Area B!": {
+    "translation": "B区控制器已激活！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エリアBのコントローラを2つ作動させる！",
+      "CN": "在B区启动两台控制器！",
+      "KR": "지역 B의 컨트롤러 2개를 활성화하세요!",
+      "TW": "啟動區域B中的兩個控制器！"
+    }
+  },
+  "Call a support helicopter from the rooftop radio facility...": {
+    "translation": "从楼顶的无线电设施呼叫支援直升机……",
+    "MultiLang": {
+      "US": "",
+      "JP": "屋上の無線施設から支援ヘリコプターを呼ぶ…",
+      "CN": "从屋顶电台设施呼叫支援直升机……",
+      "KR": "옥상 통신 시설에서 지원 헬기를 호출하십시오...",
+      "TW": "從屋頂無線電設施呼叫支援直升機……"
+    }
+  },
+  "Escape successful!": {
+    "translation": "成功逃脱！翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出成功！",
+      "CN": "逃脱成功！",
+      "KR": "탈출 성공!",
+      "TW": "逃脱成功！"
+    }
+  },
+  "Escort First Lieutenant Sas!": {
+    "translation": "护送赛斯中尉！",
+    "MultiLang": {
+      "US": "Escort Lt. Sas!",
+      "JP": "サス一等兵の護衛",
+      "CN": "护送萨伊斯中尉！",
+      "KR": "sas 중위를 호송하세요!",
+      "TW": "護送薩斯中尉！"
+    }
+  },
+  "Find and rescue First Lieutenant Sas!": {
+    "translation": "找到并解救赛斯中尉！",
+    "MultiLang": {
+      "US": "",
+      "JP": "サス二等兵士を見つけ、救出してください！",
+      "CN": "找到并营救萨斯中尉！",
+      "KR": "사스 중위를 찾고 구출하세요!",
+      "TW": "搜尋並營救薩斯中尉！"
+    }
+  },
+  "First Lieutenant Sas dead...": {
+    "translation": "赛斯中尉已经死了……",
+    "MultiLang": {
+      "US": "",
+      "JP": "サス二等兵士の死体…",
+      "CN": "萨斯中尉阵亡……",
+      "KR": "사스 중위 사망...",
+      "TW": "薩斯中尉陣亡……"
+    }
+  },
+  "Hold on until the rescue helicopter arrives!": {
+    "translation": "坚持到救援直升机赶到！",
+    "MultiLang": {
+      "US": "",
+      "JP": "救助ヘリコプターが到着するまで、ここで待機してください！",
+      "CN": "坚持到救援直升机到达！",
+      "KR": "구조 헬기가 도착할 때까지 버티세요!",
+      "TW": "撑到救援直升機抵達！"
+    }
+  },
+  "Move to the helipad now!": {
+    "translation": "现在前往直升机停机坪！",
+    "MultiLang": {
+      "US": "",
+      "JP": "今すぐヘリポートへ移動してください！",
+      "CN": "立即前往停机坪！",
+      "KR": "지금 헥파드로 이동하세요!",
+      "TW": "立即前往直升机停机坪！"
+    }
+  },
+  "Move upstairs to avoid the flames!": {
+    "translation": "快上楼，避开火焰！",
+    "MultiLang": {
+      "US": "",
+      "JP": "火災を避けるため、階段を上ってください。",
+      "CN": "上到楼上以避开火焰！",
+      "KR": "불길을 피해 upstairs로 이동하세요!",
+      "TW": "前往楼上来避開火焰！"
+    }
+  },
+  "Pass through the hall and move towards the elevator!": {
+    "translation": "穿过走廊，朝电梯走去！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ホールを通り過ぎ、エレベーターの方へ向かってください。",
+      "CN": "穿过大厅，向电梯方向前进！",
+      "KR": "복도를 통과해서 엘리베이터 방향으로 이동하세요!",
+      "TW": "穿过大厅，向电梯方向前进！"
+    }
+  },
+  "Please hold on for 10 seconds!": {
+    "translation": "请耐心等候10秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒間、ここでお待ちください。",
+      "CN": "请坚持10秒！",
+      "KR": "10초간 기다려 주십시오!",
+      "TW": "請堅持10秒！"
+    }
+  },
+  "Please hold on for 20 seconds!": {
+    "translation": "请耐心等候20秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間、ここでお待ちください。",
+      "CN": "请坚持20秒！",
+      "KR": "20초간 기다려 주십시오!",
+      "TW": "請堅持20秒！"
+    }
+  },
+  "Please hold on for 30 seconds!": {
+    "translation": "请耐心等候30秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒お待ちください！",
+      "CN": "请再等30秒！",
+      "KR": "30초 동안 대기해 주세요!",
+      "TW": "請稍等 30 秒！"
+    }
+  },
+  "The elevator is working again!": {
+    "translation": "电梯恢复运行了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが正常に動作しています！",
+      "CN": "电梯已恢复运行！",
+      "KR": "엘리베이터가 다시 작동합니다!",
+      "TW": "電梯恢復運作！"
+    }
+  },
+  "The firewall will open in 1 seconds...": {
+    "translation": "防火墙将在1秒后开启……",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールが1秒後に開放されます…",
+      "CN": "防火墙将在1秒后开启...",
+      "KR": "방화벽이 1초後に 열립니다...",
+      "TW": "防火牆將於 1 秒後開啟……"
+    }
+  },
+  "The firewall will open in 2 seconds...": {
+    "translation": "防火墙将在2秒后开启……",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールが2秒後に開放されます…",
+      "CN": "防火墙将在2秒后开启...",
+      "KR": "방화벽이 2秒後に 열립니다...",
+      "TW": "防火牆將於 2 秒後開啟……"
+    }
+  },
+  "The firewall will open in 3 seconds...": {
+    "translation": "防火墙将在3秒后开启……",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールが3秒後に開放されます…",
+      "CN": "防火墙将在3秒后开启...",
+      "KR": "방화벽이 3秒後に 열립니다...",
+      "TW": "防火牆將於 3 秒後開啟……"
+    }
+  },
+  "The firewall will open in 4 seconds...": {
+    "translation": "防火墙将在4秒后开启……",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールが4秒後に開放されます…",
+      "CN": "防火墙将在4秒后开启...",
+      "KR": "방화벽이 4秒後に 열립니다...",
+      "TW": "防火牆將於 4 秒後開啟……"
+    }
+  },
+  "The firewall will open in 5 seconds...": {
+    "translation": "防火墙将在5秒后开启……",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールが5秒後に開放されます…",
+      "CN": "防火墙将在5秒后开启...",
+      "KR": "방화벽이 5秒後に 열립니다...",
+      "TW": "防火牆將於 5 秒後開啟……"
+    }
+  },
+  "The gate to the next area has opened!": {
+    "translation": "前往下一区域的门已经打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のエリアへのゲートが開きました！",
+      "CN": "通往下一区域的通道已开启！",
+      "KR": "다음 지역으로 가는 문이 열렸습니다!",
+      "TW": "通往下一個區域的大門已開啟！"
+    }
+  },
+  "The heilcopter will withdraw in 10 seconds!!MOVE NOW!!": {
+    "translation": "直升机将在10秒后撤离！！快走！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターは10秒後に出発します!!今すぐ移動してください!!",
+      "CN": "黑鹰直升机将在10秒后撤离！快行动！！",
+      "KR": "구명헬기가 10초 후 철수합니다!! 즉시 이동하세요!!",
+      "TW": "直升機將在10秒後離去！！快行動！！"
+    }
+  },
+  "The heilcopter will withdraw in 20 seconds!": {
+    "translation": "直升机将在20秒后撤离！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターは20秒後に出発します!",
+      "CN": "黑鹰直升机将在20秒后撤离！",
+      "KR": "구명헬기가 20초 후 철수합니다!",
+      "TW": "直升機將在20秒後離去！"
+    }
+  },
+  "The heilcopter will withdraw in 30 seconds!": {
+    "translation": "直升机将在30秒后撤离！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターは30秒後に出発します!",
+      "CN": "黑鹰直升机将在30秒后撤离！",
+      "KR": "구명헬기가 30초 후 철수합니다!",
+      "TW": "直升機將在30秒後離去！"
+    }
+  },
+  "The rescue helicopter has arrived!": {
+    "translation": "救援直升机到达了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "救助ヘリコプターが到着しました!",
+      "CN": "救援直升机已到达！",
+      "KR": "구명헬기가 도착했습니다!",
+      "TW": "救援直升機已抵達！"
+    }
+  },
+  "Wait until the firewall is open!": {
+    "translation": "等一下，等防火墙打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールが開くまで待ってください!",
+      "CN": "等待防火墙打开！",
+      "KR": "방화벽이 열릴 때까지 기다리세요!",
+      "TW": "等到防火牆開啟！"
+    }
+  },
+  "Warning!Zombie reinforcements have arrived!": {
+    "translation": "警告！僵尸增援来了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告!ゾンディの援軍が到着しました!",
+      "CN": "警告！丧尸援军已到达！",
+      "KR": "경고! 좀비 지원군이 도착했습니다!",
+      "TW": "警告！殭兵援軍抵達！"
+    }
+  },
+  "The firewall will open in 1 second...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールは1秒後には開きます...",
+      "CN": "防火墙将在1秒后打开...",
+      "KR": "방화벽이 1초 후에 열립니다...",
+      "TW": "防火牆將在1秒後開啟..."
+    }
+  },
+  "Activate 1 controller in Area A!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エリアAのコントローラーを1つ起動してください!",
+      "CN": "在A区域激活1个控制器！",
+      "KR": "구역 A에서 컨트롤러 1개를 작동하세요!",
+      "TW": "激活A區的1個控制器！"
+    }
+  },
+  "Activate 2 controllers in Area B!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エリアBでコントローラー2台を有効化せよ！",
+      "CN": "在B区激活2个控制器！",
+      "KR": "B구역에서 컨트롤러 2개를 활성화하세요!",
+      "TW": "在B區啟動2個控制器！"
+    }
+  },
+  "Activate 3 controllers in Area C!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エリアCでコントローラー3台を有効化せよ！",
+      "CN": "在C区激活3个控制器！",
+      "KR": "C구역에서 컨트롤러 3개를 활성화하세요!",
+      "TW": "在C區啟動3個控制器！"
+    }
+  },
+  "The rescue helicopter is about to arrive!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "救助ヘリコプターがまもなく到着します！",
+      "CN": "救援直升机即将抵达！",
+      "KR": "구난 헬리콥터가 곧 도착합니다!",
+      "TW": "救援直升機即將到達！"
+    }
+  },
+  "The helicopter will withdraw in 30 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターは30秒後に撤退します！",
+      "CN": "直升机将在30秒后撤离！",
+      "KR": "헬리콥터가 30초 후에 철수합니다!",
+      "TW": "直升機將在30秒後撤離！"
+    }
+  },
+  "The helicopter will withdraw in 20 seconds!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターは20秒後に撤退します！！",
+      "CN": "直升机将在20秒后撤离！！",
+      "KR": "헬리콥터가 20초 후에 철수합니다!!",
+      "TW": "直升機將在20秒後撤離！"
+    }
+  },
+  "The helicopter will withdraw in 10 seconds!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターは10秒後に撤退します！！！",
+      "CN": "直升机将在10秒后撤离！！！",
+      "KR": "헬리콥터가 10초 후에 철수합니다!!!",
+      "TW": "直升機將在10秒後撤離！"
+    }
+  },
+  "Escape successful!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出成功！！！",
+      "CN": "逃脱成功！！！",
+      "KR": "탈출 성공!!!",
+      "TW": "成功脫離！"
+    }
+  },
+  "ZM Mode.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZMモード。",
+      "CN": "僵尸模式。",
+      "KR": "ZM 모드.",
+      "TW": "殭屍模式"
+    }
+  },
+  "ze_prisonbreak_rescue(Season 2)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze_prisonbreak_rescue(シーズン2)",
+      "CN": "ze_prisonbreak_rescue(第二季)",
+      "KR": "ze_prisonbreak_rescue(시즌 2)",
+      "TW": "ze_prisonbreak_rescue(第二季)"
+    }
+  },
+  "Map by Royal Warrior": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "作成者：Royal Warrior",
+      "CN": "由皇家战士制作",
+      "KR": "제작자: 로열 워리어",
+      "TW": "地圖作者：皇家戰士"
+    }
+  },
+  "Thank for your playing!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイありがとうございます！",
+      "CN": "感谢您的游玩！",
+      "KR": "플레이해 주셔서 감사합니다!",
+      "TW": "感謝您的遊玩！"
+    }
+  },
+  "Hope you all enjoy the map!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップを楽しんでください！",
+      "CN": "希望您喜欢这张地图！",
+      "KR": "맵을 즐겨 주세요!",
+      "TW": "希望大家喜歡這張地圖！"
+    }
+  },
+  "Survive for 150 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "150秒間生存してください！",
+      "CN": "存活150秒！",
+      "KR": "150초 동안 생존하세요!",
+      "TW": "存活 150 秒！"
+    }
+  },
+  "Nuke in 100 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "核攻撃まで100秒！",
+      "CN": "核爆倒计时100秒！",
+      "KR": "핵폭발까지 100초!",
+      "TW": "核爆剩餘 100 秒！"
+    }
+  },
+  "Nuke in 60 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "核攻撃まで60秒！",
+      "CN": "核爆倒计时60秒！",
+      "KR": "핵폭발까지 60초!",
+      "TW": "核爆剩餘 60 秒！"
+    }
+  },
+  "Nuke in 30 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "核攻撃まで30秒！",
+      "CN": "核爆倒计时30秒！",
+      "KR": "핵폭발까지 30초!",
+      "TW": "核爆剩餘 30 秒！"
+    }
+  },
+  "Nuke in 20 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に核攻撃！",
+      "CN": "20秒后核弹袭击！",
+      "KR": "핵폭발까지 20초!",
+      "TW": "核打擊倒計時20秒！"
+    }
+  },
+  "Nuke in 10 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に核攻撃！",
+      "CN": "10秒后核弹袭击！",
+      "KR": "핵폭발까지 10초!",
+      "TW": "核打擊倒計時10秒！"
+    }
+  },
+  "Activate one of the firewall controllers!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールコントローラーのいずれかを起動せよ！",
+      "CN": "启动一个防火墙控制器！",
+      "KR": "방화벽 컨트롤러 중 하나를 활성화하십시오!",
+      "TW": "啟動其中一座防火牆控制器！"
+    }
+  },
+  "Follow First Lieutenant Sas's lead...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サス一等軍曹の指示に従え…",
+      "CN": "跟随萨斯中尉的指挥……",
+      "KR": "삽스 일병의 지시를 따르십시오...",
+      "TW": "跟隨薩斯一等兵..."
+    }
+  },
+  "Survive until the rescue helicopter arrives!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "救助ヘリが到着するまで生存せよ！",
+      "CN": "坚持到救援直升机抵达！",
+      "KR": "구난 헬기가 도착할 때까지 생존하십시오!",
+      "TW": "堅持到救援直升機抵達！"
+    }
+  },
+  "The rescue helicopter is about to arrive!Move to the helipad now!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "救助ヘリがまもなく到着！すぐにヘリパッドへ移動せよ！",
+      "CN": "救援直升机即将到达！立即前往停机坪！",
+      "KR": "구난 헬기가 곧 도착합니다! 즉시 착륙장으로 이동하십시오!",
+      "TW": "救援直升機即將抵達！立即前往直升機停機坪！"
+    }
+  }
+}

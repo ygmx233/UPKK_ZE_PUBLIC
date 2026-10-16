@@ -1,0 +1,1062 @@
+{
+  "该死！大家还好么？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it! Is everyone alright?",
+      "JP": "ちくしょう！みんな無事か？",
+      "CN": "",
+      "KR": "이봐, 잘 있니?",
+      "TW": "該死！大家還好嗎？"
+    }
+  },
+  "我们没事头儿": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We're fine, boss.",
+      "JP": "大丈夫です、リーダー！",
+      "CN": "",
+      "KR": "우리 괜찮아요, 팀장님.",
+      "TW": "我們沒事，頭兒。"
+    }
+  },
+  "看来只能找到另外的路出去了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Looks like we'll have to find another way out.",
+      "JP": "別の出口を探すしかないようだ。",
+      "CN": "",
+      "KR": "다른 길을 찾아야겠군.",
+      "TW": "看來只能找其他路出去了。"
+    }
+  },
+  "无线电能联系上么？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Can we make contact via wireless?",
+      "JP": "無線は通じるか？",
+      "CN": "",
+      "KR": "무선통신이 가능한가?",
+      "TW": "無線电能聯繫得上嗎？"
+    }
+  },
+  "不行 没信号头儿": {
+    "translation": "",
+    "MultiLang": {
+      "US": "No luck, no signal, boss.",
+      "JP": "無理だ、リーダー。電波が届かない。",
+      "CN": "",
+      "KR": "안돼, 신호가 없어요.",
+      "TW": "不行，沒信號，頭兒。"
+    }
+  },
+  "打起精神来！我一定会带你们出去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Pull yourselves together! I'll get you all out of here.",
+      "JP": "気を引き締めろ！必ず全員を脱出させてみせる。",
+      "CN": "",
+      "KR": "기합 한 번 넣자! 반드시 데리고 나올게.",
+      "TW": "打起精神來！我一定會帶你們出去！"
+    }
+  },
+  "守住15秒！刷！！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold the line for 15 seconds! Come on, go!!",
+      "JP": "15秒持ちこたえろ！バババババ！！！！",
+      "CN": "",
+      "KR": "15초 유지! 쉭！！！！",
+      "TW": "守住15秒！刷！！！！"
+    }
+  },
+  "怎么这里也有丧尸！开火！一个不留！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies here too! Open fire! Leave none alive!",
+      "JP": "ここにもゾンブラが！撃て！一人残さず始末だ！",
+      "CN": "",
+      "KR": "어디에 좀비들이 있냐! 사격, 한 명도 남기지 마!",
+      "TW": "怎麼這裡也有喪屍！開火！一個不留！"
+    }
+  },
+  "该死难道我们还没走出去这个鬼基地么！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn, have we not even gotten out of this damn base?",
+      "JP": "くそっ、まだこの鬼みたいな基地から出られてないの？",
+      "CN": "",
+      "KR": "게놈, 우리가 아직도 이 헛간에서 벗어나지 못했나!",
+      "TW": "該死，難道我們還沒走出這個鬼基地嗎！"
+    }
+  },
+  "看起来给上电了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Looks like it's powered on.",
+      "JP": "電源が入ったようだね",
+      "CN": "",
+      "KR": "전원이 켜진 것 같군",
+      "TW": "看起來已經供電了。"
+    }
+  },
+  "该死这破门跟本不动！给我15秒我来敲开他！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn, this door won't budge! Give me 15 seconds and I'll break it down!",
+      "JP": "くそっ、このドア全然開かない！私に15秒くれ、こじ開けるから！",
+      "CN": "",
+      "KR": "게놈, 이 문이 아예 열리지가 않아! 15초만 줘, 내가 깨볼게!",
+      "TW": "該死，這扇門完全不動！給我15秒，我來把它敲開！"
+    }
+  },
+  "僵尸3秒传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies teleport in 3 seconds.",
+      "JP": "ゾンビーは3秒後にテレポートする",
+      "CN": "",
+      "KR": "좀비가 3초 후에 텔레포트",
+      "TW": "殭屍3秒後傳送"
+    }
+  },
+  "可恶这地方烧的有点大给我30秒弄开他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn, it's burning way too hot! Give me 30 seconds to get it open.",
+      "JP": "くそ、ここが燃えすぎてる！私に30秒くれ、開けるから",
+      "CN": "",
+      "KR": "이 곳은 불타고 있어. 조금만 더 줘, 내가 열게!",
+      "TW": "可恶，這裡燒得有點大，給我30秒把它弄開。"
+    }
+  },
+  "这门好像是某个办公室打不开了给我点时间敲开他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This door seems to lead to an office and is stuck. Give me some time to break it open.",
+      "JP": "このドアは多分あるオフィスのものだが、開かなくなってる。時間くれ、こじ開けるから",
+      "CN": "",
+      "KR": "이 문은 어딘가 사무실인 것 같아. 열리지 않네, 잠시만 줘 깨볼게",
+      "TW": "這扇門好像是某個办公室的，打不開了，給我點時間把它敲開。"
+    }
+  },
+  "也许能发现点什么": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Maybe we can find something.",
+      "JP": "もしかしたら何か見つかるかも",
+      "CN": "",
+      "KR": "아마 뭔가 발견할 수 있을 거야",
+      "TW": "也許能發現什麼。"
+    }
+  },
+  "僵尸3秒后传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies teleport in 3 seconds.",
+      "JP": "ゾンビーは3秒後にテレポートする",
+      "CN": "",
+      "KR": "3초 후에 좀비 텔레포트",
+      "TW": "殭屍3秒後傳送"
+    }
+  },
+  "这个人身边好像是个终端，看着权限很高": {
+    "translation": "",
+    "MultiLang": {
+      "US": "There seems to be a terminal next to this person. It looks like it has high-level permissions.",
+      "JP": "この人物のそばにターミナルがあるな。アクセス権限が高そうだ",
+      "CN": "",
+      "KR": "이 사람 옆에 뭔가 단말기가 있는데, 권한이 높아 보인다",
+      "TW": "這個人旁邊好像有個終端，看起來權限很高。"
+    }
+  },
+  "旁边还有个门，好像要这个终端才能打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "There's a door nearby, but it seems to require that terminal to open.",
+      "JP": "隣に扉がある、このターミナルでしか開かないようだ",
+      "CN": "",
+      "KR": "옆에 문도 있는데, 그 단말기로만 열 수 있는 것 같아",
+      "TW": "旁邊還有一扇門，好像需要這個終端才能開啟。"
+    }
+  },
+  "给我15秒我去破解": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 15 seconds. I'm hacking it.",
+      "JP": "15秒くれ、ハッキングするから",
+      "CN": "",
+      "KR": "15초만 줘. 해킹할게",
+      "TW": "給我15秒，我去破解。"
+    }
+  },
+  "无线电还是联系不上么？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Can't establish contact via radio?",
+      "JP": "無線で連絡取れてないのか？",
+      "CN": "",
+      "KR": "무전기가 잡히지 않아?",
+      "TW": "無線電還是聯繫不上嗎？"
+    }
+  },
+  "僵尸在3秒后传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies will be teleported in 3 seconds.",
+      "JP": "ゾンビは3秒後にテレポートする",
+      "CN": "",
+      "KR": "좀비들이 3초 후에 텔레포트해",
+      "TW": "殭屍將在3秒後傳送。"
+    }
+  },
+  "一直联系!我去看看我们从哪里能出去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Keep trying the comms! I'll check how we can get out.",
+      "JP": "連絡を取り続けろ！出口を探すからな",
+      "CN": "",
+      "KR": "계속 연락해! 내가 어떻게 빠져나갈 수 있는지 확인해 볼게",
+      "TW": "持續聯繫！我去看看我們從哪裡能出去。"
+    }
+  },
+  "全是干扰头儿！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Heavy interference, boss!",
+      "JP": "ジャックだらけだ、ボス！",
+      "CN": "",
+      "KR": "방해 신호가 가득하よ, 상사!",
+      "TW": "全是干擾，老大！"
+    }
+  },
+  "该死！他们追上来了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it! They're closing in on us.",
+      "JP": "くそっ！追いつかれたぞ",
+      "CN": "",
+      "KR": "젠장! 그들이 쫓아온다",
+      "TW": "該死！他們追上來了。"
+    }
+  },
+  "我草！那是什么东西，好像被卡住了，这里不能久留": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What the hell! What is that thing? Looks like it’s jammed. We can’t stay here long.",
+      "JP": "やばっ！あれは何だ、なんか詰まってるみたいだ。ここに長時間留まるのは危険だ",
+      "CN": "",
+      "KR": "뭐야! 저건 뭐지? 갇인 것 같아. 여기 오래 머물 수 없어.",
+      "TW": "臥槽！那是什麼鬼東西，好像卡住了，這裡不能久留。"
+    }
+  },
+  "守住50秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold out for 50 seconds!",
+      "JP": "50秒間守れ",
+      "CN": "",
+      "KR": "50초 방어",
+      "TW": "防守50秒。"
+    }
+  },
+  "队长这有个电台！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain, there’s a radio here!",
+      "JP": "隊長、ここで無線機が見つかった！",
+      "CN": "",
+      "KR": "팀장, 라디오가 있습니다!",
+      "TW": "隊長，這裡有一個無線電！"
+    }
+  },
+  "好！看看能不能联系上外面还能用么？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Good! Let’s see if we can make contact with the outside. Is it operational?",
+      "JP": "了解だ！外部と連絡が取れるか確認してみる",
+      "CN": "",
+      "KR": "좋아! 밖과 연결될 수 있는지 확인해 봅시다.",
+      "TW": "好！試試能不能聯繫上外面，看看還能不能用？"
+    }
+  },
+  "有信号了队长！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We’ve got a signal, Captain!",
+      "JP": "信号届いたぜ、隊長！",
+      "CN": "",
+      "KR": "신호 잡혔습니다, 팀장!",
+      "TW": "有信號了，隊長！"
+    }
+  },
+  "猛禽2-2呼叫日暮小队听到请回复！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Raptor 2-2 calling Daybreak Squad. Come in!",
+      "JP": "猛禽2-2、日暮隊に連絡。受信できるか？",
+      "CN": "",
+      "KR": "맹금 2-2에서 일몰 스쿼드 호출합니다. 응답 바랍니다!",
+      "TW": "猛禽2-2呼叫日暮小隊，收到請回覆！"
+    }
+  },
+  "猛禽2-2这里是日暮小队！我们在基地被截断了！请求立刻撤离": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This is Daybreak Squad, Raptor 2-2! We’re cut off at the base! Requesting immediate extraction!",
+      "JP": "猛禽2-2、ここは日暮隊だ。基地で包囲されている！直ちに撤退を要請する",
+      "CN": "",
+      "KR": "맹금 2-2입니다, 일몰 스쿼드입니다! 기지에서 고립되었습니다! 즉시 철수 요청합니다.",
+      "TW": "猛禽2-2是日暮小隊！我們被截斷了！請求立即撤離！"
+    }
+  },
+  "快反已经出发！一定要活着出来！外面的情况也不容乐观！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Counter-attack force has departed! You must survive and get out! The situation outside is dire!",
+      "JP": "迅速反応部隊が出発した！必ず生き返ってこい！外部の状況も芳しくないぞ！",
+      "CN": "",
+      "KR": "빠른 대응대가 출격했습니다! 반드시 살아서 나오세요! 외부 상황도 우호적이지 않습니다!",
+      "TW": "先遣隊已經出發！一定要活著出來！外面的形勢也不容樂觀！"
+    }
+  },
+  "收到!基地北面有个直升机停机坪我们会在那接你！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Copy that! There's a helipad north of the base. We'll pick you up there!",
+      "JP": "了解！基地北側にヘリコプター乗り場があるから、そこで合流する！",
+      "CN": "",
+      "KR": "알았어! 기지 북쪽에 헬리패드 있어. 거기서 네가 나올 때까지 기다릴게!",
+      "TW": "收到！基地北面有直升機停机坪，我們會在那邊接你！"
+    }
+  },
+  "你们身上带的是未来人类的走向猛禽2-2完毕！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We're carrying the future of humanity. Raptor 2-2, out.",
+      "JP": "貴様らが持つ物は、未来の人類の行く末だ。猛禽、2-2、完了！",
+      "CN": "",
+      "KR": "우리가 가진 건 인류의 미래입니다. 래븐 2-2, 끝!",
+      "TW": "確認通訊內容。這是未來人類的動向，猛禽小隊二號完結！"
+    }
+  },
+  "兄弟们 坚持住 我们一定会活着出去！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Guys, hang in there. We're getting out of here alive!",
+      "JP": "みんな、頑張れ！必ず生きて脱出する！",
+      "CN": "",
+      "KR": "형들, 버텨라. 반드시 살아서 나올 거야!",
+      "TW": "兄弟们，挺住！我們一定會活着離開這裡！"
+    }
+  },
+  "该死这个基地设施已经波及到这个程度了么！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it, how has the facility's reach extended this far?",
+      "JP": "くそ、この基地施設はもうここまで拡大していたのか！",
+      "CN": "",
+      "KR": "바꿔 이 기지 시설이 이미 그런 수준이라니!",
+      "TW": "見鬼，基地設施已經波及到這種程度了嗎？"
+    }
+  },
+  "给我40秒！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 40 seconds!",
+      "JP": "40秒待って！",
+      "CN": "",
+      "KR": "40초만 줘!",
+      "TW": "給我40秒！"
+    }
+  },
+  "该死他们要来了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it, they're coming!",
+      "JP": "くそっ、奴らが来る！",
+      "CN": "",
+      "KR": "바꿔 그들이 온다!",
+      "TW": "見鬼，他們要來了！"
+    }
+  },
+  "小心！！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Look out!!!!",
+      "JP": "気をつけろ！！！！！",
+      "CN": "",
+      "KR": "위험!!!!",
+      "TW": "小心！！！！"
+    }
+  },
+  "别卖我！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Don't throw me under the bus!!!",
+      "JP": "俺を裏するな！！!",
+      "CN": "",
+      "KR": "내 팔지 마!!!",
+      "TW": "別賣我！！！"
+    }
+  },
+  "快！我们快走！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry! Let's move!",
+      "JP": "早く！急いで行こう！",
+      "CN": "",
+      "KR": "빨리! 얼른 가자!",
+      "TW": "快！我們快走！"
+    }
+  },
+  "草！这该死的破门！没电了哪个地方肯定没接上去找！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn this broken door! No power. There’s bound to be a loose connection somewhere—go find it!",
+      "JP": "クソっ、このドア、バッテリー切れか？どこにも電源供給されてない！",
+      "CN": "",
+      "KR": "젠장! 이 망할 문이 전기가 끊겼어. 어디 연결해 봐!",
+      "TW": "操！這該死的破門！沒電了肯定哪個地方沒接上，去找！"
+    }
+  },
+  "冯的可算找到了！给我15秒我给它接上去！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Found Feng! Give me 15 seconds, I'll hook it up!!",
+      "JP": "やっとフェンダーが見つかった！15秒くれ、接続するからな！！",
+      "CN": "",
+      "KR": "펑! 드디어 찾았네! 내게 15초만 줘, 바로 연결할게!",
+      "TW": "馮的終於找到了！給我15秒，我把它接上！！"
+    }
+  },
+  "门要开了 快走！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door is opening! Move!",
+      "JP": "ドアが開きかけた！急いで行け！",
+      "CN": "",
+      "KR": "문이 열려! 얼른 가자!",
+      "TW": "門要開了，快走！"
+    }
+  },
+  "头儿..我们还能出去么": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Boss... can we still get out of here?",
+      "JP": "ボス…、ここで僕たちは外に出れるか？\", \"6\": \"文句を言ってないで、その時間があったらもっと発砲して敵を倒せ",
+      "CN": "",
+      "KR": "팀장.. 우리가 탈출할 수 있을까?",
+      "TW": "頭兒……我們還能出去嗎？"
+    }
+  },
+  "少在这跟我发牢骚有那闲心不如多开火个干掉几个": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Stop complaining. If you have the energy, better use it to fire and take out some enemies.",
+      "JP": "文句を言う暇があるなら、代わりに攻撃して数を減らしたほうがいい",
+      "CN": "",
+      "KR": "불평하지 마. 그 시간으로 적을 더 많이 처치해.",
+      "TW": "少在這跟我發牢騷，有那閒心不如多開火幹掉幾個。"
+    }
+  },
+  "该死这破基地是尤里建的嘛到处没电！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn this rundown base built by Yuri! There's no power anywhere!",
+      "JP": "クソったれ、この基地はユールズが建てたんだな。あちこちに電気が通っていない！",
+      "CN": "",
+      "KR": "젠장, 이 막장 기지는 유리네가 지은 거야. 여기저기 전기가 안通的이!",
+      "TW": "該死，這破基地是尤里建的嗎？到處都沒電！"
+    }
+  },
+  "这好像是一个发电机房！给我15秒弄开他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This looks like a generator room! Give me 15 seconds, I'll get it open.",
+      "JP": "これは発電機室のようだ！15秒でこれを開けてやる",
+      "CN": "",
+      "KR": "여기는 발전소 같은데! 내게 15초만 줘, 반드시 열쇠를 찾아내!",
+      "TW": "這好像是一個發電機房！給我15秒，把它搞定。"
+    }
+  },
+  "看来已经恢复了一部分电力": {
+    "translation": "",
+    "MultiLang": {
+      "US": "It looks like part of the power has been restored.",
+      "JP": "一部の電力が回復したようだ",
+      "CN": "",
+      "KR": "전력이 일부 복구된 것 같습니다",
+      "TW": "看來已經恢復了一部分電力"
+    }
+  },
+  "僵尸将在3秒后传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The zombie will teleport in 3 seconds.",
+      "JP": "ゾンビーが3秒後にテレポートする",
+      "CN": "",
+      "KR": "좀비가 3초 후teleport됩니다",
+      "TW": "殭屍將在3秒後傳送"
+    }
+  },
+  "另一台机器需要预热15秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Another machine needs 15 seconds to warm up.",
+      "JP": "もう一台の機械の暖機に15秒かかる",
+      "CN": "",
+      "KR": "다른 기계가 15초 동안 예열 필요합니다",
+      "TW": "另一台機器需要預熱15秒"
+    }
+  },
+  "第二个机器也给上电了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The second machine is powered on too!",
+      "JP": "2号機の電源も投入完了！",
+      "CN": "",
+      "KR": "두 번째 기계에도 전원을 연결했습니다!",
+      "TW": "第二台機器也通電了！"
+    }
+  },
+  "电梯将在15秒后抵达": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will arrive in 15 seconds.",
+      "JP": "エレベーターは15秒後に到着する",
+      "CN": "",
+      "KR": "엘리베이터가 15초 후에 도착합니다",
+      "TW": "電梯將在15秒後抵達"
+    }
+  },
+  "好了快给上电我们坐电梯离开这里": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Okay, hurry and power it up so we can leave by elevator!",
+      "JP": "さあ、速やかに電源を入れ、エレベーターでここを離れよう",
+      "CN": "",
+      "KR": "자, 전원을 연결하고 엘리베이터를 타서 여기서 떠나요",
+      "TW": "好了快給第二台通電我們坐電梯離開這裡"
+    }
+  },
+  "电梯马上就到了坚持！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator is coming soon. Hang in there!!",
+      "JP": "エレベーターはもうすぐ到着する、頑張って！！",
+      "CN": "",
+      "KR": "엘리베이터가 곧 도착합니다 버텨요!!",
+      "TW": "電梯馬上就到了堅持！！"
+    }
+  },
+  "快进来我们要走了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry in, we're leaving!",
+      "JP": "さっさと中に入れ！もうすぐ出発だ！",
+      "CN": "",
+      "KR": "빨리 들어와요 우리 떠날 준비 됐습니다!",
+      "TW": "快進來我們要走了！"
+    }
+  },
+  "该死无线电又被干扰了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn radio interference again.",
+      "JP": "Damn radio is being interfered with again",
+      "CN": "",
+      "KR": "젠장, 무선 통신이 또 간섭받았어.",
+      "TW": "該死的無線電又被干擾了。"
+    }
+  },
+  "前面那个门好像需要什么开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "That door ahead seems to require something to open it.",
+      "JP": "The door ahead seems to need something to open it",
+      "CN": "",
+      "KR": "앞에 문이 뭔가 필요한 것 같아. 문을 열어야 할 것 같아.",
+      "TW": "前面那扇門似乎需要什麼才能開啟。"
+    }
+  },
+  "草！这电路老坏了好在通上了10秒后就能按开门了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it! The circuit is always breaking. Luckily, once fixed, you can open the door after 10 seconds.",
+      "JP": "Shit, the circuit keeps breaking, but luckily after 10 seconds I can press the open-door button",
+      "CN": "",
+      "KR": "젠장! 이 회로가 또 고장 났네. 다행히 10초 뒤면 문 열 수 있어.",
+      "TW": "靠！這電路老壞，好在通上後10秒就能按開門了。"
+    }
+  },
+  "门开了快肘！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door is open, elbow it!!!",
+      "JP": "Door's open, quick elbow it!!!",
+      "CN": "",
+      "KR": "문 열렸어, 얼른 팔로 밀어서 가！！！\n(참고: '肘'은 중국 인터넷 신조어로 '얼른 나가자/도망치자'는 뉘앙스를 가짐. 상황에 따라 '얼른 나가!'로 번역하는 것이 자연스러움)",
+      "TW": "門開了，快衝！！！"
+    }
+  },
+  "守住50秒兄弟们,这里走出去就到撤离点了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold for 50 seconds, bros. Beyond here is the extraction point.",
+      "JP": "Hold on for 50 seconds brothers, leaving here gets us to the extraction point",
+      "CN": "",
+      "KR": "50초 버텨봐, 형들. 여기서 벗어나면 회수 지점이야.",
+      "TW": "守住50秒，弟兄們，從這裡走出去就到撤离點。"
+    }
+  },
+  "可恶还是呼叫不到,这该死的垃圾玩意": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn, still can't get a signal. This damn junk.",
+      "JP": "Damn it, still can't call them, this damn garbage thing",
+      "CN": "",
+      "KR": "젠장, 여전히 연락이 안 돼. 이 썩은 쓰레기 같거나.",
+      "TW": "見鬼，還是呼叫不到，這該死的垃圾玩意。"
+    }
+  },
+  "这里到底发生了什么干扰这么严重？还是有人故意....": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What exactly is happening here? The interference is so severe. Or is someone doing it on purpose....",
+      "JP": "What exactly is happening here? The interference is so severe. Or is it someone doing it on purpose....",
+      "CN": "",
+      "KR": "도대체 여기선 무슨 일이 생겨서 이렇게 간섭이 심한 걸까? 아니면 누군가 일부로...?",
+      "TW": "這裡到底發生了什麼，干擾這麼嚴重？還是有人故意……"
+    }
+  },
+  "门开了快走！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door is open, move out!",
+      "JP": "Door's open, let's move!",
+      "CN": "",
+      "KR": "문 열렸어, 얼른 가!",
+      "TW": "門開了，快走！"
+    }
+  },
+  "该死！接应我们的人呢！？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it! Where is the extraction team!?",
+      "JP": "damn！支援の者はどこだ！？",
+      "CN": "",
+      "KR": "젠장! 우리를 구출해 줄 사람은 어디 있느냐!",
+      "TW": "該死！接應我們的人在哪？！"
+    }
+  },
+  "等等！无线电有讯号了！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Wait! We've got a radio signal!!",
+      "JP": "待て！無線に信号が来た！！",
+      "CN": "",
+      "KR": "잠깐! 무선 신호가 잡혔다!!",
+      "TW": "等等！無線電有訊號了！！"
+    }
+  },
+  "日暮小队收到回复！收到请回复！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Dusk Squad receiving reply! Copy, please confirm!",
+      "JP": "夕暮れ小隊、受信確認応答あり！了解か返信しろ！",
+      "CN": "",
+      "KR": "선셋 분대, 수신 확인! 수신해 주시오!",
+      "TW": "日暮小隊收到回覆！收到請回覆！"
+    }
+  },
+  "这里是日暮小队！我们到撤离点了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This is Dusk Squad! We have reached the extraction point!",
+      "JP": "夕暮れ小隊だ！撤退地点に着いた！",
+      "CN": "",
+      "KR": "선셋 분대입니다! 탈출 지점에 도착했습니다!",
+      "TW": "這裡是日暮小隊！我們已抵達撤離點！"
+    }
+  },
+  "收到！我们路上遇到了点麻烦，现在前往你们的坐标地点": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Copy that! We ran into some trouble on the way, heading to your coordinates now.",
+      "JP": "了解！往中に少し麻烦があったが、現在貴方の座標地点へ向かっている",
+      "CN": "",
+      "KR": "알겠습니당! 길에서 조금 막혔지만 현재 여러분 위치로 이동 중입니다.",
+      "TW": "收到！我們路上遇到些麻煩，現在前往你們的座標地點。"
+    }
+  },
+  "快点！我可不想成为僵尸的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry up! I don't want to become a zombie's...",
+      "JP": "急げ！ゾンビになりたくねえのだ",
+      "CN": "",
+      "KR": "빨리! 저는 좀비가 되고 싶지 않아요!",
+      "TW": "快點！我可不想變成殭屍！"
+    }
+  },
+  "坚持住兄弟们 门马上开了 25s之后": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on, brothers. The door will open in 25 seconds.",
+      "JP": "無理するな兄弟、間もなくドアが開く、25秒後だ",
+      "CN": "",
+      "KR": "버티세요, 형들! 문이 곧 열릴 거야. 25초 후!",
+      "TW": "堅持住，兄弟們！門馬上就開了，25秒後！"
+    }
+  },
+  "头儿！那是我们的直升机！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Chief! That's our helicopter!",
+      "JP": "リーダー！あれはうちのヘリコプターだ！",
+      "CN": "",
+      "KR": "반장! 그게 우리 헬기다!",
+      "TW": "隊長！那是我們的直升機！"
+    }
+  },
+  "该死！前面有个检查站我们先进去！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it! There's a checkpoint ahead, let's go in first!",
+      "JP": "くそ！前にチェックポイントがある、まずそこに入ろう！",
+      "CN": "",
+      "KR": "该死！前面有个检查站我们先进去！",
+      "TW": "該死！前面有個檢查站，我們先進去！"
+    }
+  },
+  "猛禽2-2呼叫友军单位！撤离点有不明单位袭击我们正在坠落重复我们正在坠落！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Raptor 2-2 calling friendly units! The exfil point is under attack by unidentified entities, we are going down, repeat, we are going down!",
+      "JP": "ハヤブサ2-2、味方部隊へ！抽出地点に不明な敵が襲来中。墜落中、繰り返し、墜落中！",
+      "CN": "",
+      "KR": "猛禽2-2呼叫友军单位！撤离点有不明单位袭击我们正在坠落重复我们正在坠落！",
+      "TW": "猛禽二之二呼叫友軍單位！撤離點遭受不明單位襲擊，我們正在墜落，重複，我們正在墜落！"
+    }
+  },
+  "快关啊！草！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry and close it! Shit!!!",
+      "JP": "早く閉めろ！くそッ！！！",
+      "CN": "",
+      "KR": "快关啊！草！！！",
+      "TW": "快關啊！草！！！（注：此處為口語化表達，指責門沒關緊）"
+    }
+  },
+  "这地方能启用大门..我看看..": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This place can activate the gate... let me check...",
+      "JP": "ここならゲートを起動できる……そうだ、確認するだろ？",
+      "CN": "",
+      "KR": "这地方能启用大门..我看看..",
+      "TW": "這裡能啟動大廳...讓我看看..."
+    }
+  },
+  "什么？身份认证？？？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What? Identity verification???",
+      "JP": "何だって？認証コード？？？",
+      "CN": "",
+      "KR": "什么？身份认证？？？",
+      "TW": "什麼？身份認證？？？"
+    }
+  },
+  "刚才在办公室找到的ID卡也许有用": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Maybe the ID card I found in the office will be useful",
+      "JP": "先ほどオフィスで拾ったIDカードが効くかもしれない",
+      "CN": "",
+      "KR": "刚才在办公室找到的ID卡也许有用",
+      "TW": "剛才在辦公室找到的ID卡或許有用。"
+    }
+  },
+  "守住50s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold out for 50s",
+      "JP": "50秒間保持せよ",
+      "CN": "",
+      "KR": "守住50s",
+      "TW": "守住50秒"
+    }
+  },
+  "！有用！兄弟们坚持住": {
+    "translation": "",
+    "MultiLang": {
+      "US": "! It worked! Hang in there, brothers!",
+      "JP": "！効いた！仲間は頑張れ",
+      "CN": "",
+      "KR": "！有用！兄弟们坚持住",
+      "TW": "！有用！兄弟們，堅持住！"
+    }
+  },
+  "他们要破墙出来了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "They're breaching the wall!",
+      "JP": "壁を破って出てこようとしている",
+      "CN": "",
+      "KR": "그들이 벽을 뚫고出て옵니다",
+      "TW": "他們要破牆進來了！"
+    }
+  },
+  "准备好兄弟们要撤了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Get ready, team. We're falling back.",
+      "JP": "準備しろ、連中は撤退する",
+      "CN": "",
+      "KR": "준비해라, 녀석들이 물러날 것이다",
+      "TW": "準備好，弟兄們我們要撤退了！"
+    }
+  },
+  "猛禽2-3呼叫日暮小队我们遭到攻击不能等你们太久 穿过地下隧道外有个停机坪": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Raptor 2-3 calling Daybreak Squad, we're under attack. We can't wait for you much longer. Go through the underground tunnel to the helipad outside.",
+      "JP": "ハヤブサ2-3、夕暮れ部隊へ。攻撃を受けたのでお前たちを長く待てない。地下トンネルを通って、外にヘリパッドがある。",
+      "CN": "",
+      "KR": "매미 2-3, 일몰 부대에게. 공격을 받아 더 이상 기다릴 수 없습니다. 지하 터널을 통과하면 외부에 착륙장이 있습니다.",
+      "TW": "猛禽2-3呼叫日暮小隊，我們遭到攻擊，不能等你們太久。穿過地下隧道，外面有個停機坪！"
+    }
+  },
+  "我们会在那里等你们,总部下令要彻底摧毁这里！祝好运！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We'll be waiting for you there. HQ ordered a total destruction of this location! Good luck!!",
+      "JP": "そこで待機する。本部の命令はここを完全に破壊することだ！幸運を！！",
+      "CN": "",
+      "KR": "그곳에서 기다리겠습니다. 본부 명령입니다: 이곳을 완전히 파괴하세요! 행운을 빕니다!",
+      "TW": "我們會在那裡等你們。總部下令要徹底摧毀這裡！祝好運！"
+    }
+  },
+  "当心！！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Beware!!!!!!",
+      "JP": "気をつけろ！！！！！",
+      "CN": "",
+      "KR": "주의!!!!!!",
+      "TW": "小心！！！！"
+    }
+  },
+  "甩掉他们了么？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Did you shake them off?",
+      "JP": "追手を振り切れたか？",
+      "CN": "",
+      "KR": "뒤따라오는 놈들을 따돌렸나?",
+      "TW": "甩掉他們了嗎？"
+    }
+  },
+  "什么动静？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What was that noise?",
+      "JP": "何か音はしないか？",
+      "CN": "",
+      "KR": "무슨 소리야?",
+      "TW": "什麼聲音？"
+    }
+  },
+  "可恶他们在我们头上！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it, they're above us!",
+      "JP": "くそっ、奴らが我々の上にいる！",
+      "CN": "",
+      "KR": "젠장, 녀석들이 우리 위에 있어!",
+      "TW": "該死，他們在我們頭上！"
+    }
+  },
+  "这群阴魂不散的混蛋！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You damn ghosts won't die!",
+      "JP": "この手強い連中だ！",
+      "CN": "",
+      "KR": "이 저주받을 놈들!",
+      "TW": "這群陰魂不散的混蛋！"
+    }
+  },
+  "守住25秒，准备逃亡": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold out for 25 seconds, then escape!",
+      "JP": "25秒防衛せよ。逃亡の準備をする",
+      "CN": "",
+      "KR": "25초간 버텨서 도주 준비를 해라.",
+      "TW": "守住25秒，準備逃離"
+    }
+  },
+  "门开了！跑！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door is open! Run!!",
+      "JP": "扉が開いた！走れ！！",
+      "CN": "",
+      "KR": "문이 열렸다! 도망쳐!!",
+      "TW": "門開了！快跑！"
+    }
+  },
+  "日暮小队,我们已经抵达目标地点！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Sunset Squad, we have arrived at the target location!",
+      "JP": "日暮小隊、目標地点に到着しました！",
+      "CN": "",
+      "KR": "데이타이드 팀, 목표 지점에 도착했습니다!",
+      "TW": "日暮小隊，我們已抵達目標地點！"
+    }
+  },
+  "收到,我们马上就到,请求火力支援丧尸数量太多了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Copy that. We're on our way immediately! Requesting fire support—there are too many zombies.",
+      "JP": "了解、ただちに向かいます。火力支援を要請します。ゾンビの数が多すぎます",
+      "CN": "",
+      "KR": "수락합니다. 곧 이동 중이며, 지원 사격을 요청합니다. 좀비가 너무 많습니다.",
+      "TW": "收到，我們馬上就到。請求火力支援，喪屍數量太多了！"
+    }
+  },
+  "该死这破门 给我15秒弄开他！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it, this door! Give me 15 seconds to break it open!",
+      "JP": "クソ、この扉を開けるまで15秒くれ！",
+      "CN": "",
+      "KR": "씨발, 이 문 고치는데 15초만 줘!",
+      "TW": "該死，這扇門讓我花15秒把它打開！"
+    }
+  },
+  "猛禽2-3收到，以红色信号弹为标记": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Raptor 2-3 copy, using red flares as markers.",
+      "JP": "ハーク2-3、了解。赤色信号弾を合図とする",
+      "CN": "",
+      "KR": "매사추세츠 2-3, 적색 신호탄을 표식으로 한다.",
+      "TW": "猛禽2-3收到，以紅色信號彈為標記。"
+    }
+  },
+  "僵尸10秒后传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies teleport in 10 seconds.",
+      "JP": "ゾンビ、10秒後に転移",
+      "CN": "",
+      "KR": "좀비, 10초 후 텔레포트",
+      "TW": "僵屍10秒後傳送。"
+    }
+  },
+  "我们出来了猛禽2-3 马上撤离！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Falcon 2-3 has exited the area, evacuating immediately!",
+      "JP": "猛禽2-3、脱出した！直ちに撤退！",
+      "CN": "",
+      "KR": "레드프콘 2-3, 즉시 철수!",
+      "TW": "猛禽2-3已脫離！立即撤離！"
+    }
+  },
+  "收到,停机坪外有个大门需要外部手动开启！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Copy. There's a large door outside the hangar that needs to be manually opened from the outside!",
+      "JP": "了解。ヘリポートの外の扉は外部から手動で開ける必要がある！",
+      "CN": "",
+      "KR": "확인. 헬기장 밖에 외부 수동 개방이 필요한 대형 출입문이 있어!",
+      "TW": "收到，停機坪外有一扇門需從外部手動開啟！"
+    }
+  },
+  "该死！这破门怎么不动！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it! Why isn't this damn door moving!!!",
+      "JP": "くそっ！この扉動くなよ！！！",
+      "CN": "",
+      "KR": "씨발! 이 문 왜 안 열려!!!",
+      "TW": "該死！這扇破門怎麼不動了！！！"
+    }
+  },
+  "坚持住兄弟们35s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on, guys, 35 seconds left!",
+      "JP": "頑張れ、仲間たち！あと35秒だ！",
+      "CN": "",
+      "KR": "버텨, 형제들! 35초!",
+      "TW": "大家撐住，剩35秒。"
+    }
+  },
+  "目标确认！准备轰炸！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Target confirmed! Prepare for bombing run!",
+      "JP": "目標確認！爆撃準備はいいか？",
+      "CN": "",
+      "KR": "표적 확인! 폭격 준비!",
+      "TW": "目標確認！準備空襲！"
+    }
+  },
+  "抓紧了！！我们要走了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Buckle up!! We're moving out!",
+      "JP": "握りたまえ！！俺たちが離れるぞ。",
+      "CN": "",
+      "KR": "단단히 잡자!! 떠나!",
+      "TW": "抱緊了！！我們要走啦。"
+    }
+  },
+  "可恶超载了给我10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it, we're overloaded. Give me 10 seconds.",
+      "JP": "くそっ、過負荷だ！10秒待て。",
+      "CN": "",
+      "KR": "씨발. 오버로드 상태, 10초만 줘!",
+      "TW": "討厭，超載了，給我10秒！"
+    }
+  },
+  "我们马上就能离开这个鬼地方！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We'll be out of this dump in no time!",
+      "JP": "もうすぐこの嫌な場所から抜け出せる！",
+      "CN": "",
+      "KR": "당장 이 찌질한 곳에서 벗어나는 거야!",
+      "TW": "我們馬上就能離開這鬼地方！"
+    }
+  },
+  "引擎正常液压正常，总部我们即将返航": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Engines are normal, hydraulics are normal. HQ, we are heading home.",
+      "JP": "エンジン正常、液压正常。総本部、帰還するぞ。",
+      "CN": "",
+      "KR": "엔진 정상, 유압계 이상 없음. 본부에 보고합니다. 곧 귀환하겠습니다.",
+      "TW": "引擎正常，液壓系統正常。總部，我們即將返航。"
+    }
+  },
+  "一切？都结束了么？！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Is it all? Has it all ended?!",
+      "JP": "すべて？ 終わったのか？！",
+      "CN": "",
+      "KR": "모든 것이... 끝난 것인가요?!",
+      "TW": "一切……都結束了嗎？！"
+    }
+  }
+}

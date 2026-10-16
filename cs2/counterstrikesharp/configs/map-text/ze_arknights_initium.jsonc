@@ -1,377 +1,1262 @@
 {
   "阿米娅：博士，整合运动已经发现了这里，我们需要尽快撤离": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya:博士，整合运动已经发现了这里，我们需要尽快撤离",
+      "JP": "阿米娅：ドクター、大衆解放軍がここに到達しました。速やかに撤退します",
+      "CN": "",
+      "KR": "아미야: 박사님, 통합운동 측이 이곳을 탐지했습니다. 빠르게 철수해야 합니다.",
+      "TW": "阿米婭：博士，整合運動已經發現這裡了，我們得盡快撤離。"
+    }
   },
   "阿米娅：大门还有30s打开，请再坚持一下": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya:大门还有30s打开，请再坚持一下",
+      "JP": "阿米娅：扉はまだ30秒で開きます。もう少しだけ耐えてください",
+      "CN": "",
+      "KR": "아미야: 메인 게이트가 30초 후에 열립니다. 조금 더 참고 기다려 주세요.",
+      "TW": "阿米婭：大門還有30秒才會開啟，請再堅持一下。"
+    }
   },
   "阿米娅：博士，地面出口就在那里": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya:博士，地面出口就在那里",
+      "JP": "阿米娅：ドクター、地上の出口はあちらです",
+      "CN": "",
+      "KR": "아미야: 박사님, 지상 출구는 바로 저기입니다.",
+      "TW": "阿米婭：博士，地面出口就在那裡。"
+    }
   },
   "阿米娅：糟糕，这里已经被整合运动包围了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya:糟糕，这里已经被整合运动包围了",
+      "JP": "阿米娅：まずい、ここは大衆解放軍に包囲されてしまいました",
+      "CN": "",
+      "KR": "아미야: 망쳤네요. 여기가 통합운동 측에 완전히 포위되었습니다.",
+      "TW": "阿米婭：糟了，這裡已經被整合運動包圍了。"
+    }
   },
   "ACE：博士，听得到吗，15s后我将进行墙壁爆破，请注意躲避": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACE:博士，听得到吗，15s后我将进行墙壁爆破，请注意躲避",
+      "JP": "ACE：ドクター、聞こえますか。15秒後に壁を爆破します。避けてください",
+      "CN": "",
+      "KR": "에이스: 박사님, 들리십니까? 15초 후 벽을 폭파합니다. 조심하십시오.",
+      "TW": "ACE：博士，聽得到嗎？15秒後我將進行牆壁爆破，請注意躲避。"
+    }
   },
   "ACE：博士，快走，整合运动还有15s空降": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACE:博士，快走，整合运动还有15s空降",
+      "JP": "ACE：ドクター、早く！大衆解放軍が15秒後に降下します",
+      "CN": "",
+      "KR": "에이스: 박사님, 빨리 가세요. 통합운동 측 공수 요원이 15초 후에 도착합니다.",
+      "TW": "ACE：博士，快走！整合運動還有15秒就會空降。"
+    }
   },
   "阿米娅：博士，前方的道路还有20s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya:博士，前方的道路还有20s开放",
+      "JP": "阿米娅：ドクター、前方のルートはあと20秒で開放されます",
+      "CN": "",
+      "KR": "아미야: 박사님, 앞쪽 도로가 20초 후에 개방됩니다.",
+      "TW": "阿米婭：博士，前方的道路還有20秒開放。"
+    }
   },
   "阿米娅：博士，前面是巨大的源石丛，我们已经无路可走了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya:博士，前面是巨大的源石丛，我们已经无路可走了",
+      "JP": "阿米娅：ドクター、前方に巨大なオリジウム結晶があります。行く手が阻まれました",
+      "CN": "",
+      "KR": "아미야: 박사님, 앞쪽에 거대한 오벌륨 군락이 있습니다. 더 이상 갈 곳이 없습니다.",
+      "TW": "阿米婭：博士，前面是巨大的源石叢，我們已經沒有退路了。"
+    }
   },
   "ACE：井盖下方似乎通往切尔诺伯格的排水管道": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACE: There appears to be a drain pipe leading to Chernobog beneath the manhole cover.",
+      "JP": "ACE：マンホールの下はチェルノボルの排水路に繋がっているようです",
+      "CN": "",
+      "KR": "ACE: 맨홀 아래로 체르노빌의 배수관으로 이어지는 것 같습니다.",
+      "TW": "ACE：井蓋下方似乎通往車諾貝格的排水管道"
+    }
   },
   "ACE:博士，我需要一点时间打开这个井盖": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACE: Doctor, I need some time to open this manhole cover.",
+      "JP": "ACE：ドクター、このマンホールを開けるまで少し時間をください",
+      "CN": "",
+      "KR": "ACE: 박사님, 이 맨홀을 열时间이 좀 필요합니다.",
+      "TW": "ACE：博士，我需要一點時間打開這個井蓋"
+    }
   },
   "ACE:好，打开了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACE: Alright, it's open.",
+      "JP": "ACE：よし、開けました",
+      "CN": "",
+      "KR": "ACE: 됐습니다, 열렸습니다.",
+      "TW": "ACE：好，打開了"
+    }
   },
   "ACE：博士，请尽快破坏通风口，整合运动将在40s后空降": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACE: Doctor, please destroy the ventilation shaft as soon as possible. Reunion will airdrop in 40 seconds.",
+      "JP": "ACE：ドクター、換気口を速やかに破壊してください。レボリューショナリーズは40秒後に空中投下されます",
+      "CN": "",
+      "KR": "ACE: 박사님, 환풍구를 최대한 빨리 파괴하십시오. 통합운동이 40초 후 공중 투하됩니다.",
+      "TW": "ACE：博士，請盡快破壞通風口，整合運動將在40秒後空降"
+    }
   },
   "ACE:即将空降，博士，抓稳了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACE: Airdrop incoming, Doctor, hold on tight.",
+      "JP": "ACE：空挺投下が近いです、ドクター、しっかり掴まってください",
+      "CN": "",
+      "KR": "ACE: 곧 공중 투하됩니다, 박사님,牢牢하게 잡으세요.",
+      "TW": "ACE：即將空降，博士，抓穩了"
+    }
   },
   "阿米娅：博士，请给我30s的时间部署水上平台，不要掉下去了哦": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, please give me 30 seconds to deploy the water platform. Don't fall in.",
+      "JP": "アルミナ：ドクター、水上プラットフォームを展開するまでに30秒させてください。落ちてしまわないように哦",
+      "CN": "",
+      "KR": "아미야: 박사님, 수상 플랫폼을 배치하는데 30초가 필요합니다. 떨어지지 않도록 주의하세요.",
+      "TW": "阿米婭：博士，請給我30秒的時間部署水上平台，不要掉下去了哦"
+    }
   },
   "阿米娅：整合运动还有10s空降，前方的道路还有30s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Reunion will airdrop in 10 seconds, and the path ahead will open in 30 seconds.",
+      "JP": "アルミナ：レボリューショナリーズはあと10秒で空挺投下されます。前方の通路は30秒後に開放されます",
+      "CN": "",
+      "KR": "아미야: 통합운동이 10초 후 공중 투하됩니다.前方的로가 30초 후 개방됩니다.",
+      "TW": "阿米婭：整合運動還有10秒空降，前方的道路還有30秒開放"
+    }
   },
   "阿米娅：整合运动还有10s进行空降，前方的震撼装置还需要30s进行爆破": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Reunion will airdrop in 10 seconds, and the shock device ahead still needs 30 seconds to detonate.",
+      "JP": "アルミナ：レボリューショナリーズはあと10秒で空挺投下されます。前方の衝撃装置の爆破にはさらに30秒かかります",
+      "CN": "阿米娅：整合运动还有10秒进行空降，前方的小型爆破装置还需要30秒进行爆破。",
+      "KR": "아미야: 통합운동이 10초 후 공중 투하됩니다.前方的의 충격 장치를 폭파하는데 30초가 더 필요합니다.",
+      "TW": "阿米婭：整合運動還有10秒進行空降，前方的震撼裝置還需要30秒進行爆破"
+    }
   },
   "阿米娅：请大家再防守30s，前方就是1-7关卡了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Please hold the defense for another 30 seconds. Stage 1-7 is ahead.",
+      "JP": "アーミア：皆さん、あと30秒間だけ防衛を維持してください。前方は1-7ステージです。",
+      "CN": "",
+      "KR": "아미야: 모두 30초 더 방어해 주세요. 바로 앞에 1-7 클리어가 있습니다.",
+      "TW": "阿米婭：請大家再防禦30秒，前方即將到達第1-7關卡"
+    }
   },
   "阿米娅：距离任务完成还剩下30s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Mission completion in 30 seconds.",
+      "JP": "アーミア：ミッション完了まで残り30秒です",
+      "CN": "",
+      "KR": "아미야: 미션 완료까지 30초 남았습니다.",
+      "TW": "阿米婭：距離任務完成還剩30秒"
+    }
   },
   "阿米娅：罗德岛大门还有30s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Rhodes Island Gate will open in 30 seconds.",
+      "JP": "アーミア：ロドスの門が開くまであと30秒です",
+      "CN": "",
+      "KR": "아미야: 로데오 정문까지 30초면 개방됩니다.",
+      "TW": "阿米婭：羅德島大門將在30秒後開啟"
+    }
   },
   "阿米娅：正在紧急联系维什戴尔小姐，马上就能获得支援了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: I'm urgently contacting Ms. Wis'adel. Support will be here momentarily.",
+      "JP": "アーミア：ウィスカード様に緊急連絡中です。すぐに支援が到着します",
+      "CN": "",
+      "KR": "아미야: 위슈데일 님과 긴급 연락 중입니다. 곧 지원이 도착할 예정입니다.",
+      "TW": "阿米婭：正在緊急聯繫維什戴爾小姐，馬上就能獲得支援了"
+    }
   },
   "祖宗发射器将在10s内充能完毕，请远离轰炸区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The Ancestor Launcher will finish charging in 10 seconds. Please stay clear of the bombardment zone.",
+      "JP": "祖先ランチャーは10秒以内でチャージを完了します。爆撃区域から離れてください",
+      "CN": "",
+      "KR": "조상 발사기가 10초 내에 조준을 완료합니다. 폭격 지역 근처에 머무르지 마십시오.",
+      "TW": "祖宗發射器將在10秒內充能完畢，請遠離轟炸區域"
+    }
   },
   "阿米娅：博士，我们已经到达龙门了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, we have arrived in Lungmen.",
+      "JP": "アーミア：ドクター、ロンドンに着きました",
+      "CN": "",
+      "KR": "아미야: 박사님, 저희가 문룡에 도착했습니다.",
+      "TW": "阿米婭：博士，我們已經到達龍門了"
+    }
   },
   "阿米娅：当务之急是与龙门领袖魏彦吾谈判并取得与龙门的合作，我们才有机会抵御整合运动的进攻": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Our top priority is to negotiate with Lungmen's leader, Wei Yanwu, and secure a cooperation agreement with Lungmen. Only then do we have a chance to resist the Reunion offensive.",
+      "JP": "アーミア：今すぐやるべきはロンドンのリーダー、魏彥吾氏との交渉を行い、ロンドンとの提携を締結することです。それこそが統合運動の攻撃に耐える唯一の機会です",
+      "CN": "",
+      "KR": "아미야: 당务之急是与龙门领袖魏彦吾谈判并取得与龙门的合作，我们才有机会抵御整合运动的进攻",
+      "TW": "阿米婭：當務之急是與龍門領袖魏彥吾談判並取得與龍門的合作，我們才有機會抵禦整合運動的進攻"
+    }
   },
   "前方红灯40s，请遵守龙门交规": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The red light ahead is 40 seconds. Please obey Lungmen traffic regulations.",
+      "JP": "前方信号機は赤色40秒。ロンドンの交通規則に従ってください",
+      "CN": "",
+      "KR": "전방 신호등 40초, 문룡 교통규정을 준수하십시오.",
+      "TW": "前方紅燈40秒，請遵守龍門交通規則"
+    }
   },
   "魏彦吾：罗德岛，我在选择盟友时只看重一点": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Wei Yenwu: When choosing allies, I value only one thing",
+      "JP": "魏彦吾：ロードアイランド、私が同盟者を選ぶ場合、只看一点に過ぎない",
+      "CN": "",
+      "KR": "위연오: 로드아일랜드는 동맹을 선택할 때 한 가지만 중시합니다.",
+      "TW": "魏彥吾：羅德島，我在選擇盟友時只看重一點"
+    }
   },
   "魏彦吾：那就是要拥有与我并肩的实力": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "That is the strength to stand alongside me",
+      "JP": "魏彦吾：それは、私と肩を並べるだけの実力を持つことだ",
+      "CN": "",
+      "KR": "그것은 저와 어깨를 나란히 할 실력을 갖춘 것이죠.",
+      "TW": "魏彥吾：那就是要擁有與我並肩的實力"
+    }
   },
   "距离龙门近卫局大门打开还有20s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "There are still 20 seconds until the龙门 City Guard Headquarters gates open",
+      "JP": "洛嘉の警備局の門が開くまで、あと20秒",
+      "CN": "",
+      "KR": "룽먼 근위국 정문 개설까지 20초 남았습니다.",
+      "TW": "距離龍門近衛局大門打開還有20s"
+    }
   },
   "魏彦吾：想要得到我的认可，就先和近卫局的警卫们过几招吧": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Wei Yenwu: If you want my approval, then first prove yourselves against the City Guard",
+      "JP": "魏彦吾：私の承認を得たいなら、まず警備局の護衛たちと几らか試合をしてみろ",
+      "CN": "",
+      "KR": "위연오: 제 인정을 받으려면, 먼저 근위국 경비병들과 승부를 겨뤄보세요.",
+      "TW": "魏彥吾：想要得到我的認可，就先和近衛局的警衛們過幾招吧"
+    }
   },
   "阿米娅：前方的区域还有40s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The area ahead will be open in 40 seconds",
+      "JP": "阿米娅：前方の区域は、あと40秒で開放されます",
+      "CN": "",
+      "KR": "아미야: 앞 구역 개방까지 40초 남았습니다.",
+      "TW": "阿米婭：前方的區域還有40s開放"
+    }
   },
   "阿米娅：办公室大门还有30s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The office doors will open in 30 seconds",
+      "JP": "阿米娅：事務所の玄関は、あと30秒で開きます",
+      "CN": "",
+      "KR": "아미야: 사무실 정문 개방까지 30초 남았습니다.",
+      "TW": "阿米婭：辦公室大門還有30s打開"
+    }
   },
   "已获得整合运动领袖情报1": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Obtained 1 intelligence report on the leader of Reunion",
+      "JP": "統合運動のリーダーに関する情報1を入手しました",
+      "CN": "",
+      "KR": "통합운동 지도부 관련 정보 1 획득",
+      "TW": "已獲得整合運動領袖情報1"
+    }
   },
   "阿米娅：博士，如果能搜集一些整合运动领袖的情报，或许有助于我们接下来的行动": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, if we could gather some intelligence on the leader of Reunion, it might help our upcoming operations",
+      "JP": "阿米娅：ドクター、もし統合運動のリーダーに関する情報をいくつか集められれば、今後の作戦に役立つかもしれません",
+      "CN": "",
+      "KR": "아미야: 박사는 통합운동 지도부 관련 정보를 조금이라도 수집하시면, 이후 작전에 도움이 될지도 모릅니다.",
+      "TW": "阿米婭：博士，如果能蒐集一些整合運動領袖的情報，或許有幫助於我們接下來的行動"
+    }
   },
   "阿米娅：办公室小门还有30s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The office side door will open in 30s.",
+      "JP": "アミヤ：オフィス内の小門まであと30秒で解放されます",
+      "CN": "",
+      "KR": "아미야: 사무실 작은 문이 30초 후에 열려요.",
+      "TW": "阿米婭：辦公室小門還有30秒開啟"
+    }
   },
   "阿米娅：似乎找到了魏警官房门的钥匙": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: I seem to have found the key to Officer Wei's office door.",
+      "JP": "アミヤ：どうやらチン警官の部屋の鍵を見つけました",
+      "CN": "阿米娅：看来找到了魏警官的房门钥匙",
+      "KR": "아미야: 위 경감님의 현관문을 열 수 있는 키를 찾은 것 같아요.",
+      "TW": "阿米婭：似乎找到了魏警官房門的鑰匙"
+    }
   },
   "阿米娅：好像没有别的道路了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: It seems there are no other ways out.",
+      "JP": "アミヤ：これ以上ほかの道はないようです",
+      "CN": "",
+      "KR": "아미야: 다른 길은看不到 보여지지 않는군요.",
+      "TW": "阿米婭：好像沒有別的路可走了"
+    }
   },
   "陈：没记错的话，这面墙的后面直通魏长官的办公室": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Ch'en: If I remember correctly, the wall behind us leads directly to Chief Wei's office.",
+      "JP": "陳：間違いなければ、この壁の向こうはストリート長官のオフィスに直接繋がっています",
+      "CN": "",
+      "KR": "진: 착각이 아니라면, 이 벽 뒤로 위 국장님의 사무실로 바로 이어져 있을 거야.",
+      "TW": "陳：沒記錯的話，這面牆的後面直通魏局長的辦公室"
+    }
   },
   "陈：不对，外面已经被近卫局包围了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Ch'en: No, the area outside is already surrounded by the Administrative Committee.",
+      "JP": "陳：違う、もう外は近衛局に包囲されてます",
+      "CN": "",
+      "KR": "진: 아니다, 외부가 이미 근위대에 의해 포위되었어.",
+      "TW": "陳：不對，外面已經被近衛局包圍了"
+    }
   },
   "已获得整合运动领袖情报2": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Acquired Intelligence: Reunion Leader",
+      "JP": "統合運動のリーダーに関する情報を2件入手しました",
+      "CN": "",
+      "KR": "통합운동 지도부 정보를 획득했습니다 2",
+      "TW": "已獲得整合運動領袖情報2"
+    }
   },
   "陈：试试找一找周围有没有能用的东西": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Ch'en: Try looking around for anything useful.",
+      "JP": "陳：周囲で使えそうなものをかぎ上げてみよう",
+      "CN": "",
+      "KR": "진: 주변에 쓸 만한 물건이 없는지 확인해 봐.",
+      "TW": "陳：試試看周圍有沒有能用得上的東西"
+    }
   },
   "陈：博士，我需要20s的时间来引爆": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Ch'en: Doctor, I need 20s to detonate.",
+      "JP": "陳：ドクター、爆発させるまでにあと20秒给您ください",
+      "CN": "",
+      "KR": "진: 박사님,폭파를 위해 20초가 필요해요.",
+      "TW": "陳：博士，我需要20秒的時間來引爆"
+    }
   },
   "阿米娅：绿色箱子里有一些炸药": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: There are some explosives in the green box.",
+      "JP": "アミヤ：緑色の箱には爆弾が入っています",
+      "CN": "",
+      "KR": "아미야: 녹색 상자 속에 폭발물이 들어 있어요.",
+      "TW": "阿米婭：綠色箱子裡有一些炸藥"
+    }
   },
   "阿米娅：魏警官的办公室门还有40s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Officer Wei's office door will open in 40s.",
+      "JP": "アミヤ：ウィー警察官のオフィスは40秒後に開きます",
+      "CN": "",
+      "KR": "아미야: 웨이옌우 경감의 사무실 문이 열리기까지 40초 남았어요.",
+      "TW": "阿米婭：魏警官的辦公室門還有40秒開啟"
+    }
   },
   "魏彦吾：博士，我已经认可了罗德岛的实力，希望接下来合作愉快": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Wei Yanwu: Doctor, I have recognized Rhodes Island's capabilities. I hope our cooperation going forward will be fruitful.",
+      "JP": "魏延吾：ドクター、私はロードアイランドの実力を認めます。これからの協力を楽しみにしています",
+      "CN": "",
+      "KR": "웨이옌우: 박사와 로도스는 이미 상호 간의 실력을 인정했습니다. 앞으로의 협력이 순조롭게 이루어지길 바랍니다.",
+      "TW": "魏彥吾：博士，我已經認可了羅德島的實力，希望接下來合作愉快"
+    }
   },
   "阿米娅：博士，我们接下来的目的地是切尔诺伯格下城区，请做好准备": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, our next destination is the Lower City of Chernobog. Please prepare accordingly.",
+      "JP": "アミヤ：ドクター、次に訪れるのはチェルノコブラの下部です。準備を完了させてください",
+      "CN": "",
+      "KR": "아미야: 박사님, 다음 목적지는 체르노베크 하층 도시입니다. 준비를 해 주세요.",
+      "TW": "阿米婭：博士，我們接下來的目的地是切爾諾伯格下城區，請做好準備"
+    }
   },
   "阿米娅：前方道路还有40s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The road ahead will open in 40s.",
+      "JP": "アミヤ：前方の道はあと40秒で解放されます",
+      "CN": "",
+      "KR": "아미야: 앞의 도로가 열리기까지 40초 남았어요.",
+      "TW": "阿米婭：前方道路還有40秒開放"
+    }
   },
   "已获得整合运动领袖情报3": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Acquired Intel: Leader of the Reunion Movement x3",
+      "JP": "インテグレーション・モブのリーダーについての手配完了",
+      "CN": "",
+      "KR": "통합운동 지도자的情報 3 획득",
+      "TW": "已獲得整合運動領袖情報3"
+    }
   },
   "阿米娅：距离门开还有30s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The door will open in 30s.",
+      "JP": "アミヤ：ドアが開くまであと30秒",
+      "CN": "",
+      "KR": "아미야: 문이 열리기까지 30초 남았어요.",
+      "TW": "阿米婭：距離門開啟還有30秒"
+    }
   },
   "阿米娅：还需要20s清理完道路": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Road clearance will be complete in 20s.",
+      "JP": "アミヤ：あと20秒で道路の確保完了",
+      "CN": "",
+      "KR": "아미야: 도로 정리 완료까지 20초 더 필요해요.",
+      "TW": "阿米婭：還需要20秒清理完道路"
+    }
   },
   "阿米娅：还需要20s清理箱子": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: 20s remaining to clear the crates",
+      "JP": "アーミヤ：箱の破壊にあと20秒",
+      "CN": "",
+      "KR": "아미야: 상자를 처리하는 데 20초 더 필요합니다",
+      "TW": "阿米婭：清除箱子仍需 20 秒"
+    }
   },
   "阿米娅：旁边似乎有一个管道可以通向下一个房间": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: There seems to be a pipe nearby leading to the next room",
+      "JP": "アーミヤ：隣には次の部屋へ続くパイプがありそうだ",
+      "CN": "",
+      "KR": "아미야: 옆에 다음 방으로 이어지는 파이프가 있는 것 같습니다",
+      "TW": "阿米婭：旁邊似乎有一條管道可通往下一個房間"
+    }
   },
   "阿米娅：距离大门打开还需要20s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: 20s remaining until the gate opens",
+      "JP": "アーミヤ：ゲート開放にあと20秒",
+      "CN": "",
+      "KR": "아미야: 문을 여는 데 20초 더 필요합니다",
+      "TW": "阿米婭：大門打開仍需 20 秒"
+    }
   },
   "已获得整合运动领袖情报4": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Acquired Reunion Leader Intel x4",
+      "JP": "「テログループ」リーダーの情報を入手した [4]",
+      "CN": "",
+      "KR": "통합운동 리더 정보를 4개 획득",
+      "TW": "已獲得整合運動領袖情報4"
+    }
   },
   "阿米娅：管道口开放还需要10s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: 10s remaining until the pipe vent opens",
+      "JP": "アーミヤ：パイプ開口にあと10秒",
+      "CN": "",
+      "KR": "아미야: 파이프 구멍을 여는 데 10초 더 필요합니다",
+      "TW": "阿米婭：管道口開啟仍需 10 秒"
+    }
   },
   "阿米娅：前方的木箱子还需要30s移除": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: 30s remaining to remove the wooden crates ahead",
+      "JP": "アーミヤ：前方の木箱除去にあと30秒",
+      "CN": "",
+      "KR": "아미야: 앞의 나무 상자를 치우는 데 30초 더 필요합니다",
+      "TW": "阿米婭：清除前方的木箱仍需 30 秒"
+    }
   },
   "阿米娅：通风管道口打开还需要20s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: 20s remaining until the ventilation duct opens",
+      "JP": "アーミヤ：換気口開放にあと20秒",
+      "CN": "",
+      "KR": "아미야: 환기구 열림까지 20초 남았습니다",
+      "TW": "阿米婭：通風管道口打開仍需 20 秒"
+    }
   },
   "阿米娅：打开卷帘门还需要30s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: 30s remaining until the roller door opens",
+      "JP": "アーミヤ：シャッター扉開閉にあと30秒",
+      "CN": "",
+      "KR": "아미야: 셔터 문을 열리는 데 30초 더 필요합니다",
+      "TW": "阿米婭：打開捲簾門仍需 30 秒"
+    }
   },
   "阿米娅：博士，周围的温度正在急剧下降，请保持警惕": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, the temperature is dropping rapidly. Stay alert.",
+      "JP": "アーミア：ドクター、周囲の気温が急激に低下しています。警戒を続けてください",
+      "CN": "",
+      "KR": "아미야: 박사님, 주변 온도가 급격히 하락하고 있습니다. 경계하십시오.",
+      "TW": "阿米婭：博士，周圍的溫度正在急劇下降，請保持警惕。"
+    }
   },
   "阿米娅：打开下一道卷帘门还需要20s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The next blast door will open in 20s.",
+      "JP": "アーミア：次の捲り戸を開くまであと20秒です",
+      "CN": "",
+      "KR": "아미야: 다음 롤링 도어를 열려면 20초가 더 필요합니다.",
+      "TW": "阿米婭：開啟下一道捲簾門還需20秒。"
+    }
   },
   "霜叶：博士，我曾听说过冰原上的一支乌萨斯小队，擅长使用凝冰法术": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Frostnova: Doctor, I've heard of a Sargon squad on the ice plains skilled in Ice Arts.",
+      "JP": "霜葉：ドクター、旧ウサーズ隊の氷原における部隊から凝氷術を得意とする者があるという噂を耳にしています",
+      "CN": "",
+      "KR": "서리나뭇잎: 박사님, 빙원 일대에서 응빙 마술을 전문으로 사용하는 우사스 소대를 들은 적이 있습니다.",
+      "TW": "霜葉：博士，我曾聽聞冰原上有一支烏蘇斯小隊，擅長使用凝冰法術。"
+    }
   },
   "霜叶：尤其是他们的队长，源石技艺炉火纯青，威胁极大，请大家小心": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Frostnova: Their captain is especially proficient, their Originium Arts are flawless. They pose a severe threat. Please be careful.",
+      "JP": "霜葉：特に隊長は源石技の扱いが非常に熟達しており、多大な脅威となります。皆様ご用心ください",
+      "CN": "",
+      "KR": "서리나뭇잎: 특히 그들의 대장은 원석 기예가 매우 숙달되어 있어 위협이 큽니다. 모두 조심하십시오.",
+      "TW": "霜葉：尤其是他們的隊長，源石技藝爐火純青，威脅極大，請大家小心。"
+    }
   },
   "已获得整合运动领袖情报5": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Integration Leader Intelligence Obtained x5",
+      "JP": "統合運動のリーダーに関する情報を5件入手しました",
+      "CN": "",
+      "KR": "통합전선 지도부 정보를 5개 획득했습니다.",
+      "TW": "已獲得整合運動領袖情報5"
+    }
   },
   "阿米娅：门开还需要30s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The door will open in 30s.",
+      "JP": "アーミア：次の門が開くまであと30秒です",
+      "CN": "",
+      "KR": "아미야: 문을 열려면 30초가 더 필요합니다.",
+      "TW": "阿米婭：門開啟還需30秒。"
+    }
   },
   "已获得整合运动领袖情报6": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Integration Leader Intelligence Obtained x6",
+      "JP": "統合運動のリーダーに関する情報を6件入手しました",
+      "CN": "",
+      "KR": "통합전선 지도부 정보를 6개 획득했습니다.",
+      "TW": "已獲得整合運動領袖情報6"
+    }
   },
   "阿米娅：这道门后面就是通向地面的通道了，大家再坚持30s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Behind this door lies the path to the surface. Please hold on for another 30s.",
+      "JP": "アーミア：この門の向こうは地上へ通じる通路です。あと30秒、もうすぐです",
+      "CN": "",
+      "KR": "아미야: 이 문 너머로 지면으로通하는 통로가 나옵니다. 모두 30초 더 버텨주십시오.",
+      "TW": "阿米婭：這道門後面就是通往地面的通道了，大家再堅持30秒。"
+    }
   },
   "阿米娅：这扇门好像需要钥匙才能打开，去其他地方找一找吧": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: This door seems to require a key. Let's look around for it.",
+      "JP": "アミヤ：この扉には鍵がどうやら必要のようだ。他の場所を探してみよう。",
+      "CN": "",
+      "KR": "아미야: 이 문은 열쇠가 필요한 것 같습니다. 다른 곳에서 찾아봅시다.",
+      "TW": "阿米婭：這扇門似乎需要鑰匙才能打開，去其他地方找找看吧。"
+    }
   },
   "整合运动领袖情报已集齐": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Reunion leadership intel collected.",
+      "JP": "インテグレーション・ムーブメントのリーダーに関する情報がすべて集まりました。",
+      "CN": "",
+      "KR": "통합운동 지도부 정보를 모두 수집했습니다.",
+      "TW": "整合運動領袖的情報已集齊。"
+    }
   },
   "即将开启真结局道路": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The path to the true ending is about to open.",
+      "JP": "真のエンディングへの道がまもなく開かれます。",
+      "CN": "",
+      "KR": "진 엔드 길드가 곧 오픈됩니다.",
+      "TW": "即將開啟通往真正結局的路徑。"
+    }
   },
   "请各位做好准备，下一道门将在15s后打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Please be prepared. The next door will open in 15 seconds.",
+      "JP": "ご用意ください。次の扉は15秒後に開きます。",
+      "CN": "",
+      "KR": "모든 준비를 갖추시기 바랍니다. 다음 문이 15초 후에 열립니다.",
+      "TW": "請各位做好準備，下一道門將在 15 秒後打開。"
+    }
   },
   "“灯火将熄” \"Extinguished Flames\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Flames Going Out\" \"Extinguished Flames\"",
+      "JP": "\"灯火将熄\" \"消えゆく炎\"",
+      "CN": "灯火将熄",
+      "KR": "\"소멸하는 불빛\" \"Extinguished Flames\"",
+      "TW": "「燈火將熄」 \"Extinguished Flames\""
+    }
   },
   "阿米娅：周围的温度正在急速下降，我们很有可能遭遇整合运动雪怪小队领袖霜星，请各位注意": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The temperature around us is dropping rapidly. We are very likely to encounter Frostnova, leader of Reunion's Yeti squad. Please stay alert.",
+      "JP": "アミヤ：周囲の温度が急激に下がっています。インテグレーション・ムーブメントの雪妖怪師団リーダー、霜星と遭遇する可能性が高いので皆様ご注意ください。",
+      "CN": "",
+      "KR": "아미야: 주변 온도가 급격히 하강 중입니다. 통합운동의 설인부대장 성분을 만날 가능성이 높으니各位 주의하시기 바랍니다.",
+      "TW": "阿米婭：周圍的溫度正在急劇下降，我們很可能會遭遇整合運動雪怪小隊的領袖霜星，請各位特別注意。"
+    }
   },
   "阿米娅：二楼门打开还有30s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The second-floor door will open in 30 seconds.",
+      "JP": "アミヤ：2階の扉は30秒後に開きます。",
+      "CN": "娅娅：二楼门打开还有30秒",
+      "KR": "아미야: 2층 문이 30초 후에 열립니다.",
+      "TW": "阿米婭：二樓的門還有 30 秒開啟。"
+    }
   },
   "阿米娅：一楼门还有30s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The first-floor door will open in 30 seconds.",
+      "JP": "アミヤ：1階の扉は30秒後に開きます。",
+      "CN": "",
+      "KR": "아미야: 1층 문이 30초 후에 열립니다.",
+      "TW": "阿米婭：一樓的門還有 30 秒開啟。"
+    }
   },
   "阿米娅：距离电梯门打开还剩30s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The elevator doors will open in 30s.",
+      "JP": "アーミヤ：エレベーターが開くまであと30秒",
+      "CN": "",
+      "KR": "아미야: 엘리베이터 문이 열리기까지 30초 남았습니다",
+      "TW": "阿米婭：距離電梯門開啟還剩 30 秒"
+    }
   },
   "阿米娅：博士，请准备好迎接最终的战斗，寻找一个可以防守的地点": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, prepare for the final battle. Find a location to defend.",
+      "JP": "アーミヤ：ドクター、最終戦闘に向けて準備を。防御に適した場所を探してください",
+      "CN": "",
+      "KR": "아미야: 박사님, 최종 전투를 위해 준비하십시오. 방어 가능한 장소를 찾아야 합니다",
+      "TW": "阿米婭：博士，請準備好迎接最終戰鬥，尋找一個可以防守的地點。"
+    }
   },
   "博士：霜星，如果可以的话，能否考虑一下加入罗德岛": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Doctor：Frostnova, if possible, would you consider joining Rhodes Island?",
+      "JP": "ドクター：スノーフレイク、可能であればロードアイランズへの参加を考えてくれませんか",
+      "CN": "",
+      "KR": "드クター: 쌍성, 가능한다면 로데오에 합류해 주실 수 있을까요",
+      "TW": "博士：霜星，如果可以的話，能否考慮加入羅德島？"
+    }
   },
   "霜星：……如果下一次见面你们能打赢我的话，那我愿意加入罗德岛": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Frostnova: ...If you can defeat me next time we meet, I will join Rhodes Island.",
+      "JP": "スノーフレイク：……次の出会いで私を負かせることができるなら、ロードアイランズに加わります",
+      "CN": "",
+      "KR": "쌍성: ……다음 번 만남에서 당신들을 이긴다면, 로데오에 합류하겠습니다",
+      "TW": "霜星：……如果下次見面時你們打得贏我，我就願意加入羅德島。"
+    }
   },
   "阿米娅：接下来就要靠你了……凯尔希": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The rest is up to you... Kal'tsit.",
+      "JP": "アーミヤ：次はあなたの番です……ケルシーさん",
+      "CN": "",
+      "KR": "아미야: 이번에는 당신의 차례입니다……钙尔希",
+      "TW": "阿米婭：接下來就要靠你了……凱爾希。"
+    }
   },
   "凯尔希：但是，你该怎么办？": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Kal'tsit: But, what about you?",
+      "JP": "ケルシー：しかし、あなたはどのようにするつもりです？",
+      "CN": "",
+      "KR": "钙尔希: 하지만, 당신은 어떻게 할 거요?",
+      "TW": "凱爾希：但是，你打算怎麼辦？"
+    }
   },
   "阿米娅：他们会与我一起走下去": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: They will walk with me.",
+      "JP": "アーミヤ：彼らは私と一緒に歩き続けます",
+      "CN": "",
+      "KR": "아미야: 그들은 저와 함께 걸을 것입니다",
+      "TW": "阿米婭：他們會與我並肩同行。"
+    }
   },
   "阿米娅：那可是……": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: That is...",
+      "JP": "アーミヤ：それは……",
+      "CN": "",
+      "KR": "아미야: 그것은 바로 ……",
+      "TW": "阿米婭：那可是……"
+    }
   },
   "阿米娅：方舟的骑士": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Knight of Rhodes Island",
+      "JP": "アミヤ：アーカロットの騎士",
+      "CN": "",
+      "KR": "아르메이디아: 아크의 기사",
+      "TW": "阿米婭：阿爾特尼亞的騎士"
+    }
   },
   "阿米娅：距离下一个门开还剩30s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Next gate opens in 30s",
+      "JP": "アミヤ：次の扉が開くまで残り30秒です",
+      "CN": "",
+      "KR": "아르메이디아: 다음 문 열리는 시간까지 30초 남았습니다",
+      "TW": "阿米婭：距離下一扇門開啟还剩30秒"
+    }
   },
   "阿米娅：距离下一个门开还剩40s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Next gate opens in 40s",
+      "JP": "アミヤ：次の扉が開くまで残り40秒です",
+      "CN": "",
+      "KR": "아르메이디아: 다음 문 열리는 시간까지 40초 남았습니다",
+      "TW": "阿米婭：距離下一扇門開啟还剩40秒"
+    }
   },
   "祖宗发射器将在15s内充能完毕，请远离轰炸区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Ancestor Launcher will be fully charged within 15s. Please stay clear of the bombing zone.",
+      "JP": "宗家大砲が15秒以内に充電を完了します。爆撃区域から離れてください",
+      "CN": "",
+      "KR": "조상 발사기가 15초 내에 장전될 예정입니다. 폭격 지역을 피하십시오",
+      "TW": "先祖發射器将在15秒内充能完畢，请遠離轟炸區域"
+    }
   },
   "即将开启假结局道路": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "False ending route about to open",
+      "JP": "偽りのエンディングへのルートがまもなく開放されます",
+      "CN": "即将开启虚假结局之路",
+      "KR": "가짜 엔딩 경로가 곧 열립니다",
+      "TW": "即將開啟假結局道路"
+    }
   },
   "各位请坚持到龙门增援的到来，下一道门将在15s后开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Please hold out until Longmen reinforcements arrive. The next gate will open in 15s.",
+      "JP": "皆様、龍門の援軍が到着するまでご辛抱ください。次の扉は15秒後に開放されます",
+      "CN": "",
+      "KR": "누먼의 증원이 도착할 때까지 버텨주십시오. 다음 문은 15초 후에 열립니다",
+      "TW": "各位請堅持到龍門增援的到來，下一道门将在15秒后開放"
+    }
   },
   "龙门黑蓑影卫已经抵达战场，所过之处没有任何感染者幸存，或许那恐怖的雪怪小队在他们面前也是不堪一击吧": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Karl's Shadow Guards have arrived on the battlefield. There are no survivors among the infected they pass. That terrifying Snowman Squad might be no match for them.",
+      "JP": "龍門の『黒い影』特殊部隊が現場に到着しました。彼らの通過した場所には、感染症患者の生存者はいません。おそらく、あの恐ろしい雪だるま小隊でさえ、彼らの前では脆くも無力なのでしょう",
+      "CN": "",
+      "KR": "문명 흑사 그림 병력이 전장에 도착했습니다. 그들의 뒤에는 감염된 자들의 흔적이 없습니다. 무서울 정도로 강력한 눈부대도 그들 앞에서는 형편없을 것입니다",
+      "TW": "龍門黑蓑影衛已經抵達戰場，所過之處没有任何感染者倖存，或許那恐怖的雪怪小隊在他們面前也是不堪一擊吧"
+    }
   },
   "霜星已经死亡，我们未能从黑蓑影卫手中救下，达成bad end": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "FrostNova has perished. We failed to save her from Karl's Shadow Guards. Bad end.",
+      "JP": "霜星は死亡しました。黒い影特殊部隊から彼女を救出することは叶いませんでした。バッドエンドです",
+      "CN": "霜星已死亡，我们未能从黑蓑影卫手中救下，达成坏结局",
+      "KR": "서스톤 전사 사망. 흑사 그림 병력으로부터 struktur을 구하지 못했습니다. Bad End 달성",
+      "TW": "霜星已經死亡，我們未能從黑蓑影衛手中救下她，達成bad end"
+    }
   },
   "ACE：博士，请尽快破坏通风口，整合运动将在50s后空降": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACE: Doctor, please damage the vents ASAP. Reunion will airdrop in 50 seconds.",
+      "JP": "ACE：ドクター、換気口を尽快破壊してください。統合運動は50秒後に降下してきます",
+      "CN": "",
+      "KR": "에이스: 박사님, 환풍구를 최대한 빨리 파괴하십시오. 통합운동 단체가 50초 후 공중 투하됩니다.",
+      "TW": "ACE：博士，請盡快破壞通風口，整合運動將在50秒後空降"
+    }
   },
   "阿米娅：博士，请给我20s的时间部署水上平台，不要掉下去了哦": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, please give me 20s to deploy the water platforms. Don't fall in.",
+      "JP": "Amiya：ドクター、水上プラットフォームの配置に20秒させてください。絶対に落ちないでくださいね",
+      "CN": "",
+      "KR": "아미야: 박사님, 수상 플랫폼 배치에 20초만 더 주세요. 떨어지지 않도록 주의하세요.",
+      "TW": "阿米婭：博士，請給我20秒的時間部署水上平台，不要掉下去了哦"
+    }
   },
   "阿米娅:博士，旁边的震撼装置如果利用得当，或许可以缓解整合运动的攻势": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, utilizing the nearby stun devices might help blunt Reunion's offensive.",
+      "JP": "Amiya：ドクター、隣のショック装置をうまく利用すれば、統合運動の攻勢を緩和できるかもしれません",
+      "CN": "",
+      "KR": "아미야: 박사님, 옆에 있는 스파이크 장치를 적절히 활용한다면 통합운동 단체의 공세를 다소 완화할 수 있을지도 모릅니다.",
+      "TW": "阿米婭：博士，旁邊的震撼裝置如果利用得當，或許可以緩解整合運動的攻勢"
+    }
   },
   "震撼装置已启动，装置周围八格敌人晕眩10s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Stun device activated. All enemies within eight tiles of the device are stunned for 10s.",
+      "JP": "ショック装置作動開始、装置周囲8マスの敵を10秒間気絶させます",
+      "CN": "",
+      "KR": "스파이크 장치가 가동되었습니다. 장치 주변 8 그리드의 적單位이 10초간 베블뎀 상태가 됩니다.",
+      "TW": "震撼裝置已啟動，裝置周圍八格敵人暈眩10秒"
+    }
   },
   "阿米娅：前方的道路还有15s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The path ahead will be open in 15s.",
+      "JP": "Amiya：前方の通路はあと15秒で解放されます",
+      "CN": "",
+      "KR": "아미야: 앞쪽 길에 15초 후 통행이 허용됩니다.",
+      "TW": "阿米婭：前方的道路還有15秒開放"
+    }
   },
   "阿米娅：整合运动还有10s进行空降，前方的震撼装置还需要15s进行爆破": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Reunion is set to airdrop in 10s, and the stun device ahead requires another 15s for detonation.",
+      "JP": "Amiya：統合運動の降下まであと10秒、前方のショック装置の爆発にはさらに15秒かかります",
+      "CN": "",
+      "KR": "아미야: 통합운동 단체의 공중 투하가 10초 뒤 이루어지며, 앞쪽 스파이크 장치를 폭발시키는 데 15초가 더 필요합니다.",
+      "TW": "阿米婭：整合運動還有10秒進行空降，前方的震撼裝置還需要15秒進行爆破"
+    }
   },
   "阿米娅：请大家再防守15s，前方就是1-7关卡了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Please hold your positions for another 15s. Level 1-7 is just ahead.",
+      "JP": "Amiya：あと15秒、もうちょっとだけ防守してください。前方はエリア1-7です",
+      "CN": "",
+      "KR": "아미야: 15초만 더 버텨 주십시오. 바로 전방이 1-7 스테이지입니다.",
+      "TW": "阿米婭：請大家再防守15秒，前方就是1-7關卡了"
+    }
   },
   "阿米娅：距离任务完成还剩下20s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Mission completion in 20s.",
+      "JP": "Amiya：任務完了まであと20秒",
+      "CN": "",
+      "KR": "아미야: 임무 완료까지 20초가 남았습니다.",
+      "TW": "阿米婭：距離任務完成還剩下20秒"
+    }
   },
   "阿米娅：罗德岛大门还有20s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Rhodes Island Gate opens in 20s",
+      "JP": "アーミヤ：ロドスの扉まであと20秒です",
+      "CN": "",
+      "KR": "아미야: 로데오 대문 20초 후 개방",
+      "TW": "阿米婭：龍門近衛局大門還有 20 秒開啟"
+    }
   },
   "前方红灯20s，请遵守龙门交规": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Red light ahead for 20s, please follow Longmen traffic regulations",
+      "JP": "前方の信号は赤色で残り20秒、龍門の交通ルールに従ってください",
+      "CN": "",
+      "KR": "신호등 주황빛 20초, 문산 교통규칙 준수 요망",
+      "TW": "前方紅燈 20 秒，請遵守交通規則"
+    }
   },
   "阿米娅：前方的区域还有20s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Area ahead opens in 20s",
+      "JP": "アーミヤ：前方区域まであと20秒で解放されます",
+      "CN": "娅米娅：前方区域还有20秒开放",
+      "KR": "아미야: 앞 구역 20초 후 개방",
+      "TW": "阿米婭：前方區域還需 20 秒開放"
+    }
   },
   "阿米娅：办公室大门还有20s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Office main gate opens in 20s",
+      "JP": "アーミヤ：オフィスのメイン扉まであと20秒で開きます",
+      "CN": "",
+      "KR": "아미야: 사무실 정문 20초 후 개방",
+      "TW": "阿米婭：辦公區正門還有 20 秒開啟"
+    }
   },
   "阿米娅：办公室小门还有20s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Office side door opens in 20s",
+      "JP": "アーミヤ：オフィスの側扉まであと20秒で開きます",
+      "CN": "",
+      "KR": "아미야: 사무실 측문 20초 후 개방",
+      "TW": "阿米婭：辦公區側門還有 20 秒開啟"
+    }
   },
   "阿米娅：魏警官的办公室门还有30s打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Inspector Wei's office door opens in 30s",
+      "JP": "アーミヤ：魏警官の事務所まであと30秒で開きます",
+      "CN": "",
+      "KR": "아미야: 왕경사 사무실 문 30초 후 개방",
+      "TW": "阿米婭：魏警官辦公室門還有 30 秒開啟"
+    }
   },
   "阿米娅：前方的区域还有30s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Area ahead opens in 30s",
+      "JP": "アーミヤ：前方区域まであと30秒で解放されます",
+      "CN": "",
+      "KR": "아미야: 앞 구역 30초 후 개방",
+      "TW": "阿米婭：前方區域還需 30 秒開放"
+    }
   },
   "PRTS:任务已完成，将在20s后进入下一作战": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "PRTS: Mission complete. Next operation starts in 20s",
+      "JP": "PRTS：任務完了、20秒後に次の戦闘へ移行します",
+      "CN": "",
+      "KR": "PRTS: 임무 완료, 20초 후 차기 작전 진입",
+      "TW": "PRTS：任務已完成，20 秒後進入下一作戰環節"
+    }
   },
   "阿米娅：博士，我们已经抵达切尔诺伯格分城区，请小心行动": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, we have arrived at the Chernobog Outskirts. Please proceed with caution.",
+      "JP": "アーミア：ドクター、チェルノボーグの分区域に到着しました。ご注意ください",
+      "CN": "",
+      "KR": "아미야: 박사님, 우리는 체르노보르크 분구도에 도착했습니다. 주의를 기울여 주십시오.",
+      "TW": "阿米婭：博士，我們已抵達切爾諾伯格分區，請謹慎行動。"
+    }
   },
   "阿米娅：前方道路还有30s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The path ahead will open in 30s.",
+      "JP": "アーミア：前方の通路は30秒後まで開放されていません",
+      "CN": "",
+      "KR": "아미야: 앞의 길은 30초 후 개방됩니다.",
+      "TW": "阿米婭：前方道路剩餘 30s 開放。"
+    }
   },
   "阿米娅：距离门开还有20s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The gate will open in 20s.",
+      "JP": "アーミア：門が開くまであと20秒です",
+      "CN": "",
+      "KR": "아미야: 문이 열리기까지 20초 남았습니다.",
+      "TW": "阿米婭：距離門開啟還有 20s。"
+    }
   },
   "阿米娅：似乎找到了打开某个门的钥匙": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: It seems we have found a key to unlock a door.",
+      "JP": "アーミア：どうやら、ある門を開けるための鍵を見つけました",
+      "CN": "",
+      "KR": "아미야: 어딘가 문을 열 수 있는 열쇠를 찾은 것 같습니다.",
+      "TW": "阿米婭：似乎找到了開啟某扇門的鑰匙。"
+    }
   },
   "阿米娅：管道口开放还需要10s,前方的木箱子还需要20s移除": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The pipe outlet will open in 10s, and the wooden crates ahead will be cleared in 20s.",
+      "JP": "アーミア：パイプ口はあと10秒で開放されます。前方の木箱の撤去には20秒かかります",
+      "CN": "",
+      "KR": "아미야: 배기구 개방까지 10초, 앞의 나무 상자 제거까지 20초 남았습니다.",
+      "TW": "阿米婭：管道口開放還剩 10s，前方木箱移除還需 20s。"
+    }
   },
   "寒冷效果：范围内人类减速10s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Cold Status: Slows nearby Humans by 10s.",
+      "JP": "冷却効果：範囲内の人間を10秒間減速させる",
+      "CN": "",
+      "KR": "한기 효과: 범위 내 인간 단위 이동 속도 10초 간 감소",
+      "TW": "寒冷效果：範圍內人類移動速度降低，持續 10s。"
+    }
   },
   "阿米娅：大家再坚持10s，下一扇门马上就能打开了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Hold on for another 10s; the next gate is about to open.",
+      "JP": "アーミア：あと10秒、みんなもう少し辛抱して。次の門がすぐに開きます",
+      "CN": "",
+      "KR": "아미야: 여러분, 10초만 더 참고 있습니다. 다음 문이 곧 열립니다.",
+      "TW": "阿米婭：大家再堅持 10s，下一扇門馬上就會打開。"
+    }
   },
   "PRTS:整合运动领袖情报已集齐": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "PRTS: Intelligence on Reunion leaders has been fully compiled.",
+      "JP": "PRTS：テールズリーダーの情報をすべて収集しました",
+      "CN": "",
+      "KR": "PRTS: 스택트 운동 지도자 관련 정보 수집 완료",
+      "TW": "PRTS：整合運動領袖情報已蒐集完畢。"
+    }
   },
   "PRTS:即将开启真结局道路": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "PRTS: The True Ending route is about to begin.",
+      "JP": "PRTS：まもなく真の結末への道が開かれる",
+      "CN": "",
+      "KR": "PRTS: 진 엔딩 길로 곧 진입합니다",
+      "TW": "PRTS：即將開啟真結局路線"
+    }
   },
   "PRTS:请各位做好准备，下一道门将在15s后打开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "PRTS: Please prepare yourselves. The next gate will open in 15 seconds.",
+      "JP": "PRTS：各位、準備を整えてください。次の門は15秒後に開きます",
+      "CN": "",
+      "KR": "PRTS:各位, 준비하십시오. 다음 문이 15초 후 열립니다",
+      "TW": "PRTS：各位請做好準備，下一道門將於15秒後開啟"
+    }
   },
   "PRTS:“灯火将熄” \"Extinguished Flames\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "PRTS: \"Extinguished Flames\"",
+      "JP": "PRTS：「灯は消えゆきし」 \"Extinguished Flames\"",
+      "CN": "",
+      "KR": "PRTS: \"소멸하는 불빛\" \"Extinguished Flames\"",
+      "TW": "PRTS：「燈火將熄」 \"Extinguished Flames\""
+    }
   },
   "阿米娅：距离下一个门开还剩15s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The next gate will open in 15 seconds.",
+      "JP": "阿米娅：次の門が開くまで残り15秒",
+      "CN": "",
+      "KR": "아르타임: 다음 문이 열리는 데 15초 남았습니다",
+      "TW": "阿米婭：距離下一個門開啟還有15秒"
+    }
   },
   "阿米娅：博士，前方就是切尔诺伯格主城区了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Doctor, Chernobog City center is ahead.",
+      "JP": "阿米娅：博士、前方はチェルノバーグの市街地です",
+      "CN": "",
+      "KR": "아르타임: 박사님, 앞은切尔诺伯格 시가지입니다",
+      "TW": "阿米婭：博士，前方就是切爾諾伯格主城區了"
+    }
   },
   "阿米娅：前方的道路还有10s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The path ahead will be clear in 10 seconds.",
+      "JP": "阿米娅：前方の道が解放されるまで残り10秒",
+      "CN": "",
+      "KR": "아르타임: 앞으로 나아가는 길이 10초 후 열립니다",
+      "TW": "阿米婭：前方道路還有10秒開放"
+    }
   },
   "阿米娅：请大家再防守10s，前方就是1-7关卡了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: Please defend for another 10 seconds. Stage 1-7 is ahead.",
+      "JP": "阿米娅：皆さん、あと10秒間さらに防御してください。前方はステージ1-7です",
+      "CN": "",
+      "KR": "아르타임: 모든 분, 10초 더 방어해 주십시오. 앞은 1-7关卡입니다",
+      "TW": "阿米婭：請大家再防守10秒，前方就是第1-7關了"
+    }
   },
   "PRTS:前方红灯15s，请遵守龙门交规": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "PRTS: The traffic light ahead is red for 15 seconds. Please obey Longmen traffic regulations.",
+      "JP": "PRTS：前方の信号が赤になります。龍門の交通ルールを遵守してください",
+      "CN": "",
+      "KR": "PRTS: 앞에 빨간 불빛이 켜져 있습니다. 로우의 교통규칙을 준수하십시오",
+      "TW": "PRTS：前方紅燈15秒，請遵守龍門交通規則"
+    }
   },
   "距离龙门近卫局大门打开还有15s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The main gate of the LGD will open in 15s.",
+      "JP": "龍門近衛局の大門が開くまで残り15秒",
+      "CN": "",
+      "KR": "룡문 근위국 대문이 열리기까지 15초 남음",
+      "TW": "距離龍門近衛局大門打開還有15秒"
+    }
   },
   "阿米娅：前方的区域还有10s开放": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The area ahead will be accessible in 10s.",
+      "JP": "アーミヤ：前方の区域はあと10秒で開放されます",
+      "CN": "",
+      "KR": "아미야: 앞 구역 개방까지 10초 남음",
+      "TW": "阿米婭：前方區域還有10秒開放"
+    }
   },
   "阿米娅：这扇门开还需要20s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: This door will open in 20s.",
+      "JP": "アーミヤ：この扉が開くまでまだ20秒かかります",
+      "CN": "",
+      "KR": "아미야: 이 문이 열리기까지 20초 남음",
+      "TW": "阿米婭：這扇門打開還需要20秒"
+    }
   },
   "阿米娅：前方的木箱子还需要20s移除": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The crates ahead will be removed in 20s.",
+      "JP": "アーミヤ：前方の木の箱はあと20秒で除去されます",
+      "CN": "娅米娅：前方的小木箱需要20秒移除",
+      "KR": "아미야: 앞 목재상자 제거까지 20초 남음",
+      "TW": "阿米婭：前方的木箱還需要20秒移除"
+    }
   },
   "阿米娅：打开卷帘门还需要20s": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Amiya: The roller door will open in 20s.",
+      "JP": "アーミヤ：シャッターを開くまでまだ20秒かかります",
+      "CN": "",
+      "KR": "아미야: 롤러 게이트 개방까지 20초 남음",
+      "TW": "阿米婭：打開捲簾門還需要20秒"
+    }
+  },
+  "震撼装置已启动，装置周围八格敌人晕眩5s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Shock device activated. Enemies within 8 grids will be stunned for 5s.",
+      "JP": "震撼装置が作動しました。装置周辺の8マスにいる敵は5秒間混乱します",
+      "CN": "",
+      "KR": "충격 장치 가동 중, 장치 주변 8칸 적 기절 5초",
+      "TW": "震撼裝置已啟動，裝置周圍八格敵人暈眩5秒"
+    }
   }
 }

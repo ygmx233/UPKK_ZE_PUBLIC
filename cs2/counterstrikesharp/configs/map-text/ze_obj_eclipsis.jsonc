@@ -1,0 +1,742 @@
+{
+  "23:08 PM，阿尔法基地外，任务：与Redemption小队一起进入阿尔法基地，营救幸存者.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "23:08 PM, outside Alpha Base. Objective: Enter Alpha Base with the Redemption squad to rescue survivors.",
+      "JP": "午後11時08分、アルファ基地外。任務：レッドemption小隊と共にアルファ基地へ潜入し、生存者を救助せよ。",
+      "CN": "",
+      "KR": "오후 11:08, 알파 기지 외부. 임무: 레드미션 소대와 함께 알파 기지에 침투하여 생존자를 구조합니다.",
+      "TW": "下午11:08，阿尔法基地外。任務：與Redemption小隊一同進入阿尔法基地，營救倖存者。"
+    }
+  },
+  "总部：Eclipsis小队，你们将从阿尔法基地的 01 号设施潜入，搜索 01 号设施的所有幸存者.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "HQ: Eclipsis Squad, you will infiltrate through Facility 01 of Alpha Base and search for all survivors in Facility 01.",
+      "JP": "本部：Eclipsis小隊、あなたはアルファ基地の施設01から潜入し、同施設内の全生存者を捜索せよ。",
+      "CN": "",
+      "KR": "본부: 이클립시스 소대, 여러분은 알파 기지의 01번 시설을 통해 침투하여 01번 시설의 모든 생존자를 수색해야 합니다.",
+      "TW": "總部：Eclipsis小隊，你們將從阿尔法基地的01號設施潛入，搜尋01號設施內的所有倖存者。"
+    }
+  },
+  "指挥官:岛上情况看起来不太乐观，他们从水里来了…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Commander: The situation on the island does not look good. They came from the water...",
+      "JP": "指揮官：島の状況は芳しくない。彼らは水中からやって来た…。",
+      "CN": "",
+      "KR": "지휘관: 섬 상황이 좋아 보이지 않습니다. 그들은 물에서 Approaching해 왔습니다…",
+      "TW": "指揮官：島上情況看起來不太樂觀，他們從水中來了…"
+    }
+  },
+  "指挥官：收到.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Commander: Roger.",
+      "JP": "指揮官：了解。",
+      "CN": "",
+      "KR": "지휘관: 확인했습니다.",
+      "TW": "指揮官：收到。"
+    }
+  },
+  "f16:收到，01，天空已经安全了，祝你们好运！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "F16: Roger, 01. The skies are clear. Good luck!",
+      "JP": "f16：了解。01、上空は安全だ。幸運を！",
+      "CN": "",
+      "KR": "F16: 확인, 01. 공중은 이미 안전합니다. 행운을 빕니다!",
+      "TW": "F16：收到，01。天空已經安全了，祝你們好運！"
+    }
+  },
+  "总部:切记，你们和Redemption小队是唯一能执行这个任务的力量，一切行动以自保为主，优先确保队员的安全！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "HQ: Remember, you and the Redemption squad are the only forces capable of executing this mission. Prioritize self-preservation and ensure the safety of all team members above all else!",
+      "JP": "本部：念のため言っておくが、お前たちとRedemption小隊こそがこの任務を遂行できる唯一の戦力だ。行動の基本は自衛であり、隊員の安全を最優先確保せよ！",
+      "CN": "总指挥部：务必记住，你们和‘救赎’小队是唯一能执行此任务的力量，一切行动以自保为主，优先确保队员的安全！",
+      "KR": "본부: 명심하십시오, 여러분과 레드미션 소대는 이 임무를 수행할 수 있는 유일한 세력입니다. 모든 행동은 자기 방어를 최우선으로 하십시오. 조원들의 안전을 가장 먼저 확보하십시오!",
+      "TW": "總部：切記，你們和Redemption小隊是唯一能執行此任務的力量，一切行動以自保為主，優先確保隊員安全！"
+    }
+  },
+  "f16:收到，搜索该区域。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "F16: Roger. Searching the area.",
+      "JP": "f16：了解。領域を検索する。",
+      "CN": "收到，搜索该区域。",
+      "KR": "F16: 확인, 해당 지역을 수색합니다.",
+      "TW": "F16：收到，搜尋該區域。"
+    }
+  },
+  "我们需要找到这扇大门的按钮": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to find the button for this gate.",
+      "JP": "この扉のボタンを見つけなければならない",
+      "CN": "",
+      "KR": "저는 이 문에 있는 버튼을 찾아야 합니다.",
+      "TW": "我們需要找到這扇大門的按鈕。"
+    }
+  },
+  "大门动了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The main gate is moving.",
+      "JP": "メインゲートが開いた",
+      "CN": "",
+      "KR": "대문이 열렸다",
+      "TW": "大門有動靜"
+    }
+  },
+  "得把梯子弄下来": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to bring the ladder down.",
+      "JP": "ハシゴを外さないといけない",
+      "CN": "",
+      "KR": "사다리를 내려야 해",
+      "TW": "得把梯子放下來"
+    }
+  },
+  "给我五十秒把梯子放下来": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me fifty seconds to lower the ladder.",
+      "JP": "ハシゴを降ろすのに50秒くれ",
+      "CN": "",
+      "KR": "50초만 줘, 사다리를 내려줄게",
+      "TW": "給我五十秒，我把梯子放下來"
+    }
+  },
+  "总部，我们已经进入设施大门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "HQ, we have entered the facility gates.",
+      "JP": "本部、施設内に侵入しました",
+      "CN": "",
+      "KR": "본부여, 시설 정문에 진입했습니다",
+      "TW": "總部的我們已進入設施大門"
+    }
+  },
+  "总部：收到，搜索一切生还者，祝你们武运昌隆！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "HQ: Copy that. Search for all survivors. Good luck!",
+      "JP": "本部：了解、生存者をすべて検索せよ。武運を祈る！",
+      "CN": "",
+      "KR": "본부: 확인, 모든 생존자를 수색하십시오. 행운을 빕니다!",
+      "TW": "總部：收到。搜尋所有生還者，祝各位武運昌隆！"
+    }
+  },
+  "前面的大门关了，可能是电力问题，看来我们只能从这里进去了，给我20秒打开这扇门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate ahead is closed, likely due to a power issue. Looks like we're going in this way. Give me 20 seconds to open it.",
+      "JP": "先ほどのドアは閉まっている。電力の問題だ。ここを通るしかない。20秒かけろ",
+      "CN": "",
+      "KR": "앞문에 잠겼습니다. 전력 문제인 것 같네요. 여기로 들어갈 수밖에 없으니 20초만 주세요",
+      "TW": "前面的大門關閉了，可能是電力故障。看來我們只能從這裡進入，給我20秒打開這扇門"
+    }
+  },
+  "进入主控室的路被挡住了，给我30秒推开这个柜子": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The path to the main control room is blocked. Give me 30 seconds to shove this cabinet aside.",
+      "JP": "メインルームへの道が塞がれた。棚をどかすのに30秒くれ",
+      "CN": "",
+      "KR": "주요 통제실로 가는 길이 막혔습니다. 30초만 주세요, 이 선반을 밀어낼게요",
+      "TW": "主控室的通路被擋住了，給我30秒推開這個櫃子"
+    }
+  },
+  "看来我们只能从这边进入了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Looks like we'll have to enter from here.",
+      "JP": "ここを通るしかないようだ",
+      "CN": "",
+      "KR": "여기로 들어갈 수밖에 없군요",
+      "TW": "看來我們只能從這裡進去了"
+    }
+  },
+  "我们需要坚持40秒钟！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to hold out for 40 seconds!",
+      "JP": "40秒間持ちこたえて！",
+      "CN": "",
+      "KR": "40초 버텨!",
+      "TW": "我們需要撐過40秒！"
+    }
+  },
+  "小心两边的门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Watch the doors on both sides",
+      "JP": "両側のドアに注意",
+      "CN": "",
+      "KR": "양쪽 문 주의!",
+      "TW": "小心兩側的大門"
+    }
+  },
+  "我得炸开他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I need to blow him open",
+      "JP": "俺が爆破する",
+      "CN": "",
+      "KR": "내가 폭발시켜줄게",
+      "TW": "我得把他炸開"
+    }
+  },
+  "给我35秒钟炸开他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 35 seconds to blow him open",
+      "JP": "爆破まで35秒くれ",
+      "CN": "",
+      "KR": "나에게 35초 줘, 폭파할게",
+      "TW": "給我35秒把他炸開"
+    }
+  },
+  "别碰那个激光": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Don't touch that laser",
+      "JP": "レーザーに触れるな",
+      "CN": "",
+      "KR": "레이저 만지지 마!",
+      "TW": "別碰那道雷射"
+    }
+  },
+  "找到一把锯子，给我30秒锯开他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Find a saw and give me 30 seconds to cut through him",
+      "JP": "ノコギリを持ってきて、30秒かけて切り裂け",
+      "CN": "",
+      "KR": "톱 찾아서 30초 줘, 커팅할게",
+      "TW": "找一把鋸子，給我30秒把他鋸開"
+    }
+  },
+  "坚持30秒钟": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold out for 30 seconds",
+      "JP": "30秒間持ちこたえろ",
+      "CN": "",
+      "KR": "30초 버텨!",
+      "TW": "撐過30秒"
+    }
+  },
+  "电梯停电了，我们得爬上去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator's power is out. We'll have to climb up.",
+      "JP": "エレベーターが停電してる、上まで上がるしかない",
+      "CN": "",
+      "KR": "엘리베이터 정전! 오르기만 하면 돼!",
+      "TW": "電梯停電了，我們得爬上去"
+    }
+  },
+  "给我10秒钟打开电梯门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 10 seconds to open the elevator doors",
+      "JP": "エレベーターの扉を開けて、10秒よ",
+      "CN": "",
+      "KR": "엘리베이터 문을 여는 데 10초 줘",
+      "TW": "給我10秒鐘打開電梯門"
+    }
+  },
+  "另一个电梯上来了？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Is another elevator arriving?",
+      "JP": "別のエレベーターが来る？",
+      "CN": "电梯又来了？",
+      "KR": "다른 엘리베이터가 올라오고 있어?",
+      "TW": "另一個電梯上來了？"
+    }
+  },
+  "这里有电！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "There's electricity here!",
+      "JP": "ここ、感電してるわ！",
+      "CN": "",
+      "KR": "전기가 흐르고 있어!",
+      "TW": "這裡有電！"
+    }
+  },
+  "得把天花板的电箱打掉！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to destroy the electrical box on the ceiling!",
+      "JP": "天井の電気盤を壊さないといけないのよ！",
+      "CN": "",
+      "KR": "천장 전기함을 터뜨려야 해!",
+      "TW": "得把天花板的電箱打掉！"
+    }
+  },
+  "电流需要50秒时间关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The current will shut off in 50 seconds",
+      "JP": "電流を止めるのに50秒かかるわ",
+      "CN": "",
+      "KR": "전류가 꺼지는 데 50초가 걸려",
+      "TW": "電流需要50秒時間關閉"
+    }
+  },
+  "另一扇门打开了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Another door has opened!",
+      "JP": "もう一方の扉が開いた！",
+      "CN": "",
+      "KR": "다른 문이 열렸어!",
+      "TW": "另一扇門打開了！"
+    }
+  },
+  "小心通风管道！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Watch out for the ventilation shafts!",
+      "JP": "換気口には気をつけて！",
+      "CN": "",
+      "KR": "환풍구 주의해!",
+      "TW": "小心通風管道！"
+    }
+  },
+  "快跑！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Run!",
+      "JP": "走って！",
+      "CN": "",
+      "KR": "빠르게 도망쳐!",
+      "TW": "快跑！"
+    }
+  },
+  "坚持35秒！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on for 35 seconds!",
+      "JP": "35秒間持ち堪えろ！",
+      "CN": "",
+      "KR": "35초 동안 버텨라!",
+      "TW": "堅持35秒！"
+    }
+  },
+  "刚刚餐厅的门开了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The restaurant door just opened!",
+      "JP": "今レストランのドアが開いたぞ！",
+      "CN": "刚开餐厅的门！",
+      "KR": "刚刚餐厅的门开了！",
+      "TW": "剛剛餐廳的門開了！"
+    }
+  },
+  "赶紧上电梯！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry, get in the elevator!",
+      "JP": "急いでエレベーターに乗れ！",
+      "CN": "",
+      "KR": "赶紧上电梯！",
+      "TW": "趕緊上電梯！"
+    }
+  },
+  "Redemption小队：Eclipsis小队，你们到哪了？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Redemption Squad: Eclipsis Squad, where are you?",
+      "JP": "リデンプション隊：エクリプス隊、お前らはどこだ？",
+      "CN": "红莲小队：Eclipsis小队，你们到哪儿去了？",
+      "KR": "Redemption小队：Eclipsis小队，你们到哪了？",
+      "TW": "Redemption小隊：Eclipsis小隊，你們到哪了？"
+    }
+  },
+  "我们逃上了电梯，得去开启电源，暂时安全了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We made it to the elevator. We need to activate the power switch. For now, we're safe!",
+      "JP": "エレベーターに乗って逃れた。電源をオンにして、とりあえず安全だ！",
+      "CN": "",
+      "KR": "我们逃上了电梯，得去开启电源，暂时安全了！",
+      "TW": "我們逃上了電梯，得去開啟電源，暫時安全了！"
+    }
+  },
+  "Redemption小队：他们来了！滋滋滋……电流声": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Redemption! Redemption! Oh no, they're in trouble! *static noise* *electricity sounds*",
+      "JP": "リデンプション：連中が来た！ジジー……バチッという音",
+      "CN": "救赎小队：他们来了！滋滋滋……电流声",
+      "KR": "Redemption！Redemption！ 糟了，他们遇到了危险！",
+      "TW": "Redemption！Redemption！糟了，他們遇到了危險！滋滋滋……電流聲"
+    }
+  },
+  "Redemption！Redemption！ 糟了，他们遇到了危险！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Redemption! Redemption! Oh no, they're in trouble!",
+      "JP": "Redemption！Redemption！ 大変だ、彼らは危険に遭っている！",
+      "CN": "救赎！救赎！糟了，他们遇到了危险！",
+      "KR": "坚持35秒钟！我们就能到达辐射区！",
+      "TW": "Redemption！Redemption！糟了，他們遇到了危險！"
+    }
+  },
+  "坚持35秒钟！我们就能到达辐射区！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Just hold on for 35 seconds! We'll reach the radiation zone!",
+      "JP": "35秒間持ち堪えれば！放射性物質区域に到達できるぞ！",
+      "CN": "",
+      "KR": "35초만 버텨주십시오! 즉시 방사능 구역을 이동할 것입니다!",
+      "TW": "堅持35秒鐘！我們就能到達輻射區！"
+    }
+  },
+  "小心这扇门里的东西！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Watch out for what's inside that door!",
+      "JP": "この扉の中の物には注意しろ！",
+      "CN": "",
+      "KR": "이 문 안의东西에 주의하라!",
+      "TW": "小心這扇門裡的東西！"
+    }
+  },
+  "这里是…辐射区，我可不想下去游泳，把电源打开，等底下的桥升起来！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This is... the radiation zone. I don't want to go down there and take a swim. Turn on the power and wait for the bridge below to rise!",
+      "JP": "ここは…放射能汚染区域だ。水に浸かりたくはない、電源を入れて、下の橋が上がるのを待て！",
+      "CN": "",
+      "KR": "여기는... 방사능 지역이야. 수영하고 싶지 않아. 전원을 켜고, 아래쪽 교량이 올라오기를 기다려!",
+      "TW": "這裡是…輻射區，我可不想下去游泳。把電源打開，等底下的橋升起來！"
+    }
+  },
+  "第一座大桥需要20秒钟升起来！守住，战士们!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The first bridge will rise in 20 seconds! Hold your ground, soldiers!",
+      "JP": "最初の橋が上がるまで20秒！守れ、戦士たちよ！",
+      "CN": "",
+      "KR": "첫 번째 다리는 20초 후에 올라갑니다! 잘 버티세요, 전사들이여!",
+      "TW": "第一座大橋需要20秒鐘升起來！守住，戰士們！"
+    }
+  },
+  "需要坚持40秒钟等上面的门和下面的爆炸桶一起打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold out for 40 seconds until the upper door and the lower explosive barrels open simultaneously.",
+      "JP": "上の扉と下の爆発ドラムが開くまで、40秒間堅持する必要がある",
+      "CN": "",
+      "KR": "위쪽 문과 아래쪽 폭발 물통이 동시에 열릴 때까지 40초를 버텨야 합니다.",
+      "TW": "需要堅持40秒鐘，等上面的門和下面的爆炸桶一起打開"
+    }
+  },
+  "刚刚的门打开了？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Did the previous door just open?",
+      "JP": "先ほどの扉が開いた？",
+      "CN": "",
+      "KR": "지금 방금 문이 열린 거야?",
+      "TW": "剛剛的門打開了？"
+    }
+  },
+  "赶紧进去！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry, get inside!",
+      "JP": "急いで中へ！",
+      "CN": "",
+      "KR": "어서 들어가!",
+      "TW": "趕緊進去！"
+    }
+  },
+  "15秒钟门就会开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 15 seconds.",
+      "JP": "15秒後に扉が開く",
+      "CN": "",
+      "KR": "15초 후에 문이 열립니다.",
+      "TW": "15秒鐘門就會開"
+    }
+  },
+  "这边是......主控室？终于能休息会儿了，我们得上去启动电源下面的大门才会打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This is... the control room? We can finally get some rest. We need to go up and activate the power so the door below will open.",
+      "JP": "ここは……制御室？ようやく少し休める、上がって電源を起動すれば下の扉が開く",
+      "CN": "",
+      "KR": "여기는... 메인 컨트롤 룸? 드디어 쉴 수 있겠군. 위에서 전원을 켜야 아래쪽 거대한 문이 열립니다.",
+      "TW": "這邊是……主控室？終於能休息會兒了，我們得上去啟動電源，下面的大門才會打開"
+    }
+  },
+  "按下右边的按钮！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Press the button on the right!",
+      "JP": "右側のボタンを押せ！",
+      "CN": "",
+      "KR": "오른쪽 버튼을 눌러라!",
+      "TW": "按下右側的按鈕！"
+    }
+  },
+  "启动这个电源，我们得从通风管道跳下去！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Activate that power source, and we have to jump down the ventilation duct!",
+      "JP": "この電源を起動しろ。換気口から飛び降りるしかない！",
+      "CN": "",
+      "KR": "이 전원을 켜기 위해 환풍구로 점프해야 합니다!",
+      "TW": "啟動電源，我們得從通風管跳下去！"
+    }
+  },
+  "总部：Eclipsis小队，你们还好吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "HQ: Eclipsis Squad, are you okay?",
+      "JP": "本部：エクリプス隊、無事か？",
+      "CN": "",
+      "KR": "본부: 일립시스(Eclipsis) 팀, 상태 좀 어떻습니까?",
+      "TW": "總部：Eclipsis小隊，你們還好嗎？"
+    }
+  },
+  "我们还好，但是联系不上Redemption小队，等我们到火箭发射井试着去联系他们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We're fine, but we can't reach the Redemption Squad. We'll try to contact them once we get to the rocket launch site.",
+      "JP": "こちらは健在だが、レッドemption隊とは連絡が取れぬ。ロケット発射井まで行ってから試みる。",
+      "CN": "我们还行，但是无法联系上 Redemption 小队。等我们到火箭发射井，尝试联系他们。",
+      "KR": "우리는 괜찮습니다. 하지만 레드뮤프션(Redemption) 팀과 연락이 안 됩니다. 로켓 발사장에 도착해 확인해 보겠습니다.",
+      "TW": "我們沒事，但無法聯繫上Redemption小隊，等我們到達火箭發射井後再試著聯絡他們。"
+    }
+  },
+  "总部：找到生还者了吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "HQ: Have you found any survivors?",
+      "JP": "本部：生存者は見つかっただろうか？",
+      "CN": "总部：找到幸存者了吗？",
+      "KR": "본부: 생존자를 발견했나요?",
+      "TW": "總部：找到倖存者了嗎？"
+    }
+  },
+  "找到电源！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Found the power source!",
+      "JP": "電源確保！",
+      "CN": "",
+      "KR": "전원 확보 완료!",
+      "TW": "找到電源！"
+    }
+  },
+  "……无一生还": {
+    "translation": "",
+    "MultiLang": {
+      "US": "... No survivors.",
+      "JP": "……全員戦死。生存者なし。",
+      "CN": "",
+      "KR": "...전원 사망 확인",
+      "TW": "……無一生還"
+    }
+  },
+  "总部：收到，带着你的人撤离到安全的地方": {
+    "translation": "",
+    "MultiLang": {
+      "US": "HQ: Copy that. Evacuate your team to a safe location.",
+      "JP": "本部：了解。隊を安全な地点へ撤退させろ。",
+      "CN": "",
+      "KR": "본부: 확인했습니다. 팀을 안전한 장소로 철수시키세요.",
+      "TW": "總部：收到，帶著你的人撤離到安全地帶。"
+    }
+  },
+  "再坚持25秒钟！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold out for another 25 seconds!",
+      "JP": "あと25秒耐えれば！",
+      "CN": "",
+      "KR": "25초 더 버텨주세요!",
+      "TW": "再撐25秒！"
+    }
+  },
+  "坚持35秒钟！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on for 35 seconds!",
+      "JP": "35秒間持ちこたえて！",
+      "CN": "",
+      "KR": "35초 더 버텨주세요!",
+      "TW": "堅持35秒！"
+    }
+  },
+  "僵尸从另一侧发起了攻击！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The zombies are attacking from the other side!",
+      "JP": "向こう側からゾンビが襲撃してきた！",
+      "CN": "",
+      "KR": "좀비가 다른 쪽에서 공격합니다!",
+      "TW": "殭屍從另一側發起攻擊！"
+    }
+  },
+  "去左边控制室找到启动二楼电源的按钮！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Head to the left control room and find the button to power up the second floor!",
+      "JP": "左側の管制室に行って、2階の電源を起動するボタンを探せ！",
+      "CN": "",
+      "KR": "왼쪽 제어실로 가서 2층 전원을 켜는 버튼을 찾으세요!",
+      "TW": "去左側控制室找到啟動二樓電源的按鈕！"
+    }
+  },
+  "二楼的门还有20秒打开！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door to the second floor will open in 20 seconds!",
+      "JP": "2階への扉はあと20秒で開く！",
+      "CN": "",
+      "KR": "2층 문이 20초 후에 열립니다!",
+      "TW": "二樓的門還有20秒才開！"
+    }
+  },
+  "下面的门被锁住了！打掉电箱！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door below is locked! Smash the electrical box!",
+      "JP": "下の扉は施錠されている！電気箱を破壊しろ！",
+      "CN": "",
+      "KR": "아래쪽 문이 잠겨 있습니다! 전기 상자를 부수세요!",
+      "TW": "下方的門被鎖住了！打碎電箱！"
+    }
+  },
+  "坚持50秒钟！战士们！这是最后的决战！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on for 50 seconds, warriors! This is the final battle!",
+      "JP": "50秒間持ちこたえろ！戦士たちよ、これが最後の決戦だ！",
+      "CN": "",
+      "KR": "50초를 버텨주세요! 전사들이여, 이것이 마지막 결전입니다!",
+      "TW": "堅持50秒！戰士們！這是最後的決戰！"
+    }
+  },
+  "我们得守住！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We have to hold our ground!",
+      "JP": "絶対に守り抜くぞ！",
+      "CN": "",
+      "KR": "우리는 반드시 방어해야 합니다!",
+      "TW": "我們必須守住！"
+    }
+  },
+  "Redemption：我们快到了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Redemption: We're almost there!",
+      "JP": "redemption：もうすぐ着く！",
+      "CN": "赎回：我们快到了！",
+      "KR": "레뎀션: 곧 도착합니다!",
+      "TW": "Redemption：我們快到了！"
+    }
+  },
+  "总部：Eclipsis，你们现在立马前去接应Redemption并安好炸弹安全撤离！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "HQ: Eclipsis, proceed to rendezvous with Redemption immediately, plant the bomb safely, and exfiltrate!",
+      "JP": "本部：eclipsis、redemptionに直ちに合流し、爆弾を設けて安全に撤退せよ！",
+      "CN": "",
+      "KR": "헤드쿼터: 일립시스, 즉시 레뎀션의 지원을 가서 폭탄을 안착하고 안전하게 철수하라!",
+      "TW": "總部：Eclipsis，你們現在立即前往前方接應Redemption，安放炸彈後安全撤離！"
+    }
+  },
+  "等推车把障碍物推上去和二楼的人一起撤离！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Wait for the cart to push the obstacles up so you can evacuate together with the people on the second floor!",
+      "JP": "車輪で障害物を押し上げ、二階の人員と共に撤退するぞ！",
+      "CN": "",
+      "KR": "레버리트를 밀어서 장애물을 제거하고, 2층과 함께 철수하라!",
+      "TW": "等推車把障礙物推上去，然後和二樓的人一起撤離！"
+    }
+  },
+  "再坚持20秒钟！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on for another 20 seconds!",
+      "JP": "あと20秒だ！耐え抜け！",
+      "CN": "",
+      "KR": "또 20초만 버텨라!",
+      "TW": "再堅持20秒！"
+    }
+  },
+  "另一侧也来了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hostiles approaching from the other side!",
+      "JP": "反対側からも来るぞ！",
+      "CN": "",
+      "KR": "다른 쪽에서도 접근한다!",
+      "TW": "另一側也來了！"
+    }
+  },
+  "接应你们的飞机已经到了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The extraction aircraft for you has arrived.",
+      "JP": "お前らを迎える航空機が到着した",
+      "CN": "",
+      "KR": "너희들을 지원할 비행기가 도착했다.",
+      "TW": "接應你們的飛機已經到達。"
+    }
+  },
+  "僵尸追的很紧！小心正前方的小门！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The zombies are closing in fast! Watch out for the door straight ahead!",
+      "JP": "ゾンビーが追手を狭めている！正面の小さな扉に注意しろ！",
+      "CN": "",
+      "KR": "좀비가 아주 가까이追踪한다! 정문의 작은 문을 조심하라!",
+      "TW": "殭屍追得很緊！小心正前方的小門！"
+    }
+  },
+  "赶紧上飞机！飞机还有10秒钟起飞！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry onto the plane! It's taking off in 10 seconds!",
+      "JP": "早く搭乗しろ！10秒後に離陸するぞ！",
+      "CN": "",
+      "KR": "금속 비행기에 탑승하라! 비행기는 10초 후에 이륙한다!",
+      "TW": "趕緊上飛機！飛機還有10秒就起飛了！"
+    }
+  },
+  "收到，任务已完成！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Copy that. Mission complete!",
+      "JP": "了解、任務完了！",
+      "CN": "",
+      "KR": "네, 임무 완료!",
+      "TW": "收到，任務已完成！"
+    }
+  },
+  "Redemption，坚持住！我们马上到!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on, Redemption! We're almost there!",
+      "JP": "レッドemption、踏ん張れ！すぐ着く！",
+      "CN": "赎回！坚持住！我们马上到！",
+      "KR": "레뎀션, 버티세요! 곧 도착합니다!",
+      "TW": "Redemption，堅持住！我們馬上到！"
+    }
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "*** ze_Pidaras_v1_5 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ze_Pidaras_v1_5 ***",
+      "CN": "*** ze_Pidaras_v1_5 ***",
+      "KR": "*** ze_Pidaras_v1_5 ***",
+      "TW": "*** ze_Pidaras_v1_5 ***"
+    }
+  },
+  "*** Map by Nostar ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Map by Nostar ***",
+      "CN": "*** 地图作者：Nostar ***",
+      "KR": "*** 맵 제작: Nostar ***",
+      "TW": "*** 地圖作者：Nostar ***"
+    }
+  },
+  "*** Thank you so much to Noctali / Cuniczek / Moltard / and all Pidaras ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Noctali / Cuniczek / Moltard、そしてすべてのPidarasに心より感謝します ***",
+      "CN": "*** 特别感谢 Noctali / Cuniczek / Moltard 以及所有 Pidaras ***",
+      "KR": "*** Noctali, Cuniczek, Moltard, 그리고 모든 Pidaras 관계자분들께 깊은 감사를 드립니다 ***",
+      "TW": "*** 特別感謝 Noctali、Cuniczek、Moltard 以及所有 Pidaras 的貢獻 ***"
+    }
+  },
+  "*** Good luck and Let's Rock ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 幸運を祈る！Let's Rock ! ***",
+      "CN": "*** 祝好运，开始吧！ ***",
+      "KR": "*** 행운을 빕니다! 같이 격파해봅시다! ***",
+      "TW": "*** 祝好運，開始大顯身手吧！***"
+    }
+  },
+  "*** Admoun please Minas Tirith nextmap or ban or flute ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Admoun please Minas Tirith nextmap or ban or flute ***",
+      "CN": "*** Admoun 请制作 Minas Tirith 下一张地图，否则封禁或吹笛子 ***",
+      "KR": "*** Admoun 님, 다음 맵은 Minas Tirith로 지정하거나, 제재 또는 플루트 처리 부탁드립니다 ***",
+      "TW": "*** Admoun：請製作 Minas Tirith 的下一張地圖，否則將封鎖或移除***"
+    }
+  },
+  "*** LEVEL 1 : KILL THE PYRAMIGAY ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** LEVEL 1 : PYRAMIGAYを倒せ ***",
+      "CN": "*** 等级 1：击杀 Pyramigay ***",
+      "KR": "*** 레벨 1 : 피라미게이를 처치하세요! ***",
+      "TW": "*** 等級 1：消滅 Pyramigay ***"
+    }
+  },
+  "*** Pidaras Shotgun pickep up ! (35 shots) ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Pidarasショットガン獲得！（弾数35発）! ***",
+      "CN": "捡到 Pidaras 霰弹枪！（剩余35发）！ ***",
+      "KR": "*** 파다라스 산탄총 획득! (탄약 35발) ***",
+      "TW": "*** 已拾取 Pidaras 霰彈槍！（35 發子彈）！***"
+    }
+  },
+  "*** Pidaras Freezer has been picked ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Pidarasフリーズを獲得しました ***",
+      "CN": "*** 已拾取 Pidaras 冷冻器 ***",
+      "KR": "*** 파다라스 프리저를 획득했습니다! ***",
+      "TW": "*** 已拾取 Pidaras 冷卻裝置 ***"
+    }
+  },
+  "*** GANDALF DONT LIKE DOOR HUGGER ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ガンダルフ、ドアハグラーを嫌う ***",
+      "CN": "*** 甘道夫不喜欢抱门的人 ***",
+      "KR": "*** 갈란드 도너블러 싫어 ***",
+      "TW": "*** 甘道夫不喜歡門戶戀物癖 ***"
+    }
+  },
+  "*** BECAUSE HE'S A FUCKING RACIST ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** なぜなら彼はクソ野郎だからな ***",
+      "CN": "*** 因为他是个混蛋种族主义者 ***",
+      "KR": "*** 그는 혐오스러운 인종차별주의자이기 때문이야 ***",
+      "TW": "*** 因為他是個種族主義者 ***"
+    }
+  },
+  "*** DOOR OPEN IN 25 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア、25秒後に開く ***",
+      "CN": "*** 门将在25秒后打开 ***",
+      "KR": "*** 문이 25초 후에 열림 ***",
+      "TW": "*** 門將在25秒後開啟 ***"
+    }
+  },
+  "*** DOOR OPEN IN 10 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア、10秒後に開く ***",
+      "CN": "*** 门将在10秒后打开 ***",
+      "KR": "*** 문이 10초 후에 열림 ***",
+      "TW": "*** 門將在10秒後開啟 ***"
+    }
+  },
+  "*** Pidaras Heal / Unlimited Ammo has been picked ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Pidaras Healing / Unlimited Ammo を獲得 ***",
+      "CN": "*** 已拾取 PIDARAS 治疗 / 无限弹药 ***",
+      "KR": "*** 피다라 힐 / 무제한 탄약을 획득했습니다 ***",
+      "TW": "*** 已拾取『Pidaras回血 / 無限彈藥』 ***"
+    }
+  },
+  "*** DOOR OPEN FUCKING PIDARAS !!! GO GO GO !!! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア開けろクソ野郎！！！行け行け行け！！！ ***",
+      "CN": "*** 门马上开了，快跑啊！！！冲！！！***",
+      "KR": "*** 문이 열려! 피다라들아 !!! 빨리 가자 !!! ***",
+      "TW": "*** 門即將打開，Pidaras們！上啊！***"
+    }
+  },
+  "*** AFK TELEPORT IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** AFKテレポート、5秒後 ***",
+      "CN": "*** 5秒后传送AFK玩家 ***",
+      "KR": "*** 오프라인 텔레포트 5초 후 ***",
+      "TW": "*** 5秒後進行離線傳送 ***"
+    }
+  },
+  "*** EXPLOSION IN 20 SECONDS PIDARAS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 爆発、20秒後に発生クソ野郎 ***",
+      "CN": "*** 20秒后爆炸，快跑 ***",
+      "KR": "*** 폭발까지 20초! 피다라들아 ***",
+      "TW": "*** 20秒後將發生爆炸，Pidaras們***"
+    }
+  },
+  "***Bahatard is dead ! Run fucking idiot !***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バハタール死亡！走れ、糞馬鹿！！！",
+      "CN": "***Bahatard已死！快跑，你这个蠢货！***",
+      "KR": "***바하타드가 사망했습니다! 저런 멍청이 빨리 도망치세요 !***",
+      "TW": "*** Bahatard 死了！快跑，該死的笨蛋！***"
+    }
+  },
+  "***The pidaras train move in 10 seconds***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "糞列車が10秒後に到着",
+      "CN": "***那帮混蛋列车将在10秒后到达***",
+      "KR": "*** pidaras 열차가 10초 후에 출발합니다***",
+      "TW": "***那群混蛋的軍隊還有10秒到達。***"
+    }
+  },
+  "*** Zombies will be teleported in 10 seconds ! Run to the gate ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビーが10秒以内にテレポートします！ゲートまで逃げろ！",
+      "CN": "***僵尸将在10秒内被传送！快跑向大门！***",
+      "KR": "*** 좀비들이 10초 후에 텔레포트 됩니다! 게이트로 도망치세요! ***",
+      "TW": "***殭屍將在10秒後傳送到這裡！快跑到門那裡去！***"
+    }
+  },
+  "*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "糞ゲートが15秒後に開放！糞の愚者たち、掩護しろ！",
+      "CN": "***那扇该死的大门将在15秒后打开！笨蛋们快找掩护！***",
+      "KR": "*** pidaras 게이트가 15초 후에 열립니다! 저런 멍청이들 최대한 숨으세요! ***",
+      "TW": "***那扇混蛋的門還有15秒後才開！快找掩體，該死的笨蛋！***"
+    }
+  },
+  "*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲート開放！真の糞献身的者なら、身を捧げて掩護しろ！",
+      "CN": "***大门已开！如果你是真正的混蛋，就献祭你自己并继续寻找掩护！***",
+      "KR": "*** 게이트가 열렸습니다! 진심인 pidaras 희생자들은 자신을 바치고 숨으세요! ***",
+      "TW": "***門已開啟！如果你是真正的獻祭者，就把自己獻出去並躲好掩體！***"
+    }
+  },
+  "*** Welcome to unloze world ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "アンローズ世界へようこそ",
+      "CN": "***欢迎来到无爱世界***",
+      "KR": "*** 무지개 세상 오신 것을 환영합니다***",
+      "TW": "***歡迎來到這個不愛的世界。***"
+    }
+  },
+  "*** Penis everywhere ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ペニス无处不在",
+      "CN": "***到处都是阴茎***",
+      "KR": "*** 여기는 모든 게 게이입니다 ***",
+      "TW": "***滿地的陽具。***"
+    }
+  },
+  "*** Cuz all admin are gay (especially when they mute me) ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "なぜなら全管理者はゲイだからだ（特に私をミュートする時）",
+      "CN": "***因为所有管理员都是同性恋（尤其是当他们封禁我的时候）***",
+      "KR": "*** 아드민 다 게이거든요 (특히 저 뮤트할 때요) ***",
+      "TW": "***因為所有管理員都是Gay（尤其是當他們禁言我的時候）。***"
+    }
+  },
+  "*** Can we play Minas please ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ミナスをプレイしてほしい ***",
+      "CN": "*** 我们能玩米纳斯吗 ***",
+      "KR": "*** 미나스 플레이해 주시겠습니까? ***",
+      "TW": "*** 我們可以玩米納斯嗎？***"
+    }
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り5秒 ***",
+      "CN": "*** 还剩5秒 ***",
+      "KR": "*** 5초 남았습니다 ***",
+      "TW": "*** 剩餘5秒 ***"
+    }
+  },
+  "*** Cover 25 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒間カバーしろ ***",
+      "CN": "*** 守到25秒 ***",
+      "KR": "*** 25초간 대기***",
+      "TW": "*** 掩護25秒 ***"
+    }
+  },
+  "*** ZM teleport in 3 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ZM、3秒後テレポート ***",
+      "CN": "*** ZM还有3秒传送 ***",
+      "KR": "*** ZM 순간이동 3초 후 ***",
+      "TW": "*** ZM在3秒後傳送 ***"
+    }
+  },
+  "*** The gay horses move in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゲイの馬が5秒後に出現 ***",
+      "CN": "*** 同性恋马还有5秒过来 ***",
+      "KR": "*** 동성애자 말들이 5초 후 등장 ***",
+      "TW": "*** 那些馬在5秒後移動 ***"
+    }
+  },
+  "*** OMFG SHOOT THIS FUCKING PYRAMIGAY ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** uratagayというピラミッドを撃てっ！ ***",
+      "CN": "*** TM的快射死这该死的金字塔gay ***",
+      "KR": "*** OMG 이 쓰레기 피라미드 쏴!! ***",
+      "TW": "*** 天哪，射死那該死的金字塔 ***"
+    }
+  },
+  "*** WARNING THESE HORSES ARE BITCHES ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 警告：これらの馬はブスだ！ ***",
+      "CN": "*** 警告这些马是婊子！ ***",
+      "KR": "*** 경고: 이 말들은 개새끼다! ***",
+      "TW": "*** 警告：這些馬是妓女！***"
+    }
+  },
+  "*** Stay cover here guys while waiting for the bridge ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ブリッジの到着を待ちながらここでカバーしろよ ***",
+      "CN": "***  guys在桥过来之前守在这里 ***",
+      "KR": "*** 다리가 생길 때까지 여기에서 대기하세요, 친구들아***",
+      "TW": "*** 大家留在這裡掩護，等待橋樑 ***"
+    }
+  },
+  "*** Pidaras flamethrower has been picked ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ピダラスの火炎放射器を拾った ***",
+      "CN": "*** 已拾取皮达拉斯喷火器 ***",
+      "KR": "*** 피다라스 화염방사기가 획득됨 ***",
+      "TW": "*** 已拾取_pidaras_火焰噴射器 ***"
+    }
+  },
+  "*** Find the pidaras key to open the door ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉を開けるためのピダラスの鍵を見つけろ ***",
+      "CN": "*** 寻找皮达拉斯钥匙以打开门 ***",
+      "KR": "*** 문을 열기 위해 피다라스열쇠를 찾으세요 ***",
+      "TW": "*** 找到_pidaras_鑰匙以打開門 ***"
+    }
+  },
+  "*** The pidaras key was found ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ピダラスの鍵を発見した！***",
+      "CN": "*** 找到皮达拉斯钥匙！***",
+      "KR": "*** 피다라스열쇠를 찾았습니다 ! ***",
+      "TW": "*** 已發現_pidaras_鑰匙！***"
+    }
+  },
+  "*** FALL BACK FUCKING RETARD ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 後退しろ、クソ遅い野郎 ***",
+      "CN": "*** 该死的弱智，往后退 ***",
+      "KR": "*** 좆같은 바보 후퇴해라 ***",
+      "TW": "*** 後撤你媽個傻逼 ***"
+    }
+  },
+  "*** PORTAL OPEN IN 25 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ポータルが25秒後に開く ***",
+      "CN": "*** 传送门将在25秒后开启 ***",
+      "KR": "*** 25초 후에 포털이 열립니다 ***",
+      "TW": "*** 傳送門将在25秒後開啟 ***"
+    }
+  },
+  "*** TELEPORT AFK IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にTPオフライン ***",
+      "CN": "*** 原地挂机者将在5秒后传送 ***",
+      "KR": "*** 5초 후 텔레포트 오프라인 ***",
+      "TW": "*** 5秒後傳送離線者 ***"
+    }
+  },
+  "*** GO GO GO PIDARAS ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 行け、行け、ピダラス！***",
+      "CN": "*** 快跑，皮达拉斯！***",
+      "KR": "*** 피다라스 달려라 ! ***",
+      "TW": "*** 快跑啊_pidaras_！***"
+    }
+  },
+  "*** RUN TO THE RED DOOR ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 赤い扉へ走れ ***",
+      "CN": "*** 跑向红色门 ***",
+      "KR": "*** 빨간 문으로 뛰어가세요 ***",
+      "TW": "*** 跑向紅色大門 ***"
+    }
+  },
+  "*** ZM TELEPORT IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にZMテレポート ***",
+      "CN": "*** ZM 传送将在5秒后开始 ***",
+      "KR": "*** ZM 텔레포트 5초 후 ***",
+      "TW": "*** ZM 傳送功能將於 5 秒後啟動 ***"
+    }
+  },
+  "***  RED DOOR OPEN IN 30 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後に赤い扉が開きます ***",
+      "CN": "*** 红门将在30秒后开启 ***",
+      "KR": "*** 빨간 문 30초 후 열림 ***",
+      "TW": "*** 紅門將於 30 秒後開啟 ***"
+    }
+  },
+  "*** GOGOGO FUCKING PIDARAS !!! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** くそったれ PIDARAS たちよ、ガガーゴ！！！ ***",
+      "CN": "*** GOGOGO 他妈的PIDARAS！！！***",
+      "KR": "*** 시발빠르다 가즈삭 !!! ***",
+      "TW": "*** GOGOGO 該死的混蛋們 !!! ***"
+    }
+  },
+  "*** OK... GUYS... IT'S TIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMEE !!!!! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** うーん…みなさん…そ、それだたたたたたたたたたたたたたたたたたただ時間！！！ *****",
+      "CN": "*** 好吧……伙计们……是时候了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！***",
+      "KR": "*** 자... 동료들아... 이제 때가 되었고 !!!!! ***",
+      "TW": "*** 好吧……各位……到時、間、了 !!!!! ***"
+    }
+  },
+  "*** ZOMBIE TELEPORT IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にゾンビがテレポート ***",
+      "CN": "*** 僵尸传送将在5秒后开始 ***",
+      "KR": "*** 좀비 텔레포트 5초 후 ***",
+      "TW": "*** 殭屍傳送功能將於 5 秒後啟動 ***"
+    }
+  },
+  "** Boss Fight in 20s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボス戦まであと20秒 **",
+      "CN": "** Boss战剩余20秒 **",
+      "KR": "** 보스 전투 20초 후 **",
+      "TW": "** Boss 戰開始倒計時 20 秒 **"
+    }
+  },
+  "*** It's time guys ! fight for mother RUSSIA ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 時間だな、みなさん！母なるロシアのために戦え！ ***",
+      "CN": "*** 伙计们，战斗时刻到了！为俄罗斯母亲而战！***",
+      "KR": "*** 잘 들었지 동료들아 ! 러시아를 위해 싸우자 ! ***",
+      "TW": "*** 各位，行動吧！為了俄羅斯而戰！***"
+    }
+  },
+  "** Boss Fight in 10s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボス戦まであと10秒 **",
+      "CN": "** Boss战剩余10秒 **",
+      "KR": "** 보스 전투 10초 후 **",
+      "TW": "** Boss 戰開始倒計時 10 秒 **"
+    }
+  },
+  "*** OMFG SHOOT THIS FUCKING KID !!! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** OMG、このクソガキを撃て !!! ***",
+      "CN": "*** 我靠，快开火打死这混蛋！！！***",
+      "KR": "*** 오바프크 이 썅 새끼 아이를 쏴 !!! ***",
+      "TW": "***他妈的快射殺這個混蛋！！！***"
+    }
+  },
+  "*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MESHLEM、ペニスガンを発射！しゃがんで回避しろ ! ***",
+      "CN": "*** 梅瑟兰用睾丸枪攻击！蹲下躲避！***",
+      "KR": "*** 메슐렘이 페니스건 사용 ! 엎드려 피해 ! ***",
+      "TW": "***墨瑟倫會使用槍林彈雨！蹲下躲閃！***"
+    }
+  },
+  "*** MESHLEM USE DIARRHEA ! JUMP ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MESHLEM、下痢弾発射！跳べ ! ***",
+      "CN": "*** 梅瑟兰用泻屁攻击！跳起来！***",
+      "KR": "*** 메슐렘이 설사 사용 ! 점프 ! ***",
+      "TW": "***墨瑟倫會使用大噴發！跳起來躲避！***"
+    }
+  },
+  "*** MESHLEM USE GANDALF PUTATIMA !!! DON'T STAY IN THE MIDDLE ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MESHLEM、ガンダルフ・プタティマ発動 !!! 真ん中に立つな ! ***",
+      "CN": "*** 梅瑟兰用甘道夫土豆攻击！别站在中间！***",
+      "KR": "*** 메슐렘이 간달프 감자맛 !!! 중앙에 서 있지 마 ! ***",
+      "TW": "***墨瑟倫會使用甘道夫的土豆魔術！！！不要站在中間！***"
+    }
+  },
+  "*** ZM TELEPORT IN 10 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ZM、10秒後にテレポート ***",
+      "CN": "*** ZM将在10秒后传送***",
+      "KR": "*** ZM 10초 뒤 텔레포트 ***",
+      "TW": "***ZM 10秒後傳送***"
+    }
+  },
+  "*** GLASS BREAK IN 5 SECONDS ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ガラス、5秒後に割れる ! ***",
+      "CN": "*** 玻璃将在5秒内破碎！***",
+      "KR": "*** 유리가 5초 뒤에 깨짐 ! ***",
+      "TW": "***玻璃會在5秒後破碎！***"
+    }
+  },
+  "*** OH MY GOD ! THIS IS BOMEC ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** この神さま！こいつはボメックだ !!! ***",
+      "CN": "*** 天哪！那是炸弹人！***",
+      "KR": "*** 오 마이 갓 ! 이건 보메크 ! ***",
+      "TW": "老天爷！這是炸彈人！***"
+    }
+  },
+  "*** Minigun has been picked": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ミニガンを持っている",
+      "CN": "已拾取 *** 转管机枪",
+      "KR": "*** 미니건이 수집됨",
+      "TW": "***已拾取加特林機槍***"
+    }
+  },
+  "*** MINIGUN STAY COVER OR CANCER ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MINIGUNは掩護位置を維持せよ、ガンのリスクがあるぞ ***",
+      "CN": "*** 机枪手，保持隐蔽或等着得癌吧 ***",
+      "KR": "*** 미사일 탄착 지점 피하거나 암으로 죽어라 ***",
+      "TW": "*** 機槍維持掩護或癌症 ***"
+    }
+  },
+  "*** OK FUCKING FAGGOT STAY COVER HERE 20 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** OK、クソったれな掩護位置をここで20秒間維持しろ ***",
+      "CN": "*** 好吧，该死的同性恋，在原地保持隐蔽20秒 ***",
+      "KR": "*** 됐아, 이 병신 자식, 여기서 20초 동안 방어만 해 ***",
+      "TW": "*** 好的他媽的同性戀者留在這裡20秒 ***"
+    }
+  },
+  "*** OMFG ! IT'S FAGGET TIME ! LET'S ROCK ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** OMFG ! フェラタイムだ ! やろうぜ ! ***",
+      "CN": "*** 我的老天！同性恋时刻到了！让我们开始狂欢吧！***",
+      "KR": "*** 오빠, 이 병신 자식이 왔다! 시작해라! ***",
+      "TW": "*** 天哪！是gay時間！讓我們開始吧！***"
+    }
+  },
+  "*** LASER TIME": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザーアタック開始 ***",
+      "CN": "*** 激光时刻 ***",
+      "KR": "*** 레이저 시간 ***",
+      "TW": "*** 激光時間 ***"
+    }
+  },
+  "*** OMFG ! You're alive ! RUN TO THE DICK ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** OMFG ! お前生きてたか ! ディックへ走れ ! ***",
+      "CN": "*** 我的老天！你还活着！快跑向那个大鸡巴那里！***",
+      "KR": "*** 오빠, 너 살아?! 대포로 도망쳐! ***",
+      "TW": "*** 天哪！你還活著！跑到Dick那裡去！***"
+    }
+  },
+  "*** COVER WHILE WAITING FOR THE EJACULATION ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エイカンが完了するまで掩護しろ ! ***",
+      "CN": "*** 等待射精的时候保持隐蔽！ ***",
+      "KR": "*** 수류탄 투척 기다리는 동안 방어해라! ***",
+      "TW": "*** 等待射精時掩護！ ***"
+    }
+  },
+  "*** OMFG PENETRATION INCOMING ! GOGOGO ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** OMFG 挿入即将发生 ! GOGO ! ***",
+      "CN": "*** 我的老天！即将进入！冲啊冲啊！***",
+      "KR": "*** 오빠, 침투 작전 개시! 가자, 가자! ***",
+      "TW": "*** 天哪，穿透力來襲！GO GO GO ！***"
+    }
+  },
+  "*** OMFG YOU DID IT ! NICE JOB FUCKING RETARD ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** OMFG お前それをやりやがった ! いい仕事だクソ野郎 ! ***",
+      "CN": "*** 我的老天，你做到了！干得好，该死的白痴！***",
+      "KR": "*** 오빠, 네가 해냈잖아! 잘했어, 이 병신 같은 멍청이야! ***",
+      "TW": "*** 天哪你做到了！做得好他媽的笨蛋 ***"
+    }
+  },
+  "*** EPIC SOLO YOLO PUTA MADRE EPICNESS WIN !!! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** EPIC SOLO YOLO PUTA MADRE EPICNESS WIN !!! ***",
+      "CN": "*** 史诗级独狼傻逼老子史诗胜利！！！***",
+      "KR": "*** EPIC SOLO YOLO PUTA MADRE EPICNESS WIN !!! ***",
+      "TW": "*** 史詩級獨玩極致牛逼的勝利！！！***"
+    }
+  },
+  "*** GO SCREEN FUCKING RETARD ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** GO SCREEN FUCKING RETARD ***",
+      "CN": "*** 去他妈的全屏智障 ***",
+      "KR": "*** GO SCREEN FUCKING RETARD ***",
+      "TW": "*** 滾去螢幕前廢物 ***"
+    }
+  },
+  "*** Thx for playing ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Thx for playing ***",
+      "CN": "*** 谢谢游玩 ***",
+      "KR": "*** 게임을 플레이해 주셔서 감사합니다 ***",
+      "TW": "*** 感謝遊玩 ***"
+    }
+  },
+  "*** LEVEL 2 : FLYING COCK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** LEVEL 2 : FLYING COCK ***",
+      "CN": "*** 第2关：飞翔的公鸡 ***",
+      "KR": "*** 레벨 2 : 날아다니는 계기 ***",
+      "TW": "*** 第2關：飛翔的公雞 ***"
+    }
+  },
+  "*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***",
+      "CN": "*** 梅斯勒姆使用了齐达内旋转跳跃！快跳开躲避！***",
+      "KR": "*** MESHLEM이 ZIZICOPTER을 사용합니다! 피하기 위해 점프하세요! ***",
+      "TW": "*** MESHLEM 使用了茲西科opter！跳開躲避它！***"
+    }
+  },
+  "*** MESHLEM USE FLAMING FART ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MESHLEM USE FLAMING FART ***",
+      "CN": "*** 梅斯勒姆使用了烈焰放屁 ***",
+      "KR": "*** MESHLEM이 불타는 방귀를 사용합니다 ***",
+      "TW": "*** MESHLEM 使用了燃燒的屁 ***"
+    }
+  },
+  "*** Pidaras Giant Dick move in 15 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Pidaras Giant Dick move in 15 seconds ***",
+      "CN": "*** 15秒后启动贱人巨型阴茎动作 ***",
+      "KR": "*** Pidaras Giant Dick 이동 15초 후 발동 ***",
+      "TW": "*** 15秒內巨屌攻擊即將發動 ***"
+    }
+  },
+  "*** COVER ON THE LEFT SIDE ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** COVER ON THE LEFT SIDE ! ***",
+      "CN": "*** 在左侧掩护！***",
+      "KR": "*** 왼쪽 측면을 방어하세요! ***",
+      "TW": "*** 去左邊掩護！***"
+    }
+  },
+  "*** COVER ON THE RIGHT SIDE ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 右側カバースタート！ ***",
+      "CN": "请从右侧加盖！",
+      "KR": "오른쪽에 덮개를 !",
+      "TW": "*** 請將護盾設為右側！ ***"
+    }
+  },
+  "*** Shoot this asshole ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** アレを撃ち込め！ ***",
+      "CN": "*** 射杀这混蛋！***",
+      "KR": "이 망나니를 쏴 !",
+      "TW": "*** 擊殺這個臭蟲！ ***"
+    }
+  },
+  "*** Stupid zombie are teleport in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後、ゾンビがテレポート ***",
+      "CN": "*** 蠢货僵尸将在5秒后传送 ***",
+      "KR": "바보 좀비는 5초 안에 텔레포트 합니다",
+      "TW": "*** 愚蠢的殭屍將在5秒後傳送進場 ***"
+    }
+  }
+}

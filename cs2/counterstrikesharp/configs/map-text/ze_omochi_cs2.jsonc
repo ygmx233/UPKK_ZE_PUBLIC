@@ -1,44 +1,142 @@
 {
   "[ 10 ]": {
-    "translation": "[ 10s ]"
+    "translation": "[ 10s ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "[ 15 ]": {
-    "translation": "[ 15s ]"
+    "translation": "[ 15s ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "[ 20 ]": {
-    "translation": "[ 20s ]"
+    "translation": "[ 20s ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "[ 20 ] ": {
-    "translation": "[ 20s ]"
+    "translation": "[ 20s ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "[ 25 ]": {
-    "translation": "[ 25s ]"
+    "translation": "[ 25s ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "[ 35 ]": {
-    "translation": "[ 35s ]"
+    "translation": "[ 35s ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "[ Failed ]": {
-    "translation": "[ 失败 ]"
+    "translation": "[ 失败 ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[失敗]",
+      "CN": "[ 失败 ]",
+      "KR": "[실패]",
+      "TW": "[ 失敗 ]"
+    }
   },
   "[ stage 1 ]": {
-    "translation": "[ 关卡 1 ] 翻译：Asteri3m"
+    "translation": "[ 关卡 1 ] 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ステージ1]",
+      "CN": "[ 关卡 1 ]",
+      "KR": "[스테이지 1]",
+      "TW": "[ 關卡 1 ]"
+    }
   },
   "[ stage 2 ]": {
-    "translation": "[ 关卡 2 ]"
+    "translation": "[ 关卡 2 ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ステージ2]",
+      "CN": "[ 关卡 2 ]",
+      "KR": "[스테이지 2]",
+      "TW": "[ 關卡 2 ]"
+    }
   },
   "[ stage 3 ]": {
-    "translation": "[ 关卡 3 ]"
+    "translation": "[ 关卡 3 ]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ステージ3]",
+      "CN": "[ 关卡 3 ]",
+      "KR": "[스테이지 3]",
+      "TW": "[ 關卡 3 ]"
+    }
   },
   "ball spawned": {
-    "translation": "弹幕已生成"
+    "translation": "弹幕已生成",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボール生成",
+      "CN": "生成球",
+      "KR": "볼 생성됨",
+      "TW": "球已生成"
+    }
   },
   "cube 1": {
-    "translation": "方块 1"
+    "translation": "方块 1",
+    "MultiLang": {
+      "US": "",
+      "JP": "キューブ1",
+      "CN": "方块 1",
+      "KR": "큐브 1",
+      "TW": "方塊 1"
+    }
   },
   "cube 2": {
-    "translation": "方块 2"
+    "translation": "方块 2",
+    "MultiLang": {
+      "US": "",
+      "JP": "キューブ2",
+      "CN": "方块 2",
+      "KR": "큐브 2",
+      "TW": "方塊 2"
+    }
   },
   "cube 3": {
-    "translation": "方块 3"
+    "translation": "方块 3",
+    "MultiLang": {
+      "US": "",
+      "JP": "キューブ3",
+      "CN": "方块 3",
+      "KR": "큐브 3",
+      "TW": "方塊 3"
+    }
   }
 }

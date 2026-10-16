@@ -1,0 +1,612 @@
+{
+  ">>> 30 Seconds of Warmup Remaining <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングアップ残り30秒",
+      "CN": "30秒热身剩余",
+      "KR": "예선 30초 남음",
+      "TW": "<<< 剩餘 30 秒熱身時間 >>>"
+    }
+  },
+  ">>> Warmup Round! Map starting in 40 seconds. <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングラウンド！マップ開始まで40秒",
+      "CN": "热身轮次！地图将在40秒后开始。",
+      "KR": "예선 라운드! 맵이 40초 후에 시작됩니다.",
+      "TW": "<<< 熱身階段！地圖將於 40 秒後開始 >>>"
+    }
+  },
+  ">>> 20 Seconds of Warmup Remaining <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングアップ残り20秒",
+      "CN": "20秒热身剩余",
+      "KR": "예선 20초 남음",
+      "TW": "<<< 剩餘 20 秒熱身時間 >>>"
+    }
+  },
+  ">>> 10 Seconds of Warmup Remaining <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングアップ残り10秒",
+      "CN": "10秒热身剩余",
+      "KR": "예선 10초 남음",
+      "TW": "<<< 剩餘 10 秒熱身時間 >>>"
+    }
+  },
+  ">>> Warmup Ending - Map Starting <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミング終了 - マップ開始",
+      "CN": "热身结束 - 地图即将开始",
+      "KR": "예선 종료 - 맵 시작",
+      "TW": "<<< 熱身結束 - 地圖即將開始 >>>"
+    }
+  },
+  ">>> Map Made by Moray <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成：Moray",
+      "CN": "地图由 Moray 制作",
+      "KR": "맵 제작자: 모레이",
+      "TW": "<<< 地圖由 Moray 製做 >>>"
+    }
+  },
+  ">>> Map Finished by Ponya <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ完成：Ponya",
+      "CN": "地图由 Ponya 完成",
+      "KR": "맵 최종 점검자: 포냐",
+      "TW": "<<< 地圖由 Ponya 完成 >>>"
+    }
+  },
+  ">>> Special Thanks : nano <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "特別感謝：nano",
+      "CN": "特别感谢：nano",
+      "KR": "특별 감사: 나노",
+      "TW": "<<< 特別鳴謝：nano >>>"
+    }
+  },
+  ">>> Map Reboot by Glacius <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> グレイシウスによるマップリブート <<<",
+      "CN": ">>> 由Glacius重制的地图 <<<",
+      "KR": ">>> 글라시우스의 맵 재부팅 <<<",
+      "TW": "<<< Glacius 重新啟動地圖 >>>"
+    }
+  },
+  ">>> Stage 1 - Normal <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ1 - ノーマル <<<",
+      "CN": ">>> 第一关 - 普通模式 <<<",
+      "KR": ">>> 스테이지 1 - 일반 <<<",
+      "TW": ">>> 第一關 - 普通難度 <<<"
+    }
+  },
+  ">>> HOLD 5 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 5秒間ホールド <<<",
+      "CN": ">>> 按住5秒 <<<",
+      "KR": ">>> 5초간 누르세요 <<<",
+      "TW": "<<< 按住 5 秒 >>>"
+    }
+  },
+  ">>> HOLD 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒間ホールド <<<",
+      "CN": ">>> 按住10秒 <<<",
+      "KR": ">>> 10초간 누르세요 <<<",
+      "TW": "<<< 按住 10 秒 >>>"
+    }
+  },
+  ">>> HOLD 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 15秒間ホールド <<<",
+      "CN": ">>> 按住15秒 <<<",
+      "KR": ">>> 15초간 누르세요 <<<",
+      "TW": "<<< 按住 15 秒 >>>"
+    }
+  },
+  ">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーは電動ビーム大砲を選択 <<<",
+      "CN": ">>> 玩家选择了电束炮 <<<",
+      "KR": ">>> 플레이어가 전기 빔 포를 선택했습니다 <<<",
+      "TW": "<<< 玩家選取電流束加農炮 >>>"
+    }
+  },
+  ">>> PLAYER PICKED ICY VORTEX <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーは氷の渦を選択 <<<",
+      "CN": ">>> 玩家选择了寒冰漩涡 <<<",
+      "KR": ">>> 플레이자가 얼어붙는 소용돌이를 선택했습니다 <<<",
+      "TW": "<<< 玩家選取寒冰漩渦 >>>"
+    }
+  },
+  ">>> HOLD 20 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 20秒間ホールド <<<",
+      "CN": ">>> 按住20秒 <<<",
+      "KR": ">>> 20초간 누르세요 <<<",
+      "TW": "<<< 按住 20 秒 >>>"
+    }
+  },
+  ">>> PLAYER PICKED VENOM BEAM CANNON <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはベノムビームキャノンを選択した <<<",
+      "CN": ">>> 玩家选择了毒性光束炮 <<<",
+      "KR": ">>> 플레어 빔 포획 <<<",
+      "TW": "玩家拾取了毒線炮"
+    }
+  },
+  ">>> PLAYER PICKED BLUE SPARK <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはブルースパークを選択した <<<",
+      "CN": ">>> 玩家获得了蓝色闪电 <<<",
+      "KR": ">>> 블루 스파크 획득 <<<",
+      "TW": "玩家拾取了藍色閃電"
+    }
+  },
+  ">>> AFK TELEPORT IN 5 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 5秒後にAFKでテレポートします <<<",
+      "CN": ">>> 5秒后离开将传送 <<<",
+      "KR": ">>> 5초 후 오프라인 텔레포트 <<<",
+      "TW": "5 秒後將因無活動被踢出遊戲"
+    }
+  },
+  ">>> PLAYER PICKED AMMO <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーは弾薬を選択した <<<",
+      "CN": ">>> 玩家获得了弹药 <<<",
+      "KR": ">>> 플레어 탄환 획득 <<<",
+      "TW": "玩家拾取了彈藥"
+    }
+  },
+  ">>> PLAYER PICKED HEAL <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーは回復を選択した <<<",
+      "CN": ">>> 玩家获得了治疗 <<<",
+      "KR": ">>> 플레어 회복 획득 <<<",
+      "TW": "玩家拾取了回血道具"
+    }
+  },
+  ">>> HOLD 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 25秒持続 <<<",
+      "CN": ">>> 保持充能25秒 <<<",
+      "KR": ">>> 25초간 유지 필요 <<<",
+      "TW": "請維持 25 秒"
+    }
+  },
+  ">>> 5 SECONDS LEFT <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> あと5秒 <<<",
+      "CN": ">>> 剩余5秒 <<<",
+      "KR": ">>> 남은 시간 5초 <<<",
+      "TW": "剩餘 5 秒"
+    }
+  },
+  ">>> BOSS IS ARRIVED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ボス登場 <<<",
+      "CN": ">>> Boss已到达 <<<",
+      "KR": ">>> 보스 등장 <<<",
+      "TW": "Boss 已經到達"
+    }
+  },
+  ">>> BOSS DEFEATED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ボス撃破 <<<",
+      "CN": "<<< BOSS DEFEATED >>>",
+      "KR": ">>> 보스 격파 <<<",
+      "TW": ">>> 首領已擊破 <<<"
+    }
+  },
+  ">>> HOLD 30 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒間保持 <<<",
+      "CN": "<<< 按住30秒 >>>",
+      "KR": ">>> 30초간 유지 <<<",
+      "TW": ">>> 持續按住 30 秒 <<<"
+    }
+  },
+  ">>> STAGE 1 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ1クリア <<<",
+      "CN": "<<< 阶段1已完成 >>>",
+      "KR": ">>> 스테이지 1 완료 <<<",
+      "TW": ">>> 第 1 關卡完成 <<<"
+    }
+  },
+  ">>> Stage 2 - Normal <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ2 - ノーマル <<<",
+      "CN": "<<< 阶段2 - 普通模式 >>>",
+      "KR": ">>> 스테이지 2 - 보통 모드 <<<",
+      "TW": ">>> 第 2 關卡 - 普通 <<<"
+    }
+  },
+  ">>> FIND C4 TO MAKE PASSAGE <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> パスを通るためにC4を入手 <<<",
+      "CN": "<<< 寻找C4以打开通道 >>>",
+      "KR": ">>> C4를 찾아 통로 확보 <<<",
+      "TW": ">>> 尋找 C4 以開闢道路 <<<"
+    }
+  },
+  ">>> C4 PICKED UP <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> C4 picked up <<<",
+      "CN": "<<< 已拾取C4 >>>",
+      "KR": ">>> C4 획득 <<<",
+      "TW": ">>> 已拾取 C4 <<<"
+    }
+  },
+  ">>> ADMIN CHANGED TO STAGE 3 - NORMAL MODE <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理画面: ステージ3 - ノーマルモードに変更 <<<",
+      "CN": "<<< 管理员已将模式更改为阶段3 - 普通模式 >>>",
+      "KR": ">>> 관리자가 스테이지 3 - 보통 모드로 변경 <<<",
+      "TW": ">>> 管理員已將狀態切換為第 3 關卡 - 普通模式 <<<"
+    }
+  },
+  ">>> ADMIN PRESSED KILL ALL BUTTON <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理画面: 全滅ボタンを押下 <<<",
+      "CN": "<<< 管理员按下了“全部击杀”按钮 >>>",
+      "KR": ">>> 관리자가 전체 죽이기 버튼을 눌렀습니다 <<<",
+      "TW": ">>> 管理員已按下全滅按鈕 <<<"
+    }
+  },
+  ">>> Stage 3 - Normal <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ3 - ノーマル <<<",
+      "CN": ">>> 第三关 - 普通 <<<",
+      "KR": ">>> 스테이지 3 - Normal <<<",
+      "TW": ">>> 第3關 - 普通 <<<"
+    }
+  },
+  ">>> TELEPORT ACTIVATING IN 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 25秒後にテレポート開始 <<<",
+      "CN": ">>> 传送将在25秒后激活 <<<",
+      "KR": ">>> 텔레포트 25초 후 활성화 <<<",
+      "TW": ">>>  teleporting啟動中，距離結束還有25秒 <<<"
+    }
+  },
+  ">>> ELEVATOR STOPPED GO TO PRESS BUTTON <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エレベーター停止中、ボタンを押してください <<<",
+      "CN": ">>> 电梯已停运，请按下按钮 <<<",
+      "KR": ">>> 엘리베이터 정지. 버튼 누르기 <<<",
+      "TW": ">>> 電梯停止，請按按鈕 <<<"
+    }
+  },
+  ">>> ADMIN CHANGED TO STAGE 3 - EXTREME MODE <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理者設定をステージ3 - エクストリームモードに変更 <<<",
+      "CN": ">>> 管理员已切换至第三关 - 极限模式 <<<",
+      "KR": ">>> 스테이지 3 - Extreme 모드로 관리자 변경 <<<",
+      "TW": ">>> 管理員已切換至第3關 - 極限模式 <<<"
+    }
+  },
+  ">>> Stage 3 - Extreme <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ3 - エクストリーム <<<",
+      "CN": ">>> 第三关 - 极限 <<<",
+      "KR": ">>> 스테이지 3 - Extreme <<<",
+      "TW": ">>> 第3關 - 極限 <<<"
+    }
+  },
+  ">>> This Stage is Under Heavy Development! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> このステージは開発中です！<<<",
+      "CN": ">>> 本关卡仍在大力开发中！<<<",
+      "KR": ">>> 이 스테이는 활발한 개발 중입니다! <<<",
+      "TW": ">>> 此關卡仍在積極開發中！ <<<"
+    }
+  },
+  ">>> DOOR OPENS IN 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 25秒後にドアが開きます <<<",
+      "CN": ">>> 门将在25秒后打开 <<<",
+      "KR": ">>> 문 25초 후 개방 <<<",
+      "TW": ">>> 門將在25秒後開啟 <<<"
+    }
+  },
+  ">>> WE HAVE TO BLOW UP THE ELECTRIC TOWER <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 電塔を爆破しなければならない <<<",
+      "CN": ">>> 我们必须炸毁这座输电塔 <<<",
+      "KR": ">>> 전기탑을 폭파해야 합니다 <<<",
+      "TW": ">>> 我們必須炸掉電塔 <<<"
+    }
+  },
+  ">>> FIND C4 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> C4を検索 <<<",
+      "CN": ">>> 寻找C4 <<<",
+      "KR": ">>> C4 탐지 <<<",
+      "TW": ">>> 尋找 C4 <<<"
+    }
+  },
+  ">>> PLAYER PICKED FLAME BEAM CANNON <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはフレイムビームキャノンを取得しました <<<",
+      "CN": ">>> 玩家拾取了火焰射线炮 <<<",
+      "KR": ">>> 플레이어가 화염 빔 캐논을 획득했습니다 <<<",
+      "TW": ">>> 玩家已拾取烈焰光束炮 <<<"
+    }
+  },
+  ">>> BUTTON IS LOCKED  <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ボタンはロックされています <<<",
+      "CN": ">>> 按钮已锁定 <<<",
+      "KR": ">>> 버튼 잠금 <<<",
+      "TW": ">>> 按鈕已鎖定 <<<"
+    }
+  },
+  ">>> PRESS OTHER BUTTON TO UNLOCK <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 他のボタンを押して解除してください <<<",
+      "CN": ">>> 按下其他按钮以解锁 <<<",
+      "KR": ">>> 다른 버튼을 눌러 해지하세요 <<<",
+      "TW": ">>> 按下其他按鈕以解鎖 <<<"
+    }
+  },
+  ">>> BUTTON UNLOCKED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ボタンが解除されました <<<",
+      "CN": ">>> 按钮已解锁 <<<",
+      "KR": ">>> 버튼 해금 <<<",
+      "TW": ">>> 按鈕已解鎖 <<<"
+    }
+  },
+  ">>> MACHINE ERROR WATCH OUT FOR EXPLOSION  <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 機械エラー、爆発にご注意ください <<<",
+      "CN": ">>> 机器故障，注意爆炸 <<<",
+      "KR": ">>> 기계 오류 폭발 주의 <<<",
+      "TW": ">>> 機器故障，請注意爆炸风险 <<<"
+    }
+  },
+  ">>> BOTH ELEVATORS CLOSE AND LEAVE IN 35 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エレベーターが閉じ、35秒後に発車します <<<",
+      "CN": ">>> 两部电梯即将关闭，35秒后离开 <<<",
+      "KR": ">>> 엘리베이터 2대 폐쇄, 35초 후 출발 <<<",
+      "TW": ">>> 兩部電梯將關閉並在 35 秒內離開 <<<"
+    }
+  },
+  ">>> BARRIER DOOR CLOSING IN 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> バリアードアが15秒後に閉じます <<<",
+      "CN": ">>> 障碍门将在15秒内关闭 <<<",
+      "KR": ">>> 차단 문 15초 후 폐쇄 <<<",
+      "TW": ">>> 屏障門将在 15 秒內關閉 <<<"
+    }
+  },
+  ">>> ELECTRIC MACHINE STARTED UP SHOOT IT <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 電動モーター起動。射撃禁止 <<<",
+      "CN": ">>> 电动机器启动，射击 <<<",
+      "KR": "전동 기계 가동 중. 발포하지 마시오!",
+      "TW": "電機啟動，射擊！"
+    }
+  },
+  ">>> REPAIR SHIELD ENABLED   DON'T SHOOT <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> シールド修理中。射撃禁止 <<<",
+      "CN": ">>> 护盾修复已启用，不要射击 <<<",
+      "KR": "방어막 수리 가능. 발포하지 마시오!",
+      "TW": "護盾修復中，勿射擊。"
+    }
+  },
+  ">>> ELECTRIC WAVE ENABLED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 電波有効化 <<<",
+      "CN": ">>> 电磁波已启用 <<<",
+      "KR": "전자파 가동 중.",
+      "TW": "電磁波啟動。"
+    }
+  },
+  ">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 重力制御有効。身を隠せ <<<",
+      "CN": ">>> 电磁引力已启用，隐藏目标 <<<",
+      "KR": "전자 중력 가동. 숨으시오!",
+      "TW": "重力場激活，隱藏物品。"
+    }
+  },
+  ">>> DOOR OPENING IN 70 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 70秒後にドア開閉 <<<",
+      "CN": ">>> 70秒后开门 <<<",
+      "KR": "문 개방까지 70초.",
+      "TW": "門將在70秒後開啟。"
+    }
+  },
+  ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒後AFKテレポート <<<",
+      "CN": ">>> 10秒后挂机传送 <<<",
+      "KR": "아프터키프 텔레포트까지 10초.",
+      "TW": "10秒後傳送離線玩家。"
+    }
+  },
+  ">>> DOOR CLOSING IN 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 25秒後にドア閉鎖 <<<",
+      "CN": ">>> 25秒后关门 <<<",
+      "KR": "문 폐쇄까지 25초.",
+      "TW": "門將在25秒後關閉。"
+    }
+  },
+  ">>> STAGE 6 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ6完了 <<<",
+      "CN": ">>> 第6阶段完成 <<<",
+      "KR": "스테이지 6 클리어!",
+      "TW": "第6關完成。"
+    }
+  },
+  ">>> MAP RESTARTING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ再起動中",
+      "CN": ">>> 地图重开 <<<",
+      "KR": "<<< 맵 재시작 >>>",
+      "TW": ">>> 重設地圖 <<<"
+    }
+  },
+  ">>> PLAYER PICKED WIND BLASTER <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはウィンドブラスターを選択した",
+      "CN": ">>> 玩家选择了风之blast <<<",
+      "KR": "<<< 플레이어는 풍운 블래스터를 선택했습니다. >>>",
+      "TW": ">>> 玩家選擇風暴手雷 <<<"
+    }
+  },
+  ">>> C4 EXPLODE IN 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4が10秒後に爆発します",
+      "CN": ">>> C4炸药10秒后爆炸 <<<",
+      "KR": "<<< C4 폭발까지 10초 남음 >>>",
+      "TW": ">>> C4 10秒後炸毀 <<<"
+    }
+  },
+  ">>> HOLD 35 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒間保持",
+      "CN": ">>> 持续35秒 <<<",
+      "KR": "<<< 35초 유지 >>>",
+      "TW": ">>> 堅持35秒 <<<"
+    }
+  },
+  ">>> STAGE 2 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2完了",
+      "CN": ">>> 阶段2完成 <<<",
+      "KR": "<<< 스테이지 2 완료 >>>",
+      "TW": ">>> 第2階段已完成 <<<"
+    }
+  }
+}

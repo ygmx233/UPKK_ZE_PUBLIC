@@ -1,44 +1,142 @@
 {
   "*** the hazard door will open in 20 secs ***": {
-    "translation": "***危险门将在20秒后打开***"
+    "translation": "***危险门将在20秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ハザードドアが20秒後に開放されます***",
+      "CN": "*** 辐射门将在20秒后开启 ***",
+      "KR": "*** 위험 구역 문이 20초 후에 열립니다 ***",
+      "TW": "*** 危險門將在20秒後開啟 ***"
+    }
   },
   "*** the nerve gas will be enabled in 15 Seconds ***": {
-    "translation": "***神经毒气将在15秒后启用***"
+    "translation": "***神经毒气将在15秒后启用***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後に神経ガスが始まります***",
+      "CN": "*** 神经毒气将在15秒后释放 ***",
+      "KR": "*** 신경 가스가 15초 후에 작동합니다 ***",
+      "TW": "*** 神經毒氣將在15秒內啟動 ***"
+    }
   },
   "*** the nerve gas will be enabled in 30 Seconds ***": {
-    "translation": "***神经毒气将在30秒后启用***"
+    "translation": "***神经毒气将在30秒后启用***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒後に神経ガスが始まります***",
+      "CN": "*** 神经毒气将在30秒后释放 ***",
+      "KR": "*** 신경 가스가 30초 후에 작동합니다 ***",
+      "TW": "*** 神經毒氣將在30秒內啟動 ***"
+    }
   },
   "***HOLD ZOMBIES BACK! BUNKER DOOR WILL CLOSE SOON! ***": {
-    "translation": "***抵挡僵尸！掩体门即将关闭！***"
+    "translation": "***抵挡僵尸！掩体门即将关闭！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンディを押し止めよ！ bunkerドアがまもなく閉鎖される！***",
+      "CN": "**** 抵御僵尸！避难所大门即将关闭！ ****",
+      "KR": "*** 좀비를 막아라! 벙커 문이 곧 닫힙니다! ***",
+      "TW": "*** 抵擋殭屍！避難所門即將關閉！***"
+    }
   },
   "**elevator leaving in 5 sec**": {
-    "translation": "**电梯将在5秒后离开**"
+    "translation": "**电梯将在5秒后离开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**エスカレーターが5秒後に発進します**",
+      "CN": "** 电梯将于5秒后离开 **",
+      "KR": "** 엘리베이터가 5초 후에 출발합니다**",
+      "TW": "**電梯五秒後離站**"
+    }
   },
   "gate will open in 10 secs": {
-    "translation": "大门将在10秒后打开"
+    "translation": "大门将在10秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートは10秒後に開放されます",
+      "CN": "闸门将在10秒后开启",
+      "KR": "게이트가 10초 후에 열립니다",
+      "TW": "閘門將在10秒後開啟"
+    }
   },
   "get safely into the bunker and launch the nuke!": {
-    "translation": "安全进入掩体并发射核弹！"
+    "translation": "安全进入掩体并发射核弹！",
+    "MultiLang": {
+      "US": "",
+      "JP": "安全にベアハウスへ入り、核兵器を発射せよ！",
+      "CN": "安全进入避难所并启动核弹！",
+      "KR": "안전히 벙커로 이동하여 핵을 발사하세요!",
+      "TW": "安全進入避難所並啟動核彈！"
+    }
   },
   "map made by salem": {
-    "translation": "地图作者：Salem 翻译：Asteri3m"
+    "translation": "地图作者：Salem 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "サレム制作のマップ",
+      "CN": "地图由 Salem 制作",
+      "KR": "맵 제작: salem",
+      "TW": "地圖由 salem 製作"
+    }
   },
   "security door has been opened": {
-    "translation": "安全门已打开"
+    "translation": "安全门已打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "セキュリティドアが開きました",
+      "CN": "安全门已打开",
+      "KR": "보안문이 열렸습니다",
+      "TW": "安全門已開啟"
+    }
   },
   "the boat will depart in 10 secs": {
-    "translation": "船将在10秒后离开"
+    "translation": "船将在10秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボートは10秒後に発進します",
+      "CN": "船将在10秒后离港",
+      "KR": "배가 10초 후에 출발합니다",
+      "TW": "船隻將在10秒後離港"
+    }
   },
   "the door will open in 30 seconds": {
-    "translation": "门将在30秒后打开"
+    "translation": "门将在30秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは30秒後に開きます",
+      "CN": "门将在30秒后打开",
+      "KR": "문이 30초 후에 열립니다",
+      "TW": "門将在30秒後開啟"
+    }
   },
   "the final door will open now": {
-    "translation": "最后一扇门现在打开"
+    "translation": "最后一扇门现在打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後のドアが開きます",
+      "CN": "最终门现已打开",
+      "KR": "최종문이 지금 열립니다",
+      "TW": "最終門現正開啟"
+    }
   },
   "the security door will open in 20 secs": {
-    "translation": "安全门将在20秒后打开"
+    "translation": "安全门将在20秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "セキュリティドアは20秒後に開きます",
+      "CN": "安全门将在20秒后打开",
+      "KR": "보안문이 20초 후에 열립니다",
+      "TW": "安全門将在20秒後開啟"
+    }
   },
   "the truck will go in 5 secs": {
-    "translation": "卡车将在5秒后驶入"
+    "translation": "卡车将在5秒后驶入",
+    "MultiLang": {
+      "US": "",
+      "JP": "トラックは5秒後に発進します",
+      "CN": "卡车将在5秒后启动",
+      "KR": "트럭이 5초 후에 출발합니다",
+      "TW": "卡車將于5秒後啟動"
+    }
   }
 }

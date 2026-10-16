@@ -1,0 +1,232 @@
+{
+  "<<暂时禁用RTV关与真结局>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Temporarily disable RTV true ending>>",
+      "JP": "<<RTVと真エンディングを一時無効化>>",
+      "CN": "",
+      "KR": "<<RTV 활성화 및 진 엔딩 비활성화>>",
+      "TW": "<<暫時停用RTV並與真實結局>>"
+    }
+  },
+  "<<STAGE:Prologue>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<STAGE:Prologue>>",
+      "CN": "<<关卡：序章>>",
+      "KR": "<<STAGE:Prologue>>",
+      "TW": "<<STAGE:Prologue>>"
+    }
+  },
+  "***30sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒***",
+      "CN": "***30秒***",
+      "KR": "***30초***",
+      "TW": "***30秒***"
+    }
+  },
+  "***45sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***45秒***",
+      "CN": "***45秒***",
+      "KR": "***45초***",
+      "TW": "***45秒***"
+    }
+  },
+  "***60sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***60秒***",
+      "CN": "***60秒***",
+      "KR": "***60초***",
+      "TW": "***60秒***"
+    }
+  },
+  "***15sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒***",
+      "CN": "***15秒***",
+      "KR": "***15초***",
+      "TW": "***15秒***"
+    }
+  },
+  "<<STAGE:White core>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<STAGE:White core>>",
+      "CN": "<<关卡：白色核心>>",
+      "KR": "<<STAGE:White core>>",
+      "TW": "<<STAGE:White core>>"
+    }
+  },
+  "***20sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***20秒***",
+      "CN": "***20秒***",
+      "KR": "***20초***",
+      "TW": "***20秒***"
+    }
+  },
+  "***25sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***25秒***",
+      "CN": "***25秒***",
+      "KR": "***25초***",
+      "TW": "***25秒***"
+    }
+  },
+  "<<STAGE:Black Core>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<STAGE:Black Core>>",
+      "CN": "<<阶段：黑色核心>>",
+      "KR": "<<스테이지: 블랙 코어>>",
+      "TW": "<<區域：黑核>>"
+    }
+  },
+  "***35sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***35秒***",
+      "CN": "***35秒***",
+      "KR": "***35초***",
+      "TW": "***35秒***"
+    }
+  },
+  "***40sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***40秒***",
+      "CN": "***40秒***",
+      "KR": "***40초***",
+      "TW": "***40秒***"
+    }
+  },
+  "<<The administrator chose the second level>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<管理者が第2レベルを選択しました>>",
+      "CN": "<<管理员选择了第二层>>",
+      "KR": "<<관리자가 두 번째 레벨을 선택했습니다>>",
+      "TW": "<<管理者選取了第二階層>>"
+    }
+  },
+  "<<This round will be reset in one second>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<このラウンドは1秒後にリセットされます>>",
+      "CN": "<<本局将在1秒后重置>>",
+      "KR": "<<이번 라운드는 1초 후에 리셋됩니다>>",
+      "TW": "<<本回合將於一秒後重置>>"
+    }
+  },
+  "<<STAGE:Rien>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<STAGE:Rien>>",
+      "CN": "<<阶段：Rien>>",
+      "KR": "<<스테이지:rien>>",
+      "TW": "<<區域：Rien>>"
+    }
+  },
+  "***they are watching us...***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***彼らは私たちを見ている……***",
+      "CN": "***他们正在注视着我们……***",
+      "KR": "***그들이 우리를 지켜보고 있어...***",
+      "TW": "***他們正在注視著我們...***"
+    }
+  },
+  "***Find the s!@#$t (0/3)***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***しっ@#$tを見つける（0/3）***",
+      "CN": "***找到那个该死的玩意儿 (0/3)***",
+      "KR": "***s!@#$t 찾기 (0/3)***",
+      "TW": "***找到那該死的東西 (0/3)***"
+    }
+  },
+  "***10sec***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***10秒***",
+      "CN": "***10秒***",
+      "KR": "***10초***",
+      "TW": "***10秒***"
+    }
+  },
+  "***You Escaped***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***脱出成功***",
+      "CN": "***你逃脱了***",
+      "KR": "***도주 성공***",
+      "TW": "***你逃脫了***"
+    }
+  },
+  "***But the truth still in the Abyes***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***しかし、真実は依然としてアブイェスの中に***",
+      "CN": "***但真相仍深藏于深渊之中***",
+      "KR": "***하지만 진상은 아직 아비스에 남아 있습니다***",
+      "TW": "***但真相仍深藏於阿比斯之中***"
+    }
+  },
+  "<<STAGE:Eden>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ステージ：エデン>>",
+      "CN": "<<关卡：伊甸园>>",
+      "KR": "<<STAGE:Eden>>",
+      "TW": "<<關卡：伊甸>>"
+    }
+  },
+  "<<The administrator chose the third level>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<管理者は第三レベルを選択した>>",
+      "CN": "<<管理员选择了第三层>>",
+      "KR": "<<관리자가 세 번째 레벨을 선택했습니다>>",
+      "TW": "<<管理員選擇了第三層級>>"
+    }
+  },
+  "***No human was detected. The zombies won***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***人間を検出できない。ゾンビの勝ち***",
+      "CN": "***未检测到人类。僵尸获胜***",
+      "KR": "***인간이 감지되지 않았습니다. 좀비 승리***",
+      "TW": "***未偵測到人類。殭屍獲勝***"
+    }
+  }
+}

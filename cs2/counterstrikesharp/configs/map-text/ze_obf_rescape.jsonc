@@ -1,215 +1,692 @@
 {
-  "<<< A wild Noniking came out!!! >>>": {
-    "translation": "<<< 一只野生的Noniking出现了！！！ >>>"
-  },
-  "<Unknown Radio>..Vertigo?...": {
-    "translation": "<未知电台>..殒命大厦？..."
-  },
-  "<Unknown Radio>Attacker,Blow that damn place now.": {
-    "translation": "<未知电台>攻击者，马上炸掉那个该死的地方。"
-  },
-  "<Unknown Radio>It's call Objective Filth,Sounds familiar huh?": {
-    "translation": "<未知电台>这是叫做“行动代号：怒火中烧”，听起来很熟悉吧？"
-  },
-  "<Unknown Radio>Once you get outside,all will be safe!": {
-    "translation": "<未知电台>一旦你出去，一切都会安全！"
-  },
-  "<Unknown Radio>Trust me,You won't want to hear about it.": {
-    "translation": "<未知电台>相信我，你不会想听到它的细节。"
-  },
-  "<Unknown Radio>We gonna to rescue other squad first,Come on!": {
-    "translation": "<未知电台>我们先去救其他小队，走吧！"
-  },
-  "<Unknown Radio>Yes,that it!Keep running!": {
-    "translation": "<未知电台>对，就是这样！继续跑！"
-  },
-  "<Unkown Radio> ... ...": {
-    "translation": "<未知电台> ... ..."
-  },
-  "<Unkown Radio> It's time to wake up, soldiers with a burning heart": {
-    "translation": "<未知电台> 是时候醒来了，怀揣炽热之心的士兵们"
-  },
-  "<Unkown Radio> Leave this place, Find me on the edge of the world": {
-    "translation": "<未知电台> 离开这里，在世界尽头找到我"
-  },
-  "<Unkown Radio> The world is in chaos": {
-    "translation": "<未知电台> 世界一片混乱"
-  },
-  "Be careful, zombies are coming from another way": {
-    "translation": "小心，僵尸从另一条路来了"
-  },
-  "C4 is on": {
-    "translation": "C4已启动"
-  },
-  "CS2 Port by @Seth": {
-    "translation": "CS2移植由@Seth制作"
-  },
-  "CSGO Port & Update by Nino": {
-    "translation": "CSGO移植及更新由Nino完成"
-  },
-  "DOOR OPEN": {
-    "translation": "门开了"
-  },
-  "DOOR OPEN  <<< 05 >>>": {
-    "translation": "门开了 <<< 5s >>>"
-  },
-  "DOOR OPEN  <<< 10 >>>": {
-    "translation": "门开了 <<< 10s >>>"
-  },
-  "DOOR OPEN  <<< 15 >>>": {
-    "translation": "门开了 <<< 15s >>>"
-  },
-  "DOOR OPEN  <<< 20 >>>": {
-    "translation": "门开了 <<< 20s >>>"
-  },
-  "Defend 40 seconds  !": {
-    "translation": "防守40秒！"
-  },
-  "Don't forget to close the door ...": {
-    "translation": "不要忘记关门..."
-  },
-  "Don't stay in the elevator": {
-    "translation": "不要待在电梯里"
-  },
-  "Door open": {
-    "translation": "门开了"
-  },
-  "Electricity is Off": {
-    "translation": "电力已关闭"
-  },
-  "Elevator door will open soon": {
-    "translation": "电梯门即将打开"
-  },
-  "Felt something was wrong": {
-    "translation": "感觉有些不对劲"
-  },
-  "Find a way to turn off the eletric.": {
-    "translation": "找到关闭电源的方法"
-  },
-  "Find a way up there before the doors are closed !": {
-    "translation": "在门关上之前找到上去的路！"
-  },
-  "Get Ready ?": {
-    "translation": "准备好了吗？"
-  },
-  "Get ready to act  <<< 05 >>>": {
-    "translation": "准备行动 <<< 5s >>>"
-  },
-  "Get ready to act  <<< 10 >>>": {
-    "translation": "准备行动 <<< 10s >>>"
-  },
-  "Good Luck !": {
-    "translation": "祝你好运！"
-  },
-  "Jump on the lift!": {
-    "translation": "跳上升降机！"
-  },
-  "KEEP DEFENDING": {
-    "translation": "继续防守"
-  },
-  "Last Fight <<< 05 >>>": {
-    "translation": "最后一战 <<< 5s >>>"
-  },
-  "Last Fight <<< 10 >>>": {
-    "translation": "最后一战 <<< 10s >>>"
-  },
-  "Let's move!": {
-    "translation": "我们走！"
+  "Welcome on Objective Fire Rescape": {
+    "translation": "本张地图难度较高，请积极服从指挥的安排",
+    "MultiLang": {
+      "US": "",
+      "JP": "Object Fire Rescapeへようこそ",
+      "CN": "欢迎来到 Objective Fire Rescape",
+      "KR": "Objective Fire Rescape에 오신 것을 환영합니다",
+      "TW": "歡迎來到 Objective Fire Rescape"
+    }
   },
   "Map by Trazix & How Super Terrible": {
-    "translation": "地图由Trazix和How Super Terrible制作 翻译：Asteri3m"
+    "translation": "作者：Trazix||汉化：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：Trazix & How Super Terrible",
+      "CN": "地图作者：Trazix & How Super Terrible",
+      "KR": "맵 제작: Trazix & How Super Terrible",
+      "TW": "地圖由 Trazix & How Super Terrible 製作"
+    }
   },
-  "Other side wall is break": {
-    "translation": "另一侧的墙壁破了"
+  "CS2 Port by @Seth": {
+    "translation": "CS2移植：@Seth||润色：落木尘影",
+    "MultiLang": {
+      "US": "",
+      "JP": "CS2移植版製作：@Seth",
+      "CN": "CS2 移植作者：@Seth",
+      "KR": "CS2 포트 버전 제공: @Seth",
+      "TW": "CS2 移植由 @Seth 負責"
+    }
   },
-  "Overloading the powerbox": {
-    "translation": "超载电源盒"
-  },
-  "Prepare to leave": {
-    "translation": "准备离开"
-  },
-  "RUN": {
-    "translation": "跑"
-  },
-  "Ready to Move <<< 05 >>>": {
-    "translation": "准备移动 <<< 5s >>>"
-  },
-  "Ready to Move <<< 10 >>>": {
-    "translation": "准备移动 <<< 10s >>>"
-  },
-  "Run": {
-    "translation": "跑"
-  },
-  "Run to the elevator": {
-    "translation": "跑向电梯"
+  "CSGO Port & Update by Nino": {
+    "translation": "CSGO移植&更新：Nino",
+    "MultiLang": {
+      "US": "",
+      "JP": "CSGO移植版＆アップデート製作：Nino",
+      "CN": "CSGO 移植及更新作者：Nino",
+      "KR": "CSGO 포트 및 업데이트 제공: Nino",
+      "TW": "CSGO 移植與更新由 Nino 負責"
+    }
   },
   "Special thank for ClouNine & Trazix for Updated helps": {
-    "translation": "特别感谢ClouNine和Trazix的更新帮助"
+    "translation": "特别感谢 CloudNine 和 Trazix 提供的更新帮助！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ClouNine氏およびTrazix氏のアップデート協力に感謝します",
+      "CN": "特别感谢 ClouNine & Trazix 提供的更新帮助",
+      "KR": "업데이트 도와주신 ClouNine & Trazix에게 특별한 감사의 말씀을 전합니다",
+      "TW": "特別感謝 ClouNine 和 Trazix 提供的更新協助"
+    }
   },
-  "Starting the platform ": {
-    "translation": "启动平台"
+  "<Unkown Radio> ... ...": {
+    "translation": "<无线电> ... ...",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Unkown Radio> ... ...",
+      "CN": "<未知电台> …… ……",
+      "KR": "<알 수 없는 라디오> ... ...",
+      "TW": "<未知無線電> ... ..."
+    }
+  },
+  "<Unkown Radio> The world is in chaos": {
+    "translation": "<无线电> 世界陷入一片混乱",
+    "MultiLang": {
+      "US": "",
+      "JP": "<不明な電波> 世界は混沌としている",
+      "CN": "<未知电台> 世界已陷入混乱",
+      "KR": "<알 수 없는 라디오> 세상이 혼란에 빠졌다",
+      "TW": "<未知無線電> 世界陷入混亂"
+    }
+  },
+  "<Unkown Radio> It's time to wake up, soldiers with a burning heart": {
+    "translation": "<无线电> 是时候苏醒来了，怀揣炽热之心的战士们",
+    "MultiLang": {
+      "US": "",
+      "JP": "<未確認の無線> 燃える思いを持つ者よ、目覚めの時だ",
+      "CN": "<未知电台> 是醒来的时候了，满怀热血的士兵们",
+      "KR": "<알 수 없는 라디오\"> 일어나세요, 용기를 잃지 않는 병사들\"",
+      "TW": "<未知無線電> 喚醒熱血士兵的時刻已至"
+    }
+  },
+  "<Unkown Radio> Leave this place, Find me on the edge of the world": {
+    "translation": "<无线电> 离开这里，到终点处汇合",
+    "MultiLang": {
+      "US": "",
+      "JP": "<不詳の無線> この場所を離れ、世界の果で私を見つけて",
+      "CN": "<未知电台>离开这里，在世界尽头找我",
+      "KR": "<알 수 없는 라디오> 이 장소를 떠나라, 이 세계의 끝에서 나를 찾아오게",
+      "TW": "<未知電台> 離開這裡，在世界盡頭與我會合"
+    }
+  },
+  "Good Luck !": {
+    "translation": "祝你们好运！",
+    "MultiLang": {
+      "US": "",
+      "JP": "幸運を！",
+      "CN": "祝好运！",
+      "KR": "행운을 빕니다!",
+      "TW": "祝好運！"
+    }
   },
   "Steam Off": {
-    "translation": "蒸汽关闭"
+    "translation": "蒸汽消失了",
+    "MultiLang": {
+      "US": "",
+      "JP": "スチームオフ",
+      "CN": "排气阀开启",
+      "KR": "증기 배출 중",
+      "TW": "解除蒸汽"
+    }
   },
-  "The Water is going Up": {
-    "translation": "水位在上升"
+  "DOOR OPEN  <<< 20 >>>": {
+    "translation": "<<< 20s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開<<< 20 >>>",
+      "CN": "门开 <<< 20 >>>",
+      "KR": "문 열림 <<< 20 >>>",
+      "TW": "門開啟  <<< 20 >>>"
+    }
   },
-  "The door is opening soon": {
-    "translation": "门即将打开"
+  "DOOR OPEN  <<< 15 >>>": {
+    "translation": "<<< 15 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開<<< 15 >>>",
+      "CN": "门开 <<< 15 >>>",
+      "KR": "문 열림 <<< 15 >>>",
+      "TW": "門開啟  <<< 15 >>>"
+    }
   },
-  "The elevator door has opened": {
-    "translation": "电梯门已打开"
+  "DOOR OPEN  <<< 10 >>>": {
+    "translation": "<<< 10 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開<<< 10 >>>",
+      "CN": "门开 <<< 10 >>>",
+      "KR": "문 열림 <<< 10 >>>",
+      "TW": "門開啟  <<< 10 >>>"
+    }
   },
-  "The elevator door will reopen in 30 seconds": {
-    "translation": "电梯门将在30秒内重新打开"
+  "DOOR OPEN  <<< 05 >>>": {
+    "translation": "<<< 5 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開<<< 05 >>>",
+      "CN": "门开 <<< 05 >>>",
+      "KR": "문 열림 <<< 05 >>>",
+      "TW": "門開啟  <<< 05 >>>"
+    }
   },
-  "The elevator has opened! Get inside": {
-    "translation": "电梯已打开！快进去"
+  "C4 is on": {
+    "translation": "防守37秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4作動中",
+      "CN": "C4已就绪",
+      "KR": "C4 설치됨",
+      "TW": "C4已啟動"
+    }
   },
-  "The elevator stopped at the wrong floor": {
-    "translation": "电梯停在了错误的楼层"
+  "Prepare to leave": {
+    "translation": "做好准备",
+    "MultiLang": {
+      "US": "",
+      "JP": "出発する準備",
+      "CN": "准备离开",
+      "KR": "떠날 준비를 해",
+      "TW": "準備離開"
+    }
   },
-  "The elevator will open  in 10 seconds": {
-    "translation": "电梯将在10秒内打开"
+  "RUN": {
+    "translation": "快走！",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃走",
+      "CN": "跑步",
+      "KR": "달리기",
+      "TW": "逃跑"
+    }
+  },
+  "Overloading the powerbox": {
+    "translation": "电源盒要超载了",
+    "MultiLang": {
+      "US": "",
+      "JP": "パワーボックスが過負荷",
+      "CN": "供电箱过载",
+      "KR": "전력 박스 과부하",
+      "TW": "電箱過載"
+    }
+  },
+  "DOOR OPEN": {
+    "translation": "门开了",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開く",
+      "CN": "门已打开",
+      "KR": "문 열림",
+      "TW": "門已開啟"
+    }
+  },
+  "Starting the platform ": {
+    "translation": "防守60秒等待升降台启动",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォーム開始",
+      "CN": "启动平台",
+      "KR": "플랫폼 가동 시작",
+      "TW": "啟動平台"
+    }
+  },
+  "Jump on the lift!": {
+    "translation": "快跳上平台撤退！",
+    "MultiLang": {
+      "US": "",
+      "JP": "リフトに跳べ！",
+      "CN": "跳上电梯！",
+      "KR": "리프트로 점프!",
+      "TW": "跳上升降機！"
+    }
+  },
+  "Other side wall is break": {
+    "translation": "僵尸侧路开了",
+    "MultiLang": {
+      "US": "",
+      "JP": "反対側の壁が壊れる",
+      "CN": "另一侧墙壁已损坏",
+      "KR": "다른 쪽 벽이 깨짐",
+      "TW": "另一側的牆壁破裂"
+    }
   },
   "The glass is going to break!": {
-    "translation": "玻璃要碎了！"
+    "translation": "小心！玻璃要碎了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガラスが割れそう！",
+      "CN": "玻璃快要碎了！",
+      "KR": "유리가 깨질 거야!",
+      "TW": "玻璃即將碎裂！"
+    }
   },
-  "The water level is increasing": {
-    "translation": "水位在上升"
+  "The elevator will open  in 10 seconds": {
+    "translation": "电梯剩余10秒抵达",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは10秒後に開きます",
+      "CN": "电梯将在 10 秒后开启",
+      "KR": "엘리베이터가 10초 후에 열립니다",
+      "TW": "電梯将在 10 秒後開啟"
+    }
   },
-  "Water Up": {
-    "translation": "水上升"
+  "The elevator has opened! Get inside": {
+    "translation": "电梯门开了，快进来！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが開きました！中へお入りください",
+      "CN": "电梯已打开！请进入",
+      "KR": "엘리베이터가 열렸습니다! 타세요",
+      "TW": "電梯已開啟！請進入"
+    }
   },
-  "We are blocked by those eletric wires.": {
-    "translation": "我们被这些电线挡住了。"
+  "Felt something was wrong": {
+    "translation": "好像有些不对劲",
+    "MultiLang": {
+      "US": "",
+      "JP": "何か変な感觉を抱いた",
+      "CN": "感觉不太对劲",
+      "KR": "뭔가 잘못됐다는 느낌이 들었습니다",
+      "TW": "覺得有些不對勁"
+    }
   },
-  "Welcome on Objective Fire Rescape": {
-    "translation": "欢迎来到“行动代号：浴火重生”"
+  "The elevator stopped at the wrong floor": {
+    "translation": "电梯停错位置了",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが間違った階で止まった",
+      "CN": "电梯停在错误的楼层",
+      "KR": "엘리베이터가 잘못된 층에 멈췄습니다",
+      "TW": "電梯停錯樓層了"
+    }
   },
-  "Wood Break <<< 05 >>>": {
-    "translation": "木板破裂 <<< 5s >>>"
+  "Let's move!": {
+    "translation": "走吧！",
+    "MultiLang": {
+      "US": "",
+      "JP": "行こう！",
+      "CN": "快走吧！",
+      "KR": "이동하세요!",
+      "TW": "我們走！"
+    }
   },
-  "Wood Break <<< 10 >>>": {
-    "translation": "木板破裂 <<< 10s >>>"
-  },
-  "Wood Break <<< 15 >>>": {
-    "translation": "木板破裂 <<< 15s >>>"
-  },
-  "Wood Break <<< 20 >>>": {
-    "translation": "木板破裂 <<< 20s >>>"
-  },
-  "Zombie Advance": {
-    "translation": "僵尸推进"
+  "Don't stay in the elevator": {
+    "translation": "不能再等了",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター内に留まらないでください",
+      "CN": "别在电梯里逗留",
+      "KR": "엘리베이터에 머물지 마세요",
+      "TW": "別待在電梯裡"
+    }
   },
   "Zombies advance!": {
-    "translation": "僵尸推进！"
+    "translation": "来了，他们来了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが接近中！",
+      "CN": "僵尸逼近！",
+      "KR": "좀비가 진격합니다!",
+      "TW": "殭屍推進中！"
+    }
   },
-  "prepare for your last rush": {
-    "translation": "准备最后的冲刺"
+  "Zombie Advance": {
+    "translation": "他们回来了",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの接近",
+      "CN": "尸潮来袭",
+      "KR": "좀비 진격",
+      "TW": "殭屍推進中"
+    }
   },
   "shoot the wall!": {
-    "translation": "射击墙壁！"
+    "translation": "快把墙打烂！",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁を撃て！",
+      "CN": "射击墙壁！",
+      "KR": "벽을 쏘세요!",
+      "TW": "射擊牆壁！"
+    }
+  },
+  "We are blocked by those eletric wires.": {
+    "translation": "该死，高压电泄露了",
+    "MultiLang": {
+      "US": "",
+      "JP": "あの電線が邪魔だ。",
+      "CN": "那些电线挡住了我们的路。",
+      "KR": "전기선 때문에 막혀 있습니다.",
+      "TW": "我們被那些電線封鎖了。"
+    }
+  },
+  "Find a way to turn off the eletric.": {
+    "translation": "赶紧找个办法把电源关了",
+    "MultiLang": {
+      "US": "",
+      "JP": "電力を停止する方法を見つけろ。",
+      "CN": "想办法切断电源。",
+      "KR": "전기를 차단하는 방법을 찾으세요.",
+      "TW": "想辦法切斷電源。"
+    }
+  },
+  "Electricity is Off": {
+    "translation": "电源已关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "電気が止まった",
+      "CN": "电源已关闭",
+      "KR": "전기 차단 완료",
+      "TW": "電源已關閉"
+    }
+  },
+  "Run to the elevator": {
+    "translation": "撤退到上方电梯处",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターへ走れ",
+      "CN": "前往电梯",
+      "KR": "엘리베이터로 이동하세요",
+      "TW": "跑向電梯"
+    }
+  },
+  "Ready to Move <<< 10 >>>": {
+    "translation": "准备好 <<< 10s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "移動準備 <<< 10 >>>",
+      "CN": "准备移动 <<< 10 >>>",
+      "KR": "출발 준비 <<< 10 >>>",
+      "TW": "準備出發 <<< 10 >>>"
+    }
+  },
+  "Ready to Move <<< 05 >>>": {
+    "translation": "<<< 5 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "移動準備 <<< 05 >>>",
+      "CN": "准备移动 <<< 05 >>>",
+      "KR": "출발 준비 <<< 05 >>>",
+      "TW": "準備出發 <<< 05 >>>"
+    }
+  },
+  "The elevator door will reopen in 30 seconds": {
+    "translation": "电梯门将在30秒后再打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター扉は30秒後に再オープンします",
+      "CN": "电梯门将在30秒后重新打开",
+      "KR": "엘리베이터 문이 30초 후 재개방됩니다",
+      "TW": "電梯門將在30秒後重新開啟"
+    }
+  },
+  "The elevator door has opened": {
+    "translation": "电梯门开了",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターの扉が開きました",
+      "CN": "电梯门已打开",
+      "KR": "엘리베이터 문이 열렸습니다",
+      "TW": "電梯門已開啟"
+    }
+  },
+  "Wood Break <<< 20 >>>": {
+    "translation": "木板碎 <<< 20s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "木製破損 <<< 20 >>>",
+      "CN": "木板碎裂 <<< 20 >>>",
+      "KR": "나무 파쇄 <<< 20 >>>",
+      "TW": "木頭破損 <<< 20 >>>"
+    }
+  },
+  "Wood Break <<< 15 >>>": {
+    "translation": "<<< 15 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "木製破損 <<< 15 >>>",
+      "CN": "木板碎裂 <<< 15 >>>",
+      "KR": "나무 파쇄 <<< 15 >>>",
+      "TW": "木頭破損 <<< 15 >>>"
+    }
+  },
+  "Wood Break <<< 10 >>>": {
+    "translation": "<<< 10 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "木製破損 <<< 10 >>>",
+      "CN": "木板碎裂 <<< 10 >>>",
+      "KR": "나무 파쇄 <<< 10 >>>",
+      "TW": "木頭破損 <<< 10 >>>"
+    }
+  },
+  "Wood Break <<< 05 >>>": {
+    "translation": "<<< 5 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "木製破損 <<< 05 >>>",
+      "CN": "木板碎裂 <<< 05 >>>",
+      "KR": "나무 파쇄 <<< 05 >>>",
+      "TW": "木頭破損 <<< 05 >>>"
+    }
+  },
+  "The door is opening soon": {
+    "translation": "门马上要开了",
+    "MultiLang": {
+      "US": "",
+      "JP": "まもなく扉が開きます",
+      "CN": "门即将开启",
+      "KR": "문이 곧 열립니다",
+      "TW": "門即將開啟"
+    }
+  },
+  "Don't forget to close the door ...": {
+    "translation": "记得守到门关再走...",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉を閉じるのを忘れないでください ...",
+      "CN": "别忘了关门 ...",
+      "KR": "문을 닫는 것을 잊지 마세요...",
+      "TW": "別忘了關門 ..."
+    }
+  },
+  "Get ready to act  <<< 10 >>>": {
+    "translation": "动起来 <<< 10s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "行動準備 <<< 10 >>>",
+      "CN": "准备行动 <<< 10 >>>",
+      "KR": "행동을 준비하십시오 <<< 10 >>>",
+      "TW": "準備行動 <<< 10 >>>"
+    }
+  },
+  "Get ready to act  <<< 05 >>>": {
+    "translation": "<<< 5 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "05 <<< 準備して行動せよ",
+      "CN": "做好行动准备 <<< 05 >>>",
+      "KR": "05 >>> 행동을 준비하세요 <<<",
+      "TW": "準備行動 <<< 05 >>>"
+    }
+  },
+  "Elevator door will open soon": {
+    "translation": "电梯门即将打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターのドアがまもなく開きます",
+      "CN": "电梯门即将开启",
+      "KR": "엘리베이터 문이 곧 열립니다",
+      "TW": "電梯門即將開啟"
+    }
+  },
+  "Water Up": {
+    "translation": "水涨上来了",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位上昇中",
+      "CN": "水位上升",
+      "KR": "수위 상승",
+      "TW": "水位上升"
+    }
+  },
+  "The water level is increasing": {
+    "translation": "水位还在上升",
+    "MultiLang": {
+      "US": "The water level is rising",
+      "JP": "水位が上昇しています",
+      "CN": "水位正在升高",
+      "KR": "물level이 증가 중입니다",
+      "TW": "水位正在升高"
+    }
+  },
+  "KEEP DEFENDING": {
+    "translation": "坚持住",
+    "MultiLang": {
+      "US": "",
+      "JP": "防御を続けよ",
+      "CN": "坚守防御",
+      "KR": "방어를 계속하세요",
+      "TW": "持續防守"
+    }
+  },
+  "Defend 40 seconds  !": {
+    "translation": "防守40秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒間守り抜くのだ！",
+      "CN": "坚持防守40秒 ！",
+      "KR": "40초간 방어하세요 !",
+      "TW": "堅持防守 40 秒！"
+    }
+  },
+  "Be careful, zombies are coming from another way": {
+    "translation": "小心点，僵尸从侧路来了",
+    "MultiLang": {
+      "US": "",
+      "JP": "注意、ゾンビが別の場所から襲いかかってきます",
+      "CN": "小心，僵尸正从另一条路袭来",
+      "KR": "조심하세요, 좀비가 다른 쪽에서 approaching 합니다",
+      "TW": "注意，殭屍正從其他方向接近"
+    }
+  },
+  "prepare for your last rush": {
+    "translation": "胜利就在前方，绝不能在这里倒下",
+    "MultiLang": {
+      "US": "prepare for your final push",
+      "JP": "最後の攻防に備えよ",
+      "CN": "做好最后一波突袭的准备",
+      "KR": "마지막 폭풍에 대비하세요",
+      "TW": "準備迎接最終衝鋒"
+    }
+  },
+  "Get Ready ?": {
+    "translation": "冲刺冲刺冲冲冲",
+    "MultiLang": {
+      "US": "",
+      "JP": "準備しろ？",
+      "CN": "准备好了吗？",
+      "KR": "준비됐어?",
+      "TW": "準備好了嗎？"
+    }
+  },
+  "The Water is going Up": {
+    "translation": "水漫延上来了",
+    "MultiLang": {
+      "US": "",
+      "JP": "水が上昇している",
+      "CN": "水位正在上升",
+      "KR": "물이 점점 rising하고 있어",
+      "TW": "水位正在上升！"
+    }
+  },
+  "Last Fight <<< 10 >>>": {
+    "translation": "冠军之路 <<< 10s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終戦闘 <<< 10 >>>",
+      "CN": "最终对决 <<< 10 >>>",
+      "KR": "마지막 전투 <<< 10 >>>",
+      "TW": "最後一戰 <<< 10 >>>"
+    }
+  },
+  "Last Fight <<< 05 >>>": {
+    "translation": "<<< 5 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終戦闘 <<< 05 >>>",
+      "CN": "最终对决 <<< 05 >>>",
+      "KR": "마지막 전투 <<< 05 >>>",
+      "TW": "最後一戰 <<< 05 >>>"
+    }
+  },
+  "<Unknown Radio>Yes,that it!Keep running!": {
+    "translation": "<无线电>nice，别停下来，继续冲！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<不明な電波>そうだ！走り続けろ！",
+      "CN": "<未知电台>对，就是这样！快跑！",
+      "KR": "<알 수 없는 무선전화> 그래, 그거야! 계속 달려!",
+      "TW": "<未知無線電>沒錯！快跑！"
+    }
+  },
+  "<Unknown Radio>Once you get outside,all will be safe!": {
+    "translation": "<无线电>只要冲出去，我们就安全了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<不明な電波>外に出れば、みんな安全だ！",
+      "CN": "<未知电台>你一到外面，所有人都会安全了！",
+      "KR": "<알 수 없는 무선전화> 밖으로 나가면 모두 안전해질 거야!",
+      "TW": "<未知無線電>一逃出去就安全了！"
+    }
+  },
+  "<Unknown Radio>We gonna to rescue other squad first,Come on!": {
+    "translation": "<无线电>我们还得再去救出其他小队，赶紧的！",
+    "MultiLang": {
+      "US": "<Unknown Radio>Going to rescue the other squad first, Come on!",
+      "JP": "<不明な電波>まずは他の隊を救助するんだ、行け！",
+      "CN": "<未知电台>我们要先救援其他小队，快走！",
+      "KR": "<알 수 없는 무선전화> 먼저 다른 분대를 구조할 거야, 자빠져!",
+      "TW": "<未知無線電>我們會先營救其他小隊，快！"
+    }
+  },
+  "<Unknown Radio>It's call Objective Filth,Sounds familiar huh?": {
+    "translation": "<无线电>他们是Filth小队，是不是很耳熟？",
+    "MultiLang": {
+      "US": "",
+      "JP": "<不明な電波>作戦名「フィルス」だ、聞き覚えあるか？",
+      "CN": "<未知电台>任务代号是“污秽”，听起来很耳熟吧？",
+      "KR": "<알 수 없는 무선전화> '목표 Filth'라고 불려, 익숙하게 들리죠?",
+      "TW": "<未知無線電>這叫「骯髒任務」，聽起來很耳熟吧？"
+    }
+  },
+  "<Unknown Radio>..Vertigo?...": {
+    "translation": "<无线电>Vertigo小队呢？...",
+    "MultiLang": {
+      "US": "",
+      "JP": "<不明な無線>...めまい？...",
+      "CN": "<未知电台>……眩晕？……",
+      "KR": "<알 수 없는 라디오>..어지럽다?...",
+      "TW": "<未知無線電>……迷宮……？"
+    }
+  },
+  "<Unknown Radio>Trust me,You won't want to hear about it.": {
+    "translation": "<无线电>相信我，你不会想知道的",
+    "MultiLang": {
+      "US": "",
+      "JP": "<不明な無線>信じてくれよ、そんなこと聞く気は起こらねえぜ。",
+      "CN": "<未知电台>相信我，你不想听这个。",
+      "KR": "<알 수 없는 라디오>나를 믿어, 너는 그걸 듣길 원하지 않을 거야.",
+      "TW": "<未知無線電>相信我，你不想聽那個。"
+    }
+  },
+  "<Unknown Radio>Attacker,Blow that damn place now.": {
+    "translation": "<无线电>动手吧，把这些鬼东西埋葬在这里",
+    "MultiLang": {
+      "US": "",
+      "JP": "<不明な無線>攻撃者、今すぐその場所を吹き飛ばしてくれ。",
+      "CN": "<未知电台>攻击手，现在炸毁那个该死的地方。",
+      "KR": "<알 수 없는 라디오>공격자, 그 엉덩한 놈의 곳을 지금爆破해.",
+      "TW": "<未知無線電>攻擊者，立刻轟炸那個鬼地方。"
+    }
+  },
+  "Find a way up there before the doors are closed !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が閉じる前に、あの場所へ上がる方法を発見しろ！",
+      "CN": "在门关上前找到上去的路！",
+      "KR": "문이 닫히기 전에 그 위로 올라가는 방법을 찾아!",
+      "TW": "在大門關閉前找到上去的路！"
+    }
+  },
+  ">人类卡传送处死已启用.<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Human card teleportation execution has been enabled.<",
+      "JP": ">人類のワープ位置での処刑が有効化されました。<",
+      "CN": "",
+      "KR": ">인간 카드 텔레포트 처형이 활성화되었습니다.<",
+      "TW": ">人類卡傳送處死已啟用<"
+    }
   }
 }

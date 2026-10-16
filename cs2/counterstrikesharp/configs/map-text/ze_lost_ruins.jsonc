@@ -1,0 +1,152 @@
+{
+  "\"welcome to the ruins.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ruinsへようこそ。",
+      "CN": "欢迎来到废墟。",
+      "KR": "廃墟へようこそ。",
+      "TW": "歡迎來到遺址。"
+    }
+  },
+  "\"author: diverse\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "作者：duerse",
+      "CN": "作者：diverse",
+      "KR": "製作者: diverse",
+      "TW": "作者：多樣化"
+    }
+  },
+  "\"door open in 60s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒後に扉が開く。",
+      "CN": "门将在60秒后打开。",
+      "KR": "ドア開閉まであと60秒。",
+      "TW": "門将在60秒後開啟。"
+    }
+  },
+  "\"door opened.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開いた。",
+      "CN": "门已打开。",
+      "KR": "ドアが開いた。",
+      "TW": "門已開啟。"
+    }
+  },
+  "\"door opend.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いている。",
+      "CN": "门已打开。",
+      "KR": "ドアが開いた。",
+      "TW": "門已開啟。"
+    }
+  },
+  "\"defend zombier 20s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビを20秒間守れ。",
+      "CN": "抵御丧尸20秒。",
+      "KR": "ゾンビーの攻撃から20秒間守れ。",
+      "TW": "防禦殭屍20秒。"
+    }
+  },
+  "\"yeah,you defender zombier.ready to final test\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "そう、君はdefend zombier。最終テストの準備はできたか。",
+      "CN": "没错，你是防守者。准备好进行最终测试吧。",
+      "KR": "そうだ、あなたはゾンビーの防衛者だ。最終テストの準備はできたか？",
+      "TW": "是的，你是守衛者。準備好接受最終測試。"
+    }
+  },
+  "\"door closed in 20s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が閉まる。",
+      "CN": "门将在20秒后关闭。",
+      "KR": "ドア閉鎖まであと20秒。",
+      "TW": "門将在20秒後關閉。"
+    }
+  },
+  "\"door closed.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが閉じた。",
+      "CN": "门已关闭。",
+      "KR": "문이 닫혔습니다.",
+      "TW": "門已關閉。"
+    }
+  },
+  "\"elevator move in 30s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター、30秒後に移動。",
+      "CN": "电梯将于30秒后移动。",
+      "KR": "엘리베이터가 30초 후에 출발합니다.",
+      "TW": "電梯 30 秒後移動。"
+    }
+  },
+  "\"door open in 30s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にドアが開く。",
+      "CN": "门将在30秒后打开。",
+      "KR": "문이 30초 후에 열립니다.",
+      "TW": "門 30 秒後開啟。"
+    }
+  },
+  "\"door open in 40s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒後にドアが開く。",
+      "CN": "门将在40秒后打开。",
+      "KR": "문이 40초 후에 열립니다.",
+      "TW": "門 40 秒後開啟。"
+    }
+  },
+  "\"door1 open in 30s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に1号室のドアが開く。",
+      "CN": "1号门将在30秒后打开。",
+      "KR": "첫 번째 문이 30초 후에 열립니다.",
+      "TW": "1 號門 30 秒後開啟。"
+    }
+  },
+  "\"wall break in 30s.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁、30秒後に崩壊。",
+      "CN": "墙体将于30秒后破碎。",
+      "KR": "벽파괴가 30초 후에 시작됩니다.",
+      "TW": "牆壁 30 秒後破碎。"
+    }
+  },
+  "\"wall breaked.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁が崩壊した。",
+      "CN": "墙体已破碎。",
+      "KR": "벽이 파괴되었습니다.",
+      "TW": "牆壁已破碎。"
+    }
+  }
+}

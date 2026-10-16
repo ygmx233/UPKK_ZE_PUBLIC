@@ -1,0 +1,112 @@
+{
+  "This factory's fucked. Yall gotta get outta here ASAP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この工場は大丈夫か。お前らはここからすぐに離れろ。",
+      "CN": "这工厂完了。你们得赶紧离开。",
+      "KR": "이 공장이 망했어. 너희는 최대한 빨리 여기 빠져나가야 해.",
+      "TW": "這座工廠完蛋了。你們最好趕緊離開這裡。"
+    }
+  },
+  "Elevator leaving in 15 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは15秒後に発車します。",
+      "CN": "电梯将在15秒后发出。",
+      "KR": "15초 후 엘리베이터 출발.",
+      "TW": "電梯將於 15 秒後啟動。"
+    }
+  },
+  "Vent gate opens in 15 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "換気口ゲートは15秒後に開きます",
+      "CN": "通风口闸门将在15秒后打开",
+      "KR": "15초 후 환기구 문 개방.",
+      "TW": "通風閘門將於 15 秒後開啟。"
+    }
+  },
+  "This slow ass door needs a few seconds to get working": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この遅いドアが作動するまでに数秒かかります",
+      "CN": "这扇该死的门需要几秒钟才能启动",
+      "KR": "이 너무 더디게 움직이는 문이 작동하는 데 잠시 시간이 필요합니다.",
+      "TW": "這扇壞掉的門需要幾秒鐘才能恢復運作。"
+    }
+  },
+  "You guys will have to go through the conveyor belts. Be careful of the vending machines.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コンベアベルトを通ってください。自販機には注意してください。",
+      "CN": "你们将不得不过传送带。小心自动售货机。",
+      "KR": "자동 이송belt로 가셔야 합니다. 자판기에는 주의하세요.",
+      "TW": "你們必須穿過輸送帶。注意避開自動販賣機。"
+    }
+  },
+  "Tram leaves in 18 seconds, boats in 26 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "路面電車は18秒後、ボートは26秒後に発車します。",
+      "CN": "电车将在18秒后发出，船将在26秒后出发。",
+      "KR": "18초 후 트램 출발, 배는 26초 후.",
+      "TW": "電車將於 18 秒後出發，船隻將於 26 秒後啟航。"
+    }
+  },
+  "Sorry guys I'm gonna need 10 seconds to unlock this door": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "すみません、このドアを解錠するのにもう10秒かかります",
+      "CN": "抱歉，我需要10秒钟来打开这扇门",
+      "KR": "죄송합니다 guys. 이 문을 해제하는 데 10초 정도 필요합니다.",
+      "TW": "抱歉，我需要 10 秒鐘來開啟這扇門。"
+    }
+  },
+  "Sorry guys, I'm gonna need 10 seconds to unlock this door": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "すみません、このドアを解錠するのにもう10秒かかります",
+      "CN": "对不起，我需要10秒才能解锁这扇门",
+      "KR": "죄송합니다 guys. 이 문을 해제하는 데 10초 정도 필요합니다.",
+      "TW": "抱歉，我需要 10 秒鐘來開啟這扇門。"
+    }
+  },
+  "Train is arriving in 18 seconds, yall gotta hold out until then": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "車両はあと18秒で到着します、その間耐えて！",
+      "CN": "列车将在18秒后到达，大家撑到那时",
+      "KR": "열차가 18초 후에 도착합니다, 그 때까지 버텨야 합니다",
+      "TW": "列車將在18秒後抵達，大家堅守到那時"
+    }
+  },
+  "We're disinfecting this building in 14 seconds and leaving, get on soon.....": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "建物はあと14秒で消毒して立ち去りますので、お早めに乗り込んでください……",
+      "CN": "我们将在14秒内完成建筑消毒并撤离，快上去……",
+      "KR": "건물 소독을 14초 후에 마치고 떠납니다, 빨리 올라오세요.....",
+      "TW": "我們將在這棟建築內進行14秒的消毒後離開，請快點上車……"
+    }
+  },
+  "We're taking off now.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ただいま離脱します。",
+      "CN": "我们现在起飞。",
+      "KR": "곧 이륙합니다.",
+      "TW": "我們現在起飛。"
+    }
+  }
+}

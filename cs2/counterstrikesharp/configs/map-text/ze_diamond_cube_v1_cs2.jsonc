@@ -1,115 +1,342 @@
 {
   ">>> wall picked up (Cool Time : 35 ) <<<": {
     "translation": "墙被拾起 (冷却时间 : 35 )",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 壁を拾いました (クールタイム: 35) <<<",
+      "CN": "拾取了墙壁（冷却时间：35秒）",
+      "KR": "벽 수집 완료 (쿨타임: 35초)",
+      "TW": "拾取了牆壁（冷卻時間：35）"
+    }
   },
   ">>> door opening in 40 seconds <<<": {
-    "translation": "40秒后开门"
+    "translation": "40秒后开门",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ドアが40秒後に開きます <<<",
+      "CN": "门将在40秒后开启",
+      "KR": "문 40초 후 개장",
+      "TW": "門將在 40 秒後開啟"
+    }
   },
   ">>> Map ported by Kuroki <<<": {
-    "translation": "地图移植：Kuroki"
+    "translation": "地图移植：Kuroki",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> クロキ氏によるマップ転送<<<",
+      "CN": "由Kuroki传送至地图出口",
+      "KR": "쿠로키의 맵 포팅",
+      "TW": "地圖載入者：Kuroki"
+    }
   },
   ">>> Special Thank Miceadf , Reflelia , Kizan <<<": {
-    "translation": "特别感谢 Miceadf , Reflelia , Kizan"
+    "translation": "特别感谢 Miceadf , Reflelia , Kizan",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 特別感謝: Miceadf, Reflelia, Kizan <<<",
+      "CN": "特别鸣谢 Miceadf, Reflelia, Kizan",
+      "KR": "특별 감사: Miceadf, Reflelia, Kizan",
+      "TW": "特別感謝 Miceadf、Reflelia、Kizan"
+    }
   },
   ">>> Welcome! Ze_Diamond_Cube <<<": {
-    "translation": "欢迎！Ze_Diamond_Cube"
+    "translation": "欢迎！Ze_Diamond_Cube",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> おめでとう！Ze_Diamond_Cubeさん<<<",
+      "CN": "欢迎！Ze_Diamond_Cube 加入游戏",
+      "KR": "환영합니다! Ze_Diamond_Cube님",
+      "TW": "歡迎！Ze_Diamond_Cube"
+    }
   },
   ">>> EXTREME MODE <<<": {
-    "translation": "极限模式"
+    "translation": "极限模式",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 極限モード <<<",
+      "CN": "极限模式",
+      "KR": "익스트림 모드",
+      "TW": "極限模式"
+    }
   },
   ">>> ADMINROOM : EXTREME MODE  <<<": {
-    "translation": "管理室：极限模式 "
+    "translation": "管理室：极限模式",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理者部屋 : 極限モード <<<",
+      "CN": "管理员房间：极限模式",
+      "KR": "어드민룸: 익스트림 모드",
+      "TW": "管理員房間：極限模式"
+    }
   },
   ">>> ADMINROOM : ORIGINAL MODE <<<": {
-    "translation": "管理室：普通模式"
+    "translation": "管理室：普通模式",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理者部屋 : オリジナルモード <<<",
+      "CN": "管理员房间：原版模式",
+      "KR": "어드민룸: 오리지널 모드",
+      "TW": "管理員房間：原版模式"
+    }
   },
   ">>> time over! you failed <<<": {
-    "translation": "时间结束！你失败了"
+    "translation": "时间结束！你失败了",
+    "MultiLang": {
+      "US": "",
+      "JP": "タイムオーバー！失敗です",
+      "CN": "时间到！你失败了",
+      "KR": "시간 초과! 실패했습니다",
+      "TW": "時間耗盡！你失敗了"
+    }
   },
   ">>> laser!!!! <<<": {
-    "translation": "跳刀!!!!"
+    "translation": "跳刀!!!!",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザー！！！！",
+      "CN": "激光！",
+      "KR": "레이저!!!!",
+      "TW": "雷射射線！"
+    }
   },
   ">>> final portal opening in 30 seconds <<<": {
-    "translation": "30秒后打开最终入口"
+    "translation": "30秒后打开最终入口",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終ポータル、30秒で開放されます",
+      "CN": "最终传送门将在30秒后开启",
+      "KR": "최종 포털 30초 후 개방",
+      "TW": "最終傳送門將在30秒後開啟"
+    }
   },
   ">>> Good job! <<<": {
-    "translation": "干得好"
+    "translation": "干得好",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやった！",
+      "CN": "做得好！",
+      "KR": "수고했습니다!",
+      "TW": "做得好！"
+    }
   },
   ">>> Escape 8 seconds left <<<": {
-    "translation": "逃生时间还剩8秒"
+    "translation": "逃生时间还剩8秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出残り8秒",
+      "CN": "逃脱倒计时8秒",
+      "KR": "탈출 8초 남음",
+      "TW": "剩餘8秒可逃脫"
+    }
   },
   ">>> Humans Win <<<": {
-    "translation": "人类获胜"
+    "translation": "人类获胜",
+    "MultiLang": {
+      "US": "",
+      "JP": "人間の勝利",
+      "CN": "人类获胜",
+      "KR": "인간 승리",
+      "TW": "人類獲勝"
+    }
   },
   ">>> Map By Rio <<<": {
-    "translation": "地图作者:Rio 翻译：秋刀鱼"
+    "translation": "地图作者:Rio 翻译：秋刀鱼",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成：リオ",
+      "CN": "地图制作：Rio",
+      "KR": "맵 제작: Rio",
+      "TW": "地圖作者：Rio"
+    }
   },
   ">>> you failed <<<": {
-    "translation": "你失败了"
+    "translation": "你失败了",
+    "MultiLang": {
+      "US": "",
+      "JP": "失敗です",
+      "CN": "你失败了",
+      "KR": "실패했습니다",
+      "TW": "你失敗了"
+    }
   },
   ">>> You Failed <<<": {
-    "translation": "你失败了"
+    "translation": "你失败了",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 失敗 >>>",
+      "CN": ">>> 你失败了 <<<",
+      "KR": "<<< 실패했습니다 >>>",
+      "TW": "<<< 挑戰失敗 >>>"
+    }
   },
   ">>> portal opening in 40 seconds <<<": {
     "translation": "入口将在40秒后打开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ポータル開口まで40秒 >>>",
+      "CN": ">>> 传送门将在40秒后开启 <<<",
+      "KR": "포털 40초 후 개방 <<<",
+      "TW": "<<< 40秒後開啟傳送門 >>>"
+    }
   },
   ">>> laser! <<<": {
-    "translation": "跳刀"
+    "translation": "跳刀",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< レーザー！ >>>",
+      "CN": ">>> 激光！ <<<",
+      "KR": "레이저! <<<",
+      "TW": "<<< 激光 >>>"
+    }
   },
   ">>> door opening in 30 seconds <<< ": {
-    "translation": "30秒后开门"
-    ,"DoorCountDown": -1
+    "translation": "30秒后开门",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 扉開口まで30秒 >>>",
+      "CN": ">>> 门将在30秒后开启 <<<",
+      "KR": "문 30초 후 개방 <<<",
+      "TW": "<<< 30秒後開啟大門 >>>"
+    }
   },
   ">>>5 seconds left <<<": {
-    "translation": " 还剩5秒"
+    "translation": "还剩5秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 残り5秒 >>>",
+      "CN": ">>> 剩余5秒 <<<",
+      "KR": "5초 남음 <<<",
+      "TW": "<<< 剩餘5秒 >>>"
+    }
   },
   ">>> door opening 20 seconds <<<": {
     "translation": "20秒后开门",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 扉開口まで20秒 >>>",
+      "CN": ">>> 门将在20秒后开启 <<<",
+      "KR": "문 20초 후 개방 <<<",
+      "TW": "<<< 20秒後開啟大門 >>>"
+    }
   },
   ">>> door opening in 15 seconds <<<": {
     "translation": "15秒",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 扉開口まで15秒 >>>",
+      "CN": ">>> 门将在15秒后开启 <<<",
+      "KR": "문 15초 후 개방 <<<",
+      "TW": "<<< 15秒後開啟大門 >>>"
+    }
   },
   ">>> door opening in 10 seconds <<<": {
     "translation": "10秒",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 扉開口まで10秒 >>>",
+      "CN": ">>> 门将在10秒后开启 <<<",
+      "KR": "문 10초 후 개방 <<<",
+      "TW": "<<< 10秒後開啟大門 >>>"
+    }
   },
   ">>> portal opening in 30 seconds <<<": {
-    "translation": "入口将在30秒后打开"
+    "translation": "入口将在30秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポータル30秒後開放",
+      "CN": "传送门30秒后开启",
+      "KR": "포털이 30초 후에 열립니다",
+      "TW": ">>> 30秒後開啟傳送門 <<<"
+    }
   },
   ">>> portal opening in 20 seconds <<<": {
     "translation": "入口将在20秒后打开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "ポータル20秒後開放",
+      "CN": "传送门20秒后开启",
+      "KR": "포털이 20초 후에 열립니다",
+      "TW": ">>> 20秒後開啟傳送門 <<<"
+    }
   },
   ">>> door opening in 25 seconds <<<": {
     "translation": "门将在25秒后打开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "扉25秒後解放",
+      "CN": "门25秒后打开",
+      "KR": "문이 25초 후에 열립니다",
+      "TW": ">>> 25秒後開啟大門 <<<"
+    }
   },
   ">>> door opening in 20 seconds <<<": {
     "translation": "门将在20秒后打开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "扉20秒後開放",
+      "CN": "门20秒后打开",
+      "KR": "문이 20초 후에 열립니다",
+      "TW": ">>> 20秒後開啟大門 <<<"
+    }
   },
   ">>> door opening in 30 seconds <<<": {
-    "translation": "门将在30秒后打开"
+    "translation": "门将在30秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉30秒後解放",
+      "CN": "门30秒后打开",
+      "KR": "문이 30초 후에 열립니다",
+      "TW": ">>> 30秒後開啟大門 <<<"
+    }
   },
   ">>> 5 seconds left <<<": {
-    "translation": "5s"
+    "translation": "5s",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒",
+      "CN": "剩余5秒",
+      "KR": "남은 시간 5초",
+      "TW": ">>> 剩餘5秒 <<<"
+    }
   },
   ">>> 15 seconds <<<": {
     "translation": "15s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒",
+      "CN": "15秒",
+      "KR": "15초",
+      "TW": ">>> 15秒 <<<"
+    }
   },
   ">>> door opening in 25 seconds! <<<": {
     "translation": "门将在25秒后打开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "扉25秒後解放！",
+      "CN": "门25秒后打开！",
+      "KR": "문이 25초 후에 열립니다!",
+      "TW": ">>> 25秒後開啟大門！ <<<"
+    }
   },
   ">>> left door opening in 15 seconds <<<": {
-    "translation": "左门15秒后打开 "
+    "translation": "左门15秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 左の扉が15秒後に開きます <<<",
+      "CN": ">>> 左门将在 15 秒后开启 <<<",
+      "KR": ">>> 왼쪽 문 15초 후 개방 <<<",
+      "TW": ">>> 左門将在 15 秒後開啟 <<<"
+    }
   },
   ">>> right door opening in 15 seconds <<<": {
-    "translation": "右门15秒后打开 "
+    "translation": "右门15秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 右の扉が15秒後に開きます <<<",
+      "CN": ">>> 右门将在 15 秒后开启 <<<",
+      "KR": ">>> 오른쪽 문 15초 후 개방 <<<",
+      "TW": ">>> 右門将在 15 秒後開啟 <<<"
+    }
   }
 }

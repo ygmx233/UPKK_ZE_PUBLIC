@@ -1,251 +1,832 @@
 {
   "***  GO GO GO !! ***": {
-    "translation": "***跑跑跑！！***"
+    "translation": "***跑跑跑！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 開始！ゴーゴーゴー！！***",
+      "CN": "*** 冲呀！！ ***",
+      "KR": "*** GO GO GO !! ***",
+      "TW": "*** 衝啊！！ ***"
+    }
   },
   "*** 10 seconds till gates will open. Prepare to run ***": {
-    "translation": "***距离大门开启还有10秒。准备跑***"
+    "translation": "***距离大门开启还有10秒。准备跑***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゼットゲートが10秒後に開きます。逃走の準備をしてください***",
+      "CN": "*** 闸门将在10秒后打开，请准备逃跑 ***",
+      "KR": "*** 게이트 오픈까지 10초. 도망칠 준비를 하세요 ***",
+      "TW": "*** 閘門將在 10 秒後開啟，請準備奔跑 ***"
+    }
   },
   "*** 10s left till zombies are trapped. Prepare to run to the teleporter ***": {
-    "translation": "***距离僵尸被困还有10秒。准备跑向传送器***"
+    "translation": "***距离僵尸被困还有10秒。准备跑向传送器***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビ封じ込めが10秒後に完了します。テレポート装置へ向かう準備をしてください***",
+      "CN": "*** 距离丧尸被困仅剩10秒，请准备前往传送点 ***",
+      "KR": "*** 좀비 감금까지 10초 남음. 텔레포터로 도망칠 준비를 하세요 ***",
+      "TW": "*** 殭屍囚禁倒計時剩 10 秒，請準備跑向傳送門 ***"
+    }
   },
   "*** An admin have changed level to ZM-Round ***": {
-    "translation": "***管理员已将关卡更改为僵尸感染***"
+    "translation": "***管理员已将关卡更改为僵尸感染***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者によってレベルがZM-Roundに変更されました***",
+      "CN": "*** 管理员已将关卡变更为 ZM-Round ***",
+      "KR": "*** 관리자가 레벨을 ZM-Round로 변경했습니다 ***",
+      "TW": "*** 管理員已將關卡變更為 ZM-Round ***"
+    }
   },
   "*** An admin have changed to level 1 ***": {
-    "translation": "***管理员已更改为第一关***"
+    "translation": "***管理员已更改为第一关***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者によってレベル1に変更されました***",
+      "CN": "*** 管理员已切换至关卡 1 ***",
+      "KR": "*** 관리자가 레벨 1로 변경했습니다 ***",
+      "TW": "*** 管理員已切換至關卡 1 ***"
+    }
   },
   "*** An admin have changed to level 2 ***": {
-    "translation": "***管理员已更改为第二关***"
+    "translation": "***管理员已更改为第二关***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者によってレベル2に変更されました***",
+      "CN": "*** 管理员已切换至关卡 2 ***",
+      "KR": "*** 관리자가 레벨 2로 변경했습니다 ***",
+      "TW": "*** 管理員已切換至關卡 2 ***"
+    }
   },
   "*** An admin have changed to level 3 ***": {
-    "translation": "***管理员已更改为第三关***"
+    "translation": "***管理员已更改为第三关***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者によってレベル3に変更されました***",
+      "CN": "*** 管理员已切换至关卡 3 ***",
+      "KR": "*** 관리자가 레벨 3로 변경했습니다 ***",
+      "TW": "*** 管理員已切換至關卡 3 ***"
+    }
   },
   "*** An admin have changed to level 4 ***": {
-    "translation": "***管理员已更改为第四关***"
+    "translation": "***管理员已更改为第四关***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 管理者によってレベル4に変更されました***",
+      "CN": "*** 管理员已切换至关卡 4 ***",
+      "KR": "*** 관리자가 레벨 4로 변경했습니다 ***",
+      "TW": "*** 管理員已切換至關卡 4 ***"
+    }
   },
   "*** Back to Level 1 ***": {
-    "translation": "***返回第一关***"
+    "translation": "***返回第一关***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レベル1に戻る ***",
+      "CN": "*** 返回第一关 ***",
+      "KR": "*** 레벨 1로 돌아가기 ***",
+      "TW": "*** 返回第 1 關 ***"
+    }
   },
   "*** Beat Voodoo Master and zombies will go in hell ***": {
-    "translation": "***击败巫毒大师，僵尸将被送入地狱***"
+    "translation": "***击败巫毒大师，僵尸将被送入地狱***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヴードゥーマスターを倒せばゾンジーは地獄へ消える ***",
+      "CN": "*** 击败巫毒大师，僵尸将被送入地狱 ***",
+      "KR": "*** 보스마스터를 처치하면 좀비들은 지옥으로 떨어집니다 ***",
+      "TW": "*** 擊敗巫毒大師，殭屍將下地獄 ***"
+    }
   },
   "*** Congrats ! Game continues on level 3 ***": {
-    "translation": "***恭喜！游戏继续进行到第三关***"
+    "translation": "***恭喜！游戏继续进行到第三关***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** おめでとう！ゲームはレベル3で続行 ***",
+      "CN": "*** 恭喜！游戏继续挑战第三关 ***",
+      "KR": "*** 축하합니다! 게임이 레벨 3에서 계속됩니다 ***",
+      "TW": "*** 恭喜！遊戲進入第 3 關 ***"
+    }
   },
   "*** Congrats you beat the map ! ***": {
-    "translation": "***恭喜你通关了地图！***"
+    "translation": "***恭喜你通关了地图！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** おめでとう、マップをクリアしました！ ***",
+      "CN": "*** 恭喜您已通关本地图！***",
+      "KR": "*** 축하합니다, 미션을 성공했습니다! ***",
+      "TW": "*** 恭喜你通關此地圖！***"
+    }
   },
   "*** Enjoy your stay***": {
-    "translation": "***祝你玩得愉快***"
+    "translation": "***祝你玩得愉快***",
+    "MultiLang": {
+      "US": "*** Enjoy your stay三是最好的祝福***",
+      "JP": "*** ご滞在をお楽しみください***",
+      "CN": "*** 祝您居住愉快 ***",
+      "KR": "*** 편안한 시간 보내세요***",
+      "TW": "*** 祝您遊玩愉快 ***"
+    }
   },
   "*** Entrance to escape route is now open and the zombies have been trapped ***": {
-    "translation": "***逃生通道的入口现在已开启，僵尸已被困住***"
+    "translation": "***逃生通道的入口现在已开启，僵尸已被困住***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 脱出口への扉が開き、ゾンビーは閉じ込められました ***",
+      "CN": "*** 逃生通道入口现已开启，僵尸已被困住 ***",
+      "KR": "*** 탈출로 입구가 열렸으며 좀비들이 격리되었습니다 ***",
+      "TW": "*** 逃生路線入口已開啟，殭屍已被困住 ***"
+    }
   },
   "*** Entrance to escape route is now open and the zombies have been trapped. GOGOGO ***": {
-    "translation": "***逃生通道的入口现在已开启，僵尸已被困住。快走！***"
+    "translation": "***逃生通道的入口现在已开启，僵尸已被困住。快走！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 脱出口への扉が開き、ゾンビーは閉じ込められました。GO GO GO ***",
+      "CN": "*** 逃生通道入口现已开启，僵尸已被困住。快跑 ***",
+      "KR": "*** 탈출로 입구가 열렸으며 좀비들이 격리되었습니다. GO GO GO ***",
+      "TW": "*** 逃生路線入口已開啟，殭屍已被困住。快出發 ***"
+    }
   },
   "*** Floating boxes are activated. GOGOGO ***": {
-    "translation": "***漂浮箱子已激活。快走！***"
+    "translation": "***漂浮箱子已激活。快走！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** フローティングボックスが作動しました。GO GO GO ***",
+      "CN": "*** 悬浮箱子已激活。快跑 ***",
+      "KR": "*** 부유상자가 활성화되었습니다. GO GO GO ***",
+      "TW": "*** 浮動方塊已啟動。快出發 ***"
+    }
   },
   "*** Floating boxes will activate in 15 seconds ***": {
-    "translation": "***漂浮箱子将在15秒后激活***"
+    "translation": "***漂浮箱子将在15秒后激活***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ 15秒後に浮遊ボックスが作動します",
+      "CN": "*** 浮动宝箱将在15秒后激活 ***",
+      "KR": "*** 15초 후 부着 박스가 활성화됩니다 ***",
+      "TW": "*** 浮空箱將於 15 秒後啟動 ***"
+    }
   },
   "*** GO GO GO !! ***": {
-    "translation": "***快快快！！***"
+    "translation": "***快快快！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ ゴゴゴ！！",
+      "CN": "*** 冲鸭 冲鸭！！***",
+      "KR": "*** GO GO GO !! ***",
+      "TW": "*** 加油 加油 快衝啊！！***"
+    }
   },
   "*** God hates zombies. Only humans allowed in heaven ***": {
-    "translation": "***上帝憎恨僵尸。只有人类可以进入天堂***"
+    "translation": "***上帝憎恨僵尸。只有人类可以进入天堂***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ 神はゾンビを憎む。天国へは人間のみ入場可",
+      "CN": "*** 上帝憎恶僵尸，天堂只欢迎人类 ***",
+      "KR": "*** 신은좀비가 싫습니다. 천당에는 인간만 허용됩니다 ***",
+      "TW": "*** 上帝討厭殭屍。只有人類才能進入天堂 ***"
+    }
   },
   "*** Good luck puny mortals... ***": {
-    "translation": "***祝你好运，微不足道的凡人……***"
+    "translation": "***祝你好运，微不足道的凡人……***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ 小さな勇者たちよ、幸運を祈る…",
+      "CN": "*** 祝好运吧，渺小的凡人……***",
+      "KR": "*** 나약한 묘령의 자들이여 행운을 빕니다... ***",
+      "TW": "*** 祝你們這些渺小的凡人好運……***"
+    }
   },
   "*** HEY WAIT WHAT IS THIS ?! ***": {
-    "translation": "***嘿，等等，这是什么？！***"
+    "translation": "***嘿，等等，这是什么？！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ おい、待て！これは何だ？！",
+      "CN": "*** 嘿等等，这是什么？！***",
+      "KR": "*** 헤이 기다려 이건 뭐지 ?! ***",
+      "TW": "*** 嘿 等一下 這是什麼？！***"
+    }
   },
   "*** If you succeed you will enter heaven ***": {
-    "translation": "***如果你成功，你将进入天堂***"
+    "translation": "***如果你成功，你将进入天堂***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ 成功すれば天国へ入れ",
+      "CN": "*** 若你们成功，便可升入天堂 ***",
+      "KR": "*** 성공하면 당신은 천당에 들어갈 것입니다 ***",
+      "TW": "*** 如果你成功了，你就能進入天堂 ***"
+    }
   },
   "*** In 10 seconds you will be teleported to the first island ***": {
-    "translation": "***10秒后你将被传送到第一个岛屿***"
+    "translation": "***10秒后你将被传送到第一个岛屿***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ 10秒後に最初の島へテレポートします",
+      "CN": "*** 10秒后传送至第一座岛屿 ***",
+      "KR": "*** 10초 후 첫 번째 섬으로 텔레포트됩니다 ***",
+      "TW": "*** 10 秒後你將被傳送到第一座島嶼 ***"
+    }
   },
   "*** Muahahaha... ***": {
-    "translation": "***哈哈哈……***"
+    "translation": "***哈哈哈……***",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ ムアハハハ…",
+      "CN": "*** 呼呼呼……***",
+      "KR": "*** 무하하하하... ***",
+      "TW": "*** 哈哈哈哈……***"
+    }
   },
   "*** Muahahahahahah ***": {
-    "translation": "***哈哈哈哈哈哈***"
+    "translation": "***哈哈哈哈哈哈***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ムフハハハハ ***",
+      "CN": "*** 呼呼哈哈哈 ***",
+      "KR": "*** 하하하하하 ***",
+      "TW": "*** 穆哈哈哈哈哈哈 ***"
+    }
   },
   "*** OH SHIT !! ***": {
-    "translation": "***哦，糟糕！！***"
+    "translation": "***哦，糟糕！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** シュット！！ ***",
+      "CN": "*** 该死！！ ***",
+      "KR": "*** 헐, 시발!! ***",
+      "TW": "*** 該死！！***"
+    }
   },
   "*** Ok ! Time to add some witchcraft... ***": {
-    "translation": "***好的！是时候加点巫术了……***"
+    "translation": "***好的！是时候加点巫术了……***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** OK！呪術を仕掛けよう… ***",
+      "CN": "*** 好！是时候施展一些巫术了…… ***",
+      "KR": "*** OK! 마법 좀 써볼까... ***",
+      "TW": "*** 好！時間來施展一些巫術了……***"
+    }
   },
   "*** Take a look around and explore. Enjoy your stay ***": {
-    "translation": "***四处看看，探索一下。祝你玩得愉快***"
+    "translation": "***四处看看，探索一下。祝你玩得愉快***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 周囲を見渡して探検してください。どうぞご滞在ください ***",
+      "CN": "*** 环顾四周，尽情探索。享受你的停留吧 ***",
+      "KR": "*** 주위를 둘러보고 탐험해 보세요. 재미있게 보내시길 바랍니다.",
+      "TW": "*** 四處看看吧，享受探索的樂趣。祝您入住愉快***"
+    }
   },
   "*** Thanks for playing ***": {
-    "translation": "***感谢游玩***"
+    "translation": "***感谢游玩***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** プレイありがとうございます ***",
+      "CN": "*** 感谢游玩 ***",
+      "KR": "*** 플레이해 주셔서 감사합니다.",
+      "TW": "*** 感謝遊玩***"
+    }
   },
   "*** The gates are open and the zombies have been trapped ***": {
-    "translation": "***大门已开启，僵尸已被困住***"
+    "translation": "***大门已开启，僵尸已被困住***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉が開き、ゾンビは閉じ込められました ***",
+      "CN": "*** 大门已开启，丧尸已被困住 ***",
+      "KR": "*** 문이 열리고 좀비가 갇혔습니다.",
+      "TW": "*** 大門已開啟，殭屍已被困住***"
+    }
   },
   "*** The gates are open and the zombies have been trapped. GOGOGO ***": {
-    "translation": "***大门已开启，僵尸已被困住。快走！***"
+    "translation": "***大门已开启，僵尸已被困住。快走！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉が開き、ゾンビは閉じ込められました。行け行け ***",
+      "CN": "*** 大门已开启，丧尸已被困住。GO GO GO ***",
+      "KR": "*** 문이 열리고 좀비가 갇혔습니다. 가자!**",
+      "TW": "*** 大門已開啟，殭屍已被困住。走吧走吧***"
+    }
   },
   "*** The voodoo master has challenged you to survive on 3 different islands ***": {
-    "translation": "***巫毒大师向你发起挑战让你在3个不同的岛屿上生存***"
+    "translation": "***巫毒大师向你发起挑战让你在3个不同的岛屿上生存***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 黒衣の魔術師が、3つの異なる島で生き残るよう挑戦してきました ***",
+      "CN": "*** 巫毒大师向你发起挑战，要在3个不同的岛屿上生存下来 ***",
+      "KR": "*** 푸도는 당신에게 3개의 다른 섬에서 생존하라고 도전을 제시했습니다.***",
+      "TW": "*** 巫毒大師挑戰你，在三個不同的島嶼上倖存下來***"
+    }
   },
   "*** The voodoo master unlocked 3 islands. Find a place to survive ***": {
-    "translation": "***巫毒大师解锁了3个岛屿。找到一个地方生存***"
+    "translation": "***巫毒大师解锁了3个岛屿。找到一个地方生存***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヴoodooのマスターが3つの島を解放しました。生き延びる場所を見つけましょう ***",
+      "CN": "*** 巫毒大师解锁了3座岛屿。找到一处生存之地 ***",
+      "KR": "*** 무당벌레 마스터가 3개의 섬을 해제했습니다. 생존할 장소를 찾으세요 ***",
+      "TW": "*** 巫毒大師解鎖了3座島嶼。尋找據點以 survival ***"
+    }
   },
   "*** The voodoo master will take you to the escape route to heaven ***": {
-    "translation": "***巫毒大师将带你到通往天堂的逃生通道***"
+    "translation": "***巫毒大师将带你到通往天堂的逃生通道***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヴoodooのマスターが天への脱出ルートへ導いてくれます ***",
+      "CN": "*** 巫毒大师将带你前往通往天堂的逃生路线 ***",
+      "KR": "*** 무당벌레 마스터가 여러분을 천국으로 가는 탈출 경로로 안내합니다 ***",
+      "TW": "*** 巫毒大師將帶你前往通往天堂的逃亡路線 ***"
+    }
   },
   "*** The zombies have been trapped and the teleporter to the next island have been activated ***": {
-    "translation": "***僵尸已被困住，前往下一个岛屿的传送器已激活***"
+    "translation": "***僵尸已被困住，前往下一个岛屿的传送器已激活***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビは閉じ込められ、次の島へのテレポーターが作動しました ***",
+      "CN": "*** 丧尸已被困住，前往下一个岛屿的传送门已激活 ***",
+      "KR": "*** 좀비들이 가두어졌으며 다음 섬으로 가는 텔레포터가 작동되었습니다 ***",
+      "TW": "*** 殭屍已被困住，通往下一座島嶼的傳送器已啟動 ***"
+    }
   },
   "*** The zombies have been trapped and the teleporter to the next island have been activated. GOGOGO***": {
-    "translation": "***僵尸已被困住，前往下一个岛屿的传送器已激活。快走！***"
+    "translation": "***僵尸已被困住，前往下一个岛屿的传送器已激活。快走！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビは閉じ込められ、次の島へのテレポーターが作動しました。GO!GO!GO!!***",
+      "CN": "*** 丧尸已被困住，前往下一个岛屿的传送门已激活。出发吧！***",
+      "KR": "*** 좀비들이 가두어졌으며 다음 섬으로 가는 텔레포터가 작동되었습니다. GO GO GO***",
+      "TW": "*** 殭屍已被困住，通往下一座島嶼的傳送器已啟動。出發吧！***"
+    }
   },
   "*** Voodoo master has created a force field from preventing you from falling off island***": {
-    "translation": "***巫毒大师创建了一个力场，防止你从岛屿上掉下去***"
+    "translation": "***巫毒大师创建了一个力场，防止你从岛屿上掉下去***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヴoodooのマスターが島から落下しないよう力場を生成しました ***",
+      "CN": "*** 巫毒大师创造了力场，防止你从岛屿跌落 ***",
+      "KR": "*** 무당벌레 마스터가 여러분이 섬에서 떨어지지 않도록 하는Force Field를 생성했습니다***",
+      "TW": "*** 巫毒大師建立了力場，防止你掉下島嶼 ***"
+    }
   },
   "*** Voodoo master will take you to the escape route to heaven ***": {
-    "translation": "***巫毒大师将带你到通往天堂的逃生通道***"
+    "translation": "***巫毒大师将带你到通往天堂的逃生通道***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヴoodooのマスターが天への脱出ルートへ導いてくれます ***",
+      "CN": "*** 巫毒大师将带你前往通往天堂的逃生路线 ***",
+      "KR": "*** 무당벌레 마스터가 여러분을 천국으로 가는 탈출 경로로 안내합니다 ***",
+      "TW": "*** 巫毒大師將帶你前往通往天堂的逃亡路線 ***"
+    }
   },
   "*** Welcome in hell zombies.. ***": {
-    "translation": "***欢迎来到地狱，僵尸们……***"
+    "translation": "***欢迎来到地狱，僵尸们……***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 地獄へようこそ、ゾンビども… ***",
+      "CN": "*** 欢迎堕入地狱，丧尸们.. ***",
+      "KR": "*** 지옥에서 환영합니다 좀비들.. ***",
+      "TW": "*** 地獄歡迎殭屍... ***"
+    }
   },
   "*** Welcome to ze_voodoo_islands ***": {
-    "translation": "***欢迎来到ze_voodoo_islands***"
+    "translation": "***欢迎来到ze_voodoo_islands***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ze_voodoo_islands へようこそ ***",
+      "CN": "*** 欢迎来到 ze_voodoo_islands ***",
+      "KR": "*** ze_voodoo_islands에 오신 것을 환영합니다 ***",
+      "TW": "*** 歡迎來到 ze_voodoo_islands ***"
+    }
   },
   "*** Well done humans. You survived the first island ***": {
-    "translation": "***干得好，人类。你们在第一个岛屿上生存下来了***"
+    "translation": "***干得好，人类。你们在第一个岛屿上生存下来了***",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやったぞ人間達。お前は最初の島を生き延びたな",
+      "CN": "*** 干得好，人类。你们挺过了第一座岛屿 ***",
+      "KR": "*** 잘했다, 인간들아. 너희는 첫 번째 섬에서 살아남았다 ***",
+      "TW": "*** 乾得好人類，你們挺過了第一座島嶼 ***"
+    }
   },
   "*** Well you made it to heaven. Beatiful isnt it? ***": {
-    "translation": "***你们成功进入了天堂。美丽吧？***"
+    "translation": "***你们成功进入了天堂。美丽吧？***",
+    "MultiLang": {
+      "US": "",
+      "JP": "天国に辿り着いたようだ。いいだろ？",
+      "CN": "*** 你们到达了天堂。美不美？ ***",
+      "KR": "*** 너는 천국에 도착했군. 아름답지 않니? ***",
+      "TW": "*** 看來你來到了天堂，美不美啊？ ***"
+    }
   },
   "*** Yeah yeah it was the original map. I'm gonna change the islands ! ***": {
-    "translation": "***是的，这是原始地图。我会改变岛屿！***"
+    "translation": "***是的，这是原始地图。我会改变岛屿！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ああ、あのオリジナルマップだな。島のデザインを変えてやるよ！",
+      "CN": "*** 行吧，那是初始地图。我要更换岛屿！ ***",
+      "KR": "*** 응, 응, 그건 원래 맵이었어. 내 섬들을 바꿔볼 생각이야! ***",
+      "TW": "*** 沒錯，那是原版地圖。我準備要換掉這些島嶼！ ***"
+    }
   },
   "*** You are the real Master of Voodoo Islands.. ***": {
-    "translation": "***你是真正的巫毒岛主宰……***"
+    "translation": "***你是真正的巫毒岛主宰……***",
+    "MultiLang": {
+      "US": "",
+      "JP": "お前は本当に巫女島のマスターだ…",
+      "CN": "*** 你们才是真正的巫毒岛主人.. ***",
+      "KR": "*** 넌 진짜 부두 섬의 마스터야.. ***",
+      "TW": "*** 你就是真正的巫毒島大師.. ***"
+    }
   },
   "*** You made it to the final island ***": {
-    "translation": "***你到达了最后一个岛屿***"
+    "translation": "***你到达了最后一个岛屿***",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の島に到達したな",
+      "CN": "*** 你们来到了最后一座岛屿 ***",
+      "KR": "*** 너는 마지막 섬에 도착했다 ***",
+      "TW": "*** 你來到了最後一座島嶼 ***"
+    }
   },
   "*** You win ! ***": {
-    "translation": "***你赢了！***"
+    "translation": "***你赢了！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "お前の勝ちだ！",
+      "CN": "*** 胜利！ ***",
+      "KR": "*** 승리! ***",
+      "TW": "*** 你贏了！ ***"
+    }
   },
   "*** You win ! Let's see if you can beat The Voodoo Master ***": {
-    "translation": "***你赢了！让我们看看你能否击败巫毒大师***"
+    "translation": "***你赢了！让我们看看你能否击败巫毒大师***",
+    "MultiLang": {
+      "US": "",
+      "JP": "お前の勝ちだ！巫女マスターを倒せるか試してみよう",
+      "CN": "*** 胜利！让我们看看你们能否击败巫毒大师 ***",
+      "KR": "*** 승리! 부두 마스터를 꺾을 수 있는지 보자. ***",
+      "TW": "*** 你贏了！讓我們看看能否擊敗巫毒大師 ***"
+    }
   },
   "*** Zombies have been unleashed ***": {
-    "translation": "***僵尸已被释放***"
+    "translation": "***僵尸已被释放***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが解放された",
+      "CN": "*** 僵尸已释放 ***",
+      "KR": "*** 좀비들이 풀려났다 ***",
+      "TW": "*** 殭屍已經被釋放 ***"
+    }
   },
   "*** Zombies have been unleashed. Defend against the zombies ***": {
-    "translation": "***僵尸已被释放。抵御僵尸的攻击***"
+    "translation": "***僵尸已被释放。抵御僵尸的攻击***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが解放された。ゾンビに立ち向かえ ***",
+      "CN": "*** 僵尸已被释放。抵御僵尸的进攻 ***",
+      "KR": "*** 좀비가 해방되었습니다. 좀비를 막아내세요 ***",
+      "TW": "*** 殭屍已經被釋放。抵禦殭屍的攻擊 ***"
+    }
   },
   "*** Zombies will go in hell ***": {
-    "translation": "***僵尸将被送入地狱***"
+    "translation": "***僵尸将被送入地狱***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビは地獄へ落ちる ***",
+      "CN": "*** 僵尸将堕入地狱 ***",
+      "KR": "*** 좀비는 지옥으로 간다 ***",
+      "TW": "*** 殭屍將下地獄 ***"
+    }
   },
   ">> 10 seconds till escape route opens <<": {
-    "translation": ">>距离逃生通道开启还有10秒<<"
+    "translation": ">>距离逃生通道开启还有10秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 10秒後に避難経路が開きます <<",
+      "CN": ">> 10秒后逃生通道开启 <<",
+      "KR": ">> 퇴각로가 10초 후에 개방됩니다 <<",
+      "TW": ">> 10秒後逃生通道開啟 <<"
+    }
   },
   ">> 10 seconds till zombies are unleashed <<": {
-    "translation": ">>距离僵尸释放还有10秒<<"
+    "translation": ">>距离僵尸释放还有10秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 10秒後にゾンビが解放されます <<",
+      "CN": ">> 10秒后僵尸将释放 <<",
+      "KR": ">> 좀비 해방까지 10초 남음 <<",
+      "TW": ">> 10秒後殭屍將被釋放 <<"
+    }
   },
   ">> 12 seconds till zombies are unleashed <<": {
-    "translation": ">>距离僵尸释放还有12秒<<"
+    "translation": ">>距离僵尸释放还有12秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 12秒後にゾンビが解放されます <<",
+      "CN": ">> 12秒后僵尸将释放 <<",
+      "KR": ">> 좀비 해방까지 12초 남음 <<",
+      "TW": ">> 12秒後殭屍將被釋放 <<"
+    }
   },
   ">> 5 seconds till zombies are unleashed <<": {
-    "translation": ">>距离僵尸释放还有5秒<<"
+    "translation": ">>距离僵尸释放还有5秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 5秒後にゾンビが解放されます <<",
+      "CN": ">> 5秒后僵尸将释放 <<",
+      "KR": ">> 좀비 해방까지 5초 남음 <<",
+      "TW": ">> 5秒後殭屍將被釋放 <<"
+    }
   },
   ">> 6 seconds till zombies are unleashed <<": {
-    "translation": ">>距离僵尸释放还有6秒<<"
+    "translation": ">>距离僵尸释放还有6秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 6秒後にゾンビが解放されます <<",
+      "CN": ">> 6秒后僵尸将释放 <<",
+      "KR": ">> 좀비 해방까지 6초 남음 <<",
+      "TW": ">> 6秒後殭屍將被釋放 <<"
+    }
   },
   ">> 8 seconds till zombies are unleashed <<": {
-    "translation": ">>距离僵尸释放还有8秒<<"
+    "translation": ">>距离僵尸释放还有8秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 8秒後にゾンビが解放されます <<",
+      "CN": ">> 8秒后僵尸将释放 <<",
+      "KR": ">> 좀비 해방까지 8초 남음 <<",
+      "TW": ">> 8秒後殭屍將被釋放 <<"
+    }
   },
   ">> Adminroom : Slaying all in 5 seconds <<": {
-    "translation": ">>管理员房间：5秒内消灭所有人<<"
+    "translation": ">>管理员房间：5秒内消灭所有人<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理室：5秒で全滅 <<",
+      "CN": ">> 管理员室：5秒内消灭所有目标 <<",
+      "KR": ">> 관리자 방 : 5초 만에 모든 적 처치 <<",
+      "TW": ">> 管理室：5秒內消滅所有人 <<"
+    }
   },
   ">> Boat leaves in 10 seconds <<": {
-    "translation": ">>船将在10秒后离开<<"
+    "translation": ">>船将在10秒后离开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 船が10秒後に発進します <<",
+      "CN": ">> 船将在10秒后离港 <<",
+      "KR": ">> 배가 10초 후에 출항합니다 <<",
+      "TW": ">> 渡輪10秒後啟航 <<"
+    }
   },
   ">> Boat leaves in 7 seconds <<": {
-    "translation": ">>船将在7秒后离开<<"
+    "translation": ">>船将在7秒后离开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 船が7秒後に発進します <<",
+      "CN": ">> 船将在7秒后离港 <<",
+      "KR": ">> 배가 7초 후에 출항합니다 <<",
+      "TW": ">> 渡輪7秒後啟航 <<"
+    }
   },
   ">> Boat leaves in 8 seconds <<": {
-    "translation": ">>船将在8秒后离开<<"
+    "translation": ">>船将在8秒后离开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 船が8秒後に発進します <<",
+      "CN": ">> 船将在8秒后离港 <<",
+      "KR": ">> 배가 8초 후에 출항합니다 <<",
+      "TW": ">> 渡輪8秒後啟航 <<"
+    }
   },
   ">> Boat leaves in 9 seconds <<": {
-    "translation": ">>船将在9秒后离开<<"
+    "translation": ">>船将在9秒后离开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 船が9秒後に発進します <<",
+      "CN": ">> 船将在9秒后离港 <<",
+      "KR": ">> 배가 9초 후에 출항합니다 <<",
+      "TW": ">> 渡輪9秒後啟航 <<"
+    }
   },
   ">> Defend 25 seconds <<": {
-    "translation": ">>防守25秒<<"
+    "translation": ">>防守25秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 25秒間守れ <<",
+      "CN": ">> 坚守阵地25秒 <<",
+      "KR": ">> 25초 동안 방어 <<",
+      "TW": ">> 防守25秒 <<"
+    }
   },
   ">> Defend against the zombies <<": {
-    "translation": ">>抵御僵尸的攻击<<"
+    "translation": ">>抵御僵尸的攻击<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビから防衛せよ <<",
+      "CN": ">> 抵御僵尸攻击 <<",
+      "KR": ">> 좀비들에 대항하여 방어하세요 <<",
+      "TW": ">> 抵擋殭屍攻擊 <<"
+    }
   },
   ">> Level 2 - The islands start changing <<": {
-    "translation": ">>第二关-岛屿开始变化<<"
+    "translation": ">>第二关-岛屿开始变化<<",
+    "MultiLang": {
+      "US": ">> Level 2 - The islands begin to change <<",
+      "JP": ">> レベル2 - 島々が変化し始める <<",
+      "CN": ">> 第2关 - 岛屿开始发生变化 <<",
+      "KR": ">> 레벨 2 - 섬들이 변화하기 시작합니다 <<",
+      "TW": ">> 第2關 - 島嶼開始變化 <<"
+    }
   },
   ">> Level 3 - Be faster not slower <<": {
-    "translation": ">>第三关-变得更快而不是更慢<<"
+    "translation": ">>第三关-变得更快而不是更慢<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル3 - 速く、遅く <<",
+      "CN": ">> 第3关 - 速度要快，别慢 <<",
+      "KR": ">> 레벨 3 - 더 빠르게, 느리게 하지 마세요 <<",
+      "TW": ">> 第 3 關 - 越快越好，勿遲 <<"
+    }
   },
   ">> Level 4 - Beat the Voodoo Master <<": {
-    "translation": ">>第四关-击败巫毒大师<<"
+    "translation": ">>第四关-击败巫毒大师<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル4 - ヴー ドゥのマスターを倒せ <<",
+      "CN": ">> 第4关 - 击败巫毒大师 <<",
+      "KR": ">> 레벨 4 - 바보 masters을 물리치세요 <<",
+      "TW": ">> 第 4 關 - 擊敗巫毒大師 <<"
+    }
   },
   ">> ONLY 5 seconds till zombies are unleashed <<": {
-    "translation": ">>距离僵尸释放只有5秒<<"
+    "translation": ">>距离僵尸释放只有5秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビ放出まであと5秒 <<",
+      "CN": ">> 距丧尸释放仅剩5秒 <<",
+      "KR": "<< 잠복기 종료까지 5초 남음, 좀비 풀려납니다 <<",
+      "TW": ">> 殭屍即將釋放，僅剩 5 秒 <<"
+    }
   },
   ">> READ THE CONSOLE COMMANDS <<": {
-    "translation": ">>阅读控制台命令<<"
+    "translation": ">>阅读控制台命令<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> コンソールコマンドを読む <<",
+      "CN": ">> 查看控制台命令 <<",
+      "KR": "<< 콘솔 명령어 확인하기 <<",
+      "TW": ">> 閱讀控制台指令 <<"
+    }
   },
   ">> Survive again for 30 secs <<": {
-    "translation": ">>再生存30秒<<"
+    "translation": ">>再生存30秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒間生存した上で再挑戦 <<",
+      "CN": ">> 再坚持30秒 <<",
+      "KR": "<< 30초 동안 생존하세요 >>",
+      "TW": ">> 再次生存 30 秒 <<"
+    }
   },
   ">> Survive again for 90 secs <<": {
-    "translation": ">>再生存90秒<<"
+    "translation": ">>再生存90秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 90秒間生存した上で再挑戦 <<",
+      "CN": ">> 再坚持90秒 <<",
+      "KR": "<< 90초 동안 생존하세요 >>",
+      "TW": ">> 再次生存 90 秒 <<"
+    }
   },
   ">> Survive for 180 secs <<": {
-    "translation": ">>生存180秒<<"
+    "translation": ">>生存180秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 180秒間生存し続ける <<",
+      "CN": ">> 坚持180秒 <<",
+      "KR": "<< 180초 동안 생존하세요 >>",
+      "TW": ">> 生存 180 秒 <<"
+    }
   },
   ">> Survive here for 90 secs <<": {
-    "translation": ">>在这里生存90秒<<"
+    "translation": ">>在这里生存90秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> この場所で90秒間生存する <<",
+      "CN": ">> 在此处坚持90秒 <<",
+      "KR": "<< 여기서 90초간 생존하세요 >>",
+      "TW": ">> 在此處生存 90 秒 <<"
+    }
   },
   ">> Survive there for 90 secs <<": {
-    "translation": ">>在那里生存90秒<<"
+    "translation": ">>在那里生存90秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 90秒間生存しろ <<",
+      "CN": ">> 存活90秒 <<",
+      "KR": ">> 90초 동안 생존하세요 <<",
+      "TW": "在該地存活90秒"
+    }
   },
   ">> Teleporter activates in 15 seconds <<": {
-    "translation": ">>传送器将在15秒后激活<<"
+    "translation": ">>传送器将在15秒后激活<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テレポート装置が15秒後に稼働 <<",
+      "CN": ">> 传送门将在15秒后激活 <<",
+      "KR": ">> 텔레포트어가 15초 후에 작동합니다 <<",
+      "TW": "傳送門將在15秒後啟動"
+    }
   },
   ">> Teleporter activates in 30 seconds <<": {
-    "translation": ">>传送器将在30秒后激活<<"
+    "translation": ">>传送器将在30秒后激活<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テレポート装置が30秒後に稼働 <<",
+      "CN": ">> 传送门将在30秒后激活 <<",
+      "KR": ">> 텔레포트어가 30초 후에 작동합니다 <<",
+      "TW": "傳送門將在30秒後啟動"
+    }
   },
   ">> Teleporter activates in 5 seconds <<": {
-    "translation": ">>传送器将在5秒后激活<<"
+    "translation": ">>传送器将在5秒后激活<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テレポート装置が5秒後に稼働 <<",
+      "CN": ">> 传送门将在5秒后激活 <<",
+      "KR": ">> 텔레포트어가 5초 후에 작동합니다 <<",
+      "TW": "傳送門將在5秒後啟動"
+    }
   },
   ">> The Voodoo Master challenged you <<": {
-    "translation": ">>巫毒大师向你发出挑战<<"
+    "translation": ">>巫毒大师向你发出挑战<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ヴoodooのマスターがあなたに挑戦してきた <<",
+      "CN": ">> 萨满大师向你发起挑战 <<",
+      "KR": ">> 부두 마스터가 당신을 도전했습니다 <<",
+      "TW": "巫毒大師向你發起挑戰"
+    }
   },
   ">> The engine have a problem !! <<": {
-    "translation": ">>引擎出现问题！！<<"
+    "translation": ">>引擎出现问题！！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> エンジンに問題がある！！ <<",
+      "CN": ">> 引擎出现故障！！ <<",
+      "KR": ">> 엔진에 문제가 있습니다 !! <<",
+      "TW": "引擎發生故障！"
+    }
   },
   ">> ZM Round <<": {
-    "translation": ">>僵尸感染<<"
+    "translation": ">>僵尸感染<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ZMラウンド <<",
+      "CN": ">> ZM回合 <<",
+      "KR": ">> ZM 라운드 <<",
+      "TW": "殭屍模式回合"
+    }
   },
   ">> Zombies have been unleashed from the cage <<": {
-    "translation": ">>僵尸已从笼子中释放<<"
+    "translation": ">>僵尸已从笼子中释放<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビが檻から放たれた <<",
+      "CN": ">> 僵尸已解除铁笼释放 <<",
+      "KR": ">> 좀비들이 우리에서 풀려났다 <<",
+      "TW": "殭屍已從籠中釋放"
+    }
   },
   ">> Zombies will be unleashed in 5 seconds <<": {
-    "translation": ">>僵尸将在5秒后释放<<"
+    "translation": ">>僵尸将在5秒后释放<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビが5秒後に出現します <<",
+      "CN": ">> 5秒后僵尸将出现 <<",
+      "KR": "5초 후 좀비가 해제됩니다",
+      "TW": "殭屍將于5秒后出笼"
+    }
   },
   ">>> STARTING GAME.. GOOD LUCK & HAVE FUN <<<": {
-    "translation": ">>>游戏开始……祝好运，玩得开心<<<"
+    "translation": ">>>游戏开始……祝好运，玩得开心<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゲーム開始.. 幸運を祈る & お楽しみください <<<",
+      "CN": ">>> 游戏启动.. 祝好运并玩得开心 <<<",
+      "KR": "게임 시작... 행운을 빕니다, 즐거운 게임 되세요!",
+      "TW": ">>>游戏即将开始..祝好运，玩得开心<<<"
+    }
   },
   ">>> WARMUP ROUND <<<": {
-    "translation": ">>>热身回合 翻译：Asteri3m<<<"
+    "translation": ">>>热身回合 翻译：Asteri3m<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 練習ラウンド <<<",
+      "CN": ">>> 热身回合 <<<",
+      "KR": "준비 라운드",
+      "TW": ">>>热场回合<<<"
+    }
   }
 }

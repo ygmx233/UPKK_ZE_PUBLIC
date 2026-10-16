@@ -1,0 +1,52 @@
+{
+  "afk 8s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "afk 8秒",
+      "CN": "离开8秒",
+      "KR": "afk 8s",
+      "TW": "8秒未操作"
+    }
+  },
+  "25s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒",
+      "CN": "25秒",
+      "KR": "25s",
+      "TW": "25秒"
+    }
+  },
+  "15s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒",
+      "CN": "15秒",
+      "KR": "15s",
+      "TW": "15秒"
+    }
+  },
+  "40s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒",
+      "CN": "40秒",
+      "KR": "40s",
+      "TW": "40秒"
+    }
+  },
+  "35s afk15s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒 afk15秒",
+      "CN": "离开35秒，15秒离线",
+      "KR": "35s afk15s",
+      "TW": "35秒未操作15秒"
+    }
+  }
+}

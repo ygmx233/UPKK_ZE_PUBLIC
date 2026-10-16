@@ -1,89 +1,292 @@
 {
   "\"ze_sky_defend\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze_sky_defend",
+      "CN": "防御天空",
+      "KR": "ze_sky_defend",
+      "TW": "天空防守"
+    }
   },
   "\"Map by Smurf\"": {
-    "translation": "地图作者：Smurf 翻译：Ayanami♪"
+    "translation": "地图作者：Smurf 翻译：Ayanami♪",
+    "MultiLang": {
+      "US": "",
+      "JP": "Smurfによるマップ",
+      "CN": "地图作者：Smurf 翻译：Ayanami♪",
+      "KR": "Smurf 작성 맵",
+      "TW": "地圖製作者：Smurf"
+    }
   },
   "<BACK BACK BACK>": {
-    "translation": "<撤退 撤退 撤退>"
+    "translation": "<撤退 撤退 撤退>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バックバックバック>",
+      "CN": "<撤退 撤退 撤退>",
+      "KR": "<백 백 백>",
+      "TW": "<< 返回 返回 返回 >>"
+    }
   },
   "<BACK INTO TEMPLE ZM TP AFTER 15 SECONDS>": {
-    "translation": "<15 秒后僵尸传送到神庙>"
+    "translation": "<15 秒后僵尸传送到神庙>",
+    "MultiLang": {
+      "US": "RETURN TO TEMPLE ZM TP AFTER 15 SECONDS",
+      "JP": "<15秒後temple zm tpに戻る>",
+      "CN": "<15 秒后僵尸传送到神庙>",
+      "KR": "<15초 후 사원 ZM 텔레포트로 복귀>",
+      "TW": "< 15 秒後返回神廟ZM傳送點 >"
+    }
   },
   "<BOSS DEFEATED, INCOMING LASERS FROM THE ZOMBIES>": {
-    "translation": "<BOSS 被击败，最后一波跳刀在僵尸方向>"
+    "translation": "<BOSS 被击败，最后一波跳刀在僵尸方向>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス defeat、ゾンビからの Laser 飛んできてる",
+      "CN": "<BOSS 被击败，最后一波跳刀在僵尸方向>",
+      "KR": "<보스 처치, 좀비에서 레이저 도착>",
+      "TW": "< BOSS被擊敗，殭屍即將射出激光 >"
+    }
   },
   "<BOSS DEFEATED>": {
-    "translation": "<BOSS 被击败>"
+    "translation": "<BOSS 被击败>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス倒しました>>",
+      "CN": "<BOSS 被击败>",
+      "KR": "<보스 처치>",
+      "TW": "< BOSS被擊敗 >"
+    }
   },
   "<CONGRATULATION, YOU BEAT THE MAP>": {
-    "translation": "<恭喜，你完成了地图>"
+    "translation": "<恭喜，你完成了地图>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<賞賛するもよしこのマップを攻略したあなたへ>",
+      "CN": "<恭喜，你完成了地图>",
+      "KR": "<축하합니다, 당신은 맵을 클리어했습니다>",
+      "TW": "< 恭喜，你打通了地圖 >"
+    }
   },
   "<CROUCH>": {
-    "translation": "<蹲下>"
+    "translation": "<蹲下>",
+    "MultiLang": {
+      "US": "<crouch>",
+      "JP": "<蹲下>",
+      "CN": "<蹲下>",
+      "KR": "<크라치>",
+      "TW": "< 蹲下 >"
+    }
   },
   "<DEFEND 30 SECONDS>": {
-    "translation": "<防守 30 秒>"
+    "translation": "<防守 30 秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "防城 30 秒",
+      "CN": "<防守 30 秒>",
+      "KR": "<30초 방어>",
+      "TW": "< 防禦 30 秒 >"
+    }
   },
   "<DEFEND 40 SECONDS>": {
-    "translation": "<防守 40 秒>"
+    "translation": "<防守 40 秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "防御40秒",
+      "CN": "<防守 40 秒>",
+      "KR": "<40초 방어>",
+      "TW": "< 防禦 40 秒 >"
+    }
   },
   "<DEFEND 50 SECONDS>": {
-    "translation": "<防守 50 秒>"
+    "translation": "<防守 50 秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "防戦50秒",
+      "CN": "<防守 50 秒>",
+      "KR": "<50초 방어>",
+      "TW": "< 防禦 50 秒 >"
+    }
   },
   "<ENTRANCE OPENING>": {
-    "translation": "<入口打开>"
+    "translation": "<入口打开>",
+    "MultiLang": {
+      "US": "",
+      "JP": "エントランス開放",
+      "CN": "<入口打开>",
+      "KR": "<입구 개방>",
+      "TW": "< 入口開啟中 >"
+    }
   },
   "<FOUNTAIN TP ENABLED>": {
-    "translation": "<喷泉传送点 已启用>"
+    "translation": "<喷泉传送点 已启用>",
+    "MultiLang": {
+      "US": "Fountain TP Enabled",
+      "JP": "Fountain TP 启用",
+      "CN": "<喷泉传送点 已启用>",
+      "KR": "<분수 텔레포트 활성화>",
+      "TW": "< 噴泉傳送已啟用 >"
+    }
   },
   "<GRAVITY>": {
-    "translation": "<吸力>"
+    "translation": "<吸力>",
+    "MultiLang": {
+      "US": "",
+      "JP": "重力",
+      "CN": "<吸力>",
+      "KR": "<중력>",
+      "TW": "< 重力 >"
+    }
   },
   "<KILL THE LASER BOSS>": {
-    "translation": "<杀死跳刀 BOSS>"
+    "translation": "<杀死跳刀 BOSS>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<レーザーボスを倒して>",
+      "CN": "<杀死跳刀 BOSS>",
+      "KR": "<레이저 보스 처치>",
+      "TW": "< 殺死激光BOSS >"
+    }
   },
   "<LAST DEFEND 30 SEC>": {
-    "translation": "<最后防守 30 秒>"
+    "translation": "<最后防守 30 秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<最后防守 30 秒>",
+      "KR": "<마지막 30초 방어>",
+      "TW": "< 最後防禦 30 秒 >"
+    }
   },
   "<PUSH>": {
-    "translation": "<推力>"
+    "translation": "<推力>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<プッシュ>",
+      "CN": "<推力>",
+      "KR": "<푸시>",
+      "TW": "< 推進 >"
+    }
   },
   "<RTV THIS SHITMAP!!!!!!!!>": {
-    "translation": "<RTV THIS SHITMAP！！！！！！>"
+    "translation": "<RTV THIS SHITMAP！！！！！！>",
+    "MultiLang": {
+      "US": "RTV THIS SHITMAP!!!!!!\n\n\n\n\n\n(Translation is faithful to the original text, including the use of exclamation marks and capitalization.)",
+      "JP": "RTV このshitmap!!!!!!!!",
+      "CN": "<RTV 这shitmap!!!!!!!!>",
+      "KR": "<이 쓰레기 맵 리버트!!!!!!!!>",
+      "TW": "< 重來這地圖啦!!!!!!!! >"
+    }
   },
   "<SECOND GATE OPEN IN 5 SECONDS>": {
-    "translation": "<第二道门在 5 秒内打开>"
+    "translation": "<第二道门在 5 秒内打开>",
+    "MultiLang": {
+      "US": "",
+      "JP": "2秒後にセカンドゲートが開きます>>",
+      "CN": "<第二道门在 5 秒内打开>",
+      "KR": "<5초 후 두 번째 문 개방>",
+      "TW": "< 第二道門 5 秒後開啟 >"
+    }
   },
   "<SHOOT THE BOSS>": {
-    "translation": "<射击 BOSS>"
+    "translation": "<射击 BOSS>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスを射殺する",
+      "CN": "<射击 BOSS>",
+      "KR": "<보스 쏴라>",
+      "TW": "< 射擊BOSS >"
+    }
   },
   "<TEMPLE ENTRANCE BREAK IN 45 SECONDS>": {
-    "translation": "<神庙入口在 45 秒内打开>"
+    "translation": "<神庙入口在 45 秒内打开>",
+    "MultiLang": {
+      "US": "",
+      "JP": "神殿入口侵入倒计时45秒>",
+      "CN": "<神庙入口在 45 秒内打开>",
+      "KR": "<45초 후 사원 입구 파괴>",
+      "TW": "< 神廟入口 45 秒後破壞 >"
+    }
   },
   "<TP TO BOSS AFTER 20 SECONDS>": {
-    "translation": "<20 秒后传送到BOSS房>"
+    "translation": "<20 秒后传送到BOSS房>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<20 秒后传送到BOSS房>",
+      "KR": "<20초 후 보스 텔레포트>",
+      "TW": "< 20 秒後傳送至BOSS處 >"
+    }
   },
   "<WALL BREAK IN 20 SECONDS>": {
-    "translation": "<墙壁20 秒后打破>"
+    "translation": "<墙壁20 秒后打破>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<墙壁20 秒后打破>",
+      "KR": "<20초 후 벽 파괴>",
+      "TW": "< 墻壁 20 秒後破壞 >"
+    }
   },
   "<WALL BROKEN>": {
-    "translation": "<墙壁被打破>"
+    "translation": "<墙壁被打破>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ウォール破られた>",
+      "CN": "<墙壁被打破>",
+      "KR": "<벽 파괴됨>",
+      "TW": "< 墻壁已破壞 >"
+    }
   },
   "<ZM SHORTCUT OPENED>": {
-    "translation": "<僵尸捷径已打开>"
+    "translation": "<僵尸捷径已打开>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ZMショートカット開启>",
+      "CN": "<僵尸捷径已打开>",
+      "KR": "<ZM 단축로 개방>",
+      "TW": "< ZM捷徑已開啟 >"
+    }
   },
   "<ZM TELEPORT 10 SEC>": {
-    "translation": "<僵尸传送 10 秒后>"
+    "translation": "<僵尸传送 10 秒后>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<僵尸传送 10 秒后>",
+      "KR": "<ZM 텔레포트 10초>",
+      "TW": "< ZM傳送 10 秒 >"
+    }
   },
   "<ZM TELEPORT IN 15 SECONDS>": {
-    "translation": "<僵尸传送 15 秒后>"
+    "translation": "<僵尸传送 15 秒后>",
+    "MultiLang": {
+      "US": "",
+      "JP": ">ZMテレポインターIN 15 SEKONDOS>",
+      "CN": "<僵尸传送 15 秒后>",
+      "KR": "<15초 후 ZM 텔레포트>",
+      "TW": "< ZM傳送 15 秒後 >"
+    }
   },
   "<ZM TP AFTER 25 SECONDS>": {
-    "translation": "<僵尸传送 25 秒后>"
+    "translation": "<僵尸传送 25 秒后>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<僵尸传送 25 秒后>",
+      "KR": "<25초 후 ZM 텔레포트>",
+      "TW": "< ZM傳送 25 秒後 >"
+    }
   },
   "rot zakroj": {
-    "translation": "rot zakroj"
+    "translation": "rot zakroj",
+    "MultiLang": {
+      "US": "rotate close",
+      "JP": "рот закрой",
+      "CN": "腐朽扎克罗杰",
+      "KR": "rot zakroj",
+      "TW": "不要鎖上門"
+    }
   }
 }

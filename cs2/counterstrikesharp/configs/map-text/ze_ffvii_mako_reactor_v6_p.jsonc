@@ -1,261 +1,872 @@
 {
   "** ADMIN PRESSED KILL ALL BUTTON **": {
-    "translation": "**管理员按下了全体击杀按钮**"
+    "translation": "**管理员按下了全体击杀按钮**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者が『全滅』ボタンを押しました。",
+      "CN": "** 管理员按下了杀死所有玩家的按钮 **",
+      "KR": "** 관리자가 킬 올 버튼을 눌렀습니다 **",
+      "TW": "** 管理員已按下清除所有按鈕 **"
+    }
   },
   "** AQUA Materia has been found. **": {
-    "translation": "**发现了水神器。**"
+    "translation": "**发现了水神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "アクアマテリアが見つかりました。",
+      "CN": "** 发现了Aqua素材。**",
+      "KR": "** Aqua 마테리아가 발견되었습니다. **",
+      "TW": "** 已發現 Aqua 精靈。**"
+    }
   },
   "** An administrator has set [EASY] for next round! **": {
-    "translation": "**管理员将下一轮设置为[简单]！**"
+    "translation": "**管理员将下一轮设置为[简单]！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者が次のラウンドの難易度を【簡単】に設定しました。",
+      "CN": "** 管理员已将下一轮难度设置为 [EASY]！**",
+      "KR": "** 관리자가 다음 라운드에 [EASY]를 설정했습니다! **",
+      "TW": "** 管理員設定下一輪為 [簡易]！**"
+    }
   },
   "** An administrator has set [EXTREME] for next round! **": {
-    "translation": "**管理员将下一轮设置为[极限]！**"
+    "translation": "**管理员将下一轮设置为[极限]！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者が次のラウンドの難易度を【超極限】に設定しました。",
+      "CN": "** 管理员已将下一轮难度设置为 [EXTREME]！**",
+      "KR": "** 관리자가 다음 라운드에 [EXTREME]를 설정했습니다! **",
+      "TW": "** 管理員設定下一輪為 [極限]！**"
+    }
   },
   "** An administrator has set [HARD] for next round! **": {
-    "translation": "**管理员将下一轮设置为[困难]！**"
+    "translation": "**管理员将下一轮设置为[困难]！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者が次のラウンドの難易度を【難しい】に設定しました。",
+      "CN": "** 管理员已将下一轮难度设置为 [HARD]！**",
+      "KR": "** 관리자가 다음 라운드에 [HARD]를 설정했습니다! **",
+      "TW": "** 管理員設定下一輪為 [困難]！**"
+    }
   },
   "** An administrator has set [INSANE] for next round! **": {
-    "translation": "**管理员将下一轮设置为[疯狂]！**"
+    "translation": "**管理员将下一轮设置为[疯狂]！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者が次のラウンドの難易度を【クレイジー】に設定しました。",
+      "CN": "** 管理员已将下一轮难度设置为 [INSANE]！**",
+      "KR": "** 관리자가 다음 라운드에 [INSANE]를 설정했습니다! **",
+      "TW": "** 管理員設定下一輪為 [地獄]！**"
+    }
   },
   "** An administrator has set [NORMAL] for next round! **": {
-    "translation": "**管理员将下一轮设置为[普通]！**"
+    "translation": "**管理员将下一轮设置为[普通]！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者が次のラウンドの難易度を【通常】に設定しました。",
+      "CN": "** 管理员已将下一轮难度设置为 [NORMAL]！**",
+      "KR": "** 관리자가 다음 라운드에 [NORMAL]을 설정했습니다! **",
+      "TW": "** 管理員設定下一輪為 [普通]！**"
+    }
   },
   "** An administrator has set [ZM] for next round! **": {
-    "translation": "**管理员将下一轮设置为[僵尸感染]！**"
+    "translation": "**管理员将下一轮设置为[僵尸感染]！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者が次のラウンドを【ゾンビモード】に設定しました。",
+      "CN": "** 管理员已将下一轮难度设置为 [ZM]！**",
+      "KR": "** 관리자가 다음 라운드에 [ZM]을 설정했습니다! **",
+      "TW": "** 管理員設定下一輪為 [殭屍模式]！**"
+    }
   },
   "** BARRIER Materia has been found. **": {
-    "translation": "**发现了护盾神器。**"
+    "translation": "**发现了护盾神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** バリアのマテリアが見つかった。 **",
+      "CN": "** 已找到 Barrier 魔石。**",
+      "KR": "** 방패 마테리아가 발견되었습니다. **",
+      "TW": "**已發現護盾魔石。**"
+    }
   },
   "** BIO Materia has been found. **": {
-    "translation": "**发现了毒神器。**"
+    "translation": "**发现了毒神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** BIOマテリアが見つかった。 **",
+      "CN": "** 已找到 Bio 魔石。**",
+      "KR": "** 바이오 마테리아가 발견되었습니다. **",
+      "TW": "**已發現生物魔石。**"
+    }
   },
   "** Congratulations! You have beaten [EASY] **": {
-    "translation": "**恭喜！你已通关[简单] 翻译：Asteri3m**"
+    "translation": "**恭喜！你已通关[简单] 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** おめでとうございます！「[EASY]」をクリアしました！ **",
+      "CN": "** 恭喜！您已通关 [EASY] **",
+      "KR": "** 축하합니다! [EASY] 클리어! **",
+      "TW": "**恭喜！你已通過 [簡易] 難度**"
+    }
   },
   "** Congratulations! You have beaten [EXTREME] **": {
-    "translation": "**恭喜！你已通关[极限] 翻译：Asteri3m**"
+    "translation": "**恭喜！你已通关[极限] 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** おめでとうございます！「[EXTREME]」をクリアしました！ **",
+      "CN": "** 恭喜！您已通关 [EXTREME] **",
+      "KR": "** 축하합니다! [EXTREME] 클리어! **",
+      "TW": "**恭喜！你已通過 [極限] 難度**"
+    }
   },
   "** Congratulations! You have beaten [HARD] **": {
-    "translation": "**恭喜！你已通关[困难] 翻译：Asteri3m**"
+    "translation": "**恭喜！你已通关[困难] 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** おめでとうございます！「[HARD]」をクリアしました！ **",
+      "CN": "** 恭喜！您已通关 [HARD] **",
+      "KR": "** 축하합니다! [HARD] 클리어! **",
+      "TW": "**恭喜！你已通過 [困難] 難度**"
+    }
   },
   "** Congratulations! You have beaten [INSANE] **": {
-    "translation": "**恭喜！你已通关[疯狂] 翻译：Asteri3m**"
+    "translation": "**恭喜！你已通关[疯狂] 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** おめでとうございます！「[INSANE]」をクリアしました！ **",
+      "CN": "** 恭喜！您已通关 [INSANE] **",
+      "KR": "** 축하합니다! [INSANE] 클리어! **",
+      "TW": "**恭喜！你已通過 [瘋狂] 難度**"
+    }
   },
   "** Congratulations! You have beaten [NORMAL] **": {
-    "translation": "**恭喜！你已通关[普通] 翻译：Asteri3m**"
+    "translation": "**恭喜！你已通关[普通] 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** おめでとうございます！「[NORMAL]」をクリアしました！ **",
+      "CN": "** 恭喜！您已通关 [NORMAL] **",
+      "KR": "** 축하합니다! [NORMAL] 클리어! **",
+      "TW": "**恭喜！你已通過 [普通] 難度**"
+    }
   },
   "** Congratulations! You have beaten [ZM] **": {
-    "translation": "**恭喜！你已通关[僵尸感染] 翻译：Asteri3m**"
+    "translation": "**恭喜！你已通关[僵尸感染] 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** おめでとうございます！「[ZM]」をクリアしました！ **",
+      "CN": "** 恭喜！您已通关 [ZM] **",
+      "KR": "** 축하합니다! [ZM] 클리어! **",
+      "TW": "**恭喜！你已通過 [殭屍模式] 難度**"
+    }
   },
   "** Congratulations! You have beaten the Stage! **": {
-    "translation": "**恭喜你！你通关了全关**"
+    "translation": "**恭喜你！你通关了全关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "おめでとうございます！ステージをクリアしました。",
+      "CN": "** 恭喜！你已通关本关卡！ **",
+      "KR": "축하합니다! 단계를 클리어했습니다.",
+      "TW": "恭喜！您已通過該關卡！"
+    }
   },
   "** EARTH Materia has been found. **": {
-    "translation": "**发现了土神器。**"
+    "translation": "**发现了土神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "「大地」の魔石を見つけた。",
+      "CN": "** 已找到 EARTH 魔晶石。 **",
+      "KR": "지구 마테리아를 발견했습니다.",
+      "TW": "已獲得「地」屬性技能。"
+    }
   },
   "** ELECTRO Materia has been found. **": {
-    "translation": "**发现了电神器。**"
+    "translation": "**发现了电神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "「電撃」の魔石を見つけた。",
+      "CN": "** 已找到 ELECTRO 魔晶石。 **",
+      "KR": "전기 마테리아를 발견했습니다.",
+      "TW": "已獲得「雷」屬性技能。"
+    }
   },
   "** FIRE Materia has been found. **": {
-    "translation": "**发现了火神器。**"
+    "translation": "**发现了火神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "「火炎」の魔石を見つけた。",
+      "CN": "** 已找到 FIRE 魔晶石。 **",
+      "KR": "불꽃 마테리아를 발견했습니다.",
+      "TW": "已獲得「火」屬性技能。"
+    }
   },
   "** GRAVITY Materia has been found. **": {
-    "translation": "**发现了黑洞神器。**"
+    "translation": "**发现了黑洞神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "「重力」の魔石を見つけた。",
+      "CN": "** 已找到 GRAVITY 魔晶石。 **",
+      "KR": "중력 마테리아를 발견했습니다.",
+      "TW": "已獲得「重力」屬性技能。"
+    }
   },
   "** HEAL Materia has been found. **": {
-    "translation": "**发现了治疗神器。**"
+    "translation": "**发现了治疗神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "「回復」の魔石を見つけた。",
+      "CN": "** 已找到 HEAL 魔晶石。 **",
+      "KR": "치유 마테리아를 발견했습니다.",
+      "TW": "已獲得「治疗」屬性技能。"
+    }
   },
   "** ICE Materia has been found. **": {
-    "translation": "**发现了冰神器。**"
+    "translation": "**发现了冰神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "「氷結」の魔石を見つけた。",
+      "CN": "** 已找到 ICE 魔晶石。 **",
+      "KR": "얼음 마테리아를 발견했습니다.",
+      "TW": "已獲得「冰」屬性技能。"
+    }
   },
   "** MIMIC Materia has been found. **": {
-    "translation": "**发现了复制神器。效果：复制上一个玩家使用过的神器**"
+    "translation": "**发现了复制神器。效果：复制上一个玩家使用过的神器**",
+    "MultiLang": {
+      "US": "",
+      "JP": "「模倣」の魔石を見つけた。",
+      "CN": "** 已找到 MIMIC 魔晶石。 **",
+      "KR": "모방 마테리아를 발견했습니다.",
+      "TW": "已獲得「模仿」屬性技能。"
+    }
   },
   "** Next difficulty was chosen by an Administrator! **": {
-    "translation": "**下一关已由管理员选择！**"
+    "translation": "**下一关已由管理员选择！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 次の難易度は管理者によって設定されました！**",
+      "CN": "** 下一个难度由管理员选定！ **",
+      "KR": "** 다음 난이도는 관리자가 선택했습니다! **",
+      "TW": "** 下一個難度已由管理員選擇！ **"
+    }
   },
   "** PREPARE TO DIE **": {
-    "translation": "**准备去死吧**"
+    "translation": "**准备去死吧**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 準備は良いか？**",
+      "CN": "** 做好准备，去死吧 **",
+      "KR": "** 죽을 준비를 하라 **",
+      "TW": "** 準備好面對死亡吧 **"
+    }
   },
   "** Round failed! Zombies have reached the objective! **": {
-    "translation": "**回合失败！僵尸触发了开关！**"
+    "translation": "**回合失败！僵尸触发了开关！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ラウンド失敗！ゾンビーが目標地点に到達しました！**",
+      "CN": "** 回合失败！僵尸已抵达目标点！ **",
+      "KR": "** 라운드 실패! 좀비들이 목표 지점에 도달했습니다! **",
+      "TW": "** 回合失敗！殭屍已抵達目標點！ **"
+    }
   },
   "** ULTIMA Materia has been found. **": {
-    "translation": "**发现了终极神器。**"
+    "translation": "**发现了终极神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** アルテママテリアを発見しました。**",
+      "CN": "** 已找到终极魔晶石。 **",
+      "KR": "** ULTIMA 마테리아를 찾았습니다. **",
+      "TW": "** 發現 ULTIMA 魔晶石。 **"
+    }
   },
   "** WIND Materia has been found. **": {
-    "translation": "**发现了风神器。**"
+    "translation": "**发现了风神器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ウィンドマテリアを発見しました。**",
+      "CN": "** 已找到风之魔晶石。 **",
+      "KR": "** WIND 마테리아를 찾았습니다. **",
+      "TW": "** 發現 WIND 魔晶石。 **"
+    }
   },
   "** Zombies detected! Mission failed! **": {
-    "translation": "**发现僵尸！任务失败！**"
+    "translation": "**发现僵尸！任务失败！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビーを検知！ミッション失敗！**",
+      "CN": "** 检测到僵尸！任务失败！ **",
+      "KR": "** 좀비가 탐지되었습니다! 미션 실패! **",
+      "TW": "** 偵測到殭屍！任務失敗！ **"
+    }
   },
   "*** THE BOMB WAS DESTROYED ***": {
-    "translation": "***炸弹被摧毁了***"
+    "translation": "***炸弹被摧毁了***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ボムは破壊されました ***",
+      "CN": "*** 炸弹已被摧毁 ***",
+      "KR": "*** 폭탄이 파괴되었습니다 ***",
+      "TW": "*** 炸彈已被摧毀 ***"
+    }
   },
   "< Any last words? >": {
-    "translation": "<还有什么要说的吗？？>"
+    "translation": "<还有什么要说的吗？？>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<何か言葉は？>",
+      "CN": "<还有什么要说的吗？？>",
+      "KR": "< 마지막 말 한마디? >",
+      "TW": "<還有最後的話嗎？>"
+    }
   },
   "< BAHAMUT CASTED AQUA >": {
-    "translation": "<3秒，巴哈姆特施展水流(左右躲避)>"
+    "translation": "<3秒，巴哈姆特施展水流(左右躲避)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハムートがアクアを詠唱>",
+      "CN": "<3秒，巴哈姆特施展水流(左右躲避)>",
+      "KR": "< 바하마트 물 마법 시전 >",
+      "TW": "<巴哈姆特施展水之魔法>"
+    }
   },
   "< BAHAMUT CASTED BARRIER >": {
-    "translation": "<3秒，巴哈姆特施展屏障(反伤技能，停止开枪)>"
+    "translation": "<3秒，巴哈姆特施展屏障(反伤技能，停止开枪)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<BAHAMUTがバリアを展開>",
+      "CN": "<3秒，巴哈姆特施展屏障(反伤技能，停止开枪)>",
+      "KR": "<바하뭇 방벽>",
+      "TW": "<巴哈姆特施加屏障>"
+    }
   },
   "< BAHAMUT CASTED BIO >": {
-    "translation": "<3秒，巴哈姆特施展毒(往后面2边躲避)>"
+    "translation": "<3秒，巴哈姆特施展毒(往后面2边躲避)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<BAHAMUT 詠唱 (バイオ) >",
+      "CN": "<3秒，巴哈姆特施展毒(往后面2边躲避)>",
+      "KR": "< BAHAMUT 시전된 생물 정보 >",
+      "TW": "<巴哈姆特施法生物>"
+    }
   },
   "< BAHAMUT CASTED EARTH >": {
-    "translation": "<3秒，巴哈姆特施展土(换子弹)>"
+    "translation": "<3秒，巴哈姆特施展土(换子弹)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<BAHAMUTが大地を詠唱>",
+      "CN": "<3秒，巴哈姆特施展土(换子弹)>",
+      "KR": "< BAHAMUT 투영된 지각>",
+      "TW": "<巴哈姆特施展大地>"
+    }
   },
   "< BAHAMUT CASTED ELECTRO >": {
-    "translation": "<3秒，巴哈姆特施展电(跳上栏杆)>"
+    "translation": "<3秒，巴哈姆特施展电(跳上栏杆)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハムートが電撃を放った>",
+      "CN": "<3秒，巴哈姆特施展电(跳上栏杆)>",
+      "KR": "< 바하뭇, 전격 마법 발사 >",
+      "TW": "< 巴哈姆特釋出電擊 >"
+    }
   },
   "< BAHAMUT CASTED FIRE >": {
-    "translation": "<3秒，巴哈姆特施展火(快后退)>"
+    "translation": "<3秒，巴哈姆特施展火(快后退)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<BAHAMUTが炎を放った>",
+      "CN": "<3秒，巴哈姆特施展火(快后退)>",
+      "KR": "< BAHAMUT 발사한 불꽃>",
+      "TW": "<巴哈姆特施放火焰>"
+    }
   },
   "< BAHAMUT CASTED GRAVITY >": {
-    "translation": "<3秒，巴哈姆特施展黑洞(按S抵抗)>"
+    "translation": "<3秒，巴哈姆特施展黑洞(按S抵抗)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<BAHAMUTが重力を発動>",
+      "CN": "<3秒，巴哈姆特施展黑洞(按S抵抗)>",
+      "KR": "< BAHAMUT 투영 발사>",
+      "TW": "<巴哈姆特施加重力>"
+    }
   },
   "< BAHAMUT CASTED HEAL >": {
-    "translation": "<3秒，巴哈姆特施展治疗(回复3格血)>"
+    "translation": "<3秒，巴哈姆特施展治疗(回复3格血)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バーハムートが癒しの魔法を唱えた>",
+      "CN": "<3秒，巴哈姆特施展治疗(回复3格血)>",
+      "KR": "< 바하뭇 치유 시전 >",
+      "TW": "< 巴哈姆特施法治療 >"
+    }
   },
   "< BAHAMUT CASTED ICE >": {
-    "translation": "<3秒，巴哈姆特施展冰(往前走，别站最后)>"
+    "translation": "<3秒，巴哈姆特施展冰(往前走，别站最后)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<BAHAMUTが氷を召喚>",
+      "CN": "<3秒，巴哈姆特施展冰(往前走，别站最后)>",
+      "KR": "< 바하뭇 얼음 마법 발동 >",
+      "TW": "<巴哈姆特施冰>"
+    }
   },
   "< BAHAMUT CASTED ULTIMA >": {
-    "translation": "<20秒，巴哈姆特施展终极(爆炸时在治疗里抵抗)>"
+    "translation": "<20秒，巴哈姆特施展终极(爆炸时在治疗里抵抗)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハマートがULTIMAを詠唱した>",
+      "CN": "<20秒，巴哈姆特施展终极(爆炸时在治疗里抵抗)>",
+      "KR": "< 바하마트가 궁극 마법을 시전함 >",
+      "TW": "< 巴哈姆特施法終極 >"
+    }
   },
   "< BAHAMUT CASTED WIND >": {
-    "translation": "<3秒，巴哈姆特施展风(按W抵抗)>"
+    "translation": "<3秒，巴哈姆特施展风(按W抵抗)>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< BAHAMUT 詠風 >",
+      "CN": "<3秒，巴哈姆特施展风(按W抵抗)>",
+      "KR": "< 바하뭇 바람 마법 시전 >",
+      "TW": "<巴哈姆特施風>"
+    }
   },
   "< BAHAMUT MIMICS AQUA >": {
-    "translation": "<巴哈姆特模仿水>"
+    "translation": "<巴哈姆特模仿水>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハマートはアクアを模倣する>",
+      "CN": "<巴哈姆特模仿水>",
+      "KR": "< 바하뭇은 아쿠아를 모방한다 >",
+      "TW": "<巴哈穆特模仿阿콰>"
+    }
   },
   "< BAHAMUT MIMICS BARRIER >": {
-    "translation": "<巴哈姆特模仿护盾>"
+    "translation": "<巴哈姆特模仿护盾>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハムートがバリアを模倣する>",
+      "CN": "<巴哈姆特模仿护盾>",
+      "KR": "<바하뭇, 장벽 모방>",
+      "TW": "<巴哈姆特模仿屏障>"
+    }
   },
   "< BAHAMUT MIMICS BIO >": {
-    "translation": "<巴哈姆特模仿毒>"
+    "translation": "<巴哈姆特模仿毒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハムートがバイオを模倣する>",
+      "CN": "<巴哈姆特模仿毒>",
+      "KR": "< 바하뭇, 생명체 모방 >",
+      "TW": "< 巴哈姆特模擬生物 >"
+    }
   },
   "< BAHAMUT MIMICS EARTH >": {
-    "translation": "<巴哈姆特模仿土>"
+    "translation": "<巴哈姆特模仿土>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハマートが地球を模倣する>",
+      "CN": "<巴哈姆特模仿土>",
+      "KR": "<바하뭇은 지구를 모방한다>",
+      "TW": "<巴哈穆特模擬地球>"
+    }
   },
   "< BAHAMUT MIMICS ELECTRO >": {
-    "translation": "<巴哈姆特模仿电>"
+    "translation": "<巴哈姆特模仿电>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハマートがエレクトを模倣>",
+      "CN": "<巴哈姆特模仿电>",
+      "KR": "< 바하뭇, 전자기 복제>",
+      "TW": "< 巴哈姆特模仿電卓 >"
+    }
   },
   "< BAHAMUT MIMICS FAILS >": {
-    "translation": "<巴哈姆特模仿失败>"
+    "translation": "<巴哈姆特模仿失败>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハムートの模倣に失敗>",
+      "CN": "<巴哈姆特模仿失败>",
+      "KR": "<바하마트 모방 실패>",
+      "TW": "<巴哈穆特模仿失敗>"
+    }
   },
   "< BAHAMUT MIMICS FIRE >": {
-    "translation": "<巴哈姆特模仿火>"
+    "translation": "<巴哈姆特模仿火>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハマートが火を模倣する>",
+      "CN": "<巴哈姆特模仿火>",
+      "KR": "< BAHAMUT이 불을 모방한다>",
+      "TW": "< 巴哈姆特模仿火焰 >"
+    }
   },
   "< BAHAMUT MIMICS GRAVITY >": {
-    "translation": "<巴哈姆特模仿黑洞>"
+    "translation": "<巴哈姆特模仿黑洞>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<BAHAMUTが重力を模倣する>",
+      "CN": "<巴哈姆特模仿黑洞>",
+      "KR": "< BAHAMUT이 중력을 모방한다>",
+      "TW": "<巴哈姆特模仿重力>"
+    }
   },
   "< BAHAMUT MIMICS HEAL >": {
-    "translation": "<巴哈姆特模仿治疗>"
+    "translation": "<巴哈姆特模仿治疗>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バルハムトが癒しを模倣>",
+      "CN": "<巴哈姆特模仿治疗>",
+      "KR": "<바하뭇 치유 모방>",
+      "TW": "<巴哈穆特模擬治療>"
+    }
   },
   "< BAHAMUT MIMICS ICE >": {
-    "translation": "<巴哈姆特模仿冰>"
+    "translation": "<巴哈姆特模仿冰>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハマートは氷を模倣する>",
+      "CN": "<巴哈姆特模仿冰>",
+      "KR": "<바하뭇, 얼음 모방>",
+      "TW": "<巴哈姆特模擬冰>"
+    }
   },
   "< BAHAMUT MIMICS ULTIMA >": {
-    "translation": "<巴哈姆特模仿终极>"
+    "translation": "<巴哈姆特模仿终极>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハムートがウルトマを模倣>",
+      "CN": "<巴哈姆特模仿终极>",
+      "KR": "< 바하뭇, 울티마를 모방>",
+      "TW": "< 巴哈姆特效仿終極 >"
+    }
   },
   "< BAHAMUT MIMICS WIND >": {
-    "translation": "<巴哈姆特模仿风>"
+    "translation": "<巴哈姆特模仿风>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<バハムートは風を模倣する>",
+      "CN": "<巴哈姆特模仿风>",
+      "KR": "<바하뭇, 바람을 모방한다>",
+      "TW": "< 巴哈姆特模仿風 >"
+    }
   },
   "< BLAST DOORS OPEN IN 40 SECONDS >": {
-    "translation": "<爆炸门将在40秒后打开>"
+    "translation": "<爆炸门将在40秒后打开>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<40秒後に扉が開門します>",
+      "CN": "<爆炸门将在40秒后打开>",
+      "KR": "< 폭탄 문이 40초 후에 열립니다 >",
+      "TW": "<門扉爆裂，倒計時 40 秒>"
+    }
   },
   "< BLAST DOORS OPEN IN 5 SECONDS >": {
-    "translation": "<爆炸门将在5秒后打开>"
+    "translation": "<爆炸门将在5秒后打开>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ドアが5秒後に爆発します >",
+      "CN": "<爆炸门将在5秒后打开>",
+      "KR": "< 문이 곧 열립니다 (5초) >",
+      "TW": "<門扉將在5秒後爆開>"
+    }
   },
   "< CARGO LIFT STARTS IN 5 SECONDS >": {
     "translation": "<货运电梯将在5秒后启动>",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "<貨物リフト開始まで5秒>",
+      "CN": "<货运电梯将在5秒后启动>",
+      "KR": "< 화물 엘리베이터 시작까지 5초 >",
+      "TW": "<貨物提升器將在5秒後啟動>"
+    }
   },
   "< Dodge this! >": {
-    "translation": "<快闪开！>"
+    "translation": "<快闪开！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<回避せよ！>",
+      "CN": "<快闪开！>",
+      "KR": "< 회피해! >",
+      "TW": "<躲過這一下！>"
+    }
   },
   "< Fly! >": {
-    "translation": "<起飞吧！>"
+    "translation": "<起飞吧！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<飛び出せ！>",
+      "CN": "<起飞吧！>",
+      "KR": "< 날아라! >",
+      "TW": "< 飛！ >"
+    }
   },
   "< Hmm... I was expecting more... >": {
-    "translation": "<嗯……我原以为会更好……>"
+    "translation": "<嗯……我原以为会更好……>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< うーん…もっと期待してたんだ… >",
+      "CN": "<嗯……我原以为会更好……>",
+      "KR": "< 흠... 더 기대했는데... >",
+      "TW": "< 嗯... 我原本以為會更好呢... >"
+    }
   },
   "< Hmm... Pitiful fool. >": {
-    "translation": "<嗯……可怜的傻瓜。>"
+    "translation": "<嗯……可怜的傻瓜。>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<哀れなバカ者だ…>",
+      "CN": "<嗯……可怜的傻瓜。>",
+      "KR": "< 맙소사... 참으로 어리석은 녀석. >",
+      "TW": "<真是個可憐的蠢蛋。>"
+    }
   },
   "< I understand that you've been looking for me. >": {
-    "translation": "<我知道你一直在找我。>"
+    "translation": "<我知道你一直在找我。>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<探していたんだね、分かってる。",
+      "CN": "<我知道你一直在找我。>",
+      "KR": "<나를 찾고 있었군요.>",
+      "TW": "<我知道你一直在找我。>"
+    }
   },
   "< I'll see you again. >": {
-    "translation": "<我们还会再见面的。>"
+    "translation": "<我们还会再见面的。>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<またね。>",
+      "CN": "<我们还会再见面的。>",
+      "KR": "<다음에 또 봐.",
+      "TW": "<再見了。>"
+    }
   },
   "< I've been... Defeated? >": {
-    "translation": "<我被……击败了？>"
+    "translation": "<我被……击败了？>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<敗北…？>",
+      "CN": "<我被……击败了？>",
+      "KR": "<패배했어...?>",
+      "TW": "<我...被打敗了？>"
+    }
   },
   "< Impressive! >": {
-    "translation": "<真是令人惊叹！>"
+    "translation": "<真是令人惊叹！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<素晴らしい！>",
+      "CN": "<真是令人惊叹！>",
+      "KR": "<굉장하다!>",
+      "TW": "<令人印象深刻！>"
+    }
   },
   "< Only the chosen may survive! >": {
-    "translation": "<只有被选中的人才能生存！>"
+    "translation": "<只有被选中的人才能生存！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<選ばれた者のみが生き残れる！>",
+      "CN": "<只有被选中的人才能生存！>",
+      "KR": "< 선택된 자만이 살아남을 것이다! >",
+      "TW": "<唯選中的人才能倖存！>"
+    }
   },
   "< Say goodbye! >": {
-    "translation": "<说再见吧！>"
+    "translation": "<说再见吧！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<さようなら！>",
+      "CN": "<说再见吧！>",
+      "KR": "<안녕히 가세요!>",
+      "TW": "<再見啦！>"
+    }
   },
   "< Seems I do not have to hold back. >": {
-    "translation": "<看来我不需要留手了。>"
+    "translation": "<看来我不需要留手了。>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ああ、もう抑えなくてもいいのか。>",
+      "CN": "<看来我不需要留手了。>",
+      "KR": "",
+      "TW": "< 顯然我不需要收斂。>"
+    }
   },
   "< Slow! >": {
-    "translation": "<太慢了！>"
+    "translation": "<太慢了！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<遅い！>",
+      "CN": "<太慢了！>",
+      "KR": "<느리다!>",
+      "TW": "<慢點！>"
+    }
   },
   "< Solitude isn't heroism. >": {
-    "translation": "<孤独不是英雄主义。>"
+    "translation": "<孤独不是英雄主义。>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<孤独は英雄行為ではない。>",
+      "CN": "<孤独不是英雄主义。>",
+      "KR": "<고독은 영웅이 아니다.>",
+      "TW": "<孤獨不是英雄主義。>"
+    }
   },
   "< TRY TO SURVIVE IN THE CITY AREA >": {
-    "translation": "<尝试在城市区域生存>"
+    "translation": "<尝试在城市区域生存>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<街のエリアで生き残るんだ>",
+      "CN": "<尝试在城市区域生存>",
+      "KR": "<도시 지역에서 생존을 시도해 보세요>",
+      "TW": "<試著在城市區域生存>"
+    }
   },
   "< Too late for laments! >": {
-    "translation": "<后悔太迟了！>"
+    "translation": "<后悔太迟了！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<もう嘆いても遅い！>",
+      "CN": "<后悔太迟了！>",
+      "KR": "< 너무 늦었어! >",
+      "TW": "<太遲了，別再哀嘆！>"
+    }
   },
   "< Ugh... Defeated... >": {
-    "translation": "<呃……被击败了……>"
+    "translation": "<呃……被击败了……>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<くっ.....敗北した……>",
+      "CN": "<呃……被击败了……>",
+      "KR": "< 으악... 패배했어... >",
+      "TW": "<噢...被打敗了...>"
+    }
   },
   "< ZOMBIE MODE >": {
-    "translation": "<僵尸感染>"
+    "translation": "<僵尸感染>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<モード：ゾンビ>",
+      "CN": "<僵尸感染>",
+      "KR": "< 좀비 모드 >",
+      "TW": "< 殭屍模式 >"
+    }
   },
   "<<< EASY >>>": {
-    "translation": "<<<简单>>>"
+    "translation": "<<<简单>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<<EASY>>",
+      "CN": "<<< 简单 >>>",
+      "KR": "<<< EASY >>>",
+      "TW": "<<< 簡單模式 >>>"
+    }
   },
   "<<< EXTREME >>>": {
-    "translation": "<<<极限>>>"
+    "translation": "<<<极限>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 最高難度 >>>",
+      "CN": "<<< 极端 >>>",
+      "KR": "<<< 극한 >>>",
+      "TW": "<<< 極限 >>>"
+    }
   },
   "<<< HARD >>>": {
-    "translation": "<<<困难>>>"
+    "translation": "<<<困难>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 困難 >>>",
+      "CN": "<<< 困难 >>>",
+      "KR": "<<< 어려움 >>>",
+      "TW": "<<< 困難 >>>"
+    }
   },
   "<<< INSANE >>>": {
-    "translation": "<<<疯狂>>>"
+    "translation": "<<<疯狂>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 地獄級 >>>",
+      "CN": "<<< 疯狂 >>>",
+      "KR": "<<< 광기 >>>",
+      "TW": "<<< 瘋狂 >>>"
+    }
   },
   "<<< NORMAL >>>": {
-    "translation": "<<<普通>>>"
+    "translation": "<<<普通>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 普通 >>>",
+      "CN": "<<< 普通 >>>",
+      "KR": "<<< 보통 >>>",
+      "TW": "<<< 普通 >>>"
+    }
   },
   "ELEVATOR DOORS: 5 SECONDS": {
-    "translation": "电梯门：5秒"
+    "translation": "电梯门：5秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター扉：5秒",
+      "CN": "电梯门：5秒",
+      "KR": "승강기 문: 5초",
+      "TW": "電梯門：5秒"
+    }
   },
   "ELEVATOR LEAVING: 10 SECONDS": {
-    "translation": "电梯离开：10秒"
+    "translation": "电梯离开：10秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター発車：10秒",
+      "CN": "电梯离开：10秒",
+      "KR": "승강기 출발: 10초",
+      "TW": "電梯離開：10秒"
+    }
   },
   "FINAL DOORS: 35 SECONDS": {
-    "translation": "最后的门：35秒"
+    "translation": "最后的门：35秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終扉：35秒",
+      "CN": "最终门：35秒",
+      "KR": "최종 문: 35초",
+      "TW": "最後一道門：35秒"
+    }
   },
   "MANUAL OVERRIDE: 10 SECONDS": {
-    "translation": "MANUAL OVERRIDE：10秒"
+    "translation": "MANUAL OVERRIDE：10秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "手動オーバーライド：10秒",
+      "CN": "手动覆盖：10秒",
+      "KR": "수동 덮개: 10초",
+      "TW": "手動覆蓋：10秒"
+    }
   },
   "MANUAL OVERRIDE: 5 SECONDS": {
-    "translation": "MANUAL OVERRIDE：5秒"
+    "translation": "MANUAL OVERRIDE：5秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "マニュアルオーバーライド: 5秒",
+      "CN": "手动覆盖：5秒",
+      "KR": "수동 오버라이드: 5초",
+      "TW": "手動覆蓋：5秒"
+    }
   },
   "zm fix stripper loaded": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "zm ストリッパーMOD読み込み完了",
+      "CN": "zm 修复脱衣器已加载",
+      "KR": "zm 정격 스트리퍼 로드됨",
+      "TW": "已載入修正作弊模組"
+    }
+  },
+  "stripper loaded": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストリッパーが読み込まれました",
+      "CN": "已加载脱衣者",
+      "KR": "스트리퍼 로드됨",
+      "TW": "已載入除衫機"
+    }
   }
 }

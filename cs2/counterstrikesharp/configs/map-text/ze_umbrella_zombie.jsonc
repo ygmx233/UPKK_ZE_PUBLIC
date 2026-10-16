@@ -1,0 +1,1142 @@
+{
+  "Map Created By : Platin": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作者：Platin",
+      "CN": "地图制作者：Platin",
+      "KR": "맵 제작자 : Platin",
+      "TW": "地圖製作人：Platin"
+    }
+  },
+  "Test Servers : Mapeadores | GFL": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "テストサーバー：Mapeadores | GFL",
+      "CN": "测试服务器：Mapeadores | GFL",
+      "KR": "테스트 서버 : Mapeadores | GFL",
+      "TW": "測試伺服器：Mapeadores | GFL"
+    }
+  },
+  "### LEVEL 1/3 ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### レベル 1/3 ###",
+      "CN": "### 等级 1/3 ###",
+      "KR": "### 레벨 1/3 ###",
+      "TW": "### 等級 1/3 ###"
+    }
+  },
+  "*** EVACUATION PROTOCOL HAS BEEN INITIATED !!! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 避難プロトコルが起動されました！***",
+      "CN": "*** 已启动疏散协议！！！***",
+      "KR": "*** 대피 절차가 시작되었습니다 !!! ***",
+      "TW": "*** 疏散協議已啟動！！！ ***"
+    }
+  },
+  "*** SECURITY DOORS WILL OPEN IN 25 SECONDS ! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒後にセキュリティドアが開きます！***",
+      "CN": "*** 安全门将在25秒后开启！***",
+      "KR": "*** 보안 문이 25초 후에 열립니다 ! ***",
+      "TW": "*** 安全門將在 25 秒後開啟！ ***"
+    }
+  },
+  "OPENING THE DOOR": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアを開ける",
+      "CN": "正在开门",
+      "KR": "문 열기",
+      "TW": "正在開啟安全門"
+    }
+  },
+  "The security door will open in 30 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にセキュリティドアが開きます",
+      "CN": "安全门将在30秒后开启",
+      "KR": "보안 문이 30초 후에 열립니다",
+      "TW": "安全門將在 30 秒後開啟"
+    }
+  },
+  "Zombie teleport 10 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビテレポート開始から10秒",
+      "CN": "僵尸传送倒计时10秒",
+      "KR": "좀비 텔레포트 10초",
+      "TW": "殭屍傳送倒數 10 秒"
+    }
+  },
+  "Press the security button and go to the exit": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "セキュリティボタンを押して出口へ向かう",
+      "CN": "按下安全按钮并前往出口",
+      "KR": "보안 버튼을 누르고 출구로 이동하세요",
+      "TW": "按下心跳按鈕並前往出口"
+    }
+  },
+  "Control Panel: Security door opens! 5 sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理パネル：セキュリティドアが5秒後に開きます",
+      "CN": "控制面板：安全门将在5秒后打开",
+      "KR": "제어 패널: 보안 문이 열립니다! 5초",
+      "TW": "控制面板：安全門已開啟！5秒後關閉"
+    }
+  },
+  "PRESS THE BUTTON TO OPEN THE SECURITY DOOR": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタンを押してセキュリティドアを開ける",
+      "CN": "按下按钮以打开安全门",
+      "KR": "보안 문을 열려면 버튼을 누르세요",
+      "TW": "按壓按鈕以開啟安全門"
+    }
+  },
+  "Control Panel: Security door opens! 25 sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理パネル：セキュリティドアが25秒後に開きます",
+      "CN": "控制面板：安全门将在25秒后打开",
+      "KR": "제어 패널: 보안 문이 열립니다! 25초",
+      "TW": "控制面板：安全門已開啟！25秒後關閉"
+    }
+  },
+  "Defend all 3 rooms": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "3つの部屋を全て防衛せよ",
+      "CN": "防守全部3个房间",
+      "KR": "모든 3개의 방을 방어하세요",
+      "TW": "防守所有3個房間"
+    }
+  },
+  "The EXIT 1-2  doors will open in 30 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "EXIT 1-2のドアが30秒後に開きます",
+      "CN": "1-2号出口门将在30秒后打开",
+      "KR": "EXIT 1-2 문이 30초 후에 열립니다",
+      "TW": "1-2號出口門將在30秒後開啟"
+    }
+  },
+  "The EXIT 3  door will open in 15 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "EXIT 3のドアが15秒後に開きます",
+      "CN": "3号出口门将在15秒后打开",
+      "KR": "EXIT 3 문이 15초 후에 열립니다",
+      "TW": "3號出口門將在15秒後開啟"
+    }
+  },
+  "The EXIT 3  door will opening GO!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "EXIT 3のドアが開くぞ！いけ！",
+      "CN": "3号出口门即将开启 GO!",
+      "KR": "EXIT 3 문이 열립니다 GO!",
+      "TW": "3號出口門即將開啟 GO！"
+    }
+  },
+  "The EXIT 1-2  door will opening GO!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "EXIT 1-2 の扉が開く！",
+      "CN": "出口 1-2 门即将开启！快跑！",
+      "KR": "EXIT 1-2 문이 열리는 동안 이동 GO!",
+      "TW": "EXIT 1-2 出口即將開啟，快衝！"
+    }
+  },
+  "AFK TP 10 SEC !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFK TP 10秒後！",
+      "CN": "挂机传送 10 秒后触发！",
+      "KR": "오토행 TP 10초",
+      "TW": "離線傳送：10 秒後！"
+    }
+  },
+  "FINAL GATE CLOSES IN 30 SECONDS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終ゲートが30秒後に閉じる",
+      "CN": "最终闸门将在 30 秒后关闭",
+      "KR": "최종 관문 30초 후 닫힘",
+      "TW": "最終柵欄 30 秒後關閉"
+    }
+  },
+  "10 SECONDS LATER THE DOOR CLOSES, RUN": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後、扉が閉まる。走れ！",
+      "CN": "10 秒后门将关闭，快跑！",
+      "KR": "10초 후 문이 닫힙니다. 빠르게 이동하세요",
+      "TW": "門將在 10 秒後關閉，快跑！"
+    }
+  },
+  "BOMBS ARE DETONED !!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "爆発物 detonated ！！！",
+      "CN": "炸弹已引爆！！！",
+      "KR": "폭발물 투하!!!",
+      "TW": "炸彈引爆中！！！"
+    }
+  },
+  "HUMAN WIN !!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "人間の勝利！！！",
+      "CN": "人类胜利！！！",
+      "KR": "인간 승리!!!",
+      "TW": "人類獲勝！！！"
+    }
+  },
+  "### LEVEL 2/3 ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### レベル 2/3 ###",
+      "CN": "### 第 2/3 层 ###",
+      "KR": "### 레벨 2/3 ###",
+      "TW": "### 第 2/3 關 ###"
+    }
+  },
+  "*** The door will open in 30 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉が30秒後に開きます ***",
+      "CN": "*** 门将在 30 秒后开启 ***",
+      "KR": "*** 30초 후 문이 열립니다 ***",
+      "TW": "*** 門將在30秒後開啟 ***"
+    }
+  },
+  "*** ZOMBIE TELEPORT 10 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビテレポート 10秒後 ***",
+      "CN": "*** 僵尸传送 10 秒 ***",
+      "KR": "*** 좀비 테레포트 10초 ***",
+      "TW": "*** 殭屍傳送 10 秒後 ***"
+    }
+  },
+  "*** THE DOOR OPENING ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開く ***",
+      "CN": "*** 门已打开 ***",
+      "KR": "*** 문 열리는 중 ***",
+      "TW": "*** 門開啟中 ***"
+    }
+  },
+  "*** 30 seconds left for the wall to break ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 壁崩壊まで残り30秒 ***",
+      "CN": "*** 墙体破碎倒计时 30 秒 ***",
+      "KR": "*** 벽이 무너지기 30초 남음 ***",
+      "TW": "*** 牆壁即將崩毀，剩餘 30 秒 ***"
+    }
+  },
+  "ZOMBIE SHORT WAY OPEN 5 SEC !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ゾンブの近道5秒後開放！*",
+      "CN": "僵尸捷径开启 5 秒！",
+      "KR": "좀비 경로 개방 5초!",
+      "TW": "*** 殭屍近路開啟，剩餘 5 秒！***"
+    }
+  },
+  "*** WALL IS BREAK, LETS GOO ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 壁が崩れた、行こう ***",
+      "CN": "*** 墙体已破碎，快走 ***",
+      "KR": "*** 벽이 무너졌다, 가자! ***",
+      "TW": "*** 牆壁已破，我們上 ***"
+    }
+  },
+  "*** defend to 30 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒間防衛 ***",
+      "CN": "*** 坚守 30 秒 ***",
+      "KR": "*** 30초 방어하기 ***",
+      "TW": "*** 防禦至剩餘 30 秒 ***"
+    }
+  },
+  "*** ZOMBIE TELEPORT 10 SECONDS, GO BACK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビテレポート10秒後、戻れ ***",
+      "CN": "*** 僵尸传送倒计时 10 秒，退回原位 ***",
+      "KR": "*** 좀비 테레포트 10초, 돌아오자 ***",
+      "TW": "*** 殭屍傳送剩餘 10 秒，請後撤 ***"
+    }
+  },
+  "*** barrier opened go go ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 壁が開いた、行け！***",
+      "CN": "*** 屏障已开启，冲啊！***",
+      "KR": "*** 방벽이 열렸으니 가자! ***",
+      "TW": "*** 屏障已開啟，加油 ***"
+    }
+  },
+  "*** DONT DEFENDS, RUN RUN ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 防御しないで、逃げろ！ ***",
+      "CN": "*** 别防守，快跑 ***",
+      "KR": "*** 방어하지 말고 도망치세요, 빨리 달리세요 ***",
+      "TW": "*** 別防守，快跑！ ***"
+    }
+  },
+  "*** PRESS THE DOOR OPEN BUTTON ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア開閉ボタンを押せ！ ***",
+      "CN": "*** 按开门键 ***",
+      "KR": "*** 문을 여는 버튼을 누르세요 ***",
+      "TW": "*** 按開門按鈕 ***"
+    }
+  },
+  "*** defend door to 20 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒間、ドアを守れ！ ***",
+      "CN": "*** 防守门20秒 ***",
+      "KR": "*** 20초 동안 문을 방어하세요 ***",
+      "TW": "*** 防禦大門至第 20 秒 ***"
+    }
+  },
+  "*** door opening go go ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開いたぞ、行け！ ***",
+      "CN": "*** 开门快跑 ***",
+      "KR": "*** 문이 열리면 빨리 나가세요 ***",
+      "TW": "*** 門開了，快衝 ***"
+    }
+  },
+  "*** ZOMBIE TELEPORT 5 SECONDS, GO BACK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが瞬間移動して5秒後に戻ってくる！ ***",
+      "CN": "*** 僵尸传送，5秒后返回***",
+      "KR": "*** 좀비가 5초 뒤 순간이동하고 돌아옵니다 ***",
+      "TW": "*** 殭屍傳送功能剩 5 秒，請回去 ***"
+    }
+  },
+  "*** RUN RUN ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 逃げろ！ ***",
+      "CN": "*** 快跑 ***",
+      "KR": "*** 빨리 도망치세요 ***",
+      "TW": "*** 快跑！ ***"
+    }
+  },
+  "*** The elevator will move in 25 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが25秒後に作動します ***",
+      "CN": "*** 电梯将在25秒后运行***",
+      "KR": "*** 엘리베이터가 25초 후에 움직입니다 ***",
+      "TW": "*** 電梯將在 25 秒後移動 ***"
+    }
+  },
+  "*** LAST 5 SEC ! GO BACK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り5秒！ 戻れ！ ***",
+      "CN": "*** 仅剩5秒！快回去 ***",
+      "KR": "*** 5초 남음! 돌아오세요 ***",
+      "TW": "*** 只剩 5 秒！請回去！ ***"
+    }
+  },
+  "*** The Elevator moving, GO BACK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが作動中、戻る ***",
+      "CN": "*** 电梯正在运行，请退后 ***",
+      "KR": "*** 엘리베이터 이동 중, 되돌아가세요 ***",
+      "TW": "*** 電梯移動中，請返回 ***"
+    }
+  },
+  "Zombie Tp 10 SEC!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 10秒後！",
+      "CN": "僵尸传送：10秒！",
+      "KR": "좀비 TP 10초!",
+      "TW": "殭屍傳送剩10秒！"
+    }
+  },
+  "*** defend door to 40 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア防衛完了まで40秒 ***",
+      "CN": "*** 防守城门至40秒 ***",
+      "KR": "*** 문 방어 40초 지속 ***",
+      "TW": "*** 守衛門至40秒 ***"
+    }
+  },
+  "*** THE LASER DOOR OPENING ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザー扉開く ***",
+      "CN": "*** 激光门开启中 ***",
+      "KR": "*** 레이저 문 열림 ***",
+      "TW": "*** 激光門開啟中 ***"
+    }
+  },
+  "*** DEFEND ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 防衛 ***",
+      "CN": "*** 防守 ***",
+      "KR": "*** 방어 ***",
+      "TW": "*** 防禦中 ***"
+    }
+  },
+  "*** THE DOOR CLOSING ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉閉まる ***",
+      "CN": "*** 门正在关闭 ***",
+      "KR": "*** 문 닫힘 ***",
+      "TW": "*** 門關閉中 ***"
+    }
+  },
+  "*** LASER ACTIVATED ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザー作動 ***",
+      "CN": "*** 激光已激活 ***",
+      "KR": "*** 레이저 가동 ***",
+      "TW": "*** 激光已啟動 ***"
+    }
+  },
+  "*** LASER RETURN ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザー復帰 ***",
+      "CN": "*** 激光复位 ***",
+      "KR": "*** 레이저 리턴 ***",
+      "TW": "*** 激光重置中 ***"
+    }
+  },
+  "*** DOOR OPENING ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア開 ***",
+      "CN": "*** 门开启中 ***",
+      "KR": "*** 문 열림 ***",
+      "TW": "*** 門開啟中 ***"
+    }
+  },
+  "*** PRESS TO BUTTON ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ボタンを押す ***",
+      "CN": "*** 按按钮 ***",
+      "KR": "*** 버튼 누르기 ***",
+      "TW": "*** 按按鈕 ***"
+    }
+  },
+  "*** FINAL DOOR CLOSES IN TO 20 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後のドアが20秒後に閉まります ***",
+      "CN": "*** 最后一扇门将关闭，剩余20秒 ***",
+      "KR": "*** 최종 문 20초 후 닫힘 ***",
+      "TW": "*** 最後一道門將在 20 秒後關閉 ***"
+    }
+  },
+  "*** LAST 5 SEC ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り5秒 ***",
+      "CN": "*** 最后5秒 ***",
+      "KR": "*** 마지막 5초 ***",
+      "TW": "*** 剩餘 5 秒 ***"
+    }
+  },
+  "### LEVEL 3/3 ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### レベル3/3 ###",
+      "CN": "### 第3关/共3关 ###",
+      "KR": "### 레벨 3/3 ###",
+      "TW": "### 關卡 3/3 ###"
+    }
+  },
+  "The ventilation fan is damaged. It opens at regular intervals.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "換気ファンが損傷しています。一定間隔で開きます。",
+      "CN": "通风扇已损坏。它将定期开启。",
+      "KR": "환풍기가 손상되었습니다. 일정 간격으로 열립니다.",
+      "TW": "通風扇損壞。它會定期開啟。"
+    }
+  },
+  "Use objects as cover to advance.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "遮蔽物を利用して進みます。",
+      "CN": "利用物体作为掩护前进。",
+      "KR": "물체를 가려막기로 사용하여 진격하세요.",
+      "TW": "利用物體作為掩護向前推進。"
+    }
+  },
+  "The electrical unit is overloaded.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電気ユニットが過負荷です。",
+      "CN": "电力系统过载。",
+      "KR": "전기 유닛에 과부하가 발생했습니다.",
+      "TW": "電力單元過載。"
+    }
+  },
+  "The system is restarting.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "システムを再起動しています。",
+      "CN": "系统正在重启。",
+      "KR": "시스템을 재시작합니다.",
+      "TW": "系統正在重新啟動。"
+    }
+  },
+  "The ventilation barrier will open in 30 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "換気バリアは30秒後に解放されます。",
+      "CN": "通风屏障将在30秒后打开。",
+      "KR": "30초 후 환기 장벽이 열립니다.",
+      "TW": "通風屏障將在 30 秒後開啟。"
+    }
+  },
+  "Last 10 sec!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒！",
+      "CN": "剩余10秒！",
+      "KR": "마지막 10초!",
+      "TW": "剩最後 10 秒！"
+    }
+  },
+  "Last 5 sec! READY!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒！ 準備OK！",
+      "CN": "最后5秒！准备！！",
+      "KR": "마지막 5초! 준비!",
+      "TW": "剩最後 5 秒！準備好了！！"
+    }
+  },
+  "Open GO! Dont behind.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "解放開始！後方に注意。",
+      "CN": "开GO！别落后。",
+      "KR": "열림! 뒤로 가지 마세요.",
+      "TW": "打開 GO！別在後面。"
+    }
+  },
+  "ZM TP 10 SEC !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZM TP 10秒！",
+      "CN": "ZM传送门10秒！",
+      "KR": "ZM TP 10초!",
+      "TW": "ZM TP 10 秒後開啟！"
+    }
+  },
+  "The door will open in 30 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は30秒後に開きます。",
+      "CN": "门将在30秒后打开。",
+      "KR": "30초 후 문이 열립니다.",
+      "TW": "門將在 30 秒後開啟。"
+    }
+  },
+  "* MINE GUN - 8 slot / 10 sec cooldown *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* MINE GUN - スロット8 / クールダウン10秒 *",
+      "CN": "* 地雷枪 - 8槽位 / 10秒冷却时间 *",
+      "KR": "* 광산 총기 - 8슬롯 / 쿨다운 10초 *",
+      "TW": "* 地雷槍 - 8 個彈槽 / 10 秒冷卻時間 *"
+    }
+  },
+  "Last 10 sec !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒！",
+      "CN": "最后10秒！",
+      "KR": "마지막 10초!",
+      "TW": "最後 10 秒！"
+    }
+  },
+  "Door Open ! GO BACK !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉開く！ 戻れ！",
+      "CN": "门已开启！快回去！",
+      "KR": "문 열림! 돌아오세요!",
+      "TW": "門已開啟！請退回！"
+    }
+  },
+  "Zombie TP 10 SEC !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 10秒後！",
+      "CN": "僵尸传送10秒后开始！",
+      "KR": "좀비 TP 10초!",
+      "TW": "殭屍傳送 10 秒後發生！"
+    }
+  },
+  "Last 10 sec! ready !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒！ 準備しろ！",
+      "CN": "最后10秒！准备！",
+      "KR": "마지막 10초! 준비!",
+      "TW": "倒數 10 秒！準備好！"
+    }
+  },
+  "The elevator will close in 10 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは10秒後に閉じます。",
+      "CN": "电梯将在10秒后关闭。",
+      "KR": "엘리베이터가 10초 후 닫힙니다.",
+      "TW": "電梯將在 10 秒後關閉。"
+    }
+  },
+  "Zombie TP 5 sec !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 5秒後！",
+      "CN": "僵尸传送5秒后开始！",
+      "KR": "좀비 TP 5초!",
+      "TW": "殭屍傳送 5 秒後發生！"
+    }
+  },
+  "The boss door will open in 30 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスの扉は30秒後に開きます。",
+      "CN": "Boss门将在30秒后开启。",
+      "KR": "보스 문이 30초 후 열립니다.",
+      "TW": "Boss 房門將在 30 秒後開啟。"
+    }
+  },
+  "Last 10 sec ! go back !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒！ 戻れ！",
+      "CN": "最后10秒！快回去！",
+      "KR": "마지막 10초! 돌아오세요!",
+      "TW": "倒數 10 秒！請退回！"
+    }
+  },
+  "Door Open ! GO": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開く！ GO",
+      "CN": "开门！前进",
+      "KR": "문 열림! 진출",
+      "TW": "門已開啟！前進"
+    }
+  },
+  "Door Closes 5 sec !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒で閉まる！",
+      "CN": "门将在5秒后关闭！",
+      "KR": "문 5초 후 닫힘!",
+      "TW": "5秒後關門！"
+    }
+  },
+  "** BOSS COMINGG **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボス登場 **",
+      "CN": "** BOSS即将出现 **",
+      "KR": "** 보스 등장 **",
+      "TW": "** BOSS 即將到達 **"
+    }
+  },
+  "Laser Activated !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザー作動！",
+      "CN": "激光已激活！",
+      "KR": "레이저 활성화!",
+      "TW": "雷射裝置已啟動！"
+    }
+  },
+  "Where is the boss ?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスの位置は？",
+      "CN": "BOSS在哪里？",
+      "KR": "보스는 어디 있지?",
+      "TW": "BOSS 在哪裡？"
+    }
+  },
+  "OH noo I went blind !!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "おっと、目が見えなくなっちゃった！！",
+      "CN": "啊不，我瞎了！！",
+      "KR": "악! 눈이 안 보여!!",
+      "TW": "天啊！我瞎了！"
+    }
+  },
+  "* T-VIRUS pickup *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* T-ウイルス 回収 *",
+      "CN": "* 拾取T病毒 *",
+      "KR": "* T-바이러스 수거 *",
+      "TW": "* 取得 T 病毒 *"
+    }
+  },
+  "BOSS OVER !!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス討伐完了！！",
+      "CN": "BOSS已击杀！！",
+      "KR": "보스 전투 종료!!",
+      "TW": "BOSS 已擊敗！"
+    }
+  },
+  "ZM TP 5 SEC!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZM TP 5秒後！",
+      "CN": "ZM传送门5秒后开启！",
+      "KR": "ZM TP 5초 후!",
+      "TW": "ZM TP 5秒後！"
+    }
+  },
+  "Shoot at the window!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "窓を撃て！",
+      "CN": "向窗户射击！",
+      "KR": "창문에 사격하라!",
+      "TW": "朝窗戶射擊！"
+    }
+  },
+  "The door will open in 30 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが30秒後に開く！",
+      "CN": "门将在30秒后打开！",
+      "KR": "문이 30초 후에 열립니다!",
+      "TW": "門將在30秒後打開！"
+    }
+  },
+  "Door Open! GO !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開放！ 行け！",
+      "CN": "门已开！GO！",
+      "KR": "문 개방! GO!",
+      "TW": "門已開啟！快衝！"
+    }
+  },
+  "The door will open in 25 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが25秒後に開く！",
+      "CN": "门将在25秒后打开！",
+      "KR": "문이 25초 후에 열립니다!",
+      "TW": "門將在25秒後打開！"
+    }
+  },
+  "Door Open ! GO !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開放！ 行け！",
+      "CN": "门已开！GO！",
+      "KR": "문 개방! GO!",
+      "TW": "門已開啟！快衝！"
+    }
+  },
+  "The elevator will leave in 25 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが25秒後に発車する。",
+      "CN": "电梯将在25秒后离开。",
+      "KR": "엘리베이터가 25초 후에 출발합니다.",
+      "TW": "電梯將在25秒後離開。"
+    }
+  },
+  "Last 5 sec ! GO !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒！ 行け！",
+      "CN": "最后5秒！GO！",
+      "KR": "마지막 5초! GO!",
+      "TW": "剩餘5秒！快衝！"
+    }
+  },
+  "Proceed to the platform!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームへ進め！",
+      "CN": "前往平台！",
+      "KR": "무대로 이동하세요!",
+      "TW": "前往平台！"
+    }
+  },
+  "The road is closing!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "道路が封鎖される！",
+      "CN": "道路即将关闭！",
+      "KR": "길이 막힙니다!",
+      "TW": "道路即將關閉！"
+    }
+  },
+  "The boss is coming.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスが現れる。",
+      "CN": "Boss即将到来。",
+      "KR": "보스가 다가옵니다.",
+      "TW": "Boss即將到來。"
+    }
+  },
+  ">>>MOVE TO THE SIDE PLATFORM <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 側面プラットフォームへ移動 <<<",
+      "CN": ">>>移步至侧面平台<<<",
+      "KR": ">>>측면 무대로 이동<<<",
+      "TW": ">>>移至側邊平台<<<"
+    }
+  },
+  ">>>MOVE TO THE MAIN PLATFORM <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> メインプラットフォームへ移動 <<<",
+      "CN": ">>>移步至主平台<<<",
+      "KR": ">>>메인 무대로 이동<<<",
+      "TW": ">>>移至主平台<<<"
+    }
+  },
+  ">>> ZM ROAD IS OPENING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ZM道路が開通 <<<",
+      "CN": ">>>ZM道路即将开启<<<",
+      "KR": ">>> ZM 도로가 열립니다 <<<",
+      "TW": ">>> ZM 道路開啟 <<<"
+    }
+  },
+  ">>> ZM ROAD IS CLOSING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ZM道路が封鎖 <<<",
+      "CN": ">>>ZM道路即将关闭<<<",
+      "KR": ">>> ZM 도로가 닫힙니다 <<<",
+      "TW": ">>> ZM 道路關閉 <<<"
+    }
+  },
+  ">>> LASER ACTIVATED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> レーザー発動 <<<",
+      "CN": ">>>激光已激活<<<",
+      "KR": ">>> 레이저 활성화 <<<",
+      "TW": ">>> 雷射啟動 <<<"
+    }
+  },
+  ">>> LOOK UP, RUN FROM THE RAIN <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "雨から逃げて、高い所へ向かえ",
+      "CN": ">> 抬头看，躲避雨水 <<",
+      "KR": ">> 하늘을 보고 비를 피해 도망치세요 <<",
+      "TW": "雨過天晴，奔跑吧"
+    }
+  },
+  "!!! BOSS DIE !!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!! ボス撃破 !!!",
+      "CN": "!!! BOSS 已倒下 !!!",
+      "KR": "!!! 보스 사망 !!!",
+      "TW": "！！！BOSS擊殺！！！"
+    }
+  },
+  "way opening !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が開け！",
+      "CN": "前方通路开启！",
+      "KR": "길이 열립니다!",
+      "TW": "道路通暢"
+    }
+  },
+  "The elevator will leave in 30 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが30秒後に発車します！",
+      "CN": "电梯将在30秒后离开！",
+      "KR": "엘리베이터가 30초 후 출발합니다!",
+      "TW": "電梯將在30秒後離開！"
+    }
+  },
+  ">5<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">4<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">3<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">2<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">1<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Door Closing !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉閉鎖中！",
+      "CN": "门即将关闭！",
+      "KR": "문 닫힘!",
+      "TW": "門關閉中"
+    }
+  },
+  "PLACE THE T-VIRUS IN THE AREA!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "T-ウィルスを区域に設置せよ！",
+      "CN": "在指定区域放置T病毒！",
+      "KR": "영역에 T-바이러스를 배치하세요!",
+      "TW": "將T病毒放置於指定區域！"
+    }
+  },
+  "ZM TP 5 SEC !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZM テレポート、5秒後！",
+      "CN": "ZM传送 5秒后激活！",
+      "KR": "ZM 텔레포트 5초 후 실행!",
+      "TW": "傳送門啟動倒計時：5秒"
+    }
+  },
+  "ACTIVATE THE T-VIRUS OR IT WILL ACTIVATE IN 20 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "T-ウィルスを作動させよ、20秒後に自動作動する。",
+      "CN": "激活T病毒，否则将在20秒后自动激活。",
+      "KR": "T-바이러스를 활성화하세요. 그렇지 않으면 20초 후에 자동으로 활성화됩니다.",
+      "TW": "手動啟動T病毒，否則20秒後將自動激活。"
+    }
+  },
+  "The T-VIRUS is spreading and will destroy all zombies!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "T-ウイルスが拡散し、すべてのゾンマを殲滅します！",
+      "CN": "T病毒正在扩散，将毁灭所有僵尸！",
+      "KR": "T-바이러스가 확산되어 모든 좀비들을 파괴합니다!",
+      "TW": "T-病毒正在蔓延，並將摧毀所有殭屍！"
+    }
+  },
+  ">>> HUMAN WIN <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 人間の勝利 >>>",
+      "CN": ">>> 人类胜利 <<<",
+      "KR": ">>> 인간 승리 <<<",
+      "TW": ">>> 人類獲勝 <<<"
+    }
+  },
+  "* HEAL GUN - 60 sec cooldown *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ヒールガン - 60秒クールダウン *",
+      "CN": "*治疗枪 - 60秒冷却时间*",
+      "KR": "* 회복 총기 - 쿨다운 60초 *",
+      "TW": "* 治療槍 - 60秒冷卻時間 *"
+    }
+  },
+  "*** Zombie detected in the test area. Mission failed. ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** テストエリアにゾンマを検出。ミッション失敗。 ***",
+      "CN": "*** 测试区域检测到僵尸，任务失败。***",
+      "KR": "*** 테스트 지역 좀비 탐지. 임무 실패. ***",
+      "TW": "*** 偵測到測試區域內有殭屍。任務失敗。 ***"
+    }
+  },
+  "* SLOW GUN - 10 slot / 15 sec cooldown *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* スロウガン - 10スロット / 15秒クールダウン *",
+      "CN": "*减速枪 - 10格 / 15秒冷却时间*",
+      "KR": "* 감속 총기 - 슬롯 10개 / 쿨다운 15초 *",
+      "TW": "* 減速槍 - 10個槽位 / 15秒冷卻時間 *"
+    }
+  }
+}

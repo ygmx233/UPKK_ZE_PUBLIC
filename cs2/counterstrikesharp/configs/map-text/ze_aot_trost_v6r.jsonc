@@ -1,5 +1,12 @@
 {
   "调查兵团战败": {
-    "translation": ""
+    "translation": "调查兵团战败",
+    "MultiLang": {
+      "US": "Survey Corps defeated",
+      "JP": "調査兵団の敗北",
+      "CN": "调查兵团战败",
+      "KR": "조사대 전패",
+      "TW": "調查兵团战败"
+    }
   }
 }

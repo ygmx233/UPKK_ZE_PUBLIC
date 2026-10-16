@@ -1,0 +1,1342 @@
+{
+  "< Mountain Escape Ultimate >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "< マウンテンエスケープ アルティメット >",
+      "CN": "< 山地逃生终极版 >",
+      "KR": "< 산악 탈출 궁극 >",
+      "TW": "< 山脈逃脫終極版 >"
+    }
+  },
+  "Map by @Seth.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作: @Seth",
+      "CN": "地图由 @Seth 制作",
+      "KR": "@Seth의 맵",
+      "TW": "地圖製作：@Seth"
+    }
+  },
+  "< 当前模式: 外星入侵 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: Alien Invasion >",
+      "JP": "< 現在のモード: 異星人侵略 >",
+      "CN": "",
+      "KR": "< 현재 모드: 외계 침공 >",
+      "TW": "< 目前模式：外星入侵 >"
+    }
+  },
+  "< 道具刷新中.. >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Refreshing items...",
+      "JP": "<アイテムのリフレッシュ中..>",
+      "CN": "",
+      "KR": "< 도구 새로고침 중.. >",
+      "TW": ""
+    }
+  },
+  "正在播放.. BOW AND ARROW - 米津玄師": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. BOW AND ARROW - Kenshi Yonezu",
+      "JP": "再生中.. BOW AND ARROW - 米津玄師",
+      "CN": "",
+      "KR": "재생 중.. BOW AND ARROW - 米津玄師",
+      "TW": "正在播放.. BOW AND ARROW - 米津玄師"
+    }
+  },
+  "正在播放.. Children In The Dark - AViVA": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. Children In The Dark - AViVA",
+      "JP": "再生中.. Children In The Dark - AViVA",
+      "CN": "",
+      "KR": "재생 중.. Children In The Dark - AViVA",
+      "TW": "正在播放.. Children In The Dark - AViVA"
+    }
+  },
+  "< 有人类拾取了[3级]神器 立体机动 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A human player picked up a Tier 3 Artifact, Stereoscopic Maneuver!>",
+      "JP": "< 有人类拾取了[3級]神器 立体機動 !>",
+      "CN": "",
+      "KR": "< 사람이 [3급] 유물 입체기동을 획득했습니다 !>",
+      "TW": "< 有人類拾取了[3級]神器 立體機動 !>"
+    }
+  },
+  "< 当前模式: 正常模式 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: Normal Mode >",
+      "JP": "< 現在のモード: 通常モード >",
+      "CN": "",
+      "KR": "< 현재 모드: 일반 모드 >",
+      "TW": "< 目前模式：正常模式 >"
+    }
+  },
+  "正在播放.. Killer Queen - Queen": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. Killer Queen - Queen",
+      "JP": "再生中.. Killer Queen - Queen",
+      "CN": "",
+      "KR": "재생 중.. Killer Queen - Queen",
+      "TW": "正在播放.. Killer Queen - Queen"
+    }
+  },
+  "< 当前模式: 狂风暴雨 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: Stormy >",
+      "JP": "< 現在のモード: 暴風雨 >",
+      "CN": "",
+      "KR": "< 현재 모드: 狂风暴雨 >",
+      "TW": "< 当前模式: 狂風暴雨 >"
+    }
+  },
+  "正在播放.. манго нектар - IRXD7": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. манго нектар - IRXD7",
+      "JP": "再生中.. манго нектар - IRXD7",
+      "CN": "",
+      "KR": "재생 중.. манго нектар - IRXD7",
+      "TW": "正在播放.. манго нектар - IRXD7"
+    }
+  },
+  ">?!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">水位线好像正在上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">The water level seems to be rising.",
+      "JP": ">水位が上がっているようだ",
+      "CN": "",
+      "KR": ">수위선이 오르고 있는 것 같아",
+      "TW": ">水位線好像正在上升"
+    }
+  },
+  ">该特么跑路咯": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Time to fuck off.",
+      "JP": ">ああ、もう逃げなきゃな",
+      "CN": "",
+      "KR": ">이제 도망갈 때다",
+      "TW": ">該特麼跑路咯"
+    }
+  },
+  ">作者告诉我水位线一定高度会暂时停下来": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">The developer told me the water level would temporarily stop at a certain height.",
+      "JP": ">作成者に聞くと、水位はある高さで一旦止まるとのことだ",
+      "CN": "",
+      "KR": ">저작자가 수위선이 일정 높이에서 잠시 멈출 것이라고 말했어",
+      "TW": ">作者告訴我水位線一定高度會暫時停下來"
+    }
+  },
+  ">别告诉其他人哦": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Don't tell anyone, okay?",
+      "JP": ">他の人には内緒だよ",
+      "CN": "",
+      "KR": ">다른 사람에게는 말하지 마세요",
+      "TW": ">別告訴其他人哦"
+    }
+  },
+  ">闪电正在往山头靠拢...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "> The lightning is closing in on the mountaintop...",
+      "JP": ">稲妻が山の頂上に向かって近づいてくる…",
+      "CN": "",
+      "KR": ">번개는 산봉우리를 향해 다가오고 있습니다...",
+      "TW": ">閃電正在往山頭靠攏..."
+    }
+  },
+  ">牛魔的这水位线还在上涨": {
+    "translation": "",
+    "MultiLang": {
+      "US": "> Overlord's water level continues to rise.",
+      "JP": ">牛魔王の水位はまだ上昇し続けている",
+      "CN": "",
+      "KR": ">우마의 수위가 계속 rising 중입니다",
+      "TW": ">牛魔的這水位線還在上漲"
+    }
+  },
+  "***Nuke launched***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***核弾頭が発射された***",
+      "CN": "*** 已发射核弹 ***",
+      "KR": "***핵탄두 발사***",
+      "TW": "***Nuke launched***"
+    }
+  },
+  ">嘻嘻我一定要活下来口牙": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Heehee, I must survive~ Fangs!",
+      "JP": ">へへ、私は生き抜くわよ！",
+      "CN": "",
+      "KR": ">嘻嘻我一定要活下来口牙",
+      "TW": ">嘻嘻我一定要活下來口牙"
+    }
+  },
+  "***30 seconds left***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り30秒***",
+      "CN": "*** 剩余 30 秒 ***",
+      "KR": "***남은 시간 30초***",
+      "TW": "***30 seconds left***"
+    }
+  },
+  "***Jump portal opened***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ジャンプポータルが開放された***",
+      "CN": "*** 跳跃门已开启 ***",
+      "KR": "***점프 포털 개방***",
+      "TW": "***Jump portal opened***"
+    }
+  },
+  "< 当前模式: 克隆大作战 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: Clone Wars >",
+      "JP": "< 現在のモード: クローン大戦 >",
+      "CN": "",
+      "KR": "< 현재 모드: 클론 대전 >",
+      "TW": "< 目前模式：克隆大作戰 >"
+    }
+  },
+  "正在播放.. Never Let it Go - 祖堅正慶": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Playing: Never Let it Go - Masayoshi Soken",
+      "JP": "再生中.. Never Let it Go - 祖堅正慶",
+      "CN": "",
+      "KR": "재생 중.. Never Let it Go - 요시오리 마사카쓰",
+      "TW": "正在播放.. Never Let it Go - 祖堅正慶"
+    }
+  },
+  "人类的 >\"圣杯\"<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Human >Holy Grab<",
+      "JP": "人類の「聖杯」",
+      "CN": "",
+      "KR": "인류의 >성杯<",
+      "TW": "人類的 <聖杯>"
+    }
+  },
+  "对决...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Duel...",
+      "JP": "決戦...",
+      "CN": "",
+      "KR": "대결...",
+      "TW": "對決..."
+    }
+  },
+  "僵尸的 >硫磺火< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie >Sulfur Fire<!",
+      "JP": "ゾンビの「硫黄の業火」！",
+      "CN": "",
+      "KR": "좀비의 >황옥< !",
+      "TW": "殭屍的 <硫磺火>！"
+    }
+  },
+  "< 有人类拾取了[3级]神器 \"圣杯\" !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A player has picked up Tier 3 Artifact \"Holy Grail\"!>",
+      "JP": "< 有人类拾取了[3級]神器 \"聖杯\" !>",
+      "CN": "",
+      "KR": "< 인간이 [3급] 신성 유물 \"성배\"를 획득했습니다! >",
+      "TW": "< 有人類拾取了[3級]神器 \"聖杯\" !>"
+    }
+  },
+  "***10 seconds left***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り10秒***",
+      "CN": "*** 剩余 10 秒 ***",
+      "KR": "***10초 남음***",
+      "TW": "***剩餘10秒***"
+    }
+  },
+  "***5***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***4***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***3***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***2***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***1***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***Nuke impact***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***核爆発の衝撃***",
+      "CN": "*** 核弹爆炸 ***",
+      "KR": "***핵격열***",
+      "TW": "***核彈爆炸***"
+    }
+  },
+  "***bunnyhopping enable***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***バニーホッピング有効***",
+      "CN": "*** 兔子跳模式已启用 ***",
+      "KR": "***버니호핑 활성화***",
+      "TW": "***啟用兔子跳***"
+    }
+  },
+  "< 当前模式: 神图模式:老滚 天际省·纯净版 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: God Map Mode: Elder Scrolls: Skyrim - Pure Edition >",
+      "JP": "< 現在のモード: 神図モード: 老滾 天空省・純粋版 >",
+      "CN": "",
+      "KR": "< 현재 모드: 신도 모드: 엘더스크롤 스카이림 지방·순수판 >",
+      "TW": "< 当前模式: 神圖模式:老滾 天際省·純淨版 >"
+    }
+  },
+  "** PORTAL OPEN IN 60 SEC! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ポータルが60秒後に開く！ **",
+      "CN": "** 传送门将在 60 秒后开启！ **",
+      "KR": "** 포털 60초 후 개방! **",
+      "TW": "**傳送門將在60秒後開啟！**"
+    }
+  },
+  ">> Kill the Dragonpriest! <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドラゴンプリーストを倒せ！ <<",
+      "CN": ">> 击杀龙祭司！ <<",
+      "KR": ">> 드래곤 사제를 처치하라! <<",
+      "TW": ">> 殺死龍祭司！ <<"
+    }
+  },
+  ">> USE THE ELDER SCROLL NOW <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>今すぐelder scrollを使用せよ<<",
+      "CN": ">> 立即使用远古卷轴 <<",
+      "KR": ">> 지금 즉시 Elder Scroll 사용 <<",
+      "TW": "<< 現在使用上古卷轴 >>"
+    }
+  },
+  "人类的 >美味的心<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Human >Delicious Heart<",
+      "JP": "人間の>美味しい心<",
+      "CN": "",
+      "KR": "인간의 >맛있는 마음<",
+      "TW": "人類的 >美味的心<"
+    }
+  },
+  "僵尸的 >宇智波鼬< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie's >Itachi Uchiha<!",
+      "JP": "ゾンビの>うちはイタチ<！",
+      "CN": "",
+      "KR": "좀비의 >우치하 이타테루< !",
+      "TW": "殭屍的 >宇智波鼬< !"
+    }
+  },
+  "< 有人类拾取了[3级]神器 渴血症 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A human player picked up the Tier 3 artifact Thirst!>",
+      "JP": "< 有人類拾取了[3級]神器 渴血症 !>",
+      "CN": "",
+      "KR": "< 인간이 [3급] 신기 渴血症을 획득했습니다! >",
+      "TW": "<有人類拾取了[3級]神器 渴血症 !>"
+    }
+  },
+  "< 有人类拾取了[3级]神器 超级霰弹枪 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A player picked up a Tier 3 Artifact, the Super Shotgun!>",
+      "JP": "< 有人类拾取了[3級]神器 スーパー散弾銃 !>",
+      "CN": "",
+      "KR": "< 사람이 [3급] 신기 ***초급 샷건*** 을 획득했습니다 !>",
+      "TW": "< 有人類拾取了[3級]神器 超級霰彈槍 !>"
+    }
+  },
+  "< 有人类拾取了[4级]神器 阎魔刀 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A human player picked up a Tier 4 Artifact, the Yama Blade!>",
+      "JP": "< 人類が[4級]神兵 阎魔刀 を拾った！>",
+      "CN": "",
+      "KR": "< 인간이 [4급] 신기 閻魔刀을 획득했습니다 !>",
+      "TW": "< 有人類拾取了[4級]神器 閻魔刀 !>"
+    }
+  },
+  "正在播放.. specialist - アトラスサウンドチーム": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. specialist - Atlas Sound Team",
+      "JP": "再生中.. specialist - アトラスサウンドチーム",
+      "CN": "正在播放..  specialists - 阿特拉斯音效团队",
+      "KR": "재생 중.. specialist - 아틀라스 사운드 팀",
+      "TW": "正在播放.. specialist - アトラスサウンドチーム"
+    }
+  },
+  "正在播放.. Nightcall - Kavinsky": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. Nightcall - Kavinsky",
+      "JP": "再生中.. Nightcall - Kavinsky",
+      "CN": "",
+      "KR": "재생 중.. Nightcall - Kavinsky",
+      "TW": "正在播放.. Nightcall - Kavinsky"
+    }
+  },
+  "< 有人类拾取了[4级]神器 超级蘑菇 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A human player picked up a Tier 4 Artifact: Super Mushroom!>",
+      "JP": "< 人間が[4級]神装 スーパーマッシュルーム を拾った！>",
+      "CN": "",
+      "KR": "< 인간이 [4급] 신기 슈퍼 버섯을 획득했습니다 !>",
+      "TW": "< 有人類拾取了[4級]神器 超級蘑菇 !>"
+    }
+  },
+  "< 有人类拾取了[4级]神器 超新星 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A player has picked up a Tier 4 Artifact, Supernova!>",
+      "JP": "< 人類が[4級]神話兵器 超新星 を拾った！>",
+      "CN": "",
+      "KR": "< 인간이 [4급] 신기 초신성을 획득했습니다! >",
+      "TW": "<有玩家拾取了[4級]神器 超新星 !>"
+    }
+  },
+  ">老虎机受到核爆影响,要爆了哦!": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">The slot machine has been affected by a nuclear explosion and is about to blow up!",
+      "JP": ">スロットマシンが核爆発の影響で、もうすぐ爆発しますよ！",
+      "CN": "",
+      "KR": ">슬롯 머신이 핵폭발의 영향을 받아 터지려 합니다!",
+      "TW": ">老虎機受到核爆影響，要爆了哦!"
+    }
+  },
+  "?!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "正在播放.. Azalea - 米津玄師": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. Azalea - Kenshi Yonezu",
+      "JP": "再生中.. Azalea - 米津玄師",
+      "CN": "",
+      "KR": "재생 중.. Azalea - 米津玄師",
+      "TW": "正在播放.. Azalea - 米津玄師"
+    }
+  },
+  "1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 有人类拾取了[3级]神器 斩龙剑 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A player picked up the Divine Weapon, Dragon Slayer Sword [Level 3]!>",
+      "JP": "< 有人类拾取了[3級]神器 斬龍剣 !>",
+      "CN": "",
+      "KR": "< 사람이 [3급] 신기 斩龙剑을 획득했습니다 !>",
+      "TW": "< 有人類拾取了[3級]神器 斬龍劍 !>"
+    }
+  },
+  "正在播放.. Young - The Chainsmokers": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. Young - The Chainsmokers",
+      "JP": "再生中.. Young - The Chainsmokers",
+      "CN": "",
+      "KR": "재생 중.. Young - The Chainsmokers",
+      "TW": "正在播放.. Young - The Chainsmokers"
+    }
+  },
+  "正在播放.. たぶん - YOASOBI": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now playing.. Tabun - YOASOBI",
+      "JP": "再生中.. たぶん - YOASOBI",
+      "CN": "正在播放.. 也许 - YOASOBI",
+      "KR": "재생 중.. たぶん - YOASOBI",
+      "TW": "正在播放.. たぶん - YOASOBI"
+    }
+  },
+  "人类的 >超级霰弹枪<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Human's >Super Shotgun<",
+      "JP": "人間の>スーパーショットガン<",
+      "CN": "",
+      "KR": "인류의 >슈퍼 산탄총<",
+      "TW": "人類的 >超級霰彈槍<"
+    }
+  },
+  "僵尸的 >窝瓜< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies >Melonpult<!",
+      "JP": "ゾンビの >ウリズン< ！",
+      "CN": "",
+      "KR": "좀비의 >호박< !",
+      "TW": "殭屍的 >窩瓜< !"
+    }
+  },
+  "人类的 >阎魔刀<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Humanity's >Yamatotachi<",
+      "JP": "人類の >イノシハバチ<",
+      "CN": "",
+      "KR": "인류의 >엔마도<",
+      "TW": "人類的 >閻魔刀<"
+    }
+  },
+  "正在播放.. 罗生门 - 麦浚龙.谢安琪": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now Playing.. Rashomon - Jun Maseoka/Yuka Shienaka",
+      "JP": "再生中：ロウソンメン - 麦浚龍、謝安琪",
+      "CN": "",
+      "KR": "재생 중.. 罗生门 -麥浚龍.謝安琪",
+      "TW": "正在播放.. 羅生門 - 麥浚龍.謝安琪"
+    }
+  },
+  "人类的 >圣心<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Humanity's >Holy Heart<",
+      "JP": "人類の >聖心<",
+      "CN": "",
+      "KR": "인류의 >성심<",
+      "TW": "人類的 >聖心<"
+    }
+  },
+  "僵尸的 >年糕王< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies >Tteokguk King<!",
+      "JP": "ゾンビの >年糕王< ！",
+      "CN": "",
+      "KR": "좀비의 >떡왕< !",
+      "TW": "殭屍的 >年糕王< !"
+    }
+  },
+  "正在播放.. The Less I Know The Better X Sexy Back - Leron Hinds.Timbaland": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now Playing.. The Less I Know The Better X Sexy Back - Leron Hinds/Timbaland",
+      "JP": "再生中：The Less I Know The Better X Sexy Back - Leron Hinds.Timbaland",
+      "CN": "",
+      "KR": "재생 중.. The Less I Know The Better X Sexy Back - Leron Hinds.Timbaland",
+      "TW": "正在播放.. The Less I Know The Better X Sexy Back - Leron Hinds.Timbaland"
+    }
+  },
+  "< 当前模式: 运气最重要 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: Luck is Most Important >",
+      "JP": "< 現在のモード：運が最重要 >",
+      "CN": "",
+      "KR": "< 현재 모드: 운이 가장 중요 >",
+      "TW": "< 目前模式：運氣最重要 >"
+    }
+  },
+  "< 当前模式: 神图模式:老滚 天际省 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: Divine Realm Mode: The Elder Scrolls: Skyrim >",
+      "JP": "< 現在のモード: 神図モード: 老滾 天際省 >",
+      "CN": "",
+      "KR": "< 현재 모드: 신도 모드: 엘더스크롤 스카이림 >",
+      "TW": "< 当前模式: 神圖模式:老滾 天際省 >"
+    }
+  },
+  ">人类有一颗超新星已完全进化！": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Humanity has fully evolved a supernova!",
+      "JP": ">人類の超新星が完全に進化する！",
+      "CN": "",
+      "KR": "인간에게 초신성 완전 진화가 완료되었습니다!",
+      "TW": ">人類已進化至超新星階段！"
+    }
+  },
+  "正在播放.. 夜に駆ける - YOASOBI": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now Playing.. Kokoro wo Sageru You ni - YOASOBI",
+      "JP": "再生中… 夜に駆ける - YOASOBI",
+      "CN": "正在播放.. Drive My Heart - YOASOBI",
+      "KR": "재생 중.. 夜に駆ける - YOASOBI",
+      "TW": "正在播放.. 夜に駆ける - YOASOBI"
+    }
+  },
+  "人类的 >过载治疗<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Human >Overload Therapy",
+      "JP": "人類の >オーバーロード治癒<",
+      "CN": "",
+      "KR": "인간의 >오버로드 치료<",
+      "TW": "人類的 >過載治療<"
+    }
+  },
+  "僵尸的 >血浴< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie >Blood Bath",
+      "JP": "ゾンビの『血浴』！",
+      "CN": "",
+      "KR": "좀비의 >혈욕< !",
+      "TW": "殭屍的 >血洗<！"
+    }
+  },
+  "人类的 >滴滴打车<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Human >Ride-Hailing Service",
+      "JP": "人類の「配車アプリ」",
+      "CN": "",
+      "KR": "인간의 >리모픽 호출<",
+      "TW": "人類的 >叫車服務<"
+    }
+  },
+  "僵尸的 >推土机< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie >Bulldozer",
+      "JP": "ゾンビの『ブルドーザー』！",
+      "CN": "",
+      "KR": "좀비의 >불도저< !",
+      "TW": "殭屍的 >推土機<！"
+    }
+  },
+  "< 当前模式: 神图模式:米纳斯 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: Divine Map Mode: Minas >",
+      "JP": "< 現在のモード: 神図モード:ミナス >",
+      "CN": "",
+      "KR": "< 현재 모드: 신도 모드: 미나스 >",
+      "TW": "< 当前模式: 神圖模式:米納斯 >"
+    }
+  },
+  "人类的 >渴血症<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Human >Thirsty Blood Syndrome",
+      "JP": "人類の『出血症』",
+      "CN": "",
+      "KR": "인간의 >갈증성 출혈<",
+      "TW": "人類的 >渴望鮮血<"
+    }
+  },
+  "僵尸的 >神风敢死队< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie >Kamikaze Squadron",
+      "JP": "ゾンビの『神風突撃隊』！",
+      "CN": "",
+      "KR": "좀비의 >신태 전법대< !",
+      "TW": "殭屍的 >神風敢死隊<！"
+    }
+  },
+  "人类的 >斩龙剑<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Human >Dragon-Slaying Sword",
+      "JP": "人類の『龍斬剣』",
+      "CN": "",
+      "KR": "인류의 >용퇴도<",
+      "TW": "人類的 >斬龍劍<"
+    }
+  },
+  "僵尸的 >暗影法袍< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie >Shadow Robe",
+      "JP": "ゾンビの『暗闇法衣』！",
+      "CN": "",
+      "KR": "좀비의 >암흑 법포< !",
+      "TW": "殭屍的 >暗影法袍<！"
+    }
+  },
+  "人类的 >超级蘑菇<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Humans' >Super Mushroom<",
+      "JP": "人類の『巨大キノコ』",
+      "CN": "",
+      "KR": "인류의 >슈퍼 버섯<",
+      "TW": "人類的 >超級蘑菇<"
+    }
+  },
+  "僵尸的 >大运< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies' >Great Luck<!",
+      "JP": "ゾンビの「大運」！",
+      "CN": "",
+      "KR": "좀비의 >대운< !",
+      "TW": "殭屍的 >大運<！"
+    }
+  },
+  "< 有僵尸拾取了[3级]神器 推土机 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A zombie picked up the Tier 3 artifact, the Bulldozer!>",
+      "JP": "< 有僵尸拾取了[3級]神器 ドーザー !>",
+      "CN": "",
+      "KR": "< 좀비가 [3급] 신성 무기  bulldozer를 획득했습니다! >",
+      "TW": "<有僵屍拾取了[3級]神器 推土機 !>"
+    }
+  },
+  ">特殊·即死事件< 已触发！": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Special·Instant Death Event< triggered!",
+      "JP": ">特殊・即死イベント< が発動しました！",
+      "CN": "",
+      "KR": ">특수·즉사 이벤트< 발동!",
+      "TW": ">特殊·即死事件<已觸發！"
+    }
+  },
+  ">特殊·即死事件< 双方使用神器决定本局胜负！": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Special·Instant Death Event< The双方 use artifacts to decide the winner of this round!",
+      "JP": ">特殊・即死イベント< 双方が神器を使用して本勝負の勝敗を決します！",
+      "CN": "",
+      "KR": ">특수·즉사 이벤트< 양쪽이 신기를 사용하여 이번 국의 승패를 결정합니다!",
+      "TW": ">特殊·即死事件<雙方使用神器決定本局勝負！"
+    }
+  },
+  ">10秒后将传送所有人至决斗平台！": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Everyone will be teleported to the duel platform in 10 seconds!",
+      "JP": ">10秒後に全プレイヤーを決闘フィールドへテレポートします！<",
+      "CN": "",
+      "KR": ">10초 후 모든 사람을 결투장으로 전송합니다!<",
+      "TW": ">10秒後將傳送所有人至決鬥平台！"
+    }
+  },
+  "< 有僵尸拾取了[4级]神器 硫磺火咒印 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A zombie picked up the [4-level] artifact Sulfurfire Charm!>",
+      "JP": "< 有僵尸拾取了[4級]神兵 硫磺火咒印 !>",
+      "CN": "",
+      "KR": "< 좀비가 [4급] 신기 유황화주인 을 획득했습니다 !>",
+      "TW": "< 有僵屍拾取了[4級]神器 硫磺火咒印 !>"
+    }
+  },
+  "** THE WHITE KNIGHT IS READY ROCK THE WORLD **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 白騎士は世界を揺るがす準備が整った **",
+      "CN": "** 白骑士已就位，准备撼动世界 **",
+      "KR": "** WHITE KNIGHT IS READY ROCK THE WORLD **",
+      "TW": "** 白騎士已就緒，搖撼世界 **"
+    }
+  },
+  "** ... THE CREATURE OF SHADOW AND FIRE IS HERE ... **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ... 影と火の怪物、ここに現れん ... **",
+      "CN": "** …… 暗影与火焰的怪物降临了…… **",
+      "KR": "** 그림과 불의 괴물이 나타났다 ... **",
+      "TW": "** …… 暗影與火之獸已至 …… **"
+    }
+  },
+  "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 亡霊軍が接近中！最後の防衛に備えよ！**",
+      "CN": "** 幽灵大军来袭！做好最后防线的准备！ **",
+      "KR": "** 고스트 군단이approaching한다! 마지막 방어를 준비하라 ! **",
+      "TW": "** 幽靈大軍即將來襲！請為最終防線做好準備！**"
+    }
+  },
+  "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ミナス・ティリスの頂上での防衛を継続するため、本門を守れ！**",
+      "CN": "** 守住主大门，以便继续防御米那斯提力斯顶端！**",
+      "KR": "** 미나스 티리트의 정상에서 방어를 계속하기 위해 메인 정문을 방어하라 ! **",
+      "TW": "** 守住主城門，以便在米那斯提力斯頂部繼續防禦！**"
+    }
+  },
+  "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 道が開かれた ** ミナスティリスの頂に到達せよ ** 80秒生存せよ **",
+      "CN": "** 道路已开启** 前往米那斯提力斯顶端 ** 存活80秒 **",
+      "KR": "** 길이 열렸다 ** 미나스 티리트 정상에 도달하세요 ** 80초간 생존하라 **",
+      "TW": "** 道路已開通，前往米那斯提力斯頂部 ** 存活80秒**"
+    }
+  },
+  "** All humans at bottom part will die in 15 seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 下部の全人間は15秒以内に死亡する **",
+      "CN": "**底部的所有人类将在15秒后死亡**",
+      "KR": "** 하부 지역 전체的人类이 15초 안에 사망합니다 **",
+      "TW": "** 底部區域的所有人類将在15秒內喪生**"
+    }
+  },
+  "< 有僵尸拾取了[3级]神器 宇智波鼬 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A zombie picked up a Tier 3 artifact, Uchiha Itachi!>",
+      "JP": "",
+      "CN": "",
+      "KR": "< 좀비가 [3급] 유물 우치하 이타치를 획득했습니다! >",
+      "TW": "<有僵屍拾取了[3級]神器 宇智波鼬 !>"
+    }
+  },
+  "< 有僵尸拾取了[3级]神器 达摩剑 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A zombie picked up the [3-star] artifact Damocles Sword!>",
+      "JP": "< 有僵尸拾取了[3級]神兵 達摩剣 !>",
+      "CN": "",
+      "KR": "< 좀비가 [3급] 신기 達摩劍을 획득했습니다 !>",
+      "TW": "< 有僵屍拾取了[3級]神器 達摩劍 !>"
+    }
+  },
+  "< 有僵尸拾取了[3级]神器 赤色重力 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A zombie picked up the Divine Item Crimson Gravity [Level 3]!>",
+      "JP": "< 有僵尸拾取了[3級]神装 赤色重力 !>",
+      "CN": "",
+      "KR": "< 좀비가 [3급] 신성 무기 적색 중력을 획득했습니다! >",
+      "TW": "< 有僵屍拾取了[3級]神器 赤色重力 !>"
+    }
+  },
+  ">火车踩踩背< 事件已触发！": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Train Stomp Back< event triggered!",
+      "JP": ">列車踏みつぶし< イベント発生！",
+      "CN": "",
+      "KR": ">열차 발판사건<이 트리거되었습니다!",
+      "TW": "已觸發事件：>火车踩踩背<。"
+    }
+  },
+  ">火车将在5秒后出站！": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">The train will exit the station in 5 seconds!",
+      "JP": ">列車は5秒後に発車します！",
+      "CN": "",
+      "KR": ">열차가5초 후출역합니다!</h2>",
+      "TW": ">火車将在5秒後出站！</"
+    }
+  },
+  ">即死事件< 已触发！": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Instant Death Event< triggered!",
+      "JP": ">即死イベント< 発生！",
+      "CN": "",
+      "KR": ">즉사 이벤트< 트리거됨!",
+      "TW": "已觸發事件：>即死事件<。"
+    }
+  },
+  "< 有僵尸拾取了[4级]神器 便携式核弹 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A zombie picked up a Tier 4 Artifact: Portable Nuclear Bomb!>",
+      "JP": "< 有僵尸拾取了[4級]神器 便携式核彈 !>",
+      "CN": "",
+      "KR": "< 좀비가 [4급] 유물 휴대용 핵탄을 획득했습니다 !>",
+      "TW": "<有僵屍拾取了[4級]神器 便攜式核彈 !>"
+    }
+  },
+  "< 有僵尸拾取了[4级]神器 大运 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<A zombie picked up a Tier 4 artifact, Great Fortune!>",
+      "JP": "< 有僵尸拾取了[4級]神装 大運 !>",
+      "CN": "",
+      "KR": "< 좀비가 [4급] 신기 대운을 획득했습니다! >",
+      "TW": "<有僵屍拾取了[4級]神器 大運 !>"
+    }
+  },
+  ">僵尸腐蚀< 事件已触发！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Event <Zombie Corruption> has been triggered!",
+      "JP": ">ゾンビ腐食< イベント発生！",
+      "CN": "",
+      "KR": ">좀비 부식< 이벤트가 발동되었습니다!",
+      "TW": ">僵尸腐化< 事件已觸發！"
+    }
+  },
+  ">全体僵尸在5秒后进入低血量腐蚀状态！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "All Zombies will enter low-health corruption status in 5 seconds!",
+      "JP": ">全ゾンビは5秒後に低血状態の腐食効果を受けます！",
+      "CN": "",
+      "KR": ">전체 좀비가 5초 후 저체력 부식 상태로 전환됩니다!<",
+      "TW": ">全體殭屍在5秒後進入低血量腐化狀態！"
+    }
+  },
+  "< 当前模式: 神图模式:狮子王·纯净版 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: God Image Mode: Lion King - Pure Version >",
+      "JP": "< 現在のモード: 神図モード: レオニド・クリーン版 >",
+      "CN": "",
+      "KR": "< 현재 모드: 신도 모드: 사자왕·순수판 >",
+      "TW": "< 當前模式: 神圖模式: 狮子王·純淨版 >"
+    }
+  },
+  "***THE PIZZA IS AGGRESSIVE***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ピザが攻撃的***",
+      "CN": "***披萨具有攻击性***",
+      "KR": "*** 피자는 공격적입니다 ***",
+      "TW": "***披薩具有侵略性***"
+    }
+  },
+  "人类的 >立体机动<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Humans' <Steam Jet>",
+      "JP": "人類の「立体機動」",
+      "CN": "",
+      "KR": "인간의 >입체 이동<",
+      "TW": ">立體機動< 系統（人類）"
+    }
+  },
+  "僵尸的 >超杀左轮< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies' <Overkill Revolver>!",
+      "JP": "ゾンビの「サバイバル左輪」！",
+      "CN": "",
+      "KR": "좀비의 >초살 루나틱< !",
+      "TW": ">超殺左輪<（殭屍專有技）！"
+    }
+  },
+  "< 当前模式: 神图模式:米纳斯·纯净版 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Current Mode: Divine Map Mode: Minas - Pure Version >",
+      "JP": "< 現在のモード: 神図モード: ミナス・クリーンバージョン >",
+      "CN": "",
+      "KR": "< 현재 모드: 신도 모드: 미나스・순수판 >",
+      "TW": "< 當前模式: 神圖模式: 米納斯·純淨版 >"
+    }
+  },
+  "僵尸的 >万磁王< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies' <Magneto>!",
+      "JP": "ゾンビの「マグネイト」！",
+      "CN": "",
+      "KR": "좀비의 >매그네토< !",
+      "TW": ">萬磁王<（殭屍專有技）！"
+    }
+  },
+  "***PLAYER PICKED UP ITEM - MINI CANNON***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プレイヤーがアイテム【ミニキャノン】を受け取りました***",
+      "CN": "***玩家拾取物品 - 迷你加农炮***",
+      "KR": "*** 플레이어가 아이템을 획득했습니다 - 미니 캐논 ***",
+      "TW": "***玩家撿取了物品 - 迷你加農炮***"
+    }
+  },
+  "***PLAYER PICKED UP ITEM - ROCKET CANNON***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プレイヤーがアイテム【ロケットキャノン】を受け取りました***",
+      "CN": "***玩家拾取物品 - 火箭炮***",
+      "KR": "*** 플레이어가 아이템을 획득했습니다 - 로켓 캐논 ***",
+      "TW": "***玩家撿取了物品 - 火箭加農炮***"
+    }
+  },
+  "***PLAYER PICKED UP ITEM - HEALING SHITBOX***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プレイヤーがアイテム【ヒールボックス】を受け取りました***",
+      "CN": "***玩家拾取物品 - 回复屎箱***",
+      "KR": "***플레이어가 아이템을 주웠다 - 치유 시트박스***",
+      "TW": "***玩家撿取了物品 - 回血紙箱***"
+    }
+  },
+  "< 有僵尸拾取了[3级]神器 暗影法袍 !>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 当前模式: 神图模式:狮子王 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***PLAYER PICKED UP ITEM - SPEEDER***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プレイヤーがアイテム【スペーダー】を受け取りました***",
+      "CN": "***玩家拾取物品 - 加速卡***",
+      "KR": "***플레이어가 아이템을 주웠다 - 스피더***",
+      "TW": "***玩家撿取了物品 - 加速機***"
+    }
+  },
+  "> 通往真理的道路在60秒后开放! <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< The path to truth opens in 60 seconds! >",
+      "JP": "> 真実への道は60秒後に開放されます! <",
+      "CN": "",
+      "KR": "> 진리로 가는 길이 60초 후에 열립니다! <",
+      "TW": "> 通往真理的道路將在60秒後開啟！ <"
+    }
+  },
+  "> 20秒后将传送全体人类进入里世界. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< All Humans will be teleported into the Underworld in 20 seconds. >",
+      "JP": "> 20秒後に人類全員を裏世界へ転送します。 <",
+      "CN": "",
+      "KR": "> 20초 뒤 전체 인류가 안쪽으로 텔레포트됩니다. <",
+      "TW": "> 20秒後將傳送全體人類進入裡世界. <"
+    }
+  },
+  "> 10秒后全体僵尸进入里世界. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< All Zombies will enter the Underworld in 10 seconds. >",
+      "JP": "> 10秒後にゾンビ全員が裏世界へ移動します。 <",
+      "CN": "",
+      "KR": "> 10초 뒤 전僵尸이 안쪽으로 들어갑니다. <",
+      "TW": "> 10秒後全體殭屍將進入裡世界. <"
+    }
+  },
+  "***SOCRATES IS FAKE***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ソクラテスは偽物です***",
+      "CN": "***苏格拉底是假的***",
+      "KR": "***소크라테스는 가짜입니다***",
+      "TW": "***蘇格拉底是假的***"
+    }
+  },
+  "***SOCRATES NEVER EXIST***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ソクラテスは存在しませんでした***",
+      "CN": "***苏格拉底从未存在***",
+      "KR": "***소크라테스는 존재하지 않습니다***",
+      "TW": "***蘇格拉底從未存在過***"
+    }
+  },
+  "***SOCRATES IS SANTA'S LIES***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ソクラテスはサンタの嘘です***",
+      "CN": "***苏格拉底是圣诞老人的谎言***",
+      "KR": "***소크라테스는 산타의 거짓말입니다***",
+      "TW": "***蘇格拉底是聖誕老人的謊言***"
+    }
+  },
+  "***SANTA USE SOCRATES TO COVER HIS SINS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サンタは罪を隠すためにソクラテスを使います***",
+      "CN": "***圣诞老人利用苏格拉底掩盖他的罪孽***",
+      "KR": "***산타는 소크라테스를 이용해 자신의 죄를 덮으려 한다***",
+      "TW": "***聖人用蘇格拉底掩蓋他的罪***"
+    }
+  },
+  "***PICK THEM UP***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***それらを拾え***",
+      "CN": "***把它们捡起来***",
+      "KR": "***그것들을 들어 올려라***",
+      "TW": "***把它們撿起來***"
+    }
+  },
+  "***FIGHT FOR THE TRUE..WHATEVER IT TAKES***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***真実のために戦え。どんな手段を使っても***",
+      "CN": "***为真理而战，不惜一切代价***",
+      "KR": "***진리를 위해 싸우라..필요하다면 그 어떤 대가를 치르더라도***",
+      "TW": "***為真相而戰……不惜一切代價***"
+    }
+  },
+  "**- TRUE SANTA -**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**- クリスマスオーナメント -**",
+      "CN": "- **真实的圣诞老人** -",
+      "KR": "- 진짜 산타 -",
+      "TW": "- 真實的聖誕老人 -"
+    }
+  },
+  "**SPEEDER UNLOCKED**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "スピーダー解除",
+      "CN": "**解锁速度强化版**",
+      "KR": "스피더 해금됨",
+      "TW": "**速度加快解鎖**"
+    }
+  },
+  "***YOU HAVE DONE IT!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***あなたがやりました！***",
+      "CN": "***你做到了！***",
+      "KR": "***성공했습니다!***",
+      "TW": "***你做到了！***"
+    }
+  },
+  "***BUT YOU KNOW,IT'S JUST AN ILLUSION***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***でも知っててね、それはただの幻なんです***",
+      "CN": "***但你要知道，这不过是个幻象***",
+      "KR": "***하지만 넌 알고 있지, 이건 그저 환각일 뿐***",
+      "TW": "***但你知道，這只是一種幻象***"
+    }
+  },
+  "***IT'S NOT THE REAL SANTASSINATION***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***本当のサンタではありません***",
+      "CN": "***真正的桑塔斯坦纳还没有到来***",
+      "KR": "***진짜 산타살해는 아직 끝나지 않았어***",
+      "TW": "***這不是真正的聖人謀殺***"
+    }
+  },
+  "***Uh....You know what,Just skip the BLABLABLA***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***うーん…なんてったって、ただ無視してください***",
+      "CN": "***呃……算了，跳过废话吧***",
+      "KR": "***음... 그러니까, 장황한 건 패스하자***",
+      "TW": "***算了……直接跳過那些廢話吧***"
+    }
+  },
+  "***YOU ARE FUCKING CHAMPION YEEEEEEAAA***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***あなたはすごいチャンピオンです！***",
+      "CN": "你就是个混蛋冠军，耶——***",
+      "KR": "***너는 진짜 챔피언이야, 예이예이!***",
+      "TW": "***你他媽就是冠軍耶————***"
+    }
+  },
+  "僵尸的 >便携式核弹< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie's >Portable Nuclear Bomb< !",
+      "JP": "ゾンビの >携帯式核弾頭< !",
+      "CN": "",
+      "KR": "좀비의 >휴대용 핵폭탄< !",
+      "TW": "殭屍的 >便攜式核彈< ！"
+    }
+  },
+  ">看来克隆的东西有点超模.": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Looks like the cloned item is a bit overpowered.",
+      "JP": "クリオンの性能が少し過剰なようだ。",
+      "CN": "",
+      "KR": ">보통은 클론에 약간의 오버레벨이 있지만.",
+      "TW": ">看來複製出來的東西有點過度強悍。"
+    }
+  },
+  ">双方克隆神器将暂时锁定60秒.": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Both sides' clone artifacts will be locked for 60 seconds.",
+      "JP": "双方のクリオン神器は60秒間一時ロックされます。",
+      "CN": "",
+      "KR": ">양측의 클론 신기는 60초 동안 잠겨 있습니다.",
+      "TW": ">雙方複製神器將暫時鎖定60秒。"
+    }
+  },
+  ">双方克隆神器在10秒后解锁！": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">Both sides' clone artifacts unlock in 10 seconds!",
+      "JP": "双方のクリオン神器が10秒後に解除！",
+      "CN": "",
+      "KR": ">양측의 클론 신기가 10초 후 해제됩니다!",
+      "TW": ">雙方複製神器將在10秒後解鎖！"
+    }
+  },
+  "人类的 >二段跳教科书<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Human's >Double Jump Textbook<",
+      "JP": "ヒト側の >二段ジャンプ教科書<",
+      "CN": "",
+      "KR": "인류의 >사단점프 교과서<",
+      "TW": "人類的 >二段跳教科書<"
+    }
+  },
+  "僵尸的 >蹦床< !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie's >Trampoline< !",
+      "JP": "ゾンビの >トランポリン< ！",
+      "CN": "",
+      "KR": "좀비의 >트램펄린< !",
+      "TW": "殭屍的 >彈床< ！"
+    }
+  },
+  "<有人为下局选择了 狮子王 神图模式！>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

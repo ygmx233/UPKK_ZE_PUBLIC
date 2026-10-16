@@ -1,278 +1,932 @@
 {
   " WELCOME TO STARK ESCAPE": {
-    "translation": "欢迎来到 STARK ESCAPE"
+    "translation": "欢迎来到 STARK ESCAPE",
+    "MultiLang": {
+      "US": "",
+      "JP": "スターク・エスケープへようこそ",
+      "CN": "欢迎来到史塔克逃生",
+      "KR": "STARK ESCAPE에 오신 것을 환영합니다",
+      "TW": "歡迎來到史塔克大逃亡"
+    }
   },
   "### LEVEL NORMAL ###": {
-    "translation": "### 普通难度 ###"
+    "translation": "### 普通难度 ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### レベル ノーマル ###",
+      "CN": "### 普通难度 ###",
+      "KR": "### NORMAL 난이도 ###",
+      "TW": "### 普通等級 ###"
+    }
   },
   "#### LEVEL EASY ####": {
-    "translation": "#### 简单难度 ####"
+    "translation": "#### 简单难度 ####",
+    "MultiLang": {
+      "US": "",
+      "JP": "#### レベル イージー ####",
+      "CN": "#### 简单难度 ####",
+      "KR": "#### EASY 난이도 ####",
+      "TW": "#### 簡單等級 ####"
+    }
   },
   "################": {
-    "translation": "################"
+    "translation": "################",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": "【開始翻譯】"
+    }
   },
   "20 seconds left until the zombie teleports. RUN": {
-    "translation": "20秒后僵尸传送。快跑"
+    "translation": "20秒后僵尸传送。快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビがテレポートするまで残り20秒。走れ！",
+      "CN": "僵尸传送前剩余20秒。快跑！",
+      "KR": "좀비가 텔레포트하기까지 20초 남았습니다. 도망치세요",
+      "TW": "殭屍傳送剩餘 20 秒。逃跑"
+    }
   },
   "After 10 seconds, the zombie gates will open.": {
-    "translation": "10秒后僵尸门将打开。"
+    "translation": "10秒后僵尸门将打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にゾンビゲートが開きます。",
+      "CN": "10秒后丧尸闸门将打开。",
+      "KR": "10초 후 좀비 게이트가 열립니다.",
+      "TW": "10 秒後，殭屍柵門將開啟。"
+    }
   },
   "After 15 seconds, the zombie gates will open.": {
-    "translation": "15秒后僵尸门将打开。"
+    "translation": "15秒后僵尸门将打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後にゾンビゲートが開きます。",
+      "CN": "15秒后丧尸闸门将打开。",
+      "KR": "15초 후 좀비 게이트가 열립니다.",
+      "TW": "15 秒後，殭屍柵門將開啟。"
+    }
   },
   "Catch the elevator before it leaves. RUN": {
-    "translation": "赶上电梯，快跑"
+    "translation": "赶上电梯，快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "発車する前にエレベーターに乗り込め。走れ！",
+      "CN": "在电梯离开前乘上去。快跑！",
+      "KR": "엘리베이터가 떠나기 전에 타세요. 도망치세요",
+      "TW": "在電梯離開前搭上去。逃跑"
+    }
   },
   "Complete the parkour": {
-    "translation": "完成跑酷"
+    "translation": "完成跑酷",
+    "MultiLang": {
+      "US": "",
+      "JP": "パラクールをクリア",
+      "CN": "完成跑酷关卡",
+      "KR": "파쿠르 클리어",
+      "TW": "完成跑酷"
+    }
   },
   "DEFEND LEFT AND RIGHT DOOR": {
-    "translation": "防守左右两扇门"
+    "translation": "防守左右两扇门",
+    "MultiLang": {
+      "US": "",
+      "JP": "左側のドアと右側のドアを守る",
+      "CN": "防守左右侧门",
+      "KR": "좌우 문 방어",
+      "TW": "守護左右兩側的大門"
+    }
   },
   "DON'T GO !!! DEFEND THE ELEVATOR": {
-    "translation": "不要走！！！防守电梯"
+    "translation": "不要走！！！防守电梯",
+    "MultiLang": {
+      "US": "",
+      "JP": "移動するな！！！エレベーターを守るんだ",
+      "CN": "别过去！守住电梯",
+      "KR": "가지 마라!!! 엘레베이터 방어",
+      "TW": "別過去！防禦電梯"
+    }
   },
   "Door open, RUN RUN": {
-    "translation": "门开了，快跑快跑"
+    "translation": "门开了，快跑快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いた、走れ走れ",
+      "CN": "门开了，快跑",
+      "KR": "문 열림, 도망쳐!",
+      "TW": "門開了，快跑快跑"
+    }
   },
   "Door opened GO BACK": {
-    "translation": "门开了，回去"
+    "translation": "门开了，回去",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いた、戻れ",
+      "CN": "门已打开，退回原位",
+      "KR": "문 열림, 돌아오기",
+      "TW": "門已開啟，請退回"
+    }
   },
   "Door opened. GO GO": {
-    "translation": "门开了，走走走"
+    "translation": "门开了，走走走",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いた、行け行け",
+      "CN": "门已打开。冲啊",
+      "KR": "문 열림, 서둘러!",
+      "TW": "門已開啟，快衝過去"
+    }
   },
   "Finish the parkour quickly.": {
-    "translation": "快点完成跑酷"
+    "translation": "快点完成跑酷",
+    "MultiLang": {
+      "US": "",
+      "JP": "パルクールを素早く完了せよ。",
+      "CN": "迅速完成跑酷动作。",
+      "KR": "패러쿠르를 빠르게 완료하세요.",
+      "TW": "迅速完成跑酷。"
+    }
   },
   "GO TO THE CONTROL ROOM, PRESS THE BUTTON. DON'T TOUCH THE LASERS, THEY KILL.": {
-    "translation": "去控制室，按下按钮。不要碰激光，它们是致命的。"
+    "translation": "去控制室，按下按钮。不要碰激光，它们是致命的。",
+    "MultiLang": {
+      "US": "",
+      "JP": "コントロールルームへ行ってボタンを押せ。レーザーには触るな、当たれば死ぬぞ。",
+      "CN": "前往控制室，按下按钮。不要触碰激光，它会杀人。",
+      "KR": "제어실로 가서 버튼을 누르세요. 레이저를 만지면 죽습니다.",
+      "TW": "前往控制室，按下按鈕。別碰雷射，碰到會死。"
+    }
   },
   "Get in the elevator, it'll close in 10 seconds.": {
-    "translation": "进入电梯，10秒内关闭。"
+    "translation": "进入电梯，10秒内关闭。",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターに乗れ、10秒後に閉まるぞ。",
+      "CN": "进入电梯，10秒后关闭。",
+      "KR": "엘레베이터로 들어가고, 10초 후 문이 닫힙니다.",
+      "TW": "進電梯，10秒後門將關閉。"
+    }
   },
   "Get in the elevator, it'll close in 15 seconds.": {
-    "translation": "进入电梯，15秒内关闭。"
+    "translation": "进入电梯，15秒内关闭。",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターに乗ってください。15秒後に閉まります。",
+      "CN": "进电梯，15秒后关门。",
+      "KR": "엘리베이터로 들어가세요. 15초 후 문이 닫힙니다.",
+      "TW": "進入電梯，門會在 15 秒後關閉。"
+    }
   },
   "Go to the control room to start the helicopter.": {
-    "translation": "去控制室启动直升机。"
+    "translation": "去控制室启动直升机。",
+    "MultiLang": {
+      "US": "",
+      "JP": "コントロールルームへ向かい、ヘリコプターを起動してください。",
+      "CN": "前往控制室启动直升机。",
+      "KR": "헬리콥터를 가동하려면 제어실로 이동하세요.",
+      "TW": "前往控制室啟動直升機。"
+    }
   },
   "Go to the exit door, zombies will come soon.": {
-    "translation": "去出口，僵尸很快会来。"
+    "translation": "去出口，僵尸很快会来。",
+    "MultiLang": {
+      "US": "",
+      "JP": "出口扉まで進んでください。ゾンビがすぐにやってきます。",
+      "CN": "前往出口门，丧尸即将来袭。",
+      "KR": "출구 문으로 이동하세요. 좀비가 곧 찾아옵니다.",
+      "TW": "前往出口門，殭屍即將到來。"
+    }
   },
   "HUMAN WIN !!!": {
-    "translation": "人类胜利！！！"
+    "translation": "人类胜利！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "人類の勝利！",
+      "CN": "人类获胜！",
+      "KR": "인간 승리 !!!",
+      "TW": "人類獲勝！"
+    }
   },
   "Human teleport": {
-    "translation": "人类传送"
+    "translation": "人类传送",
+    "MultiLang": {
+      "US": "Human teleportation",
+      "JP": "人間テレポート",
+      "CN": "人类传送",
+      "KR": "인간 텔레포트",
+      "TW": "人類傳送"
+    }
   },
   "Hurry up, 5 seconds left.": {
-    "translation": "快点，剩下5秒。"
+    "translation": "快点，剩下5秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "焦ってください。残り5秒です。",
+      "CN": "快，还剩5秒。",
+      "KR": "빨리 하세요. 5초 남았습니다.",
+      "TW": "快一點，只剩 5 秒。"
+    }
   },
   "In 10 seconds the helicopter will take off. Get in the helicopter.": {
-    "translation": "10秒内直升机会起飞。上直升机。"
+    "translation": "10秒内直升机会起飞。上直升机。",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にヘリコプターが離陸します。ヘリコプターに乗ってください。",
+      "CN": "10秒后直升机起飞。上飞机。",
+      "KR": "10초 후 헬리콥터가 이륙합니다. 헬리콥터에 타세요.",
+      "TW": "10 秒後直升機將起飛，請登上直升機。"
+    }
   },
   "In 15 seconds the helicopter will take off. Get in the helicopter.": {
-    "translation": "15秒内直升机会起飞。上直升机。"
+    "translation": "15秒内直升机会起飞。上直升机。",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後にヘリコプターが離陸します。ヘリコプターに乗ってください。",
+      "CN": "15秒后直升机起飞。上飞机。",
+      "KR": "15초 후 헬리콥터가 이륙합니다. 헬리콥터에 타세요.",
+      "TW": "15 秒後直升機將起飛，請登上直升機。"
+    }
   },
   "It will close in 5 seconds!!!": {
-    "translation": "5秒内关闭！"
+    "translation": "5秒内关闭！",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後に閉まります!!!",
+      "CN": "5秒后关闭！！！",
+      "KR": "5초 안에 닫힙니다!!!",
+      "TW": "五秒後關閉！！！"
+    }
   },
   "Key found, Open the door with the key.": {
-    "translation": "找到钥匙，用钥匙开门。"
+    "translation": "找到钥匙，用钥匙开门。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キーが見つかりました。鍵でドアを開けてください。",
+      "CN": "钥匙已找到，用钥匙开门。",
+      "KR": "열쇠를 찾았습니다. 열쇠로 문을 여세요.",
+      "TW": "已找到鑰匙，用鑰匙打開門。"
+    }
   },
   "Map Creator Platin": {
-    "translation": "地图作者 Platin 翻译：Asteri3m"
+    "translation": "地图作者 Platin 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップクリエイタープラチナ",
+      "CN": "地图创作者 白金",
+      "KR": "지도 제작자 플래티넘",
+      "TW": "地圖創作者：Platin"
+    }
   },
   "NEXT LEVEL : HARD": {
-    "translation": "下一关：困难"
+    "translation": "下一关：困难",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のレベル：ハード",
+      "CN": "下一关：困难",
+      "KR": "다음 레벨 :Hard",
+      "TW": "下一關：困難"
+    }
   },
   "NEXT LEVEL : NORMAL": {
-    "translation": "下一关：普通"
+    "translation": "下一关：普通",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のレベル：ノーマル",
+      "CN": "下一关：普通",
+      "KR": "다음 레벨 :Normal",
+      "TW": "下一關：普通"
+    }
   },
   "Run": {
-    "translation": "跑"
+    "translation": "跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げる",
+      "CN": "跑",
+      "KR": "달리기",
+      "TW": "快跑"
+    }
   },
   "Run Run": {
-    "translation": "快跑"
+    "translation": "快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "駆け抜けろ",
+      "CN": "快跑",
+      "KR": "달려 달리다",
+      "TW": "拼命奔跑"
+    }
   },
   "Run Run, The elevator will close in 10 seconds.": {
-    "translation": "快跑，电梯将在10秒内关闭。"
+    "translation": "快跑，电梯将在10秒内关闭。",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げろ！エレベーターは10秒後に閉まります。",
+      "CN": "快跑，电梯将在10秒后关闭。",
+      "KR": "달려 달리다. 엘리베이터가 10초 안에 닫힙니다.",
+      "TW": "快跑，電梯十秒後關閉。"
+    }
   },
   "Run, run, run. 5 seconds left.": {
-    "translation": "快跑快跑快跑。剩下5秒。"
+    "translation": "快跑快跑快跑。剩下5秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "走れ！残り5秒。",
+      "CN": "跑，快跑！剩余5秒。",
+      "KR": "달려! 5초 남음.",
+      "TW": "跑，快跑。剩餘 5 秒。"
+    }
   },
   "Take the right or left exit. Protect the exit doors!": {
-    "translation": "选择右边或左边的出口。保护出口门！"
+    "translation": "选择右边或左边的出口。保护出口门！",
+    "MultiLang": {
+      "US": "",
+      "JP": "右側の出口か左側の出口に出ろ！出口のドアを守れ！",
+      "CN": "从右侧或左侧出口离开。保护出口大门！",
+      "KR": "오른쪽 또는 왼쪽 출구를 선택하세요. 출구 문을 방어하세요!",
+      "TW": "選擇右側或左側的出口。保護出口門！"
+    }
   },
   "Test Server :  Mapeadores | GFL": {
-    "translation": "测试服务器：Mapeadores | GFL"
+    "translation": "测试服务器：Mapeadores | GFL",
+    "MultiLang": {
+      "US": "",
+      "JP": "テストサーバー：Mapeadores | GFL",
+      "CN": "测试服务器：地图制作者 | GFL",
+      "KR": "테스트 서버: 맵 제작자 | GFL",
+      "TW": "測試伺服器： Mapeadores | GFL"
+    }
   },
   "The barrier will break in 10 seconds.": {
-    "translation": "屏障将在10秒内破裂。"
+    "translation": "屏障将在10秒内破裂。",
+    "MultiLang": {
+      "US": "",
+      "JP": "バリアが10秒後に崩壊します。",
+      "CN": "屏障将在10秒后破裂。",
+      "KR": "보호막이 10초 후 파괴됩니다.",
+      "TW": "屏障將在 10 秒後崩解。"
+    }
   },
   "The barrier will break in 15 seconds.": {
-    "translation": "屏障将在15秒内破裂。"
+    "translation": "屏障将在15秒内破裂。",
+    "MultiLang": {
+      "US": "",
+      "JP": "バリアが15秒後に崩壊します。",
+      "CN": "屏障将在15秒后破裂。",
+      "KR": "보호막이 15초 후 파괴됩니다.",
+      "TW": "屏障將在 15 秒後崩解。"
+    }
   },
   "The barrier will break in 20 seconds.": {
-    "translation": "屏障将在20秒内破裂。"
+    "translation": "屏障将在20秒内破裂。",
+    "MultiLang": {
+      "US": "",
+      "JP": "バリアが20秒後に崩壊します。",
+      "CN": "屏障将在20秒后破裂。",
+      "KR": "보호막이 20초 후 파괴됩니다.",
+      "TW": "屏障將在 20 秒後崩解。"
+    }
   },
   "The door opens in 5 sec!": {
-    "translation": "门将在5秒内打开！"
+    "translation": "门将在5秒内打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後にドアが開きます！",
+      "CN": "门将在5秒后打开！",
+      "KR": "문이 5초 후에 열립니다!",
+      "TW": "門将在 5 秒後開啟！"
+    }
   },
   "The door will open in 10 seconds.": {
-    "translation": "门将在10秒内打开。"
+    "translation": "门将在10秒内打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にドアが開きます。",
+      "CN": "门将在10秒后打开。",
+      "KR": "문이 10초 후에 열립니다.",
+      "TW": "門将在 10 秒後開啟。"
+    }
   },
   "The door will open in 15 seconds.": {
-    "translation": "门将在15秒内打开。"
+    "translation": "门将在15秒内打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に扉が開きます。",
+      "CN": "门将在15秒后打开。",
+      "KR": "문이 15초 후에 열립니다.",
+      "TW": "門將在 15 秒後開啟。"
+    }
   },
   "The door will open in 15 seconds. Finish the maze.": {
-    "translation": "门将在15秒内打开。完成迷宫。"
+    "translation": "门将在15秒内打开。完成迷宫。",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に扉が開きます。迷宮をクリアしてください。",
+      "CN": "门将在15秒后打开。完成迷宫。",
+      "KR": "문이 15초 후에 열립니다. 미로를 벗어나세요.",
+      "TW": "門將在 15 秒後開啟。完成迷宮。"
+    }
   },
   "The door will open in 20 seconds.": {
-    "translation": "门将在20秒内打开。"
+    "translation": "门将在20秒内打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が開きます。",
+      "CN": "门将在20秒后打开。",
+      "KR": "문이 20초 후에 열립니다.",
+      "TW": "門將在 20 秒後開啟。"
+    }
   },
   "The door will open in 20 seconds. Finish the maze.": {
-    "translation": "门将在20秒内打开。完成迷宫。"
+    "translation": "门将在20秒内打开。完成迷宫。",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が開きます。迷宮をクリアしてください。",
+      "CN": "门将在20秒后打开。完成迷宫。",
+      "KR": "문이 20초 후에 열립니다. 미로를 벗어나세요.",
+      "TW": "門將在 20 秒後開啟。完成迷宮。"
+    }
   },
   "The door will open in 5 seconds.": {
-    "translation": "门将在5秒内打开。"
+    "translation": "门将在5秒内打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後に扉が開きます。",
+      "CN": "门将在5秒后打开。",
+      "KR": "문이 5초 후에 열립니다.",
+      "TW": "門將在 5 秒後開啟。"
+    }
   },
   "The easy way has been opened.": {
-    "translation": "简单路线已打开。"
+    "translation": "简单路线已打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "易しいルートが開放されました。",
+      "CN": "已开启简易通道。",
+      "KR": "쉬운 경로가 열렸습니다.",
+      "TW": "簡易路線已開啟。"
+    }
   },
   "The elevator door is closing.": {
-    "translation": "电梯门正在关闭。"
+    "translation": "电梯门正在关闭。",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターの扉が閉まります。",
+      "CN": "电梯门即将关闭。",
+      "KR": "엘리베이터 문이 닫힙니다.",
+      "TW": "電梯門正在關閉。"
+    }
   },
   "The elevator door is opening.": {
-    "translation": "电梯门正在打开。"
+    "translation": "电梯门正在打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターの扉が開きます。",
+      "CN": "电梯门正在打开。",
+      "KR": "엘리베이터 문이 열립니다.",
+      "TW": "電梯門正在開啟。"
+    }
   },
   "The elevator door is opening. It will close in 10 seconds!!!": {
-    "translation": "电梯门正在打开。10秒内关闭！"
+    "translation": "电梯门正在打开。10秒内关闭！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターのドアが開きます。10秒後に閉まります！！！",
+      "CN": "电梯门正在打开，将在10秒后关闭！",
+      "KR": "승강기 문이 열립니다. 10초 후에 닫힙니다!!!",
+      "TW": "電梯門正在開啟，10秒後將關閉！！！"
+    }
   },
   "The elevator door is opening. It will close in 15 seconds!!!": {
-    "translation": "电梯门正在打开。15秒内关闭！"
+    "translation": "电梯门正在打开。15秒内关闭！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターのドアが開きます。15秒後に閉まります！！！",
+      "CN": "电梯门正在打开，将在15秒后关闭！",
+      "KR": "승강기 문이 열립니다. 15초 후에 닫힙니다!!!",
+      "TW": "電梯門正在開啟，15秒後將關閉！！！"
+    }
   },
   "The elevator goes to the next floor.": {
-    "translation": "电梯前往下一层。"
+    "translation": "电梯前往下一层。",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが次の階へ行きます。",
+      "CN": "电梯将前往下一层。",
+      "KR": "승강기가 다음 층으로 이동합니다.",
+      "TW": "電梯將前往下個樓層。"
+    }
   },
   "The elevator will move in 15 seconds.": {
-    "translation": "电梯将在15秒内移动。"
+    "translation": "电梯将在15秒内移动。",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後、エレベーターが移動します。",
+      "CN": "电梯将在15秒后移动。",
+      "KR": "승강기가 15초 후에 이동합니다.",
+      "TW": "電梯將在15秒後移動。"
+    }
   },
   "The elevator will move in 20 seconds.": {
-    "translation": "电梯将在20秒内移动。"
+    "translation": "电梯将在20秒内移动。",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後、エレベーターが移動します。",
+      "CN": "电梯将在20秒后移动。",
+      "KR": "승강기가 20초 후에 이동합니다.",
+      "TW": "電梯將在20秒後移動。"
+    }
   },
   "The fastest wins. Catch the helicopter and win.": {
-    "translation": "最快的获胜。赶上直升机并获胜。"
+    "translation": "最快的获胜。赶上直升机并获胜。",
+    "MultiLang": {
+      "US": "",
+      "JP": "最速が勝者です。ヘリコプターを捕らえて勝ちましょう。",
+      "CN": "速度制胜！追逐直升机并获胜。",
+      "KR": "빠른 자가 이깁니다. 헬리콥터를 잡으세요!",
+      "TW": "唯快不破。追上直升機即可獲勝。"
+    }
   },
   "The helicopter took off.": {
-    "translation": "直升机起飞了。"
+    "translation": "直升机起飞了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターが離陸しました。",
+      "CN": "直升机已起飞。",
+      "KR": "헬리콥터가 이륙했습니다.",
+      "TW": "直升機已起飛。"
+    }
   },
   "The zombie barrier will break after 10 seconds.": {
-    "translation": "僵尸屏障将在10秒后消失。"
+    "translation": "僵尸屏障将在10秒后消失。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビバリアは10秒後に壊れます。",
+      "CN": "丧尸屏障将在10秒后破裂。",
+      "KR": "좀비 장벽이 10초 후에 파괴됩니다.",
+      "TW": "殭屍護欄將在10秒後崩解。"
+    }
   },
   "Through the door.": {
-    "translation": "穿过门。"
+    "translation": "穿过门。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアから。",
+      "CN": "穿过那扇门。",
+      "KR": "문을 통해.",
+      "TW": "穿過門。"
+    }
   },
   "We've got 20 seconds before the chopper takes off. Defend and don't miss the chopper.": {
-    "translation": "我们有20秒时间，倒计时结束直升机会起飞。防守并不要错过直升机。"
+    "translation": "我们有20秒时间，倒计时结束直升机会起飞。防守并不要错过直升机。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターが発進まで20秒。防御して、ヘリコプターを見逃すな。",
+      "CN": "直升机将在20秒后起飞。坚守阵地，别错过直升机。",
+      "KR": "헬리콥터가 이륙하기까지 20초 남았습니다. 방어하고 헬리콥터를 놓치지 마세요.",
+      "TW": "直升機將在 20 秒後起飛。防禦並確保錯過直升機。"
+    }
   },
   "We've got 30 seconds before the chopper takes off. Defend and don't miss the chopper.": {
-    "translation": "我们有30秒时间，倒计时结束直升机会起飞。防守并不要错过直升机。"
+    "translation": "我们有30秒时间，倒计时结束直升机会起飞。防守并不要错过直升机。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターが発動まで30秒。防御して、ヘリコプターを見逃すな。",
+      "CN": "直升机将在30秒后起飞。坚守阵地，别错过直升机。",
+      "KR": "헬리콥터가 이륙하기까지 30초 남았습니다. 방어하고 헬리콥터를 놓치지 마세요.",
+      "TW": "直升機將在 30 秒後起飛。防禦並確保錯過直升機。"
+    }
   },
   "ZOMBIE TELEPORT !!!": {
-    "translation": "僵尸传送！！！"
+    "translation": "僵尸传送！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビテレポート！！！",
+      "CN": "僵尸传送 !!!",
+      "KR": "좀비 텔레포트 !!!",
+      "TW": "殭屍傳送 !!!"
+    }
   },
   "Zombie TP 7 sec !": {
-    "translation": "僵尸传送7秒！"
+    "translation": "僵尸传送7秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 7秒後！",
+      "CN": "僵尸瞬移还有7秒！",
+      "KR": "좀비 TP 7초!",
+      "TW": "殭屍瞬移 7 秒！"
+    }
   },
   "Zombie die": {
-    "translation": "僵尸死亡"
+    "translation": "僵尸死亡",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ死んだ",
+      "CN": "僵尸死亡",
+      "KR": "좀비 죽음",
+      "TW": "殭屍死亡"
+    }
   },
   "Zombie door is opening": {
-    "translation": "僵尸门正在打开"
+    "translation": "僵尸门正在打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビのドアが開いている",
+      "CN": "僵尸门正在打开",
+      "KR": "좀비 문 열림",
+      "TW": "殭屍房門正在開啟"
+    }
   },
   "Zombie doors open": {
-    "translation": "僵尸门打开"
+    "translation": "僵尸门打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビのドアが開いた",
+      "CN": "僵尸门已打开",
+      "KR": "좀비 문 열림",
+      "TW": "殭屍房門開啟"
+    }
   },
   "Zombie doors will open in 20 seconds.": {
-    "translation": "僵尸门将在20秒内打开。"
+    "translation": "僵尸门将在20秒内打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビのドアが20秒後に開きます。",
+      "CN": "丧尸门将在20秒后开启。",
+      "KR": "좀비 문이 20초 후에 열립니다.",
+      "TW": "殭屍門將在20秒後開啟。"
+    }
   },
   "Zombie doors will open in 25 seconds.": {
-    "translation": "僵尸门将在25秒内打开。"
+    "translation": "僵尸门将在25秒内打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビのドアが25秒後に開きます。",
+      "CN": "丧尸门将在25秒后开启。",
+      "KR": "좀비 문이 25초 후에 열립니다.",
+      "TW": "殭屍門將在25秒後開啟。"
+    }
   },
   "Zombie teleport !": {
-    "translation": "僵尸传送！"
+    "translation": "僵尸传送！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビテレポート！",
+      "CN": "传送丧尸！",
+      "KR": "좀비 트랜스포트!",
+      "TW": "殭屍傳送！"
+    }
   },
   "Zombie teleported": {
-    "translation": "僵尸已传送"
+    "translation": "僵尸已传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビがテレポートしました。",
+      "CN": "已传送丧尸",
+      "KR": "좀비가 트랜스포트되었습니다.",
+      "TW": "殭屍已傳送"
+    }
   },
   "Zombie tp 10 sec ! RUN": {
-    "translation": "僵尸传送10秒！快跑"
+    "translation": "僵尸传送10秒！快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンティピ0秒！走れ",
+      "CN": "10秒后传送丧尸！快跑！",
+      "KR": "좀비 tp 10초! 도망쳐!",
+      "TW": "殭屍10秒後傳送到！快跑！"
+    }
   },
   "Zombie tp 10 sec. RUN": {
-    "translation": "僵尸传送10秒。快跑"
+    "translation": "僵尸传送10秒。快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビテポ10秒。逃げて",
+      "CN": "10秒后传送丧尸。快跑",
+      "KR": "좀비 tp 10초. 도망쳐.",
+      "TW": "殭屍10秒後傳送。快跑！"
+    }
   },
   "Zombie tp 20 sec !": {
-    "translation": "僵尸传送20秒！"
+    "translation": "僵尸传送20秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP20秒！",
+      "CN": "20秒后传送丧尸！",
+      "KR": "좀비 tp 20초!",
+      "TW": "殭屍20秒後傳送！"
+    }
   },
   "Zombie tp 5 sec !": {
-    "translation": "僵尸传送5秒！"
+    "translation": "僵尸传送5秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP5秒！",
+      "CN": "5秒后传送丧尸！",
+      "KR": "좀비 tp 5초!",
+      "TW": "殭屍5秒後傳送！"
+    }
   },
   "Zombie tp 5 sec ! RUN": {
-    "translation": "僵尸传送5秒！快跑"
+    "translation": "僵尸传送5秒！快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 5秒！逃走",
+      "CN": "5秒后传送僵尸！快跑",
+      "KR": "좀부 tp 5초! 도망쳐!",
+      "TW": "殭屍5秒後传送！快跑"
+    }
   },
   "defend the RIGHT and the LEFT.": {
-    "translation": "防守左右两侧。"
+    "translation": "防守左右两侧。",
+    "MultiLang": {
+      "US": "",
+      "JP": "右と左を守れ。",
+      "CN": "守住左右两侧。",
+      "KR": "오른쪽과 왼쪽을 방어해라.",
+      "TW": "守住右側和左側。"
+    }
   },
   "defend the left and right door.": {
-    "translation": "防守左右两扇门。"
+    "translation": "防守左右两扇门。",
+    "MultiLang": {
+      "US": "",
+      "JP": "左右のドアを守れ。",
+      "CN": "守住左右大门。",
+      "KR": "왼쪽과 오른쪽 문을 방어해라.",
+      "TW": "守住左右兩扇門。"
+    }
   },
   "don't defend run run": {
-    "translation": "不要防守，快跑快跑"
+    "translation": "不要防守，快跑快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "守らずに走れ、走れ",
+      "CN": "别守了，快跑！",
+      "KR": "방어하지 말고 도망쳐!",
+      "TW": "別守了，快跑！"
+    }
   },
   "key found": {
-    "translation": "找到钥匙"
+    "translation": "找到钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "キー発見",
+      "CN": "已找到钥匙",
+      "KR": "열쇠 발견",
+      "TW": "找到鑰匙"
+    }
   },
   "to the next floor.": {
-    "translation": "到下一层。"
+    "translation": "到下一层。",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のフロアへ。",
+      "CN": "前往下一层。",
+      "KR": "다음 층으로 이동.",
+      "TW": "前往下一層。"
+    }
   },
   "zombie tp 10 sec, RUN RUN": {
-    "translation": "僵尸传送10秒，快跑快跑"
+    "translation": "僵尸传送10秒，快跑快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 10秒、逃走 逃走",
+      "CN": "10秒后传送僵尸，快跑快跑",
+      "KR": "좀부 tp 10초, 도망쳐!",
+      "TW": "殭屍10秒後传送，快跑！"
+    }
   },
   "WELCOME TO STARK ESCAPE": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "STARK ESCAPEへようこそ",
+      "CN": "欢迎来到史塔克逃亡",
+      "KR": "스타크 탈출에 오신 것을 환영합니다",
+      "TW": "歡迎來到史塔克逃生"
+    }
   },
   "THE HELICOPTER WILL TAKE OFF IN 20 SECONDS!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターは20秒後に離陸します！",
+      "CN": "直升机将于20秒后起飞！",
+      "KR": "헬리콥터가 20초 내에 이착륙합니다!",
+      "TW": "直升機即將於 20 秒後起飛！"
+    }
   },
   "10 SEC HELI, RUN RUN RUN !!!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリ10秒、走れ走れ走れ！！！",
+      "CN": "直升机10秒后起飞，快跑快跑快跑！！！",
+      "KR": "헬기 10초, 달아나라달아나라!!!",
+      "TW": "10 秒後直升機起飛，快跑快跑快跑！"
+    }
   },
   "GO TO THE HELICOPTER": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターへ向かえ",
+      "CN": "前往直升机处",
+      "KR": "헬리콥터로 이동하세요",
+      "TW": "前往直升機處"
+    }
   },
   ">>>4<<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>>3<<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>>2<<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>>1<<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "DONT DEFEND, RUN RUN RUN": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "守るな、走れ走れ走れ",
+      "CN": "不要防守，快跑快跑快跑。",
+      "KR": "방어하지 마세요, 달아나라달아나라",
+      "TW": "別防守，快跑快跑快跑"
+    }
   },
   "DONT DEFEND! RUN RUN": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "守るな！走れ",
+      "CN": "不要防守！快跑",
+      "KR": "방어하지 마세요! 달리세요",
+      "TW": "別防守！快跑"
+    }
   },
   "The zombie barrier will break after 5 seconds.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビバリアは5秒後に破綻します。",
+      "CN": "丧尸屏障将在5秒后破裂。",
+      "KR": "좀비 장벽이 5초 후에 파괴됩니다.",
+      "TW": "殭屍屏障将在 5 秒後破裂。"
+    }
   },
   "ZOMBIE DOOR OPENED !": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの扉が開いた！",
+      "CN": "丧尸门已打开！",
+      "KR": "좀비 문 열림!",
+      "TW": "殭屍門已開啟！"
+    }
+  },
+  "Zombie tp 10 sec !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ.tp 10秒！",
+      "CN": "传送门10秒后开启！",
+      "KR": "좀비 순간이동 10초!",
+      "TW": "殭屍 tp 10 秒！"
+    }
   }
 }

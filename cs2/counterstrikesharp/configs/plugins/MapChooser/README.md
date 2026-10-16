@@ -9,6 +9,11 @@
 | updatedname     | 地图准确名称                     | 调用需要 如 ds_workshop_changelevel 地图名      |
 | RestrictedTimes | 08:00-12:00;14:00-23:00         | 禁用时间段 支持多个 (即不在这些时间段都可以玩)  24:00是不合法的时间会导致无法解析(如果先前已被预定 则不起限制作用)      | 
 | MinPlayers      | 16                             | 最低需要玩家(如果先前已被预定 则不起限制作用)                                   |
+| OnlyNominate      | 0                             | 无法随机产生,预定时产生                                   |
+|DisableServerInPerfectWorld | 0 		   | 当服务器存在完美平台插件时 禁用地图,适用于敏感地图(尚未推送部署)                            |
+
+
+
 | search          | "植物;pvz"                       | 预定搜索多关键词                               |
 
 # 配置样本
@@ -20,7 +25,9 @@
 		"filename"		"ze_p_v_z"
 		"updatedname"		"ze_p_v_z"
 		"search"		"植物;pvz"
+		"OnlyNominate"		"0"
         	"RestrictedTimes" 	"01:00-06:00;14:00-23:50"
+		"DisableServerInPerfectWorld" "0"
 	}
 ```
 

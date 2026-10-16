@@ -1,315 +1,1042 @@
 {
   "<< 10 seconds to choose >>": {
-    "translation": "<<选择时间剩余10秒>>"
+    "translation": "<<选择时间剩余10秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒以内に選択 >>",
+      "CN": "<< 选择剩余时间：10秒 >>",
+      "KR": "<< 10초 이내에 선택하세요 >>",
+      "TW": "《10秒內做出選擇》"
+    }
   },
   "<< 120 seconds left >>": {
-    "translation": "<<剩余120秒>>"
+    "translation": "<<剩余120秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 残り120秒 >>",
+      "CN": "<< 剩余时间：120秒 >>",
+      "KR": "<< 남은 시간 120초 >>",
+      "TW": "剩餘120秒"
+    }
   },
   "<< 150 seconds >>": {
-    "translation": "<<剩余150秒>>"
+    "translation": "<<剩余150秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 150秒 >>",
+      "CN": "<< 150秒 >>",
+      "KR": "<< 150초 >>",
+      "TW": "《150秒》"
+    }
   },
   "<< 180 seconds left >>": {
-    "translation": "<<剩余180秒>>"
+    "translation": "<<剩余180秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 残り180秒 >>",
+      "CN": "<< 剩余时间：180秒 >>",
+      "KR": "<< 남은 시간 180초 >>",
+      "TW": "剩餘180秒"
+    }
   },
   "<< 249 seconds left >>": {
-    "translation": "<<剩余249秒>>"
+    "translation": "<<剩余249秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 残り249秒 >>",
+      "CN": "<< 剩余时间：249秒 >>",
+      "KR": "<< 남은 시간 249초 >>",
+      "TW": "剩餘249秒"
+    }
   },
   "<< 30 seconds >>": {
-    "translation": "<<剩余30秒>>"
+    "translation": "<<剩余30秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒 >>",
+      "CN": "<< 30秒 >>",
+      "KR": "<< 30초 >>",
+      "TW": "《30秒》"
+    }
   },
   "<< 60 seconds >>": {
-    "translation": "<<剩余60秒>>"
+    "translation": "<<剩余60秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 60秒 >>",
+      "CN": "<< 60秒 >>",
+      "KR": "<< 60초 >>",
+      "TW": "《60秒》"
+    }
   },
   "<< 60 seconds left >>": {
-    "translation": "<<剩余60秒>>"
+    "translation": "<<剩余60秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 残り60秒 >>",
+      "CN": "<< 剩余时间：60秒 >>",
+      "KR": "<< 남은 시간 60초 >>",
+      "TW": "剩餘60秒"
+    }
   },
   "<< 90 seconds >>": {
-    "translation": "<<剩余90秒>>"
+    "translation": "<<剩余90秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 90秒以内 >>",
+      "CN": "<< 90秒 >>",
+      "KR": "<< 90초 남음 >>",
+      "TW": "<< 90秒 >>"
+    }
   },
   "<< A Bridge Appears >>": {
-    "translation": "<<桥出现了>>"
+    "translation": "<<桥出现了>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 橋の出現 >>",
+      "CN": "<< 桥梁出现 >>",
+      "KR": "<< 교각 생성 >>",
+      "TW": "<< 橋樑出現 >>"
+    }
   },
   "<< After a little time, only 1 platform will be safe >>": {
-    "translation": "<<过一段时间后，只有1个平台是安全的>>"
+    "translation": "<<过一段时间后，只有1个平台是安全的>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 少し経つと、プラットフォームのうち1つだけが安全になります >>",
+      "CN": "<< 一段时间后，仅剩1个平台安全 >>",
+      "KR": "<< 잠시 후, 안전 지역이 플랫폼 1개만 남습니다. >>",
+      "TW": "<< 不久後，僅剩一個平台是安全的 >>"
+    }
   },
   "<< After a little time, only a few number of platform will be safe >>": {
-    "translation": "<<过一段时间后，只有少数平台是安全的>>"
+    "translation": "<<过一段时间后，只有少数平台是安全的>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 少し経つと、限られた数のプラットフォームだけが安全になります >>",
+      "CN": "<< 一段时间后，仅剩少量平台安全 >>",
+      "KR": "<< 잠시 후, 안전 지역이 몇몇 플랫폼만 남습니다. >>",
+      "TW": "<< 不久後，僅有少數平台是安全的 >>"
+    }
   },
   "<< BUTTON MODE >>": {
-    "translation": "<<按钮模式>>"
+    "translation": "<<按钮模式>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ボタンモード >>",
+      "CN": "<< 按钮模式 >>",
+      "KR": "<< 버튼 모드 >>",
+      "TW": "<< 按鈕模式 >>"
+    }
   },
   "<< Be careful!!! All players will die if you do not finish the deathrun in 250 seconds >>": {
-    "translation": "<<小心！！！如果250秒内无人完成死跑，所有玩家将会死亡>>"
+    "translation": "<<小心！！！如果250秒内无人完成死跑，所有玩家将会死亡>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 注意！！250秒以内にデスランを完了しないと、全プレイヤーが死亡します >>",
+      "CN": "<< 请注意！如果你在250秒内未完成死亡跑图，所有玩家都将阵亡 >>",
+      "KR": "<font color='#ff0000'>주의!!!</font> 250초 안에 데스런을 성공하지 못하면 모든 플레이어가 사망합니다. >",
+      "TW": "<< 請小心！！！如果您未能在250秒內完成死亡跑酷，所有玩家將死亡 >>"
+    }
   },
   "<< Choose Mode...... >>": {
-    "translation": "<<选择模式......>>"
+    "translation": "<<选择模式......>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< モードを選択... >>",
+      "CN": "<< 选择模式...... >>",
+      "KR": "<font color='#ff4500'>모드 선택...</font> >",
+      "TW": "<< 選擇模式...... >>"
+    }
   },
   "<< DEATHRUN MODE >>": {
-    "translation": "<<死跑模式>>"
+    "translation": "<<死跑模式>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< デスランモード >>",
+      "CN": "<< 死亡跑图模式 >>",
+      "KR": "<font color='#ff4500'>데스런 모드</font> >",
+      "TW": "<< 死亡跑酷模式 >>"
+    }
   },
   "<< DEFENSE MODE >>": {
-    "translation": "<<防守模式>>"
+    "translation": "<<防守模式>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 防衛モード >>",
+      "CN": "【防御模式】",
+      "KR": "<< 방어 모드 >>",
+      "TW": "<< 防禦模式 >>"
+    }
   },
   "<< DIE >>": {
-    "translation": "<<死亡>>"
+    "translation": "<<死亡>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 死ね！ >>",
+      "CN": "【死亡】",
+      "KR": "<< 죽어라 >>",
+      "TW": "<< 絕望 >>"
+    }
   },
   "<< DeathRun Complete !!! >>": {
-    "translation": "<<死跑完成！！！>>"
+    "translation": "<<死跑完成！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< デスラン 完了！！！ >>",
+      "CN": "【DeathRun 通关！！】",
+      "KR": "<< 데스런 클리어 !!! >>",
+      "TW": "<< 死亡跑道完成 !!! >>"
+    }
   },
   "<< Defend for 12 seconds >>": {
-    "translation": "<<防守12秒>>"
+    "translation": "<<防守12秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 12秒間防衛せよ >>",
+      "CN": "坚守12秒",
+      "KR": "<< 12초간 방어하세요 >>",
+      "TW": "<< 防禦12秒 >>"
+    }
   },
   "<< Do Not Let zombies destroy the crystal >>": {
-    "translation": "<<不要让僵尸摧毁水晶>>"
+    "translation": "<<不要让僵尸摧毁水晶>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビがクリスタルを壊さないよう注意 >>",
+      "CN": "不要让僵尸摧毁水晶",
+      "KR": "<< 좀비가 수정을 파괴하지 못하게 하세요 >>",
+      "TW": "<< 不要讓殭屍摧毀水晶 >>"
+    }
   },
   "<< FAIL...... >>": {
-    "translation": "<<失败......>>"
+    "translation": "<<失败......>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 失敗…… >>",
+      "CN": "失败……",
+      "KR": "<< 실패...... >>",
+      "TW": "<< 失敗...... >>"
+    }
   },
   "<< FROG MODE >>": {
-    "translation": "<<青蛙模式>>"
+    "translation": "<<青蛙模式>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< フロッグモード >>",
+      "CN": "【青蛙模式】",
+      "KR": "<< 개구리 모드 >>",
+      "TW": "<< 青蛙模式 >>"
+    }
   },
   "<< Final 30 seconds !!! >>": {
-    "translation": "<<最终30秒！！！>>"
+    "translation": "<<最终30秒！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あと30秒！！！ >>",
+      "CN": "最后30秒！！",
+      "KR": "<< 마지막 30초 !!! >>",
+      "TW": "<< 最後30秒 !!! >>"
+    }
   },
   "<< GO!!! >>": {
-    "translation": "<<开始！！！>>"
+    "translation": "<<开始！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< GO!!! >>",
+      "CN": "<< 出发！！！ >>",
+      "KR": "<< GO!!! >>",
+      "TW": "<< 開始！！！ >>"
+    }
   },
   "<< HERO MODE >>": {
-    "translation": "<<英雄模式>>"
+    "translation": "<<英雄模式>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< HERO MODE >>",
+      "CN": "<< 英雄模式 >>",
+      "KR": "<< 히어로 모드 >>",
+      "TW": "<< 英雄模式 >>"
+    }
   },
   "<< Hold For 10 seconds >>": {
-    "translation": "<<坚守10秒>>"
+    "translation": "<<坚守10秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒間Hold >>",
+      "CN": "<< 按住10秒 >>",
+      "KR": "<< 10초 동안 유지하세요 >>",
+      "TW": "<< 按住 10 秒鐘 >>"
+    }
   },
   "<< Human win >>": {
-    "translation": "<<人类胜利>>"
+    "translation": "<<人类胜利>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< Human win >>",
+      "CN": "<< 人类获胜 >>",
+      "KR": "<< 인간 승리 >>",
+      "TW": "<< 人類獲勝 >>"
+    }
   },
   "<< It seems that you are less than 16 guys >>": {
-    "translation": "<<看起来人类数量少于16个>>"
+    "translation": "<<看起来人类数量少于16个>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< It seems that you are less than 16 guys >>",
+      "CN": "<< 看来你连16个男人都不到 >>",
+      "KR": "<< 당신 16세 미만으로 보입니다. >>",
+      "TW": "<< 看來你比 16 個男人還少 >>"
+    }
   },
   "<< It seems that you destroy some fucking things >>": {
-    "translation": "<<看起来你摧毁了一些该死的东西>>"
+    "translation": "<<看起来你摧毁了一些该死的东西>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< It seems that you destroy some fucking things >>",
+      "CN": "<< 看来你把一些该死的玩意儿炸了 >>",
+      "KR": "<< 당신은 꽤나 많은 무언가를 파괴하네요. >>",
+      "TW": "<< 看來你摧毀了一些該死的東西 >>"
+    }
   },
   "<< Let's play a game now >>": {
-    "translation": "<<现在我们来玩个游戏>>"
+    "translation": "<<现在我们来玩个游戏>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< Let's play a game now >>",
+      "CN": "<< 我们现在开始玩个游戏吧 >>",
+      "KR": "<< 이제 게임을 시작합시다. >>",
+      "TW": "<< 現在來玩一場遊戲吧 >>"
+    }
   },
   "<< Lets start! The Final Ten heros!!! >>": {
-    "translation": "<<开始！最后的十位英雄！！！>>"
+    "translation": "<<开始！最后的十位英雄！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< Lets start! The Final Ten heros!!! >>",
+      "CN": "<< 开始吧！最终十位英雄！！！ >>",
+      "KR": "<< 시작합니다! 최종 10명의 히어로!!! >>",
+      "TW": "<< 我們開始吧！最終的十位英雄！！！ >>"
+    }
   },
   "<< Look at that fucking face >>": {
-    "translation": "<<看那张该死的脸>>"
+    "translation": "<<看那张该死的脸>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 見ろ、あのクソみたいな顔 >>",
+      "CN": "<< 看看那张该死的脸 >>",
+      "KR": "<< 그 개_xx 얼굴 봐 >>",
+      "TW": "<<看看那張該死的臉>>"
+    }
   },
   "<< NO!!! zombie has touched that fucking face >>": {
-    "translation": "<<不！！！僵尸碰到了那张该死的脸>>"
+    "translation": "<<不！！！僵尸碰到了那张该死的脸>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< NO!!! ゾンビがそのクソみたいな顔に触れた >>",
+      "CN": "<< 不！！！僵尸碰到了那张该死的脸 >>",
+      "KR": "<< NO!!! 좀비가 그 개_xx 얼굴을 만졌어 >>",
+      "TW": "<<不！！！殭屍碰到了那張該死的臉>>"
+    }
   },
   "<< NOBODY WIN THE LASER TEST >>": {
-    "translation": "<<没有人通过跳刀测试>>"
+    "translation": "<<没有人通过跳刀测试>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< NOBODY WIN THE LASER TEST >>",
+      "CN": "<< 没人能通过激光测试 >>",
+      "KR": "<< 레이저 테스트에는 승자가 없어 >>",
+      "TW": "<<沒有人通過激光測試>>"
+    }
   },
   "<< No Short Cut >>": {
-    "translation": "<<别想走捷径>>"
+    "translation": "<<别想走捷径>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< No Short Cut >>",
+      "CN": "<< 没有捷径可走 >>",
+      "KR": "지름길은 없어 >>",
+      "TW": "<<沒有捷徑>>"
+    }
   },
   "<< Now its the entertainment time!!! >>": {
-    "translation": "<<现在是娱乐时间！！！>>"
+    "translation": "<<现在是娱乐时间！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "さて、エンタメタイムだ！>>",
+      "CN": "<< 现在进入娱乐时间！！！ >>",
+      "KR": "<< 이제 엔터테인먼트 시간!!! >>",
+      "TW": "<<現在是娛樂時間！！！>>"
+    }
   },
   "<< Now let's start the final game >>": {
-    "translation": "<<现在让我们开始最后的游戏>>"
+    "translation": "<<现在让我们开始最后的游戏>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< さて、最後のゲームを始めよう >>",
+      "CN": "<< 现在让我们开始最终游戏 >>",
+      "KR": "<< 그럼 최종 게임을 시작해보자 >>",
+      "TW": "<<現在我們開始最終遊戲>>"
+    }
   },
   "<< OHHHHHH ITS E PICK LEGEND !!! >>": {
-    "translation": "<<哦哦哦哦，是按E抢神器高手！！！>>"
+    "translation": "<<哦哦哦哦，是按E抢神器高手！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< OHHHHHH Eの伝説が選ばれた！！！ >>",
+      "CN": "<< 哦吼吼吼，是E级传奇！！！ >>",
+      "KR": "오오오오 오 Epicked 레전드!!! >>",
+      "TW": "哦豁，E是傳奇！！！>>"
+    }
   },
   "<< OK, I will let you win this game easier >>": {
-    "translation": "<<好吧，我会让你更容易赢得这个游戏>>"
+    "translation": "<<好吧，我会让你更容易赢得这个游戏>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< OK、このゲームを easier にして勝者にしてやる >>",
+      "CN": "<< 好的，我会让你更容易赢得这场比赛 >>",
+      "KR": "<< OK, 이번 게임은 좀 더 쉽게 이기게 해줄게 >>",
+      "TW": "<<好吧，我會讓你輕鬆贏得這局遊戲>>"
+    }
   },
   "<< ONLY HAS 30 seconds to become the HERO >>": {
-    "translation": "<<30秒内成为英雄>>"
+    "translation": "<<30秒内成为英雄>>",
+    "MultiLang": {
+      "US": "<< ONLY HAS 30 SECONDS TO BECOME THE HERO >>",
+      "JP": "<< 30秒以内にヒーローになれ >>",
+      "CN": "<< 只有30秒时间成为英雄 >>",
+      "KR": "<< 히어로가 되려면 딱 30초만 있습니다 >>",
+      "TW": "<< 只有30秒時間成為英雄 >>"
+    }
   },
   "<< Press 8 button to win the game >>": {
-    "translation": "<<按下8个按钮以赢得游戏>>"
+    "translation": "<<按下8个按钮以赢得游戏>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 8ボタンを押してゲームを勝利せよ >>",
+      "CN": "<< 按下8键赢得比赛 >>",
+      "KR": "<< 8번 버튼을 누르면 게임에서 승리합니다 >>",
+      "TW": "<< 按下8鍵贏得遊戲 >>"
+    }
   },
   "<< Random Pick >>": {
-    "translation": "<<随机选择>>"
+    "translation": "<<随机选择>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ランダムピック >>",
+      "CN": "<< 随机抽取 >>",
+      "KR": "<< 랜덤 픽 >>",
+      "TW": "<< 隨機選擇 >>"
+    }
   },
   "<< Round 1 >>": {
-    "translation": "<<第一轮>>"
+    "translation": "<<第一轮>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ラウンド1 >>",
+      "CN": "<< 第1轮 >>",
+      "KR": "<< 라운드 1 >>",
+      "TW": "<< 第1回合 >>"
+    }
   },
   "<< Round 2 >>": {
-    "translation": "<<第二轮>>"
+    "translation": "<<第二轮>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ラウンド2 >>",
+      "CN": "<< 第2轮 >>",
+      "KR": "<< 라운드 2 >>",
+      "TW": "<< 第2回合 >>"
+    }
   },
   "<< SOLO MODE >>": {
-    "translation": "<<SOLO模式>>"
+    "translation": "<<SOLO模式>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ソロモード >>",
+      "CN": "<< 单人模式 >>",
+      "KR": "<< 솔로 모드 >>",
+      "TW": "<< 單人模式 >>"
+    }
   },
   "<< Shooting the crystal to become the HERO >>": {
-    "translation": "<<击碎水晶以成为英雄>>"
+    "translation": "<<击碎水晶以成为英雄>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< クリスタルを撃ってヒーローになれ >>",
+      "CN": "<< 击碎水晶成为英雄 >>",
+      "KR": "<< 크리털을 사격하여 히어로가 되세요 >>",
+      "TW": "<< 射擊水晶成為英雄 >>"
+    }
   },
   "<< Shooting the mode that you want to play!!! >>": {
-    "translation": "<<射击你想玩的模式！！！>>"
+    "translation": "<<射击你想玩的模式！！！>>",
+    "MultiLang": {
+      "US": "<< Shoot the mode you want to play!!! >>",
+      "JP": "<< 遊びたいモードを射て選べ!!! >>",
+      "CN": "<< 射击你想要游玩的模式！！！ >>",
+      "KR": "<< 플레이하고 싶은 모드를 사격하세요!!! >>",
+      "TW": "<< 射擊你想玩的模式！>>"
+    }
   },
   "<< So Are You READY? >>": {
-    "translation": "<<所以你准备好了吗？>>"
+    "translation": "<<所以你准备好了吗？>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 準備はできたか？ >>",
+      "CN": "<< 准备好了吗？ >>",
+      "KR": "<< 그럼 준비되셨나요? >>",
+      "TW": "<< 你準備好了嗎？ >>"
+    }
   },
   "<< TEAM MODE >>": {
-    "translation": "<<团队模式>>"
+    "translation": "<<团队模式>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< チームモード >>",
+      "CN": "<< 组队模式 >>",
+      "KR": "<< 팀 모드 >>",
+      "TW": "<< 團隊模式 >>"
+    }
   },
   "<< TIPS: HUMAN now are uninfectable >>": {
-    "translation": "<<提示：人类现在是不可被感染的>>"
+    "translation": "<<提示：人类现在是不可被感染的>>",
+    "MultiLang": {
+      "US": "TIPS: HUMANS are now uninfectable",
+      "JP": "<< ヒント: ヒューマンは現在感染しない >>",
+      "CN": "<< 提示：当前玩家不受感染 >>",
+      "KR": "<< 팁: 현재 플레이어는 감염되지 않습니다. >>",
+      "TW": "<< 提示：人類現在不會被感染 >>"
+    }
   },
   "<< The first save point has been unlocked ! >>": {
-    "translation": "<<第一个保存点已解锁！>>"
+    "translation": "<<第一个保存点已解锁！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最初のセーブポイントが解放されました！ >>",
+      "CN": "<< 第一个存档点已解锁！>>",
+      "KR": "<< 첫 번째 저장 지점이 해제되었습니다! >>",
+      "TW": "<< 第一個存檔點已解鎖！ >>"
+    }
   },
   "<< Try your best to get to the end >>": {
-    "translation": "<<尽力到达终点>>"
+    "translation": "<<尽力到达终点>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最後まで頑張って抜け出せ >>",
+      "CN": "<< 全力以赴冲向终点 >>",
+      "KR": "<< 끝에 도달하도록 최선을 다해 보세요. >>",
+      "TW": "<< 盡全力到达终点 >>"
+    }
   },
   "<< Watch Out !!!! >>": {
-    "translation": "<<小心!!!!>>"
+    "translation": "<<小心!!!!>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 注意！！！！ >>",
+      "CN": "<< 小心！！！！>>",
+      "KR": "<< 주의하세요!!!! >>",
+      "TW": "<< 小心 !!!! >>"
+    }
   },
   "<< Welcome to DeathRun!!! >>": {
-    "translation": "<<欢迎来到死跑！！！>>"
+    "translation": "<<欢迎来到死跑！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< デスランへようこそ！！！ >>",
+      "CN": "<< 欢迎来到死亡狂奔！>>",
+      "KR": "<< 데스런에 오신 것을 환영합니다!!! >>",
+      "TW": "<< 欢迎来到 DeathRun!!! >>"
+    }
   },
   "<< What are you doing??? >>": {
-    "translation": "<<你在做什么？？？>>"
+    "translation": "<<你在做什么？？？>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< なにしてんだ？？？ >>",
+      "CN": "<< 你在干什么？！！>>",
+      "KR": "<< 지금 뭐 하시는 거죠??? >>",
+      "TW": "<< 你在做什么？？？ >>"
+    }
   },
   "<< YOU ARE NOT LUCKY >>": {
-    "translation": "<<你运气不好>>"
+    "translation": "<<你运气不好>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< キミは運がよくない >>",
+      "CN": "<< 你运气不佳 >>",
+      "KR": "<< 당신은 운이 없어요 >>",
+      "TW": "<< 你運氣不好 >>"
+    }
   },
   "<< YOU GET IT >>": {
-    "translation": "<<你得到了它>>"
+    "translation": "<<你得到了它>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< それをゲットした >>",
+      "CN": "<< 你获得了它 >>",
+      "KR": "<< 얻으셨네요 >>",
+      "TW": "<< 拿到它了 >>"
+    }
   },
   "<< You Done It !!! >>": {
-    "translation": "<<你做到了！！！>>"
+    "translation": "<<你做到了！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 完成しました！！！ >>",
+      "CN": "<< 你做到了！！！ >>",
+      "KR": "<< 달성하셨습니다! >>",
+      "TW": "<< 你成功了！！>>"
+    }
   },
   "<< You can jump back to go to the button room >>": {
-    "translation": "<<你可以跳回去去按钮房间>>"
+    "translation": "<<你可以跳回去去按钮房间>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ジャンプして戻ることで、ボスルームへ戻れます >>",
+      "CN": "<< 你可以跳回按钮房间 >>",
+      "KR": "<< 점프해 버튼 방으로 돌아가실 수 있습니다 >>",
+      "TW": "<< 你可以跳回去回到按鈕房間 >>"
+    }
   },
   "<< You can see there are 8 platforms >>": {
-    "translation": "<<你可以看到那里有8个平台>>"
+    "translation": "<<你可以看到那里有8个平台>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 8つのプラットフォームが見えるはずです >>",
+      "CN": "<< 你可以看到有8个平台 >>",
+      "KR": "<< 총 8개의 플랫폼이 보일 것입니다 >>",
+      "TW": "<< 你可以看到有8個平台 >>"
+    }
   },
   "<< You have already win 4 mode!!! >>": {
-    "translation": "<<你已经赢得了4种模式！！！>>"
+    "translation": "<<你已经赢得了4种模式！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あなたはすでに4つのモードを制覇しました！！！ >>",
+      "CN": "<< 你已赢了4种模式！！！ >>",
+      "KR": "<< 이미 4가지 모드를 클리어하셨습니다! >>",
+      "TW": "<< 你已經贏了4種模式！！>>"
+    }
   },
   "<< You only have 120 seconds >>": {
-    "translation": "<<你只有120秒>>"
+    "translation": "<<你只有120秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 残り120秒です >>",
+      "CN": "<< 你只有120秒的时间 >>",
+      "KR": "<< 남은 시간은 단 120초입니다 >>",
+      "TW": "<< 你只有120秒 >>"
+    }
   },
   "<< Zombie win >>": {
-    "translation": "<<僵尸胜利>>"
+    "translation": "<<僵尸胜利>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビの勝ち >>",
+      "CN": "<< 僵尸获胜 >>",
+      "KR": "<< 좀비가 승리합니다 >>",
+      "TW": "<< 殭屍獲勝 >>"
+    }
   },
   "<< a player has picked up wind >>": {
-    "translation": "<<一名玩家拾取了风>>"
+    "translation": "<<一名玩家拾取了风>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが風を拾った >>",
+      "CN": "<< a player has picked up wind >>",
+      "KR": "<< 바람을 얻은 플레이어 >>",
+      "TW": "一名玩家已拾取風元素"
+    }
   },
   "<< afk tele in 20 seconds >>": {
-    "translation": "<<挂机传送将在20秒后进行>>"
+    "translation": "<<挂机传送将在20秒后进行>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒後にAFKテレポート >>",
+      "CN": "<< afk tele in 20 seconds >>",
+      "KR": "<< 20초 후 afk 텔레포트 >>",
+      "TW": "AFK傳送倒計時：20秒"
+    }
   },
   "<< defend for 10 seconds >>": {
-    "translation": "<<防守10秒>>"
+    "translation": "<<防守10秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒間防御 >>",
+      "CN": "<< defend for 10 seconds >>",
+      "KR": "<< 10초간 방어 >>",
+      "TW": "守衛10秒"
+    }
   },
   "<< defend for 30 seconds >>": {
-    "translation": "<<防守30秒>>"
+    "translation": "<<防守30秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒間防御 >>",
+      "CN": "<< defend for 30 seconds >>",
+      "KR": "<< 30초간 방어 >>",
+      "TW": "守衛30秒"
+    }
   },
   "<< defend for final 30 seconds >>": {
-    "translation": "<<防守最后30秒>>"
+    "translation": "<<防守最后30秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最後の30秒間防御 >>",
+      "CN": "<< defend for final 30 seconds >>",
+      "KR": "<< 마지막 30초간 방어 >>",
+      "TW": "最後守衛30秒"
+    }
   },
   "<< defense for 120 seconds >>": {
-    "translation": "<<防守120秒>>"
+    "translation": "<<防守120秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 120秒間防御 >>",
+      "CN": "<< defense for 120 seconds >>",
+      "KR": "<< 120초간 방어 >>",
+      "TW": "守衛120秒"
+    }
   },
   "<< hold for 10 seconds >>": {
-    "translation": "<<坚守10秒>>"
+    "translation": "<<坚守10秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒間保持 >>",
+      "CN": "<< hold for 10 seconds >>",
+      "KR": "<< 10초간 유지 >>",
+      "TW": "堅持10秒"
+    }
   },
   "<< hold for 30 seconds >>": {
-    "translation": "<<坚守30秒>>"
+    "translation": "<<坚守30秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒間保持 >>",
+      "CN": "<< hold for 30 seconds >>",
+      "KR": "<< 30초간 유지 >>",
+      "TW": "堅持30秒"
+    }
   },
   "<< hold for 60 seconds >>": {
-    "translation": "<<坚守60秒>>"
+    "translation": "<<坚守60秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 60秒間押す >>",
+      "CN": "<< 持续按住60秒 >>",
+      "KR": "<< 60초 동안 누르세요 >>",
+      "TW": "<< 按住 60 秒 >>"
+    }
   },
   "<< human win >>": {
-    "translation": "<<人类胜利>>"
+    "translation": "<<人类胜利>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 人間側の勝利 >>",
+      "CN": "<< 人类胜利 >>",
+      "KR": "<< 인간 승리 >>",
+      "TW": "<< 人類勝利 >>"
+    }
   },
   "<< it has a 50 seconds cool down >>": {
-    "translation": "<<有50的冷却时间>>"
+    "translation": "<<有50的冷却时间>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< コoldownは50秒です >>",
+      "CN": "<< 冷却时间为50秒 >>",
+      "KR": "<< 50초의 쿨타임이 있습니다 >>",
+      "TW": "<< 冷卻時間為 50 秒 >>"
+    }
   },
   "<< press the button and defend zombie >>": {
-    "translation": "<<按下按钮并防守僵尸>>"
+    "translation": "<<按下按钮并防守僵尸>>",
+    "MultiLang": {
+      "US": "press the button to defend against the zombie",
+      "JP": "<< ボタンを押してゾンフから守る >>",
+      "CN": "<< 按下按钮并防御僵尸 >>",
+      "KR": "<< 버튼을 누르고 좀비를 방어하세요 >>",
+      "TW": "<< 按下按鈕並抵禦殭屍 >>"
+    }
   },
   "<< so now, choose the number that you like >>": {
-    "translation": "<<现在，选择你喜欢的数字>>"
+    "translation": "<<现在，选择你喜欢的数字>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 好きな番号を選ぼう >>",
+      "CN": "<< 现在，选择你喜欢的数字 >>",
+      "KR": "<< 그래서 지금, 당신이 원하는 번호를 선택하세요 >>",
+      "TW": "<< 現在，選擇您喜歡的數字 >>"
+    }
   },
   "<< solo time will begin in 15 seconds !!!! >>": {
-    "translation": "<<15秒后就是solo的时间!!!!>>"
+    "translation": "<<15秒后就是solo的时间!!!!>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ソロプレイは15秒後に開始します！！！>>",
+      "CN": "<< 单人模式将在15秒后开始 !!!! >>",
+      "KR": "<< 솔로 시간이 15초 후에 시작됩니다 !!!! >>",
+      "TW": "<< 單獨遊玩時間将在 15 秒後開始 !!!! >>"
+    }
   },
   "<< teleport human >>": {
-    "translation": "<<传送人类>>"
+    "translation": "<<传送人类>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< テレポート（人間） >>",
+      "CN": "<< 传送人类 >>",
+      "KR": "<< 인간 텔레포트 >>",
+      "TW": "<< 傳送人類 >>"
+    }
   },
   "<< teleport in 30 seconds >>": {
-    "translation": "<<传送将在30秒后进行>>"
+    "translation": "<<传送将在30秒后进行>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒後にテレポート >>",
+      "CN": "<< 30秒后传送 >>",
+      "KR": "<< 30초 후 텔레포트 >>",
+      "TW": "<< 30 秒後傳送 >>"
+    }
   },
   "<< the light will change to green if the button can be pressed >>": {
-    "translation": "<<如果按钮可以按下，灯将变为绿色>>"
+    "translation": "<<如果按钮可以按下，灯将变为绿色>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタンが押せる状態になると信号が緑に変わります",
+      "CN": "<<如果按钮可以按下，灯光将变为绿色>>",
+      "KR": "버튼을 누를 수 있으면 불이 초록색으로 바뀝니다",
+      "TW": "<< 如果可以按鈕，燈光將變為綠色 >>"
+    }
   },
   "<< the second save point will be activated in 30 seconds >>": {
-    "translation": "<<第二个保存点将在30秒后激活>>"
+    "translation": "<<第二个保存点将在30秒后激活>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にセーブポイント2番がアクティブになります",
+      "CN": "<<第二个存档点将在30秒后激活>>",
+      "KR": "두 번째 저장 지점이 30초 후에 활성화됩니다",
+      "TW": "<< 第二個存檔點將在30秒後啟動 >>"
+    }
   },
   "<< wait for 10 seconds >>": {
-    "translation": "<<等待10秒>>"
+    "translation": "<<等待10秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒間待ってください",
+      "CN": "<<等待10秒>>",
+      "KR": "10초간 대기합니다",
+      "TW": "<< 等待10秒 >>"
+    }
   },
   "<< wait for 15 seconds >>": {
-    "translation": "<<等待15秒>>"
+    "translation": "<<等待15秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間待ってください",
+      "CN": "<<等待15秒>>",
+      "KR": "15초간 대기합니다",
+      "TW": "<< 等待15秒 >>"
+    }
   },
   "<< wait for 25 seconds >>": {
-    "translation": "<<等待25秒>>"
+    "translation": "<<等待25秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間待ってください",
+      "CN": "<<等待25秒>>",
+      "KR": "25초간 대기합니다",
+      "TW": "<< 等待25秒 >>"
+    }
   },
   "<< who permit you to press the button? >>": {
-    "translation": "<<谁允许你按下按钮？>>"
+    "translation": "<<谁允许你按下按钮？>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "誰がボタンを押すことを許可した？",
+      "CN": "<<谁允许你按下按钮的？>>",
+      "KR": "누가 버튼 누르라고 했습니까?",
+      "TW": "<< 誰允許你按鈕的？ >>"
+    }
   },
   "<< zombie can go in 10 seconds >>": {
-    "translation": "<<僵尸将在10秒后进入>>"
+    "translation": "<<僵尸将在10秒后进入>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビは10秒後に移動可能になります",
+      "CN": "<<僵尸将在10秒后出现>>",
+      "KR": "좀비가 10초 후에 행동 가능합니다",
+      "TW": "<< 殭屍將在10秒後行動 >>"
+    }
   },
   "<< zombie can move in 15 seconds >>": {
-    "translation": "<<僵尸将在15秒后移动>>"
+    "translation": "<<僵尸将在15秒后移动>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビは15秒後に移動可能になります",
+      "CN": "<<僵尸将在15秒后开始移动>>",
+      "KR": "좀비가 15초 후에 이동 가능합니다",
+      "TW": "<< 殭屍將在15秒後移動 >>"
+    }
   },
   "<< zombie now has low gravity! >>": {
-    "translation": "<<僵尸现在具有低重力！>>"
+    "translation": "<<僵尸现在具有低重力！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビが低重力状態になりました！ >>",
+      "CN": "<< 僵尸现在拥有低重力！ >>",
+      "KR": "<< 좀비 이제 중력이 약해짐! >>",
+      "TW": "<<喪屍現在具有低重力！>>"
+    }
   },
   "<< zombie now has low gravity!!! >>": {
-    "translation": "<<僵尸现在具有低重力！！！>>"
+    "translation": "<<僵尸现在具有低重力！！！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビが低重力状態になりました！！！ >>",
+      "CN": "<< 僵尸现在拥有低重力！！！ >>",
+      "KR": "<< 좀비 이제 중력이 매우 약해짐!!! >>",
+      "TW": "<<喪屍現在具有極低重力！！！>>"
+    }
   },
   "<< zombie teleport in 5 seconds >>": {
-    "translation": "<<僵尸将在5秒后传送>>"
+    "translation": "<<僵尸将在5秒后传送>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 5秒後にゾンビがテレポートします >>",
+      "CN": "<< 僵尸将在 5 秒后传送 >>",
+      "KR": "<< 좀비 5초 후 텔레포트 >>",
+      "TW": "<<喪屍將在5秒後瞬移>>"
+    }
   },
   "<< zombie will come in 20 seconds >>": {
-    "translation": "<<僵尸将在20秒后出现>>"
+    "translation": "<<僵尸将在20秒后出现>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒後にゾンビが出現します >>",
+      "CN": "<< 僵尸将在 20 秒后抵达 >>",
+      "KR": "<< 좀비 20초 후 출현 >>",
+      "TW": "<<喪屍將在20秒後到來>>"
+    }
   },
   "<< zombie will come in 5 seconds >>": {
-    "translation": "<<僵尸将在5秒后出现>>"
+    "translation": "<<僵尸将在5秒后出现>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 5秒後にゾンビが出現します >>",
+      "CN": "<< 僵尸将在 5 秒后抵达 >>",
+      "KR": "<< 좀비 5초 후 출현 >>",
+      "TW": "<<喪屍將在5秒後到來>>"
+    }
   },
   "<< zombie will only have 50 hp in the final 30 seconds >>": {
     "translation": "<<僵尸在最后30秒内只有50点生命值>>",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最後の30秒間はゾンビのHPが50のみになります >>",
+      "CN": "<< 最后 30 秒内，僵尸的生命值将仅为 50 >>",
+      "KR": "<< 최종 30초 간 좀비 체력 50으로 고정 >>",
+      "TW": "<<最後30秒內，喪屍僅剩50點生命值>>"
+    }
   },
   "<<Congratulations, you son of a bitch>>": {
-    "translation": "<<恭喜你，混蛋>>"
+    "translation": "<<恭喜你，混蛋>>",
+    "MultiLang": {
+      "US": ">>Congrats, you bastard>>",
+      "JP": "<<  congratulations, you son of a bitch >>",
+      "CN": "<< 恭喜啊，你这混蛋 >>",
+      "KR": "<<축하해, 너 같은 놈은>>",
+      "TW": "<<恭喜你啊，混蛋>>"
+    }
   },
   "<<Misaka:I know what you want>>": {
-    "translation": "<<Misaka：我知道你想要什么>>"
+    "translation": "<<Misaka：我知道你想要什么>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 未絲：あなたの願いがわかるわ >>",
+      "CN": "<< 御坂：我知道你想要什么 >>",
+      "KR": "<<미사카: 네가 원하는 걸 알아>>",
+      "TW": "<<美樹沙耶香：我知道你想要什麼>>"
+    }
   },
   "<<One player choose to solo win>>": {
-    "translation": "<<一名玩家选择单人胜利>>"
+    "translation": "<<一名玩家选择单人胜利>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<一人のプレイヤーがソロで勝利を選ぶ>>",
+      "CN": "<<一名玩家选择独自获胜>>",
+      "KR": "한 명의 플레이어가 솔로 승리를 선택했습니다",
+      "TW": "<<一名玩家選擇獨自獲勝>>"
+    }
   },
   "<<You have 20 seconds to finish this game>>": {
-    "translation": "<<你有20秒完成这个游戏>>"
+    "translation": "<<你有20秒完成这个游戏>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<このゲームを完了するまで20秒です>>",
+      "CN": "<<您有20秒的时间完成此局游戏>>",
+      "KR": "이 게임을 완료하는 데 20초가 주어집니다",
+      "TW": "<<你只剩20秒完成此遊戲>>"
+    }
   },
   "<<boat will move in 15 seconds >>": {
-    "translation": "<<船将在15秒后移动>>"
+    "translation": "<<船将在15秒后移动>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<15秒後にはボートが移動します>>",
+      "CN": "<<船只将在15秒后开始移动>>",
+      "KR": "선박이 15초 후에 움직이기 시작합니다",
+      "TW": "<<船隻將在15秒後移動 >>"
+    }
   },
   "Admin turned on the entertainment mode": {
-    "translation": "管理员已开启娱乐模式"
+    "translation": "管理员已开启娱乐模式",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者がエンタメモードを有効にしました",
+      "CN": "管理员已开启娱乐模式",
+      "KR": "관리자가 엔터테인먼트 모드를 켰습니다",
+      "TW": "管理員已啟用娛樂模式"
+    }
   },
   "It will take effect in the next game": {
-    "translation": "将在下一轮中生效"
+    "translation": "将在下一轮中生效",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のゲームで発動します",
+      "CN": "<<将在下一局游戏中生效>>",
+      "KR": "다음 게임에서 적용됩니다",
+      "TW": "將於下一局生效"
+    }
   },
   "Map made by Misaka": {
-    "translation": "地图作者：Misaka 翻译：Asteri3m"
+    "translation": "地图作者：Misaka 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作者: Misaka",
+      "CN": "地图由Misaka制作",
+      "KR": "미사카가 제작한 맵",
+      "TW": "地圖由Misaka製作"
+    }
   },
   "Now you will pay for your choice": {
-    "translation": "现在你将为你的选择付出代价"
+    "translation": "现在你将为你的选择付出代价",
+    "MultiLang": {
+      "US": "",
+      "JP": "今、あなたが選んだことの結果を受け取ります",
+      "CN": "<<现在，您将为自己的选择付出代价>>",
+      "KR": "이제 당신의 선택에 대한 대가를 치를 때입니다",
+      "TW": "現在，你將為你的選擇付出代價"
+    }
   },
   "Port by Hephasfos": {
-    "translation": "CS2移植：Hephasfos"
+    "translation": "CS2移植：Hephasfos",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポート制作: Hephasfos",
+      "CN": "<port>由Hephasfos制作",
+      "KR": "헤파이토스가 제작한 포트",
+      "TW": "港口由Hephasfos製作"
+    }
   }
 }

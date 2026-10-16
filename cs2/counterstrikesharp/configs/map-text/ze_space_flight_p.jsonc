@@ -1,0 +1,172 @@
+{
+  "You were too late to escape ! The nuke went off !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げ遅れた！核爆発が起きました！",
+      "CN": "你逃跑太晚了！核弹爆炸了！",
+      "KR": "탈출이 너무 늦었습니다! 핵폭발!",
+      "TW": "你逃得太慢！核彈已經爆炸！"
+    }
+  },
+  "You forgot to destroy the electric box !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電箱を破壊し忘れた！",
+      "CN": "你忘记摧毁电箱了！",
+      "KR": "전기 박스를 파괴하는 것을 잊었습니다!",
+      "TW": "你忘記摧毀電箱了！"
+    }
+  },
+  "Go back and shoot the part of the gaspipe above the electric box to destroy it !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "戻って、電箱上のガスパイプの一部を撃ち落とし、破壊しろ！",
+      "CN": "回去射向电箱上方的煤气管道部分，将其摧毁！",
+      "KR": "전기 상자 위 가스관 부위를 쏴서 파괴하십시오!",
+      "TW": "回去射擊電箱上方的煤氣管，以摧毀它！"
+    }
+  },
+  "Starting Evacuation Plan !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "避難計画を開始！",
+      "CN": "启动撤离计划！",
+      "KR": "대피 계획 시작!",
+      "TW": "啟動撤離計畫！"
+    }
+  },
+  "First shuttle departing in 1 minute and 20 seconds !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第1号シャトル、1分20秒で発射！",
+      "CN": "第一班穿梭机将在1分20秒后起飞！",
+      "KR": "첫 번째 셔틀, 1분 20초 후 출발!",
+      "TW": "第一艘穿梭機即將於 1 分 20 秒後出發！"
+    }
+  },
+  "Second shuttle departing in 2 minutes !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第2号シャトル、2分で発射！",
+      "CN": "第二班穿梭机将在2分钟后起飞！",
+      "KR": "두 번째 셔틀, 2분 후 출발!",
+      "TW": "第二艘穿梭機即將於 2 分鐘後出發！"
+    }
+  },
+  "First shuttle departing in 30 seconds !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第1号シャトル、30秒で発射！",
+      "CN": "第一班穿梭机将在30秒后起飞！",
+      "KR": "첫 번째 셔틀, 30초 후 출발!",
+      "TW": "第一艘穿梭機即將於 30 秒後出發！"
+    }
+  },
+  "Second shuttle departing in 1 minute !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第2号シャトル、1分で発射！",
+      "CN": "第二班穿梭机将在1分钟后起飞！",
+      "KR": "두 번째 셔틀, 1분 후 출발!",
+      "TW": "第二艘穿梭機即將於 1 分鐘後出發！"
+    }
+  },
+  "First shuttle departing in 10 seconds !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第1機シャトル、10秒後に発射！",
+      "CN": "第一架穿梭机10秒后起飞！",
+      "KR": "첫 번째 셔틀이 10초 후에 출발합니다!",
+      "TW": "第一趟穿梭機十秒後離港！"
+    }
+  },
+  "Second shuttle departing in 30 seconds !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第2機シャトル、30秒後に発射！",
+      "CN": "第二架穿梭机30秒后起飞！",
+      "KR": "두 번째 셔틀이 30초 후에 출발합니다!",
+      "TW": "第二趟穿梭機三十分鐘後離港！"
+    }
+  },
+  "Second shuttle departing in 10 seconds !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第2機シャトル、10秒後に発射！",
+      "CN": "第二架穿梭机10秒后起飞！",
+      "KR": "두 번째 셔틀이 10초 후에 출발합니다!",
+      "TW": "第二趟穿梭機十秒後離港！"
+    }
+  },
+  "Find the nuke and activate it !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "核を発見し、作動させて！",
+      "CN": "找到核弹并将其激活！",
+      "KR": "핵무기를 찾고 활성화하세요!",
+      "TW": "找到核彈並啟動它！"
+    }
+  },
+  "Hold here until someone activates bomb !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "誰かが爆発装置を作動させるまでここで待機！",
+      "CN": "在此坚守，直到有人启动炸弹！",
+      "KR": "누군가가 폭탄을 활성화할 때까지 여기에서 대기하십시오!",
+      "TW": "在此防守，直到有人啟動炸彈！"
+    }
+  },
+  "Activate nuke glowing yellow !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "黄色く光る核を作動させよ！",
+      "CN": "激活发光的核弹！",
+      "KR": "노란색으로 빛나는 핵무기를 활성화하세요!",
+      "TW": "發出黃光的核彈已啟動！"
+    }
+  },
+  "Nuclear Bomb has been activated !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "核爆弾が作動した！",
+      "CN": "核弹已启动！",
+      "KR": "핵폭탄이 활성화되었습니다!",
+      "TW": "核子炸彈已啟動！"
+    }
+  },
+  "2 minutes remaining till explosion !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "爆発まで残り2分！",
+      "CN": "距爆炸还剩2分钟！",
+      "KR": "폭발까지 2분 남았습니다!",
+      "TW": "距離爆炸還有兩分鐘！"
+    }
+  },
+  "1 minute remaining till explosion !": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "爆発まで残り1分！",
+      "CN": "爆炸倒计时 1 分钟！",
+      "KR": "폭발까지 1분 남았습니다!",
+      "TW": "距離爆炸剩餘 1 分鐘！"
+    }
+  }
+}

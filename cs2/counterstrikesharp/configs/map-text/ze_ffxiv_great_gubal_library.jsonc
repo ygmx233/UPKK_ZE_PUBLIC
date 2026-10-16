@@ -1,71 +1,562 @@
 {
   "*A player acquires the Bio element.*": {
-    "translation": "*一名玩家获得了毒*"
+    "translation": "*一名玩家获得了毒*",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがバイオ属性を取得。",
+      "CN": "*一名玩家获得了生物元素。*",
+      "KR": "*플레이어가 바이오 요소를 획득합니다.*",
+      "TW": "*玩家獲得生物元素。*"
+    }
   },
   "*A player acquires the Electricity element.*": {
-    "translation": "*一名玩家获得了电*"
+    "translation": "*一名玩家获得了电*",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが電気属性を取得。",
+      "CN": "*一名玩家获得了电力元素。*",
+      "KR": "*플레이어가 전기 요소를 획득합니다.*",
+      "TW": "*玩家獲得電氣元素。*"
+    }
   },
   "*A player acquires the Speed.*": {
-    "translation": "*一名玩家获得了加速*"
+    "translation": "*一名玩家获得了加速*",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが速度属性を取得。",
+      "CN": "*一名玩家获得了速度。*",
+      "KR": "*플레이어가 스피드를 획득합니다.*",
+      "TW": "*玩家獲得速度。*"
+    }
   },
   "*A player acquires the fire element.*": {
-    "translation": "*一名玩家获得了火*"
+    "translation": "*一名玩家获得了火*",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがファイア属性を取得。",
+      "CN": "*一名玩家获得了火元素。*",
+      "KR": "*플레이어가 불꽃 요소를 획득합니다.*",
+      "TW": "*玩家獲得火焰元素。*"
+    }
   },
   "*A player became a BLM*": {
-    "translation": "*一名玩家成为了黑魔法师*"
+    "translation": "*一名玩家成为了黑魔法师*",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがBLMになった。",
+      "CN": "*一名玩家成为了黑魔法师（BLM）*",
+      "KR": "*플레이어는 블림이 되었습니다.*",
+      "TW": "*玩家成為黑魔導士（BLM）*"
+    }
   },
   "*A player became a SGE*": {
-    "translation": "*一名玩家成为了贤者*"
+    "translation": "*一名玩家成为了贤者*",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがSGEになった。",
+      "CN": "*一名玩家成为了召唤师（SGE）*",
+      "KR": "*플레이어는 사제였습니다.*",
+      "TW": "*玩家成為白魔導士（SGE）*"
+    }
   },
   "*A player became a SMN*": {
-    "translation": "*一名玩家成为了召唤师*"
+    "translation": "*一名玩家成为了召唤师*",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがSMNになった。",
+      "CN": "*一名玩家成为了术士（SMN）*",
+      "KR": "*플레이어는 소환사가 되었습니다.*",
+      "TW": "*玩家成為召喚師（SMN）*"
+    }
   },
   "Extreme": {
-    "translation": "极限"
+    "translation": "极限",
+    "MultiLang": {
+      "US": "",
+      "JP": "極限",
+      "CN": "极端",
+      "KR": "극한",
+      "TW": "極限"
+    }
   },
   "Hard": {
-    "translation": "困难"
+    "translation": "困难",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハード",
+      "CN": "困难",
+      "KR": "Hard",
+      "TW": "困難"
+    }
   },
   "Normal": {
-    "translation": "普通"
+    "translation": "普通",
+    "MultiLang": {
+      "US": "",
+      "JP": "ノーマル",
+      "CN": "普通",
+      "KR": "Normal",
+      "TW": "普通"
+    }
   },
   "Warmup": {
-    "translation": "热身 翻译：Asteri3m"
+    "translation": "热身 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングアップ",
+      "CN": "热身",
+      "KR": "Warmup",
+      "TW": "熱身"
+    }
   },
   "* Defend until the gates open 20s *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* 門が開くまで20秒間防衛 *",
+      "CN": "* 坚守直到城门打开 (20秒)*",
+      "KR": "* Defend until the gates open 20s *",
+      "TW": "* 守衛至大門打開 (剩餘時間：20秒) *"
+    }
   },
   "* Defend until the gates open 30 *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* 門が開くまで30秒間防衛 *",
+      "CN": "* 坚守直到城门打开 30 *",
+      "KR": "* Defend until the gates open 30 *",
+      "TW": "* 守衛至大門打開 (剩餘時間：30秒) *"
+    }
   },
   "*A player acquires the fire ice.*": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* プレイヤーが火の氷を獲得しました。",
+      "CN": "* 一名玩家获得了冰火。*",
+      "KR": "*A player acquires the fire ice.*",
+      "TW": "* 一名玩家獲取了冰凍火焰。*"
+    }
   },
   "* Defend until the gates open 25 *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* 門が開くまで25秒間防衛 *",
+      "CN": "* 坚守直到城门打开 25 *",
+      "KR": "* Defend until the gates open 25 *",
+      "TW": "* 守衛至大門打開 (剩餘時間：25秒) *"
+    }
   },
   "* Defend until the gates open 25s*": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* 門が開くまで25秒間防衛 *",
+      "CN": "* 坚守直到城门打开 (25秒)*",
+      "KR": "* Defend until the gates open 25s*",
+      "TW": "* 守衛至大門打開 (剩餘時間：25秒) *"
+    }
   },
   "* Defend until the gates open 20 *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ゲートが開くまで20秒間防御 *",
+      "CN": "* 坚守至城门开启 20 *",
+      "KR": "* 정문 열릴 때까지 버티세요 -20초 추가*",
+      "TW": "* 守衛直到城門開啟 20秒 *"
+    }
   },
   "* Defend until the gates open 32s *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ゲートが開くまで32秒間防御 *",
+      "CN": "* 坚守至城门开启 32秒 *",
+      "KR": "* 정문 열릴 때까지 버티세요 32초 연장*",
+      "TW": "* 守衛直到城門開啟 32秒 *"
+    }
   },
   "* Defend until the gates open 25s *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ゲートが開くまで25秒間防御 *",
+      "CN": "* 坚守至城门开启 25秒 *",
+      "KR": "* 정문 열릴 때까지 버티세요 25초 연장*",
+      "TW": "* 守衛直到城門開啟 25秒 *"
+    }
   },
   "* Defend until the gates open 22s *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ゲートが開くまで22秒間防御 *",
+      "CN": "* 坚守至城门开启 22秒 *",
+      "KR": "* 정문 열릴 때까지 버티세요 22초 연장*",
+      "TW": "* 守衛直到城門開啟 22秒 *"
+    }
   },
   "* Defend until the gates open 30s *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ゲートが開くまで30秒間防御 *",
+      "CN": "* 坚守至城门开启 30秒 *",
+      "KR": "* 정문 열릴 때까지 버티세요 30초 연장*",
+      "TW": "* 守衛直到城門開啟 30秒 *"
+    }
   },
   "* Defend until the gates open 15s *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ゲートが開くまで15秒間防御 *",
+      "CN": "* 坚守至城门开启 15秒 *",
+      "KR": "* 정문 열릴 때까지 버티세요 15초 연장*",
+      "TW": "* 守衛直到城門開啟 15秒 *"
+    }
   },
   "* Defend until the gates open *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* ゲートが開くまで防御 *",
+      "CN": "* 坚守至城门开启 *",
+      "KR": "* 정문 열릴 때까지 버티세요*",
+      "TW": "* 守衛直到城門開啟 *"
+    }
+  },
+  "< Special thanks to Tenshi and Shana for their technical help >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<テンシとシャナに、技術的なご支援をいただき、感謝いたします>",
+      "CN": "< 特别感谢 Tenshi 和 Shana 在技术上提供的帮助 >",
+      "KR": "< Tenshi와 Shana에게 기술 지원에 대한 특별 감사를 드립니다 >",
+      "TW": "<致Tenshi和Shana感謝他們在技術方面的幫助>"
+    }
+  },
+  "< Special thanks to 千音星璃 for sponsoring this map >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "< Special thanks to Qian Yin Xing Li for sponsoring this map >",
+      "JP": "< 千音星璃 さんに本地図をスポンサーいただけ、心より感謝いたします >",
+      "CN": "< 特别感谢 千音星璃 赞助这张地图 >",
+      "KR": "< 千音星璃님께서 이 맵을 후원해주셔서 감사합니다 >",
+      "TW": "< 感謝千音星璃贊助此地圖 >"
+    }
+  },
+  "< Map by runa&MercuryQaQ >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<マップ作成者: runa&MercuryQaQ>",
+      "CN": "<图由 runa&MercuryQaQ 制图>",
+      "KR": "<지도 제작: runa & MercuryQaQ>",
+      "TW": "< 地圖由 runa&MercuryQaQ 製作 >"
+    }
+  },
+  "< ze_FFXIV_Great_Gubal_Library>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<図書館・グバル大聖堂>",
+      "CN": "<图卢海之伟大的咕芭利图书馆>",
+      "KR": "< 제_FFXIV_그레이트_구발_도서관>",
+      "TW": "<圖書館大廳的守護者格布艾>"
+    }
+  },
+  "< Special thanks to seth and 7ychu5 for their special effects support >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "< セスと 7ychu5 に、スペシャルエフェクトのサポートをいただき、感謝いたします >",
+      "CN": "<致谢 seth 和 7ychu5 对特效的支持>",
+      "KR": "< seth와 7ychu5에게 특별한 효과 지원에 대한 감사 말씀 >",
+      "TW": "< 感謝 Seth 和 7ychu5 對特效的支持>"
+    }
+  },
+  "*A player became a PLD*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* プレーヤーがPLDになりました *",
+      "CN": "* 一名玩家转职为骑士*",
+      "KR": "* 한 명이 PLD가 되었습니다*",
+      "TW": "*一名玩家成為防禦者*"
+    }
+  },
+  "*A player acquires the ice element.*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが氷属性を獲得しました。",
+      "CN": "一名玩家获得了冰元素。",
+      "KR": "플레이어가 얼음 속성을 얻습니다.",
+      "TW": "*一名玩家獲得了冰元素。*"
+    }
+  },
+  "* 一位玩家获得了冰元素 *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* A player has acquired the Ice element *",
+      "JP": "プレイヤーが氷要素を獲得した。",
+      "CN": "",
+      "KR": "\"플레이어가 얼음 속성을 획득했습니다.\"",
+      "TW": "*一名玩家獲得了冰元素。*"
+    }
+  },
+  "** 效果：前方生成一道冰墙 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: An ice wall is generated in front **",
+      "JP": "**効果：前方に氷の壁を生成**",
+      "CN": "",
+      "KR": "** 효과: 앞에 얼음 벽 생성 **",
+      "TW": "**效果：前方生成一道冰牆。**"
+    }
+  },
+  "** ....... **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "* 一位玩家获得了火元素 *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* A player has acquired the Fire element *",
+      "JP": "プレイヤーが火属性を獲得しました。",
+      "CN": "",
+      "KR": "\"플레이어가 불 속성을 획득했습니다.\"",
+      "TW": "*一名玩家獲得了火元素。*"
+    }
+  },
+  "** 效果：前方生成带推力的火焰并附带伤害 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: Flames with pushback force and damage are generated in front **",
+      "JP": "**効果：前方に推進力を伴う火焰を生成し、ダメージを与える**",
+      "CN": "",
+      "KR": "** 효과: 앞에 추진력을 가진 화염 생성 및 피해 부여 **",
+      "TW": "**效果：前方生成帶有推力的火焰並附帶傷害。**"
+    }
+  },
+  "* 一位玩家获得了电元素 *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* A player has acquired the Lightning element *",
+      "JP": "プレイヤーが雷属性を獲得しました。",
+      "CN": "",
+      "KR": "\"플레이어가 전기 속성을 획득했습니다.\"",
+      "TW": "*一名玩家獲得了電元素。*"
+    }
+  },
+  "** 效果：前方生成减速区域 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: A slow-down area is generated in front **",
+      "JP": "**効果：前方に減速領域を生成**",
+      "CN": "",
+      "KR": "** 효과: 앞에 감속 지역 생성 **",
+      "TW": "**效果：前方生成減速區域。**"
+    }
+  },
+  "* 在此处守住30s *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* Hold this position for 30s *",
+      "JP": "ここで30秒間持ちこたえる",
+      "CN": "",
+      "KR": "\"여기서 30초 동안 방어하십시오. \"",
+      "TW": "*在此處守住30秒。*"
+    }
+  },
+  "* 一位玩家获得了风元素 *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* A player has acquired the Wind element *",
+      "JP": "* 一人のプレイヤーが風元素を入手しました *",
+      "CN": "",
+      "KR": "* 한 플레이어가 바람 속성을 얻었습니다 *",
+      "TW": "* 一名玩家獲得了風元素 *"
+    }
+  },
+  "** 效果：自身生成风阻挡僵尸；如再按一次会取消跟随自己变为定点风 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: Generates a wind barrier to block zombies; pressing the same button again cancels the wind and reverts it to a stationary state. **",
+      "JP": "** 効果：自分を中心に風を生成してゾンジを防ぎます。再度押すと、追尾効果が解除され定点風になります **",
+      "CN": "",
+      "KR": "** 효과: 자신에게 바람을 생성하여 좀비를 막습니다. 다시 누르면 따라오던 바람이 고정 위치의 바람으로 변경됩니다 **",
+      "TW": "** 效果：自身生成風阻擋殭屍；如再按一次會取消跟隨自己變為定點風 **"
+    }
+  },
+  "> 一位玩家成为了黑魔法师 <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "> A player has become a Dark Mage <",
+      "JP": "> 一人のプレイヤーが黒魔術師になりました <",
+      "CN": "",
+      "KR": "> 한 플레이어가 검흑 마법사가 되었습니다 <",
+      "TW": "> 一名玩家成為了黑魔法師 <"
+    }
+  },
+  "** 效果：正面e为生成一个火球对僵尸造成伤害，并且每生成三次后会更变为落雷；头顶e为脚下生成黑魔纹，黑魔纹内正面e的cd为5s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: Pressing 'E' in front generates a fireball that damages zombies; every three casts, it transforms into a Thunderbolt. Pressing 'E' on top generates a Dark Mage Rune under the character's feet; with the rune active, pressing 'E' in front has a cooldown of 5s. **",
+      "JP": "** 効果：正面Eで火球を生成してゾンジにダメージを与えます。3回生成するごとに落雷に変更されます。头顶Eで足元に黒魔紋を生成し、黒魔紋内で正面Eのクールタイムは5秒です **",
+      "CN": "",
+      "KR": "** 효과: 앞으로 e를 누르면 화구를 생성해 좀피에게 피해를 줍니다. 3회 생성 후 낙뢰로 변화합니다. 위로 e를 누르면 발 아래 흑마紋을 생성하며, 흑마紋 안에서 앞으로 e를 누를 때의 쿨타임은 5초입니다 **",
+      "TW": "** 效果：正面e為生成一個火球對殭屍造成傷害，並且每生成三次後更變為落雷；头顶e為腳下生成黑魔紋，黑魔紋內正面e的cd為5s **"
+    }
+  },
+  "* 在此处守住25s *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* Hold this position for 25s *",
+      "JP": "* ここから25秒間守り抜く *",
+      "CN": "",
+      "KR": "* 여기서 25초를 방어하세요 *",
+      "TW": "* 在此處守住25s *"
+    }
+  },
+  "** 僵尸沉默已被拾取 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Zombie Silence has been picked up **",
+      "JP": "** ゾンジの沈黙効果が拾われました **",
+      "CN": "",
+      "KR": "** 좀비의 침묵 효과가 수집되었습니다 **",
+      "TW": "** 殭屍沉默已被拾取 **"
+    }
+  },
+  "** 除元素以外的神器都会给予沉默效果 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Artifacts other than elemental ones all grant Silence effects. **",
+      "JP": "** 元素以外の神器はすべて沈黙効果を与えます **",
+      "CN": "",
+      "KR": "** 속성을 제외한 모든 신기는 침묵 효과를 부여합니다 **",
+      "TW": "** 除元素以外的神器都會給予沉默效果 **"
+    }
+  },
+  "> 一位玩家成为了贤者 <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "> A player has become a Sage <",
+      "JP": "> 一人のプレイヤーが賢者になりました <",
+      "CN": "",
+      "KR": "> 한 플레이어가 현자가 되었습니다 <",
+      "TW": "> 一名玩家成為了賢者 <"
+    }
+  },
+  "** 效果：正面e对前方区域造成减速；头顶e恢复周围人类血量（可存储3次） **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: Pressing 'E' in front slows down the area; pressing 'E' on top restores HP for surrounding humans (can store up to 3 charges). **",
+      "JP": "** 効果：正面の前方エリアに減速効果を付与。頭上のEで周囲の人間角色のHPを回復（最大3回まで貯蔵可能） **",
+      "CN": "",
+      "KR": "** 효과: 앞에서 ���는 영역에 감속 상태 적용; 머리 위의 체력 회복 (최대 3회 저장) **",
+      "TW": "** 效果：正面e對前方區域造成減速；頭頂e恢復周圍人類血量（可存儲3次） **"
+    }
+  },
+  "** 僵尸冰已被拾取 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Zombie Ice has been picked up **",
+      "JP": "** ゾンアイスを取得しました **",
+      "CN": "",
+      "KR": "** 아이스 좀비 주머니를 수거했습니다 **",
+      "TW": "** 殭屍冰已被拾取 **"
+    }
+  },
+  "** 效果：对周围的人类造成伤害并减速 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: Deals damage and slows down nearby humans **",
+      "JP": "** 効果：周囲の人間にダメージを与え、減速させる **",
+      "CN": "",
+      "KR": "** 효과: 주변 인간의 체력을 감소시키고 감속 상태 적용 **",
+      "TW": "** 效果：對周圍的人類造成傷害並減速 **"
+    }
+  },
+  "> 一位玩家成为了骑士 <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "> A player has become a Knight <",
+      "JP": "> 1人のプレイヤーがナイトになりました <",
+      "CN": "",
+      "KR": "> 한 플레이어가 나이트가 되었습니다 <",
+      "TW": "> 一名玩家成為騎士 <"
+    }
+  },
+  "** 效果：按顺序前方依次生成推力 伤害 定身 减速 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: Generates Push, Damage, Root, and Slow in sequence ahead **",
+      "JP": "** 効果：前方に順番に推力、ダメージ、身動き不能、減速の効果が生成される **",
+      "CN": "",
+      "KR": "** 효과: 순서대로 전방에 추진력, 피해, 고정, 감속을 생성합니다 **",
+      "TW": "** 效果：按順序前方依次生成推力 傷害 定身 減速 **"
+    }
+  },
+  "* 在此处守住20s *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* Hold this position for 20s *",
+      "JP": "* ここで20秒間防衛する *",
+      "CN": "",
+      "KR": "* 여기에서 20초간 버티세요 *",
+      "TW": "* 在此處守住20秒 *"
+    }
+  },
+  "** 僵尸盾已被拾取 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Zombie Shield has been picked up **",
+      "JP": "** ゾンシールドを取得しました **",
+      "CN": "",
+      "KR": "** 쉴드 좀비 주머니를 수거했습니다 **",
+      "TW": "** 殭屍盾已被拾取 **"
+    }
+  },
+  "** 效果：生成原地护盾抵挡人类子弹 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Effect: Generates a stationary shield to block human bullets **",
+      "JP": "** 効果：原地にシールドを生成し、人間の弾丸を防ぐ **",
+      "CN": "",
+      "KR": "** 효과: 원형 방어막을 생성하여 인간의 총알을 막습니다**",
+      "TW": "** 效果：生成原地護盾抵擋人類子彈 **"
+    }
+  },
+  "* 在此处守住32s *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* Hold this position for 32s *",
+      "JP": "* ここで32秒間防衛 *",
+      "CN": "",
+      "KR": "* 여기서 32초 동안 방어하십시오 *",
+      "TW": "* 在此處守住32秒 *"
+    }
+  },
+  "* 在此处守住22s *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "* Hold out here for 22s *",
+      "JP": "* ここで22秒間防衛 *",
+      "CN": "",
+      "KR": "* 여기서 22초 동안 방어하십시오 *",
+      "TW": "* 在此處守住22秒 *"
+    }
   }
 }

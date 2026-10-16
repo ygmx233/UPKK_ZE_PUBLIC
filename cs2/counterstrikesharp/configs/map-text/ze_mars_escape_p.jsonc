@@ -1,62 +1,202 @@
 {
   "Map made by Xquality.": {
-    "translation": "地图作者：Xquality 翻译：秋刀鱼"
+    "translation": "地图作者：Xquality 翻译：秋刀鱼",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：Xquality",
+      "CN": "地图由Xquality制作。",
+      "KR": "Xquality 작 Map.",
+      "TW": "地圖由 Xquality 製作。"
+    }
   },
   "After a long trip to mars you finally land but something strange has happend...": {
-    "translation": "经过漫长的火星之旅，你终于着陆了，但奇怪的事情发生了......"
+    "translation": "经过漫长的火星之旅，你终于着陆了，但奇怪的事情发生了......",
+    "MultiLang": {
+      "US": "",
+      "JP": "長い火星の旅の後、ついに着陸したが、奇妙なことが起こっていた…",
+      "CN": "经过漫长的火星之旅，你终于着陆，但发生了一些奇怪的事情……",
+      "KR": "화성으로의 긴 여행 끝에 마침내 착륙했지만, 이상한 일이 발생했습니다...",
+      "TW": "經過長途火星之旅，你終於著陸了，但發生了一些奇怪的事情……"
+    }
   },
   "Mini airlock opening in 5.": {
-    "translation": "迷你气闸在5s后开启"
+    "translation": "迷你气闸在5s后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミニアアロック2秒後に開きます。",
+      "CN": "小型气闸将在5秒后开启。",
+      "KR": "미니 에어락 5초 후 개방.",
+      "TW": "小型氣密門將在 5 秒後開啟。"
+    }
   },
   "Power generator Offline.": {
-    "translation": "发电机离线"
+    "translation": "发电机离线",
+    "MultiLang": {
+      "US": "",
+      "JP": "発電機オフライン",
+      "CN": "发电机离线。",
+      "KR": "전력 발전기 오프라인.",
+      "TW": "發電機離線。"
+    }
   },
   "Power generator waiting for restart.": {
-    "translation": "发电机等待重启"
+    "translation": "发电机等待重启",
+    "MultiLang": {
+      "US": "",
+      "JP": "電源再起動待ちの発電機",
+      "CN": "发电机等待重启。",
+      "KR": "전력 발전기 재시작 대기 중.",
+      "TW": "發電機等待重新啟動。"
+    }
   },
   "Airlock opening in 20 secs.": {
-    "translation": "气闸20秒后开启"
+    "translation": "气闸20秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後にロッカーが開きます",
+      "CN": "气闸将在20秒后开启。",
+      "KR": "에어락 20초 후 개방.",
+      "TW": "氣密門將在 20 秒後開啟。"
+    }
   },
   "Power Generator Online.": {
-    "translation": "发电机启动"
+    "translation": "发电机启动",
+    "MultiLang": {
+      "US": "",
+      "JP": "電源ON",
+      "CN": "发电机在线。",
+      "KR": "전력 발전기 온라인.",
+      "TW": "發電機在線。"
+    }
   },
   "Airlock opening in 15 secs.": {
-    "translation": "气闸15秒后开启"
+    "translation": "气闸15秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロッカールームのドアが15秒後に開きます",
+      "CN": "气闸将在15秒后开启。",
+      "KR": "에어락 15초 후 개방.",
+      "TW": "氣密門將在 15 秒後開啟。"
+    }
   },
   "Airlock opening in 10 secs.": {
-    "translation": "气闸10秒后开启"
+    "translation": "气闸10秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "エアロック、10秒で開きます。",
+      "CN": "气闸门将在10秒后打开。",
+      "KR": "에어락 10초 후 개방",
+      "TW": "氣閘門將在10秒內開啟。"
+    }
   },
   "Airlock opening in 5 secs.": {
-    "translation": "气闸5秒后开启"
+    "translation": "气闸5秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "エアロック、5秒で開きます。",
+      "CN": "气闸门将在5秒后打开。",
+      "KR": "에어락 5초 후 개방",
+      "TW": "氣閘門將在5秒內開啟。"
+    }
   },
   "Airlock opening.": {
-    "translation": "气闸开启"
+    "translation": "气闸开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "エアロック、開きます。",
+      "CN": "气闸门正在打开。",
+      "KR": "에어락 개방",
+      "TW": "氣閘門開啟中。"
+    }
   },
   "Bunker closing in 60 secs": {
-    "translation": "掩体60秒后关闭"
+    "translation": "掩体60秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "シャットドア、60秒で閉まります。",
+      "CN": "掩体舱将在60秒后关闭。",
+      "KR": "벙커 60초 후 닫힘",
+      "TW": "掩體將在60秒後關閉。"
+    }
   },
   "Pole doors closing.": {
-    "translation": "极门关闭"
+    "translation": "极门关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポール・ドアが閉まります。",
+      "CN": "杆门正在关闭。",
+      "KR": "폴 문 닫힘",
+      "TW": "柵欄門即將關閉。"
+    }
   },
   "Bunker closing in 40 secs": {
-    "translation": "掩体40秒后关闭"
+    "translation": "掩体40秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "シャットドア、40秒で閉まります。",
+      "CN": "掩体舱将在40秒后关闭。",
+      "KR": "벙커 40초 후 닫힘",
+      "TW": "掩體將在40秒後關閉。"
+    }
   },
   "Bunker closing in 20 secs": {
-    "translation": "掩体20秒后关闭"
+    "translation": "掩体20秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "シャットドア、20秒で閉まります。",
+      "CN": "掩体舱将在20秒后关闭。",
+      "KR": "벙커 20초 후 닫힘",
+      "TW": "掩體將在20秒後關閉。"
+    }
   },
   "Bunker closing in 10 secs": {
-    "translation": "掩体10秒后关闭"
+    "translation": "掩体10秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "シャットドア、10秒で閉まります。",
+      "CN": "掩体舱将在10秒后关闭。",
+      "KR": "벙커 10초 후 닫힘",
+      "TW": "掩體將在10秒後關閉。"
+    }
   },
   "Bunker closing in 5 secs": {
-    "translation": "掩体5秒后关闭"
+    "translation": "掩体5秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "バンカー、5秒で閉鎖",
+      "CN": "舱门将在5秒后关闭",
+      "KR": "벙커 5초 후 닫힘",
+      "TW": "防爆門5秒後關閉"
+    }
   },
   "Marslab self-destructing in...": {
-    "translation": "火星实验室在......自毁"
+    "translation": "火星实验室在......自毁",
+    "MultiLang": {
+      "US": "",
+      "JP": "マースラボ、自爆カウントダウン中...",
+      "CN": "火星实验室自毁程序启动…",
+      "KR": "마르스랩 자기 파괴 중...",
+      "TW": "馬斯實驗室即將自毀……"
+    }
   },
   "Security airlock closing.": {
-    "translation": "安全气闸关闭"
+    "translation": "安全气闸关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "セキュリティエアロック、閉鎖中。",
+      "CN": "安全气闸正在关闭。",
+      "KR": "보안 에어록 닫힘.",
+      "TW": "安全氣閘正在關閉。"
+    }
   },
   "Elevator broken.": {
-    "translation": "电梯坏了"
+    "translation": "电梯坏了",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター故障。",
+      "CN": "电梯故障。",
+      "KR": "엘리베이터 고장.",
+      "TW": "電梯故障。"
+    }
   }
 }

@@ -1,0 +1,112 @@
+{
+  ">>> 作者 Map by：港村村长 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Map by: Gangcun Village Chief",
+      "JP": ">>> 作成 Map by：港村村長 <<<",
+      "CN": ">> 作者 地图由：港村村长 <<<",
+      "KR": ">>> 제작자 지분: 강촌 촌장 <<<",
+      "TW": "作者 圖框製作：港村村長"
+    }
+  },
+  ">>> 移植 Port by：凯尔希的老公 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ported by: Kal'tsit's Husband",
+      "JP": ">>> 移植 Port by：ケルシーの夫 <<<",
+      "CN": "",
+      "KR": ">>> 포트 이식: 카르타의 남편 <<<",
+      "TW": "移植版改編：凱爾希的丈夫"
+    }
+  },
+  ">>> 10秒后开始传送 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleporting in 10 seconds",
+      "JP": ">>> 10秒後にテレポート開始 <<<",
+      "CN": "",
+      "KR": ">>> 10초 후 텔레포트 시작 <<<",
+      "TW": "10秒後開始傳送"
+    }
+  },
+  ">>> 尸笼15秒后释放 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Monster Cage released in 15 seconds",
+      "JP": ">>> 屍籠を15秒後に解放 <<<",
+      "CN": ">>> 15秒后释放 <<<",
+      "KR": ">>> 15초 후 시체 방출 <<<",
+      "TW": "15秒後開啟尸籠"
+    }
+  },
+  ">>> 防守60秒后人类传送 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Humans teleport after defense period (60s)",
+      "JP": ">>> 60秒後に人類テレポート <<<",
+      "CN": "",
+      "KR": ">>> 방어 60초 후 인간 텔레포트 <<<",
+      "TW": "防守60秒後人系傳送"
+    }
+  },
+  ">>> 30秒集体传送 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Group teleport in 30 seconds",
+      "JP": ">>> 30秒一括テレポート <<<",
+      "CN": ">>> 30秒全体传送 <<<",
+      "KR": ">>> 30초 단체 텔레포트 <<<",
+      "TW": "30秒集體傳送"
+    }
+  },
+  ">>> 40秒后集体传送 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Group teleport in 40 seconds",
+      "JP": ">>> 40秒後一括テレポート <<<",
+      "CN": ">>> 40秒后全体传送 <<<",
+      "KR": ">>> 40초 후 단체 텔레포트 <<<",
+      "TW": "40秒後開啟断桥"
+    }
+  },
+  ">>> 60秒后断桥 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Bridge collapses in 60 seconds",
+      "JP": ">>> 60秒後橋崩壊 <<<",
+      "CN": "",
+      "KR": ">>> 60초 후 다리 단절 <<<",
+      "TW": "60秒后集合傳送"
+    }
+  },
+  ">>> 10秒后集体传送 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Group Teleport in 10 Seconds",
+      "JP": "10秒後に集団転送",
+      "CN": ">>> 10秒后全体传送 <<<",
+      "KR": "10초 후 집단 텔레포레이션",
+      "TW": "10秒後集體傳送"
+    }
+  },
+  ">>> 5秒后集体传送 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Group Teleport in 5 Seconds",
+      "JP": "5秒後に集団転送",
+      "CN": ">>> 5秒后全体传送到 <<<",
+      "KR": "5초 후 집단 텔레포레이션",
+      "TW": "5秒後集體傳送"
+    }
+  },
+  ">>> 10秒后断桥 <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Bridge Collapses in 10 Seconds",
+      "JP": "10秒後、吊り橋崩壊",
+      "CN": "",
+      "KR": "10초 후 다리가 부서집니다",
+      "TW": "10秒後斷橋"
+    }
+  }
+}

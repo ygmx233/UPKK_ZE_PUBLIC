@@ -1,0 +1,22 @@
+{
+  "*** LEVEL3 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** LEVEL3 ***",
+      "CN": "*** 等级3 ***",
+      "KR": "*** LEVEL3 ***",
+      "TW": "*** 第三關 ***"
+    }
+  },
+  "*** rtv ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** rtv ***",
+      "CN": "*** rtv ***",
+      "KR": "*** rtv ***",
+      "TW": "*** 下次再玩 ***"
+    }
+  }
+}

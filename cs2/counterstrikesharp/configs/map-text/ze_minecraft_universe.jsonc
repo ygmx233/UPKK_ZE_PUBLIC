@@ -1,0 +1,802 @@
+{
+  "***75***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***WARMUP***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ウォーミングアップ***",
+      "CN": "***热身阶段***",
+      "KR": "***예선***",
+      "TW": "***熱身階段***"
+    }
+  },
+  "***60***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***45***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***30***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***15***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***10***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***5***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***4***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***3***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***2***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***1***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***WARMUP OVER***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ウォーミングアップ終了***",
+      "CN": "***热身结束***",
+      "KR": "***예선 종료***",
+      "TW": "***熱身結束***"
+    }
+  },
+  "***TRAIN CALLED, PLEASE STANDBY***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***列車呼び出し準備中、お待ちください***",
+      "CN": "***列车已呼叫，请等待***",
+      "KR": "***열차 호출, 잠시 기다려 주세요***",
+      "TW": "***列車即將到站，請準備登車***"
+    }
+  },
+  "***TRAIN WILL ARRIVE IN 35 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "***TRAIN WILL_arrive IN 35 SECONDS***",
+      "JP": "***電車は35秒後に到着します***",
+      "CN": "***列车将于35秒后到达***",
+      "KR": "***35초 후 열차 도착***",
+      "TW": "***列車將於35秒後到站***"
+    }
+  },
+  "***FALLBACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***駅プラットホームへ避難、ゾンビが接近中***",
+      "CN": "***请撤至车站站台，僵尸正在逼近***",
+      "KR": "***스테이션 플랫폼으로 대피, 좀비 접근***",
+      "TW": "***迅速撤至站台，殭屍正在逼近***"
+    }
+  },
+  "***TRAIN APPROACHING***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***電車接近中***",
+      "CN": "***列车驶近***",
+      "KR": "***열차 접근***",
+      "TW": "***列車即將到達***"
+    }
+  },
+  "***FALLBACK ONTO THE TRAIN***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***電車へ避難***",
+      "CN": "***请登上列车***",
+      "KR": "***열차 안으로 대피***",
+      "TW": "***迅速登上列車***"
+    }
+  },
+  "***TRAIN DEPARTS IN 15 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "***TRAIN DEparts IN 15 SECONDS***",
+      "JP": "***電車は15秒後に発車します***",
+      "CN": "***列车将于15秒后发车***",
+      "KR": "***15초 후 열차 출발***",
+      "TW": "***列車將於15秒後發車***"
+    }
+  },
+  "***ZOMBIE SHORTCUT OPEN***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビのショートカット開放***",
+      "CN": "***地牢捷径已开启***",
+      "KR": "***좀비 단축 경로 개방***",
+      "TW": "***殭屍捷径已開啟***"
+    }
+  },
+  "***QUICK! GET THROUGH THE NETHER PORTAL BEFORE IT CLOSES!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***急げ！ポータルが閉じる前に抜けろ！***",
+      "CN": "***快！在它关闭前穿过下界传送门！***",
+      "KR": "***빠르게! 포털이 닫히기 전에 통과하세요!***",
+      "TW": "***快！在下界傳送門關閉前穿過！***"
+    }
+  },
+  "***NETHER PORTAL CLOSES IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***10秒後にポータルが閉じます***",
+      "CN": "***下界传送门将在10秒后关闭***",
+      "KR": "***포털 10초 후 폐쇄***",
+      "TW": "***傳送門即將在10秒後關閉***"
+    }
+  },
+  "***PORTAL CLOSED***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ポータル閉鎖***",
+      "CN": "***传送门已关闭***",
+      "KR": "***포털 닫힘***",
+      "TW": "***傳送門已關閉***"
+    }
+  },
+  "***THE NETHER***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ネザー***",
+      "CN": "***下界***",
+      "KR": "***네더***",
+      "TW": "***下界***"
+    }
+  },
+  "***DEFEND FOR 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***20秒間防衛せよ***",
+      "CN": "***坚持防守20秒***",
+      "KR": "***20초간 방어***",
+      "TW": "防守20秒***"
+    }
+  },
+  "***DEFEND FOR 20 MORE SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***さらに20秒間防衛せよ***",
+      "CN": "***再坚持防守20秒***",
+      "KR": "***추가 20초간 방어***",
+      "TW": "***再防守20秒***"
+    }
+  },
+  "***DOORS OPENING***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***扉がOpening中***",
+      "CN": "***门即将开启***",
+      "KR": "***문 열림***",
+      "TW": "***門正在開啟***"
+    }
+  },
+  "***FALLBACK! THESE DOORS WILL CLOSE IN 10 SECONDS!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***Fallback! 10秒後に閉鎖します！***",
+      "CN": "***警告！这些门将在10秒后关闭！***",
+      "KR": "***폴백! 이 문들은 10초 내에 닫힙니다!***",
+      "TW": "***備援機制！這些門將在10秒內關閉！***"
+    }
+  },
+  "***MOVING ZOMBIES FORWARD***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビの前進中***",
+      "CN": "***丧尸向前移动***",
+      "KR": "***좀비 전진 이동***",
+      "TW": "***殭屍向前推進***"
+    }
+  },
+  "***DOOR OPENING***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドア開放中***",
+      "CN": "门已打开***",
+      "KR": "***문 열림***",
+      "TW": "***門正在開啟***"
+    }
+  },
+  "***FALLBACK THROUGH THE PORTAL***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ポータル通過：フォールバック***",
+      "CN": "***通过传送点撤退***",
+      "KR": "***포털을 통한 폴백***",
+      "TW": "***透過傳送門備援通行***"
+    }
+  },
+  "***BRIDGES BREAKING IN 15 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後に橋梁崩壊***",
+      "CN": "***桥梁将在15秒后断裂***",
+      "KR": "***다리가 15초 후에 붕괴됩니다***",
+      "TW": "***橋樑在15秒內崩毀***"
+    }
+  },
+  "***[@: Spawning Fire Entity]***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***[@: ファイアエンティティの生成]***",
+      "CN": "***[@: 生成火实体]***",
+      "KR": "***[@: 화재 엔티티 생성]***",
+      "TW": "***[@: 生成火焰實體]***"
+    }
+  },
+  "***[@: Activating Teleport Beam]***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***[@: テレポートビームの活性化]***",
+      "CN": "***[@: 激活传送光束]***",
+      "KR": "***[@: 텔레포트 빔 활성화]***",
+      "TW": "***[@: 啟動傳送光束]***"
+    }
+  },
+  "***[@: Spawning Wind Entity]***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***[@: ウィンドエンティティの生成]***",
+      "CN": "***[@: 生成风实体]***",
+      "KR": "***[@: 바람 엔티티 생성]***",
+      "TW": "***[@: 生成風力實體]***"
+    }
+  },
+  "***DOOR OPENS IN 35 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアが35秒後に開きます***",
+      "CN": "***门将在35秒后打开***",
+      "KR": "***문 35초 후 개장***",
+      "TW": "***門戶將於35秒後開啟***"
+    }
+  },
+  "***BOSS HAS BEEN DEFEATED***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "***BOSS HAS BEEN DEFeated***",
+      "JP": "***ボスが倒されました***",
+      "CN": "***Boss已被击败***",
+      "KR": "***보스 격파 완료***",
+      "TW": "***首領已被擊敗***"
+    }
+  },
+  "***NETHER PORTAL CLOSING IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ネザーポータルが10秒後に閉じます***",
+      "CN": "地狱传送门将在10秒后关闭***",
+      "KR": "***네더 차단 10초 후 닫힘***",
+      "TW": "***地獄門將於10秒後關閉***"
+    }
+  },
+  "***WHERE ARE WE?***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ここはどこだ？***",
+      "CN": "***我们在哪里？***",
+      "KR": "***우리는 어디에 있는 걸까?***",
+      "TW": "***我們身在何處？***"
+    }
+  },
+  "***TITAN ENGINE TEST IN PROGRESS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***タイタンエンジンテスト進行中***",
+      "CN": "***泰坦引擎测试进行中***",
+      "KR": "***타이탄 엔진 테스트 진행 중***",
+      "TW": "***泰坦引擎測試進行中***"
+    }
+  },
+  "***TITAN ENGINE COOLING DOWN***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***タイタンエンジン冷却中***",
+      "CN": "***泰坦引擎冷却中***",
+      "KR": "***타이탄 엔진 냉각 중***",
+      "TW": "***泰坦引擎冷卻中***"
+    }
+  },
+  "***ATTEMPTING TO OPEN FACILITY DOOR***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "***ATTEMPTING TO OPEN_facility_DOOR***",
+      "JP": "***施設ドア開閉を試行中***",
+      "CN": "***尝试打开设施门***",
+      "KR": "***시설 문 열기 시도 중***",
+      "TW": "***正在嘗試開啟設施大門***"
+    }
+  },
+  "***ERROR, UNABLE TO IDENTIFY USER***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エラー、ユーザーを識別できません***",
+      "CN": "***错误，无法识别用户***",
+      "KR": "***오류, 사용자 식별 불가***",
+      "TW": "***錯誤，無法識別使用者***"
+    }
+  },
+  "***OPENING SERVICE PANEL, SHOOT THE WIRES INSIDE***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***オープニングサービスパネル、中の配線切断***",
+      "CN": "***打开服务面板，切断内部线路***",
+      "KR": "***오픈 서비스 패널, 내부 전선 절단***",
+      "TW": "***開啟服務面板，射擊內部電線***"
+    }
+  },
+  "***WIRES CUT, ATTEMPTING TO OPEN DOOR***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***配線切断、ドア開閉試行中***",
+      "CN": "***线路已切断，尝试开门***",
+      "KR": "***전선 절단, 문 열어보기 시도***",
+      "TW": "***剪斷電線，嘗試開啟門***"
+    }
+  },
+  "***ACCESS GRANTED, OPENING FACILITY DOOR***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***アクセス許可、施設扉開錠中***",
+      "CN": "***访问获得授权，正在打开设施门***",
+      "KR": "***액세스 승인, 시설 문 개방***",
+      "TW": "***存取獲准，開啟設施門***"
+    }
+  },
+  "***ELEVATOR LEAVING IN 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エレベーター発車まであと20秒***",
+      "CN": "***电梯将在20秒后离开***",
+      "KR": "***엘리베이터 20초 후 출발***",
+      "TW": "***電梯將於20秒後離開***"
+    }
+  },
+  "***ELEVATOR LEAVING IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エレベーター発車まであと10秒***",
+      "CN": "***电梯将在10秒后离开***",
+      "KR": "***엘리베이터 10초 후 출발***",
+      "TW": "***電梯將於10秒後離開***"
+    }
+  },
+  "***OPENING SERVER ROOM DOOR IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サーバールーム扉開錠まであと10秒***",
+      "CN": "***服务器室门将在10秒后打开***",
+      "KR": "***서버룸 문 10초 후 개방***",
+      "TW": "***伺服器房門即將於10秒後開啟***"
+    }
+  },
+  "***TELEPORTING ZOMBIES***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビ転送中***",
+      "CN": "***传送僵尸***",
+      "KR": "***좀비 텔레포팅***",
+      "TW": "***召喚殭屍***"
+    }
+  },
+  "***OPENING SERVER ROOM EXIT IN 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サーバールーム出口開放まであと20秒***",
+      "CN": "***服务器室出口将在20秒后开启***",
+      "KR": "***서버룸 출구 20초 후 개방***",
+      "TW": "***伺服器房出口將於20秒後開啟***"
+    }
+  },
+  "***OPENING SERVER ROOM EXIT IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サーバー室出口を10秒後に開放します***",
+      "CN": "***10秒后服务器机房出口开启***",
+      "KR": "***10초 내 서버실 출입구 개방***",
+      "TW": "***十秒後伺服器室出口將關閉***"
+    }
+  },
+  "***CLOSING SERVER ROOM EXIT IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "***SERVER ROOM EXIT CLOSING IN 10 SECONDS***",
+      "JP": "***サーバー室出口を10秒後に閉鎖します***",
+      "CN": "***10秒后服务器机房出口关闭***",
+      "KR": "***10초 내 서버실 출입구 폐쇄***",
+      "TW": "***十秒後伺服器室出口將開啟***"
+    }
+  },
+  "***ELEVATOR MALFUNCTION***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エレベーターの故障***",
+      "CN": "***电梯故障***",
+      "KR": "***엘리베이터 오작동***",
+      "TW": "***電梯故障***"
+    }
+  },
+  "***ERROR***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エラー***",
+      "CN": "***错误***",
+      "KR": "***에러***",
+      "TW": "***錯誤***"
+    }
+  },
+  "***ONLY A FEW PEOPLE NEED TO CLIMB THE ELEVATOR SHAFT AND TRIGGER A BUTTON AT THE TOP TO OPEN THE DOOR***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***数人のプレイヤーがエレベーターシャフトを上り、上部のボタンを押して扉を開ける必要があります***",
+      "CN": "仅需少数人攀爬电梯井，并在顶部按下按钮以开启门***",
+      "KR": "***몇 명만 엘리베이터 샤프트 상승 후 상단 버튼 눌러 문 개방***",
+      "TW": "***僅需少數人員攀爬電梯井並在頂部按下按鈕以開啟門***"
+    }
+  },
+  "***UPPER BUTTON TRIGGERED***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***上部のボタンが作動しました***",
+      "CN": "***上按钮已触发***",
+      "KR": "***상단 버튼 발동***",
+      "TW": "***上部按鈕已觸發***"
+    }
+  },
+  "***RAISING BLAST DOOR***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***爆発用ドアを開放中***",
+      "CN": "***升降防爆门***",
+      "KR": "방화문 상승 중***",
+      "TW": "***防爆門正在升起***"
+    }
+  },
+  "***TRIGGER THE ELEVATOR AND DEFEND UNTIL IT LEAVES***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エレベーターを作動させ、それが離れるまで防衛してください***",
+      "CN": "***触发电梯并防守直到其离开***",
+      "KR": "***엘리베이터 가동 및 퇴거까지 방어***",
+      "TW": "***觸發電梯並防禦直到它離開***"
+    }
+  },
+  "***ELEVATOR TRIGGERED***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター起動",
+      "CN": "***电梯已启动***",
+      "KR": "***엘리베이터 작동***",
+      "TW": "***電梯已觸發***"
+    }
+  },
+  "***ELEVATOR LEAVES IN 30 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは30秒後に出発します",
+      "CN": "***电梯将在30秒后离开***",
+      "KR": "***30초 후에 엘리베이터 출발***",
+      "TW": "***電梯將於30秒後離開***"
+    }
+  },
+  "***ELEVATOR LEAVES IN 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは20秒後に出発します",
+      "CN": "***电梯将在20秒后离开***",
+      "KR": "***20초 후에 엘리베이터 출발***",
+      "TW": "***電梯將於20秒後離開***"
+    }
+  },
+  "***ELEVATOR LEAVES IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは10秒後に出発します",
+      "CN": "***电梯将在10秒后离开***",
+      "KR": "***10초 후에 엘리베이터 출발***",
+      "TW": "***電梯將於10秒後離開***"
+    }
+  },
+  "***OPENING UPPER BLAST DOOR***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "上部遮断扉を開く",
+      "CN": "***正在开启上层防爆门***",
+      "KR": "상부 폭발 도어 개방 중***",
+      "TW": "***正在開啟上部防爆門***"
+    }
+  },
+  "***GET INTO THE AIRLOCK BEFORE IT CLOSES***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "閉まる前にエアロックに入る",
+      "CN": "在气闸关闭前进入***",
+      "KR": "***도어가 닫히기 전에 에어락 안으로 진입***",
+      "TW": "***在氣密門關閉前進入***"
+    }
+  },
+  "***FALLBACK ONTO THE SHIP***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "船へ後退する",
+      "CN": "***向飞船撤离***",
+      "KR": "***선박에서 하차***",
+      "TW": "返回船體***"
+    }
+  },
+  "***SOMEONE HAS TO PUSH THE BUTTON NEAR THE HANGAR DOORS TO START THE ACTIVATION SEQUENCE***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "作動シーケンスを開始するには、ハングドア付近のボタンを押す必要があります",
+      "CN": "***必须有人按下机库门附近的按钮以启动激活程序***",
+      "KR": "***활성화 시퀀스를 시작하려면 격납고 근처 버튼谁来 누를someone이 있어야 합니다***",
+      "TW": "***必須有人按下機庫門旁的按鈕以啟動啟動程序***"
+    }
+  },
+  "***OPENING DOORS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアを開ける ***",
+      "CN": "***开启舱门***",
+      "KR": "***문 열기***",
+      "TW": "***開啟大門***"
+    }
+  },
+  "***FALLBACK TO THE SHIP***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 船へのフォールバック ***",
+      "CN": "***返回飞船***",
+      "KR": "***선박으로 후퇴***",
+      "TW": "***退回船艙***"
+    }
+  },
+  "***ZOMBIES ARE BEING TELEPORTED FORWARD***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが前方にテレポートしている ***",
+      "CN": "***僵尸正在传送至前方***",
+      "KR": "***좀비 전송 진행 중***",
+      "TW": "***殭屍正在被預先傳送***"
+    }
+  },
+  "***POWERING ON MAIN ENGINES***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** メインエンジン点火 ***",
+      "CN": "***主引擎启动中***",
+      "KR": "메인 엔진 가동***",
+      "TW": "***啟動主引擎***"
+    }
+  },
+  "***RETRACTING DOCKING CLAMPS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドッキングクランプ格納中 ***",
+      "CN": "***收回对接夹具***",
+      "KR": "***도킹 클램프 수축 중***",
+      "TW": "***收攏登陸夾具***"
+    }
+  },
+  "***TITAN READY FOR LAUNCH***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** タイタン、発射準備完了 ***",
+      "CN": "***泰坦号准备发射***",
+      "KR": "***타이언, 발사 준비 완료***",
+      "TW": "***泰坦號已準備發射***"
+    }
+  },
+  "***BRIDGES COLLAPSE IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 橋梁崩落まで10秒 ***",
+      "CN": "***桥梁将在10秒后坍塌***",
+      "KR": "***다리의 붕괴까지 10초***",
+      "TW": "***大橋將在10秒內倒塌***"
+    }
+  },
+  "***MAP CREATED BY MAVIS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マビス作成のマップ ***",
+      "CN": "***地图由Mavis制作***",
+      "KR": "***매비스가 제작한 맵***",
+      "TW": "***地圖由梅薇絲創作***"
+    }
+  },
+  "***FOR GFL'S UNOFFICIAL MAPPING CONTEST***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***GFL非公式マッピングコンテスト用***",
+      "CN": "***致GFL非官方地图竞赛***",
+      "KR": "***GFL 비공식 맵 컨테스트용***",
+      "TW": "***GFL非官方地圖創作競賽***"
+    }
+  },
+  "***THANKS FOR PLAYING!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プレイありがとうございます！***",
+      "CN": "***感谢您的游玩！***",
+      "KR": "***재생해 주셔서 감사합니다!***",
+      "TW": "***感謝遊玩！***"
+    }
+  },
+  "*** MAP OVER ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***マップ完了***",
+      "CN": "***地图已结束***",
+      "KR": "*** 맵 완료 ***",
+      "TW": "***地圖結束***"
+    }
+  },
+  "***[@: Raising Zombie Bridges]***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***[@: ゾンビの橋を構築]***",
+      "CN": "***[@: 建造僵尸桥梁]***",
+      "KR": "***[@: 좀비 교량 건설]***",
+      "TW": "***[@：製造殭屍橋樑]***"
+    }
+  },
+  "***DIDN'T KILL THE BOSS IN TIME - SLAYING***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ボス撃破時間切れ - 敗北***",
+      "CN": "***未在规定时间内击败Boss - 处决失败***",
+      "KR": "***보스를 제때 처치하지 못함 - 사냥 중***",
+      "TW": "***未在時間內擊敗首領 - 被擊殺***"
+    }
+  }
+}

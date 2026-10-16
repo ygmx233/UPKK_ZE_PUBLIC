@@ -1,0 +1,592 @@
+{
+  "*** TELEPORT IN 20 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にテレポート ***",
+      "CN": "*** 20秒后传送 ***",
+      "KR": "*** 20초 후 텔레포트 ***",
+      "TW": "*** 20 秒後傳送 ***"
+    }
+  },
+  "*** MAP BY: eastern swiss power ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マップ作成者: eastern swiss power ***",
+      "CN": "*** 地图制作者：Eastern Swiss Power ***",
+      "KR": "*** 맵 제작: eastern swiss power ***",
+      "TW": "*** 地圖作者：eastern swiss power ***"
+    }
+  },
+  "*** THANKS TO: Syoudous ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 協力者: Syoudous ***",
+      "CN": "*** 鸣谢：Syoudous ***",
+      "KR": "*** 감사의 말: Syoudous ***",
+      "TW": "*** 感謝：Syoudous ***"
+    }
+  },
+  "*** 10 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後 ***",
+      "CN": "*** 10秒后 ***",
+      "KR": "*** 10초 후 ***",
+      "TW": "*** 10 秒後 ***"
+    }
+  },
+  "***DOOR BREAKS IN 15 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後にドアが破損 ***",
+      "CN": "*** 门将在15秒内被破坏 ***",
+      "KR": "*** 15초 후 문 깨짐 ***",
+      "TW": "*** 門在 15 秒後被破壞 ***"
+    }
+  },
+  "*** SECURITY SYSTEM SHUTTING DOWN... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** セキュリティシステムシャットダウン中... ***",
+      "CN": "*** 安全系统正在关闭... ***",
+      "KR": "*** 보안 시스템 종료 중... ***",
+      "TW": "*** 安全系統關閉中... ***"
+    }
+  },
+  "*** DOOR OPENS IN 30 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後にドアが開く ***",
+      "CN": "*** 门将在30秒后打开 ***",
+      "KR": "*** 30초 후 문 열림 ***",
+      "TW": "*** 門在 30 秒後開啟 ***"
+    }
+  },
+  "*** ZOMBIES TELEPORT IN 10 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後にゾンビがテレポート ***",
+      "CN": "*** 10秒后传送僵尸 ***",
+      "KR": "*** 10초 후 좀비 텔레포트 ***",
+      "TW": "*** 殭屍在 10 秒後傳送 ***"
+    }
+  },
+  "*** WE DON'T HAVE THE RIGHT EQUIPMENT TO OPEN THE SAFE ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** セーフを開ける適切な機材を持っていない ***",
+      "CN": "*** 我们没有合适的设备来打开保险箱 ***",
+      "KR": "*** 안전장치에 맞는 장비가 없습니다 ***",
+      "TW": "*** 我們沒有開啟保險箱的適當裝備 ***"
+    }
+  },
+  "*** TIME FOR PLAN [B] ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** [B]プラン実行だ ***",
+      "CN": "*** 执行计划 [B] ***",
+      "KR": "*** [B] 계획 발동 ***",
+      "TW": "*** 執行[B]計劃 ***"
+    }
+  },
+  "*** PLANT THE [B]OMB! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** [B]OMBを仕掛ける！ ***",
+      "CN": "*** 安装 [B]OMB！***",
+      "KR": "*** [B]폭탄 심기! ***",
+      "TW": "*** 種下[爆]彈！ ***"
+    }
+  },
+  "*** [B]OATS START IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** [B]ボートが5秒後に発進する ***",
+      "CN": "*** [B]船将在5秒后出发 ***",
+      "KR": "*** [B]선박 5초 후 출항 ***",
+      "TW": "*** [B]船將在5秒後出發 ***"
+    }
+  },
+  "*** DODGE THE LASERS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザーをよけろ ***",
+      "CN": "*** 躲避激光 ***",
+      "KR": "*** 레이더 회피 ***",
+      "TW": "*** 閃躲雷射光束 ***"
+    }
+  },
+  "*** OR GO TO JAIL! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** または刑務所行き！ ***",
+      "CN": "*** 否则就进监狱！***",
+      "KR": "*** 감옥행 혹은 ***",
+      "TW": "*** 否則入獄！ ***"
+    }
+  },
+  "*** YOU FAILED! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 失敗した！ ***",
+      "CN": "*** 你失败了！***",
+      "KR": "*** 실패했습니다! ***",
+      "TW": "*** 挑戰失敗！ ***"
+    }
+  },
+  "*** SOLO WIN! WINNER: 三第 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** SOLO WIN! WINNER: SansaiDi ***",
+      "JP": "*** ソロ勝ち！勝者：三第 ***",
+      "CN": "",
+      "KR": "*** 솔로승! 승리자: San Di ***",
+      "TW": "*** 單人勝利！獲勝者：三第 ***"
+    }
+  },
+  "*** HUMAN ITEM SPAWNED! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 人間アイテムが出現！***",
+      "CN": "*** 已生成人类物品！***",
+      "KR": "*** 인간 아이템 스폰! ***",
+      "TW": "*** 已生成人類物品！***"
+    }
+  },
+  "*** MONEY ITEM PICKED UP ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** お金のアイテムを獲得 ***",
+      "CN": "*** 已拾取金钱物品 ***",
+      "KR": "*** 돈 아이템 획득 ***",
+      "TW": "*** 已拾取金錢物品 ***"
+    }
+  },
+  "*** DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが20秒後に開く ***",
+      "CN": "*** 门将在 20 秒后打开 ***",
+      "KR": "*** 문 20초 후에 열림 ***",
+      "TW": "*** 門將在 20 秒後開啟 ***"
+    }
+  },
+  "*** [B]RIDGE DEACTIVATING IN 10 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** [B]リアクション解除開始：10秒 ***",
+      "CN": "*** [B]桥将在 10 秒后失效 ***",
+      "KR": "*** [B]RIDGE 10초 후에 비활성화됨 ***",
+      "TW": "*** [B]橋樑將在 10 秒後解除激活 ***"
+    }
+  },
+  "*** [B]RIDGE ACTIVATING IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** [B]リアクションアクティブ化開始：5秒 ***",
+      "CN": "*** [B]桥将在 5 秒后激活 ***",
+      "KR": "*** [B]RIDGE 5초 후에 활성화됨 ***",
+      "TW": "*** [B]橋樑將在 5 秒後開始激活 ***"
+    }
+  },
+  "*** LASER WALL DEACTIVATES IN 50 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザーウォール解除開始：50秒 ***",
+      "CN": "*** 激光墙将在 50 秒后失效 ***",
+      "KR": "*** 레이저 월 50초 후에 비활성화됨 ***",
+      "TW": "*** 雷射牆將在 50 秒後解除激活 ***"
+    }
+  },
+  "*** LASERS TURNING OFF IN 20 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザーオフ開始：20秒 ***",
+      "CN": "*** 激光将在 20 秒内关闭 ***",
+      "KR": "*** 레이저 20초 후에 꺼짐 ***",
+      "TW": "*** 雷射將在 20 秒後關閉 ***"
+    }
+  },
+  "*** LASER WALL ITEM PICKED UP ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザーウォールアイテムを獲得 ***",
+      "CN": "*** 已拾取激光墙物品 ***",
+      "KR": "*** 레이저 월 아이템 획득 ***",
+      "TW": "*** 已拾取雷射牆物品 ***"
+    }
+  },
+  "*** ELEVATOR ARRIVES IN 40 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター到着まで40秒",
+      "CN": "*** 电梯将在 40 秒后到达 ***",
+      "KR": "*** 엘리베이터 40초 뒤 도착 ***",
+      "TW": "*** 電梯將在40秒後抵達 ***"
+    }
+  },
+  "*** ELEVATOR LEAVES IN 15 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター発車まで15秒",
+      "CN": "*** 电梯将在15秒后离开 ***",
+      "KR": "*** 엘리베이터 15초 후 출발 ***",
+      "TW": "*** 電梯將於15秒後離開 ***"
+    }
+  },
+  "*** ZOMBIE TELEPORT IN 10 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビテレポートまで10秒",
+      "CN": "*** 僵尸传送倒计时10秒 ***",
+      "KR": "*** 좀비 텔레포트 10초 뒤 발생 ***",
+      "TW": "***殭屍傳送倒計時：10秒***"
+    }
+  },
+  "*** CRACKING THE CODE OF THE DOOR... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアのコードを解析中...",
+      "CN": "*** 破解门锁密码中... ***",
+      "KR": "*** 도어 비밀번호 해독 중... ***",
+      "TW": "*** 解碼門鎖中... ***"
+    }
+  },
+  "*** F%&K, THE PATH IS BLOCKED... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** フッ、ルートが塞がっている... ***",
+      "CN": "*** F%&K，路被堵住了... ***",
+      "KR": "*** 피할 수 없어, 길이 막혔다... ***",
+      "TW": "*** 該，路徑被封 blocked... ***"
+    }
+  },
+  "*** ... WE NEED TO FIND ANOTHER WAY ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 別の手段を探す必要がある ***",
+      "CN": "*** ...我们需要找到另一条路 ***",
+      "KR": "*** ... 다른 방법을 찾아야 해 ***",
+      "TW": "*** ... 我們需要找到另一條路 ***"
+    }
+  },
+  "*** ONE OF THE DOORS UNLOCK SOON ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉の1つが間もなく解除される ***",
+      "CN": "*** 一扇门很快将解锁 ***",
+      "KR": "*** 문 중 하나가 곧 잠금 해제됨 ***",
+      "TW": "*** 一扇門即將解鎖 ***"
+    }
+  },
+  "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 正しいキーを見つけるまで少し待って ***",
+      "CN": "*** 给我几秒钟来找到正确的钥匙 ***",
+      "KR": "*** 올바른 열쇠를 찾기까지 잠시만 기다려 줘 ***",
+      "TW": "*** 給我幾秒鐘找對鑰匙 ***"
+    }
+  },
+  "*** THIS LOOKS LIKE A DEAD END... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** これは行き止まりのようだ… ***",
+      "CN": "*** 这看起来像是死路... ***",
+      "KR": "*** 끝날 것 같은데... ***",
+      "TW": "*** 這裡看似是死胡同…… ***"
+    }
+  },
+  "*** TRY TO SETUP A PHONE CONNECTION ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 電話回線を繋いでくれ ***",
+      "CN": "*** 尝试建立电话连接 ***",
+      "KR": "*** 폰 연결을 시도해라 ***",
+      "TW": "*** 試著建立電話連線 ***"
+    }
+  },
+  "*** TELEPHONE DIALING... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 電話をダイヤル中… ***",
+      "CN": "*** 正在拨号... ***",
+      "KR": "*** 전화걸기 중... ***",
+      "TW": "*** 撥打電話中…… ***"
+    }
+  },
+  "*** ... CONNECTION ESTABLISHED! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** …回線接続完了！ ***",
+      "CN": "*** ... 连接已建立！ ***",
+      "KR": "*** ... 연결 완료! ***",
+      "TW": "*** ……連線已建立！ ***"
+    }
+  },
+  "*** LOOK UP ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 目を光らせろ ***",
+      "CN": "*** 抬头看 ***",
+      "KR": "*** 시야를 확보하라 ***",
+      "TW": "*** 抬頭看 ***"
+    }
+  },
+  "*** AND DODGE THE MATRIX CODE ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** そしてマトリックスのコードを回避しろ ***",
+      "CN": "*** 躲避矩阵代码 ***",
+      "KR": "*** 그리고 매트릭스 코드를 피하라 ***",
+      "TW": "*** 躲避矩陣代碼 ***"
+    }
+  },
+  "*** JUST A TRIM ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 僅かな違いだ ***",
+      "CN": "*** 只是修剪一下 ***",
+      "KR": "*** 간단한 절단만 ***",
+      "TW": "*** 只是稍微修剪一下 ***"
+    }
+  },
+  "*** SOLO WIN! WINNER: 桜島麻衣 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** SOLO WIN! WINNER: Mai Sakurajima ***",
+      "JP": "*** シングルス勝利！勝者：桜島麻衣 ***",
+      "CN": "",
+      "KR": "*** 솔로 승리! 우승자: 사쿠라이마 이 ***",
+      "TW": "*** 單獨勝利！獲勝者：櫻島麻衣 ***"
+    }
+  },
+  "*** ZOMBIE ITEM SPAWNED! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビアイテム生成！ ***",
+      "CN": "*** 已生成僵尸物品！ ***",
+      "KR": "*** 좀비 아이템 생성! ***",
+      "TW": "已生成殭屍物品！"
+    }
+  },
+  "*** JIHAD ITEM PICKED UP ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ジハードアイテム取得 ***",
+      "CN": "*** 已拾取圣战物品 ***",
+      "KR": "*** 지하디드 아이템 획득 ***",
+      "TW": "拾取了吉哈德物品"
+    }
+  },
+  "*** DUO WIN! WINNERS: RabbitSaturation, 桜島麻衣 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** DUO WIN! WINNERS: RabbitSaturation, Mai Sakurajima ***",
+      "JP": "*** デュオ勝利！勝者：RabbitSaturation, 桜島麻衣 ***",
+      "CN": "",
+      "KR": "*** 듀오 우승! 승리자: RabbitSaturation, 桜島麻衣 ***",
+      "TW": "雙人勝利！獲勝者：RabbitSaturation, 桜島麻衣"
+    }
+  },
+  "*** SOLO WIN! WINNER: RabbitSaturation ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ソロ勝利！勝者：RabbitSaturation ***",
+      "CN": "*** 单人模式胜利！胜者：RabbitSaturation ***",
+      "KR": "*** 솔로 우승! 승리자: RabbitSaturation ***",
+      "TW": "單人勝利！獲勝者：RabbitSaturation"
+    }
+  },
+  "*** SOLO WIN! WINNER: Delicate ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ソロ勝利！勝者：Delicate ***",
+      "CN": "*** 单人模式胜利！胜者：Delicate ***",
+      "KR": "*** 솔로 우승! 승리자: Delicate ***",
+      "TW": "單人勝利！獲勝者：Delicate"
+    }
+  },
+  "*** FIDGET SPINNER PICKED UP ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** フィジットスプイナー取得 ***",
+      "CN": "*** 拾取了指尖陀螺 ***",
+      "KR": "*** 피젯스피너 아이템 획득 ***",
+      "TW": "拾取了指轉陀螺"
+    }
+  },
+  "*** DUO WIN! WINNERS: Tlipoca, 桜島麻衣 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** DUO WIN! WINNERS: Tlipoca, Mai Sakurajima ***",
+      "JP": "*** デュオ勝利！勝者：Tlipoca, 桜島麻衣 ***",
+      "CN": "",
+      "KR": "*** 듀오 우승! 승리자: Tlipoca, 桜島麻衣 ***",
+      "TW": "雙人勝利！獲勝者：Tlipoca, 桜島麻衣"
+    }
+  },
+  "*** TRIO WIN! WINNERS: ＊, Delicate, de_gula:德古拉 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** TRIO WIN! WINNERS: *, Delicate, de_gula:Dracula ***",
+      "JP": "*** トリオ勝利！勝者：＊, Delicate, de_gula:德古拉 ***",
+      "CN": "",
+      "KR": "*** 트리오 우승! 승리자: ＊, Delicate, de_gula:드골라 ***",
+      "TW": "三人小組勝利！獲勝者：＊, Delicate, de_gula:德古拉"
+    }
+  },
+  "*** SURVIVE THE LAST HOLD! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後の拠点を防衛せよ！ ***",
+      "CN": "*** 坚持住最后的回合！***",
+      "KR": "*** 마지막 방어선을 살아남으세요! ***",
+      "TW": "*** 挺過最後一波攻擊！***"
+    }
+  },
+  "*** TRIO WIN! WINNERS: 三第, RabbitSaturation, Delicate ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** TRIO WIN! WINNERS: SansaiDi, RabbitSaturation, Delicate ***",
+      "JP": "*** トリオ勝利！ 勝者：三第, RabbitSaturation, Delicate ***",
+      "CN": "",
+      "KR": "*** TRIO 승리! 우승자: 三第, RabbitSaturation, Delicate ***",
+      "TW": "*** 團隊模式獲勝！勝利者：三第, RabbitSaturation, Delicate ***"
+    }
+  },
+  "*** SOLO WIN! WINNER: de_gula:德古拉 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** SOLO WIN! WINNER: de_gula:Dracula ***",
+      "JP": "*** ソロ勝利！ 勝者：de_gula:德古拉 ***",
+      "CN": "",
+      "KR": "*** SOLO 승리! 우승자: de_gula:德古拉 ***",
+      "TW": "*** 個人模式獲勝！勝利者：de_gula:德古拉 ***"
+    }
+  },
+  "*** TRIO WIN! WINNERS: 三第, Delicate, 長尾景虎 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** TRIO WIN! WINNERS: SansaiDi, Delicate, Nagao Kagetora ***",
+      "JP": "*** トリオ勝利！ 勝者：三第, Delicate, 長尾景虎 ***",
+      "CN": "",
+      "KR": "*** TRIO 승리! 우승자: 三第, Delicate, 長尾景虎 ***",
+      "TW": "*** 團隊模式獲勝！勝利者：三第, Delicate, 長尾景虎 ***"
+    }
+  },
+  "*** DUO WIN! WINNERS: Delicate, 長尾景虎 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** DUO WIN! WINNERS: Delicate, Nagao Kagekatsu ***",
+      "JP": "*** デュオ勝利！ 勝者：Delicate, 長尾景虎 ***",
+      "CN": "",
+      "KR": "*** DUO 승리! 우승자: Delicate, 長尾景虎 ***",
+      "TW": "*** 雙人模式獲勝！勝利者：Delicate, 長尾景虎 ***"
+    }
+  },
+  "*** SOLO WIN! WINNER: 長尾景虎 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** SOLO WIN! WINNER: Nagao Kagekatsu ***",
+      "JP": "*** ソロ勝利！ 勝者：長尾景虎 ***",
+      "CN": "",
+      "KR": "*** SOLO 승리! 우승자: 長尾景虎 ***",
+      "TW": "*** 個人模式獲勝！勝利者：長尾景虎 ***"
+    }
+  },
+  "*** CONGRATULATIONS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** おめでとう ***",
+      "CN": "*** 恭喜 ***",
+      "KR": "*** 축하합니다 ***",
+      "TW": "*** 恭喜 ***"
+    }
+  },
+  "*** YOU [B]EAT THE MAP! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 地図攻略成功！ ***",
+      "CN": "*** 你 [B]击败了地图！***",
+      "KR": "*** 당신은 맵을 [B]정복했습니다! ***",
+      "TW": "*** 你 [B]擊敗了地圖！***"
+    }
+  },
+  "*** SOLO WIN! WINNER: Myrddin ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ソロ勝利！勝者：ミルディン ***",
+      "CN": "*** 单人模式胜利！胜者：Myrddin ***",
+      "KR": "*** 1인 플레이 승리! 우승자: 머더니 ***",
+      "TW": "*** 單人勝利！勝者：Myrddin ***"
+    }
+  },
+  "*** GOOD JOB, YOU DID IT! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** お疲れ様、やり遂げたよ！ ***",
+      "CN": "*** 干得好，你成功了！***",
+      "KR": "*** 훌륭해, 성공했어! ***",
+      "TW": "*** 幹得漂亮，你成功了！ ***"
+    }
+  },
+  "*** DUO WIN! WINNERS: 蘭, 男人小黑 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** DUO WIN! WINNERS: Lan, Men Ren Xiaohei ***",
+      "JP": "*** デュオ勝利！勝者：ラン、男の黒 ***",
+      "CN": "",
+      "KR": "*** 2인 플레이 승리! 우승자: 란, 남자 블랙 ***",
+      "TW": "*** 雙人勝利！勝者：蘭, 男人小黑 ***"
+    }
+  }
+}

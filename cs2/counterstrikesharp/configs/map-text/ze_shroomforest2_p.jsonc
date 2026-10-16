@@ -1,410 +1,1362 @@
 {
   "*** .... WHAT IS HAPPENING ?? ***": {
-    "translation": "*** .... 发生了什么事？？？ ***"
+    "translation": "*** .... 发生了什么事？？？ ***",
+    "MultiLang": {
+      "US": "*** .... WHAT IS HAPPening ?? ***",
+      "JP": "*** ...... どうしたの ?? ***",
+      "CN": "*** 发生什么事了？？？***",
+      "KR": "*** .... 무슨 일이 발생하는 걸까 ?? ***",
+      "TW": "*** .... 到底發生了什麼事？ ***"
+    }
   },
   "*** 5 MORE SECONDS ***": {
-    "translation": "*** 还剩5秒 ***"
+    "translation": "*** 还剩5秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** あと5秒 ***",
+      "CN": "*** 还剩5秒 ***",
+      "KR": "*** 5초 뒤 ***",
+      "TW": "*** 還剩5秒 ***"
+    }
   },
   "*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***": {
-    "translation": "*** 蝴蝶死了！！！再防守更久！！！ ***"
+    "translation": "*** 蝴蝶死了！！！再防守更久！！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** バタフライ死亡 !!!! 長生きするな !!!! ***",
+      "CN": "*** 蝴蝶已死亡！！！坚持更久！！！**",
+      "KR": "*** 나비 죽음 !!!! 더 오래 버텨라 !!!! ***",
+      "TW": "*** 蝴蝶已陣亡！!!!! 繼續防守！!!!! ***"
+    }
   },
   "*** BUTTERFLY LEAVING IN 15 SECONDS ***": {
-    "translation": "*** 蝴蝶将在15秒内离开 ***"
+    "translation": "*** 蝴蝶将在15秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** バタフライ15秒で去る ***",
+      "CN": "*** 蝴蝶将于15秒后离开 ***",
+      "KR": "*** 나비 15초 후 이탈 ***",
+      "TW": "*** 蝴蝶將在15秒後離去 ***"
+    }
   },
   "*** BUTTERFLY LEAVING IN 30 SECONDS ***": {
-    "translation": "*** 蝴蝶将在30秒内离开 ***"
+    "translation": "*** 蝴蝶将在30秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** バタフライ30秒で去る ***",
+      "CN": "*** 蝴蝶将于30秒后离开 ***",
+      "KR": "*** 나비 30초 후 이탈 ***",
+      "TW": "*** 蝴蝶將在30秒後離去 ***"
+    }
   },
   "*** CLOUD LEAVING IN 20 SECONDS ***": {
-    "translation": "*** 云将在20秒内离开 ***"
+    "translation": "*** 云将在20秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** クラウド20秒で去る ***",
+      "CN": "*** 云朵将于20秒后离开 ***",
+      "KR": "*** 구름 20초 후 이탈 ***",
+      "TW": "*** 雲将在20秒後離去 ***"
+    }
   },
   "*** DOOR IS OPEN! RUUUN! ***": {
-    "translation": "*** 门开了！快跑！ ***"
+    "translation": "*** 门开了！快跑！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉が開いた! RUUUN! ***",
+      "CN": "*** 门已打开！快跑！！！",
+      "KR": "*** 문 열림! 도망쳐!!!***",
+      "TW": "*** 門已開啟！快跑！！！***"
+    }
   },
   "*** DOORS OPENING IN 30 SECONDS ***": {
-    "translation": "*** 门将在30秒内打开 ***"
+    "translation": "*** 门将在30秒内打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉30秒で開く ***",
+      "CN": "*** 门将将于30秒后打开 ***",
+      "KR": "*** 문 30초 후 개방 ***",
+      "TW": "*** 門将在30秒後開啟 ***"
+    }
   },
   "*** ELEVATOR LEAVING IN 10 SECONDS ***": {
-    "translation": "*** 电梯将在10秒内离开 ***"
+    "translation": "*** 电梯将在10秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後にエレベーターを発車します ***",
+      "CN": "电梯将在 10 秒后离开",
+      "KR": "*** 엘리베이터 출발까지 10초 ***",
+      "TW": "*** 電梯將在 10 秒後離開 ***"
+    }
   },
   "*** ELEVATOR OPENING IN 20 SECONDS ***": {
-    "translation": "*** 电梯将在20秒内打开 ***"
+    "translation": "*** 电梯将在20秒内打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にエレベーターが開きます ***",
+      "CN": "电梯将在 20 秒后打开",
+      "KR": "*** 엘리베이터 개방까지 20초 ***",
+      "TW": "*** 電梯將在 20 秒後開啟 ***"
+    }
   },
   "*** FALL BACK !!! ***": {
-    "translation": "*** 后撤！！！ ***"
+    "translation": "*** 后撤！！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 後退せよ!!! ***",
+      "CN": "*** 立即撤退 !!! ***",
+      "KR": "*** 후퇴 !!! ***",
+      "TW": "*** 後退 !!! ***"
+    }
   },
   "*** FALL BACK ***": {
-    "translation": "*** 后撤 ***"
+    "translation": "*** 后撤 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 後退せよ ***",
+      "CN": "*** 立即撤退 ***",
+      "KR": "*** 후퇴 ***",
+      "TW": "*** 後退 ***"
+    }
   },
   "*** FAN STOPPING IN 30 SECONDS ***": {
-    "translation": "*** 风扇将在30秒内停转 ***"
+    "translation": "*** 风扇将在30秒内停转 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後にファンが停止します ***",
+      "CN": "风扇将在 30 秒后停止",
+      "KR": "*** 환풍기 정지까지 30초 ***",
+      "TW": "*** 風扇將在 30 秒後停止運轉 ***"
+    }
   },
   "*** FLY LEAVING IN 15 SECONDS ***": {
-    "translation": "*** 苍蝇将在15秒内离开 ***"
+    "translation": "*** 苍蝇将在15秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後にフライを発車します ***",
+      "CN": "*** 电梯将在 15 秒后离开 ***",
+      "KR": "*** 비상구 개방까지 15초 ***",
+      "TW": "*** 飛彈將在 15 秒後離開 ***"
+    }
   },
   "*** FLY LEAVING IN 20 SECONDS ***": {
-    "translation": "*** 苍蝇将在20秒内离开 ***"
+    "translation": "*** 苍蝇将在20秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にフライを発車します ***",
+      "CN": "*** 电梯将在 20 秒后离开 ***",
+      "KR": "*** 비상구 개방까지 20초 ***",
+      "TW": "*** 飛彈將在 20 秒後離開 ***"
+    }
   },
   "*** FLY LEAVING IN 30 SECONDS ***": {
-    "translation": "*** 苍蝇将在30秒内离开 ***"
+    "translation": "*** 苍蝇将在30秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後にフライを発車します ***",
+      "CN": "*** 电梯将在 30 秒后离开 ***",
+      "KR": "*** 비상구 개방까지 30초 ***",
+      "TW": "*** 飛彈將在 30 秒後離開 ***"
+    }
   },
   "*** GATE OPENING IN 25 SECONDS ***": {
-    "translation": "*** 大门将在25秒内打开 ***"
+    "translation": "*** 大门将在25秒内打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゲート、25秒後に開門 ***",
+      "CN": "*** 距离城门开启还有25秒 ***",
+      "KR": "*** 게이트 25초 후 개방 ***",
+      "TW": "*** 門戶將於 25 秒後開啟 ***"
+    }
   },
   "*** GATE OPENING IN 30 SECONDS ***": {
-    "translation": "*** 大门将在30秒内打开 ***"
+    "translation": "*** 大门将在30秒内打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゲート、30秒後に開門 ***",
+      "CN": "*** 距离城门开启还有30秒 ***",
+      "KR": "*** 게이트 30초 후 개방 ***",
+      "TW": "*** 門戶將於 30 秒後開啟 ***"
+    }
   },
   "*** GOOD JOB TEAM !!! ***": {
-    "translation": "*** 干得好，队伍！！！ ***"
+    "translation": "*** 干得好，队伍！！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 頑張れチーム！！！ ***",
+      "CN": "*** 干得好，团队！！！***",
+      "KR": "*** 팀 수고했어!!! ***",
+      "TW": "*** 團隊表現優秀！ ***"
+    }
   },
   "*** HEAVEN GATES OPENING IN 25 SECONDS ***": {
-    "translation": "*** 天堂之门将在25秒内打开 ***"
+    "translation": "*** 天堂之门将在25秒内打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 天国の扉、25秒後に開門 ***",
+      "CN": "*** 距离天界城门开启还有25秒 ***",
+      "KR": "*** 천국 문 25초 후 개방 ***",
+      "TW": "*** 天堂門戶將於 25 秒後開啟 ***"
+    }
   },
   "*** HOLD FOR 30 SECONDS ***": {
-    "translation": "*** 防守30秒 ***"
+    "translation": "*** 防守30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒間維持しろ！ ***",
+      "CN": "*** 坚持30秒 ***",
+      "KR": "*** 30초간 유지 ***",
+      "TW": "*** 堅持住，30 秒！ ***"
+    }
   },
   "*** LEAF LEAVING IN 20 SECONDS ***": {
-    "translation": "*** 叶子将在20秒内离开 ***"
+    "translation": "*** 叶子将在20秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 葉、20秒後に離脱 ***",
+      "CN": "*** 距离树叶离开还有20秒 ***",
+      "KR": "*** 낙엽 20초 후 발사 ***",
+      "TW": "*** 戰術離場倒計時 20 秒 ***"
+    }
   },
   "*** NADES DO MORE DAMAGE !!! ***": {
-    "translation": "*** 手榴弹造成更多伤害！！！ ***"
+    "translation": "*** 手榴弹造成更多伤害！！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ナデスのダメージが大幅増加！！！ ***",
+      "CN": "*** 手榴弹伤害更高！！！***",
+      "KR": "*** 폭탄이 더 많은 피해를 줍니다!!! ***",
+      "TW": "*** 手榴彈造成更高傷害！ ***"
+    }
   },
   "*** RUUUN! ***": {
-    "translation": "*** 快跑！ ***"
+    "translation": "*** 快跑！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 走れ！ ***",
+      "CN": "*** 快跑！***",
+      "KR": "*** 도망쳐!! ***",
+      "TW": "*** 快逃！ ***"
+    }
   },
   "*** THE DRAGON IS BACK FROM HELL !!! ***": {
-    "translation": "*** 龙从地狱回来了！！！ ***"
+    "translation": "*** 龙从地狱回来了！！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 龍が地獄から戻ってきた！！！ ***",
+      "CN": "*** 恶龙已从地狱归来！！！***",
+      "KR": "*** 드래곤이 지옥에서 돌아왔다 !!! ***",
+      "TW": "*** 惡魔已從地獄归来！***"
+    }
   },
   "*** WE HAVE TO KILL HIM AS FAST AS POSSIBLE ***": {
-    "translation": "*** 我们必须尽快杀死他 ***"
+    "translation": "*** 我们必须尽快杀死他 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 私たちは彼をできるだけ早く倒さなければならない ***",
+      "CN": "*** 我们必须尽快杀掉他 ***",
+      "KR": "*** 가능한 한 빨리 그를 죽여야 한다 ***",
+      "TW": "*** 我們必須盡快殺死他 ***"
+    }
   },
   "*** WEB LEAVING IN 20 SECONDS ***": {
-    "translation": "*** 网将在20秒内离开 ***"
+    "translation": "*** 网将在20秒内离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にウェブ切断 ***",
+      "CN": "*** 传送将在20秒后启动 ***",
+      "KR": "*** 웹 20초 후 종료 ***",
+      "TW": "*** 傳送門20秒後關閉 ***"
+    }
   },
   "*** WHERE DID SATAN GO... ***": {
-    "translation": "*** 撒旦去哪了... ***"
+    "translation": "*** 撒旦去哪了... ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** サタンはどこへ消えた… ***",
+      "CN": "*** 撒旦去哪儿了... ***",
+      "KR": "*** 사탄이 어디로 사라졌을까... ***",
+      "TW": "*** 撒旦去了哪裡... ***"
+    }
   },
   ">> ... HE IS GONE <<": {
-    "translation": ">> ... 他消失了 <<"
+    "translation": ">> ... 他消失了 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ... 彼は姿を消した <<",
+      "CN": ">> ...他已消失 <<",
+      "KR": ">> ... 그는 사라졌다 <<",
+      "TW": ">> ... 他已經消失 <<"
+    }
   },
   ">> 10 SECONDS LEFT <<": {
-    "translation": ">> 还剩10秒 <<"
+    "translation": ">> 还剩10秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> あと10秒 <<",
+      "CN": ">> 剩余10秒 <<",
+      "KR": ">> 남은 시간 10초 <<",
+      "TW": ">> 剩餘10秒 <<"
+    }
   },
   ">> 120 SECONDS LEFT <<": {
-    "translation": ">> 还剩120秒 <<"
+    "translation": ">> 还剩120秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> あと120秒 <<",
+      "CN": ">> 剩余120秒 <<",
+      "KR": ">> 남은 시간 120초 <<",
+      "TW": ">> 剩餘120秒 <<"
+    }
   },
   ">> 150 SECONDS LEFT <<": {
-    "translation": ">> 还剩150秒 <<"
+    "translation": ">> 还剩150秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> あと150秒 <<",
+      "CN": ">> 剩余150秒 <<",
+      "KR": ">> 남은 시간 150초 <<",
+      "TW": ">> 剩餘150秒 <<"
+    }
   },
   ">> 20 SECONDS LEFT <<": {
-    "translation": ">> 还剩20秒 <<"
+    "translation": ">> 还剩20秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 20秒後残り <<",
+      "CN": ">> 剩余20秒 <<",
+      "KR": ">> 남은 시간: 20초 <<",
+      "TW": ">> 剩餘 20 秒 <<"
+    }
   },
   ">> 3 WINS IN A ROW !!! <<": {
-    "translation": ">> 连续赢了3次！！！ <<"
+    "translation": ">> 连续赢了3次！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 3連勝 !!! <<",
+      "CN": ">> 三连胜 !!! <<",
+      "KR": ">> 연승 3판 !!! <<",
+      "TW": ">> 連勝 3 局 !!! <<"
+    }
   },
   ">> 30 SECONDS LEFT <<": {
-    "translation": ">> 还剩30秒 <<"
+    "translation": ">> 还剩30秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒後残り <<",
+      "CN": ">> 剩余30秒 <<",
+      "KR": ">> 남은 시간: 30초 <<",
+      "TW": ">> 剩餘 30 秒 <<"
+    }
   },
   ">> 40 SECONDS LEFT <<": {
-    "translation": ">> 还剩40秒 <<"
+    "translation": ">> 还剩40秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 40秒後残り <<",
+      "CN": ">> 剩余40秒 <<",
+      "KR": ">> 남은 시간: 40초 <<",
+      "TW": ">> 剩餘 40 秒 <<"
+    }
   },
   ">> 5 SECONDS LEFT <<": {
-    "translation": ">> 还剩5秒 <<"
+    "translation": ">> 还剩5秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 5秒後残り <<",
+      "CN": ">> 剩余5秒 <<",
+      "KR": ">> 남은 시간: 5초 <<",
+      "TW": ">> 剩餘 5 秒 <<"
+    }
   },
   ">> 50 SECONDS LEFT <<": {
-    "translation": ">> 还剩50秒 <<"
+    "translation": ">> 还剩50秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 50秒後残り <<",
+      "CN": ">> 剩余50秒 <<",
+      "KR": ">> 남은 시간: 50초 <<",
+      "TW": ">> 剩餘 50 秒 <<"
+    }
   },
   ">> 70 SECONDS LEFT <<": {
-    "translation": ">> 还剩70秒 <<"
+    "translation": ">> 还剩70秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 70秒後残り <<",
+      "CN": ">> 剩余70秒 <<",
+      "KR": ">> 남은 시간: 70초 <<",
+      "TW": ">> 剩餘 70 秒 <<"
+    }
   },
   ">> 90 SECONDS LEFT <<": {
-    "translation": ">> 还剩90秒 <<"
+    "translation": ">> 还剩90秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 90秒後残り <<",
+      "CN": ">> 剩余90秒 <<",
+      "KR": ">> 남은 시간: 90초 <<",
+      "TW": ">> 剩餘 90 秒 <<"
+    }
   },
   ">> A CLOUD IS COMING <<": {
-    "translation": ">> 一朵云来了 <<"
+    "translation": ">> 一朵云来了 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 雲が近づいている <<",
+      "CN": ">> 乌云压境 <<",
+      "KR": "<< 구름이 다가오고 있습니다 >>",
+      "TW": ">> 雲朵即將到來 <<"
+    }
   },
   ">> ALL 6 MINES USED <<": {
-    "translation": ">> 所有6个地雷已用完 <<"
+    "translation": ">> 所有6个地雷已用完 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 6つの鉱山を使用済み <<",
+      "CN": ">> 已开启全部 6 座矿场 <<",
+      "KR": ">> 모든 광산 사용 완료 <<",
+      "TW": ">> 6個礦坑皆已啟用 <<"
+    }
   },
   ">> BREAK THE HEART OF THE TV <<": {
-    "translation": ">> 打破电视的心脏 <<"
+    "translation": ">> 打破电视的心脏 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テレビの心を壊せ <<",
+      "CN": ">> 摧毁电视核心 <<",
+      "KR": ">> TV의 심장을 파괴하세요 <<",
+      "TW": ">> 打碎電視的心臟 <<"
+    }
   },
   ">> BUTTERFLY IS HERE !!! <<": {
-    "translation": ">> 蝴蝶在这里！！！ <<"
+    "translation": ">> 蝴蝶在这里！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 蝶々がいる !!! <<",
+      "CN": ">> 蝴蝶降临 !!! <<",
+      "KR": ">> 나비 등장 !!! <<",
+      "TW": ">> 蝴蝶已經到達 !!! <<"
+    }
   },
   ">> Back then we left our village without any defense <<": {
-    "translation": ">> 那时我们离开了没有任何防御的村庄 <<"
+    "translation": ">> 那时我们离开了没有任何防御的村庄 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> あの頃、私たちは防御もなしに村を離れた <<",
+      "CN": ">> 那时，我们毫无防备地离开了村庄。",
+      "KR": ">> 그때 우리는 무방비 상태로 마을을 떠났습니다 <<",
+      "TW": ">> 當時我們毫不防備地離開了村莊 <<"
+    }
   },
   ">> But the world won't be the same anymore... <<": {
-    "translation": ">> 但世界将不再一样... <<"
+    "translation": ">> 但世界将不再一样... <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> でももはや、この世界は同じではない… <<",
+      "CN": ">> 但世界已不再是从前的模样……",
+      "KR": ">> 하지만 세상은 더 이상 예전 같지 않습니다... <<",
+      "TW": ">> 但世界將不再如往昔... <<"
+    }
   },
   ">> CLOUD LEAVING IN 10 SECONDS <<": {
-    "translation": ">> 云将在10秒内离开 <<"
+    "translation": ">> 云将在10秒内离开 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 雲が離れるまで10秒 <<",
+      "CN": ">> 云层将于 10 秒后消散 <<",
+      "KR": ">> 구름 퇴각 10초 후 <<",
+      "TW": ">> 10秒後雲朵即將離開 <<"
+    }
   },
   ">> CLOUD LEAVING IN 40 SECONDS <<": {
-    "translation": ">> 云将在40秒内离开 <<"
+    "translation": ">> 云将在40秒内离开 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 雲が離れるまで40秒 <<",
+      "CN": ">> 云层将于 40 秒后消散 <<",
+      "KR": ">> 구름 퇴각 40초 후 <<",
+      "TW": ">> 40秒後雲朵即將離開 <<"
+    }
   },
   ">> CONTINUE TO DEFEND <<": {
-    "translation": ">> 继续防守 <<"
+    "translation": ">> 继续防守 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 防衛を継続 <<",
+      "CN": ">> 继续防守 <<",
+      "KR": "<< 계속 방어하세요 >>",
+      "TW": "繼續防禦"
+    }
   },
   ">> Congratulations ! <<": {
-    "translation": ">> 恭喜！ <<"
+    "translation": ">> 恭喜！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> おめでとうございます！ <<",
+      "CN": ">> 恭喜！ <<",
+      "KR": "<< 축하합니다! >>",
+      "TW": "恭喜！"
+    }
   },
   ">> DEFEND LONGER <<": {
-    "translation": ">> 再防守更久 <<"
+    "translation": ">> 再防守更久 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 防衛時間を延長 <<",
+      "CN": ">> 坚持更久 <<",
+      "KR": "<< 더 오래 방어하세요 >>",
+      "TW": "延長防守時間"
+    }
   },
   ">> DONT LET ZOMBIES GET IN !!! <<": {
-    "translation": "*** 别让僵尸进来！！！ ***"
+    "translation": "*** 别让僵尸进来！！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビを入れないでください！！！ <<",
+      "CN": ">> 别让僵尸进来！！！ <<",
+      "KR": "<< 좀비가 들어오지 못하게 막으세요 !!! >>",
+      "TW": "絕對不能讓殭屍進入！"
+    }
   },
   ">> ESCAPE BY THE LADDER <<": {
-    "translation": ">> 通过梯子逃生 <<"
+    "translation": ">> 通过梯子逃生 <<",
+    "MultiLang": {
+      "US": ">> ESCAPE USING THE LADDER <<",
+      "JP": ">> はしごで脱出 <<",
+      "CN": ">> 通过梯子逃脱 <<",
+      "KR": "<< 사다리로 탈출하세요 >>",
+      "TW": "透過梯子逃生"
+    }
   },
   ">> ESCAPE BY THE WEB <<": {
-    "translation": ">> 通过网逃生 <<"
+    "translation": ">> 通过网逃生 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 網で脱出 <<",
+      "CN": ">> 通过网逃脱 <<",
+      "KR": "<< 그물로 탈출하세요 >>",
+      "TW": "透過繩網逃生"
+    }
   },
   ">> ESCAPE VIA THE PORTAL !!! <<": {
-    "translation": ">> 通过传送门逃生！！！ <<"
+    "translation": ">> 通过传送门逃生！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ポータル経由で脱出！！！ <<",
+      "CN": ">> 通过传送门逃脱！！！ <<",
+      "KR": "<< 포털로 탈출하세요 !!! >>",
+      "TW": "透過傳送門逃脫！"
+    }
   },
   ">> FALL BACK !!! << ": {
-    "translation": "*** 后撤！！！ ***"
+    "translation": "*** 后撤！！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 後退！！!",
+      "CN": ">> 撤退！！！ <<",
+      "KR": "<< 후퇴하세요 !!! >>",
+      "TW": "後退！"
+    }
   },
   ">> FALL BACK <<": {
-    "translation": "*** 后撤 ***"
+    "translation": "*** 后撤 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 後退 <<",
+      "CN": ">> 撤退 <<",
+      "KR": "<< 후퇴 >>",
+      "TW": ">> 後撤 <<"
+    }
   },
   ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<": {
-    "translation": ">> 堕天使被击败了！！！ <<"
+    "translation": ">> 堕天使被击败了！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 堕天使を撃破した！！！",
+      "CN": ">> 堕落天使已被击败！！！<<",
+      "KR": "<< 악마가 격파되었습니다!!! >>",
+      "TW": ">> 墮落天使已被擊敗！！！<<"
+    }
   },
   ">> FAT SPIDER IS DEAD <<": {
-    "translation": ">> 胖蜘蛛死了 <<"
+    "translation": ">> 胖蜘蛛死了 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 太ったクモが死んだ <<",
+      "CN": ">> 巨型蜘蛛已死亡 <<",
+      "KR": "<< 비대한 거미가 사망했습니다. >>",
+      "TW": ">> 肥蜘蛛已死亡 <<"
+    }
   },
   ">> FIND THE TELEPORTER TO LEVEL ROOM <<": {
-    "translation": ">> 找到传送器到关卡房间 <<"
+    "translation": ">> 找到传送器到关卡房间 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル部屋のテレポート装置を見つけよ <<",
+      "CN": ">> 寻找通往副本房间的传送门 <<",
+      "KR": "<< 레벨 방으로 가는 포털을 찾으세요 >>",
+      "TW": ">> 尋找通往关卡室的传送器 <<"
+    }
   },
   ">> Finished by Moltard <<": {
-    "translation": ">> 地图由Moltard完成 <<"
+    "translation": ">> 地图由Moltard完成 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> モルタールによって倒された <<",
+      "CN": ">> Moltard 终结战果 <<",
+      "KR": "<< Moltard에 의해 종료됨 >>",
+      "TW": ">> Moltard 制作完成 <<"
+    }
   },
   ">> GOD HAS BEEN DEFEATED !!! <<": {
-    "translation": ">> 上帝被击败了！！！ <<"
+    "translation": ">> 上帝被击败了！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゴッドを撃破した！！！",
+      "CN": ">> 神明已被击败！！！ <<",
+      "KR": "<< 하나님이 격파되었습니다!!! >>",
+      "TW": ">> 上帝已被擊敗！！！<<"
+    }
   },
   ">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<": {
-    "translation": ">> 防守到蝴蝶来临 <<"
+    "translation": ">> 防守到蝴蝶来临 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> バタフライが来るまでゾンビを止めておけ <<",
+      "CN": ">> 牵制僵尸，直到蝴蝶出现 <<",
+      "KR": "<< 나비가 올 때까지 좀비를 유지하세요 >>",
+      "TW": ">> 阻擊殭屍直到蝴蝶出現 <<"
+    }
   },
   ">> IS THIS SATAN WORK.... <<": {
-    "translation": ">> 这是撒旦的工作吗.... <<"
+    "translation": ">> 这是撒旦的工作吗.... <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> これはサタンの仕業だろう…… <<",
+      "CN": ">> 这难道是撒旦的杰作…… <<",
+      "KR": "<< 이것이 사탄의 소행인가... >>",
+      "TW": ">> 這是撒旦的作為嗎.... <<"
+    }
   },
   ">> IT'S SATAN AGAIN !!! <<": {
-    "translation": ">> 又是撒旦！！！ <<"
+    "translation": ">> 又是撒旦！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> Satan だ！！ <<",
+      "CN": ">> 撒旦又出现了！！！ <<",
+      "KR": ">> 사탄이 다시 나타났습니다 !!! <<",
+      "TW": ">> 撒旦又出現了！！！ <<"
+    }
   },
   ">> IT'S SATAN WITH THE ANGELS !!! <<": {
-    "translation": ">> 撒旦和天使在一起！！！ <<"
+    "translation": ">> 撒旦和天使在一起！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 天使と化した Satan だ！！ <<",
+      "CN": ">> 撒旦带着天使来了！！！ <<",
+      "KR": ">> 천사들과 함께한 사탄입니다 !!! <<",
+      "TW": ">> 撒旦帶著天使來了！！！ <<"
+    }
   },
   ">> ITS THE GROKE SHOOT IT !!!!  <<": {
-    "translation": ">> 是Groke，射击它！！！ <<"
+    "translation": ">> 是Groke，射击它！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> Groke を撃て！！！ <<",
+      "CN": ">> 那是GROKE，快开枪！！！！ <<",
+      "KR": ">> 그로크를 쏴라 !!!! <<",
+      "TW": ">> 是格羅克，射擊他！！！！ <<"
+    }
   },
   ">> LET THE ANGELS ESCAPE FIRST <<": {
-    "translation": ">> 让天使们先逃跑 <<"
+    "translation": ">> 让天使们先逃跑 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 天使を先に逃がせ <<",
+      "CN": ">> 先让天使逃走 <<",
+      "KR": ">> 천사들을 먼저 탈출시키세요 <<",
+      "TW": ">> 讓天使先逃脫 <<"
+    }
   },
   ">> LEVEL COMPLETED !!! <<": {
-    "translation": ">> 关卡完成！！！ <<"
+    "translation": ">> 关卡完成！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル完了！！！ <<",
+      "CN": ">> 关卡完成！！！ <<",
+      "KR": ">> 레벨 완료 !!! <<",
+      "TW": ">> 關卡完成！！！ <<"
+    }
   },
   ">> LEVEL COMPLETED!! <<": {
-    "translation": ">> 关卡完成！！ <<"
+    "translation": ">> 关卡完成！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル完了！！ <<",
+      "CN": ">> 关卡完成！！ <<",
+      "KR": ">> 레벨 완료!! <<",
+      "TW": ">> 關卡完成！！ <<"
+    }
   },
   ">> LEVEL: HEAVEN <<": {
-    "translation": ">> 关卡：天堂 <<"
+    "translation": ">> 关卡：天堂 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル：ヘブン <<",
+      "CN": ">> 关卡：天堂 <<",
+      "KR": ">> 레벨: 천국 <<",
+      "TW": ">> 關卡：天堂 <<"
+    }
   },
   ">> LEVEL: RAVINE <<": {
-    "translation": ">> 关卡：峡谷 <<"
+    "translation": ">> 关卡：峡谷 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル：大渓谷 <<",
+      "CN": ">> 关卡：峡谷 <<",
+      "KR": ">> 레벨: 협곡 <<",
+      "TW": ">> 關卡：峽谷 <<"
+    }
   },
   ">> LEVEL: THE END <<": {
-    "translation": ">> 关卡：终点 <<"
+    "translation": ">> 关卡：终点 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル：終わりの場所 <<",
+      "CN": ">> 关卡：终点 <<",
+      "KR": ">> LEVEL: 끝 <<",
+      "TW": ">> 關卡：終焉 <<"
+    }
   },
   ">> LEVEL: TV <<": {
-    "translation": ">> 关卡：电视 <<"
+    "translation": ">> 关卡：电视 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル：テレビ <<",
+      "CN": ">> 关卡：电视 <<",
+      "KR": ">> LEVEL: TV <<",
+      "TW": ">> 關卡：電視 <<"
+    }
   },
   ">> Let's hope nothing bad happened <<": {
-    "translation": ">> 希望没有发生什么坏事 <<"
+    "translation": ">> 希望没有发生什么坏事 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 何も悪いことが起こらなかったことを祈ろう <<",
+      "CN": ">> 希望没出什么岔子。 <<",
+      "KR": ">> 아무 일도 없었으면 좋겠네 <<",
+      "TW": ">> 希望沒發生什麼壞事 <<"
+    }
   },
   ">> Map by Taskuvaras <<": {
-    "translation": ">> 地图由TaskuVaras制作 翻译：Asteri3m <<"
+    "translation": ">> 地图由TaskuVaras制作 翻译：Asteri3m <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> マップ制作：Taskuvaras <<",
+      "CN": ">> 地图制作：Taskuvaras <<",
+      "KR": ">> 맵 제작: Taskuvaras <<",
+      "TW": ">> 地圖製作：Taskuvaras <<"
+    }
   },
   ">> NADE DOES MORE DAMAGE <<": {
-    "translation": ">> 手榴弹造成更多伤害 <<"
+    "translation": ">> 手榴弹造成更多伤害 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 爆弾はより多くのダメージを与える <<",
+      "CN": ">> 手雷伤害更高 <<",
+      "KR": ">> 그레네이드가 더 많은 피해를 줌 <<",
+      "TW": ">> 榴彈傷害更高 <<"
+    }
   },
   ">> OH NO!! ITS FALLEN ANGEL <<": {
-    "translation": ">> 哦不！！是堕天使 <<"
+    "translation": ">> 哦不！！是堕天使 <<",
+    "MultiLang": {
+      "US": ">> OH NO!! IT'S FALLEN ANGELENDER <<",
+      "JP": ">> おやおや！堕天使の登場です <<",
+      "CN": ">> 糟了！！是堕落天使！<<",
+      "KR": ">> 오 노!! 낙천자가 왔네 <<",
+      "TW": ">> 天啊！！是墮落天使 <<"
+    }
   },
   ">> OH NO!! ITS FAT SPIDER <<": {
-    "translation": ">> 哦不！！是胖蜘蛛 <<"
+    "translation": ">> 哦不！！是胖蜘蛛 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> おやおや！太った蜘蛛の登場です <<",
+      "CN": ">> 糟了！！是巨型蜘蛛！<<",
+      "KR": ">> 오 노!! 뚱뚱한 거미가 나타났네 <<",
+      "TW": ">> 天啊！！是大肥蜘蛛 <<"
+    }
   },
   ">> OH NO!! ITS GOD <<": {
-    "translation": ">> 哦不！！是上帝 <<"
+    "translation": ">> 哦不！！是上帝 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> おやおや！神様の登場です <<",
+      "CN": ">> 糟了！！是神！<<",
+      "KR": ">> 오 노!! 신이 왔네 <<",
+      "TW": ">> 天啊！！是上帝 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<": {
-    "translation": ">> 玩家选择了：天堂 极限 <<"
+    "translation": ">> 玩家选择了：天堂 极限 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは「天界 極」を選択しました <<",
+      "CN": ">> 玩家已选择：天堂 极难模式 <<",
+      "KR": ">> 플레이어가 선택한 모드: 헤븐 익스트림 <<",
+      "TW": ">> 玩家已選擇：天堂極限 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<": {
-    "translation": ">> 玩家选择了：天堂 普通 <<"
+    "translation": ">> 玩家选择了：天堂 普通 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは「天界 通常」を選択しました <<",
+      "CN": ">> 玩家已选择：天堂 普通模式 <<",
+      "KR": ">> 플레이어가 선택한 모드: 헤버 normalen <<",
+      "TW": ">> 玩家已選擇：天堂普通 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN: RAVINE <<": {
-    "translation": ">> 玩家选择了：峡谷 <<"
+    "translation": ">> 玩家选择了：峡谷 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは「渓谷」を選択しました <<",
+      "CN": ">> 玩家已选择：峡谷 <<",
+      "KR": ">> 플레이어가 선택한 맵: 라벤 <<",
+      "TW": ">> 玩家已選擇：峽谷 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN: RAVINE EXTREME <<": {
-    "translation": ">> 玩家选择了：峡谷 极限 <<"
+    "translation": ">> 玩家选择了：峡谷 极限 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは「渓谷 極」を選択しました <<",
+      "CN": ">> 玩家已选择：峡谷 极难模式 <<",
+      "KR": ">> 플레이어가 선택한 맵: 라벤 익스트림 <<",
+      "TW": ">> 玩家已選擇：峽谷極限 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN: THE END <<": {
-    "translation": ">> 玩家选择了：终点 <<"
+    "translation": ">> 玩家选择了：终点 <<",
+    "MultiLang": {
+      "US": ">> PLAYER HAS CHosen: THE END <<",
+      "JP": ">> プレイヤーは「THE END」を選択しました <<",
+      "CN": ">> 玩家已选择：终界 <<",
+      "KR": ">> 플레이어가 선택한 맵: 엔드 <<",
+      "TW": ">> 玩家已選擇：終界 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN: TV EXTREME <<": {
-    "translation": ">> 玩家选择了：电视 极限 <<"
+    "translation": ">> 玩家选择了：电视 极限 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは「TV 極」を選択しました <<",
+      "CN": ">> 玩家已选择：电视 极难模式 <<",
+      "KR": ">> 플레이어가 선택한 맵: TV 익스트림 <<",
+      "TW": ">> 玩家已選擇：電視極限 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN: TV NORMAL <<": {
-    "translation": ">> 玩家选择了：电视 普通 <<"
+    "translation": ">> 玩家选择了：电视 普通 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは「TV 通常」を選択しました <<",
+      "CN": ">> 玩家已选择：电视 普通模式 <<",
+      "KR": ">> 플레이어가 선택한 맵: TV normalen <<",
+      "TW": ">> 玩家已選擇：電視普通 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN: ZM<<": {
-    "translation": ">> 玩家选择了：ZM <<"
+    "translation": ">> 玩家选择了：ZM <<",
+    "MultiLang": {
+      "US": ">> PLAYER HAS CHosen: ZM<<",
+      "JP": ">> プレイヤーは「ZM」を選択しました <<",
+      "CN": ">> 玩家已选择：僵尸模组<<",
+      "KR": ">> 플레이어가 선택한 맵: ZM",
+      "TW": ">> 玩家已選擇：殭屍模式<<"
+    }
   },
   ">> PLAYER HAS PICKED UP 6 MINES <<": {
-    "translation": ">> 玩家拾起了6个地雷 <<"
+    "translation": ">> 玩家拾起了6个地雷 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは6つの地雷を拾った <<",
+      "CN": ">> 玩家已拾取6颗地雷 <<",
+      "KR": ">> 플레이어가 지뢰 6개를 획득했습니다 <<",
+      "TW": "<< 玩家已拾取 6 個地雷 >>"
+    }
   },
   ">> PLAYER HAS PICKED UP EARTH <<": {
-    "translation": ">> 玩家拾起了土 <<"
+    "translation": ">> 玩家拾起了土 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは土を拾った <<",
+      "CN": ">> 玩家已拾取土元素 <<",
+      "KR": ">> 플레이어가 지상을 획득했습니다 <<",
+      "TW": "<< 玩家已拾取 土 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP FIRE <<": {
-    "translation": ">> 玩家拾起了火 <<"
+    "translation": ">> 玩家拾起了火 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは炎を拾った <<",
+      "CN": ">> 玩家已拾取火元素 <<",
+      "KR": ">> 플레이자가 불꽃을 획득했습니다 <<",
+      "TW": "<< 玩家已拾取 火 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP GRAVITY <<": {
-    "translation": ">> 玩家拾起了重力 <<"
+    "translation": ">> 玩家拾起了重力 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは重力を拾った <<",
+      "CN": ">> 玩家已拾取重力场 <<",
+      "KR": ">> 플레이어가 중력을 획득했습니다 <<",
+      "TW": "<< 玩家已拾取 重力 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP HEAL <<": {
-    "translation": ">> 玩家拾起了治疗 <<"
+    "translation": ">> 玩家拾起了治疗 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは回復を拾った <<",
+      "CN": ">> 玩家已拾取治愈药水 <<",
+      "KR": ">> 플레이자가 치유를 획득했습니다 <<",
+      "TW": "<< 玩家已拾取 治療 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP ICE <<": {
-    "translation": ">> 玩家拾起了冰 <<"
+    "translation": ">> 玩家拾起了冰 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは氷を拾った <<",
+      "CN": ">> 玩家已拾取冰元素 <<",
+      "KR": ">> 플레이자가 얼음을 획득했습니다 <<",
+      "TW": "<< 玩家已拾取 冰 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
-    "translation": ">> 玩家拾起了无限弹药 <<"
+    "translation": ">> 玩家拾起了无限弹药 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは無限弾薬を拾った <<",
+      "CN": ">> 玩家已拾取无限弹药 <<",
+      "KR": ">> 플레이자가 무제한 탄약을 획득했습니다 <<",
+      "TW": "<< 玩家已拾取 無限彈藥 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP WATER <<": {
-    "translation": ">> 玩家拾起了水 <<"
+    "translation": ">> 玩家拾起了水 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは水を拾った <<",
+      "CN": ">> 玩家已拾取水元素 <<",
+      "KR": ">> 플레이어가 물을 획득했습니다 <<",
+      "TW": "<< 玩家已拾取 水 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP WIND <<": {
-    "translation": ">> 玩家拾起了风 <<"
+    "translation": ">> 玩家拾起了风 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 風の性質を獲得しました >>",
+      "CN": ">> 玩家已拾取风 <<",
+      "KR": ">> 플레이어는 바람을 주웠습니다 <<",
+      "TW": "玩家已取得風元素"
+    }
   },
   ">> PORTAL CLOSING IN 10 SECONDS !!! <<": {
-    "translation": ">> 传送门将在10秒内关闭！！！ <<"
+    "translation": ">> 传送门将在10秒内关闭！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ポータル、10秒後に閉じます！！！ >>",
+      "CN": ">> 传送门将在10秒后关闭 !!! <<",
+      "KR": ">> 포털이 10초 후 닫힙니다 !!! <<",
+      "TW": "傳送門 10 秒後關閉！"
+    }
   },
   ">> PORTAL CLOSING IN 5 SECONDS !!! <<": {
-    "translation": ">> 传送门将在5秒内关闭！！！ <<"
+    "translation": ">> 传送门将在5秒内关闭！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ポータル、5秒後に閉じます！！！ >>",
+      "CN": ">> 传送门将在5秒后关闭 !!! <<",
+      "KR": ">> 포털이 5초 후 닫힙니다 !!! <<",
+      "TW": "傳送門 5 秒後關閉！"
+    }
   },
   ">> PORTAL IS CLOSING !!! <<": {
-    "translation": ">> 传送门正在关闭！！！ <<"
+    "translation": ">> 传送门正在关闭！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ポータルが閉じます！！ >>",
+      "CN": ">> 传送门即将关闭 !!! <<",
+      "KR": ">> 포털이 닫힙니다 !!! <<",
+      "TW": "傳送門即將關閉！"
+    }
   },
   ">> Play ShroomForest3 to continue the adventure <<": {
-    "translation": ">> 玩ShroomForest3以继续冒险 <<"
+    "translation": ">> 玩ShroomForest3以继续冒险 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 冒険を続けるには『ShroomForest3』をプレイしてください >>",
+      "CN": ">> 播放ShroomForest3以继续冒险 <<",
+      "KR": ">> ShroomForest3 플레이하여 모험 계속하기 <<",
+      "TW": "請遊玩蘑菇森林 3 以繼續冒險"
+    }
   },
   ">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<": {
-    "translation": ">> 救援蝴蝶将在20秒内离开 <<"
+    "translation": ">> 救援蝴蝶将在20秒内离开 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 蝶の救出、20秒後に開始します >>",
+      "CN": ">> 救援蝴蝶20秒后离开 <<",
+      "KR": ">> 호랑나비 구조 20초 후 종료 <<",
+      "TW": "20 秒後救出蝴蝶"
+    }
   },
   ">> RESTARTING ROUND IN 5 SECONDS <<": {
-    "translation": ">> 5秒内重启回合 <<"
+    "translation": ">> 5秒内重启回合 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 5秒後にラウンドをリスタートします >>",
+      "CN": ">> 5秒后重新开始回合 <<",
+      "KR": ">> 라운드 재시작 5초 후 시작 <<",
+      "TW": "5 秒後重新開始回合"
+    }
   },
   ">> RUN TO SAFETY <<": {
-    "translation": ">> 跑向安全的地方 <<"
+    "translation": ">> 跑向安全的地方 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 安全地帯へ向けて避難せよ >>",
+      "CN": ">> 逃往安全地带 <<",
+      "KR": ">> 안전지대로 도주 <<",
+      "TW": "逃往安全區域"
+    }
   },
   ">> SATAN IS FINALLY DEFEATED !!! <<": {
-    "translation": ">> 撒旦终于被击败了！！！ <<"
+    "translation": ">> 撒旦终于被击败了！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> サタン遂に撃破！！ <<",
+      "CN": "撒旦最终被击败！！！",
+      "KR": ">> 사탄이 마침내 패배했다!!! <<",
+      "TW": "撒旦終於被擊敗了！"
+    }
   },
   ">> SATAN IS HURT !!! <<": {
-    "translation": ">> 撒旦受伤了！！！ <<"
+    "translation": ">> 撒旦受伤了！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> サタンの攻撃 !!! <<",
+      "CN": "撒旦受伤了！！！",
+      "KR": ">> 사탄이 부상을 입었다!!! <<",
+      "TW": "撒旦受傷了！"
+    }
   },
   ">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<": {
-    "translation": ">> 解锁了ZM回合的秘密音乐 <<"
+    "translation": ">> 解锁了ZM回合的秘密音乐 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ZMラウンドの秘密ミュージック解除 <<",
+      "CN": "解锁ZM关卡的秘密音乐",
+      "KR": ">> ZM 라운드에서 비밀 음악 잠금 해제 <<",
+      "TW": "解鎖 ZM 回合的秘密音樂"
+    }
   },
   ">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<": {
-    "translation": ">> 射击他，我们需要拯救天使！！！ <<"
+    "translation": ">> 射击他，我们需要拯救天使！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 射撃！天使を救わねば！！ <<",
+      "CN": "快开枪，我们需要拯救天使！",
+      "KR": ">> 쏴주세요, 천사들을 구해야 합니다!!! <<",
+      "TW": "射擊他，我們必須拯救天使！"
+    }
   },
   ">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<": {
-    "translation": ">> 在出生点和电视区域生存180秒 <<"
+    "translation": ">> 在出生点和电视区域生存180秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> スポーンとTVエリアで180秒間生存せよ <<",
+      "CN": "在出生点和电视区存活180秒",
+      "KR": ">> 스폰 및 TV 영역에서 180초간 생존하기 <<",
+      "TW": "在出生點和電視區域存活 180 秒"
+    }
   },
   ">> Satan's power didn't even spare our old village ! <<": {
-    "translation": ">> 撒旦的力量连我们的旧村庄也没有放过！ <<"
+    "translation": ">> 撒旦的力量连我们的旧村庄也没有放过！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> サタンの力、古い村すら見逃さない！ <<",
+      "CN": "撒旦的力量甚至没有放过我们的旧村落！",
+      "KR": ">> 사탄의 힘은 우리가 살던 마을도 비켜가지 않았다! <<",
+      "TW": "撒旦的殘酷甚至沒有放過我們的老村莊！"
+    }
   },
   ">> TELEPORTING ZOMBIES <<": {
-    "translation": ">> 传送僵尸 <<"
+    "translation": ">> 传送僵尸 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テレポートゾンビ <<",
+      "CN": "传送僵尸",
+      "KR": ">> 텔레포트하는 좀비 <<",
+      "TW": "傳送殭屍"
+    }
   },
   ">> THE ANGELS GOT THE RESCUE PLANK BACK <<": {
-    "translation": ">> 天使们拿回了救援木板 <<"
+    "translation": ">> 天使们拿回了救援木板 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 天使が救助ボードを回収した <<",
+      "CN": "天使们找回了救援木板",
+      "KR": ">> 천사들이 구조판을 다시 확보했다 <<",
+      "TW": "天使們搶回了救援木板"
+    }
   },
   ">> THE BUILDING WILL BLOW UP <<": {
-    "translation": ">> 建筑即将爆炸 <<"
+    "translation": ">> 建筑即将爆炸 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 建物が爆破されます <<",
+      "CN": ">> 建筑物即将爆炸 <<",
+      "KR": "건물이 폭파됩니다",
+      "TW": ">> 建築將被炸毀 <<"
+    }
   },
   ">> THE DRAGON HAS BEEN DEFEATED !!! <<": {
-    "translation": ">> 龙被击败了！！！ <<"
+    "translation": ">> 龙被击败了！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドラゴンが倒されました !!! <<",
+      "CN": ">> 恶龙已被击败 !!! <<",
+      "KR": "용을 정복하셨습니다!",
+      "TW": ">> 龍已被擊敗！！！<<"
+    }
   },
   ">> THE GRID IS CLOSED <<": {
-    "translation": ">> 网格已关闭 <<"
+    "translation": ">> 网格已关闭 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> グリッドは閉鎖されました <<",
+      "CN": ">> 网格已关闭 <<",
+      "KR": "정렬이 종료되었습니다",
+      "TW": ">> 網格已關閉 <<"
+    }
   },
   ">> THE GROKE IS DEAD <<": {
-    "translation": ">> Groke死了 <<"
+    "translation": ">> Groke死了 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> グロークが死亡しました <<",
+      "CN": ">> GROKE 已死亡 <<",
+      "KR": "그로크가 사망했습니다",
+      "TW": ">> 戈洛克已死亡 <<"
+    }
   },
   ">> THE LAST ANGEL IS OUT <<": {
-    "translation": ">> 最后的天使离开了 <<"
+    "translation": ">> 最后的天使离开了 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 最後の天使は脱出しました <<",
+      "CN": ">> 最后的Angel已离开 <<",
+      "KR": "최후의 천사가 출격합니다",
+      "TW": ">> 最後的天使已離開 <<"
+    }
   },
   ">> THE TV HEART IS DESTROYED <<": {
-    "translation": ">> 电视的心脏被摧毁了 <<"
+    "translation": ">> 电视的心脏被摧毁了 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> TVハートが破壊されました <<",
+      "CN": ">> 电视心脏已被摧毁 <<",
+      "KR": "TV 하트가 파괴되었습니다",
+      "TW": ">> 電視心臟已被摧毀 <<"
+    }
   },
   ">> THEY WILL TELEPORT US OUT <<": {
-    "translation": ">> 他们将传送我们出去 <<"
+    "translation": ">> 他们将传送我们出去 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テレポートで退出します <<",
+      "CN": ">> 他们将传送我们出去 <<",
+      "KR": "우리를 텔레포트하여 탈출할 것입니다",
+      "TW": ">> 他們將傳送我們離開 <<"
+    }
   },
   ">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<": {
-    "translation": ">> 电视的心脏正在崩溃，继续射击！！！ <<"
+    "translation": ">> 电视的心脏正在崩溃，继续射击！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> TVハートが崩壊中！撃て！！！！！！ <<",
+      "CN": ">> 电视心脏正在崩塌，继续射击！！！！！！",
+      "KR": "TV 하트가 붕괴 중입니다, 계속 사격하세요!!!!!!",
+      "TW": ">> 電視心臟正在崩解，繼續射擊！！！！！<<"
+    }
   },
   ">> There is an error in the level system <<": {
-    "translation": ">> 关卡系统有错误 <<"
+    "translation": ">> 关卡系统有错误 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "システムにエラーが発生しました",
+      "CN": ">> 关卡系统出现错误 <<",
+      "KR": ">> 레벨 시스템에 오류가 있습니다 <<",
+      "TW": ">> 系統等級有誤 <<"
+    }
   },
   ">> This is really bad... <<": {
-    "translation": ">> 这真的很糟糕… <<"
+    "translation": ">> 这真的很糟糕… <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "これはいよいよ悪化している……",
+      "CN": ">> 情况真的很糟…… <<",
+      "KR": ">> 상황이 정말 좋지 않아요... <<",
+      "TW": ">> 情況真的很糟糕…… <<"
+    }
   },
   ">> WARMUP ROUND <<": {
-    "translation": ">> 热身回合 <<"
+    "translation": ">> 热身回合 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングアップラウンド",
+      "CN": ">> 热身阶段 <<",
+      "KR": ">> 준비 라운드 <<",
+      "TW": ">> 熱身回合 <<"
+    }
   },
   ">> WARMUP ROUND END <<": {
-    "translation": ">> 热身回合结束 <<"
+    "translation": ">> 热身回合结束 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングアップラウンド終了",
+      "CN": ">> 热身阶段结束 <<",
+      "KR": ">> 준비 라운드 종료 <<",
+      "TW": ">> 熱身回合結束 <<"
+    }
   },
   ">> WE HAVE TO ESCAPE THIS PLACE <<": {
-    "translation": ">> 我们必须逃离这里 <<"
+    "translation": ">> 我们必须逃离这里 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここから脱出しなければならない",
+      "CN": ">> 我们必须逃离这里 <<",
+      "KR": ">> 이 곳에서는 반드시 탈출해야 합니다 <<",
+      "TW": ">> 我們必須逃離這裡 <<"
+    }
   },
   ">> We are getting closer to our destination <<": {
-    "translation": ">> 我们越来越接近我们的目的地了 <<"
+    "translation": ">> 我们越来越接近我们的目的地了 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "目的地に近づいています",
+      "CN": ">> 我们距离目的地越来越近 <<",
+      "KR": ">> 목적지에 가까워지고 있습니다 <<",
+      "TW": ">> 我們正逐漸接近目的地 <<"
+    }
   },
   ">> We are starting our descent <<": {
-    "translation": ">> 我们开始下降 <<"
+    "translation": ">> 我们开始下降 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "降下を開始します",
+      "CN": ">> 我们正在开始下降 <<",
+      "KR": ">> 하강을 시작합니다 <<",
+      "TW": ">> 我們開始下降 <<"
+    }
   },
   ">> We finally did it <<": {
-    "translation": ">> 我们终于做到了 <<"
+    "translation": ">> 我们终于做到了 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ついに成功しました",
+      "CN": ">> 我们终于成功了 <<",
+      "KR": ">> 드디어 해냈습니다 <<",
+      "TW": ">> 我們終於成功了 <<"
+    }
   },
   ">> We have to go back where everything started <<": {
-    "translation": ">> 我们必须回到一切开始的地方 <<"
+    "translation": ">> 我们必须回到一切开始的地方 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> すべてが始まった場所へ戻らねば <<",
+      "CN": "我们必须回到一切开始的地方",
+      "KR": ">> 모든 것이 시작된 곳으로 돌아가야 해 <<",
+      "TW": ">> 我們必須回到一切開始的地方 <<"
+    }
   },
   ">> We have to save everyone ! <<": {
-    "translation": ">> 我们必须拯救所有人！ <<"
+    "translation": ">> 我们必须拯救所有人！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> みんなを救わなきゃ！ <<",
+      "CN": "我们必须拯救所有人！",
+      "KR": ">> 모두를 구해야 해! <<",
+      "TW": ">> 我們要拯救所有人！ <<"
+    }
   },
   ">> You beat the map ! <<": {
-    "translation": ">> 你通关了地图！ <<"
+    "translation": ">> 你通关了地图！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> マップクリア！ <<",
+      "CN": "你通关了这张地图！",
+      "KR": ">> 맵을 클리어했어! <<",
+      "TW": ">> 你通關了這關！ <<"
+    }
   },
   ">> ZOMBIE ABOARD !! YOU FAILED !! <<": {
-    "translation": ">> 僵尸登上了船！！你失败了！！ <<"
+    "translation": ">> 僵尸登上了船！！你失败了！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビアボード！！ 失敗しました !! <<",
+      "CN": "甲板上有丧尸！！任务失败！！",
+      "KR": ">> 선내에 좀비 발견!! 작전 실패!! <<",
+      "TW": ">> 船上發現殭屍！！任務失敗！！ <<"
+    }
   },
   ">> ZOMBIE CLOUD HAS BEEN PICKED UP <<": {
-    "translation": ">> 僵尸雷云被拾起 <<"
+    "translation": ">> 僵尸雷云被拾起 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビクラウドを回収しました <<",
+      "CN": "已拾取僵尸云",
+      "KR": ">>좀비 구름 획득<<",
+      "TW": ">> 已拾取殭霾 <<"
+    }
   },
   ">> ZOMBIE SHROOM HAS BEEN PICKED UP <<": {
-    "translation": ">> 僵尸蘑菇被拾起 <<"
+    "translation": ">> 僵尸蘑菇被拾起 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビシュルームを回収しました <<",
+      "CN": "已拾取僵尸蘑菇",
+      "KR": ">> 좀비 버섯 획득 <<",
+      "TW": ">> 已拾取殭菇 <<"
+    }
   },
   ">> EXTREME MODE ADDED <<": {
-    "translation": ">>极限模式已添加<<"
+    "translation": ">>极限模式已添加<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> エクストリームモードが追加されました <<",
+      "CN": "极难模式已添加",
+      "KR": ">> 극한 모드 추가됨 <<",
+      "TW": ">> 已加入極限模式 <<"
+    }
   },
   ">> LEVEL: ZM <<": {
-    "translation": ">> 关卡：ZM <<"
+    "translation": ">> 关卡：ZM <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル: ZM <<",
+      "CN": "关卡：僵尸模式 (ZM)",
+      "KR": ">> 레벨: 좀비 <<",
+      "TW": ">> 關卡：ZM <<"
+    }
   }
 }

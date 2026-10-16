@@ -1,335 +1,1112 @@
 {
   ">>> 5 SECONDS LEFT  GET OUT FROM TRAIN <<<": {
-    "translation": ">>> 还有5秒，离开火车 <<<"
+    "translation": ">>> 还有5秒，离开火车 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒 電車から離れてください",
+      "CN": "剩余5秒，请离开火车",
+      "KR": "5초 후 열차 승차 종료",
+      "TW": "剩餘 5 秒 請離開列車"
+    }
   },
   ">>> 5 SECONDS LEFT  WATCH OUT FOR TRAIN <<<": {
-    "translation": ">>> 还有5秒，小心火车 <<<"
+    "translation": ">>> 还有5秒，小心火车 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒 電車にご注意ください",
+      "CN": "剩余5秒，请注意火车",
+      "KR": "5초 후 열차 주의",
+      "TW": "剩餘 5 秒 注意列車"
+    }
   },
   ">>> 5 SECONDS LEFT <<<": {
-    "translation": ">>> 还有5秒 <<<"
+    "translation": ">>> 还有5秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒",
+      "CN": "剩余5秒",
+      "KR": "남은 시간 5초",
+      "TW": "剩餘 5 秒"
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 0: DARK WORLD <<<": {
-    "translation": ">>> 管理员已切换到关卡0：黑暗世界 <<<"
+    "translation": ">>> 管理员已切换到关卡0：黑暗世界 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者によりステージ0：暗黒世界に変更されました",
+      "CN": "管理员已切换至关卡0：黑暗世界",
+      "KR": "관리자가 맵을 다크월드로 변경했습니다",
+      "TW": "管理員已切換至關卡 0：暗黑世界"
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 1 <<<": {
-    "translation": ">>> 管理员已切换到关卡1 <<<"
+    "translation": ">>> 管理员已切换到关卡1 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者によりステージ1に変更されました",
+      "CN": "管理员已切换至关卡1",
+      "KR": "관리자가 맵을 스테이지 1로 변경했습니다",
+      "TW": "管理員已切換至關卡 1"
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 2 <<<": {
-    "translation": ">>> 管理员已切换到关卡2 <<<"
+    "translation": ">>> 管理员已切换到关卡2 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者によりステージ2に変更されました",
+      "CN": "管理员已切换至关卡2",
+      "KR": "관리자가 맵을 스테이지 2로 변경했습니다",
+      "TW": "管理員已切換至關卡 2"
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 3 <<<": {
-    "translation": ">>> 管理员已切换到关卡3 <<<"
+    "translation": ">>> 管理员已切换到关卡3 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者によりステージ3に変更されました",
+      "CN": "管理员已切换至关卡3",
+      "KR": "관리자가 맵을 스테이지 3으로 변경했습니다",
+      "TW": "管理員已切換至關卡 3"
+    }
   },
   ">>> ADMIN PRESSED KILLALL BUTTON  <<<": {
-    "translation": ">>> 管理员按下了杀死所有玩家按钮 <<<"
+    "translation": ">>> 管理员按下了杀死所有玩家按钮 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者がキルオールボタンを押しました",
+      "CN": "管理员按下了清除全部按钮",
+      "KR": "관리자가 키얼 버튼을 누름",
+      "TW": "管理員已按下全滅按鈕"
+    }
   },
   ">>> AFK TELEPORT IN 10 SECONDS <<<": {
-    "translation": ">>> 10秒后AFK传送 <<<"
+    "translation": ">>> 10秒后AFK传送 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< AFK テレポート 10 秒後 >>>",
+      "CN": ">>> 10秒后传送离开 <<<",
+      "KR": "<<< 10초 내 AFK 텔레포트 >>>",
+      "TW": ">>> 10 秒後離開會傳送到安全地點 <<<"
+    }
   },
   ">>> AFK TELEPORT IN 5 SECONDS <<<": {
-    "translation": ">>> 5秒后AFK传送 <<<"
+    "translation": ">>> 5秒后AFK传送 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< AFK テレポート 5 秒後 >>>",
+      "CN": ">>> 5秒后传送离开 <<<",
+      "KR": "<<< 5초 내 AFK 텔레포트 >>>",
+      "TW": ">>> 5 秒後離開會傳送到安全地點 <<<"
+    }
   },
   ">>> BARRIER BREAK IN 60 SECONDS <<<": {
-    "translation": ">>> 60秒后屏障破坏 <<<"
+    "translation": ">>> 60秒后屏障破坏 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< バリアー破壊 60 秒後 >>>",
+      "CN": ">>> 60秒后屏障失效 <<<",
+      "KR": "<<< 60초 내 버리어 파괴 >>>",
+      "TW": ">>> 屏障將於 60 秒後毀壞 <<<"
+    }
   },
   ">>> BEAM CANNON IS BROKEN <<<": {
-    "translation": ">>> 光束炮损坏了 <<<"
+    "translation": ">>> 光束炮损坏了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ビームキャノンが破壊された <<<",
+      "CN": ">>> 光束炮已损坏 <<<",
+      "KR": "<<< 빔 캐논 파괴됨 <<<",
+      "TW": ">>> 光束炮已被摧毀 <<<"
+    }
   },
   ">>> BLUE BUTTON WAS PRESSED <<<": {
-    "translation": ">>> 蓝色按钮已按下 <<<"
+    "translation": ">>> 蓝色按钮已按下 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 青いボタンが押された <<<",
+      "CN": ">>> 蓝色按钮已被按下 <<<",
+      "KR": "<<< 푸른 단추 눌림 <<<",
+      "TW": ">>> 已按下藍色按鈕 <<<"
+    }
   },
   ">>> BLUE PILLAR BROKEN <<<": {
-    "translation": ">>> 蓝色柱子损坏了 <<<"
+    "translation": ">>> 蓝色柱子损坏了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 青い柱が破壊された <<<",
+      "CN": ">>> 蓝色石柱已碎裂 <<<",
+      "KR": "<<< 푸른 기둥 파괴됨 <<<",
+      "TW": ">>> 藍色方尖碑已毀壞 <<<"
+    }
   },
   ">>> BREAK 4 PILLARS TO ACTIVATE TELEPORTER <<<": {
-    "translation": ">>> 打破4个柱子以激活传送器 <<<"
+    "translation": ">>> 打破4个柱子以激活传送器 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< テレポート装置を起動するために 4 つの柱を破壊せよ <<<",
+      "CN": ">>> 破坏4根石柱以启动传送门 <<<",
+      "KR": "<<< 텔레포터 작동을 위해 기둥 4개 파괴 <<<",
+      "TW": ">>> 請摧毀 4 根方尖碑來啟動傳送門 <<<"
+    }
   },
   ">>> DEFEAT QUEEN AND BREAK ALL HER WEAPONS <<<": {
-    "translation": ">>> 击败女王并摧毁她的所有武器 <<<"
+    "translation": ">>> 击败女王并摧毁她的所有武器 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< クイーンを倒し、彼女の武器をすべて破壊せよ <<<",
+      "CN": ">>> 击败女王并摧毁她所有的武器 <<<",
+      "KR": "<<< 여왕 격파 및 모든 무기 파괴 <<<",
+      "TW": ">>> 擊敗女王並摧毀她所有的武器 <<<"
+    }
   },
   ">>> DISASTER IS ABOUT TO CAUSE ONCE AGAIN <<<": {
-    "translation": ">>> 灾难即将再次发生 <<<"
+    "translation": ">>> 灾难即将再次发生 <<<",
+    "MultiLang": {
+      "US": ">>> DISASTER IS ABOUT TO OCCUR AGAIN <<<",
+      "JP": ">>> 再び災害が発生しようとしています <<<",
+      "CN": "灾难即将再次降临",
+      "KR": "재난이 다시 발생하려 합니다",
+      "TW": "災難即將再度降臨"
+    }
   },
   ">>> ENERGY TANK IS BROKEN <<<": {
-    "translation": ">>> 能量罐损坏了 <<<"
+    "translation": ">>> 能量罐损坏了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エナジータンクが破損しています <<<",
+      "CN": "能量罐已损坏",
+      "KR": "에너지 탱크가 손상되었습니다",
+      "TW": "能量電池已損壞"
+    }
   },
   ">>> ENERGY TANK USED HEAL TO QUEEN <<<": {
-    "translation": ">>> 能量罐为女王使用了治疗 <<<"
+    "translation": ">>> 能量罐为女王使用了治疗 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エナジータンクで女王を回復 <<<",
+      "CN": "能量罐已用于治疗女王",
+      "KR": "에너지 탱크로 여왕을 치료했습니다",
+      "TW": "能量電池用治癒效果賦予女王"
+    }
   },
   ">>> ENERGY TANK USED SHIELD TO QUEEN <<<": {
-    "translation": ">>> 能量罐为女王使用了护盾 <<<"
+    "translation": ">>> 能量罐为女王使用了护盾 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エナジータンクで女王にシールド付与 <<<",
+      "CN": "能量罐已为女王提供护盾",
+      "KR": "에너지 탱크로 여왕에게 방패를 적용했습니다",
+      "TW": "能量電池用護盾效果賦予女王"
+    }
   },
   ">>> EXIT IS OPEN <<<": {
-    "translation": ">>> 出口已打开 <<<"
+    "translation": ">>> 出口已打开 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 出口が開きました <<<",
+      "CN": "出口已开启",
+      "KR": "출구 열림",
+      "TW": "出口已開啟"
+    }
   },
   ">>> FAIL ROUND <<<": {
-    "translation": ">>> 回合失败 <<<"
+    "translation": ">>> 回合失败 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ラウンド失敗 <<<",
+      "CN": "回合失败",
+      "KR": "라운드 실패",
+      "TW": "回合失敗"
+    }
   },
   ">>> FINALLY YOU ESCAPED FROM QUEEN <<<": {
-    "translation": ">>> 你终于逃离了女王 <<<"
+    "translation": ">>> 你终于逃离了女王 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ついに女王から脱出しました <<<",
+      "CN": "你终于从女王身边逃脱",
+      "KR": "드디어 여왕을 탈출했습니다",
+      "TW": "你最終成功逃出女王地盤"
+    }
   },
   ">>> GARGANTUA IS COMING <<<": {
-    "translation": ">>> 巨兽来了 <<<"
+    "translation": ">>> 巨兽来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ガージェントァが接近中 <<<",
+      "CN": "巨人正在接近",
+      "KR": "거만투아 approaching 합니다",
+      "TW": "巨人的腳步聲響起"
+    }
   },
   ">>> GARGANTUA IS DEFEATED <<<": {
-    "translation": ">>> 巨兽被击败了 <<<"
+    "translation": ">>> 巨兽被击败了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ガルグンタ撃破 >>>",
+      "CN": ">>> 巨人僵尸已被击败 <<<",
+      "KR": ">>> 가간투아 제압 <<<",
+      "TW": "<<< 巨人对決勝利 <<<"
+    }
   },
   ">>> GET ON THE PLATFORM <<<": {
-    "translation": ">>> 上平台 <<<"
+    "translation": ">>> 上平台 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 駅舎に乗り込め >>>",
+      "CN": ">>> 登上平台 <<<",
+      "KR": ">>> 플랫폼으로 이동 <<<",
+      "TW": "<<< 登上平台 <<<"
+    }
   },
   ">>> GREEN PILLAR BROKEN <<<": {
-    "translation": ">>> 绿色柱子损坏了 <<<"
+    "translation": ">>> 绿色柱子损坏了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< グリーンピラー壊滅 >>>",
+      "CN": ">>> 绿色柱状物已损坏 <<<",
+      "KR": ">>> 녹색 기둥 파괴 <<<",
+      "TW": "<<< 綠色柱子已破壞 <<<"
+    }
   },
   ">>> GUNSHIP IS COMING <<<": {
-    "translation": ">>> 武装直升机正在到来 <<<"
+    "translation": ">>> 武装直升机正在到来 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ガンシップ接近 >>>",
+      "CN": ">>> 炮艇正在接近 <<<",
+      "KR": ">>> 근접전차 접근 <<<",
+      "TW": "<<< 武裝直升機即將到達 <<<"
+    }
   },
   ">>> GUNSHIP IS DEFEATED <<<": {
-    "translation": ">>> 武装直升机被击败 <<<"
+    "translation": ">>> 武装直升机被击败 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ガンシップ撃破 >>>",
+      "CN": ">>> 炮艇已被击败 <<<",
+      "KR": ">>> 근접전차 제압 <<<",
+      "TW": "<<< 武裝直升機已擊毀 <<<"
+    }
   },
   ">>> HARPY IS COMING <<<": {
-    "translation": ">>> 鹰身女妖来了 <<<"
+    "translation": ">>> 鹰身女妖来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ハルピー接近 >>>",
+      "CN": ">>> 半人马正在接近 <<<",
+      "KR": ">>> 하피 접근 <<<",
+      "TW": "<<< 獅鷲即將出現 <<<"
+    }
   },
   ">>> HARPY IS DEFEATED <<<": {
-    "translation": ">>> 鹰身女妖被击败 <<<"
+    "translation": ">>> 鹰身女妖被击败 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ハルピー撃破 >>>",
+      "CN": ">>> 半人马已被击败 <<<",
+      "KR": ">>> 하피 제압 <<<",
+      "TW": "<<< 獅鷲已擊毀 <<<"
+    }
   },
   ">>> HARPY USED FEATHER <<<": {
-    "translation": ">>> 鹰身女妖使用了羽毛攻击 <<<"
+    "translation": ">>> 鹰身女妖使用了羽毛攻击 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ハルピー 羽を使った >>>",
+      "CN": ">>> 半人马使用了羽毛攻击 <<<",
+      "KR": ">>> 하피 깃털 사용 <<<",
+      "TW": "<<< 獅鷲使用羽毛 <<<"
+    }
   },
   ">>> HARPY USED HUGE FEATHER <<<": {
-    "translation": ">>> 鹰身女妖使用了巨大羽毛攻击 <<<"
+    "translation": ">>> 鹰身女妖使用了巨大羽毛攻击 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハーピーは巨大な羽を使った",
+      "CN": "妖鸟使用了巨大的羽毛",
+      "KR": ">>>하피가 거대한 깃털을 사용했다<<<",
+      "TW": "女妖使用了巨大的羽毛"
+    }
   },
   ">>> HARPY USED LOL <<<": {
-    "translation": ">>> 鹰身女妖使用了LOL <<<"
+    "translation": ">>> 鹰身女妖使用了LOL <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハーピーはロルを使った",
+      "CN": "妖鸟使用了玩笑",
+      "KR": ">>>하피가 LOL을 사용했다<<<",
+      "TW": "女妖使用了嘲笑"
+    }
   },
   ">>> HARPY USED WIND <<<": {
-    "translation": ">>> 鹰身女妖使用了风 <<<"
+    "translation": ">>> 鹰身女妖使用了风 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハーピーは風を使った",
+      "CN": "妖鸟使用了风之力量",
+      "KR": ">>>하피가 바람을 사용했다<<<",
+      "TW": "女妖使用了風"
+    }
   },
   ">>> HOLD 10 SECONDS <<<": {
-    "translation": ">>> 坚守10秒 <<<"
+    "translation": ">>> 坚守10秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒間押し続ける",
+      "CN": "按住10秒",
+      "KR": ">>>10초 동안 누르세요<<<",
+      "TW": "按住10秒"
+    }
   },
   ">>> HOLD 15 SECONDS <<<": {
-    "translation": ">>> 坚守15秒 <<<"
+    "translation": ">>> 坚守15秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間押し続ける",
+      "CN": "按住15秒",
+      "KR": ">>>15초 동안 누르세요<<<",
+      "TW": "按住15秒"
+    }
   },
   ">>> HOLD 20 SECONDS <<<": {
-    "translation": ">>> 坚守20秒 <<<"
+    "translation": ">>> 坚守20秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間押し続ける",
+      "CN": "按住20秒",
+      "KR": ">>>20초 동안 누르세요<<<",
+      "TW": "按住20秒"
+    }
   },
   ">>> HOLD 25 SECONDS <<<": {
-    "translation": ">>> 坚守25秒 <<<"
+    "translation": ">>> 坚守25秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間押し続ける",
+      "CN": "按住25秒",
+      "KR": ">>>25초 동안 누르세요<<<",
+      "TW": "按住25秒"
+    }
   },
   ">>> HOLD 30 SECONDS <<<": {
-    "translation": ">>> 坚守30秒 <<<"
+    "translation": ">>> 坚守30秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間押し続ける",
+      "CN": "按住30秒",
+      "KR": ">>>30초 동안 누르세요<<<",
+      "TW": "按住30秒"
+    }
   },
   ">>> HOLD 35 SECONDS <<<": {
-    "translation": ">>> 坚守35秒 <<<"
+    "translation": ">>> 坚守35秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 35秒間押す <<<",
+      "CN": ">>> 按住35秒 <<<",
+      "KR": "35초 동안 유지",
+      "TW": ">>> 請按住35秒 <<<"
+    }
   },
   ">>> HUGE TAEPODONG LAUNCHER IS BROKEN <<<": {
-    "translation": ">>> 巨型导弹发射器损坏了 <<<"
+    "translation": ">>> 巨型导弹发射器损坏了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> HUGE TAEPODONG LAUNCHER IS BROKEN <<<",
+      "CN": ">>> 巨大的大浦洞发射器已损坏 <<<",
+      "KR": "태포동 로켓 발사기 고장",
+      "TW": ">>> 大型大浦東發射器已損壞 <<<"
+    }
   },
   ">>> IT'S PRIEST <<<": {
-    "translation": ">>> 这是牧师 <<<"
+    "translation": ">>> 这是牧师 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> IT'S PRIEST <<<",
+      "CN": ">>> 是神父 <<<",
+      "KR": "이것은 사제다",
+      "TW": ">>> 那是牧師 <<<"
+    }
   },
   ">>> Map made by Moray <<<": {
-    "translation": ">>> 地图由 Moray 制作 翻译：Asteri3m <<<"
+    "translation": ">>> 地图由 Moray 制作 翻译：Asteri3m <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> Map made by Moray <<<",
+      "CN": ">>> 地图由 Moray 制作 <<<",
+      "KR": "지도 제작: Moray",
+      "TW": ">>> 地圖由 Moray 製作 <<<"
+    }
   },
   ">>> NUKE KING IS COMING <<<": {
-    "translation": ">>> 核弹之王来了 <<<"
+    "translation": ">>> 核弹之王来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> NUKE KING IS COMING <<<",
+      "CN": ">>> 核弹王即将登场 <<<",
+      "KR": "핵 폭격왕이 등장한다",
+      "TW": ">>> 核子王即將來襲 <<<"
+    }
   },
   ">>> NUKE KING IS DEFEATED <<<": {
-    "translation": ">>> 核弹之王被击败 <<<"
+    "translation": ">>> 核弹之王被击败 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> NUKE KING IS DEFEATED <<<",
+      "CN": ">>> 核弹王已被击败 <<<",
+      "KR": "핵 폭격왕 격파",
+      "TW": ">>> 核子王已被擊敗 <<<"
+    }
   },
   ">>> PAPER GATLING IS BROKEN <<<": {
-    "translation": ">>> 纸质加特林损坏了 <<<"
+    "translation": ">>> 纸质加特林损坏了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> PAPER GATLING IS BROKEN <<<",
+      "CN": ">>> 纸制加特林已损坏 <<<",
+      "KR": "종이 기관총 고장",
+      "TW": ">>> 紙製加特林機槍已損壞 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP AMMO <<<": {
-    "translation": ">>> 玩家拾取了弹药 <<<"
+    "translation": ">>> 玩家拾取了弹药 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> PLAYER HAS PICKED UP AMMO <<<",
+      "CN": ">>> 玩家已拾取弹药 <<<",
+      "KR": "플레이어가 탄약을 획득했습니다",
+      "TW": ">>> 玩家拾取了彈藥 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP EARTH TOILET <<<": {
-    "translation": ">>> 玩家拾取了土马桶 <<<"
+    "translation": ">>> 玩家拾取了土马桶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはアーストイレを獲得した",
+      "CN": ">>> 玩家拾取了地球马桶 <<<",
+      "KR": ">>> 플레이어가 땅변기를 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取地球馬桶 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<": {
-    "translation": ">>> 玩家拾取了电马桶 <<<"
+    "translation": ">>> 玩家拾取了电马桶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはエレキトイレを獲得した",
+      "CN": ">>> 玩家拾取了电动马桶 <<<",
+      "KR": ">>> 플레이자가 전기변기를 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取電氣馬桶 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP FIRE TOILET <<<": {
-    "translation": ">>> 玩家拾取了火马桶 <<<"
+    "translation": ">>> 玩家拾取了火马桶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはファイヤートイレを獲得した",
+      "CN": ">>> 玩家拾取了火焰马桶 <<<",
+      "KR": ">>> 플레이자가 화재변기를 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取火焰馬桶 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<": {
-    "translation": ">>> 玩家拾取了黑洞马桶 <<<"
+    "translation": ">>> 玩家拾取了黑洞马桶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはグラビティトイレを獲得した",
+      "CN": ">>> 玩家拾取了重力马桶 <<<",
+      "KR": ">>> 플레이자가 중력변기를 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取重力馬桶 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP HEAL <<<": {
-    "translation": ">>> 玩家拾取了治疗 <<<"
+    "translation": ">>> 玩家拾取了治疗 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは回復アイテムを手に入れた",
+      "CN": ">>> 玩家拾取了治疗道具 <<<",
+      "KR": ">>> 플레이자가 회복 아이템을 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取治療 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP ICE TOILET <<<": {
-    "translation": ">>> 玩家拾取了冰马桶 <<<"
+    "translation": ">>> 玩家拾取了冰马桶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはアイストイレを獲得した",
+      "CN": ">>> 玩家拾取了冰霜马桶 <<<",
+      "KR": ">>> 플레이자가 빙하변기를 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取冰凍馬桶 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP POISON TOILET <<<": {
-    "translation": ">>> 玩家拾取了毒马桶 <<<"
+    "translation": ">>> 玩家拾取了毒马桶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはポイズントイレを獲得した",
+      "CN": ">>> 玩家拾取了毒气马桶 <<<",
+      "KR": ">>> 플레이자가 독변기를 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取毒霧馬桶 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<": {
-    "translation": ">>> 玩家拾取了彩虹光束 <<<"
+    "translation": ">>> 玩家拾取了彩虹光束 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはレインボービームを手に入れた",
+      "CN": ">>> 玩家拾取了彩虹光束 <<<",
+      "KR": ">>> 플레이자가 무지개 빔을 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取彩虹光束 <<<"
+    }
   },
   ">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<": {
-    "translation": ">>> 玩家拾取了减速球 <<<"
+    "translation": ">>> 玩家拾取了减速球 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはスロースフィアを拾った <<<",
+      "CN": "玩家拾取了缓慢球体",
+      "KR": "플레이어가 느려지는 구체를 획득했습니다",
+      "TW": "玩家拾取了減速球"
+    }
   },
   ">>> PLAYER HAS PICKED UP WATER TOILET <<<": {
-    "translation": ">>> 玩家拾取了水马桶 <<<"
+    "translation": ">>> 玩家拾取了水马桶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはウォータートイレを拾った <<<",
+      "CN": "玩家拾取了水马桶",
+      "KR": "플레이어가 화장실 물을 획득했습니다",
+      "TW": "玩家拾取了水沖廁所"
+    }
   },
   ">>> PLAYER HAS PICKED UP WIND <<<": {
-    "translation": ">>> 玩家拾取了风 <<<"
+    "translation": ">>> 玩家拾取了风 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはウインドを拾った <<<",
+      "CN": "玩家拾取了风之力量",
+      "KR": "플레이어가 바람을 획득했습니다",
+      "TW": "玩家拾取了風"
+    }
   },
   ">>> PLAYER HAS PICKED UP WIND TOILET <<<": {
-    "translation": ">>> 玩家拾取了风马桶 <<<"
+    "translation": ">>> 玩家拾取了风马桶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはウィンドトイレを拾った <<<",
+      "CN": "玩家拾取了风马桶",
+      "KR": "플레이어가 화장실 바람을 획득했습니다",
+      "TW": "玩家拾取了風沖廁所"
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<": {
-    "translation": ">>> 玩家拾取了僵尸黑洞 <<<"
+    "translation": ">>> 玩家拾取了僵尸黑洞 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはゾンビグラビティを拾った <<<",
+      "CN": "玩家拾取了僵尸重力",
+      "KR": "플레이어가 좀비 중력을 획득했습니다",
+      "TW": "玩家拾取了喪屍重力"
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
-    "translation": ">>> 玩家拾取了僵尸治疗 <<<"
+    "translation": ">>> 玩家拾取了僵尸治疗 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはゾンビリカバリーを拾った <<<",
+      "CN": "玩家拾取了僵尸治疗",
+      "KR": "플레이어가 좀비 치유를 획득했습니다",
+      "TW": "玩家拾取了喪屍治療"
+    }
   },
   ">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<": {
-    "translation": ">>> 按下三个按钮以打开通道 <<<"
+    "translation": ">>> 按下三个按钮以打开通道 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 3つのボタンを押して通路を作る <<<",
+      "CN": "按三个按钮以开通通道",
+      "KR": "문을 열려면 3개의 버튼을 누르세요",
+      "TW": "按三個按鈕開啟通路"
+    }
   },
   ">>> PRIEST CASTED MAGIC <<<": {
-    "translation": ">>> 牧师施展了魔法 <<<"
+    "translation": ">>> 牧师施展了魔法 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 祭司が魔法を使用した <<<",
+      "CN": "牧师施展了魔法",
+      "KR": "사제가 마법을 시전했습니다",
+      "TW": "牧師施展魔法"
+    }
   },
   ">>> PRIEST DISAPPEARED <<<": {
-    "translation": ">>> 牧师消失了 <<<"
+    "translation": ">>> 牧师消失了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プリestat消滅 <<<",
+      "CN": ">>> 祭司已消失 <<<",
+      "KR": ">>> 사제가 사라졌다 <<<",
+      "TW": ">>> 牧師失蹤 <<<"
+    }
   },
   ">>> PRIEST DISAPPERED <<<": {
-    "translation": ">>> 牧师消失了 <<<"
+    "translation": ">>> 牧师消失了 <<<",
+    "MultiLang": {
+      "US": ">>> PRIEST DIS Appeared <<<",
+      "JP": ">>> プリestat消滅 <<<",
+      "CN": ">>> 祭司已消失 <<<",
+      "KR": ">>> 사제가 사라졌다 <<<",
+      "TW": ">>> 牧師失蹤 <<<"
+    }
   },
   ">>> PRIEST IS CALLING QUEEN <<<": {
-    "translation": ">>> 牧师在召唤女王 <<<"
+    "translation": ">>> 牧师在召唤女王 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プリestatが女王を呼び寄せる <<<",
+      "CN": ">>> 祭司正在召唤女王 <<<",
+      "KR": ">>> 사제가 여왕을 호출한다 <<<",
+      "TW": ">>> 牧師正在召集女王 <<<"
+    }
   },
   ">>> PRIEST IS COMING <<<": {
-    "translation": ">>> 牧师来了 <<<"
+    "translation": ">>> 牧师来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プリestatが接近中 <<<",
+      "CN": ">>> 祭司正在靠近 <<<",
+      "KR": ">>> 사제가 다가온다 <<<",
+      "TW": ">>> 牧師即將抵達 <<<"
+    }
   },
   ">>> PRIEST IS DEFEATED <<<": {
-    "translation": ">>> 牧师被击败 <<<"
+    "translation": ">>> 牧师被击败 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プリestat撃破 <<<",
+      "CN": ">>> 祭司已被击败 <<<",
+      "KR": ">>> 사제가 제압되었다 <<<",
+      "TW": ">>> 牧師被擊敗 <<<"
+    }
   },
   ">>> QUEEN CASTED LASER <<<": {
-    "translation": ">>> 女王施放了跳刀 <<<"
+    "translation": ">>> 女王施放了跳刀 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 女王がレーザー発動 <<<",
+      "CN": ">>> 女王释放了激光 <<<",
+      "KR": ">>> 여왕이 레이저를 발사했다 <<<",
+      "TW": ">>> 女王施放雷射炮 <<<"
+    }
   },
   ">>> QUEEN CASTED SANIC RUSH <<<": {
-    "translation": ">>> 女王施放了极速冲刺 <<<"
+    "translation": ">>> 女王施放了极速冲刺 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 女王がサニクラッシュ発動 <<<",
+      "CN": ">>> 女王释放了声波冲击 <<<",
+      "KR": ">>> 여왕이 sonic rush 기술을 사용했다 <<<",
+      "TW": ">>> 女王施放音波衝刺 <<<"
+    }
   },
   ">>> QUEEN CASTED TRAIN <<<": {
-    "translation": ">>> 女王施放了火车 <<<"
+    "translation": ">>> 女王施放了火车 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 女王が電車で突撃 <<<",
+      "CN": ">>> 女王释放了列车突袭 <<<",
+      "KR": ">>> 여왕이 기차 기술을 사용했다 <<<",
+      "TW": ">>> 女王施放列車攻擊 <<<"
+    }
   },
   ">>> QUEEN CASTED VACUUM <<<": {
-    "translation": ">>> 3秒，女王施放了真空，按住S <<<"
+    "translation": ">>> 3秒，女王施放了真空，按住S <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "女王が真空を召喚",
+      "CN": ">>> 女王施展真空 <<<",
+      "KR": "퀸이 진공을 소환하다",
+      "TW": ">>> 皇后施展真空 <<<"
+    }
   },
   ">>> QUEEN CASTED WIND <<<": {
-    "translation": ">>> 3秒，女王施放了风，按住W <<<"
+    "translation": ">>> 3秒，女王施放了风，按住W <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "女王が風を召喚",
+      "CN": ">>> 女王施展狂风 <<<",
+      "KR": "퀸이 바람을 소환하다",
+      "TW": ">>> 皇后施展風 >>>"
+    }
   },
   ">>> QUEEN GOT POWER <<<": {
-    "translation": ">>> 女王获得了力量 <<<"
+    "translation": ">>> 女王获得了力量 <<<",
+    "MultiLang": {
+      "US": ">>> QUEEN GAINED POWER <<<",
+      "JP": "女王が力を与えられる",
+      "CN": ">>> 女王获得力量 <<<",
+      "KR": "퀄이 힘을 얻다",
+      "TW": ">>> 皇后獲得力量 <<<"
+    }
   },
   ">>> QUEEN IS AWAKED <<<": {
-    "translation": ">>> 女王苏醒了 <<<"
+    "translation": ">>> 女王苏醒了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "女王が覚醒する",
+      "CN": ">>> 女王苏醒 <<<",
+      "KR": "퀸이 깨어나다",
+      "TW": ">>> 皇后甦醒 <<<"
+    }
   },
   ">>> QUEEN IS DEFEATED <<<": {
-    "translation": ">>> 女王被击败 <<<"
+    "translation": ">>> 女王被击败 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "女王が倒された",
+      "CN": ">>> 女王被击败 <<<",
+      "KR": "퀸이 격파되다",
+      "TW": ">>> 皇后被擊敗 <<<"
+    }
   },
   ">>> QUEEN IS HURTED <<<": {
-    "translation": ">>> 女王受伤了 <<<"
+    "translation": ">>> 女王受伤了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "女王が傷ついた",
+      "CN": ">>> 女王受伤 <<<",
+      "KR": "퀸이 부상을 입다",
+      "TW": ">>> 皇后受傷 <<<"
+    }
   },
   ">>> QUEEN'S LAUGHTER SOUNDS FAINTLY <<<": {
-    "translation": ">>> 女王的笑声微弱地响起 <<<"
+    "translation": ">>> 女王的笑声微弱地响起 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "女王の笑い声が遠くから聞こえる",
+      "CN": ">>> 女王的狂笑声隐约可闻 <<<",
+      "KR": "퀸의 웃음소리가 희미하게 들린다",
+      "TW": ">>> 皇后的笑聲逐漸遠去 <<<"
+    }
   },
   ">>> RED BUTTON WAS PRESSED <<<": {
-    "translation": ">>> 红色按钮已按下 <<<"
+    "translation": ">>> 红色按钮已按下 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "赤いボタンが押された",
+      "CN": ">>> 红色按钮已被按下 <<<",
+      "KR": "빨간 단추가 눌렸다",
+      "TW": ">>> 紅按鈕已按下 <<<"
+    }
   },
   ">>> RED PILLAR BROKEN <<<": {
-    "translation": ">>> 红色柱子损坏了 <<<"
+    "translation": ">>> 红色柱子损坏了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 赤い柱が破壊されました <<<",
+      "CN": ">>> 红柱断裂 <<<",
+      "KR": ">>> 적색 기둥 손상 <<<",
+      "TW": "<<< 紅柱斷裂 <<<"
+    }
   },
   ">>> ROUTE 1 : AFK TELEPORT IN 10 SECONDS <<<": {
-    "translation": ">>> 路线1：10秒后AFK传送 <<<"
+    "translation": ">>> 路线1：10秒后AFK传送 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート1 : 自動テレポートまで残り10秒 <<<",
+      "CN": ">>> 路线1：挂机传送 10秒 <<<",
+      "KR": ">>> 루트 1 : 10초 후 AFK 텔레포트 <<<",
+      "TW": "<<< 路線一：十秒後自動傳送 <<<"
+    }
   },
   ">>> ROUTE 1 : HOLD 20 SECONDS <<<": {
-    "translation": ">>> 路线1：坚守20秒 <<<"
+    "translation": ">>> 路线1：坚守20秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート1 : 20秒間保持してください <<<",
+      "CN": ">>> 路线1：保持按住 20秒 <<<",
+      "KR": ">>> 루트 1 : 20초간 유지 <<<",
+      "TW": "<<< 路線一：持續二十秒 <<<"
+    }
   },
   ">>> ROUTE 2 : AFK TELEPORT IN 10 SECONDS <<<": {
-    "translation": ">>> 路线2：10秒后AFK传送 <<<"
+    "translation": ">>> 路线2：10秒后AFK传送 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート2 : 自動テレポートまで残り10秒 <<<",
+      "CN": ">>> 路线2：挂机传送 10秒 <<<",
+      "KR": ">>> 루트 2 : 10초 후 AFK 텔레포트 <<<",
+      "TW": "<<< 路線二：十秒後自動傳送 <<<"
+    }
   },
   ">>> ROUTE 2 : HOLD 20 SECONDS <<<": {
-    "translation": ">>> 路线2：坚守20秒 <<<"
+    "translation": ">>> 路线2：坚守20秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート2 : 20秒間保持してください <<<",
+      "CN": ">>> 路线2：保持按住 20秒 <<<",
+      "KR": ">>> 루트 2 : 20초간 유지 <<<",
+      "TW": "<<< 路線二：持續二十秒 <<<"
+    }
   },
   ">>> ROUTE1 : HOLD 20 SECONDS <<<": {
-    "translation": ">>> 路线1：坚守20秒 <<<"
+    "translation": ">>> 路线1：坚守20秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート1 : 20秒間保持してください <<<",
+      "CN": ">>> 路线1：保持按住 20秒 <<<",
+      "KR": ">>> 루트 1 : 20초간 유지 <<<",
+      "TW": "<<< 路線一：持續二十秒 <<<"
+    }
   },
   ">>> ROUTE2 : HOLD 20 SECONDS <<<": {
-    "translation": ">>> 路线2：坚守20秒 <<<"
+    "translation": ">>> 路线2：坚守20秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート2 : 20秒間保持してください <<<",
+      "CN": ">>> 路线2：保持按住 20秒 <<<",
+      "KR": ">>> 루트 2 : 20초간 유지 <<<",
+      "TW": "<<< 路線二：持續二十秒 <<<"
+    }
   },
   ">>> ROUTE3 : HOLD 15 SECONDS <<<": {
-    "translation": ">>> 路线3：坚守15秒 <<<"
+    "translation": ">>> 路线3：坚守15秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート3 : 15秒間保持してください <<<",
+      "CN": ">>> 路线3：保持按住 15秒 <<<",
+      "KR": ">>> 루트 3 : 15초간 유지 <<<",
+      "TW": "<<< 路線三：持續十五秒 <<<"
+    }
   },
   ">>> SECRET STAGE COMPLETED <<<": {
-    "translation": ">>> 隐藏关卡完成 <<<"
+    "translation": ">>> 隐藏关卡完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< シークレットステージクリア >>>",
+      "CN": ">>> 隐藏关卡已通关 <<<",
+      "KR": ">>> 비밀 스테이지 클리어 <<<",
+      "TW": ">>> 隱藏關卡已通關 <<<"
+    }
   },
   ">>> STAGE 0 : DARK MODE<<<": {
-    "translation": ">>> 关卡0：黑暗模式 <<<"
+    "translation": ">>> 关卡0：黑暗模式 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 0：ダークモード <<<",
+      "CN": ">>> 第0关：暗黑模式 <<<",
+      "KR": ">>> 스테이지 0 : 다크 모드<<<",
+      "TW": ">>> 第0關：黑暗模式 <<<"
+    }
   },
   ">>> STAGE 1 : GARDEN MODE<<<": {
-    "translation": ">>> 关卡1：花园模式 <<<"
+    "translation": ">>> 关卡1：花园模式 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 1：ガーデンモード <<<",
+      "CN": ">>> 第1关：花园模式 <<<",
+      "KR": ">>> 스테이지 1 : 가든 모드<<<",
+      "TW": ">>> 第1關：花園模式 <<<"
+    }
   },
   ">>> STAGE 1 COMPLETED <<<": {
-    "translation": ">>> 关卡1完成 <<<"
+    "translation": ">>> 关卡1完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ステージ 1 クリア >>>",
+      "CN": ">>> 第1关已通关 <<<",
+      "KR": ">>> 스테이지 1 클리어 <<<",
+      "TW": ">>> 第1關已通關 <<<"
+    }
   },
   ">>> STAGE 2 : FOREST MODE<<<": {
-    "translation": ">>> 关卡2：森林模式 <<<"
+    "translation": ">>> 关卡2：森林模式 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 2：フォレストモード <<<",
+      "CN": ">>> 第2关：森林模式 <<<",
+      "KR": ">>> 스테이지 2 : 숲 모드<<<",
+      "TW": ">>> 第2關：森林模式 <<<"
+    }
   },
   ">>> STAGE 2 COMPLETED <<<": {
-    "translation": ">>> 关卡2完成 <<<"
+    "translation": ">>> 关卡2完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ステージ 2 クリア >>>",
+      "CN": ">>> 第2关已通关 <<<",
+      "KR": ">>> 스테이지 2 클리어 <<<",
+      "TW": ">>> 第2關已通關 <<<"
+    }
   },
   ">>> STAGE 3 : FACILITY MODE<<<": {
-    "translation": ">>> 关卡3：设施模式 <<<"
+    "translation": ">>> 关卡3：设施模式 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 3：フェシリティモード <<<",
+      "CN": ">>> 第3关：设施模式 <<<",
+      "KR": ">>> 스테이지 3 : 시설 모드<<<",
+      "TW": ">>> 第3關：設施模式 <<<"
+    }
   },
   ">>> STAGE 3 COMPLETED <<<": {
-    "translation": ">>> 关卡3完成 <<<"
+    "translation": ">>> 关卡3完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ステージ 3 クリア >>>",
+      "CN": ">>> 第3关已通关 <<<",
+      "KR": ">>> 스테이지 3 클리어 <<<",
+      "TW": ">>> 第3關已通關 <<<"
+    }
   },
   ">>> Special thanks to hobbit <<<": {
-    "translation": ">>> 特别感谢 hobbit <<<"
+    "translation": ">>> 特别感谢 hobbit <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ホビットに特別感謝",
+      "CN": "特别感谢 hobbit",
+      "KR": "호비트에게 특별히 감사드립니다",
+      "TW": "特別感謝 hobbit"
+    }
   },
   ">>> TELEPORTER IS ACTIVATED <<<": {
-    "translation": ">>> 传送器已激活 <<<"
+    "translation": ">>> 传送器已激活 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "テレポーター作動中",
+      "CN": "传送器已激活",
+      "KR": "텔레포터가 작동합니다",
+      "TW": "傳送器已啟動"
+    }
   },
   ">>> TELEPORTER WILL ACTIVATE SOON <<<": {
-    "translation": ">>> 传送器即将激活 <<<"
+    "translation": ">>> 传送器即将激活 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "テレポーターすぐ後作動",
+      "CN": "传送器即将激活",
+      "KR": "텔레포터가 곧 활성화됩니다",
+      "TW": "傳送器即將啟動"
+    }
   },
   ">>> THE TORCH WAS LIT <<<": {
-    "translation": ">>> 火炬已点燃 <<<"
+    "translation": ">>> 火炬已点燃 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "松明点火",
+      "CN": "火把已被点燃",
+      "KR": "횃불에 불이 붙었습니다",
+      "TW": "火炬已點燃"
+    }
   },
   ">>> THE WORLD IS GOING TO DARK <<<": {
-    "translation": ">>> 世界即将陷入黑暗 <<<"
+    "translation": ">>> 世界即将陷入黑暗 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "世界が闇に包まれる",
+      "CN": "世界将陷入黑暗",
+      "KR": "세상이 darkness로 변합니다",
+      "TW": "世界將陷入黑暗"
+    }
   },
   ">>> TIME TO AVOID CANCER LAZERS <<<": {
-    "translation": ">>> 是时候避开致命跳刀 <<<"
+    "translation": ">>> 是时候避开致命跳刀 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "がんレーザーから避けろ",
+      "CN": "注意躲避癌症激光",
+      "KR": "암세포 레이저를 피하세요",
+      "TW": "請躲避癌症雷射"
+    }
   },
   ">>> WATCH OUT FOR BEAM CANNON <<<": {
-    "translation": ">>> 小心光束炮 <<<"
+    "translation": ">>> 小心光束炮 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ビーム砲に注意",
+      "CN": "警惕光束炮",
+      "KR": "빔 캐논에 주의하세요",
+      "TW": "注意Beam Cannon"
+    }
   },
   ">>> WATCH OUT FOR HUGE TAEPODONG <<<": {
-    "translation": ">>> 小心巨型导弹 <<<"
+    "translation": ">>> 小心巨型导弹 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "巨大なタイポドンに注意",
+      "CN": "警惕巨大的太品东",
+      "KR": "거대한 태풍동(태극기)에 주의하세요",
+      "TW": "注意超大號太極洞"
+    }
   },
   ">>> WATCH OUT FOR TAEPODONG <<<": {
-    "translation": ">>> 小心导弹 <<<"
+    "translation": ">>> 小心导弹 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< タエポドンの警告 >>>",
+      "CN": "<<< 注意！大浦洞导弹 <<<",
+      "KR": "<<< 태풍도ng 경계 >>>",
+      "TW": "<<< 注意飛毛腿導彈 <<<"
+    }
   },
   ">>> WE CAUGHT UP TO PRIEST <<<": {
-    "translation": ">>> 我们追上了牧师 <<<"
+    "translation": ">>> 我们追上了牧师 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< プ里斯トを発見した <<<",
+      "CN": "<<< 我们追上神父了 <<<",
+      "KR": ">>> 사제에게 추격 당함 >>>",
+      "TW": "<<< 我們已追上神父 <<<"
+    }
   },
   ">>> WE NEED TO ACTIVATE THE TRAIN <<<": {
-    "translation": ">>> 我们需要激活火车 <<<"
+    "translation": ">>> 我们需要激活火车 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 列車を起動する必要がある <<<",
+      "CN": "<<< 我们需要启动火车 <<<",
+      "KR": ">>> 열차 가동 필요 >>>",
+      "TW": "<<< 我們需要啟動列車 <<<"
+    }
   },
   ">>> YELLOW BUTTON WAS PRESSED <<<": {
-    "translation": ">>> 黄色按钮已按下 <<<"
+    "translation": ">>> 黄色按钮已按下 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 黄色いボタンが押された <<<",
+      "CN": "<<< 已按下黄色按钮 <<<",
+      "KR": ">>> 노란색 버튼 눌림 >>>",
+      "TW": "<<< 已按下黃色按鈕 <<<"
+    }
   },
   ">>> YELLOW PILLAR BROKEN <<<": {
-    "translation": ">>> 黄色柱子损坏了 <<<"
+    "translation": ">>> 黄色柱子损坏了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 黄色い柱が破壊された <<<",
+      "CN": "<<< 黄色支柱已损坏 <<<",
+      "KR": "<<< 황금 기둥 파손 >>>",
+      "TW": "<<< 黃色柱體受損 <<<"
+    }
   },
   ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<": {
-    "translation": ">>> 5秒后僵尸传送 <<<"
+    "translation": ">>> 5秒后僵尸传送 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビは5秒後にテレポートする <<<",
+      "CN": "<<< 5秒后僵尸传送 <<<",
+      "KR": "<<< 좀비 5초 내 텔레포트 >>>",
+      "TW": "<<< 殭屍將在5秒內傳送 <<<"
+    }
   },
   "stripper已加载(by bxzl),EX关逃亡路增加高亮显示": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Loaded by bxzl. Added highlight display to EX level Escape Road.",
+      "JP": "stripperが読み込まれました(by bxzl)、EXクエスト『逃亡路』にハイライト表示を追加",
+      "CN": "",
+      "KR": "스트리퍼 로드됨 (bxzl 작업), EX 매표소 경로 하이라이트 추가",
+      "TW": "已加載stripper（by bxzl），EX關逃脫路增加高亮顯示"
+    }
   }
 }

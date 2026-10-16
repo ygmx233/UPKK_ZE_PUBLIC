@@ -1,0 +1,512 @@
+{
+  "...我们怎么昏迷了这么久...NPST事件才过去几小时": {
+    "translation": "...我们怎么昏迷了这么久...NPST事件才过去几小时",
+    "MultiLang": {
+      "US": "...How have we been unconscious for so long... The NPST incident only happened a few hours ago.",
+      "JP": "...いつの間にか気絶していたのか…NPST事件から数時間しか経っていないのに",
+      "CN": "...我们怎么昏迷了这么久...NPST事件才过去几小时",
+      "KR": "...우리는 왜 그렇게 오랫동안 의식을 잃었던 걸까... NPST 사건이 발생한 지 겨우 몇 시간밖에 지나지 않았는데.",
+      "TW": "...我們怎麼昏迷了這麼久…NPST事件才過幾小時"
+    }
+  },
+  "1": {
+    "translation": "1",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<30>": {
+    "translation": "<30秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<30秒>",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<35>": {
+    "translation": "<35秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<35秒>",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<40>": {
+    "translation": "<40秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<40秒>",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<50>": {
+    "translation": "<50秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<50秒>",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<60>": {
+    "translation": "<60秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<60秒>",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<Federation>...（沉默）我们没有发现GooseStep小队的幸存者，只找到了几具队员遗体...以及他们誓死保卫下来的情报": {
+    "translation": "<Federation>...（沉默）我们没有发现GooseStep小队的幸存者，只找到了几具队员遗体...以及他们誓死保卫下来的情报",
+    "MultiLang": {
+      "US": "<Federation>... (silence) We found no survivors from the GooseStep team, only several squad member bodies... and the intelligence they defended to the death.",
+      "JP": "<Federation>…（沈黙） GooseStep小隊の生存者は確認できませんでした。隊員数名の遺体と、彼らが死守した情報を回収しました…",
+      "CN": "<Federation>...（沉默）我们没有发现GooseStep小队的幸存者，只找到了几具队员遗体...以及他们誓死保卫下来的情报",
+      "KR": "<Federation>...（침묵） 우리는 굿스텝(FooseStep)조의 생존자를 찾아내지 못했습니다. 단지 대원들의 시체 몇 구와, 그들이 목숨을 걸고 지킨的情报들만 수습했습니다...",
+      "TW": "<Federation>…（沉默）我們沒找到GooseStep小隊的倖存者，只發現了幾名隊員的遺體…以及他們用生命保護的情報"
+    }
+  },
+  "<Federation>报告总部，我队路上遭遇敌袭，短暂失联...但是我们已经抵达任务目的地了": {
+    "translation": "<Federation>报告总部，我队路上遭遇敌袭，短暂失联...但是我们已经抵达任务目的地了",
+    "MultiLang": {
+      "US": "<Federation>Reporting to Headquarters, our squad encountered enemy attacks on the way, causing brief loss of contact... but we have now arrived at the mission destination.",
+      "JP": "<Federation>総本部に報告します。当小隊は移動中に敵襲を受け、一時的に通信が切断されました…しかし、任務目的地への到達を確認しました。",
+      "CN": "<Federation>报告总部，我队路上遭遇敌袭，短暂失联...但是我们已经抵达任务目的地了",
+      "KR": "<Federation> 총부에 보고합니다. 저희 조는 이동 중 적의 습격을 받아 잠시 교신이 끊겼습니다... 하지만 이미 작전 목표지점에 도달했습니다.",
+      "TW": "<Federation>報告總部，我隊途中遭遇敵襲，短暫失聯…但我們已抵達任務目標地點"
+    }
+  },
+  "<总部>...但这并非本次任务目标，不必勉强自己，祝你们好运": {
+    "translation": "<总部>...但这并非本次任务目标，不必勉强自己，祝你们好运",
+    "MultiLang": {
+      "US": "<HQ>... However, that is not the objective of this mission. No need to push yourself unnecessarily. Good luck.",
+      "JP": "<総本部>…だが、それは今回の任務の目標ではない。無理をせず、無事を祈る",
+      "CN": "<总部>...但这并非本次任务目标，不必勉强自己，祝你们好运",
+      "KR": "<总部>... 이는 이번 임무의 주요 목적이 아닙니다. 무리하지 마세요. 행운을 빕니다.",
+      "TW": "<總部>…但這並非本次任務目標，不必強求，祝各位好運"
+    }
+  },
+  "<总部>...请求回复": {
+    "translation": "<总部>...请求回复",
+    "MultiLang": {
+      "US": "<HQ>... Requesting confirmation.",
+      "JP": "<総本部>…応答を請求",
+      "CN": "<总部>...请求回复",
+      "KR": "<总部>...대신 확인 요청합니다.",
+      "TW": "<總部>…請求回覆"
+    }
+  },
+  "<总部>...鉴于目前情况，我部现将你们的行动代号更改为“GooseStep”，你们的任务不变...": {
+    "translation": "<总部>...鉴于目前情况，我部现将你们的行动代号更改为“GooseStep”，你们的任务不变...",
+    "MultiLang": {
+      "US": "<HQ>... In view of the current situation, we are now changing your operation codename to 'GooseStep'. Your mission remains unchanged...",
+      "JP": "<総本部>…現状を鑑み、当部は君たちの行動コードネームを『GooseStep』に変更する。任務内容は変更なし…",
+      "CN": "<总部>...鉴于目前情况，我部现将你们的行动代号更改为“GooseStep”，你们的任务不变...",
+      "KR": "<总部>...현재 상황을 고려할 때, 저희는 귀 조의 작전 호출부호를 'GooseStep'으로 변경하기로 했습니다. 임무는 그대로 유지됩니다...",
+      "TW": "<總部>…鑑於目前狀況，本部將行動代號更名為「GooseStep」，任務內容不變…"
+    }
+  },
+  "<总部>GooseStep小队，我很遗憾通知你们，我部暂时与你们的增援Federation小队失联...": {
+    "translation": "<总部>GooseStep小队，我很遗憾通知你们，我部暂时与你们的增援Federation小队失联...",
+    "MultiLang": {
+      "US": "<HQ>GooseStep team, I regret to inform you that we have temporarily lost contact with your reinforcement team, Federation...",
+      "JP": "<総本部>GooseStep小隊、遺憾ながら通知する。増援として派遣されたFederation小隊とは現在通信が途絶している…",
+      "CN": "<总部>GooseStep小队，我很遗憾通知你们，我部暂时与你们的增援Federation小队失联...",
+      "KR": "<总部> GooseStep 조, 유감스럽게도 말씀드려야 할 일이 있습니다. 저희는 현재 귀 조의 증원 부대인 Federation 조와의 교신이 단절된 상태입니다...",
+      "TW": "<總部>GooseStep小隊，我很遺憾地通知各位，本部暫時與你們的增援部隊Federation失聯…"
+    }
+  },
+  "<总部>你们需要获取一层实验室的实验样本，另据可靠消息，二层的办公区有着一块存储机密信息的U盘...": {
+    "translation": "<总部>你们需要获取一层实验室的实验样本，另据可靠消息，二层的办公区有着一块存储机密信息的U盘...",
+    "MultiLang": {
+      "US": "<HQ>You are required to obtain experimental samples from the first-floor laboratory. Additionally, according to reliable intelligence, there is a USB drive containing classified information in the second-floor office area...",
+      "JP": "<総本部>1階の研究所から実験サンプルを収集する必要がある。また、確かな情報として、2階の事務エリアには機密情報を格納したUSBメモリが存在するとの情報がある…",
+      "CN": "<总部>你们需要获取一层实验室的实验样本，另据可靠消息，二层的办公区有着一块存储机密信息的U盘...",
+      "KR": "<总部> 귀 조는 1층 연구소의 실험 샘플을 확보해야 합니다. 또한, 신뢰할 수 있는 정보에 따르면 2층의 사무구역에 기밀 정보가 담긴 USB 메모리가 있다는군요...",
+      "TW": "<總部>你們需要取得一層實驗室的實驗樣本，另有可靠情報顯示，二層辦公區藏有存有機密資訊的U盤…"
+    }
+  },
+  "<总部>发生了什么？": {
+    "translation": "<总部>发生了什么？",
+    "MultiLang": {
+      "US": "<HQ> What's happening?",
+      "JP": "<本部>何が起きた？",
+      "CN": "<总部>发生了什么？",
+      "KR": "<본부> 무슨 일이 있니까?",
+      "TW": "<總部>發生什麼事了？"
+    }
+  },
+  "<总部>各单位注意，哈夫克武装直升机正在往你们的方位靠拢，立刻做好战斗准备": {
+    "translation": "<总部>各单位注意，哈夫克武装直升机正在往你们的方位靠拢，立刻做好战斗准备",
+    "MultiLang": {
+      "US": "<HQ> All units, be advised: Hafk attack helicopters are moving toward your position. Prepare for combat immediately.",
+      "JP": "<本部>各單位、ハフク武装헬리콥ターが貴方の位置に接近しています。直ちに戦闘準備を整えなさい。",
+      "CN": "<总部>各单位注意，哈夫克武装直升机正在往你们的方位靠拢，立刻做好战斗准备",
+      "KR": "<본부> 모든 단위 주의. 하프크 무장 헬기가 너희 위치로 향하고 있다. 즉시 전투 태세를 갖춰라.",
+      "TW": "<總部>各單位注意，哈夫克武裝直升機正往你們的位置移動，立即做好戰鬥準備。"
+    }
+  },
+  "<总部>士兵们，干得好，我以为要再也见不到你们了呢，接下来我复述本次行动目标...": {
+    "translation": "<总部>士兵们，干得好，我以为要再也见不到你们了呢，接下来我复述本次行动目标...",
+    "MultiLang": {
+      "US": "<HQ> Soldiers, great work. I was afraid we'd never see you again. I will now reiterate the mission objectives...",
+      "JP": "<本部>兵士たち、よくやった。もう会えないと思ったよ。次に今回の作戦目標を再確認する...",
+      "CN": "<总部>士兵们，干得好，我以为要再也见不到你们了呢，接下来我复述本次行动目标...",
+      "KR": "<본부> 병사들, 잘 했다. 너희를 다시 만나지 못할 줄 알았는데, 이제 작전 목표 재전송을 시작하겠다...",
+      "TW": "<總部>士兵們，做得好，我還以為再也見不到你們了呢。接下來我重新說明本次行動目標……"
+    }
+  },
+  "<总部>如果你们没有其他方法撤离，就按原定计划去指定地点等待Federation小队接应": {
+    "translation": "<总部>如果你们没有其他方法撤离，就按原定计划去指定地点等待Federation小队接应",
+    "MultiLang": {
+      "US": "<HQ> If you have no other means of extraction, follow the original plan and proceed to the designated location to await the Federation team.",
+      "JP": "<本部>他に撤退方法がない場合は、予定通り指定された場所で連邦小隊の接應を待ちたまえ。",
+      "CN": "<总部>如果你们没有其他方法撤离，就按原定计划去指定地点等待Federation小队接应",
+      "KR": "<본부> 다른 피난 방법이 없다면, 원래 계획대로 지정된 장소로 가서 연대 소속팀의 지원 대기하라.",
+      "TW": "<總部>如果你們沒有其他撤離方法，就按原計劃前往指定地點等待Federation小隊的接應。"
+    }
+  },
+  "<总部>干的很好...GooseStep小队呢？": {
+    "translation": "<总部>干的很好...GooseStep小队呢？",
+    "MultiLang": {
+      "US": "<HQ> Excellent work... What about the GooseStep squad?",
+      "JP": "<本部>よくやった…グースステップ小隊は？",
+      "CN": "<总部>干的很好...GooseStep小队呢？",
+      "KR": "<본부> 잘했다... 구스스텝 중대는?",
+      "TW": "<總部>做得很好……GooseStep小隊呢？"
+    }
+  },
+  "<总部>我部批准你们使用其他计划撤离，如果我部与Federation小队取得联系，将会第一时间通知他们有关事宜": {
+    "translation": "<总部>我部批准你们使用其他计划撤离，如果我部与Federation小队取得联系，将会第一时间通知他们有关事宜",
+    "MultiLang": {
+      "US": "<HQ> We authorize you to use alternative extraction plans. If we establish contact with the Federation team, we will notify them immediately.",
+      "JP": "<本部>あなたの他の撤退計画を承認する。もし当部が連邦小隊と連絡が取れた場合、彼らに該当事項をすぐに通知する。",
+      "CN": "<总部>我部批准你们使用其他计划撤离，如果我部与Federation小队取得联系，将会第一时间通知他们有关事宜",
+      "KR": "<本部> 부대 다른 피난 계획 사용 승인했다. 만약 본부가 연대 소속팀과 연락에 성공하면, 즉시 관련 사항을 통보할 것이다.",
+      "TW": "<總部>本部批准你們使用其他計畫撤離。若本部與Federation小隊取得聯繫，將會第一時間通知他們相關事宜。"
+    }
+  },
+  "<总部>据情报，地下设施中拥有一份弥足珍贵的文件，找到它": {
+    "translation": "<总部>据情报，地下设施中拥有一份弥足珍贵的文件，找到它",
+    "MultiLang": {
+      "US": "<HQ> Intelligence indicates a highly valuable document is hidden within the underground facility. Locate it.",
+      "JP": "<本部>情報によれば、地下施設には非常に貴重な文書がある。それを発見せよ。",
+      "CN": "<总部>据情报，地下设施中拥有一份弥足珍贵的文件，找到它",
+      "KR": "<본부>的情报によれば、地下施設には貴重なファイルが存在するという。それを見つけ出せ",
+      "TW": "<總部>據情報顯示，地下設施內有一份極其珍貴的文件，把它找出來。"
+    }
+  },
+  "<总部>收集一切在哈夫克设施内有关NPST协议的情报，然后活着带回总部...去其他有收音电台的地方再联系我": {
+    "translation": "<总部>收集一切在哈夫克设施内有关NPST协议的情报，然后活着带回总部...去其他有收音电台的地方再联系我",
+    "MultiLang": {
+      "US": "<HQ> Gather all available intelligence on the NPST protocol from Hafk facilities, then bring it back to HQ alive... Contact us again at a location with radio broadcast capabilities.",
+      "JP": "<本部>ハフク施設内のNPST関連の一切の情報を収集し、生還して本持ち帰れ…他のラジオ局がある場所から連絡してくれ。",
+      "CN": "<总部>收集一切在哈夫克设施内有关NPST协议的情报，然后活着带回总部...去其他有收音电台的地方再联系我",
+      "KR": "<본부> 하프크 시설 내 관련 NPST 협정에 관한 모든 정보를 수집해, 살아서 본부로 가져와라. 다른 라디오 송신기가 있는 곳에서联系我",
+      "TW": "<總部>收集哈夫克設施內所有關於NPST協議的情報，然後活着帶回總部……到有其他收音電台的地点再聯繫我。"
+    }
+  },
+  "<总部>救援你们的Federation小队已经在路上了...按计划去指定位置和他们碰头": {
+    "translation": "<总部>救援你们的Federation小队已经在路上了...按计划去指定位置和他们碰头",
+    "MultiLang": {
+      "US": "<HQ> The Federation rescue team meant to extract you is on the way... Proceed to the designated rendezvous point as planned.",
+      "JP": "<本部>を救出するため、連盟の救援隊が到着中だ。...計画に従って指定された場所で合流せよ",
+      "CN": "<总部>救援你们的Federation小队已经在路上了...按计划去指定位置和他们碰头",
+      "KR": "<본부> 귀하를 구하기 위한 연대 부대가 이동 중입니다... 계획대로 지정 위치에서 합류하십시오.",
+      "TW": "<總部>救援你們的聯邦小隊已經在路上了……按計劃前往指定位置與會合"
+    }
+  },
+  "<总部>祝武运昌隆": {
+    "translation": "<总部>祝武运昌隆",
+    "MultiLang": {
+      "US": "<HQ> Good luck in battle.",
+      "JP": "<本部>ご武運を祈る",
+      "CN": "<总部>祝武运昌隆",
+      "KR": "<본부> 평안한 행군을 빕니다",
+      "TW": "<總部>祝你們武運昌隆"
+    }
+  },
+  "他们要从后面涌出来了！": {
+    "translation": "他们要从后面涌出来了！",
+    "MultiLang": {
+      "US": "They’re pouring out from behind!",
+      "JP": "後方から湧き出してる！",
+      "CN": "他们要从后面涌出来了！",
+      "KR": "저쪽에서 무리들이 몰려오고 있다!",
+      "TW": "他們從後方湧出來了！"
+    }
+  },
+  "他妈的，这架直升机好像出现了什么损坏": {
+    "translation": "他妈的，这架直升机好像出现了什么损坏",
+    "MultiLang": {
+      "US": "Damn it, looks like this helicopter is taking some damage.",
+      "JP": "くそっ、このヘリコプターに何か損傷が生じたようだ",
+      "CN": "他妈的，这架直升机好像出现了什么损坏",
+      "KR": "시발, 이 헬리콥터가 뭔 고장이 난 것 같아.",
+      "TW": "該死的，這架直升機好像出了故障"
+    }
+  },
+  "前面的门被堵住了...仔细听，我们脚下有水流声": {
+    "translation": "前面的门被堵住了...仔细听，我们脚下有水流声",
+    "MultiLang": {
+      "US": "The door ahead is blocked... Listen closely, we can hear water rushing beneath our feet.",
+      "JP": "前方の扉は封鎖されている...よく聞けば、足元から水流の音が聞こえる",
+      "CN": "前面的门被堵住了...仔细听，我们脚下有水流声",
+      "KR": "앞쪽 문이 막혔군... 잘 들어보라, 우리 발 아래로 물소리가 들린다.",
+      "TW": "前方的門被堵住了……仔細聽，我們腳下有水流聲"
+    }
+  },
+  "后面是一片火场，我们已经无路可退了...": {
+    "translation": "后面是一片火场，我们已经无路可退了...",
+    "MultiLang": {
+      "US": "Behind us is a raging inferno; we’ve got no way back...",
+      "JP": "後方は火海で、もう退路はない...",
+      "CN": "后面是一片火场，我们已经无路可退了...",
+      "KR": "뒷길은 불바다다. 우리겐 더 이상 후퇴할 길이 없다...",
+      "TW": "後面是一片火場，我們已經別無退路……"
+    }
+  },
+  "守住这个控制室，直到我们修改前台权限": {
+    "translation": "守住这个控制室，直到我们修改前台权限",
+    "MultiLang": {
+      "US": "Hold this control room until we update the frontend permissions.",
+      "JP": "権限を上書きするまで、このコントロールルームを守れ",
+      "CN": "守住这个控制室，直到我们修改前台权限",
+      "KR": "우리가 프런트엔드 권한을 수정하기 전까지 이 제어실을 방어하십시오.",
+      "TW": "守住這個控制室，直到我們修改前台權限"
+    }
+  },
+  "当前结局：<未断脊梁>": {
+    "translation": "当前结局：<未断脊梁>",
+    "MultiLang": {
+      "US": "Current Ending: <Unbroken Spirit>",
+      "JP": "現在の結末：<折れない脊髄>",
+      "CN": "当前结局：<未断脊梁>",
+      "KR": "현재 엔딩: <굴하지 않은 뼈>",
+      "TW": "當前結局：<未折的脊骨>"
+    }
+  },
+  "当前结局：<长夜未尽，勿颂黎明>": {
+    "translation": "当前结局：<长夜未尽，勿颂黎明>",
+    "MultiLang": {
+      "US": "Current Ending: <The Long Night Has Not Yet Ended, Do Not Yet Sing of Dawn>",
+      "JP": "現在の結末：<夜は未だ尽きず、黎明を歌うなかれ>",
+      "CN": "当前结局：<长夜未尽，勿颂黎明>",
+      "KR": "현재 엔딩：<긴 밤은 끝나지 않았으니, 새벽을 축복하지 마라>",
+      "TW": "當前結局：《長夜未盡，勿頌黎明》"
+    }
+  },
+  "当心！直升机要往上面的平台攻击了": {
+    "translation": "当心！直升机要往上面的平台攻击了",
+    "MultiLang": {
+      "US": "Careful! The helicopter is targeting the upper platform!",
+      "JP": "気をつけろ！ヘリコプターが上のプラットフォームに攻撃を仕掛ける！",
+      "CN": "当心！直升机要往上面的平台攻击了",
+      "KR": "경고！ 헬기가 위쪽 플랫폼으로 공격합니다",
+      "TW": "注意！直升機正攻擊上方的平台"
+    }
+  },
+  "当心！直升机要往下面攻击了": {
+    "translation": "当心！直升机要往下面攻击了",
+    "MultiLang": {
+      "US": "Careful! The helicopter is targeting the lower level!",
+      "JP": "気をつけろ！ヘリコプターが下へ攻撃を仕掛ける！",
+      "CN": "当心！直升机要往下面攻击了",
+      "KR": "경고！ 헬기가 아래쪽을 공격합니다",
+      "TW": "注意！直升機正攻擊下方的區域"
+    }
+  },
+  "我出现幻觉了吗...身后的火焰竟然正在消散？": {
+    "translation": "我出现幻觉了吗...身后的火焰竟然正在消散？",
+    "MultiLang": {
+      "US": "Am I seeing things...? The flames behind me are actually dissipating?",
+      "JP": "私の幻覚かしら…背中の炎が消えかけているの？",
+      "CN": "我出现幻觉了吗...身后的火焰竟然正在消散？",
+      "KR": "내가 환각을 본 걸까… 뒤의 화염이 사라지는 이유는?",
+      "TW": "我出現幻覺了嗎……身後的火焰竟然正在消散？"
+    }
+  },
+  "我有一个点子...": {
+    "translation": "我有一个点子...",
+    "MultiLang": {
+      "US": "I have an idea...",
+      "JP": "思いついた…！",
+      "CN": "我有一个点子...",
+      "KR": "내가 한 가지 방법을 생각해냈어...",
+      "TW": "我有個點子……"
+    }
+  },
+  "报告，有不知名生物在攻击我们...": {
+    "translation": "报告，有不知名生物在攻击我们...",
+    "MultiLang": {
+      "US": "Report! Unknown creatures are attacking us...",
+      "JP": "報告です。正体不明の生物が我々を攻撃しています…",
+      "CN": "报告，有不知名生物在攻击我们...",
+      "KR": "보고합니다, 미확인 생물이 우리를 공격합니다...",
+      "TW": "報告，有不明生物正在攻擊我們……"
+    }
+  },
+  "是Federation小队...我们得救了吗？": {
+    "translation": "是Federation小队...我们得救了吗？",
+    "MultiLang": {
+      "US": "It's the Federation squad... Are we rescued?",
+      "JP": "フェデレーション隊だ…助かったのでしょうか？",
+      "CN": "是Federation小队...我们得救了吗？",
+      "KR": "연맹 대대군요... 저희가 구조된 걸까요?",
+      "TW": "是聯邦小隊……我們得救了嗎？"
+    }
+  },
+  "等会？...他妈的，左边办公室里好像有什么动静...": {
+    "translation": "等会？...他妈的，左边办公室里好像有什么动静...",
+    "MultiLang": {
+      "US": "Wait... Fuck, there seems to be some movement in the office on the left...",
+      "JP": "待てよ？…くそ、左側のオフィスから何か音がする…",
+      "CN": "等会？...他妈的，左边办公室里好像有什么动静...",
+      "KR": "잠깐, ...젠장, 왼쪽 사무실에서 무언가 소리가 나는 것 같아...",
+      "TW": "等一下？……他媽的，左邊辦公室裡好像有什麼動靜……"
+    }
+  },
+  "给我们的工兵一点时间修好这个大家伙...": {
+    "translation": "给我们的工兵一点时间修好这个大家伙...",
+    "MultiLang": {
+      "US": "Give our engineers a moment to fix this monster...",
+      "JP": "このデカい奴を修理するのにもう少し時間が必要だ。工兵たちが頑張ってるから待っててくれ…",
+      "CN": "给我们的工兵一点时间修好这个大家伙...",
+      "KR": "우리 공병들이 이 큰 녀석을 수리할 시간을 줍시다...",
+      "TW": "給我們的工兵一點時間修好這個大家伙..."
+    }
+  },
+  "给炸药一点时间预热": {
+    "translation": "给炸药一点时间预热",
+    "MultiLang": {
+      "US": "Give the explosives some time to warm up.",
+      "JP": "炸药の準備に時間をかせいで",
+      "CN": "给炸药一点时间预热",
+      "KR": "폭약에 예열 시간을 주세요",
+      "TW": "讓炸藥預熱一會兒"
+    }
+  },
+  "让终章奏响...": {
+    "translation": "让终章奏响...",
+    "MultiLang": {
+      "US": "Let the final act begin...",
+      "JP": "そして幕を閉じろ…",
+      "CN": "让终章奏响...",
+      "KR": "종막이 울려 퍼지게 하세요...",
+      "TW": "奏響終章..."
+    }
+  },
+  "这个平台上有一把固定机枪，他看上去似乎还能运转": {
+    "translation": "这个平台上有一把固定机枪，他看上去似乎还能运转",
+    "MultiLang": {
+      "US": "There is a fixed machine gun on this platform. It looks like it still functions.",
+      "JP": "このプラットフォームには固定機銃がある。まだ稼働しているようだ。",
+      "CN": "这个平台上有一把固定机枪，他看上去似乎还能运转",
+      "KR": "이 플랫폼에는 고정 기관총이 있습니다.看上去似乎还能运转看起来好像还能 작동하는 것 같네요",
+      "TW": "這個平台上有一把固定機槍，看起來似乎還能夠運作"
+    }
+  },
+  "这个电梯似乎坏了...不过我们可以撬开这个下水道口，这能让我们上到办公区": {
+    "translation": "这个电梯似乎坏了...不过我们可以撬开这个下水道口，这能让我们上到办公区",
+    "MultiLang": {
+      "US": "This elevator seems to be out of order... However, we can pry open this drain. It will allow us access to the office area.",
+      "JP": "エレベータは壊れてるようだが…下水の蓋こじ開ければ事務所に行ける。",
+      "CN": "这个电梯似乎坏了...不过我们可以撬开这个下水道口，这能让我们上到办公区",
+      "KR": "엘리베이터가 고장 난 것 같습니다... 하지만 하수구 뚜껑을 강제로 열면 업무 구역으로 올라갈 수 있습니다",
+      "TW": "這臺電梯似乎壞了……不過我們可以撬開這個下水道口，這樣就能到達辦公區"
+    }
+  },
+  "这是什么...一张钥匙卡？先留着吧，它可能会有用": {
+    "translation": "这是什么...一张钥匙卡？先留着吧，它可能会有用",
+    "MultiLang": {
+      "US": "What's this... A keycard? Let's hold onto it. It might come in handy.",
+      "JP": "これは何だ…？キーカードか。持ってけ、もしかしたら役に立つ",
+      "CN": "这是什么...一张钥匙卡？先留着吧，它可能会有用",
+      "KR": "이건 뭐지... 키카드? 일단 가지고 갑시다. 도움이 될지도 몰라요",
+      "TW": "這是什麼……一張鑰匙卡？先收著吧，也許以後用得著"
+    }
+  },
+  "遵命...": {
+    "translation": "遵命...",
+    "MultiLang": {
+      "US": "Understood...",
+      "JP": "了解です…",
+      "CN": "遵命...",
+      "KR": "네...",
+      "TW": "遵命……"
+    }
+  },
+  "遵命，长官！": {
+    "translation": "遵命，长官！",
+    "MultiLang": {
+      "US": "Aye aye, sir!",
+      "JP": "お任せください！",
+      "CN": "遵命，长官！",
+      "KR": "명심하겠습니다, 사령관!",
+      "TW": "遵命，長官！"
+    }
+  },
+  "长官，我们在": {
+    "translation": "长官，我们在",
+    "MultiLang": {
+      "US": "Sir, we are at",
+      "JP": "上官、こちらは",
+      "CN": "长官，我们在",
+      "KR": "장관님, 우리가 있습니다",
+      "TW": "報告長官，我們正在"
+    }
+  },
+  "长官，我们得到了设施停机坪的权限卡，据监控显示，那里有一架直升机": {
+    "translation": "长官，我们得到了设施停机坪的权限卡，据监控显示，那里有一架直升机",
+    "MultiLang": {
+      "US": "Sir, we've obtained the keycard for the facility's helipad. Surveillance shows there's a helicopter there.",
+      "JP": "上官、施設のヘリポートの権限カードを入手しました。監視映像によると、あそこにヘリコプターがあります。",
+      "CN": "长官，我们得到了设施停机坪的权限卡，据监控显示，那里有一架直升机",
+      "KR": "장관님, 우리는 시설 헬리콥터 터미널의 권한카드를 받았습니다. 모니터링에 따르면, 그 곳에 헬리콥터가 있습니다.",
+      "TW": "報告長官，我們拿到了設施頂樓停車場的權限卡，監視器顯示那裡有一架直升機"
+    }
+  },
+  "麻利点，小伙子们，直升机马上起飞了!": {
+    "translation": "麻利点，小伙子们，直升机马上起飞了!",
+    "MultiLang": {
+      "US": "Hurry up, guys! The helicopter is about to take off!",
+      "JP": "素早く行け、男たちよ。ヘリコプターがすぐに離陸する！",
+      "CN": "麻利点，小伙子们，直升机马上起飞了!",
+      "KR": "빠르게, 소년들, 헬리콥터가 곧 이륙합니다!",
+      "TW": "動作快點，夥計們，直升機即將起飛！"
+    }
+  },
+  "找到灭火器了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Found the fire extinguisher.",
+      "JP": "消火器を見つけた",
+      "CN": "",
+      "KR": "소화기 찾았어요.",
+      "TW": "找到滅火器了"
+    }
+  },
+  "应急保险柜里有我们需要的工具，能帮我们从下水道上去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The emergency safe has the tools we need to get up through the sewers.",
+      "JP": "非常用ロッカーの中には、下水道から上がるための道具が入っている",
+      "CN": "应急保险柜里有我们需要的工具，能帮我们从下水道上去来解决这个问题。",
+      "KR": "긴급 금고에 우리가 필요한 도구가 있습니다. 하수구를 통해 올라갈 수 있게 도와주죠.",
+      "TW": "應急保險櫃裡有我們要用的工具，能幫我們從下水道上去"
+    }
+  }
+}

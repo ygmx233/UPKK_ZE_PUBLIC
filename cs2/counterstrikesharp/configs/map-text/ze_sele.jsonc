@@ -1,0 +1,42 @@
+{
+  "<<Failed>>": {
+    "translation": "<<失败>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<失敗>>",
+      "CN": "<<失败>>",
+      "KR": "<<실패>>",
+      "TW": "<<失敗>>"
+    }
+  },
+  "<<Map by Maqu>>": {
+    "translation": "<<地图作者：Maqu>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<マップ作成：Maqu>>",
+      "CN": "<<由Maqu制作>>",
+      "KR": "<<Maqu가 제작한 맵>>",
+      "TW": "<<Map by Maqu>>"
+    }
+  },
+  "<<Special thanks to Koen>>": {
+    "translation": "<<特别感谢：Koen>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<特別協力：Koen>>",
+      "CN": "<<特别感谢Koen>>",
+      "KR": "<<Koen에게 특별한 감사>>",
+      "TW": "<<特別感謝 Koen>>"
+    }
+  },
+  "<<ze_sele>>": {
+    "translation": "<<ze_sele 梦中的灵堂>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ze_sele>>",
+      "CN": "<<ze_sele>>",
+      "KR": "<<ze_sele>>",
+      "TW": "<</zesele>>"
+    }
+  }
+}

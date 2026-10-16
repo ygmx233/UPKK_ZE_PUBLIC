@@ -1,0 +1,632 @@
+{
+  ">>Map by Baenkychu<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>作成：Baenkychu<<",
+      "CN": ">>地图制作：Baenkychu<<",
+      "KR": ">Baenkychu님이 제작한 맵<",
+      "TW": ">>Baenkychu的地圖<<"
+    }
+  },
+  "**DOORS OPENING IN 15 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒後に扉が開きます **",
+      "CN": "**大门将在15秒后开启**",
+      "KR": "**문 열림까지 15초 남음**",
+      "TW": "**門將在15秒後打開**"
+    }
+  },
+  "**A mysterious voice has lead you to Bunny Kingdom..**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 謎の声があなたをバニ KINGDOMへ導いた… **",
+      "CN": "**神秘的声音引导你来到了兔子王国……**",
+      "KR": "**신비로운 목소리가 당신을 토끼 왕국으로 이끌었습니다.**",
+      "TW": "**一個神秘的聲音引導你來到了兔子王國..**"
+    }
+  },
+  "Bunny: Save us from our suppressor Blue Bunny, she is corrupting all of Bunny Kingdom.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラビット：抑圧者のブルーバニから私たちを救ってください。彼女はバニ KINGDOMを腐敗させています。",
+      "CN": "兔子：请从蓝兔的压制中救出我们，她正在腐蚀整个兔子王国。",
+      "KR": "토끼: 억압자인 블루 토끼에게서 우리를 구해주세요. 그가 토끼 왕국을 더럽히고 있습니다.",
+      "TW": "兔子：救我們脫離壓迫者藍兔的魔爪，她正在腐蝕整個兔子王國。"
+    }
+  },
+  "You: Who are you?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなた：あなたは誰？",
+      "CN": "你：你是谁？",
+      "KR": "당신: 너는 누구니?",
+      "TW": "你：你是誰？"
+    }
+  },
+  "Bunny: Just an innocent little bunny…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラビット：ただの無邪気な小さなウサギ…",
+      "CN": "兔子：只是一个无辜的小兔子……",
+      "KR": "토끼: 오직 순진한 작은 토끼일 뿐…",
+      "TW": "兔子：只是一個無辜的小兔子……"
+    }
+  },
+  "You: Oh let’s be Friends then!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなた：じゃあ友達になりましょう！",
+      "CN": "你：那我们就做朋友吧！",
+      "KR": "당신: 그럼 친구가 되자!",
+      "TW": "你：那麼讓我們成為朋友吧！"
+    }
+  },
+  "**DOORS OPENING IN 30 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒後に扉が開きます **",
+      "CN": "**大门将在30秒后开启**",
+      "KR": "**문 열림까지 30초 남음**",
+      "TW": "**門將在30秒後打開**"
+    }
+  },
+  "You: Why are there cubes trapped in blue cubes?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "君：なぜ青い箱の中に立方体が閉じ込められているの？",
+      "CN": "你：为什么会有方块被困在蓝色方块里？",
+      "KR": "너: 왜 파란 블록 안에 다른 블록이 갇혀 있는 거지?",
+      "TW": "你：為什麼藍色的方塊裡關著其他方塊？"
+    }
+  },
+  "Bunny: That’s b-because um Blue Bunny is holding us captive…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウサギ：そ、それはね…うーん、ブルーバニーが私達を捕らえているから…",
+      "CN": "兔子：那、那是因为蓝兔子把我们囚禁了……",
+      "KR": "토끼: 그건… 음, 블루 토끼가 우리를 감금하고 있어서 그래…",
+      "TW": "兔子：那、那是因為……藍色的兔子在把我們當人質……"
+    }
+  },
+  "You: Why does it sound like your nervous…?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "君：なんだか緊張しているように聞こえるけど…？",
+      "CN": "你：为什么听起来你这么紧张？",
+      "KR": "너: 너 목소리가 떨리는 것 같은데…?",
+      "TW": "你：你的聲音聽起來怎麼這麼緊張？"
+    }
+  },
+  "Bunny: It’s cause I never seen a human before…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウサギ：だって初めて人間を見たから…",
+      "CN": "兔子：因为这是我第一次见到人类……",
+      "KR": "토끼: 내가 인간을 본 적이 없어서 그런 거야…",
+      "TW": "兔子：因為我以前從沒看過人類……"
+    }
+  },
+  "**ELEVATOR LEAVING IN 15 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**エレベーター 15秒後に出発します**",
+      "CN": "**电梯将在15秒后关闭**",
+      "KR": "**엘리베이터 15초 후 출발**",
+      "TW": "**電梯將在 15 秒後離站**"
+    }
+  },
+  "**DOORS OPENING IN 35 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドア opening 35秒後になります**",
+      "CN": "**大门将在35秒后开启**",
+      "KR": "**문 35초 후 열림**",
+      "TW": "**門将在 35 秒後開啟**"
+    }
+  },
+  "**DOOR OPENING IN 15 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドア opening 15秒後になります**",
+      "CN": "**门将在15秒后开启**",
+      "KR": "**문 15초 후 열림**",
+      "TW": "**門将在 15 秒後開啟**"
+    }
+  },
+  "You: What is the blue, and red on the floor?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "君：床にある青いものと赤いものは何？",
+      "CN": "你：地板上蓝色的和红色的东西是什么？",
+      "KR": "너: 바닥의 파란색과 빨간색은 뭐야?",
+      "TW": "你：地板上的藍色和紅色是什麼？"
+    }
+  },
+  "Bunny: Nothing much it’s just my corrupt- I mean paint": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バニー：別に何でもないの。ただ私の……あ、塗料よ！",
+      "CN": "兔子：没啥事，就是我的腐败——我是说油漆",
+      "KR": "너무한 일도 없고, 그냥 내... 음, 그림이야",
+      "TW": "兔寶寶：沒什麼，只是我的汙……不對，是顏料而已"
+    }
+  },
+  "**DOOR OPENING IN 25 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドアが開くまで残り25秒**",
+      "CN": "**门将在 25 秒后打开**",
+      "KR": "**문이 25초 후에 열립니다**",
+      "TW": "**門將在 25 秒後開啟**"
+    }
+  },
+  "**DOOR OPENING IN 20 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドアが開くまで残り20秒**",
+      "CN": "**门将在 20 秒后打开**",
+      "KR": "**문이 20초 후에 열립니다**",
+      "TW": "**門將在 20 秒後開啟**"
+    }
+  },
+  "**DOORS OPENING IN 10 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドアが開くまで残り10秒**",
+      "CN": "**门将在 10 秒后打开**",
+      "KR": "**문이 10초 후에 열립니다**",
+      "TW": "**門將在 10 秒後開啟**"
+    }
+  },
+  "Bunny: Pay attention we are getting closer to Blue Bunny’s lair": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バニー：注視して！ブルー・バニーの巣穴に近づいてきているわ",
+      "CN": "兔子：注意，我们离蓝兔子巢穴越来越近了",
+      "KR": "토끼: 주의하세요. 우리 파란 토끼의 둥지에 가까워지고 있습니다",
+      "TW": "兔寶寶：專心點，我們離藍兔寶巢穴越來越近了"
+    }
+  },
+  "**DOORS CLOSING IN 15 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドアが閉じるまで残り15秒**",
+      "CN": "**门将在 15 秒后关闭**",
+      "KR": "**문이 15초 후에 닫힙니다**",
+      "TW": "**門將在 15 秒後關閉**"
+    }
+  },
+  "**TELEPORTER ENABLED IN 5 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**テレポートデバイス有効化まで残り5秒**",
+      "CN": "**传送器将在 5 秒后启动**",
+      "KR": "**텔레포터가 5초 후에 활성화됩니다**",
+      "TW": "**傳送器將在 5 秒後啟用**"
+    }
+  },
+  "Blue Bunny has AWAKENED": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブルー・バニーが目覚めた",
+      "CN": "蓝兔子已觉醒",
+      "KR": "파란 토끼가 각성했습니다",
+      "TW": "藍兔寶已覺醒"
+    }
+  },
+  "Blue Bunny: I have been protecting Bunny Kingdom for centuries… WHAT HAVE YOU HUMANS DONE!?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "青いウサギ：私は何世紀にもわたってウサギの王国を守ってきた…お前たち人間は何をした！？",
+      "CN": "蓝兔子：我已经守护兔子王国数百年了……你们这些人类到底干了什么！？",
+      "KR": "푸른 토끼: 나는 수세기 동안 토끼 왕국을 보호해 왔습니다… 당신들 인간들은 무엇을 한 거죠!?",
+      "TW": "藍兔國女王：我守護兔子王國已數百年……你們這些人類做了什麼？！"
+    }
+  },
+  "You: What was all of that about?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなた：一体あの何だったの？",
+      "CN": "你：那究竟是怎么回事？",
+      "KR": "당신: 대체 그게 무슨 의미였나요?",
+      "TW": "玩家：這到底是怎麼回事？"
+    }
+  },
+  "Bunny: I don’t know..": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウサギ：わからない…",
+      "CN": "兔子：我不知道……",
+      "KR": "토끼: 저도 잘 모르겠어요…",
+      "TW": "兔子：我不知道……"
+    }
+  },
+  "**DOOR CLOSING IN 15 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**15秒後にドア閉鎖**",
+      "CN": "**距离门关闭还有15秒**",
+      "KR": "**문이 15초 내에 닫힙니다**",
+      "TW": "**門將在 15 秒後關閉**"
+    }
+  },
+  "Bunny: I’m sorry…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウサギ：ごめんね…",
+      "CN": "兔子：对不起……",
+      "KR": "토끼: 죄송합니다…",
+      "TW": "兔子：對不起……"
+    }
+  },
+  "You: Why?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなた：なぜ？",
+      "CN": "你：为什么？",
+      "KR": "당신: 왜요?",
+      "TW": "玩家：為什麼？"
+    }
+  },
+  "Bunny: You’ll see…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウサギ：そのうちわかる…",
+      "CN": "兔子：你会明白的……",
+      "KR": "토끼: 곧 아시게 될 거예요…",
+      "TW": "兔子：你很快就會知道了……"
+    }
+  },
+  "Ominous Voice: Foolish HUMANS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "不気味な声：愚か者たち、人間のくせに",
+      "CN": "不祥之声：愚蠢的人类",
+      "KR": "불길한 목소리: 바보 같은 인간들",
+      "TW": "詭異聲音：愚蠢的人類"
+    }
+  },
+  "Ominous Voice: Thank you for your assistance Trickster Bunny, your work is done here": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "厄災の声: 悪戯兎、協力ありがとう。あなたの仕事はここで終了だ",
+      "CN": "诡异的声音：感谢你的帮助，恶作剧之兔，你的任务已完成了。",
+      "KR": "검은 목소리: 도와주어 고맙다, 속임수 토끼야. 너의 임무는 끝났다.",
+      "TW": "詭譎的聲音：多謝你的協助，狡兔小子，任務到此為止。"
+    }
+  },
+  "Bunny: The truth is Blue Bunny was protecting us from Evil Bunny… But now that she’s gone Evil Bunny has been freed and will bring ruin to Bunny Kingdom": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トリックスター・バニー: 真実を言いますと、青兎が悪兎から私たちを守っていたんです… でも今は、青兔が死んでしまい、悪兎が解き放たれてしまいました。今すぐバニー王国を滅ぼそうとしています…",
+      "CN": "兔子：真相是，蓝兔一直在保护我们免受邪恶之兔的伤害……但既然她已离去，邪恶之兔重获自由，必将给兔子王国带来毁灭。",
+      "KR": "토끼: 진상은 블루 토끼가 우리를 악한 토끼로부터 보호해 주고 있다는 거예요. 그런데 이제 그녀가 떠났기에 악한 토끼가 해방되어 bunny Kingdom에 파멸을 가져올 것입니다.",
+      "TW": "兔子：事實真相是，藍兔一直在保護我們免受邪惡黑兔的侵害……但現在她已離去，邪惡黑兔重獲自由，即將把兔子王國毀於一旦。"
+    }
+  },
+  "**I SENSE A ZOMBIE**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ゾンビの気配を感じる**",
+      "CN": "**我闻到了僵尸的味道**",
+      "KR": "** 좀비가 감지됨 **",
+      "TW": "**我察覺到有殭屍**"
+    }
+  },
+  "You: HOW COULD YOU TRICK ME?! We were Friends…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "キミ: なぜ私を騙したの?! 私たちは友達だったのに…",
+      "CN": "你：你怎么能欺骗我？！我们是朋友……",
+      "KR": "나: 어떻게 나를 속일 수 있었어?! 우리는 친구였잖아…",
+      "TW": "你：你怎麼能欺騙我？！我們曾是朋友啊……"
+    }
+  },
+  "Bunny: I’m sorry I had to, he had my family…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トリックスター・バニー: ごめん、仕方なかったの、悪兎が私の家族を人質に取っていたから…",
+      "CN": "兔子：很抱歉，我别无选择，他扣押了我的家人……",
+      "KR": "토끼: 미안해. 그래야 했어, 그는 내 가족을 납치했거든…",
+      "TW": "兔子：對不起，我是不得不這樣做，因為他綁架了我的家人……"
+    }
+  },
+  "You: YOU DIDN’T HAVE TO DO ANYTHING": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "キミ: 何かする必要はなかったのに",
+      "CN": "你：你本不必这样做的。",
+      "KR": "나: 너는 아무것도 할 필요가 없었어.",
+      "TW": "你：你又何必如此呢？"
+    }
+  },
+  "Bunny: You are my first Friend..": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トリックスター・バニー: あなたは私の最初の友達…",
+      "CN": "兔子：你是我第一个朋友……",
+      "KR": "토끼: 너는 나의 첫 친구야…",
+      "TW": "兔子：你是我的第一位朋友……"
+    }
+  },
+  "You: Not anymore.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "キミ: もう、そういうわけにはいかない",
+      "CN": "你：不再是了。",
+      "KR": "나: 이제부터는 그렇지 않아.",
+      "TW": "你：現在不再是了。"
+    }
+  },
+  "**GATE CLOSING IN 15 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ゲート閉鎖まで15秒**",
+      "CN": "**入口将在15秒后关闭**",
+      "KR": "게이트 종료까지 15초",
+      "TW": "**門将在 15 秒後關閉**"
+    }
+  },
+  "You: It’s time to make things right…": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなた：今こそ、間違いを正す時だ…",
+      "CN": "你：是时候纠正这一切了……",
+      "KR": "You: 이제 진상을 밝혀야 해…",
+      "TW": "你：是時候做些補償了……"
+    }
+  },
+  "Ominous Voice has been revealed as Evil Bunny": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "不吉な声」は『悪魔うさぎ』であることが判明",
+      "CN": "神秘声音确认为邪恶兔子",
+      "KR": "불길한 목소이는 악의 토끼로 확인됨",
+      "TW": "詭異聲音已被揭曉，原來是邪惡兔子"
+    }
+  },
+  "**EVIL BUNNY HAS RISEN**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**悪魔うさぎが台頭した**",
+      "CN": "**邪恶兔子已觉醒**",
+      "KR": "**악의 토끼가 부활하다**",
+      "TW": "**邪惡兔子覺醒**"
+    }
+  },
+  "Evil Bunny: You foolish HUMANS I’m UNSTOPPABLE": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "悪魔うさぎ：おとがいな『人間ども』、私は止まらない！",
+      "CN": "邪恶兔子：愚蠢的人族们，我势不可挡",
+      "KR": "악의 토끼: 바보 같은 HUMAN들, 나는 멈출 수 없어!",
+      "TW": "邪惡兔子：你們這群愚蠢的人類，我勢不可擋"
+    }
+  },
+  "Evil Bunny: Welcome to the ruins of a past kingdom": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "悪魔うさぎ：過去の王国の廃墟へようこそ",
+      "CN": "邪恶兔子：欢迎来到昔日王国的废墟",
+      "KR": "악의 토끼: 옛 왕국의 폐허에 오신 것을 환영합니다",
+      "TW": "邪惡兔子：歡迎來到昔日王國的廢墟"
+    }
+  },
+  "**BUNNY ANGER HAS STOPPED**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**うさぎの怒りが収まった**",
+      "CN": "**兔子的愤怒已平息**",
+      "KR": "**토끼의 분노가 멈추다**",
+      "TW": "**兔子的怒火已平息**"
+    }
+  },
+  "Evil Bunny: IF IM GOING DOWN YOU ARE ALL GOING DOWN WITH ME": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "悪魔うさぎ：私が沈むなら、お前たちも一緒に沈んでみろ！",
+      "CN": "邪恶兔子：若我陨落，尔等陪葬！",
+      "KR": "악의 토끼: 내가 무너지면 너희도 다 같이 간다!",
+      "TW": "邪惡兔子：如果我倒下，你們全都要跟我陪葬"
+    }
+  },
+  "**Now that both supreme bunnies have been slain, the entirety of bunny world has been destabilized**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "両者の最高位のウサギが倒された今、ウサギの世界のすべてが不安定になっている",
+      "CN": "随着两只至尊 bunny 的陨落，整个 bunny 世界陷入了动荡",
+      "KR": "최고의 토끼 두 마리가 모두 쓰러졌으니, 토끼 세계 전체가 불안정해졌다",
+      "TW": "**既然兩位至高 bunny 均已陣亡，整個兔族世界已陷入動盪**"
+    }
+  },
+  "**ESCAPE PORTAL OPENING IN 60 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出ポータル、60秒後に開く",
+      "CN": "逃生传送门将在 60 秒后开启",
+      "KR": "도피 포털 60초 후 오픈",
+      "TW": "**逃生門將於 60 秒後開啟**"
+    }
+  },
+  "Bunny: I ACTIVATED ALL THE PORTALS FOR YOU, NOW IS YOUR TIME TO ESCAPE!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウサギ：すべてのポータルを起動したから、今逃げるんだ！！",
+      "CN": "bunny：我已经为你激活了所有传送门，现在是你逃离的时候了！",
+      "KR": "토끼: 내가 모든 포털을 활성화했어, 이제 도망칠 때야!!",
+      "TW": "Bunny：我已經為你啟動了所有傳送門，現在是你逃離的時機了！！"
+    }
+  },
+  "**DESTROYING PILLAR IN 20 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に支柱を破壊",
+      "CN": "摧毁支柱将在 20 秒后开始",
+      "KR": "기둥 파괴 20초 후 완료",
+      "TW": "**摧毀柱石剩餘 20 秒**"
+    }
+  },
+  "**ESCAPE PORTAL OPENING IN 30 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出ポータル、30秒後に開く",
+      "CN": "逃生传送门将在 30 秒后开启",
+      "KR": "도피 포털 30초 후 오픈",
+      "TW": "**逃生門將於 30 秒後開啟**"
+    }
+  },
+  "**ESCAPE DOOR OPENING IN 65 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出口、65秒後に開く",
+      "CN": "逃生大门将在 65 秒后开启",
+      "KR": "도피 문 65초 후 오픈",
+      "TW": "**逃生門將於 65 秒後開啟**"
+    }
+  },
+  "**DOOR CLOSING IN 10 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に扉が閉まる",
+      "CN": "门将在 10 秒后关闭",
+      "KR": "문 닫힘 10초 후 완료",
+      "TW": "**關閉門鎖剩餘 10 秒**"
+    }
+  },
+  "You: WAIT WHERES Bunny": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなた：待てウサギはどこだ？",
+      "CN": "你：等等，bunny 去哪儿了",
+      "KR": "나: 기다려, 토끼는 어디에?",
+      "TW": "You：等等，Bunny 去哪了"
+    }
+  },
+  "**Bunny didn't make it, he sacrificed himself to open the portals**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**バニーは生き延びられなかった、彼はポータルを開くために自らの身を捧げた**",
+      "CN": "**邦尼没能幸存，他牺牲自己打开了传送门**",
+      "KR": "**버니는 살아남지 못했고, 그는 포털을 열기 위해 자신을 바쳤습니다**",
+      "TW": "兔子未能倖存，他犧牲自己開啟了傳送門"
+    }
+  },
+  "**You ask yourself a question, why was I sent to Bunny Kingdom..?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**なぜ私がバニー王国へ送られたのか、問いかける**",
+      "CN": "**你问自己一个问题：为什么我被派往兔子王国……？**",
+      "KR": "**나는 왜 버니 킹덤에 보내졌을까…?**",
+      "TW": "你心中不禁自問：我為何被送往兔子王國？…"
+    }
+  },
+  "**Was it just to cause senseless violence..?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**それはただの意味ない暴力を引き起こすためだったのか…？**",
+      "CN": "**难道只是为了引发毫无意义的暴力吗……？**",
+      "KR": "**그것은 단순한 무의미한 폭력을 초래하기 위한 것이었을까…?**",
+      "TW": "難道僅僅是為了引發無意義的暴力嗎…？"
+    }
+  },
+  "**EVIL BUNNY: MAP BY BAENKYCHU**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**EVIL BUNNY: MAP BY BAENKYCHU**",
+      "CN": "邪恶兔子：地图由BAENKYCHU制作**",
+      "KR": "**악마의 토끼: 맵 제작 BAENKYCHU**",
+      "TW": "邪惡兔子：地圖由 BAENKYCHU 製作"
+    }
+  },
+  "**EVIL BUNNY HAS BEEN REVEALED AS DEMON BUNNY**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**EVIL BUNNY HAS BEEN REVEALED AS DEMON BUNNY**",
+      "CN": "**邪恶兔子已被揭露为恶魔兔子**",
+      "KR": "**악마의 토끼가 악마 버니로 밝혀졌습니다**",
+      "TW": "邪惡兔子已被揭露為「魔兔」"
+    }
+  },
+  "DEMON BUNNY: RAWRRRRRRRRRR": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "DEMON BUNNY: RAWRRRRRRRRRR",
+      "CN": "恶魔兔子：吼吼吼吼吼吼吼",
+      "KR": "악마 토끼: RAWRRRRRRRRRR",
+      "TW": "魔兔：吼吼吼吼吼吼吼吼吼"
+    }
+  },
+  "**ELEVATOR ENABLED IN 15 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ELEVATOR ENABLED IN 15 SECONDS**",
+      "CN": "**电梯将在15秒后启用**",
+      "KR": "**엘리베이터 15초 후 활성화**",
+      "TW": "**電梯於 15 秒後啟用**"
+    }
+  }
+}

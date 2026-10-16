@@ -1,26 +1,82 @@
 {
   "===defend until big mac ready===": {
-    "translation": "=== 防守直到巨无霸准备好 ==="
+    "translation": "=== 防守直到巨无霸准备好 ===",
+    "MultiLang": {
+      "US": "",
+      "JP": "ビッグマックができるまで守れ",
+      "CN": "防御直到巨无霸准备好",
+      "KR": "빅맥 준비될 때까지 방어해",
+      "TW": "防守直到大麥克就緒"
+    }
   },
   "===get the cash on table===": {
-    "translation": "=== 拿到桌上的现金 ==="
+    "translation": "=== 拿到桌上的现金 ===",
+    "MultiLang": {
+      "US": "",
+      "JP": "テーブルの現金を持て",
+      "CN": "拿桌上的现金",
+      "KR": "표에 있는 현금을 가져와",
+      "TW": "把桌上的錢拿走"
+    }
   },
   "===hold here while guy gets pay check====": {
-    "translation": "=== 在这里防守，等那家伙拿到工资 ==="
+    "translation": "=== 在这里防守，等那家伙拿到工资 ===",
+    "MultiLang": {
+      "US": "",
+      "JP": "従業員が給与を受け取るまでここで待機",
+      "CN": "guy 拿到支票时守住这里",
+      "KR": "guy가 수표를 받는 동안 여기에서 버텨라",
+      "TW": "那人領薪水時守住這裡"
+    }
   },
   "===ok big mac ready grab it===": {
-    "translation": "=== 好的，巨无霸准备好了，抓住它 ==="
+    "translation": "=== 好的，巨无霸准备好了，抓住它 ===",
+    "MultiLang": {
+      "US": "",
+      "JP": "ビッグマック完成、受け取れ",
+      "CN": "巨无霸好了，拿走吧",
+      "KR": "좋아, 빅맥 준비됐어 가져가",
+      "TW": "大麥克好了，去拿吧"
+    }
   },
   "===ok guy got cash===": {
-    "translation": "=== 好的，那家伙拿到现金了 ==="
+    "translation": "=== 好的，那家伙拿到现金了 ===",
+    "MultiLang": {
+      "US": "",
+      "JP": "従業員が現金を受け取った",
+      "CN": "guy 拿到现金了",
+      "KR": "guy가 현금을 챙겼어",
+      "TW": "那人拿到錢了"
+    }
   },
   "===we got cash  jump on table===": {
-    "translation": "=== 我们拿到现金，跳上桌子 ==="
+    "translation": "=== 我们拿到现金，跳上桌子 ===",
+    "MultiLang": {
+      "US": "",
+      "JP": "現金あり、テーブルに乗れ",
+      "CN": "有现金，跳上桌子",
+      "KR": "현금 확보됐어. 테이블로 뛰어오라",
+      "TW": "我們拿到钱了，跳到桌上！"
+    }
   },
   "===we got food we win===": {
-    "translation": "=== 我们拿到食物，我们赢了 ==="
+    "translation": "=== 我们拿到食物，我们赢了 ===",
+    "MultiLang": {
+      "US": "===We get food we win===",
+      "JP": "食料入手、勝利確定",
+      "CN": "拿到食物我们就赢了",
+      "KR": "음식 확보, 승리다",
+      "TW": "我們有食物，我們贏了"
+    }
   },
   "===ze paycheck===": {
-    "translation": "=== ze paycheck ==="
+    "translation": "=== ze paycheck ===",
+    "MultiLang": {
+      "US": "===zero payday===",
+      "JP": "現金の受け取り",
+      "CN": "支票",
+      "KR": "수표야",
+      "TW": "領薪水的人"
+    }
   }
 }

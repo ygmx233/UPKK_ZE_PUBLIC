@@ -1,0 +1,152 @@
+{
+  "Map by Gargantua": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Gargantua 作成のマップ",
+      "CN": "地图制作：Gargantua",
+      "KR": "Gargantua 님의 지도",
+      "TW": "地圖製作：Gargantua"
+    }
+  },
+  "Rotate by Shino/Exia": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Shino/Exia によるリグレート",
+      "CN": "旋转效果由Shino/Exia提供",
+      "KR": "Shino/Exia 님의 회전",
+      "TW": "旋轉機製作者：Shino/Exia"
+    }
+  },
+  "Port by Charlie": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Charlie 作成のポート",
+      "CN": "港口制作：Charlie",
+      "KR": "Charlie 님의 포트",
+      "TW": "港口製作：Charlie"
+    }
+  },
+  "SUPER SECRET COMPLETELY USELESS ULTIMA HAS BEEN PICKED UP": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "SUPER SECRET COMPLETELY USELESS ULTIMA が取得されました",
+      "CN": "超级绝对完全无用的终极道具已被拾取",
+      "KR": "SUPER SECRET COMPLETELY USELESS ULTIMA를 획득했습니다",
+      "TW": "SUPER SECRET COMPLETELY USELESS ULTIMA 已被拾取"
+    }
+  },
+  "DOOR WILL OPEN IN 80 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "80秒後にドアが開きます。",
+      "CN": "门将在80秒后打开。",
+      "KR": "80초 후 문이 열립니다.",
+      "TW": "門將在 80 秒後開啟。"
+    }
+  },
+  "DOOR WILL OPEN IN 60 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒後にドアが開きます。",
+      "CN": "门将在60秒后打开。",
+      "KR": "60초 후 문이 열립니다.",
+      "TW": "門將在 60 秒後開啟。"
+    }
+  },
+  "DOOR WILL OPEN IN 30 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にドアが開きます。",
+      "CN": "门将在30秒后打开。",
+      "KR": "30초 후 문이 열립니다.",
+      "TW": "門將在 30 秒後開啟。"
+    }
+  },
+  "DOOR WILL OPEN IN 15 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後にドアが開きます。",
+      "CN": "门将在15秒后打开。",
+      "KR": "15초 후 문이 열립니다.",
+      "TW": "門將在 15 秒後開啟。"
+    }
+  },
+  "DOOR WILL OPEN IN 10 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は10秒後に開きます。",
+      "CN": "门将在10秒后打开。",
+      "KR": "문을 10초 후에 엽니다.",
+      "TW": "門将在 10 秒後開啟。"
+    }
+  },
+  "DOOR IS NOW OPEN!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開きました！",
+      "CN": "门已开启！",
+      "KR": "문이 지금 열렸습니다!!",
+      "TW": "門已開啟！"
+    }
+  },
+  "TRAIN IS LEAVING IN 30 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電車は30秒後に発車します。",
+      "CN": "列车将在30秒后离站。",
+      "KR": "열차가 30초 후에 출발합니다.",
+      "TW": "列車将在 30 秒後出發。"
+    }
+  },
+  "TRAIN IS LEAVING IN 15 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電車は15秒後に発車します。",
+      "CN": "列车将在15秒后离站。",
+      "KR": "열차가 15초 후에 출발합니다.",
+      "TW": "列車将在 15 秒後出發。"
+    }
+  },
+  "TRAIN IS LEAVING IN 5 SECONDS.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電車は5秒後に発車します。",
+      "CN": "列车将在5秒后离站。",
+      "KR": "열차가 5초 후에 출발합니다.",
+      "TW": "列車将在 5 秒後出發。"
+    }
+  },
+  "TRAIN IS LEAVING NOW!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電車が発車します！",
+      "CN": "列车已离站！",
+      "KR": "열차가 지금 출발합니다!!",
+      "TW": "列車即將出發！"
+    }
+  },
+  "INCOMING AIRSTRIKE!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "空襲来袭！",
+      "CN": "前方空袭！",
+      "KR": "근접航空타격!!!",
+      "TW": "空襲即将到達！"
+    }
+  }
+}

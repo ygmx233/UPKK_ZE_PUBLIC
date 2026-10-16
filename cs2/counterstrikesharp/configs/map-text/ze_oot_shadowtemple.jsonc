@@ -1,0 +1,342 @@
+{
+  ">>> Map by Moltard & Jllaneras <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "制作：モルタール＆Jllaneras",
+      "CN": ">>> 地图由 Moltard & Jllaneras 制作 <<<",
+      "KR": "맵 제작: Moltard & Jllaneras",
+      "TW": "由 Moltard 與 Jllaneras 製作的地圖 <<<"
+    }
+  },
+  ">>> Royal Tombstone breaks in 30 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "王家の墓石は30秒後に壊れます！",
+      "CN": ">>> 皇家墓碑将在 30 秒后碎裂！<<<",
+      "KR": ">>> 왕실 묘비석 30초 후 파괴! <<<",
+      "TW": ">>> 皇家墓碑即將在 30 秒後倒塌！<<<"
+    }
+  },
+  "<<< Heal has been picked up! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "回復アイテムを拾いました！",
+      "CN": "<<< 拾取了治疗药水！>>>",
+      "KR": "<<< 치유를 획득했습니다! >>>",
+      "TW": "<<< 已拾取回复道具！>>>"
+    }
+  },
+  "<<< 60 second cooldown! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールダウン残り60秒",
+      "CN": "<<< 冷却时间 60 秒！>>>",
+      "KR": "<<< 재사용 대기시간 60초! <<<",
+      "TW": "<<< 冷卻時間：60 秒！>>>"
+    }
+  },
+  ">>> Heal used! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "回復を使用！",
+      "CN": ">>> 使用治疗药水！<<<",
+      "KR": ">>> 치유 사용 완료! <<<",
+      "TW": ">>> 已使用回复道具！<<<"
+    }
+  },
+  ">>> Door opens in 45 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は45秒後に開きます",
+      "CN": ">>> 门将在 45 秒后开启！<<<",
+      "KR": ">>> 문이 45초 후에 열립니다! <<<",
+      "TW": ">>> 門將在 45 秒後開啟！<<<"
+    }
+  },
+  ">>> Teleporting back to Graveyard in 45 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "45秒後に墓地へテレポートします",
+      "CN": ">>> 45 秒后传送回墓地！<<<",
+      "KR": ">>> 45초 후 묘지로 텔레포트됩니다! <<<",
+      "TW": ">>> 45 秒後傳送回墓園！<<<"
+    }
+  },
+  "<<< Lens Of Truth has been picked up! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "真実のレンズを拾いました！",
+      "CN": "<<< 拾取了真视透镜！>>>",
+      "KR": "<<< 진실의 렌즈를 획득했습니다! >>>",
+      "TW": "<<< 已拾取真視之鏡！>>>"
+    }
+  },
+  "<<< 35 second cooldown! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールタイム35秒！",
+      "CN": "冷却时间：35秒！",
+      "KR": "CD 35초!",
+      "TW": "<<<冷卻時間剩35秒！>>>"
+    }
+  },
+  "<<< Lens Of Truth used! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "真実のレンズを使用しました！",
+      "CN": "真视之镜已使用！",
+      "KR": "참실의 렌즈를 사용했습니다.",
+      "TW": "<<<使用真理之鏡！>>>"
+    }
+  },
+  ">>> Zombies teleport in 30 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが30秒後にテレポートします！",
+      "CN": "丧尸将在30秒后传送出现！",
+      "KR": "좀비가 30초 후 텔레포트합니다!",
+      "TW": ">>>殭屍將于30秒後傳送過來！<<<"
+    }
+  },
+  ">>> Use Dins Fire else defend for 40 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ディンの火を使うか、40秒間防御してください！",
+      "CN": "使用辛多火魔法，否则需防御40秒！",
+      "KR": "딘의 불을 사용하거나 40초 동안 방어하세요!",
+      "TW": ">>>使用丁斯之火，否則防禦40秒！<<<"
+    }
+  },
+  ">>> Door opens in 30 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが30秒後に開きます！",
+      "CN": "门将在30秒后开启！",
+      "KR": "문이 30초 후 열립니다!",
+      "TW": ">>>大門將于30秒後開啟！<<<"
+    }
+  },
+  ">>> Door will close in 15 seconds <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後にドアが閉じます",
+      "CN": "门将在15秒后关闭",
+      "KR": "문이 15초 후 닫힙니다.",
+      "TW": ">>>門將在15秒後關閉<<<"
+    }
+  },
+  ">>> WATCH OUT THE WALLS CAN HURT YOU! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁に注意！傷つきます！",
+      "CN": "小心，墙壁会对你造成伤害！",
+      "KR": "벽이 당신을 해칠 수 있으니 주의하세요!",
+      "TW": ">>>小心！牆壁會傷害你！<<<"
+    }
+  },
+  ">>> Zombies drop in 10 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが10秒後に落下します！",
+      "CN": "丧尸将在10秒后掉落出现！",
+      "KR": "좀비가 10초 후 떨어집니다!",
+      "TW": ">>>殭屍將于10秒後掉落！<<<"
+    }
+  },
+  ">>> Gate opens in 30 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒後にゲートが開く！ <<<",
+      "CN": ">>>30秒后开启传送门！<<<",
+      "KR": "포털이 30초 후에 열립니다!",
+      "TW": ">>> 30秒後開啟傳送門！ <<<"
+    }
+  },
+  ">>> Door to lower level will open in 10 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒後に下の階への扉が開く！ <<<",
+      "CN": ">>>通往下一层的门将在10秒后打开！<<<",
+      "KR": "아래층으로 가는 문이 10초 후에 열립니다!",
+      "TW": ">>> 10秒後開啟通往下一層的門！ <<<"
+    }
+  },
+  ">>> Trap room opened! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> トラップルームが開いた！ <<<",
+      "CN": ">>>陷阱房间已开启！<<<",
+      "KR": "함정 방문이 열렸습니다!",
+      "TW": ">>> 陷阱室已開啟！ <<<"
+    }
+  },
+  ">>> Door to spike room will open in 30 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒後にトゲ部屋の扉が開く！ <<<",
+      "CN": ">>>通往尖刺房的门将在30秒后打开！<<<",
+      "KR": "총알 방으로 가는 문이 30초 후에 열립니다!",
+      "TW": ">>> 30秒後開啟通往尖刺室的門！ <<<"
+    }
+  },
+  ">>> Door to will open in 30 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒後に[ ]の扉が開く！ <<<",
+      "CN": ">>>通往[未知]的房间将在30秒后打开！<<<",
+      "KR": "문이 30초 후에 열립니다!",
+      "TW": ">>> 30秒後開啟通往【】的門！ <<<"
+    }
+  },
+  ">>> Gibdo room opens in 10 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒後にギンドーの部屋が開く！ <<<",
+      "CN": ">>>基多房间将在10秒后开启！<<<",
+      "KR": "기브도 방이 10초 후에 열립니다!",
+      "TW": ">>> 10秒後開啟吉多室！ <<<"
+    }
+  },
+  ">>> Zombies teleport in 20 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゾンビが20秒後にテレポート！ <<<",
+      "CN": ">>>丧尸传送将在20秒后启动！<<<",
+      "KR": "좀비에게 텔레포트가 20초 후에 실행됩니다!",
+      "TW": ">>> 20秒後殭屍進行瞬移！ <<<"
+    }
+  },
+  ">>> Boat leaves in 30 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒後にボートが出航！ <<<",
+      "CN": ">>>船只将在30秒后启航！<<<",
+      "KR": "배가 30초 후에 출항합니다!",
+      "TW": ">>> 30秒後船隻離開！ <<<"
+    }
+  },
+  ">>> Zombies teleport in 15 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが15秒後にテレポート！",
+      "CN": ">>> 僵尸将在 15 秒内传送！<<<",
+      "KR": ">>> 좀비가 15초 후에 순간이동합니다! <<<",
+      "TW": ">>> 殭屍將在 15 秒後傳送！ <<<"
+    }
+  },
+  ">>> Door opens in 5 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が5秒後に開く！",
+      "CN": ">>> 门将在 5 秒后打开！<<<",
+      "KR": ">>> 문이 5초 후에 열립니다! <<<",
+      "TW": ">>> 門將在 5 秒後開啟！ <<<"
+    }
+  },
+  ">>> Zombies teleport to holding chamber in 10 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが10秒後に収容室にテレポート！",
+      "CN": ">>> 僵尸将在 10 秒内传送至收容室！<<<",
+      "KR": ">>> 좀비가 격리실로 10초 후에 순간이동합니다! <<<",
+      "TW": ">>> 殭屍將在 10 秒後傳送至儲存室！ <<<"
+    }
+  },
+  ">>> Final door opens in 60 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の扉が60秒後に開く！",
+      "CN": ">>> 最后一道门将在 60 秒后打开！<<<",
+      "KR": ">>> 마지막 문이 60초 후에 열립니다! <<<",
+      "TW": ">>> 最終的大門將在 60 秒後開啟！ <<<"
+    }
+  },
+  ">>> Statue is collapsing! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "像が崩壊中！",
+      "CN": ">>> 雕像正在崩塌！<<<",
+      "KR": ">>>상이 붕괴 중입니다!",
+      "TW": ">>> 雕像正在倒塌！ <<<"
+    }
+  },
+  ">>> BOSS DOOR OPENS IN 5 SECONDS! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "BOSSの扉が5秒後に開く！",
+      "CN": ">>> BOSS 门将在 5 秒后打开！<<<",
+      "KR": ">>> 보스 문이 5초 후에 열립니다! <<<",
+      "TW": ">>> BOSS 門將在 5 秒後開啟！ <<<"
+    }
+  },
+  ">>> Boss door closes in 15 seconds! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスの扉が15秒後に閉まる！",
+      "CN": ">>> BOSS 门将在 15 秒内关闭！<<<",
+      "KR": ">>> 보스문이 15초 후에 닫힙니다! <<<",
+      "TW": ">>> BOSS 門將在 15 秒後關閉！ <<<"
+    }
+  },
+  "<<< Dins Fire has been picked up! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ダインの火を拾った！",
+      "CN": "<<< 已拾取丹斯之火！>>>",
+      "KR": "<<< 틴스 파이어를 획득했습니다! >>>",
+      "TW": "<<< 已取得伊甸之火！ >>>"
+    }
+  },
+  "<<< 45 second cooldown! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リロード時間45秒!",
+      "CN": "冷却时间45秒！",
+      "KR": "재사용 대기시간 45초!",
+      "TW": "冷却時間45秒！"
+    }
+  },
+  ">>> Dins Fire used! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ダインの火計略を発動!",
+      "CN": "已使用汀斯的火焰！",
+      "KR": "다인의 불꽃 사용!",
+      "TW": "使用盡頭之火！"
+    }
+  }
+}

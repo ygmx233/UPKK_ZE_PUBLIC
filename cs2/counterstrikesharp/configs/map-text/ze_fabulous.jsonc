@@ -1,197 +1,652 @@
 {
   "我们到达了他的城堡": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We arrived at his castle.",
+      "JP": "我々は彼の城に到着した。",
+      "CN": "",
+      "KR": "우리는 그의 성에 도착했다.",
+      "TW": "我們到達了他的城堡"
+    }
   },
   "门将会在15秒后开启": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The goalkeeper will open after 15 seconds.",
+      "JP": "門将は15秒後に開門する",
+      "CN": "守门员将在15秒后开启",
+      "KR": "골키퍼는 15초 후에 시작됩니다.",
+      "TW": "門將會在15秒後開啟"
+    }
   },
   "他不在这里": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "He is not here.",
+      "JP": "彼はここにいない",
+      "CN": "",
+      "KR": "그는 여기 없어",
+      "TW": "他不在這裡"
+    }
   },
   "一位玩家成为了勇者": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "A player has become a hero.",
+      "JP": "",
+      "CN": "",
+      "KR": "한 플레이어가 용자가 되었다",
+      "TW": ""
+    }
   },
   "门将会在30秒后开启": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The goalkeeper will open in 30 seconds.",
+      "JP": "門将は30秒後に開門する",
+      "CN": "守门员将在30秒后开启",
+      "KR": "골키퍼는 30초 후에 시작됩니다.",
+      "TW": "門將會在30秒後開啟"
+    }
   },
   "技能（front E）：向前发射刀光击退僵尸，cd5秒": {
-    "translation": "技能（面前 E）：向前发射刀光击退僵尸，cd:5"
+    "translation": "技能（面前 E）：向前发射刀光击退僵尸，cd:5",
+    "MultiLang": {
+      "US": "Skill (front E): Fires a blade light forward to knock back zombies, CD 5 seconds",
+      "JP": "",
+      "CN": "技能（面前 E）：向前发射刀光击退僵尸，cd:5",
+      "KR": "",
+      "TW": "技能（前E）：向前发射刀光击退僵尸，冷却时间5秒"
+    }
   },
   "技能（top E）：延迟3秒生成激光，击退僵尸5秒，仅一次【未解锁】": {
-    "translation": "技能（头顶 E）：延迟cd:3生成激光，击退僵尸cd:5，仅一次【未解锁】"
+    "translation": "技能（头顶 E）：延迟cd:3生成激光，击退僵尸cd:5，仅一次【未解锁】",
+    "MultiLang": {
+      "US": "Skill (Top E): Generates a laser with a 3-second delay, stuns zombies for 5 seconds, only once.",
+      "JP": "スキル（上位E）：延迟3秒生成激光，击退僵尸5秒，仅一次",
+      "CN": "技能（头顶 E）：延迟cd:3生成激光，击退僵尸cd:5，仅一次【未解锁】",
+      "KR": "기술 (탑 E): 3초 후 레이저 생성, 좀비 5초 동안 관통, 한 번만 사용",
+      "TW": "技能（頂 E）：延遲 3 秒生成激光，擊退僵屍 5 秒，僅一次"
+    }
   },
   "去寻找他": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Go find him",
+      "JP": "",
+      "CN": "",
+      "KR": "그를 찾아라",
+      "TW": "去尋找他"
+    }
   },
   ">这是他的残影<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This is his afterimage.",
+      "JP": "彼の残像",
+      "CN": "",
+      "KR": "이것은 그의 잔상이다.",
+      "TW": "這是他的殘影"
+    }
   },
   ">他一定就在附近<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "He must be somewhere nearby.",
+      "JP": "",
+      "CN": "",
+      "KR": "그는 반드시 여기 근처에 있을 거야.",
+      "TW": ""
+    }
   },
   ">去找到他<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Go find him.",
+      "JP": "その後、彼を見つけろ",
+      "CN": "",
+      "KR": "찾아 그를 찾아",
+      "TW": ""
+    }
   },
   "低门将会在30秒后开启": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The low gate will open in 30 seconds.",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": "低門將會在30秒後開啟"
+    }
   },
   "中门将会在30秒后开启": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The main gate will open in 30 seconds.",
+      "JP": "",
+      "CN": "",
+      "KR": "중문은 30초 후에 열릴 것입니다.",
+      "TW": "中門將會在30秒後開啟"
+    }
   },
   "僵尸将于10秒后传送": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies will teleport in 10 seconds",
+      "JP": "ゾンビが10秒後にテレポートする",
+      "CN": "",
+      "KR": "좀비가 10초 후에 이동합니다.",
+      "TW": "殭屍將於10秒後傳送"
+    }
   },
   "<所以，你们到达了这里>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<So, you have arrived here>.",
+      "JP": "所以、あなた達はここに到着しました。",
+      "CN": "<你们终于到达这里>",
+      "KR": "그래서, 여러분은 여기에 도착했습니다.",
+      "TW": "<所以，你們到達了這裡>"
+    }
   },
   "<你们想要击败我，是吗>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Do you want to defeat me?>",
+      "JP": "<お前も私を倒そうと思っているのか>",
+      "CN": "",
+      "KR": "너도 나를 쓰러뜨리고 싶어하는 거냐?",
+      "TW": "<你們想要擊敗我，是嗎>"
+    }
   },
   "<很好>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Great!",
+      "JP": "素晴らしい >///<",
+      "CN": "",
+      "KR": "좋아",
+      "TW": ""
+    }
   },
   "<向我证明你们的能力>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Prove your abilities to me.",
+      "JP": "<あなたの能力を証明してください>",
+      "CN": "",
+      "KR": "<너네 실력을 증명해 봐>",
+      "TW": "<證明你們的能力>"
+    }
   },
   "<我会在塔的顶端等你>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<I'll be waiting for you at the top of the tower>",
+      "JP": "<私が塔の最上部で待っています>",
+      "CN": "<我会等你站在塔的顶端>",
+      "KR": "<거기 탑 꼭대기에서 기다릴게>",
+      "TW": "<我會在塔的頂端等你>"
+    }
   },
   "电梯将于20秒后启动": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will start in 20 seconds.",
+      "JP": "エレベーターは20秒後に起動します。",
+      "CN": "",
+      "KR": "엘리베이터는 20초 후에 작동합니다.",
+      "TW": ""
+    }
   },
   "僵尸将于5秒后传送": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The zombie will teleport in 5 seconds",
+      "JP": "ゾンビが5秒後に移動します",
+      "CN": "",
+      "KR": "좀비가 5초 후에 순간이동합니다",
+      "TW": "殭屍將於5秒後傳送"
+    }
   },
   "这是一间只有轮回之人才能进入的房间": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This is a room that only those who have lived through reincarnation can enter.",
+      "JP": "ここは、輪廻を繰り返す者だけが辿り着ける部屋だ。",
+      "CN": "",
+      "KR": "이곳은 되살아난 자만이 들어올 수 있는 방이다.",
+      "TW": "這是一間只有輪迴之人才能進入的房間"
+    }
   },
   "一位玩家拾取了异能宝珠": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up a Mystic Orb.",
+      "JP": "",
+      "CN": "",
+      "KR": "한 플레이어가 특별한 마법 구슬을 얻었습니다.",
+      "TW": "一位玩家拾取了異能寶珠"
+    }
   },
   "可能会派上用场": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Might come in handy",
+      "JP": "発動する可能性がある",
+      "CN": "",
+      "KR": "이걸 활용할 수 있을지도 몰라.",
+      "TW": "可能會派上用場"
+    }
   },
   "方块察觉到了异常，变得更加强大": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The blocks sensed a disturbance and became more powerful.",
+      "JP": "ブロックは異常を感知し、より強くなっている",
+      "CN": "",
+      "KR": "블록이 이상을 감지하고 더욱 강력해졌다.",
+      "TW": "方塊察覺到了異常，變得更加強大"
+    }
   },
   "门将于30秒后开启": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 30 seconds",
+      "JP": "",
+      "CN": "",
+      "KR": "문이 30초 후 개방",
+      "TW": ""
+    }
   },
   "电梯将于10秒后离开": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will depart in 10 seconds.",
+      "JP": "エレベーターは10秒後に脱出します。",
+      "CN": "",
+      "KR": "엘리베이터는 10초 후에 나갈 것입니다.",
+      "TW": "電梯將於10秒後離開"
+    }
   },
   "电梯将于15秒后启动": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will start in 15 seconds.",
+      "JP": "エレベーターは15秒後に起動します",
+      "CN": "",
+      "KR": "엘리베이터는 15초 후에 시작됩니다.",
+      "TW": ""
+    }
   },
   "现在 该去面对他了": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Now it's time to face him.",
+      "JP": "今、彼に立ち向かう時だ。",
+      "CN": "",
+      "KR": "이제 그를 마주해야 한다.",
+      "TW": "現在該去面對他了"
+    }
   },
   "<没想到你会到达这里>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "I didn't expect you to reach this far.",
+      "JP": "",
+      "CN": "",
+      "KR": "<네가 이렇게까지 왔다는 게 믿기지 않아>",
+      "TW": "<出乎意料你竟然到达这里>"
+    }
   },
   "<但是，到此为止了>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "But it's over now.",
+      "JP": "しかし、これで終わり。",
+      "CN": "",
+      "KR": "하지만, 여기서 멈춘다.",
+      "TW": ""
+    }
   },
   "<因为我会在这里>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Because I'll be here>",
+      "JP": "ここで待ってるよ。",
+      "CN": "",
+      "KR": "여기 있을 거에요",
+      "TW": "<因為我會在這裡>"
+    }
   },
   "<彻底消灭你>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Eliminate you completely.",
+      "JP": "<完全に消滅させろ>",
+      "CN": "<完全消灭你>",
+      "KR": "<너를 완전히 말살한다>",
+      "TW": "<徹底消滅你>"
+    }
   },
   "<天空坠落>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<The sky falls>",
+      "JP": "<天空墜落>",
+      "CN": "",
+      "KR": "<하늘이 무너진다>",
+      "TW": "<天空墜落>"
+    }
   },
   "<引力掌控>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Gravity Control>",
+      "JP": "<引力掌握>",
+      "CN": "",
+      "KR": "중력 지배",
+      "TW": ""
+    }
   },
   "<怎么 可能>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "How is that possible?",
+      "JP": "<どうすれば可能か>",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<我怎么会在这里倒下>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<How could I have fallen here>",
+      "JP": "<どうしてここに倒れるんだ>",
+      "CN": "",
+      "KR": "<어떻게 여기에 쓰러질 수 있어?>",
+      "TW": "<怎麼會在這裡倒下>"
+    }
   },
   "<既然这样 那你也别想活着>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Since that's the case, don't even think about living>.",
+      "JP": "",
+      "CN": "",
+      "KR": "<이대로라면, 너도 곧 죽을 것이다>",
+      "TW": ""
+    }
   },
   "<跟着这个世界一起毁灭吧>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Let this world be destroyed along with it!",
+      "JP": "<この世界を共に滅びてしまおう>",
+      "CN": "",
+      "KR": "<이 세계와 함께 파멸해라>",
+      "TW": "<一起毀滅這個世界吧>"
+    }
   },
   "现在使用异能宝珠": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Now use the Ability Gem",
+      "JP": "現在使用異能宝珠",
+      "CN": "",
+      "KR": "현재 사용하세요",
+      "TW": "現在使用異能寶珠"
+    }
   },
   ">一切还来得及<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "It's not too late.",
+      "JP": "",
+      "CN": "",
+      "KR": "모든 것을 바꿀 수 있어.",
+      "TW": "一切還來得及"
+    }
   },
   ">回到过去阻止他<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Return to the past to stop him.",
+      "JP": "過去に遡って彼を阻止する",
+      "CN": "",
+      "KR": "과거로 돌아가 그를 막아.",
+      "TW": "回到過去阻止他"
+    }
   },
   "<永恒恐惧>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Eternal Fear>",
+      "JP": "",
+      "CN": "",
+      "KR": "<영원한 공포>",
+      "TW": "<永恆恐懼>"
+    }
   },
   "<四面楚歌>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Surrounded by enemies>",
+      "JP": "",
+      "CN": "",
+      "KR": "<사면초가>",
+      "TW": ""
+    }
   },
   "<暗影之枪>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Shadowgun>",
+      "JP": "",
+      "CN": "",
+      "KR": "<그림자 권총>",
+      "TW": "<暗影之槍>"
+    }
   },
   "<诅咒光幕>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Curse Barrier>",
+      "JP": "<呪詛の光幕>",
+      "CN": "",
+      "KR": "<저주받은 빛의 장막>",
+      "TW": "<詛咒光幕>"
+    }
   },
   ">坚持住 我们马上就成功了<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on! We're about to succeed!",
+      "JP": "",
+      "CN": "",
+      "KR": "참아, 곧 성공할 거야!",
+      "TW": "堅持住 我們馬上就成功了"
+    }
   },
   ">等等，小心！<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Wait a minute, be careful!",
+      "JP": "",
+      "CN": "",
+      "KR": "등전, 조심하세요!",
+      "TW": ""
+    }
   },
   ">看头顶！<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Look at the top!",
+      "JP": "",
+      "CN": "",
+      "KR": "경계 지켜!",
+      "TW": "看頭頂！"
+    }
   },
   ">我们回来了？<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We're back?",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": "我們回來了？"
+    }
   },
   "<所以，你们到了这里>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<So, you've arrived here>",
+      "JP": "<ようやくここまできた>",
+      "CN": "<你们终于到了这里>",
+      "KR": "그러니, 여기 도착했네?",
+      "TW": "<所以，你們到了這裡>"
+    }
   },
   "<你怎么会有这个东西>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Why would you have this thing>?",
+      "JP": "<どうしてそんなものがあるの?>",
+      "CN": "",
+      "KR": "<어떻게 이런 걸 얻었어?>",
+      "TW": "<你怎麼會有這個東西>"
+    }
   },
   "<既然这样>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Since that's the case",
+      "JP": "",
+      "CN": "",
+      "KR": "<그래, 그렇겠지>",
+      "TW": ""
+    }
   },
   "<那你就和我一起埋葬在这座城堡里吧！>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Let's bury ourselves together in this castle!>",
+      "JP": "<一緒にこの城に埋葬してくれ！>",
+      "CN": "<一起和我埋葬在这座城堡里吧！>",
+      "KR": "<저런, 그럼 저랑 여기 성에 함께 무덤을 만들어 죽자!>",
+      "TW": "<那就和我一起埋葬在這座城堡裡吧！>"
+    }
   },
   "激光炮已被解锁": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The Laser Cannon has been unlocked",
+      "JP": "レーザー砲がアンロックされました",
+      "CN": "",
+      "KR": "레이저 포가 해제되었습니다.",
+      "TW": "激光炮已被解鎖"
+    }
   },
   ">他打算摧毁这座塔<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "He intends to destroy this tower.",
+      "JP": "彼らはこの塔を破壊しようと企んでいる。",
+      "CN": "",
+      "KR": "그는 이 탑을 파괴할 계획이다.",
+      "TW": "他打算摧毀这座塔"
+    }
   },
   ">在塔被摧毁前离开这里<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Leave here before the tower is destroyed.",
+      "JP": "塔が破壊される前にここから出る",
+      "CN": "",
+      "KR": "타워가 파괴되기 전에 여기서 나가",
+      "TW": "在塔被摧毀前離開這裡"
+    }
   },
   "挂机僵尸将于10秒后传送": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hukui zhangshi you xiang 10 seconds hou chuansong",
+      "JP": "",
+      "CN": "",
+      "KR": "거점 僵尸将于10秒后传送",
+      "TW": "掛機僵屍將於10秒後傳送"
+    }
   },
   "门将会在35秒后开启": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The goalkeeper will open after 35 seconds.",
+      "JP": "門将は35秒後に開門する",
+      "CN": "守门员将在35秒后开启",
+      "KR": "골키퍼는 35초 후에 시작합니다.",
+      "TW": "守門員會在35秒後開啟"
+    }
   },
   "<怎么可能让你逃出去>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<How could you escape?>",
+      "JP": "<どうして逃げられるんだ?>",
+      "CN": "",
+      "KR": "<당신이 어떻게 탈출할 수 있겠어>",
+      "TW": ""
+    }
   },
   "<燃尽我最后的力量>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Burn Out My Last Strength>",
+      "JP": "<最後の力を燃え尽くす>",
+      "CN": "<燃烧我最后的力量>",
+      "KR": "<나를 지배하는 마지막 힘을 불태워>",
+      "TW": "<燃盡我最後的力量>"
+    }
   },
   "<我...失败了...>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<I... failed...>",
+      "JP": "<失敗した…>",
+      "CN": "",
+      "KR": "<나는... 실패했다...>",
+      "TW": "<我...失敗了...>"
+    }
   },
   "最终的门将会在15秒后关闭": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The final gate will close in 15 seconds",
+      "JP": "最終の門将会在15秒后关闭",
+      "CN": "",
+      "KR": "최후의 골키퍼는 15초 후 폐쇄됩니다.",
+      "TW": "最終的門將會在15秒後關閉"
+    }
   },
   "地图作者:Hephasfos": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Map author:Hephasfos",
+      "JP": "",
+      "CN": "",
+      "KR": "지도 작성자: Hephasfos",
+      "TW": ""
+    }
   },
   "感谢你的游玩": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Thank you for playing!",
+      "JP": "ありがとうございます！遊んでいただけて嬉しいです。",
+      "CN": "谢谢你玩游戏",
+      "KR": "고맙습니다. 게임을 플레이해 주셔서 감사합니다.",
+      "TW": "感謝你的遊玩"
+    }
   }
 }

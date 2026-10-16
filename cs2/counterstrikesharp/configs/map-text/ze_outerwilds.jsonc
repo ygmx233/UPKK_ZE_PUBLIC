@@ -1,0 +1,322 @@
+{
+  "一名玩家装备了宇航服": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player is equipped with a spacesuit",
+      "JP": "プレイヤーが宇宙服を装備しました",
+      "CN": "",
+      "KR": "플레이어가 우주복을 장착했습니다",
+      "TW": "一名玩家裝備了太空服"
+    }
+  },
+  "我们需要一些时间来放下木桥": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We need time to deploy the wooden bridge",
+      "JP": "木橋を設置するために時間が必要です",
+      "CN": "",
+      "KR": "나무 다리를 낮추는 데 시간이 필요합니다",
+      "TW": "我们需要時間放下木橋"
+    }
+  },
+  "木桥即将放下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The wooden bridge is being deployed",
+      "JP": "木橋を配置しています",
+      "CN": "",
+      "KR": "나무 다리가 곧 내려집니다",
+      "TW": "木橋即將放下"
+    }
+  },
+  "木桥已放下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The wooden bridge has been deployed",
+      "JP": "木橋が設置されました",
+      "CN": "",
+      "KR": "나무 다리가 내려졌습니다",
+      "TW": "木橋已放下"
+    }
+  },
+  "这座桥同样需要修复 坚持一段时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This bridge also needs to be repaired. Hold out for a while.",
+      "JP": "この橋も修理が必要です。しばらく耐えてください",
+      "CN": "",
+      "KR": "이 다리도 수리가 필요합니다. 잠시 버텨주세요",
+      "TW": "这座橋同樣需要修复 請堅持一段時間"
+    }
+  },
+  "僵尸传送点已变更": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The zombie spawn point has changed",
+      "JP": "ゾンビのスポーン地点が変更されました",
+      "CN": "",
+      "KR": "좀비 스폰 포인트가 변경되었습니다",
+      "TW": "殭屍傳送點已變更"
+    }
+  },
+  "我们需要从这面墙爬上去 正在布置绳索": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to climb over this wall. Ropes are being set up.",
+      "JP": "この壁をよじ登る必要があります。ロープを設置しています",
+      "CN": "",
+      "KR": "이 벽을 넘어야 합니다. 밧줄을 설치 중입니다",
+      "TW": "我们需要從這面牆爬上去 正在佈置繩索"
+    }
+  },
+  "绳索即将布置完成": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Rope deployment is nearly complete",
+      "JP": "ロープの設置が完了しようとしています",
+      "CN": "",
+      "KR": "밧줄 설치가 곧 완료됩니다",
+      "TW": "繩索即將佈置完成"
+    }
+  },
+  "绳索已布置": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ropes have been deployed",
+      "JP": "ロープを設置しました",
+      "CN": "",
+      "KR": "로프가 준비됨",
+      "TW": "繩索已部署"
+    }
+  },
+  "是施工队遗落的原木，我们需要移开它们！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "These are logs left behind by the construction crew. We need to clear them away!",
+      "JP": "建設隊が遺落させた丸太です。移動させましょう！",
+      "CN": "",
+      "KR": "시공 팀이 잃어버린 원목입니다. 치워야 합니다!",
+      "TW": "這是施工隊遺落的原木，需要移開它們！"
+    }
+  },
+  "为什么飞船会停在侦察兵发射台上？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Why is the spaceship docked at the Scout's Launchpad?",
+      "JP": "何故、宇宙船は斥候発射台に止まっているのだ？",
+      "CN": "",
+      "KR": "왜 우주선은 정찰선 발사대에 멈춰 있습니까?",
+      "TW": "為什麼飛船會停在偵察兵發射台上？"
+    }
+  },
+  "别管那些了，先去发动飞船！密码是当前木炉星时间，要精确到秒！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Forget that for now. Start up the spaceship first! The password is set to the current time on Lumberjack Planet, down to the second!",
+      "JP": "それは後で、まず宇宙船の起動だ！暗証番号は現在の木炉星の時間だ。秒まで正確に！",
+      "CN": "",
+      "KR": "그건 신경 쓰지 마시고, 먼저 우주선을 가동하세요! 비밀번호는 현재 목로별 시간이며 초 단위까지 정확해야 합니다!",
+      "TW": "別管那些，先去啟動飛船！密碼是當前的木爐星時間，精確到秒！"
+    }
+  },
+  "天文台关门了，我们只能去用莫瑞恩的观测装置了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The observatory is closed. We'll have to use Moryen's observation device.",
+      "JP": "天文台が閉館している。モリエンの観測装置を使うしかない",
+      "CN": "",
+      "KR": "천문대가 문을 닫았습니다. 모레이온의 관측 장치를 사용해야 합니다.",
+      "TW": "天文台關閉了，我們只能使用莫瑞恩的觀測裝置"
+    }
+  },
+  "时间已确定，快去启动飞船！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Time has been confirmed. Go start the spaceship!",
+      "JP": "時間は確定した。早く宇宙船を起動させろ！",
+      "CN": "",
+      "KR": "시간이 확정되었습니다. 우주선을 즉시 가동하세요!",
+      "TW": "時間已確定，快去啟動飛船！"
+    }
+  },
+  "已按下启动按钮，飞船正在启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Start button pressed. The spaceship is initiating.",
+      "JP": "起動ボタンを押しました。宇宙船の起動中です",
+      "CN": "",
+      "KR": "시작 버튼이 눌렸습니다. 우주선 가동 중...",
+      "TW": "啟動按鈕已按下，飛船正在初始化"
+    }
+  },
+  "飞船将于十五秒后起飞": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Spaceship will take off in fifteen seconds.",
+      "JP": "宇宙船は15秒後に離陸します",
+      "CN": "",
+      "KR": "우주선은 15초 뒤 이륙합니다.",
+      "TW": "飛船將在十五秒後起飛"
+    }
+  },
+  "牵引光束已开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Traction Beam Active",
+      "JP": "牽引ビームがオンになりました",
+      "CN": "",
+      "KR": "견인 빔이 활성화되었습니다",
+      "TW": "牽引光束已開啟"
+    }
+  },
+  "已修复断桥！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Broken Bridge Restored!",
+      "JP": "壊れた橋を修復しました！",
+      "CN": "",
+      "KR": "단절된 다리를 복구했습니다!",
+      "TW": "已修復斷橋！"
+    }
+  },
+  "这座岛屿是中空的，要怎么探查那里...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This island is hollow. How do we investigate the interior...",
+      "JP": "この島は空洞になっています。どうやってあの場所を調べれば...",
+      "CN": "",
+      "KR": "이 섬은 속이 비어 있습니다. 안을 조사하려면 어떻게 해야 합니까...",
+      "TW": "這座島嶼是中空的，要怎麼探查那裡..."
+    }
+  },
+  "这上面说，这里是一个传送装置": {
+    "translation": "",
+    "MultiLang": {
+      "US": "According to this, it's a teleportation device.",
+      "JP": "ここには传送装置があるようです",
+      "CN": "",
+      "KR": "여기에 전설 장치가 있다고 적혀 있습니다",
+      "TW": "上面寫著，這裡是一個傳送裝置"
+    }
+  },
+  "由外到内依次点亮装置，即可激活传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Activate the teleporter by lighting up the runes from outside to inside.",
+      "JP": "外側から内側に向けて装置を順に点灯させると、传送が有効になります",
+      "CN": "",
+      "KR": "바깥에서 안쪽으로 장치를 순차적으로 점등하면 전송이 활성화됩니다",
+      "TW": "由外到內依序點亮裝置，即可啟動傳送"
+    }
+  },
+  "传送装置正在安全启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleportation Device Starting Safely",
+      "JP": "安全な立ち上げ中です",
+      "CN": "",
+      "KR": "전설 장치가 안전하게 시작 중입니다",
+      "TW": "傳送裝置正在安全啟動"
+    }
+  },
+  "传送装置启动完成": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleportation Sequence Complete",
+      "JP": "传送の準備が完了しました",
+      "CN": "",
+      "KR": "전설 장치 시작 완료",
+      "TW": "傳送裝置啟動完成"
+    }
+  },
+  "即将传送所有僵尸": {
+    "translation": "",
+    "MultiLang": {
+      "US": "All Zombies Will Be Teleported",
+      "JP": "すべてのゾンビを传送します",
+      "CN": "",
+      "KR": "모든 좀비를 곧 전송합니다",
+      "TW": "即將傳送所有殭屍"
+    }
+  },
+  "传送成功！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleportation successful!",
+      "JP": "転送成功！",
+      "CN": "",
+      "KR": "이송 성공!",
+      "TW": "傳送成功！"
+    }
+  },
+  "请勿提前触发，请等待多数玩家到达此区域": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Do not trigger early. Wait for the majority of players to reach this area.",
+      "JP": "事前のトリガーを避けてください。多数のプレイヤーがこのエリアに到達するまでお待ちください",
+      "CN": "",
+      "KR": "조기 작동을 피하고, 다수 플레이어가 이 구역에 도착할 때까지 기다리십시오.",
+      "TW": "請勿提前觸發，請等待多數玩家抵達此區域"
+    }
+  },
+  "多数玩家已抵达，正在开启下一区域": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Majority of players have arrived. Opening the next zone now.",
+      "JP": "大多数のプレイヤーが到着しました。次のエリアを開いています",
+      "CN": "",
+      "KR": "대다수 플레이어가 도착했습니다. 다음 구역을 열 준비 중입니다.",
+      "TW": "多數玩家已抵達，正在開啟下一區域"
+    }
+  },
+  "二十五秒后处死!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Execution in 25 seconds!",
+      "JP": "25秒後に処刑！",
+      "CN": "",
+      "KR": "25초 후 처형!",
+      "TW": "二十五秒後處死!"
+    }
+  },
+  "这个装置中只记录了无序的噪声": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This device only records chaotic noise.",
+      "JP": "この装置には無秩序なノイズしか記録されていません",
+      "CN": "",
+      "KR": "이 장치에는 무질서한 잡음만 기록되어 있습니다.",
+      "TW": "這個裝置中只記錄了無序的噪聲"
+    }
+  },
+  "传送装置正在裸启动，请勿让僵尸触碰!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The teleportation device is in naked start mode. Do not allow zombies to touch it!",
+      "JP": "転送装置が起動中です。ゾンビに触れないでください！",
+      "CN": "",
+      "KR": "이송 장치가 초기화 중입니다. 좀비와의 접촉을 피하십시오!",
+      "TW": "傳送裝置正在裸啟動，請勿讓殭屍觸碰!"
+    }
+  },
+  "传送即将启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleportation starting soon",
+      "JP": "転送がまもなく開始されます",
+      "CN": "",
+      "KR": "이송 시작 임박",
+      "TW": "傳送即將啟動"
+    }
+  },
+  "需要密码才能发动飞船": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A password is required to launch the spaceship.",
+      "JP": "宇宙船を起動するにはパスワードが必要です",
+      "CN": "",
+      "KR": "선박을 발사하려면 비밀번호가 필요합니다",
+      "TW": "需要密碼才能啟動飛船"
+    }
+  }
+}

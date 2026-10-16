@@ -1,80 +1,80 @@
 [
-	{
-		"Name": "hum_wind_gun",
-		"ShortName": "hum_wind_gun",
-		"Color": "{default}",
-		"HammerID": "4362",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_usp_silencer",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "hum_gar_gun",
-		"ShortName": "hum_gar_gun",
-		"Color": "{default}",
-		"HammerID": "4743",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_usp_silencer",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "hum_heal_gun",
-		"ShortName": "hum_heal_gun",
-		"Color": "{default}",
-		"HammerID": "6383",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_usp_silencer",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "风",
+    "ShortName": "风",
+    "Color": "{default}",
+    "HammerID": 4362,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4360,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "hum_wind_button",
+        "ButtonID": 4358,
+        "ButtonClass": "func_button",
+        "Filter": "wind_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "黑洞",
+    "ShortName": "黑洞",
+    "Color": "{default}",
+    "HammerID": 4743,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4744,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "hun_gar_button",
+        "ButtonID": 4746,
+        "ButtonClass": "func_button",
+        "Filter": "gar_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "奶圈",
+    "ShortName": "奶圈",
+    "Color": "{default}",
+    "HammerID": 6383,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 6793,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]

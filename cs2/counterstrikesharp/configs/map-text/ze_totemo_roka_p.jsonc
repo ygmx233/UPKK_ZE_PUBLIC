@@ -1,110 +1,362 @@
 {
   "** A SEAL WAS TAINTED BY THE INFECTED! THE GODS ARE ANGERED! **": {
-    "translation": "**一个封印被感染者污染了！众神震怒了！**"
+    "translation": "**一个封印被感染者污染了！众神震怒了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 封印された場所が感染によって汚染された！神々が怒っている！**",
+      "CN": "** 封印被感染者污染！众神震怒！ **",
+      "KR": "** 오염된 자에 의해 봉인이 훼손되었습니다! 신들이 분노하십니다! **",
+      "TW": "** 封印被汙染了！諸神震怒！ **"
+    }
   },
   "** A relay of sorts seems to be moving in the back -- wait for something to happen! **": {
-    "translation": "**后面好像有个中继装置在移动——等着看会发生什么！**"
+    "translation": "**后面好像有个中继装置在移动——等着看会发生什么！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 裏側で何かが動いているようだ――何か起きるまで待て**",
+      "CN": "** 后方似乎有某种接力机制正在启动——等待事态发生！ **",
+      "KR": "** 뒤쪽에서 무언가 전달되는 듯한 움직임이 보입니다 -- 뭔가 발생할 때까지 기다리세요! **",
+      "TW": "** 後方似乎有某種接力動作——等待事件發生！ **"
+    }
   },
   "** A secret passageway is opening! **": {
-    "translation": "**一个秘密通道正在开启！**"
+    "translation": "**一个秘密通道正在开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 隠し通路が開く！**",
+      "CN": "** 密道正在开启！ **",
+      "KR": "** 비밀 통로가 열리고 있습니다! **",
+      "TW": "** 秘密通道正在打開！ **"
+    }
   },
   "** C'mon get inside! We have to unlock the energy of the last gems before the volcano blows up! **": {
-    "translation": "**快进来！我们必须在火山爆发前解锁最后的宝石能量！**"
+    "translation": "**快进来！我们必须在火山爆发前解锁最后的宝石能量！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** さあ、中へ入れ！火山が爆発する前に最後の宝石のエネルギーを解き放たねばならない**",
+      "CN": "** 快进来！火山即将爆发，我们必须在此之前解锁最后几颗宝石的能量！ **",
+      "KR": "** 어서 안으로 들어오세요! 화산이 폭발하기 전에 마지막 보석의 에너지를 해제해야 합니다! **",
+      "TW": "** 快進裡面！我們必須在火山爆發前解鎖最後幾顆寶石的能量！ **"
+    }
   },
   "** First the entrance will fold, then the inner plaza will show itself to us! **": {
-    "translation": "**首先入口会折叠，然后内广场会展现在我们面前！**"
+    "translation": "**首先入口会折叠，然后内广场会展现在我们面前！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 入口が折りたたまれ、続いて中庭の広場が私たちの前に現れるはずだ**",
+      "CN": "** 入口先折叠，接着内庭院会向我们显现！ **",
+      "KR": "** 먼저 입구가 접히면, 안쪽 광장이 우리 앞에 나타납니다! **",
+      "TW": "** 先是入口會摺疊，接著內庭會向我們展現！ **"
+    }
   },
   "** HURRY BACK! The volcano is about to explode! **": {
-    "translation": "**快回来！火山快要爆发了！**"
+    "translation": "**快回来！火山快要爆发了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 急いで戻れ！火山が爆発する！**",
+      "CN": "** 快回来！火山即将爆炸！ **",
+      "KR": "** 서둘러 돌아오세요! 화산이 곧 폭발합니다! **",
+      "TW": "** 快回來！火山即將爆發！ **"
+    }
   },
   "** Hold your ground! The inner court is behind these doors, waiting for us! **": {
-    "translation": "**坚守阵地！内院就在这些门后，等待着我们！**"
+    "translation": "**坚守阵地！内院就在这些门后，等待着我们！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** その場から動くな！扉の向こうにある中庭が、我々を待っている**",
+      "CN": "** 坚守阵地！内殿就在这些门后，正等着我们！ **",
+      "KR": "** 지킵시다! 안쪽 성당은 이 문 뒤에 있습니다. 우리를 기다리고 있습니다! **",
+      "TW": "** 固守陣地！內庭就在這些門後，等著我們！ **"
+    }
   },
   "** It shouldn't be hard to reach the summit! **": {
-    "translation": "**到达顶峰应该不难！**"
+    "translation": "**到达顶峰应该不难！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 山頂へ到達するのは難しくないはずだ！**",
+      "CN": "** 登上山顶应该不难！ **",
+      "KR": "** 정상에 도달하는 것은 어렵지 않을 것입니다! **",
+      "TW": "** 到達山頂應該不難！ **"
+    }
   },
   "** Keep it up! We cannot afford to have them break through! **": {
-    "translation": "**坚持住！我们不能让他们突破！**"
+    "translation": "**坚持住！我们不能让他们突破！**",
+    "MultiLang": {
+      "US": "*** Keep it up! We can't afford for them to break through! ***",
+      "JP": "**頑張れ！彼らに突破させてはならない！**",
+      "CN": "** 坚持住！我们不能让他们突破防线！**",
+      "KR": "** 잘하고 있어! 그들이 돌파하지 못하게 막아야 해!**",
+      "TW": "堅持住！不能讓他們突破防線！"
+    }
   },
   "** MOVE IT! THEY ARE EVERYWHERE! **": {
-    "translation": "**快点！他们到处都是！**"
+    "translation": "**快点！他们到处都是！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**急げ！あちこちに敵がいる！**",
+      "CN": "** 快行动！到处都是敌人！**",
+      "KR": "** 급해! 녀석들이 여기저기서 나타나고 있어!**",
+      "TW": "快點！他們無處不在！"
+    }
   },
   "** One more push! HOLD IT! **": {
-    "translation": "**再坚持一下！坚持住！**"
+    "translation": "**再坚持一下！坚持住！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**あと一押しだ！押さえてくれ！**",
+      "CN": "** 再加把劲！顶住！**",
+      "KR": "** 마지막 한 방! 버텨내!**",
+      "TW": "再推一把！守住陣地！"
+    }
   },
   "** RESIST! WE ARE ABOUT TO GO! **": {
-    "translation": "**防守！我们快要出发了！**"
+    "translation": "**防守！我们快要出发了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**抵抗しろ！俺たちが次の場所に移動するぞ！**",
+      "CN": "** 抵抗！我们要坚持不住了！**",
+      "KR": "** 저항해! 우리가 곧 나갈 시간이야!**",
+      "TW": "抵抗住！我們即將成功！"
+    }
   },
   "** Some sort of contraption is rising! Do not let them reach us! **": {
-    "translation": "**某种装置在升起！不要让它们靠近我们！**"
+    "translation": "**某种装置在升起！不要让它们靠近我们！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**何か仕掛けのようなものが浮上してきた！近づくな！**",
+      "CN": "** 某种机关正在升起！不要让他们靠近我们！**",
+      "KR": "** 뭔가가 떠오르고 있어! 그들이 우리에게 다가오게 두지 마!**",
+      "TW": "某種機械裝置正在升起！絕不能讓他們靠近！"
+    }
   },
   "** Something moved upon touching the gem... **": {
-    "translation": "**触碰宝石后有什么东西动了...**"
+    "translation": "**触碰宝石后有什么东西动了...**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**宝石に接触すると、何かが動いたようだ…**",
+      "CN": "** 宝石触碰到时产生了异动……**",
+      "KR": "** 수정석에 닿자 무언가 움직였다... **",
+      "TW": "觸及寶石時發生了異變……"
+    }
   },
   "** Swim to the shore! We must reach the top! **": {
-    "translation": "**游到岸边！我们必须到达顶端！**"
+    "translation": "**游到岸边！我们必须到达顶端！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**岸へ泳げ！頂上到達だ！**",
+      "CN": "** 游向岸边！我们必须到达顶点！**",
+      "KR": "** 강가로 수영해서 가자! 우리가 꼭 정상에 도달해야 해!**",
+      "TW": "游向岸邊！我們必須到達頂端！"
+    }
   },
   "** The gem only produced a faint sound, as if the effect was to be felt far away... **": {
-    "translation": "**宝石只发出了微弱的声音，仿佛效果在远处才能感受到...**"
+    "translation": "**宝石只发出了微弱的声音，仿佛效果在远处才能感受到...**",
+    "MultiLang": {
+      "US": "The gem emitted only a faint sound, as if the effect could be sensed from afar...",
+      "JP": "**宝石は微かな音を鳴らし、効果は遥か彼方で感じられるようだった…**",
+      "CN": "** 宝石只发出了微弱的声响，仿佛效果遥不可及……**",
+      "KR": "** 수정석은 약한 소리만 냈는데, 마치 효과가 멀리서 느껴지는 것 같았다... **",
+      "TW": "寶石只發出微弱的聲響，效果似乎遙不可及……"
+    }
   },
   "** The legend was true! A bridge slashes through the waters of an everblue sea! JUMP! **": {
-    "translation": "**传说是真的！一座桥穿过蔚蓝的海水！跳！**"
+    "translation": "**传说是真的！一座桥穿过蔚蓝的海水！跳！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "伝説は本当だった！ everblueの海を切り裂く橋！ JUMP！",
+      "CN": "传说是真的！一座大桥斩断碧蓝大海的水面！跳！",
+      "KR": "** 전설이 사실이었습니다! 푸른 바다를 가로지르는 다리가 나타났습니다! 점프하세요! **",
+      "TW": "** 傳說成真了！一座橋橫跨越海藍色的海洋！跳！**"
+    }
   },
   "** The temple may become far more ruthless from this point on... **": {
-    "translation": "**从这一刻起，寺庙可能会变得更加无情...**"
+    "translation": "**从这一刻起，寺庙可能会变得更加无情...**",
+    "MultiLang": {
+      "US": "",
+      "JP": "神殿はここからさらに手厳しくなる可能性があります…",
+      "CN": "从现在起，神庙可能会变得更加无情……",
+      "KR": "** 이제부터 이 사원은 더욱 냉혹해질 수도 있습니다... **",
+      "TW": "** 從這裡開始，神廟可能會變得更為殘酷……**"
+    }
   },
   "** The temple seems to rely on elevators upon elevators... **": {
-    "translation": "**寺庙似乎依赖于一层又一层的电梯...**"
+    "translation": "**寺庙似乎依赖于一层又一层的电梯...**",
+    "MultiLang": {
+      "US": "The temple seems to rely on elevator after elevator...",
+      "JP": "神殿はエレベーターに依存しているように見える…",
+      "CN": "这座神庙似乎依赖于层层电梯……",
+      "KR": "** 사원은 엘리베이터를 계속 타고 올라가는 것 같습니다... **",
+      "TW": "** 神廟似乎充滿了層層電梯……**"
+    }
   },
   "** The way is clear! We must reach the top of Totemo Roka! **": {
-    "translation": "**道路畅通！我们必须到达洛卡之城的顶端！**"
+    "translation": "**道路畅通！我们必须到达洛卡之城的顶端！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "道は開けた！ Totemo Rokaの頂上へ到達しなければならない！",
+      "CN": "道路畅通！我们必须到达托特莫·罗卡之巅！",
+      "KR": "** 길이 열렸습니다! 토템 로카 정상에 도달해야 합니다! **",
+      "TW": "** 道路暢通無阻！我們必須抵達托特莫·洛卡的頂端！**"
+    }
   },
   "** This is our chance to break free from the Totema Curse! **": {
-    "translation": "**这是我们摆脱洛卡诅咒的机会！**"
+    "translation": "**这是我们摆脱洛卡诅咒的机会！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "これがTotemaの呪いから解き放たれるチャンスだ！",
+      "CN": "这是我们摆脱托特玛诅咒的机会！",
+      "KR": "** 이것이 바로 우리에게 토템의 저주에서 벗어나게 할 기회입니다! **",
+      "TW": "** 這是我們擺脫托特摩詛咒的絕佳機會！**"
+    }
   },
   "** This is the second seal! A way should appear for us to reach Tot-ghul Ka will open shortly! **": {
-    "translation": "**这是第二道封印！通往Tot-ghul Ka的道路即将为我们打开！**"
+    "translation": "**这是第二道封印！通往Tot-ghul Ka的道路即将为我们打开！**",
+    "MultiLang": {
+      "US": "*** This is the second seal! A path should appear soon to reach Tot-ghul Ka. ***",
+      "JP": "これは2番目の封印だ！ Tot-ghul Kaに到達する方法が現れ、まもなく開くはずだ！",
+      "CN": "这是第二个封印！通往托-古尔卡的道路即将开启！",
+      "KR": "** 두 번째封印이 풀립니다! 토탈-굴 카에 도달하는 길이 곧 나타날 것입니다! **",
+      "TW": "** 這是第二道封印！通往托特-古爾卡的路即將開啟！**"
+    }
   },
   "** This is the third seal! The gates will open soon! **": {
-    "translation": "**这是第三道封印！大门很快就会打开！**"
+    "translation": "**这是第三道封印！大门很快就会打开！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "これは3番目の封印だ！ まもなく扉が開く！",
+      "CN": "这是第三个封印！大门即将打开！",
+      "KR": "** 세 번째封印이 해제됩니다! 문들이 곧 열릴 것입니다! **",
+      "TW": "** 這是第三道封印！大門很快就會打開！**"
+    }
   },
   "** This platform seems like some sort of lift -- do not let anything through!**": {
-    "translation": "**这个平台看起来像某种升降机——不要让任何东西通过！**"
+    "translation": "**这个平台看起来像某种升降机——不要让任何东西通过！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "このプラットフォームは何かのリフトのようだ — 何かが通らないよう注意するんだ！",
+      "CN": "这个平台似乎是一个升降机——别让任何东西通过！",
+      "KR": "** 이 플로어는某种 형태의 리프트인 것 같습니다 -- 아무도 지나가지 못하게 하십시오! **'",
+      "TW": "** 這個平台看起來像某種電梯——別讓任何東西通過！**"
+    }
   },
   "** Totemo Roka lies ahead -- and beyond, the sacred city of Totghul Ka! **": {
-    "translation": "**洛卡之城就在前方——再往前，就是神圣的Totghul Ka城！**"
+    "translation": "**洛卡之城就在前方——再往前，就是神圣的Totghul Ka城！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 前にはトヴェル・ローカがあり、その向こうに聖都トーグール・カーがある！**",
+      "CN": "** 前方即是托特莫·洛卡——更远处，便是神圣之城托格库尔·卡！**",
+      "KR": "** 전진, 로카의 끝까지. 그리고 그 너머, 성도 토그울 카로! **",
+      "TW": "** 前方就是托特莫·羅卡——更遠處，神聖城市托格爾·卡就在眼前！**"
+    }
   },
   "** Touch the gem at the helm -- there can't be much time left! **": {
-    "translation": "**触摸船首的宝石——剩下的时间不多了！**"
+    "translation": "**触摸船首的宝石——剩下的时间不多了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 操縦席の宝石に触れろ――残り時間がないはずだ！",
+      "CN": "** 触碰舵首的宝石——时间不多了！**",
+      "KR": "** 선창의 보석을 만져라. 시간이 많이 남지 않았다! **",
+      "TW": "** 觸碰操舵處的寶Gem——時間不多了！**"
+    }
   },
   "** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **": {
-    "translation": "**我们快到顶峰了！神圣的Tot-ghul Ka在地平线上等待着我们！**"
+    "translation": "**我们快到顶峰了！神圣的Tot-ghul Ka在地平线上等待着我们！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** もうすぐ頂上だ！地平線に聖都トートール・カが待っている！",
+      "CN": "** 我们几乎抵达顶峰！地平线上的神圣之城托格库尔·卡正等待着我们的到来！**",
+      "KR": "** 봉우리 바로眼下다! 천평 너머로 성도 톳-굴 가가 기다리고 있다! **",
+      "TW": "** 我們即將登頂！神聖城市托-格爾·卡就在地平線上等著！**"
+    }
   },
   "** We are very close! Keep it up for the last bit! **": {
-    "translation": "**我们非常接近了！最后一点，继续加油！**"
+    "translation": "**我们非常接近了！最后一点，继续加油！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 非常に接近した！最後のわずかな距離を頑張れ！",
+      "CN": "** 我们离终点非常近了！坚持住最后一段路！**",
+      "KR": "** 목표까지 단 한 발짝! 마무리를 잘 해내자! **",
+      "TW": "** 我們非常接近目標！請保持節奏直到最後一刻！**"
+    }
   },
   "** We cracked the last seal! Our escape pod should be here soon! **": {
-    "translation": "**我们破解了最后一道封印！我们的逃生舱应该很快就到！**"
+    "translation": "**我们破解了最后一道封印！我们的逃生舱应该很快就到！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 最後の封印を破った！脱出ポッドがもうすぐ到着するはずだ！",
+      "CN": "** 最后一个封印已被破解！我们的逃生舱应该很快就会到达！**",
+      "KR": "** 마지막 봉인을 해제했다. 탈출용 포드가 곧 도착할 것이다! **",
+      "TW": "** 我們破解了最後一道封印！逃生艙應該馬上就會到！**"
+    }
   },
   "** We gotta hold our ground over here! **": {
-    "translation": "**我们必须在这里坚守阵地！**"
+    "translation": "**我们必须在这里坚守阵地！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** こちらで阵地を維持しろ！",
+      "CN": "** 我们必须在这里坚守阵地！**",
+      "KR": "** 여기도 막아내야 해! **",
+      "TW": "** 我們必須在這裡堅守陣地！**"
+    }
   },
   "** We have finally reached the Karuga archipelago... **": {
-    "translation": "**我们终于到达了Karuga群岛...**"
+    "translation": "**我们终于到达了Karuga群岛...**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** カーガ列島に到達した……",
+      "CN": "** 我们终于抵达了卡拉古群岛……**",
+      "KR": "** 드디어 카루가 제도에 도착했다… **",
+      "TW": "** 我們終於來到了卡魯加群島……**"
+    }
   },
   "** We must get to the top! **": {
-    "translation": "**我们必须到达顶端！**"
+    "translation": "**我们必须到达顶端！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 頂上へ向かえ！",
+      "CN": "** 我们必须登上顶峰！**",
+      "KR": "** 꼭대기로 간다! **",
+      "TW": "** 我們必須到達頂端！**"
+    }
   },
   "** We need to find a way into the walled temple! Move it! **": {
-    "translation": "**我们需要找到进入围墙寺庙的路！快动起来！**"
+    "translation": "**我们需要找到进入围墙寺庙的路！快动起来！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁を張った神殿に侵入する道を見つけなきゃ！急いで！",
+      "CN": "我们必须找到进入围墙神庙的方法！快！",
+      "KR": "우리는 성벽으로 둘러싸인 사원으로 들어갈 방법을 찾아야 합니다! 서두릅시다!",
+      "TW": "** 我們得找到進入圍牆寺廟的方法！行動快點！**"
+    }
   },
   "** We reached the first sacred seal! The path should clear soon! **": {
-    "translation": "**我们到达了第一个神圣封印！道路很快就会清理干净！**"
+    "translation": "**我们到达了第一个神圣封印！道路很快就会清理干净！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "最初の聖印に到達したぞ！道はすぐに開けるはずだ！",
+      "CN": "我们到达了第一个圣印！道路应该很快就会打通！",
+      "KR": "첫 번째 성스러운 봉인을 찾았습니다! 곧 길이 열릴 것입니다!",
+      "TW": "** 我們到達了第一個聖印！路徑應該快會開了！**"
+    }
   },
   "** YES! The final seal is right there! **": {
-    "translation": "**是的！最后的封印就在那儿！**"
+    "translation": "**是的！最后的封印就在那儿！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "YES! 最後の封印がここにあるぞ！",
+      "CN": "对！最后一个封印就在前方！",
+      "KR": "다행입니다! 마지막 봉인이 바로 거기 있습니다!",
+      "TW": "** 對！最終的聖印就在前方！**"
+    }
   },
   "** YOU ARE DONE! **": {
-    "translation": "**你完成了！翻译：Asteri3m**"
+    "translation": "**你完成了！翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "YOU ARE DONE!",
+      "CN": "任务完成！",
+      "KR": "성공입니다!",
+      "TW": "** 你成功了！**"
+    }
   }
 }

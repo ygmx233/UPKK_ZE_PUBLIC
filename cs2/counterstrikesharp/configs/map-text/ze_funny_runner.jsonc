@@ -1,0 +1,202 @@
+{
+  ">>> map by =LIROY= <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "制作：LIROY",
+      "CN": "地图作者 =LIROY= <<<",
+      "KR": ">>> map by =LIROY= <<<",
+      "TW": ">>>地圖由=LIROY=設計<<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP PUSH <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは『PUSH』を取得しました",
+      "CN": ">>> 玩家已拾取推箱子 <<<",
+      "KR": ">>> PLAYER HAS PICKED UP PUSH <<<",
+      "TW": ">>>玩家拾取了推力道具<<<"
+    }
+  },
+  ">>> PLAYER USED PUSH <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは『PUSH』を使用しました",
+      "CN": ">>> 玩家使用了推箱子 <<<",
+      "KR": ">>> PLAYER USED PUSH <<<",
+      "TW": ">>>玩家使用了推力道具<<<"
+    }
+  },
+  ">>> WELL DONE ! NEED 2 MORE BUTTONS ! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "素晴らしい！あと2つのボタンが必要です！",
+      "CN": ">>> 做得好！还需要2个按钮！ <<<",
+      "KR": ">>> WELL DONE ! NEED 2 MORE BUTTONS ! <<<",
+      "TW": ">>>太棒了！還需要2個按鈕！<<<"
+    }
+  },
+  ">>> ZOMBIE HAS PICKED UP DRAGON <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビがドラゴンを選択しました",
+      "CN": ">>> 僵尸已拾取龙 <<<",
+      "KR": ">>> ZOMBIE HAS PICKED UP DRAGON <<<",
+      "TW": ">>>殭屍拾取了龍道具<<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP GRAVITY <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは『重力』を取得しました",
+      "CN": ">>> 玩家已拾取重力 <<<",
+      "KR": ">>> PLAYER HAS PICKED UP GRAVITY <<<",
+      "TW": ">>>玩家拾取了重力道具<<<"
+    }
+  },
+  ">>> PLAYER USED GRAVITY <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは『重力』を使用しました",
+      "CN": ">>> 玩家使用了重力 <<<",
+      "KR": ">>> PLAYER USED GRAVITY <<<",
+      "TW": ">>>玩家使用了重力道具<<<"
+    }
+  },
+  ">>> WELL DONE ! NEED 1 MORE BUTTON ! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "素晴らしい！あと1つのボタンが必要です！",
+      "CN": ">>> 做得好！还需要1个按钮！ <<<",
+      "KR": ">>> WELL DONE ! NEED 1 MORE BUTTON ! <<<",
+      "TW": ">>>太棒了！還需要1個按鈕！<<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP FIRE <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーは火を手に入れた <<<",
+      "CN": ">>> 玩家已拾取火焰 <<<",
+      "KR": ">>> 플레이어가 화염을 획득했습니다 <<<",
+      "TW": ">>> 玩家已拾取火焰 <<<"
+    }
+  },
+  ">>> PLAYER USED FIRE <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーは火を使用した <<<",
+      "CN": ">>> 玩家使用火焰 <<<",
+      "KR": ">>> 플레이어는 화염을 사용했습니다 <<<",
+      "TW": ">>> 玩家使用火焰 <<<"
+    }
+  },
+  ">>> CORONAVIRUS USE LASER WALL !!!<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> コロナウイルスはレーザーウォールを使用中！！<<<",
+      "CN": ">>> 新冠病毒使用激光墙！<<<",
+      "KR": ">>> 코로나바이러스가 레이저 월을 사용합니다 !!!<<<",
+      "TW": ">>> 病毒使用激光墙！！！<<<"
+    }
+  },
+  ">>> CORONAVIRUS USE VIRUS !!! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> コロナウイルスはウイルス攻撃！！ <<<",
+      "CN": ">>> 新冠病毒使用病毒攻击！！！<<<",
+      "KR": ">>> 코로나바이러스가 바이러스를 사용합니다 !!! <<<",
+      "TW": ">>> 病毒释放病毒攻击！！！ <<<"
+    }
+  },
+  ">>> CORONAVIRUS USE LASERS !!! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> コロナウイルスはレーザー発射！！ <<<",
+      "CN": ">>> 新冠病毒使用激光！！！<<<",
+      "KR": ">>> 코로나바이러스가 레이저를 사용합니다 !!! <<<",
+      "TW": ">>> 病毒发射激光！！！ <<<"
+    }
+  },
+  ">>> CORONAVIRUS USE RAIN !!!<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> コロナウイルスは豪雨発生！！！<<<",
+      "CN": ">>> 新冠病毒使用降雨攻击！<<<",
+      "KR": ">>> 코로나바이라이러스가 비를 맞춥니다 !<<<",
+      "TW": ">>> 病毒降下暴雨！！！<<<"
+    }
+  },
+  ">>> CORONAVIRUS USE PUSH FORWARD !!!<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> コロナウイルスは前進強制！！<<<",
+      "CN": ">>> 新冠病毒使用向前推力！！！<<<",
+      "KR": ">>> 코로나바이러스가 앞으로 전진합니다 !!!<<<",
+      "TW": ">>> 病毒使用推挤攻击！！！<<<"
+    }
+  },
+  "<<< IT'S ZOMBIE LASERS TIME ! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ファイターズレーザーの時間だ！ >>>",
+      "CN": "<<< 僵尸激光时间到！>>>",
+      "KR": "<<< 좀비 레이저 시간입니다 ! >>>",
+      "TW": "<<< 僵尸激光时刻到了！ >>>"
+    }
+  },
+  ">>> ZOMBIE HAS PICKED UP SPIDER <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビがスパイダーを拾った",
+      "CN": ">>> 僵尸已拾取蜘蛛 <<<",
+      "KR": "좀비가 거미를 집었습니다",
+      "TW": "殭屍已撿起蜘蛛"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが回復アイテムを拾った",
+      "CN": ">>> 玩家已拾取治疗道具 <<<",
+      "KR": "플레이어가 치유 아이템을 주웠습니다",
+      "TW": "玩家已獲得治療包"
+    }
+  },
+  ">>> PLAYER USED HEAL<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが回復を使用した",
+      "CN": ">>> 玩家使用了治疗 <<<",
+      "KR": "플레이어가 치유 아이템을 사용했습니다",
+      "TW": "玩家使用了治療包"
+    }
+  },
+  ">>> CORONAVIRUS USE PUSH BACKWARD  !!! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コロナウィルスが後方への反動を使用する！！！」",
+      "CN": ">>> 冠状病毒发动击退效果！！！<<<",
+      "KR": "코로나바이러스가 후퇴 추진을 사용합니다!!!",
+      "TW": "coronavirus使用後退效果！！！"
+    }
+  }
+}

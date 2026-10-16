@@ -1,441 +1,1562 @@
 {
   "...": {
-    "translation": "..."
+    "translation": "...",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "...",
+      "KR": "",
+      "TW": ""
+    }
   },
   "10 Seconds": {
-    "translation": "10 秒"
+    "translation": "10秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒",
+      "CN": "10秒",
+      "KR": "10초",
+      "TW": "10秒"
+    }
   },
   "100%": {
-    "translation": "100%"
-  },
-  "20 Seconds": {
-    "translation": "20 秒"
-  },
-  "25%": {
-    "translation": "25%"
-  },
-  "30 Seconds": {
-    "translation": "30 秒"
-  },
-  "45 Seconds": {
-    "translation": "45 秒"
-  },
-  "50%": {
-    "translation": "50%"
-  },
-  "60 Seconds CD | 10 Seconds Duration": {
-    "translation": "60 秒 CD | 10 秒持续时间",
-    "DoorCountDown": -1
-  },
-  "60 Seconds CD | 5 Seconds Duration": {
-    "translation": "60 秒 CD | 5 秒持续时间",
-    "DoorCountDown": -1
-  },
-  "75%": {
-    "translation": "75%"
-  },
-  "Absorb": {
-    "translation": "吸收 3s"
-  },
-  "An available loot point has been found": {
-    "translation": "已找到可用的战利品点"
-  },
-  "Blue Fireball has been picked up": {
-    "translation": "已拾取蓝色火球"
-  },
-  "Blue's going to contain that thing": {
-    "translation": "蓝色将收容那个东西"
-  },
-  "Blue's long dead, let's just get back.": {
-    "translation": "蓝色早已消亡，我们赶紧回去吧。"
-  },
-  "Blue's long dead, what did you expect from Red's reign": {
-    "translation": "蓝色早已消亡，你对红色的统治有何期待"
-  },
-  "Boss is dead!": {
-    "translation": "Boss 死了！"
-  },
-  "CD: 5 Seconds": {
-    "translation": "CD：5 秒",
-    "DoorCountDown": -1
-  },
-  "Cleared!": {
-    "translation": "已完成！",
-    "ClearTimer": true
-  },
-  "Cooldown: 20 Seconds": {
-    "translation": "冷却时间：20 秒",
-    "DoorCountDown": -1
-  },
-  "Cooldown: 30 Seconds": {
-    "translation": "冷却时间：30 秒",
-    "DoorCountDown": -1
-  },
-  "Cooldown: 45 Seconds | Duration: 5 Seconds": {
-    "translation": "冷却时间：45 秒 | 持续时间：5 秒",
-    "DoorCountDown": -1
-  },
-  "Cooldown: 60 Seconds | Duration: 10 Seconds": {
-    "translation": "冷却时间：60 秒 | 持续时间：10 秒",
-    "DoorCountDown": -1
-  },
-  "Cooldown: 90 Seconds Duration: 10 Seconds": {
-    "translation": "冷却时间：90 秒持续时间：10 秒",
-    "DoorCountDown": -1
-  },
-  "Cooldown: 90 Seconds | Duration: 5 Seconds": {
-    "translation": "冷却时间：90 秒|持续时间：5 秒",
-    "DoorCountDown": -1
-  },
-  "Devour": {
-    "translation": "吞噬 3s"
-  },
-  "Did we kill it..?": {
-    "translation": "我们杀了它吗？"
-  },
-  "Doors will close in 10 Seconds": {
-    "translation": "门将在 10 秒后关闭"
-  },
-  "Elevator will break in 5 Seconds": {
-    "translation": "电梯将在 5 秒后损坏"
-  },
-  "Elevator will rise in 20 Seconds": {
-    "translation": "电梯将在 20 秒后上升"
-  },
-  "Escape is leaving in 30 Seconds": {
-    "translation": "最终逃生将在 30 秒后离开"
-  },
-  "Failed!": {
-    "translation": "失败！"
-  },
-  "Firewall has been picked up": {
-    "translation": "火墙已被拾起"
-  },
-  "Flame has been picked up": {
-    "translation": "火焰已被拾起"
-  },
-  "Fully Charged": {
-    "translation": "能量已满"
-  },
-  "Get away from the elevator!": {
-    "translation": "远离电梯！"
-  },
-  "Get on a body of water!": {
-    "translation": "快泡在水里！"
-  },
-  "Green Fireball has been picked up": {
-    "translation": "绿色火球已被拾起"
-  },
-  "Have fun!": {
-    "translation": "玩得开心！"
-  },
-  "Heal has been picked up": {
-    "translation": "治疗已被拾起"
-  },
-  "Hurry! Get to the entrance!": {
-    "translation": "快点！到达入口！"
-  },
-  "It's that thing..": {
-    "translation": "就是那个东西。。"
-  },
-  "Kill it in 60 Seconds": {
-    "translation": "在 60 秒内杀死它"
-  },
-  "Left door opens in 20 Seconds": {
-    "translation": "左边的门在 20 秒后打开"
-  },
-  "Let's just get back": {
-    "translation": "我们回去吧"
-  },
-  "Loading Stage 1": {
-    "translation": "加载 Stage 1"
-  },
-  "Loading Stage 2": {
-    "translation": "加载 Stage 2"
-  },
-  "Look on top, it's blue..?": {
-    "translation": "看看上面，它是蓝色的。。？"
-  },
-  "Loot Item has been picked up": {
-    "translation": "战利品已被拾起"
-  },
-  "Loot points have been depleted": {
-    "translation": "战利品点已耗尽"
-  },
-  "Map by KadianS": {
-    "translation": "地图作者：KadianS 翻译：Ayanami♪"
-  },
-  "Maximum amount of loot has been reached!": {
-    "translation": "战利品数量已达到上限！"
-  },
-  "Next Stage has been Triggered": {
-    "translation": "已触发下一阶段"
-  },
-  "One time use!": {
-    "translation": "只能使用一次！"
-  },
-  "Problems? Contact me": {
-    "translation": "有问题？联系我"
-  },
-  "Pull four levers around the place to charge blue up": {
-    "translation": "拉动四周的四个杠杆为蓝色充能"
-  },
-  "Quick, no time to waste. Let's find a way to obtain blue's power": {
-    "translation": "快，不要浪费时间。让我们找到获得蓝色力量的方法"
-  },
-  "Red Fireball has been picked up": {
-    "translation": "红色火球已被拾起"
-  },
-  "Right door closes in 10 Seconds": {
-    "translation": "右门将在 10 秒后关闭"
-  },
-  "Right door opens in 20 Seconds": {
-    "translation": "右门将在 20 秒后打开"
-  },
-  "SHOOT IT!!": {
-    "translation": "射击它！！"
-  },
-  "Scourge": {
-    "translation": "天灾 3s (触碰水来规避伤害)"
-  },
-  "Shoot it!": {
-    "translation": "射击它！"
-  },
-  "Shoot it!!": {
-    "translation": "射击它！！"
-  },
-  "Shortcut will be opened": {
-    "translation": "将打开捷径"
-  },
-  "Spawning Hammers": {
-    "translation": "生成锤子"
-  },
-  "Spawning Loot Points": {
-    "translation": "生成战利品点"
-  },
-  "Steam": {
-    "translation": "蒸汽 3s"
-  },
-  "Step unto the playform to recieve blue's power.": {
-    "translation": "踏上中间的板子以接收蓝色力量。"
-  },
-  "Survive for 30 Seconds": {
-    "translation": "存活 30 秒"
-  },
-  "Survive for 60 Seconds": {
-    "translation": "存活 60 秒"
-  },
-  "Survive for 60 more seconds": {
-    "translation": "再存活 60 秒"
-  },
-  "Survive until Blue has been charged up": {
-    "translation": "存活至蓝色充能"
-  },
-  "TP in 10 Seconds": {
-    "translation": "10 秒后传送"
-  },
-  "Wait, It's about to explode!!": {
-    "translation": "等等，它就要爆炸了！！"
-  },
-  "Warp Item has been picked up": {
-    "translation": "时空扭曲已被拾起"
-  },
-  "Water Nymph has been picked up": {
-    "translation": "水仙子已被拾起"
-  },
-  "Water Nymph is now spammable!": {
-    "translation": "水仙子现在可以频繁使用了！"
-  },
-  "We can't get passed through that thing yet": {
-    "translation": "我们暂时无法穿过那个东西"
-  },
-  "We don't know where's blue though": {
-    "translation": "但我们不知道蓝色在哪里"
-  },
-  "We got Green and Yellow's power": {
-    "translation": "我们得到了绿色和黄色的力量"
-  },
-  "We got enough power to charge through the courtyard defense": {
-    "translation": "我们有足够的力量冲破庭院防御"
-  },
-  "We have to go back though..": {
-    "translation": "但我们得回去了……"
-  },
-  "We might be able to go through the courtyard now": {
-    "translation": "我们现在也许可以穿过庭院了"
-  },
-  "We need to get out of here!": {
-    "translation": "我们需要离开这里！"
-  },
-  "We should find a way": {
-    "translation": "我们应该想办法"
-  },
-  "We'll be more prepared using these two's powers": {
-    "translation": "利用这两种力量，我们会准备得更充分"
-  },
-  "We'll have to go back here tomorrow": {
-    "translation": "我们明天必须回去"
-  },
-  "We're back here": {
-    "translation": "我们回来了"
-  },
-  "What do we do now?": {
-    "translation": "我们现在做什么？"
-  },
-  "Where are we..?": {
-    "translation": "我们在哪……？"
-  },
-  "Yellow Fireball has been picked up": {
-    "translation": "黄色火球已被拾起"
-  },
-  "ZM Flight item has been used.": {
-    "translation": "ZM 飞行已被使用。"
-  },
-  "ZM Flight item is READY": {
-    "translation": "ZM 飞行已准备就绪"
-  },
-  "ZM TP in 10 Seconds": {
-    "translation": " 10 秒后僵尸传送"
-  },
-  "ZM TP in 10 seconds": {
-    "translation": "10 秒后僵尸传送"
-  },
-  "ZM TP in 15 Seconds": {
-    "translation": "15 秒后僵尸传送"
-  },
-  "Zombie Attack": {
-    "translation": "僵尸进攻"
-  },
-  "Zombie Fireball has been picked up": {
-    "translation": "已拾取僵尸火球"
-  },
-  "Zombie Flight has been picked up": {
-    "translation": "已拾取僵尸飞行"
-  },
-  "Zombie Gravity has been picked up": {
-    "translation": "已拾取僵尸重力"
-  },
-  "Zombie Heal has been picked up": {
-    "translation": "已拾取僵尸治疗"
-  },
-  "Zombie Items have been spawned": {
-    "translation": "已生成僵尸神器"
-  },
-  "Zombies has been Released": {
-    "translation": "已释放僵尸"
-  },
-  "[Defend yourself while shooting it]": {
-    "translation": "[射击时保护自己]"
-  },
-  "[GET OUT]": {
-    "translation": "[撤退]"
-  },
-  "[NUKE IN 180 SECONDS]": {
-    "translation": "[180 秒后触发核弹]"
-  },
-  "Want to donate? Visit my Patreon!": {
-    "translation": "想捐款吗？访问我的Patreon！"
-  },
-  "A lever has been pulled": {
-    "translation": "一个杠杆被拉动了"
-  },
-  "A metal pipe has been picked up": {
-    "translation": "一根钢管被拾起"
-  },
-  "Admin room is on top of spawn": {
-    "translation": "Admin房间在出生点的上方"
-  },
-  "Turn up your graphics settings to enjoy the best experience!": {
-    "translation": "提高画质以享受最佳体验！"
-  },
-  "Congratulations! You won the map!": {
-    "translation": "恭喜！你征服了这张地图！"
-  },
-  "Legacy Stage has been Triggered": {
-    "translation": "已触发 Legacy 关卡"
-  },
-  "Marathon Stage is currently not available on this version!": {
-    "translation": "此版本目前不提供 Marathon Stage！"
-  },
-  "Legacy Stage has been set!": {
-    "translation": "加载 Legacy 关卡"
-  },
-  "Stage 1 has been set!": {
-    "translation": "Admin选择了 Stage 1"
-  },
-  "Stage 2 has been set!": {
-    "translation": "Admin选择了 Stage 2"
-  },
-  "Loading Legacy Stage": {
-    "translation": "Admin选择了 Legacy 关卡"
-  },
-  "Good ol' ball rain": {
-    "translation": "祝你好运，结尾有弹幕"
-  },
-  "I won't let you go through the boss again lol": {
-    "translation": "我不会让你再通过那个boss了哈哈:)"
-  },
-  "Look down!": {
-    "translation": "看脚底！"
-  },
-  "You won!": {
-    "translation": "你赢了！"
+    "translation": "100%",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "100%",
+      "KR": "",
+      "TW": ""
+    }
   },
   "15 Seconds": {
-    "translation": ""
+    "translation": "15秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒",
+      "CN": "15秒",
+      "KR": "15초",
+      "TW": "15秒"
+    }
   },
-  "We'll go back here tomorrow": {
-    "translation": ""
+  "20 Seconds": {
+    "translation": "20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒",
+      "CN": "20秒",
+      "KR": "20초",
+      "TW": "20秒"
+    }
+  },
+  "25 Seconds": {
+    "translation": "25秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒",
+      "CN": "25秒",
+      "KR": "25초",
+      "TW": "25秒"
+    }
+  },
+  "25%": {
+    "translation": "25%",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "25%",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "30 Seconds": {
+    "translation": "30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒",
+      "CN": "30秒",
+      "KR": "30초",
+      "TW": "30秒"
+    }
+  },
+  "45 Seconds": {
+    "translation": "45秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "45秒",
+      "CN": "45秒",
+      "KR": "45초",
+      "TW": "45秒"
+    }
+  },
+  "50%": {
+    "translation": "50%",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "50%",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "60 Seconds CD | 10 Seconds Duration": {
+    "translation": "60秒冷却 | 10持续时间",
+    "MultiLang": {
+      "US": "",
+      "JP": "CD 60秒 | 持続時間10秒",
+      "CN": "冷却时间：60秒 | 持续时间：10秒",
+      "KR": "쿨타임 60초 | 지속 시간 10초",
+      "TW": "冷卻時間60秒 | 持續時間10秒"
+    }
+  },
+  "60 Seconds CD | 5 Seconds Duration": {
+    "translation": "60秒冷却 | 5持续时间",
+    "MultiLang": {
+      "US": "",
+      "JP": "CD 60秒 | 持続時間5秒",
+      "CN": "冷却时间：60秒 | 持续时间：5秒",
+      "KR": "쿨타임 60초 | 지속 시간 5초",
+      "TW": "冷卻時間60秒 | 持續時間5秒"
+    }
+  },
+  "75%": {
+    "translation": "75%",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "75%",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "??? Item has been picked up": {
+    "translation": "空间扭曲已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "??? アイテムを拾った",
+      "CN": "已拾取物品",
+      "KR": "??? 아이템을 획득했습니다",
+      "TW": "道具已被拾取"
+    }
+  },
+  "A lever has been pulled": {
+    "translation": "拉动杠杆",
+    "MultiLang": {
+      "US": "",
+      "JP": "レバーが引かれた",
+      "CN": "杠杆已被拉动",
+      "KR": "레버가 당겨졌습니다",
+      "TW": "槓桿已被扳動"
+    }
+  },
+  "A metal pipe has been picked up": {
+    "translation": "钢管已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "金属パイプを拾った",
+      "CN": "已拾取金属管",
+      "KR": "금속 파이프를 획득했습니다",
+      "TW": "金屬管已被拾取"
+    }
+  },
+  "Absorb": {
+    "translation": "吸收",
+    "MultiLang": {
+      "US": "",
+      "JP": "吸収",
+      "CN": "吸收",
+      "KR": "흡수",
+      "TW": "吸收"
+    }
+  },
+  "Admin room is on top of spawn": {
+    "translation": "调关房在出生点的上方",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理室はスポーン地点の上部にある",
+      "CN": "管理员房间位于出生点上方",
+      "KR": "관리자 실은 스폰 지점 위에 있습니다",
+      "TW": "管理室位於重生點頂部"
+    }
+  },
+  "Alternate Ending Triggered!": {
+    "translation": "替代结局已触发！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エンディング分岐発生！",
+      "CN": "已触发结局分支！",
+      "KR": "대체 엔딩 발동!",
+      "TW": "已觸發替代結局！"
+    }
+  },
+  "Ammo Item Used": {
+    "translation": "弹药已使用",
+    "MultiLang": {
+      "US": "",
+      "JP": "弾薬アイテムを使用した",
+      "CN": "弹药物品已使用",
+      "KR": "탄약 아이템 사용",
+      "TW": "子彈道具已使用"
+    }
+  },
+  "Ammo Item has been picked up": {
+    "translation": "弹药已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "弾薬アイテムを拾った",
+      "CN": "已拾取弹药物品",
+      "KR": "탄약 아이템을 획득했습니다",
+      "TW": "子彈道具已被拾取"
+    }
+  },
+  "An available loot point has been found": {
+    "translation": "已找到可用的战利品点",
+    "MultiLang": {
+      "US": "",
+      "JP": "利用可能な宝箱が見つかりました",
+      "CN": "已找到可用战利品点",
+      "KR": "사용 가능한 수확 지점을 찾았습니다",
+      "TW": "已發現一個可用戰利點"
+    }
+  },
+  "Blue Fireball has been picked up": {
+    "translation": "蓝色火球已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "青いファイアーボールを手に入れた",
+      "CN": "已拾取蓝色火球",
+      "KR": "블루 파이어볼을 획득했습니다",
+      "TW": "已拾取藍色火球"
+    }
   },
   "Blue's long dead": {
-    "translation": ""
+    "translation": "蓝已经死了很久",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブルーの長命は終わった",
+      "CN": "蓝队已全灭",
+      "KR": "블루가 오래전에 사망했습니다",
+      "TW": "布魯已身亡"
+    }
   },
-  "What's happening?": {
-    "translation": ""
+  "Boss is dead!": {
+    "translation": "boss已死亡！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスを倒した！",
+      "CN": "Boss已被击败！",
+      "KR": "보스가 격파되었습니다!",
+      "TW": "Boss 已殞落！"
+    }
   },
-  "I think Blue's going to contain Red": {
-    "translation": ""
+  "But, this is just the beginning of your journey": {
+    "translation": "但，这只是你旅程的开始",
+    "MultiLang": {
+      "US": "",
+      "JP": "しかし、これはあなたの冒険の始まりにすぎない",
+      "CN": "但这只是你旅程的开始",
+      "KR": "하지만, 이것은 여정의 시작에 불과합니다",
+      "TW": "然而，這只是您旅程的起點"
+    }
   },
-  "That might require this place to react abnormaly, in short: explode!": {
-    "translation": ""
+  "CD: 5 Seconds": {
+    "translation": "冷却时间：5",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールタイム：5秒",
+      "CN": "冷却时间：5秒",
+      "KR": "CD: 5초",
+      "TW": "冷卻時間：5 秒"
+    }
   },
-  "It's starting!": {
-    "translation": ""
+  "Cleared!": {
+    "translation": "清理完毕！",
+    "MultiLang": {
+      "US": "",
+      "JP": "クリア！",
+      "CN": "通关！",
+      "KR": "클리어!",
+      "TW": "通關成功！"
+    }
+  },
+  "Congratulations! You won the map!": {
+    "translation": "恭喜！你通关了这张地图！",
+    "MultiLang": {
+      "US": "",
+      "JP": "おめでとうございます！あなたはマップを征服しました！",
+      "CN": "恭喜！你已成功通关此地图！",
+      "KR": "축하합니다! 당신은 맵을 정복했습니다!",
+      "TW": "恭喜！您獲得了該地圖！"
+    }
+  },
+  "Congratulations.": {
+    "translation": "恭喜！",
+    "MultiLang": {
+      "US": "",
+      "JP": "おめでとう。",
+      "CN": "恭喜。",
+      "KR": "축하합니다.",
+      "TW": "恭喜。"
+    }
+  },
+  "Cooldown: 20 Seconds": {
+    "translation": "冷却时间：20",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールダウン：20秒",
+      "CN": "冷却时间：20 秒",
+      "KR": "쿨다운: 20초",
+      "TW": "冷卻時間：20秒"
+    }
+  },
+  "Cooldown: 30 Seconds": {
+    "translation": "冷却时间：30",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールダウン：30秒",
+      "CN": "冷却时间：30 秒",
+      "KR": "쿨다운: 30초",
+      "TW": "冷卻時間：30秒"
+    }
+  },
+  "Cooldown: 45 Seconds | Duration: 5 Seconds": {
+    "translation": "冷却时间：45 | 持续时间：5",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールダウン：45秒 | 持続時間：5秒",
+      "CN": "冷却时间：45 秒 | 持续时间：5 秒",
+      "KR": "쿨다운: 45초 | 지속시간: 5초",
+      "TW": "冷卻時間：45秒 | 持續時間：5秒"
+    }
+  },
+  "Cooldown: 60 Seconds | Duration: 10 Seconds": {
+    "translation": "冷却时间：60 | 持续时间：10",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールダウン：60秒 | 持続時間：10秒",
+      "CN": "冷却时间：60 秒 | 持续时间：10 秒",
+      "KR": "쿨다운: 60초 | 지속시간: 10초",
+      "TW": "冷卻時間：60秒 | 持續時間：10秒"
+    }
+  },
+  "Cooldown: 90 Seconds": {
+    "translation": "冷却时间：90",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールダウン：90秒",
+      "CN": "冷却时间：90 秒",
+      "KR": "쿨다운: 90초",
+      "TW": "冷卻時間：90秒"
+    }
+  },
+  "Cooldown: 90 Seconds Duration: 10 Seconds": {
+    "translation": "冷却时间：90 持续时间：10",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールダウン：90秒 持続時間：10秒",
+      "CN": "冷却时间：90 秒 持续时间：10 秒",
+      "KR": "쿨다운: 90초 지속시간: 10초",
+      "TW": "冷卻時間：90秒 持續時間：10秒"
+    }
+  },
+  "Cooldown: 90 Seconds | Duration: 5 Seconds": {
+    "translation": "冷却时间：90 | 持续时间：5",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールダウン：90秒 | 持続時間：5秒",
+      "CN": "冷却时间：90 秒 | 持续时间：5 秒",
+      "KR": "쿨다운: 90초 | 지속시간: 5초",
+      "TW": "冷卻時間：90秒 | 持續時間：5秒"
+    }
+  },
+  "Devour": {
+    "translation": "吞噬 3秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "喰らう",
+      "CN": "吞噬",
+      "KR": "먹어치우기",
+      "TW": "吞噬"
+    }
+  },
+  "Did we kill it..?": {
+    "translation": "我们杀死它了吗...?",
+    "MultiLang": {
+      "US": "",
+      "JP": "倒せたか..?",
+      "CN": "我们干掉它了吗…？",
+      "KR": "我們 죽였나..?",
+      "TW": "我們擊殺它了嗎…？"
+    }
   },
   "Doors will be opened in 10 Seconds": {
-    "translation": ""
+    "translation": "门将在10秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは10秒後に開きます",
+      "CN": "门将在10秒后打开",
+      "KR": "10초 후 문이 열립니다",
+      "TW": "門將在10秒後開啟"
+    }
   },
-  "Quick! Let's find a way to escape!": {
-    "translation": ""
+  "Doors will close in 10 Seconds": {
+    "translation": "门将在10秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは10秒後に閉まります",
+      "CN": "门将在10秒后关闭",
+      "KR": "10초 후 문이 닫힙니다",
+      "TW": "門將在10秒後關閉"
+    }
   },
-  "We have to be quick!, this things going to be a big one!": {
-    "translation": ""
+  "Elevator will break in 5 Seconds": {
+    "translation": "电梯将在5秒后故障",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは5秒後に壊れます",
+      "CN": "电梯将在5秒后损坏",
+      "KR": "5초 후 엘리베이터가 고장 납니다",
+      "TW": "電梯將在5秒後損壞"
+    }
   },
-  "Look, a flying vehicle!": {
-    "translation": ""
+  "Elevator will rise in 20 Seconds": {
+    "translation": "电梯将在20秒后上升",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは20秒後に動きます",
+      "CN": "电梯将在20秒后上行",
+      "KR": "20초 후 엘리베이터가 상승합니다",
+      "TW": "電梯將在20秒後上升"
+    }
+  },
+  "Failed!": {
+    "translation": "失败！",
+    "MultiLang": {
+      "US": "",
+      "JP": "失敗!",
+      "CN": "失败！",
+      "KR": "실패!",
+      "TW": "失敗！"
+    }
+  },
+  "Firewall has been picked up": {
+    "translation": "火墙已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイアウォールを拾いました",
+      "CN": "已拾取防火墙",
+      "KR": "방화벽을 주웠습니다",
+      "TW": "已拾取防火牆"
+    }
+  },
+  "Flame has been picked up": {
+    "translation": "火球已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "炎が拾われた",
+      "CN": "火焰已被拾取",
+      "KR": "화염 획득",
+      "TW": "火焰已被拾起"
+    }
+  },
+  "For now...": {
+    "translation": "现在......",
+    "MultiLang": {
+      "US": "",
+      "JP": "今は…",
+      "CN": "暂时……",
+      "KR": "일단...",
+      "TW": "暫且……"
+    }
+  },
+  "Found": {
+    "translation": "已找到",
+    "MultiLang": {
+      "US": "",
+      "JP": "発見",
+      "CN": "已找到",
+      "KR": "발견",
+      "TW": "已發現"
+    }
+  },
+  "Fully Charged": {
+    "translation": "已充满",
+    "MultiLang": {
+      "US": "",
+      "JP": "フル充電",
+      "CN": "完全充电",
+      "KR": "완전 충전",
+      "TW": "完全充能"
+    }
+  },
+  "GET TO THE SIDES!!!": {
+    "translation": "赶紧到侧面！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "両端へ移動せよ!!!",
+      "CN": "靠到两边去！！！",
+      "KR": "양옆으로 이동!!!",
+      "TW": "快點閃到兩側！！！"
+    }
+  },
+  "Get away from the elevator!": {
+    "translation": "远离电梯！",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターから離れろ!",
+      "CN": "远离电梯！",
+      "KR": "엘리베이터에서 떨어져!",
+      "TW": "離開電梯！"
+    }
+  },
+  "Get on a body of water!": {
+    "translation": "站在水面上！",
+    "MultiLang": {
+      "US": "",
+      "JP": "水面に乗れ!",
+      "CN": "前往水域！",
+      "KR": "수면 위 이동!",
+      "TW": "到水面上去！"
+    }
+  },
+  "Green Fireball has been picked up": {
+    "translation": "绿色火球已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "緑の火球が拾われた",
+      "CN": "绿色火球已被拾取",
+      "KR": "초록빛 화염 획득",
+      "TW": "綠色火球已被拾起"
+    }
+  },
+  "Have fun!": {
+    "translation": "玩得愉快！",
+    "MultiLang": {
+      "US": "",
+      "JP": "楽しんでね！",
+      "CN": "玩得开心！",
+      "KR": "즐겁게 플레이하세요!",
+      "TW": "玩得開心！"
+    }
+  },
+  "Heal has been picked up": {
+    "translation": "奶已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "回復アイテムを拾った",
+      "CN": "已拾取治疗道具",
+      "KR": "치유를 획득했습니다",
+      "TW": "已拾取治療道具"
+    }
+  },
+  "Hurry! Get to the entrance!": {
+    "translation": "快点！赶往入口！",
+    "MultiLang": {
+      "US": "",
+      "JP": "急いで！入口へ向かえ！",
+      "CN": "快！前往入口！",
+      "KR": "빨리! 입구로 가세요!",
+      "TW": "快點！前往入口！"
+    }
+  },
+  "I think Blue's going to contain Red": {
+    "translation": "我想蓝会控制红",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブルーがレッドを抑えられると思う",
+      "CN": "我觉得蓝队会限制红队",
+      "KR": "블루가 레드에 대항할 것 같아요",
+      "TW": "我想藍隊會控制住紅隊的"
+    }
+  },
+  "I won't let you go through the boss again lol": {
+    "translation": "我可不让你再经历那个boss了，哈哈！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスをもう一度通らせないよ lol",
+      "CN": "我不会让你再通关Boss的，哈哈",
+      "KR": "보스전을 다시는 못 지나갈 거야 ㅋㅋ",
+      "TW": "我不會讓你再打一次副本首領的啦 XD"
+    }
   },
   "It's powered by magic, I've never seen this kind before..": {
-    "translation": ""
+    "translation": "这蕴藏着魔法的力量，我从未见过如此奇特的存在...",
+    "MultiLang": {
+      "US": "",
+      "JP": "魔法で動いているぞ、こんなもの見たことないな…",
+      "CN": "这是由魔法驱动的，我以前从没见过这种类型的装备……",
+      "KR": "마력으로 동력화되어 있는데, 전에 이런 걸 본 적이 없어요..",
+      "TW": "這是以魔法為動力驅動的，我從沒見過這種類型……"
+    }
   },
-  "Whatever! We just need to learn how to control it! Defend first!": {
-    "translation": ""
+  "It's starting!": {
+    "translation": "要开始了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "始まったぞ！",
+      "CN": "它开始了！",
+      "KR": "시작됩니다!",
+      "TW": "開始了！"
+    }
   },
-  "We got it!": {
-    "translation": ""
+  "It's that thing..": {
+    "translation": "是那玩意......",
+    "MultiLang": {
+      "US": "",
+      "JP": "あれだ…。",
+      "CN": "就是那个东西……",
+      "KR": "그 물건이에요..",
+      "TW": "就是那個東西……"
+    }
   },
-  "Quick!! Get on!! Let's get out of here!!": {
-    "translation": ""
+  "Kill it in 60 Seconds": {
+    "translation": "60秒内杀死它",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒以内に倒せ",
+      "CN": "在60秒内击杀它",
+      "KR": "60초 내에 처치하세요",
+      "TW": "60秒內擊殺"
+    }
   },
-  "We escaped..": {
-    "translation": ""
+  "Left door opens in 20 Seconds": {
+    "translation": "左门将在20秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "左側のドアは20秒後に開く",
+      "CN": "左侧门将在20秒后开启",
+      "KR": "왼쪽 문이 20초 후에 열립니다",
+      "TW": "左門將在20秒後開啟"
+    }
   },
-  "Look at that view..": {
-    "translation": ""
+  "Legacy Stage has been Triggered": {
+    "translation": "遗产关已触发",
+    "MultiLang": {
+      "US": "",
+      "JP": "レガシーステージが開始されました",
+      "CN": "已触发遗留关卡",
+      "KR": "레거시 스테이지가 활성화되었습니다",
+      "TW": "已觸發經典關卡"
+    }
+  },
+  "Legacy Stage has been set!": {
+    "translation": "遗产关已设置！",
+    "MultiLang": {
+      "US": "",
+      "JP": "レガシーステージの設定完了！",
+      "CN": "遗留关卡已设置！",
+      "KR": "레거시 스테이지가 설정되었습니다!",
+      "TW": "經典關卡已設定！"
+    }
+  },
+  "Let's just get back": {
+    "translation": "让我们回去吧",
+    "MultiLang": {
+      "US": "",
+      "JP": "もう帰ろう",
+      "CN": "我们还是回去吧",
+      "KR": "이동하겠습니다",
+      "TW": "我們回去吧"
+    }
+  },
+  "Loading Legacy Stage": {
+    "translation": "加载遗产关",
+    "MultiLang": {
+      "US": "",
+      "JP": "レガシーステージを読み込み中",
+      "CN": "正在加载遗留关卡",
+      "KR": "레거시 스테이지 로딩 중",
+      "TW": "載入經典關卡"
+    }
+  },
+  "Loading Stage 1": {
+    "translation": "加载第1关",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1を読み込み中",
+      "CN": "正在加载第1关",
+      "KR": "스테이지 1 로딩 중",
+      "TW": "載入第一關"
+    }
+  },
+  "Loading Stage 2": {
+    "translation": "加载第2关",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2を読み込み中",
+      "CN": "正在加载第2关",
+      "KR": "스테이지 2 로딩 중",
+      "TW": "載入第二關"
+    }
+  },
+  "Loading your fate...": {
+    "translation": "加载你的命运...",
+    "MultiLang": {
+      "US": "",
+      "JP": "運命をロード中…",
+      "CN": "正在加载你的命运...",
+      "KR": "운명을 로딩 중...",
+      "TW": "載入您的命運..."
+    }
+  },
+  "Look down!": {
+    "translation": "低头看！",
+    "MultiLang": {
+      "US": "",
+      "JP": "下を見ろ！",
+      "CN": "往下看！",
+      "KR": "아래를 봐!",
+      "TW": "往下看！"
+    }
+  },
+  "Look on top, it's blue..?": {
+    "translation": "看上面，它是蓝吗...?",
+    "MultiLang": {
+      "US": "",
+      "JP": "上を見て、青いのは何だ…？",
+      "CN": "往上看看，是蓝色的..？",
+      "KR": "위쪽을 봐, 파란색이..?",
+      "TW": "往上看，是藍色的...？"
+    }
+  },
+  "Look, a flying vehicle!": {
+    "translation": "快看，是可以空中飞行的交通工具！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ほら、飛行物体が！",
+      "CN": "看，飞行的载具！",
+      "KR": "봐, 비행 차량이야!",
+      "TW": "看，一輛飛行載具！"
+    }
+  },
+  "Loot Item has been picked up": {
+    "translation": "战利品已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "回収アイテムを獲得しました",
+      "CN": "已拾取战利品",
+      "KR": "상속 아이템을 획득했습니다",
+      "TW": "已拾取戰利品"
+    }
+  },
+  "Loot points have been depleted": {
+    "translation": "战利品点已耗尽",
+    "MultiLang": {
+      "US": "",
+      "JP": "回収ポイントが枯渇しました",
+      "CN": "战利点已耗尽",
+      "KR": "상속 포인트가 소진되었습니다",
+      "TW": "點數已耗盡"
+    }
+  },
+  "MARATHON stage has been set!": {
+    "translation": "马拉松关已设置！",
+    "MultiLang": {
+      "US": "",
+      "JP": "マラソンステージ設定完了！",
+      "CN": "马拉松关卡已设置！",
+      "KR": "마라톤 단계가 설정되었습니다!",
+      "TW": "馬拉松關卡已設定！"
+    }
+  },
+  "Map by KadianS": {
+    "translation": "地图作者：KadianS 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：KadianS",
+      "CN": "地图由 KadianS 制作",
+      "KR": "지도 제작: KadianS",
+      "TW": "地圖作者：KadianS"
+    }
+  },
+  "Maximum amount of loot has been reached!": {
+    "translation": "战利品已达到最大数量！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "獲得可能なルーットの最大量に達しました！",
+      "CN": "已达到最大战利品数量！",
+      "KR": "획득 가능한 최대 양에 도달했습니다!",
+      "TW": "已達到拾取物品的最大數量！"
+    }
+  },
+  "Next Stage has been Triggered": {
+    "translation": "下一关已触发",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のステージが開始されました",
+      "CN": "已触发下一阶段",
+      "KR": "다음 스테이지가 시작되었습니다",
+      "TW": "觸發下一階段"
+    }
+  },
+  "No one is on the platform!": {
+    "translation": "平台上没有人类！",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォーム上に誰もいません！",
+      "CN": "平台上没有人！",
+      "KR": "플랫폼에 아무도 없습니다!",
+      "TW": "平台上沒有人！"
+    }
   },
   "One must stay on the platform or humans lose!": {
-    "translation": ""
+    "translation": "必须有一个人留在平台上，否则人类将失败！",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォーム上に留まらないと、人間側が負けとなります！",
+      "CN": "必须留在平台上，否则人类将失败！",
+      "KR": "무언가가 플랫폼에 머물러야 인간이 승리합니다!",
+      "TW": "必須留在平台上，否則人類將失敗！"
+    }
+  },
+  "One time use!": {
+    "translation": "一次性使用！",
+    "MultiLang": {
+      "US": "",
+      "JP": "一回限り使用可能！",
+      "CN": "一次性使用！",
+      "KR": "일회용입니다!",
+      "TW": "一次性使用！"
+    }
   },
   "PROVE YOURSELF": {
-    "translation": ""
+    "translation": "证明你自己",
+    "MultiLang": {
+      "US": "",
+      "JP": "実力を証明せよ",
+      "CN": "证明你自己",
+      "KR": "당신의 실력을 증명하세요",
+      "TW": "證明你自己"
+    }
+  },
+  "Problems? Contact me": {
+    "translation": "地图有问题？联系我",
+    "MultiLang": {
+      "US": "",
+      "JP": "問題が発生した場合は、私にご連絡ください",
+      "CN": "有问题？联系我",
+      "KR": "문제가 있으신가요? 저에게 연락하십시오",
+      "TW": "有問題？聯絡我"
+    }
+  },
+  "Pull four levers around the place to charge blue up": {
+    "translation": "拉动四处的杠杆，以唤醒蓝的力量",
+    "MultiLang": {
+      "US": "",
+      "JP": "青エネルギーを充電するために、四周のレバー4つを引いてください",
+      "CN": "拉动四周的四个杠杆以充能",
+      "KR": "주변에 있는 네 개의 레버를 당겨 파란 상자를 충전하세요",
+      "TW": "移動周圍的四個槓桿以補充藍色能量"
+    }
+  },
+  "Quick! Let's find a way to escape!": {
+    "translation": "快！让我们找个办法逃走！",
+    "MultiLang": {
+      "US": "",
+      "JP": "早く！脱出する方法を見つけよう！",
+      "CN": "快！我们要想办法逃出去！",
+      "KR": "빨리! 탈출 방법을 찾아보자!",
+      "TW": "快！我們得想辦法逃出去！"
+    }
+  },
+  "Quick!! Get on!! Let's get out of here!!": {
+    "translation": "快点！！快上来！！我们得出发了！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "急げ！！乗れ！！ここから逃がそう！！",
+      "CN": "快！！上车！！赶紧离开这里！！",
+      "KR": "빨리!! 타!! 여기 빨리 나가자!!",
+      "TW": "快！！上車！！我們快走！"
+    }
+  },
+  "Quick, no time to waste. Let's find a way to obtain blue's power": {
+    "translation": "快，别浪费时间。找办法获得蓝的力量",
+    "MultiLang": {
+      "US": "",
+      "JP": "さっさと、時間がない。青の力を手に入れる方法を考えよう",
+      "CN": "动作快点，别浪费时间。想办法夺取蓝色的力量。",
+      "KR": "서둘러, 시간 아끼고 블루의 힘을 얻어야 해",
+      "TW": "快，別浪費時間。我們得想辦法取得藍色的力量。"
+    }
+  },
+  "Red Fireball has been picked up": {
+    "translation": "红色火球已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "赤い火玉を入手した",
+      "CN": "已拾取红色火球",
+      "KR": "레드파이어를 획득했습니다",
+      "TW": "已取得紅色火球"
+    }
+  },
+  "Right door closes in 10 Seconds": {
+    "translation": "右门将在10秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "右のドアは10秒後に閉じる",
+      "CN": "右门将于10秒后关闭",
+      "KR": "오른쪽 문이 10초 후에 닫힙니다",
+      "TW": "右門將在 10 秒後關閉"
+    }
+  },
+  "Right door opens in 20 Seconds": {
+    "translation": "右门将在20秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "右のドアは20秒後に開く",
+      "CN": "右门将于20秒后打开",
+      "KR": "오른쪽 문이 20초 후에 열립니다",
+      "TW": "右門將在 20 秒後開啟"
+    }
+  },
+  "SHOOT IT!!": {
+    "translation": "射击它！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "撃て！！",
+      "CN": "射击！！",
+      "KR": "쏘라!!",
+      "TW": "射擊它！！"
+    }
+  },
+  "STAGE 2": {
+    "translation": "关卡2",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ 2",
+      "CN": "第2关",
+      "KR": "스테이지 2",
+      "TW": "第二關"
+    }
+  },
+  "Scourge": {
+    "translation": "天灾 3秒 (触碰水来规避伤害)",
+    "MultiLang": {
+      "US": "",
+      "JP": "災厄",
+      "CN": "灾厄",
+      "KR": "타락",
+      "TW": "天災"
+    }
+  },
+  "She's enraged!!": {
+    "translation": "她愤怒了！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼女は激怒した！！",
+      "CN": "她发怒了！！",
+      "KR": "그녀가 격노했다!!",
+      "TW": "她暴怒了！！"
+    }
+  },
+  "Shoot it!": {
+    "translation": "射击它！",
+    "MultiLang": {
+      "US": "",
+      "JP": "撃て！",
+      "CN": "攻击它！",
+      "KR": "사격!",
+      "TW": "射擊！"
+    }
+  },
+  "Shoot it!!": {
+    "translation": "射击它！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "撃て！！",
+      "CN": "攻击它！！",
+      "KR": "사격!!",
+      "TW": "射擊啊！！"
+    }
+  },
+  "Shortcut will be opened": {
+    "translation": "捷径路将要打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ショートカットが開いた",
+      "CN": "捷径已开启",
+      "KR": "근래 길이 열립니다.",
+      "TW": "通道將被開啟"
+    }
+  },
+  "Spawning Hammers": {
+    "translation": "生成锤子",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハンマーを生成中",
+      "CN": "正在生成锤子",
+      "KR": "해머 스폰",
+      "TW": "生成鐵鎚"
+    }
+  },
+  "Spawning Loot Points": {
+    "translation": "生成战利品点",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロウスポイントを生成中",
+      "CN": "正在生成战利品点数",
+      "KR": "루트 포인트 스폰",
+      "TW": "生成戰利品點"
+    }
+  },
+  "Stage 1 has been set!": {
+    "translation": "已设置第一关！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1が設定されました！",
+      "CN": "第1阶段已设置！",
+      "KR": "1스테이지 설정 완료!",
+      "TW": "第一關已設定！"
+    }
+  },
+  "Stage 2 has been set!": {
+    "translation": "已设置第二关！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2が設定されました！",
+      "CN": "已设置第2阶段！",
+      "KR": "2스테이지가 설정되었습니다!",
+      "TW": "已設定第2關！"
+    }
+  },
+  "Steam": {
+    "translation": "蒸汽 3秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "スチーム",
+      "CN": "Steam",
+      "KR": "증기",
+      "TW": "Steam"
+    }
+  },
+  "Step in the middle to vote for Marathon Mode!": {
+    "translation": "站在中间投票马拉松模式！",
+    "MultiLang": {
+      "US": "",
+      "JP": "中央に立ってマラソンモードの投票を行ってください！",
+      "CN": "站到中间投票选择马拉松模式！",
+      "KR": "Marathon 모드를 투표하려면 중간으로 이동하세요!",
+      "TW": "邁步中央以投票決定马拉松模式！"
+    }
+  },
+  "Step unto the playform to recieve blue's power.": {
+    "translation": "站在平台上以接收蓝的力量",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームに立ち、青のパワーを受け取ってください。",
+      "CN": "站上平台获得蓝色的力量。",
+      "KR": "Blue의 힘을 받기 위해 무대로 오세요.",
+      "TW": "踏上舞台接收藍色的力量。"
+    }
+  },
+  "Survive for 30 Seconds": {
+    "translation": "生存30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間生存してください",
+      "CN": "坚持30秒",
+      "KR": "30초 동안 생존",
+      "TW": "存活30秒"
+    }
+  },
+  "Survive for 60 Seconds": {
+    "translation": "生存60秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒間生存してください",
+      "CN": "坚持60秒",
+      "KR": "60초 동안 생존",
+      "TW": "存活60秒"
+    }
+  },
+  "Survive for 60 more seconds": {
+    "translation": "再生存60秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "さらに60秒間生存してください",
+      "CN": "再坚持60秒",
+      "KR": "추가 60초 동안 생존",
+      "TW": "再存活60秒"
+    }
+  },
+  "Survive until Blue has been charged up": {
+    "translation": "生存到蓝充能完成",
+    "MultiLang": {
+      "US": "",
+      "JP": "青のパワーが溜まるまで生存してください",
+      "CN": "坚持到蓝色能量充满",
+      "KR": "Blue가 충전될 때까지 생존",
+      "TW": "存活直到藍色充能完畢"
+    }
+  },
+  "TP in 10 Seconds": {
+    "translation": "传送将在10秒内进行",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒以内にTP取得",
+      "CN": "10秒后传送",
+      "KR": "10초 후 워프",
+      "TW": "10秒後傳送"
+    }
+  },
+  "Tch... who disturbed me???": {
+    "translation": "哼...谁打扰我？？？",
+    "MultiLang": {
+      "US": "",
+      "JP": "チッ…誰が私を邪魔した？",
+      "CN": "嗯……是谁在打扰我？？？",
+      "KR": "쯧... 누군가 나를 방해하다니???",
+      "TW": "哼……是誰打擾我？？？"
+    }
+  },
+  "That might require this place to react abnormaly, in short: explode!": {
+    "translation": "这可能会导致这个地方发生异常反应，简单来说：爆炸！",
+    "MultiLang": {
+      "US": "",
+      "JP": "これは場所が異常な反応を示す必要がある——つまり爆発します！",
+      "CN": "这可能会导致该区域出现异常反应，简而言之：爆炸！",
+      "KR": "그것은 이 곳의 비정상적인 반응, 즉 폭발을 일으킬 수 있습니다.",
+      "TW": "這可能會導致此地產生異常反應，簡而言之：爆炸！"
+    }
+  },
+  "To be continued...": {
+    "translation": "待续...",
+    "MultiLang": {
+      "US": "",
+      "JP": "続く…",
+      "CN": "未完待续……",
+      "KR": "계속...",
+      "TW": "請稍後再試……"
+    }
+  },
+  "Turn up your graphics settings to enjoy the best experience!": {
+    "translation": "请调高你的画质以享受最佳体验！",
+    "MultiLang": {
+      "US": "",
+      "JP": "最高の体験をするために、グラフィック設定を上げてください！",
+      "CN": "请调高图形设置以获得最佳体验！",
+      "KR": "최적의 경험을 위해 그래픽 설정을 높여 보세요!",
+      "TW": "提高您的畫面設定，以享受最佳體驗！"
+    }
+  },
+  "Wait, It's about to explode!!": {
+    "translation": "等等，它要爆炸了！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "待って、もうすぐ爆発する！！",
+      "CN": "等一下，快要爆炸了！！",
+      "KR": "기다려, 곧 폭발해!!",
+      "TW": "等等，即將爆炸！！"
+    }
+  },
+  "Warp Item has been picked up": {
+    "translation": "终极已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "ワープアイテムを拾った",
+      "CN": "已拾取传送道具",
+      "KR": "워프 아이템을 획득했습니다",
+      "TW": "已拾取傳送道具"
+    }
+  },
+  "Water Nymph has been picked up": {
+    "translation": "水仙已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "水の精を拾った",
+      "CN": "已拾取水之精灵",
+      "KR": "수경(Lady of the Lake)을 획득했습니다",
+      "TW": "已拾取水之妖精"
+    }
+  },
+  "Water Nymph is now spammable!": {
+    "translation": "水仙现在可以随意使用！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーターナイフが連発可能になった！",
+      "CN": "水妖现在可以无限使用了！",
+      "KR": "물 요정이 이제 반복 사용 가능!",
+      "TW": "水精靈現在可以反覆召喚了！"
+    }
+  },
+  "We can't get passed through that thing yet": {
+    "translation": "我们还不能通过那玩意",
+    "MultiLang": {
+      "US": "",
+      "JP": "まだあの通り道は通れない",
+      "CN": "我们暂时还过不去那边",
+      "KR": "아직 그걸 통과할 수가 없어",
+      "TW": "我們還無法突破那東西"
+    }
+  },
+  "We don't know where's blue though": {
+    "translation": "我们不知道蓝在哪里",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブルーの行方はまだ不明だ",
+      "CN": "不过我们还不知道蓝色在哪",
+      "KR": "그런데 블루는 어디에 있는지는 몰라",
+      "TW": "但我們不知道藍色在哪裡"
+    }
+  },
+  "We escaped..": {
+    "translation": "我们逃出来了..",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げ出した…",
+      "CN": "我们逃出来了……",
+      "KR": "도망쳤어..",
+      "TW": "我們逃脫了……"
+    }
+  },
+  "We got Green and Yellow's power": {
+    "translation": "我们得到了绿和黄的力量",
+    "MultiLang": {
+      "US": "",
+      "JP": "グリーンとイエローの力を手に入れた",
+      "CN": "我们获得了绿色和黄色的力量",
+      "KR": "그린과 옐로우의 힘을 얻었어",
+      "TW": "我們獲得了綠色和黃色的力量"
+    }
+  },
+  "We got enough power to charge through the courtyard defense": {
+    "translation": "我们有足够的力量穿过庭院防线",
+    "MultiLang": {
+      "US": "",
+      "JP": "中庭の防衛を突破するのに十分な力が得られた",
+      "CN": "我们已经有了足够的力量冲破庭院的防御",
+      "KR": "마당 방어대를 돌파할だけの 힘을 얻었어",
+      "TW": "我們擁有足夠的力量，可以強行突破庭院的防禦"
+    }
+  },
+  "We got it!": {
+    "translation": "我们做到了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "取れたぞ！",
+      "CN": "搞定！",
+      "KR": "성공했어!",
+      "TW": "成功了！"
+    }
+  },
+  "We have to be quick!, this things going to be a big one!": {
+    "translation": "我们必须快点！这个东西会变得很大！",
+    "MultiLang": {
+      "US": "",
+      "JP": "急がないと！これはでかいやつだ！",
+      "CN": "动作要快！这东西可不小！",
+      "KR": "빠르게行动起来!이건 큰 놈일 거야!",
+      "TW": "我們要快！這傢伙這次可大不同了！"
+    }
+  },
+  "We have to go back though..": {
+    "translation": "我们得回去了......",
+    "MultiLang": {
+      "US": "",
+      "JP": "でも、戻らないといけないんだ…",
+      "CN": "不过我们得回去了……",
+      "KR": "그치만 돌아가야 해..",
+      "TW": "不過我們得回去才行。"
+    }
+  },
+  "We might be able to go through the courtyard now": {
+    "translation": "我们也许能现在穿过庭院",
+    "MultiLang": {
+      "US": "",
+      "JP": "中庭なら通れるかもしれないな",
+      "CN": "现在我们或许可以从庭院穿过去了",
+      "KR": "지금쯤은 마당을 통과할 수 있을지도 몰라",
+      "TW": "也許現在可以穿過庭院了"
+    }
+  },
+  "We should find a way": {
+    "translation": "我们应该找到一个办法",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうにか方法を見つけよう",
+      "CN": "我们得想办法解决",
+      "KR": "방법을 찾아야 해",
+      "TW": "我們應該找個方法"
+    }
+  },
+  "We'll be more prepared using these two's powers": {
+    "translation": "有了这两种力量加持，我们将更为从容应对挑战",
+    "MultiLang": {
+      "US": "",
+      "JP": "二人の力を借りれば、もっと準備が整うだろう",
+      "CN": "借助这两人的力量，我们会准备得更充分",
+      "KR": "이俩의 힘을 활용하면 더 준비가 될 거야",
+      "TW": "善用這兩個人的能力，我們會更有準備"
+    }
+  },
+  "We'll go back here tomorrow": {
+    "translation": "我们明天再回到这里",
+    "MultiLang": {
+      "US": "",
+      "JP": "また明日ここに戻ろう",
+      "CN": "我们明天再回到这里吧",
+      "KR": "내일 여기서 다시 돌아올게",
+      "TW": "我們明天會回到這裡"
+    }
+  },
+  "We're back here": {
+    "translation": "我们回来了",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここに帰ってきたね",
+      "CN": "我们又回到了这里",
+      "KR": "우리는 여기로 돌아왔어",
+      "TW": "我們回來了"
+    }
+  },
+  "What do we do now?": {
+    "translation": "我们现在该怎么办？",
+    "MultiLang": {
+      "US": "",
+      "JP": "今、どうする？",
+      "CN": "我们现在该怎么办？",
+      "KR": "지금 어떻게 할 거야?",
+      "TW": "現在該怎麼辦？"
+    }
+  },
+  "What's happening?": {
+    "translation": "发生了什么？",
+    "MultiLang": {
+      "US": "",
+      "JP": "何が起きてるの？",
+      "CN": "发生什么事了？",
+      "KR": "무슨 일이 일어나고 있어?",
+      "TW": "發生什麼事了？"
+    }
+  },
+  "Whatever! We just need to learn how to control it! Defend first!": {
+    "translation": "不管了！我们只需要学会如何控制它！先防御！",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうでもいい！大事なのは制御方法を学ぶことだ！まずは守れ！",
+      "CN": "管他呢！我们只需要学会如何控制它！先防御！",
+      "KR": "어쨌든! 우리는 그걸 제어하는 방법을 배워야 해! 먼저 방어해!",
+      "TW": "管他的！我們只需要學會如何控制它！先防守！"
+    }
+  },
+  "Where are we..?": {
+    "translation": "我们在哪里...?",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここはどこ…？",
+      "CN": "我们在哪……？",
+      "KR": "우리가 여기 있는 곳은..?",
+      "TW": "這裡是……？"
+    }
+  },
+  "Yellow Fireball has been picked up": {
+    "translation": "黄色火球已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "イエローファイアボールを拾った",
+      "CN": "已获得黄色火球",
+      "KR": "옐로우 파이어볼을 획득했습니다",
+      "TW": "已拾取黃色火球"
+    }
+  },
+  "You Won!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!": {
+    "translation": "你赢了！！！！！！！！！！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "勝利!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "CN": "你赢了!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "KR": "당신이 승리했습니다!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "TW": "你贏了!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    }
+  },
+  "You won!": {
+    "translation": "你赢了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "勝利！",
+      "CN": "你赢了！",
+      "KR": "승리!",
+      "TW": "你贏了！"
+    }
+  },
+  "ZM Flight item has been used.": {
+    "translation": "僵尸飞行已使用",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZMフライトアイテムが使用された",
+      "CN": "ZM 飞行道具已使用。",
+      "KR": "ZM 비행 아이템이 사용되었습니다.",
+      "TW": "已使用 ZM 飛行道具。"
+    }
+  },
+  "ZM Flight item is READY": {
+    "translation": "僵尸飞行准备完毕",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZMフライトアイテムは準備完了",
+      "CN": "ZM 飞行道具已就绪",
+      "KR": "ZM 비행 아이템 준비 완료",
+      "TW": "ZM 飛行道具準備就緒。"
+    }
+  },
+  "ZM TP in 10 Seconds": {
+    "translation": "僵尸传送将在10秒后进行",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にZMTP",
+      "CN": "10秒后开启ZM传送门",
+      "KR": "10초 후 ZM TP",
+      "TW": "ZM 傳送啟動，倒數 10 秒。"
+    }
+  },
+  "ZM TP in 10 seconds": {
+    "translation": "僵尸传送将在10秒后进行",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZM TP 10秒以内",
+      "CN": "10秒后传送至ZM",
+      "KR": "ZM TP 10초 후",
+      "TW": "屍鬼傳送點預備：10秒後"
+    }
+  },
+  "ZM TP in 15 Seconds": {
+    "translation": "僵尸传送将在15秒后进行",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZM TP 15秒以内",
+      "CN": "15秒后传送至ZM",
+      "KR": "ZM TP 15초 후",
+      "TW": "屍鬼傳送點預備：15秒後"
+    }
+  },
+  "Zombie Attack": {
+    "translation": "尸笼",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ攻撃",
+      "CN": "僵尸攻击",
+      "KR": "좀비 습격",
+      "TW": "殭屍襲擊"
+    }
+  },
+  "Zombie Fireball has been picked up": {
+    "translation": "僵尸火球已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの火球を取得しました",
+      "CN": "已拾取：僵尸火球",
+      "KR": "좀비 화염공격 획득",
+      "TW": "已拾取殭屍火球"
+    }
+  },
+  "Zombie Flight has been picked up": {
+    "translation": "僵尸飞行已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの飛行を取得しました",
+      "CN": "已拾取：僵尸飞行",
+      "KR": "좀비 비행 획득",
+      "TW": "已拾取殭屍飛行"
+    }
+  },
+  "Zombie Gravity has been picked up": {
+    "translation": "僵尸黑洞已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの重力を取得しました",
+      "CN": "已拾取：僵尸重力",
+      "KR": "좀비 중력 획득",
+      "TW": "已拾取殭屍重力"
+    }
+  },
+  "Zombie Heal has been picked up": {
+    "translation": "僵尸奶已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの回復を取得しました",
+      "CN": "已拾取：僵尸治疗",
+      "KR": "좀비 치유 획득",
+      "TW": "已拾取殭屍治療"
+    }
+  },
+  "Zombie Items have been spawned": {
+    "translation": "僵尸神器已生成",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビアイテムが生成されました",
+      "CN": "已生成僵尸道具",
+      "KR": "좀비 아이템 생성됨",
+      "TW": "已生成殭屍道具"
+    }
+  },
+  "Zombie Speed Activated!": {
+    "translation": "僵尸加速已激活！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ速度が有効化された！",
+      "CN": "激活僵尸加速！",
+      "KR": "좀비 속도 활성화!",
+      "TW": "殭屍加速已啟動！"
+    }
+  },
+  "Zombie Speed has been picked up": {
+    "translation": "僵尸加速已被拾取",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ速度を持ち上げた",
+      "CN": "已拾取僵尸加速",
+      "KR": "좀비 속도를 획득했습니다",
+      "TW": "已拾取殭屍加速道具"
+    }
+  },
+  "Zombies has been Released": {
+    "translation": "僵尸已释放",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが解放された",
+      "CN": "已释放僵尸",
+      "KR": "좀비가 해방되었습니다",
+      "TW": "已釋放殭屍"
+    }
+  },
+  "Zombies will be killed in 20 Seconds.": {
+    "translation": "僵尸将在20秒内被消灭",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒以内にゾンビが倒される。",
+      "CN": "僵尸将在 20 秒内死亡。",
+      "KR": "좀비가 20초 후에 죽습니다.",
+      "TW": "殭屍將於20秒後被消滅。"
+    }
+  },
+  "[Defend yourself while shooting it]": {
+    "translation": "[在射击时保护自己]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[撃ちながら身を守れ]",
+      "CN": "[一边射击一边防御]",
+      "KR": "[총을 쏘면서 자신을 방어하세요]",
+      "TW": "[射擊並進行防禦]"
+    }
+  },
+  "[GET OUT]": {
+    "translation": "[快跑]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[出ろ]",
+      "CN": "[离开此处]",
+      "KR": "[나가는 곳]",
+      "TW": "[撤離]"
+    }
+  },
+  "[NUKE IN 180 SECONDS]": {
+    "translation": "[180秒后核爆]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[180秒後に核攻撃]",
+      "CN": "[180 秒后投放核弹]",
+      "KR": "[핵폭탄 180초 이후]",
+      "TW": "[核彈在180秒後發射]"
+    }
   }
 }

@@ -1,395 +1,1682 @@
 {
   "<< ZE_PALACE_OF_MINOLILA >>": {
-    "translation": "**<< ZE_PALACE_OF_MINOLILA 米诺莉拉宫殿>>**"
+    "translation": "**<< ZE_PALACE_OF_MINOLILA 米诺莉拉宫殿>>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ZE_ミノリラの宮殿 >>",
+      "CN": "<< 米诺利拉宫殿 >>",
+      "KR": "<< 젬 미노릴라 궁전 >>",
+      "TW": "<< ZE_米諾拉神殿 >>"
+    }
   },
   "<< The story after ze_ruin_of_black_stone >>": {
-    "translation": ">>>这是发生在ze_ruin_of_black_stone之后的事情<<<"
+    "translation": ">>>这是发生在ze_ruin_of_black_stone之后的事情<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ze_ruin_of_black_stone 後の物語 >>",
+      "CN": "<< ze_ruin_of_black_stone之后的故事 >>",
+      "KR": "<< 검은 돌 유적 이후의 이야기 >>",
+      "TW": "<< ze_black_stone_ruins 故事之後 >>"
+    }
   },
   "<< Map by Misaka >>": {
-    "translation": "**地图作者：Misaka**"
+    "translation": "**地图作者：Misaka**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 地図作成：Misaka >>",
+      "CN": "<< 地图制作者：Misaka >>",
+      "KR": "<< 지도 제작자: 미사카 >>",
+      "TW": "<< 地圖製作：Misaka >>"
+    }
   },
   "<< Map based on ze_sky_fantasy >>": {
-    "translation": ">>>地图基于ze_sky_fantasy制作<<<"
+    "translation": ">>>地图基于ze_sky_fantasy制作<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ze_sky_fantasy をベースにした地図 >>",
+      "CN": "<< 基于ze_sky_fantasy制作的地图 >>",
+      "KR": "<< 제스카이 판타지 기반 지도 >>",
+      "TW": "<< 基於 ze_sky_fantasy 的地圖 >>"
+    }
   },
   "<< This map is still testing now >>": {
-    "translation": ">>>目前这张图仍处于测试阶段<<<"
+    "translation": ">>>目前这张图仍处于测试阶段<<<",
+    "MultiLang": {
+      "US": "<< This map is still in测试中 >>",
+      "JP": "<< このマップは現在テスト中です >>",
+      "CN": "<< 此地图仍在测试中 >>",
+      "KR": "<현재 이 맵은 테스트 중입니다>",
+      "TW": "<< 此地圖目前仍在測試中 >>"
+    }
   },
   "<< A zombie has picked up gravity magic >>": {
-    "translation": ">>>一个僵尸拾取了黑洞魔法<<<"
+    "translation": ">>>一个僵尸拾取了黑洞魔法<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビが重力魔法を手に入れた >>",
+      "CN": "<< 僵尸获得了重力魔法 >>",
+      "KR": "<좀비가 중력 마법을 습득함>",
+      "TW": "<< 喪屍已獲得重力魔法 >>"
+    }
   },
   "<< A zombie has picked up ice magic >>": {
-    "translation": ">>>一个僵尸拾取了冰魔法<<<"
+    "translation": ">>>一个僵尸拾取了冰魔法<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビが氷の魔法を手に入れた >>",
+      "CN": "<< 僵尸获得了冰系魔法 >>",
+      "KR": "<좀비가 얼음 마법을 습득함>",
+      "TW": "<< 喪屍已獲得冰霜魔法 >>"
+    }
   },
   "<< Hold for 10 seconds >>": {
-    "translation": ">>>防守10秒<<<"
+    "translation": ">>>防守10秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒間保持してください >>",
+      "CN": "<< 保持10秒 >>",
+      "KR": "<10초 동안 유지하기>",
+      "TW": "<< 持續按住 10 秒 >>"
+    }
   },
   "<< Door will open in 20 seconds >>": {
-    "translation": ">>>门将会在20秒后打开<<<"
+    "translation": ">>>门将会在20秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒後に扉が開きます >>",
+      "CN": "<< 门将在 20 秒后打开 >>",
+      "KR": "<< 20초 후 문이 열립니다 >>",
+      "TW": "<< 門將在 20 秒後開啟 >>"
+    }
   },
   "<< A zombie has picked up touching infection >>": {
-    "translation": ">>>一个僵尸拾取了接触感染<<<"
+    "translation": ">>>一个僵尸拾取了接触感染<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビが接触感染を受け取りました >>",
+      "CN": "<< 一名僵尸已拾取接触感染道具 >>",
+      "KR": "<< 좀비가 접촉 감염을 획득했습니다 >>",
+      "TW": "<< 一名殭屍獲取了接觸性感染能力 >>"
+    }
   },
   "<< Mapper is in the server >>": {
-    "translation": ">>>作者在服务器里！<<<"
+    "translation": ">>>作者在服务器里！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< マッパーがサーバー内にいます >>",
+      "CN": "<< 服务器中存在地图创建者 >>",
+      "KR": "<< 매퍼가 서버에 있습니다 >>",
+      "TW": "<< 地圖製作人在伺服器中 >>"
+    }
   },
   "<< A player has picked up earth magic >>": {
-    "translation": ">>>一名玩家拾取了土魔法<<<"
+    "translation": ">>>一名玩家拾取了土魔法<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが大地の魔法を受け取りました >>",
+      "CN": "<< 一名玩家已拾取土元素魔法 >>",
+      "KR": "<< 플레이어가 대지의 마법을 획득했습니다 >>",
+      "TW": "<< 一名玩家獲取了土元素魔法 >>"
+    }
   },
   "<< A player has picked up wind magic >>": {
-    "translation": ">>>一名玩家拾取了风魔法<<<"
+    "translation": ">>>一名玩家拾取了风魔法<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが強風の魔法を受け取りました >>",
+      "CN": "<< 一名玩家已拾取风元素魔法 >>",
+      "KR": "<< 플레이어가 바람의 마법을 획득했습니다 >>",
+      "TW": "<< 一名玩家獲得了風元素魔法 >>"
+    }
   },
   "<< A player has picked up gravity magic >>": {
-    "translation": ">>>一名玩家拾取了黑洞魔法<<<"
+    "translation": ">>>一名玩家拾取了黑洞魔法<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが重力の魔法を受け取りました >>",
+      "CN": "<< 一名玩家已拾取重力魔法 >>",
+      "KR": "<< 플레이어가 중력의 마법을 획득했습니다 >>",
+      "TW": "<< 一名玩家獲取了重力魔法 >>"
+    }
   },
   "<< Teleporter will enable in 15 seconds >>": {
-    "translation": ">>>传送器将会在15秒后准备就绪<<<"
+    "translation": ">>>传送器将会在15秒后准备就绪<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 15秒後に転送器が有効になります >>",
+      "CN": "<< 传送门将在 15 秒后激活 >>",
+      "KR": "<< 15초 후 텔레포터가 활성화됩니다 >>",
+      "TW": "<< 傳送門將在 15 秒後啟用 >>"
+    }
   },
   "<< Door will open in 25 seconds >>": {
-    "translation": ">>>大门将会在25秒后打开<<<"
+    "translation": ">>>大门将会在25秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 25秒後に扉が開きます >>",
+      "CN": "<< 门将在 25 秒后打开 >>",
+      "KR": "<< 25초 후 문이 열립니다 >>",
+      "TW": "<< 門將在 25 秒後開啟 >>"
+    }
   },
   "<< A player has picked up electro magic >>": {
-    "translation": ">>>一名玩家拾取了电魔法<<<"
+    "translation": ">>>一名玩家拾取了电魔法<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが雷の魔法を取得しました",
+      "CN": "一名玩家已拾取电系魔法",
+      "KR": "플레이어가 전기 마법을 획득했습니다",
+      "TW": "一名玩家已拾取電擊魔法"
+    }
   },
   "<< Hold for 20 seconds >>": {
-    "translation": ">>>坚守20秒<<<"
+    "translation": ">>>坚守20秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間保持してください",
+      "CN": "按住20秒",
+      "KR": "20초 동안 누르세요",
+      "TW": "持續按住 20 秒"
+    }
   },
   "<< A player has picked up heal magic >>": {
-    "translation": ">>>一名玩家拾取了治疗魔法<<<"
+    "translation": ">>>一名玩家拾取了治疗魔法<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが回復の魔法を取得しました",
+      "CN": "一名玩家已拾取治愈魔法",
+      "KR": "플레이어가 치유 마법을 획득했습니다",
+      "TW": "一名玩家已拾取治療魔法"
+    }
   },
   "<< Door will open in 5 seconds >>": {
-    "translation": ">>>大门将在5秒后打开<<<"
-  },
-  "<< Door will open in 15 seconds >>": {
-    "translation": ">>>大门将在15秒后打开<<<"
-  },
-  "### It seems that there is the laboratory of that mayor ###": {
-    "translation": "**## 看起来这就是那个市长的实验室了 ##**"
-  },
-  "### I think wed better destroy this laboratory ###": {
-    "translation": "**## 我觉得我们最好炸了这里 ##**"
-  },
-  "### I will plant the bomb! Then we should leave there immediately! ###": {
-    "translation": "**## 我将会安置炸弹，然后我们立即撤离这里！ ##**"
-  },
-  "<< Wait for 30 seconds  >>": {
-    "translation": ">>>等待30秒<<<"
-  },
-  "<< Defend for 35 seconds, I will open the door >>": {
-    "translation": ">>>防守35秒，我将会为你打开大门<<<"
-  },
-  "<< Door will close in 10 seconds! Do not let zomebies out!!! >>": {
-    "translation": ">>>大门将在10秒后关闭！不要让僵尸出来！<<<"
-  },
-  "<< EASY Mode Complete >>": {
-    "translation": ">>>Easy模式通关<<<"
-  },
-  "<< Next door will open in 5 seconds >>": {
-    "translation": ">>>下一个门将会在5秒后打开<<<"
-  },
-  "<< Elevator will move in 15 seconds >>": {
-    "translation": ">>>电梯将会在15秒后启动<<<"
-  },
-  "### Whats happening... ###": {
-    "translation": "**## 我勒个去发生什么了... ##**"
-  },
-  "### It is the energy core!!! Destroy it immediately!!! ###": {
-    "translation": "**## 这是神殿的能源核心！尽快摧毁它！！！ ##**"
-  },
-  "<< Be careful! Zombies will be released in 120 seconds >>": {
-    "translation": ">>>小心！僵尸将在120秒后释放！<<<"
-  },
-  "<< Push >>": {
-    "translation": ">>>5秒，小心推力<<<"
-  },
-  "<< Pull >>": {
-    "translation": ">>>5秒，小心吸力<<<"
-  },
-  "<< Well Done!!! >>": {
-    "translation": ">>>干得漂亮！<<<"
-  },
-  "<< It seems that there is collapsing now!!! >>": {
-    "translation": ">>>这里看起来要崩溃了！<<<"
-  },
-  "<< Fall back now!!! >>": {
-    "translation": ">>>现在撤退！<<<"
-  },
-  "<< There is no way!!! I will use the c4 to break the wall!!! Continue defending!!! >>": {
-    "translation": ">>>这里没有路了！我将会用c4炸开这面墙！继续防守！<<<"
-  },
-  "<< c4 will explode in 20 seconds >>": {
-    "translation": ">>>c4将在20秒后爆炸<<<"
-  },
-  "<< Door will open in 10 seconds >>": {
-    "translation": ">>>大门将在10秒后打开<<<"
-  },
-  "<< Stand in the middle and continue defending >>": {
-    "translation": ">>>站在中央继续防守！<<<"
-  },
-  "<< We will teleport back in 30 seconds >>": {
-    "translation": ">>>我们将会在30秒后传送回去！<<<"
-  },
-  "<< WTF...... Final 10 seconds!!! Hold on!!! >>": {
-    "translation": ">>>我的龟龟！最后10秒！坚持住！<<<"
-  },
-  "<< NORMAL Mode Complete >>": {
-    "translation": ">>>Normal模式通关<<<"
-  },
-  "<< Hold for 15 seconds >>": {
-    "translation": ">>>坚守15秒<<<"
-  },
-  "<< A player has picked up snow magic >>": {
-    "translation": ">>>一名玩家拾取了雪魔法<<<"
-  },
-  "<< hold for 30 seconds >>": {
-    "translation": ">>>防守30秒<<<"
-  },
-  "### Who is that...... ###": {
-    "translation": "**## 是谁.... ##**"
-  },
-  "### ???: Welcome to my laboratory!!! ###": {
-    "translation": "**## ???: 欢迎来到我的实验室! ##**"
-  },
-  "### ???: Its the first time...no, second time to see you ###": {
-    "translation": "**## ???: 这是我们第一次...不对，第二次见面了 ##**"
-  },
-  "### ???: Do you forget me? We have meet at the ruin of black stone~ ###": {
-    "translation": "**## ???: 你忘了我？我们已经在黑石废墟见过面了不是吗~ ##**"
-  },
-  "### ???: Thats right, Im Dr.X, the mayor of the black stone city ###": {
-    "translation": "**## ???: 没错，我是X博士，正是黑石市的市长 ##**"
-  },
-  "### Dr.X: I never think that you can survive from that ruin ###": {
-    "translation": "**## X博士: 我从没没有预料到你们竟然会在那个废墟里存活下来 ##**"
-  },
-  "### Dr.X: Im more and more interested in you, so try hard to avoid the attack from me!!! ###": {
-    "translation": "**## X博士：我对你们越来越感兴趣了，所以努力的来回避我的攻击吧!!! ##**"
-  },
-  "<< Dr.X will release zombies in 150 seconds!!! >>": {
-    "translation": "**<<X博士将在150秒后释放僵尸！！！>>**"
-  },
-  "<< Dr.X is using DATA DELETE >>": {
-    "translation": ">>>X博士正在使用数据清除，快离开黄色区域！<<<"
-  },
-  "### Dr.X: We will meet later.... ###": {
-    "translation": "**## X博士: 我们之后会再次见面的 ##**"
-  },
-  "<< Hold for final 20 seconds >>": {
-    "translation": ">>>最后防守20秒！<<<"
-  },
-  "### Its Dr.X!!! Kill him immediately!!! ###": {
-    "translation": "**是X博士！尽快击杀他！**"
-  },
-  "### Dr.X: Not too bad.....I hope you can survive before we meet next time ###": {
-    "translation": "**## X博士：还不赖，我希望你们还能活到我们下次见面 ##**"
-  },
-  "<< Hard Mode Complete >>": {
-    "translation": ">>>Hard模式通关<<<"
-  },
-  "### Welcome to the world of re_creation!!! ###": {
-    "translation": "**## 欢迎来到复刻世界!!! ##**"
-  },
-  "### ...... ###": {
-    "translation": "**### ...... ###**"
-  },
-  "### It seems that I am in wrong set...... ###": {
-    "translation": "**## 对不起我走错片场了...... ##**"
-  },
-  "### Im sorry and I will get out of there >_< ###": {
-    "translation": ">>>## 我马上就走马上就走 >_< ##<<<"
-  },
-  "<< A player has picked up Frostmourn >>": {
-    "translation": ">>>一名玩家拾取了霜之哀伤<<<"
-  },
-  "### ???: Who are you...... ###": {
-    "translation": "**???: 你是谁......**"
-  },
-  "### ???: Let me guess who you are ###": {
-    "translation": "**???: 让我来猜猜你是谁吧**"
-  },
-  "### ???: You must be the team who survived from the ruin of black stone ###": {
-    "translation": "**???: 你一定是那些从黑石废墟生存下来的人吧**"
-  },
-  "### ???: I know you want to arrest the mayor ###": {
-    "translation": "**???: 我知道你们想要去逮捕那个市长**"
-  },
-  "### ???: My name is MINOLILA. the mayor that you want to arrest is my father ###": {
-    "translation": "**???: 我的名字是米诺莉拉，你们想要逮捕的那个人，是我的父亲**"
-  },
-  "### Minolila: Do not worry, I will not stop you from arresting him ###": {
-    "translation": "**米诺莉拉: 别担心，我绝对不会阻止你们去逮捕他**"
-  },
-  "### Minolila: He did a lot of zombie experiments there ###": {
-    "translation": "**米诺莉拉: 他在这里做了许许多多的僵尸实验**"
-  },
-  "### Minolila: And he imprisoned his own daughter in this palace so that no one will know what he did ###": {
-    "translation": "**米诺莉拉：不仅如此，他还把我囚禁在这里，这样就不会有任何人知道他做了些什么**"
-  },
-  "### Minolila: So this is my request ###": {
-    "translation": "**米诺莉拉：所以这是我的请求**"
-  },
-  "### Minolila: Arrest him now ###": {
-    "translation": "**米诺莉拉: 请去逮捕他**"
-  },
-  "### Minolila: However, I do not know how many power you have ###": {
-    "translation": "**米诺莉拉: 不过，想要逮捕他需要一定的实力，而我并不知道你到底有多少实力**"
-  },
-  "### Minolila: Try to defeat me, and I will lead you to arrest him if you win this test!!! ###": {
-    "translation": "**米诺莉拉：尝试击败我吧，如果你能从这个测试中胜利，我就会引领你前往真正的地方！**"
-  },
-  "<< Pink [ The Voice of Revenge ] >>": {
-    "translation": ">>>5秒，粉 [ 复仇之音 ]<<<"
-  },
-  "<< Blue [ The Jumping Hell ]  >>": {
-    "translation": ">>>5秒，蓝 [跃动的地狱]<<<"
-  },
-  "<< Black [ The Substitute of the Diablo ]  >>": {
-    "translation": ">>>5秒，黑 [暗黑破坏神的替身]<<<"
-  },
-  "<< Green [ The Mystic Tornado with the Unknown Direction ] >>": {
-    "translation": ">>>5秒，绿 [ 方向不明的奇异旋风]<<<"
-  },
-  "<< Red [ The Standstill World ] >>": {
-    "translation": ">>>5秒，红 [静止的世界]<<<"
-  },
-  "<< Yellow [ The Forbidden Arrow ]  >>": {
-    "translation": ">>>5秒，黄 [禁忌之箭]<<<"
-  },
-  "### Minolila: You are stronger than I thought ###": {
-    "translation": "**米诺莉拉：你比我想象中的更加强大**"
-  },
-  "### Minolila: Fall back now, and I will lead you to the place where you should go ###": {
-    "translation": "**米诺莉拉: 请往回走吧，我将会指引您前往真正的地方**"
-  },
-  "<< The final door will open in 90 seconds >>": {
-    "translation": ">>>最终的大门将会在90秒后打开<<<"
-  },
-  "### Minolila: I still can not believe you ###": {
-    "translation": "**米诺莉拉：我仍旧不能相信你**"
-  },
-  "### Minolila: Sorry for testing you again, and I will lead you to the true core of this palace ###": {
-    "translation": "**米诺莉拉：对不起又一次测试了你，现在我将会带您前往那个地方**"
-  },
-  "<< Lunatic Mode Complete >>": {
-    "translation": ">>>Lunatic模式通关<<<"
-  },
-  "### Minolila: Ive already prepared the teleporter for you, Good Luck! ###": {
-    "translation": "**米诺莉拉：我已经为你们准备好了传送器，祝你好运！**"
-  },
-  "<< Teleporter will activate in 20 seconds >>": {
-    "translation": ">>>传送器将会在20秒后激活<<<"
-  },
-  "<< It seems that this button is broken...... >>": {
-    "translation": ">>>看起来这个按钮已经坏掉了......<<<"
-  },
-  "<< Be careful!!! Do not press it again!!! Try to find another button!!!>>": {
-    "translation": ">>>小心！不要再碰这个开关了！尝试寻找另一个开门的开关！<<<"
-  },
-  "<< Hold for 25 seconds >>": {
-    "translation": ">>>防守25秒<<<"
-  },
-  "<< Teleporter will activate in 15 seconds >>": {
-    "translation": ">>>传送器将在15秒后激活<<<"
-  },
-  "### Dr.X: I didnt expect you to find it here ###": {
-    "translation": "**X博士：没想到你们竟然找到了这里**"
-  },
-  "### Dr.X: You really want to arrest me? ###": {
-    "translation": "**X博士：想要逮捕我的怨念已经这么深了吗？**"
-  },
-  "### Dr.X: Fuhahaha, do you think that I am standing here without any protect? ###": {
-    "translation": "**X博士：哈哈哈哈，你觉得我会这么蠢的站在这里让你们逮捕我？**"
-  },
-  "### Dr.X: Come Out, my MASTERPIECE!!! ###": {
-    "translation": "**X博士：出来吧，我的杰作！**"
-  },
-  "### Dr.X: Ive reformed Tesla for a long time, and now its time to test it ###": {
-    "translation": "**X博士：我已经改造特斯拉很久很久了，现在是时候测试一下它的威力了**"
-  },
-  "### Dr.X: Try more hard, and I hope we can meet again~ ###": {
-    "translation": "**加把劲吧，要不然就没意思了**"
-  },
-  "<< The temperature is rising!!! Find a way to lower the temperature before we die!!! >>": {
-    "translation": ">>>温度正在上升！在我们不行之前找到一个办法让温度下降！<<<"
-  },
-  "<< Tesla activate a green crystal >>": {
-    "translation": ">>>5秒，特斯拉激活了一个绿色水晶<<<"
-  },
-  "<< Lava is Rising!!! >>": {
-    "translation": ">>>5秒，岩浆正在上升！<<<"
-  },
-  "<< Boss is using Aurora Veil >>": {
-    "translation": ">>>5秒，Boss正在使用极光幕！<<<"
-  },
-  "<< Boss is using Gravity!!! >>": {
-    "translation": ">>>5秒，boss正在使用黑洞！<<<"
-  },
-  "<< Boss is activating a crystal >>": {
-    "translation": ">>>5秒，Boss激活了正中央的水晶！<<<"
-  },
-  "<< It is really a tough guy >>": {
-    "translation": ">>>真是个硬家伙<<<"
-  },
-  "<< Dr.X can not run too far!!! Hurry up, it is the time to arrest him!!! >>": {
-    "translation": ">>>X博士身上还有伤，跑不了多远！<<<"
-  },
-  "<< The final door will open in 45 seconds >>": {
-    "translation": ">>>最后的大门将会在45秒后打开<<<"
-  },
-  "<< 10 seconds left >>": {
-    "translation": "**10秒**"
-  },
-  "### Its Dr.X Again!!! Keep Shooting!!! ###": {
-    "translation": "**是X博士！直接杀了他！**"
-  },
-  "### Dr.X has died!!! ###": {
-    "translation": "**X博士不行了！干的漂亮！**"
-  },
-  "### Minolila??? ###": {
-    "translation": "**米诺莉拉？？？？？**"
-  },
-  "### I do not know why Minolila want to kill us ###": {
-    "translation": "**## 我不知道为什么米诺莉拉会攻击我们 ##**"
-  },
-  "### Anyway, it should be safe here...... ###": {
-    "translation": "**## 但不管怎么说，这里应该是安全了吧...... ##**"
-  },
-  "<< No one expected that we would met the nightmare here at that time >>": {
-    "translation": ">>>在那个时候还没有人预料到我们会遇到的幻想噩梦<<<"
-  },
-  "<< But that is another story >>": {
-    "translation": ">>>但那是另一个故事了<<<"
-  },
-  "<< Congratulation!!! >>": {
-    "translation": ">>>恭喜！<<<"
-  },
-  "<< You have beaten OverDrive Mode!!! >>": {
-    "translation": ">>>你已经征服了OverDrive模式！<<<"
-  },
-  "<< Survive for 180 seconds >>": {
-    "translation": ">>>存活180秒<<<"
-  },
-  "<< You should select one area to go, or you will tele to zombie area >>": {
-    "translation": ">>>注意：不要呆在第一个场景！否则你会传送到僵尸堆里！<<<"
-  },
-  "<< Extra Mode Complete!!! >>": {
-    "translation": ">>>Extra模式通关！<<<"
-  },
-  "<< You are the legend of this map!!! >>": {
-    "translation": ">>>您就是这张图的传奇！<<<"
-  },
-  "<< Be Careful! Zombies are coming! >>": {
-    "translation": ">>>小心！僵尸来了！<<<"
-  },
-  "- EASY MODE -": {
-    "translation": "-简单模式-"
+    "translation": ">>>大门将在5秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後にドアが開きます",
+      "CN": "门将在5秒后开启",
+      "KR": "5초 후 문이 열립니다",
+      "TW": "門將於 5 秒後開啟"
+    }
   },
   "<< Door will Open in 15 seconds >>": {
-    "translation": ""
+    "translation": ">>>大门将在15秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後にドアが開きます",
+      "CN": "门将在15秒后开启",
+      "KR": "15초 후 문이 열립니다",
+      "TW": "門將於 15 秒後開啟"
+    }
+  },
+  "### It seems that there is the laboratory of that mayor ###": {
+    "translation": "**## 看起来这就是那个市长的实验室了 ##**",
+    "MultiLang": {
+      "US": "### Seems like the mayor's laboratory is here ###",
+      "JP": "どうやらあの市長の研究所があるようだ",
+      "CN": "### 似乎存在那位市长的实验室 ###",
+      "KR": "#Mayor의 연구소가 있는 것 같습니다#",
+      "TW": "看來那位市長的實驗室好像開業了"
+    }
+  },
+  "### I think wed better destroy this laboratory ###": {
+    "translation": "**## 我觉得我们最好炸了这里 ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "この研究所を破壊したほうがいいと思う",
+      "CN": "### 我认为我们最好摧毁这个实验室 ###",
+      "KR": "#이 연구소를 파괴하는 것이 좋겠습니다#",
+      "TW": "### 我想我們最好摧毀這個實驗室 ###"
+    }
+  },
+  "### I will plant the bomb! Then we should leave there immediately! ###": {
+    "translation": "**## 我将会安置炸弹，然后我们立即撤离这里！ ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "爆弾を設置する！その後はただちにここから離れよう！",
+      "CN": "### 我要安放炸弹！我们得立刻离开这里！###",
+      "KR": "#저 폭탄을 설치하겠습니다! 그러면 바로 그곳에서 떠날 것입니다!#",
+      "TW": "### 我要種下炸彈！我們得立刻離開這裡！###"
+    }
+  },
+  "<< Wait for 30 seconds  >>": {
+    "translation": ">>>等待30秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒お待ちください >>",
+      "CN": "<< 等待30秒 >>",
+      "KR": "30초간 대기",
+      "TW": "<<等待30秒>>"
+    }
+  },
+  "<< Defend for 35 seconds, I will open the door >>": {
+    "translation": ">>>防守35秒，我将会为你打开大门<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 35秒間防衛してください、私が扉を開けます >>",
+      "CN": "<< 防守35秒，我会打开门 >>",
+      "KR": "35초간 방어하면 내가 문을 열겠습니다",
+      "TW": "<<防禦35秒，我會打開門>>"
+    }
+  },
+  "<< Door will close in 10 seconds! Do not let zomebies out!!! >>": {
+    "translation": ">>>大门将在10秒后关闭！不要让僵尸出来！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒後に閉まります！ゾンビを出さないでください！！！ >>",
+      "CN": "<< 10秒后门将关闭！不要让丧尸跑出来！！！ >>",
+      "KR": "문이 10초 후에 닫힙니다! 좀비를 절대 내보내지 마세요!!!",
+      "TW": "<<門將在10秒後關閉！絕不能讓殭屍逃出來！！！>>"
+    }
+  },
+  "<< EASY Mode Complete >>": {
+    "translation": ">>>Easy模式通关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< イージーモード完了 >>",
+      "CN": "<< 简单模式完成 >>",
+      "KR": "쉬움 모드 완료",
+      "TW": "<<簡單模式完成>>"
+    }
+  },
+  "<< Next door will open in 5 seconds >>": {
+    "translation": ">>>下一个门将会在5秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 5秒後に次の扉が開きます >>",
+      "CN": "<< 下一扇门将在5秒后打开 >>",
+      "KR": "다음 문이 5초 후에 열립니다",
+      "TW": "<<下一道門將在5秒後開啟>>"
+    }
+  },
+  "<< Elevator will move in 15 seconds >>": {
+    "translation": ">>>电梯将会在15秒后启动<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 15秒後にエレベーターが動きます >>",
+      "CN": "<< 电梯将在15秒后启动 >>",
+      "KR": "엘리베이터가 15초 후에 움직입니다",
+      "TW": "<<電梯將在15秒後移動>>"
+    }
+  },
+  "### Whats happening... ###": {
+    "translation": "**## 我勒个去发生什么了... ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### どうしたのか... ###",
+      "CN": "### 发生了什么... ###",
+      "KR": "### 무슨 일이 일어나고 있는 걸까... ###",
+      "TW": "###發生什麼事了...###"
+    }
+  },
+  "### It is the energy core!!! Destroy it immediately!!! ###": {
+    "translation": "**## 这是神殿的能源核心！尽快摧毁它！！！ ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### それはエネルギーコアだ！！今すぐ破壊しろ！！！ ##",
+      "CN": "### 那是能量核心！立即摧毁它！！！ ###",
+      "KR": "### 에너지 코어입니다!!! 즉시 파괴하세요!!!",
+      "TW": "###是能源核心！立即摧毀它！！！###"
+    }
+  },
+  "<< Be careful! Zombies will be released in 120 seconds >>": {
+    "translation": ">>>小心！僵尸将在120秒后释放！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<注意！ゾンビが120秒後に解放されます>>",
+      "CN": "<< 小心！僵尸将在120秒后释放 >>",
+      "KR": "<< 조심하세요! 좀비가 120초 후에 나타납니다 >>",
+      "TW": "<< 小心！殭屍將在120秒後釋放 >>"
+    }
+  },
+  "<< Push >>": {
+    "translation": ">>>5秒，小心推力<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<押す>>",
+      "CN": "<< 推开 >>",
+      "KR": "<< 밀기 >>",
+      "TW": "<< 推進 >>"
+    }
+  },
+  "<< Pull >>": {
+    "translation": ">>>5秒，小心吸力<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<引く>>",
+      "CN": "<< 拉下 >>",
+      "KR": "<< 당기기 >>",
+      "TW": "<< 拉回 >>"
+    }
+  },
+  "<< Well Done!!! >>": {
+    "translation": ">>>干得漂亮！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<よくできました!!!>>",
+      "CN": "<< 干得漂亮！！！ >>",
+      "KR": "<< 잘했어!!! >>",
+      "TW": "<< 做得好！！！>>"
+    }
+  },
+  "<< It seems that there is collapsing now!!! >>": {
+    "translation": ">>>这里看起来要崩溃了！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<崩壊が始まりました!!!>>",
+      "CN": "<< 似乎现在正在坍塌！！！ >>",
+      "KR": "<< 현재 붕괴 중입니다!!! >>",
+      "TW": "<< 目前似乎正在坍塌！！！>>"
+    }
+  },
+  "<< Fall back now!!! >>": {
+    "translation": ">>>现在撤退！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<今すぐ後退せよ!!!>>",
+      "CN": "<< 立即撤退！！！ >>",
+      "KR": "<< 즉시 후퇴하세요!!! >>",
+      "TW": "<< 現在撤退！！！>>"
+    }
+  },
+  "<< There is no way!!! I will use the c4 to break the wall!!! Continue defending!!! >>": {
+    "translation": ">>>这里没有路了！我将会用c4炸开这面墙！继续防守！<<<",
+    "MultiLang": {
+      "US": "<< There is no way!!! I will use C4 to blow up the wall!!! Keep defending!!! >>",
+      "JP": "<<無理だ!!! C4で壁を爆破する!!! 防御を続ける!!!>>",
+      "CN": "<< 没路了！！我将用C4炸开墙壁！！！继续防守！！！ >>",
+      "KR": "<< 안 됩니다!!! C4를 사용하여 벽을 부수겠습니다!!! 계속 방어하세요!!! >>",
+      "TW": "<< 沒有辦法了！！！我將使用C4炸藥衝破城牆！！！繼續防禦！！！>>"
+    }
+  },
+  "<< c4 will explode in 20 seconds >>": {
+    "translation": ">>>c4将在20秒后爆炸<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<C4は20秒後に爆発します>>",
+      "CN": "<< C4将在20秒后爆炸 >>",
+      "KR": "<< C4가 20초 후에 폭발합니다 >>",
+      "TW": "<< C4將在20秒後爆炸 >>"
+    }
+  },
+  "<< Door will open in 10 seconds >>": {
+    "translation": ">>>大门将在10秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒後にドアが開きます >>",
+      "CN": "<< 门将在10秒后开启 >>",
+      "KR": "<< 문이 10초 후에 열립니다 >>",
+      "TW": "<< 門將在 10 秒後開啟 >>"
+    }
+  },
+  "<< Stand in the middle and continue defending >>": {
+    "translation": ">>>站在中央继续防守！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 中央に立ち、引き続き防御してください >>",
+      "CN": "<< 站在中间继续防守 >>",
+      "KR": "<< 중앙에 서서 방어하세요 >>",
+      "TW": "<< 站穩位置並繼續防禦 >>"
+    }
+  },
+  "<< We will teleport back in 30 seconds >>": {
+    "translation": ">>>我们将会在30秒后传送回去！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒後にテレポートで戻ります >>",
+      "CN": "<< 我们将在30秒后传送回起点 >>",
+      "KR": "<< 30초 후에 텔레포트됩니다 >>",
+      "TW": "<< 我們將在 30 秒後傳送回去 >>"
+    }
+  },
+  "<< WTF...... Final 10 seconds!!! Hold on!!! >>": {
+    "translation": ">>>我的龟龟！最后10秒！坚持住！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< くっそ……最終10秒！！！ 我慢して！！！ >>",
+      "CN": "<< 卧槽……最后10秒！！！坚持住！！！ >>",
+      "KR": "<< 뭔 소리지...... 마지막 10초!!! 버텨라!!! >>",
+      "TW": "<< 幹！！最後 10 秒！！！撐住！！！ >>"
+    }
+  },
+  "<< NORMAL Mode Complete >>": {
+    "translation": ">>>Normal模式通关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ノーマルモード 完了 >>",
+      "CN": "<< 完成“普通”模式 >>",
+      "KR": "<<NORMAL 모드 완료>>",
+      "TW": "<< 普通模式完成 >>"
+    }
+  },
+  "<< Hold for 15 seconds >>": {
+    "translation": ">>>坚守15秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 15秒間保持してください >>",
+      "CN": "<< 坚守15秒 >>",
+      "KR": "<< 15초간 유지하세요 >>",
+      "TW": "<< 守持 15 秒 >>"
+    }
+  },
+  "<< A player has picked up snow magic >>": {
+    "translation": ">>>一名玩家拾取了雪魔法<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーがスノーマジックを拾いました >>",
+      "CN": "<< 一名玩家拾取了冰雪魔法 >>",
+      "KR": "<< 한 플레이어가 눈 마법을 주웠습니다 >>",
+      "TW": "<< 一名玩家拾取了冰雪魔法 >>"
+    }
+  },
+  "<< hold for 30 seconds >>": {
+    "translation": ">>>防守30秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒間保持してください >>",
+      "CN": "<< 坚守30秒 >>",
+      "KR": "<< 30초간 유지하세요 >>",
+      "TW": "<< 守持 30 秒 >>"
+    }
+  },
+  "### Who is that...... ###": {
+    "translation": "**## 是谁.... ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### あの人は誰……？ ###",
+      "CN": "### 那是谁…… ###",
+      "KR": "### 그 사람은 누구인가...... ###",
+      "TW": "### 那是誰…… ###"
+    }
+  },
+  "### ???: Welcome to my laboratory!!! ###": {
+    "translation": "**## ???: 欢迎来到我的实验室! ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ???: ようこそ、私のラボへ！！！ ###",
+      "CN": "### ???: 欢迎来到我的实验室！！！ ###",
+      "KR": "### ???: 내 실험실에 오신 것을 환영합니다!!! ###",
+      "TW": "### ???: 歡迎來到我的實驗室！！！"
+    }
+  },
+  "### ???: Its the first time...no, second time to see you ###": {
+    "translation": "**## ???: 这是我们第一次...不对，第二次见面了 ##**",
+    "MultiLang": {
+      "US": "???: First time... no, second time to see you",
+      "JP": "### ???: あなたを見るのは……いや、二回目ですね ###",
+      "CN": "### ???: 这是第一次……不，第二次见到你 ###",
+      "KR": "### ???: 너를 처음 본 건 아니지... 아니, 두 번째 만남이군 ###",
+      "TW": "### ???: 這是第一次……不，第二次見到你"
+    }
+  },
+  "### ???: Do you forget me? We have meet at the ruin of black stone~ ###": {
+    "translation": "**## ???: 你忘了我？我们已经在黑石废墟见过面了不是吗~ ##**",
+    "MultiLang": {
+      "US": "### ???: Have you forgotten me? We met at the ruins of black stone~ ###",
+      "JP": "### ???: 私を忘れましたか？私たちは黒石の遺跡で出会ったはずです〜 ###",
+      "CN": "### ???: 你忘记我了吗？我们在黑石废墟见过面~ ###",
+      "KR": "### ???: 나를 잊었나? 우리 검은 돌의 폐허에서 만났다니까~ ###",
+      "TW": "### ???: 你忘記我了嗎？我們曾在黑石遺址相遇過～"
+    }
+  },
+  "### ???: Thats right, Im Dr.X, the mayor of the black stone city ###": {
+    "translation": "**## ???: 没错，我是X博士，正是黑石市的市长 ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ???: その通り、私はDr.X、黒石の市長です ###",
+      "CN": "### ???: 没错，我是X博士，黑石城的市长 ###",
+      "KR": "### ???: 맞아, 나는 Dr.X, 검은 돌 도시의 시장이야 ###",
+      "TW": "### ???: 沒錯，我是X博士，黑石城的市長"
+    }
+  },
+  "### Dr.X: I never think that you can survive from that ruin ###": {
+    "translation": "**## X博士: 我从没没有预料到你们竟然会在那个废墟里存活下来 ##**",
+    "MultiLang": {
+      "US": "### Dr.X: I never thought you could survive that ruin ###",
+      "JP": "### Dr.X: あなたがあの遺跡から生き延びるとは思いませんでした ###",
+      "CN": "### Dr.X: 我从没想过你能从那片废墟中幸存下来 ###",
+      "KR": "### Dr.X: 넌 그 폐허에서 살아남을 거라고는 생각지도 못했어 ###",
+      "TW": "### Dr.X: 我從未想過你能從那片遺址中倖存下來"
+    }
+  },
+  "### Dr.X: Im more and more interested in you, so try hard to avoid the attack from me!!! ###": {
+    "translation": "**## X博士：我对你们越来越感兴趣了，所以努力的来回避我的攻击吧!!! ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: あなたのことがますます気になっているので、私の攻撃を避けられるよう頑張ってください！！！ ###",
+      "CN": "### Dr.X: 我对你的兴趣越来越浓厚，所以尽力躲避我的攻击吧！！！ ###",
+      "KR": "### Dr.X: 넌 내게 점점 더 흥미를 유발하네. 그럼 내 공격을 피하는 데 힘써보시지!!! ###",
+      "TW": "### Dr.X: 我對你越來越感興趣，所以努力躲避我的攻擊吧！！！"
+    }
+  },
+  "<< Dr.X will release zombies in 150 seconds!!! >>": {
+    "translation": "**<<X博士将在150秒后释放僵尸！！！>>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< Dr.Xは150秒後にゾンビを解放します！！！ >>",
+      "CN": "<< Dr.X将在150秒后释放僵尸！！！ >>",
+      "KR": "<< Dr.X가 150초 후에 좀비를 풀어놓습니다!!! >>",
+      "TW": "<< Dr.X將於150秒後釋放出殭屍！>>"
+    }
+  },
+  "<< Dr.X is using DATA DELETE >>": {
+    "translation": ">>>X博士正在使用数据清除，快离开黄色区域！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< Dr.XはDATA DELETEを実行中 >>",
+      "CN": "<< Dr.X 正在使用数据删除 >>",
+      "KR": "<< Dr.X가 DATA DELETE를 사용 중입니다 >>",
+      "TW": "<< Dr.X 正在執行 DATA DELETE >>"
+    }
+  },
+  "### Dr.X: We will meet later.... ###": {
+    "translation": "**## X博士: 我们之后会再次见面的 ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: また後に会うだろう…… ###",
+      "CN": "### Dr.X：我们稍后见…… ###",
+      "KR": "### Dr.X: 나중에 만나자.... ###",
+      "TW": "### Dr.X：我們稍後再見.... ###"
+    }
+  },
+  "<< Hold for final 20 seconds >>": {
+    "translation": ">>>最后防守20秒！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最終20秒間ホールド中 >>",
+      "CN": "<< 保持状态，最后20秒 >>",
+      "KR": "<< 최종 20초간 대기 >>",
+      "TW": "<< 倒計時最後 20 秒 >>"
+    }
+  },
+  "### Its Dr.X!!! Kill him immediately!!! ###": {
+    "translation": "**是X博士！尽快击杀他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.Xだ!!! 直ちに始末しろ!!! ###",
+      "CN": "### 是Dr.X！！！立刻杀了他！！！ ###",
+      "KR": "### Dr.X!!!! 즉시 처치하라!!! ###",
+      "TW": "### 是 Dr.X!!! 立即消滅他!!! ###"
+    }
+  },
+  "### Dr.X: Not too bad.....I hope you can survive before we meet next time ###": {
+    "translation": "**## X博士：还不赖，我希望你们还能活到我们下次见面 ##**",
+    "MultiLang": {
+      "US": "### Dr.X: Not too bad.....I hope you can survive until our next meeting ###",
+      "JP": "### Dr.X: 悪くはないな……次の邂逅まで生き延びてくれよ ###",
+      "CN": "### Dr.X：还不错……希望你下次见面时还活着 ###",
+      "KR": "### Dr.X: 나쁘지 않아..... 다음 회담 전에 너 생존하길 바란다 ###",
+      "TW": "### Dr.X：還不算太糟..... 希望你在下次與我相見前能倖存 ###"
+    }
+  },
+  "<< Hard Mode Complete >>": {
+    "translation": ">>>Hard模式通关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ハードモードコンプリート >>",
+      "CN": "<< 困难模式完成 >>",
+      "KR": "<< 하드 모드 완료 >>",
+      "TW": "<< 困難模式通關 >>"
+    }
+  },
+  "### Welcome to the world of re_creation!!! ###": {
+    "translation": "**## 欢迎来到复刻世界!!! ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Re_creationの世界へようこそ!!! ###",
+      "CN": "### 欢迎来到创造世界！！！ ###",
+      "KR": "### re_creation 세계에 오신 것을 환영합니다!!! ###",
+      "TW": "### 歡迎來到 re_creation 世界!!! ###"
+    }
+  },
+  "### ...... ###": {
+    "translation": "**### ...... ###**",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "### It seems that I am in wrong set...... ###": {
+    "translation": "**## 对不起我走错片场了...... ##**",
+    "MultiLang": {
+      "US": "### Seems like I'm in the wrong set...... ###",
+      "JP": "### おやおや、セットが間違っていたようだ…… ###",
+      "CN": "### 看来我进错了服务器…… ###",
+      "KR": "### 내가 잘못된 세트인 것 같아...... ###",
+      "TW": "### 看來我放錯了場景...... ###"
+    }
+  },
+  "### Im sorry and I will get out of there >_< ###": {
+    "translation": ">>>## 我马上就走马上就走 >_< ##<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ごめんなさい、そこを離れます >_< ###",
+      "CN": "### 抱歉，我会马上离开 >_< ###",
+      "KR": "### 죄송해요, 저 거기서 빠져나갈게요 >_< ###",
+      "TW": "### 抱歉，我會立刻離開這裡 >_< ###"
+    }
+  },
+  "<< A player has picked up Frostmourn >>": {
+    "translation": ">>>一名玩家拾取了霜之哀伤<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あるプレイヤーがフロストマーンを拾いました >>",
+      "CN": "<< 一名玩家拾取了霜之哀伤 >>",
+      "KR": "<< 한 플레이어들이 파멸의 도끼를 집어 들었습니다. >>",
+      "TW": "<< 玩家拾取了霜之哀傷 >>"
+    }
+  },
+  "### ???: Who are you...... ###": {
+    "translation": "**???: 你是谁......**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ???: あなたは誰……？ ###",
+      "CN": "### ???: 你是谁...... ###",
+      "KR": "### ???: 당신은 누구입니까...... ###",
+      "TW": "### ???: 你到底是誰…… ###"
+    }
+  },
+  "### ???: Let me guess who you are ###": {
+    "translation": "**???: 让我来猜猜你是谁吧**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ???: あなたの正体を当てるわね ###",
+      "CN": "### ???: 让我猜猜你的身份 ###",
+      "KR": "### ???: 당신 정체를 추측해 보겠습니다. ###",
+      "TW": "### ???: 讓我猜猜你的身分 ###"
+    }
+  },
+  "### ???: You must be the team who survived from the ruin of black stone ###": {
+    "translation": "**???: 你一定是那些从黑石废墟生存下来的人吧**",
+    "MultiLang": {
+      "US": "### ???: You must be the team that survived the collapse of the black stone ruin ###",
+      "JP": "### ???: あなたたちは、黒い石の廃墟から生き延びたチームね ###",
+      "CN": "### ???: 你们一定是从黑石废墟中幸存下来的队伍 ###",
+      "KR": "### ???: 당신은 흑요석 폐허에서 살아남은 팀원일 것입니다. ###",
+      "TW": "### ???: 你一定是從黑石廢墟中倖存下來的隊伍 ###"
+    }
+  },
+  "### ???: I know you want to arrest the mayor ###": {
+    "translation": "**???: 我知道你们想要去逮捕那个市长**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ???: あなたたちが市長を逮捕したいのは知ってる ###",
+      "CN": "### ???: 我知道你想逮捕市长 ###",
+      "KR": "### ???: 당신 시장 암살을 원한다는 것은 알고 있습니다. ###",
+      "TW": "### ???: 我知道你想逮捕市長 ###"
+    }
+  },
+  "### ???: My name is MINOLILA. the mayor that you want to arrest is my father ###": {
+    "translation": "**???: 我的名字是米诺莉拉，你们想要逮捕的那个人，是我的父亲**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ???: 私の名前はミノリラ。あなたが逮捕したい市長は、私の父よ ###",
+      "CN": "### ???: 我的名字是米诺拉拉。你们想要逮捕的市长是我的父亲 ###",
+      "KR": "### ???: 제 이름은 미노릴라입니다. 당신이 검거하려 하는 시장은 바로 제 아버지요 ###",
+      "TW": "### ???: 我叫米諾莉拉。你想逮捕的市長是我的父親 ###"
+    }
+  },
+  "### Minolila: Do not worry, I will not stop you from arresting him ###": {
+    "translation": "**米诺莉拉: 别担心，我绝对不会阻止你们去逮捕他**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ: 心配しないで。あなたの逮捕活動を止めるつもりはないわ ###",
+      "CN": "### 米诺拉拉：别担心，我不会阻止你逮捕他 ###",
+      "KR": "### 미노릴라: 걱정하지 마십시오. 그가 체포되는 것을 제가 막지는 않겠습니다. ###",
+      "TW": "### 米諾莉拉：別擔心，我不會阻止你逮捕他 ###"
+    }
+  },
+  "### Minolila: He did a lot of zombie experiments there ###": {
+    "translation": "**米诺莉拉: 他在这里做了许许多多的僵尸实验**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：そこで彼は多くのゾンビ実験を行った ###",
+      "CN": "### Minolila: 他在那里进行了大量的僵尸实验 ###",
+      "KR": "### 미롤리나: 거기에서 그는 많은 좀비 실험을 진행했죠 ###",
+      "TW": "### 米諾莉拉：他在那裡進行了許多殭屍實驗 ###"
+    }
+  },
+  "### Minolila: And he imprisoned his own daughter in this palace so that no one will know what he did ###": {
+    "translation": "**米诺莉拉：不仅如此，他还把我囚禁在这里，这样就不会有任何人知道他做了些什么**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：そして、彼が行ったことを誰も知らないように、自ら娘をこの宮殿に監禁した ###",
+      "CN": "### Minolila: 他还将自己的女儿囚禁在这座宫殿里，以免他人知晓他所做的一切 ###",
+      "KR": "### 미롤리나: 그리고 그는 자신이 저지른 일을 아무도 알 수 없게 하기 위해 이 궁전에 자신의 딸을 감금했죠 ###",
+      "TW": "### 米諾莉拉：他並將自己的女兒囚禁於此宮殿中，以確保無人知晓他的所作所為 ###"
+    }
+  },
+  "### Minolila: So this is my request ###": {
+    "translation": "**米诺莉拉：所以这是我的请求**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：それが私のお願いです ###",
+      "CN": "### Minolila: 因此，这是我的请求 ###",
+      "KR": "### 미롤리나: 그러니 제 요청을 들어주세요 ###",
+      "TW": "### 米諾莉拉：這就是我的請求 ###"
+    }
+  },
+  "### Minolila: Arrest him now ###": {
+    "translation": "**米诺莉拉: 请去逮捕他**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：今すぐ彼を逮捕してください ###",
+      "CN": "### Minolila: 立即逮捕他 ###",
+      "KR": "### 미롤리나: 지금 그를 체포하십시오 ###",
+      "TW": "### 米諾莉拉：現在逮捕他 ###"
+    }
+  },
+  "### Minolila: However, I do not know how many power you have ###": {
+    "translation": "**米诺莉拉: 不过，想要逮捕他需要一定的实力，而我并不知道你到底有多少实力**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：しかし、あなたがどれほどの力を持っているかはわかりません ###",
+      "CN": "### Minolila: 不过，我并不清楚你拥有多少力量 ###",
+      "KR": "### 미롤리나: 다만, 저에게 얼마나 권력이 있는지 아시지는 못하겠지만 ###",
+      "TW": "### 米諾莉拉：然而，我並不清楚你擁有多少實力 ###"
+    }
+  },
+  "### Minolila: Try to defeat me, and I will lead you to arrest him if you win this test!!! ###": {
+    "translation": "**米诺莉拉：尝试击败我吧，如果你能从这个测试中胜利，我就会引领你前往真正的地方！**",
+    "MultiLang": {
+      "US": "### Minolila: Defeat me if you can, and I'll lead you to arrest him after this test!!! ###",
+      "JP": "### ミノリラ：私に勝負を挑んでください。この試練に勝てば、私が彼を逮捕するために導きます！！###",
+      "CN": "### Minolila: 尽力击败我吧，如果你能通过这次考验，我就带你去逮捕他！！！ ###",
+      "KR": "### 미롤리나: 저를 꺾어 보십시오. 테스트에 성공하시면 그를 체포하는 길을 안내해 드리겠습니다!!! ###",
+      "TW": "### 米諾莉拉：嘗試擊敗我，若你能通過這項考驗，我將帶領你逮捕他！！！ ###"
+    }
+  },
+  "<< Pink [ The Voice of Revenge ] >>": {
+    "translation": ">>>5秒，粉 [ 复仇之音 ]<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ピンク【復讐の声】 >>",
+      "CN": "<< Pink [ 复仇之声 ] >>",
+      "KR": "<< 핑크 [ 복수의 목소리 ] >>",
+      "TW": "<< 粉紅色的 [ 復仇之音 ] >>"
+    }
+  },
+  "<< Blue [ The Jumping Hell ]  >>": {
+    "translation": ">>>5秒，蓝 [跃动的地狱]<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ブルー【跳躍地獄】 >>",
+      "CN": "<< Blue [ 跳跃地狱 ] >>",
+      "KR": "<< 블루 [ 점프의 지옥 ] >>",
+      "TW": "<< 藍色的 [ 狂舞地獄 ]  >>"
+    }
+  },
+  "<< Black [ The Substitute of the Diablo ]  >>": {
+    "translation": ">>>5秒，黑 [暗黑破坏神的替身]<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 黒 [ディアブロの代役] >>",
+      "CN": "<< 黑 [ 迪亚波罗的替身 ] >>",
+      "KR": "<< 블랙 [ 디아블로의 대리자 ] >>",
+      "TW": "<< 黑 [ 迪亞布洛的替代品 ] >>"
+    }
+  },
+  "<< Green [ The Mystic Tornado with the Unknown Direction ] >>": {
+    "translation": ">>>5秒，绿 [ 方向不明的奇异旋风]<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 緑 [未知への神秘な旋風] >>",
+      "CN": "<< 绿 [ 不知方向的奥秘龙卷风 ] >>",
+      "KR": "<< 그린 [ 미지의 방향을 가진 비밀의 토네이도 ] >>",
+      "TW": "<< 綠 [ 方向不明的神秘龍捲風 ] >>"
+    }
+  },
+  "<< Red [ The Standstill World ] >>": {
+    "translation": ">>>5秒，红 [静止的世界]<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 赤 [停止した世界] >>",
+      "CN": "<< 红 [ 静止的世界 ] >>",
+      "KR": "<< 레드 [ 정지된 세계 ] >>",
+      "TW": "<< 紅 [ 停滞的世界 ] >>"
+    }
+  },
+  "<< Yellow [ The Forbidden Arrow ]  >>": {
+    "translation": ">>>5秒，黄 [禁忌之箭]<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 黄 [禁断の矢] >>",
+      "CN": "<< 黄 [ 禁断之箭 ] >>",
+      "KR": "<< 옐로우 [ 금단의 화살 ]  >>",
+      "TW": "<< 黃 [ 禁斷之箭 ] >>"
+    }
+  },
+  "### Minolila: You are stronger than I thought ###": {
+    "translation": "**米诺莉拉：你比我想象中的更加强大**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：思っていたより強いね ###",
+      "CN": "### 米诺莉拉：你比我预想的还要强 ###",
+      "KR": "### 미노릴라: 너는 내가 생각한 것보다 강해 ###",
+      "TW": "### 米諾莉拉：你的實力比我想象的要強 ###"
+    }
+  },
+  "### Minolila: Fall back now, and I will lead you to the place where you should go ###": {
+    "translation": "**米诺莉拉: 请往回走吧，我将会指引您前往真正的地方**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：今すぐ退却して、君が行くべき場所へ導いてあげる ###",
+      "CN": "### 米诺莉拉：现在撤退，我会指引你们前往应去之地 ###",
+      "KR": "### 미노릴라: 지금 후퇴하고, 네가 가야 할 곳으로 이끌게 ###",
+      "TW": "### 米諾莉拉：現在撤離，我會帶你們去該去的地方 ###"
+    }
+  },
+  "<< The final door will open in 90 seconds >>": {
+    "translation": ">>>最终的大门将会在90秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最後の扉が90秒後に開く >>",
+      "CN": "<< 最后的门将在90秒后打开 >>",
+      "KR": "<< 마지막 문이 90초 후에 열립니다 >>",
+      "TW": "<< 最後的大門將在90秒後開啟 >>"
+    }
+  },
+  "### Minolila: I still can not believe you ###": {
+    "translation": "**米诺莉拉：我仍旧不能相信你**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：まだ信じられないよ ###",
+      "CN": "### 米诺莉拉：我至今仍无法相信你 ###",
+      "KR": "### 미노릴라: 그래도 너를 믿지 못하겠어 ###",
+      "TW": "### 米諾莉拉：我仍無法相信你 ###"
+    }
+  },
+  "### Minolila: Sorry for testing you again, and I will lead you to the true core of this palace ###": {
+    "translation": "**米诺莉拉：对不起又一次测试了你，现在我将会带您前往那个地方**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：もう一度テストさせてごめんね。真の核へご案内するわ ###",
+      "CN": "### 米诺拉拉：很抱歉又要测试你一次，我会带你前往宫殿的真正核心 ###",
+      "KR": "### 미놀리라: 다시 한 번 시험해드려서 죄송합니다. 이제 제가 궁전의 진정한 핵심으로 모셔다 드리겠습니다. ###",
+      "TW": "### 米諾莉拉：很抱歉再次測試你，我將帶你前往這座宮殿的真正核心 ###"
+    }
+  },
+  "<< Lunatic Mode Complete >>": {
+    "translation": ">>>Lunatic模式通关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 狂気モード完了 >>",
+      "CN": "<< 疯狂模式完成 >>",
+      "KR": "<< 망아지 모드 완료 >>",
+      "TW": "<< 狂戰士模式已完成 >>"
+    }
+  },
+  "### Minolila: Ive already prepared the teleporter for you, Good Luck! ###": {
+    "translation": "**米诺莉拉：我已经为你们准备好了传送器，祝你好运！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：テレポート装置は準備済よ。頑張ってきてね！ ###",
+      "CN": "### 米诺拉拉：我已经为你准备好传送器，祝你好运！ ###",
+      "KR": "### 미놀리라: 이미 순간이동 장치를 준비해 두었습니다. 행운을 빕니다! ###",
+      "TW": "### 米諾莉拉：我已經為你準備好了傳送器，祝你好運！ ###"
+    }
+  },
+  "<< Teleporter will activate in 20 seconds >>": {
+    "translation": ">>>传送器将会在20秒后激活<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒後にテレポート装置が作動します >>",
+      "CN": "<< 传送器将在 20 秒后激活 >>",
+      "KR": "<< 순간이동 20초 후 작동 >>",
+      "TW": "<< 傳送器將在 20 秒後啟動 >>"
+    }
+  },
+  "<< It seems that this button is broken...... >>": {
+    "translation": ">>>看起来这个按钮已经坏掉了......<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< このボタンはどうやら壊れているようです…… >>",
+      "CN": "<< 似乎这个按钮坏了…… >>",
+      "KR": "<< 이 단추는 고장 난 것 같습니다...... >>",
+      "TW": "<< 這個按鈕似乎壞掉了…… >>"
+    }
+  },
+  "<< Be careful!!! Do not press it again!!! Try to find another button!!!>>": {
+    "translation": ">>>小心！不要再碰这个开关了！尝试寻找另一个开门的开关！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 注意！！！もう押さないでください！！別のボタンを探してください！！！>>",
+      "CN": "<< 小心！！！不要再按它了！！！试着找另一个按钮！！！>>",
+      "KR": "<< 주의!!! 다시 누르지 마세요!!! 다른 단추를 찾아보세요!!!>>",
+      "TW": "<< 小心！！！不要再按它！！！試著找另一個按鈕！！！>>"
+    }
+  },
+  "<< Hold for 25 seconds >>": {
+    "translation": ">>>防守25秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 25秒間押し続けてください >>",
+      "CN": "<< 按住 25 秒 >>",
+      "KR": "<< 25초간 누르고 있으세요 >>",
+      "TW": "<< 按住 25 秒 >>"
+    }
+  },
+  "<< Teleporter will activate in 15 seconds >>": {
+    "translation": ">>>传送器将在15秒后激活<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 15秒後にテレポート装置が作動します >>",
+      "CN": "<< 传送器将在 15 秒后激活 >>",
+      "KR": "<< 순간이동 15초 후 작동 >>",
+      "TW": "<< 傳送器將在 15 秒後啟動 >>"
+    }
+  },
+  "### Dr.X: I didnt expect you to find it here ###": {
+    "translation": "**X博士：没想到你们竟然找到了这里**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: あなたがここでそれを見つけると思っていなかったよ ###",
+      "CN": "### X博士：没想到你会在这里找到它 ###",
+      "KR": "### Dr.X: 여기서 찾을 줄은 몰랐네 ###",
+      "TW": "### Dr.X：我沒料到你會在這裡找到它 ###"
+    }
+  },
+  "### Dr.X: You really want to arrest me? ###": {
+    "translation": "**X博士：想要逮捕我的怨念已经这么深了吗？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: 本当に僕を逮捕するつもり？ ###",
+      "CN": "### X博士：你真的想逮捕我吗？ ###",
+      "KR": "### Dr.X: 정말 나를 체포하고 싶지? ###",
+      "TW": "### Dr.X：你真的想逮捕我嗎？ ###"
+    }
+  },
+  "### Dr.X: Fuhahaha, do you think that I am standing here without any protect? ###": {
+    "translation": "**X博士：哈哈哈哈，你觉得我会这么蠢的站在这里让你们逮捕我？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: フフフハハ、僕が何の防衛もなしにここに立っていると思う？ ###",
+      "CN": "### X博士：哈哈哈，你以为我站在这里没有任何保护吗？ ###",
+      "KR": "### Dr.X: 후하하하, 내가 아무런 보호도 없이 여기 서 있을 것 같다고 생각하니? ###",
+      "TW": "### Dr.X：哈哈哈，你以為我會無防禦地站在這裡嗎？ ###"
+    }
+  },
+  "### Dr.X: Come Out, my MASTERPIECE!!! ###": {
+    "translation": "**X博士：出来吧，我的杰作！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: 現れて、僕の傑作！！！ ###",
+      "CN": "### X博士：出来吧，我的杰作！！！ ###",
+      "KR": "### Dr.X: 나오렴, 나의 ‘걸작’!!! ###",
+      "TW": "### Dr.X：出來吧，我的傑作！！！ ###"
+    }
+  },
+  "### Dr.X: Ive reformed Tesla for a long time, and now its time to test it ###": {
+    "translation": "**X博士：我已经改造特斯拉很久很久了，现在是时候测试一下它的威力了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: テスラを改造するには長い時間がかかったが、もうテストする時だ ###",
+      "CN": "### X博士：我已经改造特斯拉很久了，现在该测试它了 ###",
+      "KR": "### Dr.X: 나는 오래전부터 테슬라를 개조해 왔고, 이제 테스트할 때가 왔다 ###",
+      "TW": "### Dr.X：我已經改造特斯拉很長一段時間了，現在是時候測試它 ###"
+    }
+  },
+  "### Dr.X: Try more hard, and I hope we can meet again~ ###": {
+    "translation": "**加把劲吧，要不然就没意思了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: もう少しいろいろ試してね。また会えることを楽しみにしてるよ～ ###",
+      "CN": "### X博士：再努力一点，希望我们还能再见面~ ###",
+      "KR": "### Dr.X: 더 노력해 봐. 다시 만날 수 있기를 바라~ ###",
+      "TW": "### Dr.X：再努力一點，希望我們能再見面~ ###"
+    }
+  },
+  "<< The temperature is rising!!! Find a way to lower the temperature before we die!!! >>": {
+    "translation": ">>>温度正在上升！在我们不行之前找到一个办法让温度下降！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 温度が上昇中！！！ 私たち全員が死ぬ前に、なんとかして温度を下げて！！ >>",
+      "CN": "<< 温度正在上升！！！在我们死之前想办法降低温度！！！ >>",
+      "KR": "<< 온도가 상승하고 있습니다!!! 죽기 전에 온도를 낮출 방법을 찾으세요!!! >>",
+      "TW": "<< 溫度正在飆升！！！在我們死之前想辦法降低溫度！！！ >>"
+    }
+  },
+  "<< Tesla activate a green crystal >>": {
+    "translation": ">>>5秒，特斯拉激活了一个绿色水晶<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< テスラが緑のクリスタルを起動した >>",
+      "CN": "<< 特斯拉激活绿色水晶 >>",
+      "KR": "<< 테슬라가 녹색 결정을 활성화함 >>",
+      "TW": "<< 特斯拉啟動綠色水晶 >>"
+    }
+  },
+  "<< Lava is Rising!!! >>": {
+    "translation": ">>>5秒，岩浆正在上升！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 溶岩が上昇中!!! >>",
+      "CN": "<< 岩浆正在上升！！！ >>",
+      "KR": "<< 용암이 상승 중!!! >>",
+      "TW": "<< 熔岩正在上升！！>>"
+    }
+  },
+  "<< Boss is using Aurora Veil >>": {
+    "translation": ">>>5秒，Boss正在使用极光幕！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ボスがオーロラヴェールを使用 >>",
+      "CN": "<< Boss 正在使用极光护盾 >>",
+      "KR": "<< 보스가 아우라 베일을 사용 중입니다. >>",
+      "TW": "<< Boss 正使用極光護盾 >>"
+    }
+  },
+  "<< Boss is using Gravity!!! >>": {
+    "translation": ">>>5秒，boss正在使用黑洞！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ボスが重力!!!を使用 >>",
+      "CN": "<< Boss 正在使用重力！！！ >>",
+      "KR": "<< 보스가 중력을 사용하고 있습니다!!! >>",
+      "TW": "<< Boss 正使用重力攻擊！！>>"
+    }
+  },
+  "<< Boss is activating a crystal >>": {
+    "translation": ">>>5秒，Boss激活了正中央的水晶！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ボスがクリスタルを起動 >>",
+      "CN": "<< Boss 正在激活水晶 >>",
+      "KR": "<< 보스가結晶을 활성화하고 있습니다. >>",
+      "TW": "<< Boss 正在啟動水晶 >>"
+    }
+  },
+  "<< It is really a tough guy >>": {
+    "translation": ">>>真是个硬家伙<<<",
+    "MultiLang": {
+      "US": ">> Really a tough guy <<",
+      "JP": "<< 非常に手強い相手だ >>",
+      "CN": "<< 这家伙确实相当棘手 >>",
+      "KR": "<< 정말 강력한 상대입니다. >>",
+      "TW": "<< 他真的很有本事 >>"
+    }
+  },
+  "<< Dr.X can not run too far!!! Hurry up, it is the time to arrest him!!! >>": {
+    "translation": ">>>X博士身上还有伤，跑不了多远！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ドクターXは遠くへ逃げられない!!! 急げ、逮捕する時だ!!! >>",
+      "CN": "<< Dr.X 逃不远！！！快，是时候逮捕他了！！！ >>",
+      "KR": "<< Dr.X는 멀리 달아날 수 없습니다!!! 빨리, 그를 붙잡을 시간입니다!!! >>",
+      "TW": "<< Dr.X 無法逃得太遠！！快點，現在是他被逮捕的時機！！>>"
+    }
+  },
+  "<< The final door will open in 45 seconds >>": {
+    "translation": ">>>最后的大门将会在45秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最後の扉は45秒後に開く >>",
+      "CN": "<< 最终大门将在 45 秒后开启 >>",
+      "KR": "<< 마지막 문이 45초 후에 열립니다. >>",
+      "TW": "<< 最後一扇門將在 45 秒後開啟 >>"
+    }
+  },
+  "<< 10 seconds left >>": {
+    "translation": "**10秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あと10秒 >>",
+      "CN": "<< 剩余 10 秒 >>",
+      "KR": "<< 10초 남았습니다. >>",
+      "TW": "<< 倒數 10 秒 >>"
+    }
+  },
+  "### Its Dr.X Again!!! Keep Shooting!!! ###": {
+    "translation": "**是X博士！直接杀了他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### それはDr.Xだ！また！！！射撃を続ける！！！ ###",
+      "CN": "### 又是Dr.X！！！继续射击！！！ ###",
+      "KR": "### 다시 드렉터 X!!! 계속 쏘세요!!! ###",
+      "TW": "### 又是Dr.X！！！繼續射擊！！！"
+    }
+  },
+  "### Dr.X has died!!! ###": {
+    "translation": "**X博士不行了！干的漂亮！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.Xは死んだ！！！ ###",
+      "CN": "### Dr.X 死亡！！！ ###",
+      "KR": "### 드렉터 X가 사망했습니다!!! ###",
+      "TW": "### Dr.X已身亡！！！"
+    }
+  },
+  "### Minolila??? ###": {
+    "translation": "**米诺莉拉？？？？？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ？？？ ###",
+      "CN": "### Minolila？？？ ###",
+      "KR": "### 미놀리야??? ###",
+      "TW": "### Minolila？？？"
+    }
+  },
+  "### I do not know why Minolila want to kill us ###": {
+    "translation": "**## 我不知道为什么米诺莉拉会攻击我们 ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### なぜミノリラが私たちを殺そうとするのかは分からない ###",
+      "CN": "### 不知道为什么Minolila要杀我们 ###",
+      "KR": "### 미놀리가 우리를 죽이려는 이유를 모르겠습니다 ###",
+      "TW": "### 我不知道Minolila為什麼想殺死我們。"
+    }
+  },
+  "### Anyway, it should be safe here...... ###": {
+    "translation": "**## 但不管怎么说，这里应该是安全了吧...... ##**",
+    "MultiLang": {
+      "US": "",
+      "JP": "### とにかく、ここなら安全だ…… ###",
+      "CN": "### 不管怎样，这里应该很安全…… ###",
+      "KR": "### 어쨌든 여기는 안전해야 합니다...... ###",
+      "TW": "### 反正，這裡應該很安全......"
+    }
+  },
+  "<< No one expected that we would met the nightmare here at that time >>": {
+    "translation": ">>>在那个时候还没有人预料到我们会遇到的幻想噩梦<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< この時にここで悪夢に出会うなんて誰も予想しなかった >>",
+      "CN": "<< 当时没人想到我们会在这里遇到噩梦 >>",
+      "KR": "<< 그 때 저 곳에서 악몽과 마주하게 될 줄은 아무도 예상하지 못했습니다 >>",
+      "TW": "<< 當時沒人預料得到我們會在這裡遭遇夢魘 >>"
+    }
+  },
+  "<< But that is another story >>": {
+    "translation": ">>>但那是另一个故事了<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< しかしそれはまた別の物語だ >>",
+      "CN": "<< 但那又是另一回事了 >>",
+      "KR": "<< 하지만 그것은 또 다른 이야기입니다 >>",
+      "TW": "<< 但那是另一段故事了 >>"
+    }
+  },
+  "<< Congratulation!!! >>": {
+    "translation": ">>>恭喜！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< おめでとう！！！ >>",
+      "CN": "<< 恭喜！！！ >>",
+      "KR": "<< 축하합니다!!! >>",
+      "TW": "<< 恭喜！！！>>"
+    }
+  },
+  "<< You have beaten OverDrive Mode!!! >>": {
+    "translation": ">>>你已经征服了OverDrive模式！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< OverDriveモードをクリアしました！！！ >>",
+      "CN": "<< 你已击败超级加速模式！！！>>",
+      "KR": "<< 당신이 OverDrive Mode를 정복했습니다!!! >>",
+      "TW": "<<你已征服狂飆模式！！！>>"
+    }
+  },
+  "<< Survive for 180 seconds >>": {
+    "translation": ">>>存活180秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 180秒間生存してください >>",
+      "CN": "<< 坚持180秒 >>",
+      "KR": "<< 180초 동안 생존하세요 >>",
+      "TW": "<<存活 180 秒>>"
+    }
+  },
+  "<< You should select one area to go, or you will tele to zombie area >>": {
+    "translation": ">>>注意：不要呆在第一个场景！否则你会传送到僵尸堆里！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 移動するエリアを1つ選択してください。選ばない場合、ゾンビエリアに強制転送されます >>",
+      "CN": "<< 你应该选择一个区域前往，否则将被传送到僵尸区 >>",
+      "KR": "<< 하나의 지역을 선택하지 않으면 좀비 지역으로 순간이동 됩니다 >>",
+      "TW": "<<你應該選擇一個區域前往，否則將被傳送至殭屍區域>>"
+    }
+  },
+  "<< Extra Mode Complete!!! >>": {
+    "translation": ">>>Extra模式通关！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< エクストラモード完遂！！！ >>",
+      "CN": "<< 额外模式完成！！！>>",
+      "KR": "<< 익스트라 모드 완료!!! >>",
+      "TW": "<<額外模式已完成！！！>>"
+    }
+  },
+  "<< You are the legend of this map!!! >>": {
+    "translation": ">>>您就是这张图的传奇！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あなたはこのマップの伝説です！！！ >>",
+      "CN": "<< 你是这张地图的传奇人物！！！>>",
+      "KR": "<< 당신은 이 맵의 전설입니다!!! >>",
+      "TW": "<<你是本地圖的傳奇人物！！！>>"
+    }
+  },
+  "<< Be Careful! Zombies are coming! >>": {
+    "translation": ">>>小心！僵尸来了！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 注意！ゾンビが近づいています！ >>",
+      "CN": "<< 小心！僵尸来袭！ >>",
+      "KR": "<< 주의! 좀비가 다가옵니다! >>",
+      "TW": "<<小心！殭屍即將到達！>>"
+    }
+  },
+  "- EASY MODE -": {
+    "translation": "-简单模式-",
+    "MultiLang": {
+      "US": "",
+      "JP": "- イージーモード -",
+      "CN": "- 简单模式 -",
+      "KR": "- 이지 모드 -",
+      "TW": "- 簡易模式 -"
+    }
   },
   "### I think we'd better destroy this laboratory ###": {
-    "translation": ""
+    "translation": "### 我认为我们最好摧毁这个实验室 ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "## 実験室を破壊するべきだ ##",
+      "CN": "### 我想我们最好摧毁这个实验室 ###",
+      "KR": "### 우리는 이 연구소를 파괴하는 것이 낫다고 생각합니다 ###",
+      "TW": "### 我認為我們最好銷毀這個實驗室 ###"
+    }
   },
   "- NORMAL MODE -": {
-    "translation": ""
+    "translation": "- 普通模式 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- 通常モード -",
+      "CN": "- 普通模式 -",
+      "KR": "- 일반 모드 -",
+      "TW": "- 普通模式 -"
+    }
+  },
+  "<< A zombie has picked up heal magic >>": {
+    "translation": "<< 一个僵尸拾取了治疗魔法 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビーが回復魔法を拾った >>",
+      "CN": "<< 拾取到了治疗魔法 >>",
+      "KR": "<< 아메바가 회복 마법을 습득했습니다 >>",
+      "TW": "<< 殭屍已拾取治療魔法 >>"
+    }
+  },
+  "- HARD MODE -": {
+    "translation": "- 困难模式 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ハードモード -",
+      "CN": "- 困难模式 -",
+      "KR": "- 하드 모드 -",
+      "TW": "- 困難模式 -"
+    }
+  },
+  "<< Hold for 30 seconds >>": {
+    "translation": "<< 坚持30秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒間押し続ける >>",
+      "CN": "<< 持续按住30秒 >>",
+      "KR": "<< 30초 동안 유지하세요 >>",
+      "TW": "<< 持續按住 30 秒 >>"
+    }
+  },
+  "### ???: It's the first time...no, second time to see you ###": {
+    "translation": "### ???: 这是我们第一次见...不，是第二次见面 ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ???: 始めて…いや、2回目だね ###",
+      "CN": "### ???: 这是第一次……不，第二次见到你 ###",
+      "KR": "### ???: 처음보는 건가... 아니, 이번이 두 번째야 ###",
+      "TW": "### ???: 這是第一次……不，第二次見到你 ###"
+    }
+  },
+  "### ???: Thats right, I'm Dr.X, the mayor of the black stone city ###": {
+    "translation": "### ???: 是的，我是黑石城的市长X博士 ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ???: そう、僕は黒石の町の市長、Dr.Xよ ###",
+      "CN": "### ???: 没错，我是Dr.X，黑石城的市长 ###",
+      "KR": "### ???: 맞아, 나는 검은 돌 마을의 시장인 Dr.X야 ###",
+      "TW": "### ???: 沒錯，我是 Dr.X，黑石鎮的市長 ###"
+    }
+  },
+  "### Dr.X: I'm more and more interested in you, so try hard to avoid the attack from me!!! ###": {
+    "translation": "### X博士: 我对你越来越感兴趣了，所以努力避开我的攻击吧！！！ ###",
+    "MultiLang": {
+      "US": "### Dr.X: I'm getting more interested in you, so try hard to avoid my attack!!! ###",
+      "JP": "### Dr.X: 君への興味は深まるばかり、だから僕からの攻撃を必死に避けてね!!! ###",
+      "CN": "### Dr.X: 我对你的兴趣越来越浓厚了，所以拼命躲避我的攻击吧！！！ ###",
+      "KR": "### Dr.X: 너에 대해 점점 더 궁금해지네, 내 공격을 잘 피해보게! ###",
+      "TW": "### Dr.X: 我對你越來越感興趣，所以努力避開我的攻擊吧！！！ ###"
+    }
+  },
+  "## Dr.X will kill us in 40 seconds!!! ##": {
+    "translation": "## X博士将在40秒内杀死我们！！！ ##",
+    "MultiLang": {
+      "US": "",
+      "JP": "## Dr.Xは40秒後に私たちを殺す !!! ##",
+      "CN": "## Dr.X将在40秒内杀死我们！！！ ##",
+      "KR": "## Dr.X가 40초 안에 우리를 죽일 거야!!! ##",
+      "TW": "## Dr.X 將在 40 秒內殺死我們！！！ ##"
+    }
+  },
+  "## Dr.X will kill us in 10 seconds!!! ##": {
+    "translation": "## X博士将在10秒内杀死我们！！！ ##",
+    "MultiLang": {
+      "US": "",
+      "JP": "## ドクターXはあと10秒で僕たちを殺すよ！ ##",
+      "CN": "## X博士十秒内就要杀死我们了！ ##",
+      "KR": "## Dr.X가 10초 안에 우리를 죽일 거야!!! ##",
+      "TW": "## 羅博士會在10秒內殺掉我們！！！ ##"
+    }
+  },
+  "- LUNATIC MODE -": {
+    "translation": "- 疯狂模式 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- 狂気モード -",
+      "CN": "- 疯狂模式 -",
+      "KR": "- 미친 듯이 강한 모드 -",
+      "TW": "- 瘋狂模式 -"
+    }
+  },
+  "### I'm sorry and I will get out of there >_< ###": {
+    "translation": "### 对不起，我得离开那里 >_< ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ごめんなさい。ここから逃げます >_< ###",
+      "CN": "### 抱歉，我马上离开 >_< ###",
+      "KR": "### 죄송합니다, 여기서 벗어나겠습니다 >_< ###",
+      "TW": "### 對不起，我會離開這裡 >_< ###"
+    }
+  },
+  "### Minolila: And he imprisoned his own daughter in this palace so that no one will know what he did ### ": {
+    "translation": "### 米诺莉拉：他将自己的女儿囚禁在这座宫殿中，这样就没有人知道他做了什么 ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：彼は自分の娘をこの宮殿に閉じ込め、自身の行為を誰も知らぬようにしました ###",
+      "CN": "### Minolila: 他把亲生女儿囚禁在这座宫殿里，好让没人知道他做过什么 ###",
+      "KR": "### 미놀라: 그는 자신이 한 일을 아무도 모르는 듯하게 하기 위해 자신의 딸을 이 궁전에 가두었습니다. ###",
+      "TW": "### Minolila：他甚至將自己的女兒囚禁在這座宮殿中，好讓無人在意他所做的事情 ###"
+    }
+  },
+  "### Minolila: Sorry for testing you again, and I will lead you to the true core of this palace ### ": {
+    "translation": "### 米诺莉拉：对不起再次测试你，我将带你们去这座宫殿的真正核心 ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：またテストしてごめんね。これからはこの宮殿の真の核へご案内します ###",
+      "CN": "### Minolila: 抱歉又让你受累测试一遍，接下来我带你前往宫殿的核心区域 ###",
+      "KR": "### 미놀라: 다시 한번 당신을 시험해 죄송합니다. 이제 이 궁전의 진정한 핵심으로 안내해 드리겠습니다. ###",
+      "TW": "### Minolila：抱歉又測試了一次你，我將引導你前往這座宮殿的真實核心 ###"
+    }
+  },
+  "- OVERDRIVE MODE -": {
+    "translation": "- 超载模式 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- オーバードライブモード -",
+      "CN": "- 超负荷模式 -",
+      "KR": "- 오버드라이브 모드 -",
+      "TW": "- 超載模式 -"
+    }
+  },
+  "### Minolila: I've already prepared the teleporter for you, Good Luck! ###": {
+    "translation": "### 米诺莉拉：我已经为你们准备好了传送设备，祝你们好运！ ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ミノリラ：テレポート装置はすでに準備済みです。幸運を！ ###",
+      "CN": "### Minolila: 传送器已经为你准备好，祝好运！ ###",
+      "KR": "### 미놀라: 이미 텔레포터를 준비해 두었습니다. 행운을 빕니다! ###",
+      "TW": "### Minolila：我已經為你準備好了傳送器，祝你好運！ ###"
+    }
+  },
+  "<< 按钮似乎已经坏了 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< It seems the button is broken. >>",
+      "JP": "<< ボタンが壊れているようです >>",
+      "CN": "",
+      "KR": "<< 버튼이 고장난 것 같습니다 >>",
+      "TW": "<< 按鈕似乎已經壞了 >>"
+    }
+  },
+  "<< 当心！不要再继续按了,尝试寻找另一个按钮吧！！>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Careful! Don't press it anymore, try finding another button!! >>",
+      "JP": "<< 警告！これ以上押さないで、別のボタンを探してください！！>>",
+      "CN": "",
+      "KR": "<<조심하세요! 더 이상 버튼을 누르지 말고 다른 단추를 찾아보세요!!>>",
+      "TW": "<< 小心！不要再繼續按了，試著尋找另一個按鈕吧！！>>"
+    }
+  },
+  "<<现在可以在水下行走了>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Now you can walk underwater. >>",
+      "JP": "<< 水中を歩けるようになりました >>",
+      "CN": "现在可以在水中行走>>",
+      "KR": "<<이제 물속을 걸을 수 있습니다>>",
+      "TW": "<<現在可以水下行走>>"
+    }
+  },
+  "### Dr.X: I didn't expect you to find it here ###": {
+    "translation": "### X博士：我没想到你会在这里找到它 ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: ここで見つけたとは予想してなかったな ###",
+      "CN": "### Dr.X: 没想到你会在这里找到它 ###",
+      "KR": "### Dr.X: 여기서 찾을 거라고는 생각지 못했어요 ###",
+      "TW": "### Dr.X：我沒想到你會在這裡找到它 ###"
+    }
+  },
+  "### Dr.X: I've reformed Tesla for a long time, and now its time to test it ###": {
+    "translation": "### X博士：我改造特斯拉已经有一段时间了，现在到了测试它的时候了 ###",
+    "MultiLang": {
+      "US": "",
+      "JP": "### Dr.X: テスラの改修は長年行ってきた、今こそテストの時だ ###",
+      "CN": "### Dr.X：我已经改造了特斯拉很久，现在该测试它了 ###",
+      "KR": "### Dr.X: tesla를 오랫동안 개조해 왔고, 이제 테스트할 때입니다 ###",
+      "TW": "### Dr.X：我已經改裝特斯拉很久，現在是測試它的時機了 ###"
+    }
+  },
+  "<< Tesla activate a pink crystal >>": {
+    "translation": "<< 特斯拉激活了一个粉色水晶 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< テスラがピンクの結晶を起動 >>",
+      "CN": "<< 特斯拉激活粉色水晶 >>",
+      "KR": "<< tesla가 분홍 결정을 활성화합니다 >>",
+      "TW": "<< 特斯拉激活粉紅水晶 >>"
+    }
+  },
+  "<< The door will open in 20s>>": {
+    "translation": "<< 门将在20秒内打开>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒後に扉が開きます >>",
+      "CN": "<< 门将在20秒后打开 >>",
+      "KR": "<<문이 20초 후에 열립니다>>",
+      "TW": "<< 門將在 20 秒後開啟>>"
+    }
+  },
+  "<< Do not be a coward!!! >>": {
+    "translation": "<< 不要当懦夫！！！ >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 臆病者になるな！！！ >>",
+      "CN": "<< 别当懦夫！！！ >>",
+      "KR": "<<겁쟁이가 되지 마라!!! >>",
+      "TW": "<< 不要做懦夫！！！ >>"
+    }
+  },
+  "- EXTRA MODE -": {
+    "translation": "- 额外模式 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- EXTRA MODE -",
+      "CN": "- 额外模式 -",
+      "KR": "- EXTRA MODE -",
+      "TW": "- 額外模式 -"
+    }
+  },
+  "<< Tesla activate a yellow crystal >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< テスラが黄色い結晶を活性化 >>",
+      "CN": "<< 特斯拉激活黄色水晶 >>",
+      "KR": "<< 테슬라, 옐로우 크리스탈을 활성화합니다 >>",
+      "TW": "<<特斯拉啟動黃色水晶>>"
+    }
+  },
+  "<< Misaka: I want to make another ending of this map at first >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ミサカ: まずはこのマップの別のエンドを作りたいと思ったんだ >>",
+      "CN": "<< 美咲：我原本想做这个地图的另一个结局 >>",
+      "KR": "<< 미사카: 처음엔 이 맵의 다른 엔딩을 만들고 싶었어요 >>",
+      "TW": "<<未咲：我原本想為這個地圖製作另一個結局>>"
+    }
+  },
+  "<< Misaka: But I am lazy..... >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ミサカ: でも私は怠け者だからね..... >>",
+      "CN": "<< 美咲：但我太懒了…… >>",
+      "KR": "<< 미사카: 근데 게으르니까..... >>",
+      "TW": "<<未咲：但我太懶惰了……>>"
+    }
+  },
+  "<< Misaka: So I will delete this button...... >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ミサカ: だからこのボタンは削除するね...... >>",
+      "CN": "<< 美枝：所以我将删除这个按钮…… >>",
+      "KR": "<< 미사카: 그래서 이 버튼은 지울 거예요...... >>",
+      "TW": "<<未咲：所以我要刪除這個按鈕……>>"
+    }
+  },
+  "<< Admin select EXTRA MODE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 管理者がEXTRA MODEを選択 >>",
+      "CN": "<< 管理员选择 EXTRA MODE >>",
+      "KR": "<< 관리자, EXTRA MODE 선택 >>",
+      "TW": "<<管理員選擇EXTRA模式>>"
+    }
+  },
+  "<<管理员按下重启本回合按钮 5秒后重启>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Admin presses the Restart Turn button in 5 seconds.",
+      "JP": "<<管理者が本回合を再開するボタンを5秒後に押す>>",
+      "CN": "",
+      "KR": "<<관리자가 본回合重启按钮重新启动 5秒后重启>>",
+      "TW": "管理员按下重启本回合按鈕 5秒後重新啟動"
+    }
+  },
+  "<<管理员按下重启本回合按钮 4秒后重启>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Admin presses the Restart Round button; it will restart in 4 seconds.",
+      "JP": "<<管理者が本回合を再開するボタンを4秒後で押す>>",
+      "CN": "",
+      "KR": "<<관리자가 본 판을 재시작하는 버튼을 누른 후 4초 후 재시작>>",
+      "TW": "管理员按下重啟本回合按鈕4秒後重啟>>"
+    }
+  },
+  "<<管理员按下重启本回合按钮 3秒后重启>": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">> Admin presses theRestart This Roundbutton in 3 seconds>>",
+      "JP": "<<管理者が本回合再启动ボタンを3秒後押し按压后重启>>",
+      "CN": "",
+      "KR": "관리자는 3초 후에 이 판을 재시작합니다.",
+      "TW": "管理員按下重啟本回合按鈕3秒後重啟"
+    }
+  },
+  "<<管理员按下重启本回合按钮 2秒后重启>": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">> Admin presses the Restart Turn button in 2 seconds for a restart<<",
+      "JP": "管理者がボタンを2秒後押し>> 各ラウンド終了时にリスタート",
+      "CN": "",
+      "KR": "관리자는 2초 후에 이번 턴을 재시작하는 버튼을 눌렀습니다>>",
+      "TW": ""
+    }
+  },
+  "<<管理员按下重启本回合按钮 1秒后重启>": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">> Admin presses the Restart Round button; it will restart in 1 second.",
+      "JP": "<<管理者が本回合再起动ボタンを押した後1秒で再起動>>",
+      "CN": "",
+      "KR": "<<관리자가 본 턴을 재시작하는 버튼을 누른 후 1초 후 재시작>>",
+      "TW": "管理员按下重啟本回合按鈕1秒後重啟"
+    }
+  },
+  "<< Admin select OVERDRIVE MODE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 管理者がOVERDRIVE MODEを選択 >>",
+      "CN": "<< 管理员选择 OVERDRIVE MODE >>",
+      "KR": "<< 관리자, OVERDRIVE MODE 선택 >>",
+      "TW": "<<管理員選擇OVERDRIVE模式>>"
+    }
+  },
+  "<< Admin select LUNATIC MODE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 管理者がLUNATIC MODEを選択 >>",
+      "CN": "<< 管理员选择 LUNATIC MODE >>",
+      "KR": "<< 관리자, LUNATIC MODE 선택 >>",
+      "TW": "<<管理員選擇LUNATIC模式>>"
+    }
+  },
+  "<< Admin select EASY MODE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 管理者がEASY MODEを選択 >>",
+      "CN": "<< 管理员选择 EASY MODE >>",
+      "KR": "<< 관리자, EASY MODE 선택 >>",
+      "TW": "<<管理員選擇EASY模式>>"
+    }
+  },
+  "<< Admin select NORMAL MODE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< Admin select NORMAL MODE >>",
+      "CN": "<< 管理员选择 NORMAL MODE >>",
+      "KR": "<< 관리자 NORMAL MODE 선택 >>",
+      "TW": "<< 管理員選擇 NORMAL MODE >>"
+    }
+  },
+  "<< Admin select HARD MODE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< Admin select HARD MODE >>",
+      "CN": "<< 管理员选择 HARD MODE >>",
+      "KR": "<< 관리자 HARD MODE 선택 >>",
+      "TW": "<< 管理員選擇 HARD MODE >>"
+    }
   }
 }

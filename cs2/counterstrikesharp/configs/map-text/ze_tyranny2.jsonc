@@ -1,291 +1,972 @@
 {
   "*** Left Door Opening in 15 Seconds ***": {
-    "translation": "***左门将在15秒内打开***"
+    "translation": "***左门将在15秒内打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 左のドア、15秒後に開きます ***",
+      "CN": "*** 左侧门将在15秒后开启 ***",
+      "KR": "*** 왼쪽 문 15초 후 열림 ***",
+      "TW": "***左門將在 15 秒後開啟***"
+    }
   },
   "*** Left Door Opening in 20 Seconds ***": {
-    "translation": "***左门将在20秒内打开***"
+    "translation": "***左门将在20秒内打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 左のドア、20秒後に開きます ***",
+      "CN": "*** 左侧门将在20秒后开启 ***",
+      "KR": "*** 왼쪽 문 20초 후 열림 ***",
+      "TW": "***左門將在 20 秒後開啟***"
+    }
   },
   "*** Library Route Opened ***": {
-    "translation": "***图书馆路线已开启***"
+    "translation": "***图书馆路线已开启***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ライブラリルート開放 ***",
+      "CN": "*** 图书馆路线已开放 ***",
+      "KR": "*** 도서관 경로 개방 ***",
+      "TW": "***圖書館路線已開啟***"
+    }
   },
   "*** Meeting Room Route Opened ***": {
-    "translation": "***会议室路线已开启***"
+    "translation": "***会议室路线已开启***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 会議室ルート開放 ***",
+      "CN": "*** 会议室路线已开放 ***",
+      "KR": "*** 회의실 경로 개방 ***",
+      "TW": "***會議室路線已開啟***"
+    }
   },
   "*** Middle Door Opening in 20 Seconds ***": {
-    "translation": "***中间门将在20秒内打开***"
+    "translation": "***中间门将在20秒内打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 真ん中のドア、20秒後に開きます ***",
+      "CN": "*** 中间门将在20秒后开启 ***",
+      "KR": "*** 중앙 문 20초 후 열림 ***",
+      "TW": "***中間門將在 20 秒後開啟***"
+    }
   },
   "*** Right Door Opening in 15 Seconds ***": {
-    "translation": "***右门将在15秒内打开***"
+    "translation": "***右门将在15秒内打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 右のドア、15秒後に開きます ***",
+      "CN": "*** 右侧门将在15秒后开启 ***",
+      "KR": "*** 오른쪽 문 15초 후 열림 ***",
+      "TW": "***右門將在 15 秒後開啟***"
+    }
   },
   ">>> 10 Seconds Left <<<": {
-    "translation": ">>>剩下10秒<<<"
+    "translation": ">>>剩下10秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 残り10秒 <<<",
+      "CN": ">>> 剩余10秒 <<<",
+      "KR": ">>> 잔여 시간 10초 <<<",
+      "TW": ">>> 剩餘 10 秒<<<"
+    }
   },
   ">>> 5 Seconds Left <<<": {
-    "translation": ">>>剩下5秒<<<"
+    "translation": ">>>剩下5秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 残り5秒 <<<",
+      "CN": ">>> 剩余5秒 <<<",
+      "KR": ">>> 잔여 시간 5초 <<<",
+      "TW": ">>> 剩餘 5 秒<<<"
+    }
   },
   ">>> AFK Teleport 10 Seconds <<<": {
-    "translation": ">>>挂机传送10秒<<<"
+    "translation": ">>>挂机传送10秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 10秒後にAFKテレポート >>>",
+      "CN": ">>> 闲置传送10秒 <<<",
+      "KR": "<<< 10초 후 AFK 텔레포트 >>>",
+      "TW": ">>> AFK 傳送 10 秒內 <<<"
+    }
   },
   ">>> AFK Teleport in 10 Seconds <<<": {
-    "translation": ">>>挂机传送将在10秒内进行<<<"
+    "translation": ">>>挂机传送将在10秒内进行<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒後にAFKテポート <<<",
+      "CN": ">>> 10秒后闲置传送 <<<",
+      "KR": "<<< 10초 후 AFK 텔레포트 시작 >>>",
+      "TW": ">>> AFK 傳送至 10 秒後 <<<"
+    }
   },
   ">>> AFK Teleport in 5 Seconds <<<": {
-    "translation": ">>>挂机传送将在5秒内进行<<<"
+    "translation": ">>>挂机传送将在5秒内进行<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 5秒後にAFKテレポート <<<",
+      "CN": ">>> 5秒后闲置传送 <<<",
+      "KR": "<<< 5초 후 AFK 텔레포트 시작 >>>",
+      "TW": ">>> AFK 傳送至 5 秒後 <<<"
+    }
   },
   ">>> Ammo box has been Found <<<": {
-    "translation": ">>>弹药已被找到<<<"
+    "translation": ">>>弹药已被找到<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> アモボックスを発見しました <<<",
+      "CN": ">>> 找到弹药箱 <<<",
+      "KR": "<<< 탄약 상자를 발견했습니다 >>>",
+      "TW": ">>> 發現彈藥箱 <<<"
+    }
   },
   ">>> Angra has been Defeated <<<": {
-    "translation": ">>>安格拉已被击败<<<"
+    "translation": ">>>安格拉已被击败<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> アングラを倒しました <<<",
+      "CN": ">>> 安格拉已被击败 <<<",
+      "KR": "<<< 안그라를 제압했습니다 >>>",
+      "TW": ">>> 安格拉已被擊敗 <<<"
+    }
   },
   ">>> Ballista has been Found <<<": {
-    "translation": ">>>弩炮已被找到<<<"
+    "translation": ">>>弩炮已被找到<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> バリスタを発見しました <<<",
+      "CN": ">>> 找到弩炮 <<<",
+      "KR": "<<< 발리스타를 발견했습니다 >>>",
+      "TW": ">>> 發現弩炮 <<<"
+    }
   },
   ">>> Bible has been Found <<<": {
-    "translation": ">>>圣经已被找到<<<"
+    "translation": ">>>圣经已被找到<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 聖書を見つけました <<<",
+      "CN": ">>> 找到圣经 <<<",
+      "KR": "<<< 성서(바이블)을 발견했습니다 >>>",
+      "TW": ">>> 發現聖經 <<<"
+    }
   },
   ">>> Blessed ancient scroll has been Found <<<": {
-    "translation": ">>>已找到受祝福的古老卷轴<<<"
-  },
-  ">>> CS2 Ported Thanks: 礼绮罗Reikira, 壹玖玖柒零壹贰玖, 肖肖肖娜薇恩, 秋言不会跳刀 <<<": {
-    "translation": ">>>CS2移植感谢:礼绮罗Reikira,壹玖玖柒零壹贰玖,肖肖肖娜薇恩,秋言不会跳刀<<<"
+    "translation": ">>>已找到受祝福的古老卷轴<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 祝福された古代の巻物を見つけました <<<",
+      "CN": ">>> 找到祝福的古卷轴 <<<",
+      "KR": "<<< 축복된 고대 두루마리를 발견했습니다 >>>",
+      "TW": ">>> 發現受祝福的古卷 <<<"
+    }
   },
   ">>> DIABLO DEEMS YOUR SACRIFICE WORTHY <<<": {
-    "translation": ">>>破坏者认为你的牺牲是值得的<<<"
+    "translation": ">>>破坏者认为你的牺牲是值得的<<<",
+    "MultiLang": {
+      "US": ">>> DIABLO DEEMS YOUR SACRifice WORTHY <<<",
+      "JP": "ディアブロがあなたの生贄を認めた",
+      "CN": ">>> 迪亚布洛认可了你的祭品 <<<",
+      "KR": "다크 디아블로, 당신의 헌신을 평가함",
+      "TW": ">>> 迪亞布羅認可你的獻祭 <<<"
+    }
   },
   ">>> Diablo has been Defeated <<<": {
-    "translation": ">>>破坏者已被击败<<<"
+    "translation": ">>>破坏者已被击败<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ディアロ敗北",
+      "CN": ">>> 迪亚布洛已被击败 <<<",
+      "KR": "디아블로 처치",
+      "TW": ">>> 迪亞布羅已被擊敗 <<<"
+    }
   },
   ">>> Diablo is Coming <<<": {
-    "translation": ">>>破坏者正在来袭<<<"
+    "translation": ">>>破坏者正在来袭<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ディアブロ到来",
+      "CN": ">>> 迪亚布洛即将降临 <<<",
+      "KR": "디아블로 등장",
+      "TW": ">>> 迪亞布羅即將到來 <<<"
+    }
   },
   ">>> Don't Delay <<<": {
-    "translation": ">>>不要拖延<<<"
+    "translation": ">>>不要拖延<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "遅れるな",
+      "CN": ">>> 不要拖延 <<<",
+      "KR": "지체하지 마세요",
+      "TW": ">>> 別再拖延 <<<"
+    }
   },
   ">>> Door Closing in 15 Seconds <<<": {
-    "translation": ">>>门将在15秒内关闭<<<"
+    "translation": ">>>门将在15秒内关闭<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒で扉が閉じる",
+      "CN": ">>> 门将在15秒后关闭 <<<",
+      "KR": "문 닫힘까지 15초",
+      "TW": ">>> 門將在15秒後關閉 <<<"
+    }
   },
   ">>> Dragon has been Defeated <<<": {
-    "translation": ">>>龙已被击败<<<"
+    "translation": ">>>龙已被击败<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドラゴン敗北",
+      "CN": ">>> 巨龙已被击败 <<<",
+      "KR": "드래곤 처치",
+      "TW": ">>> 巨龍已被擊敗 <<<"
+    }
   },
   ">>> Dragon is Coming <<<": {
-    "translation": ">>>龙正在来袭<<<"
+    "translation": ">>>龙正在来袭<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドラゴン到来",
+      "CN": ">>> 巨龙即将降临 <<<",
+      "KR": "드래곤 등장",
+      "TW": ">>> 巨龍即將到臨 <<<"
+    }
   },
   ">>> Fall Back <<<": {
-    "translation": ">>>撤退<<<"
+    "translation": ">>>撤退<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "退却せよ",
+      "CN": ">>> 撤退 <<<",
+      "KR": "후퇴하세요",
+      "TW": ">>> 撤退 <<<"
+    }
   },
   ">>> Gargantua has been Defeated <<<": {
-    "translation": ">>>巨怪已被击败<<<"
+    "translation": ">>>巨怪已被击败<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ガージェント退城 <<<",
+      "CN": ">>>伽刚特尔已被击败<<<",
+      "KR": ">>> 가르간투아를 격파했습니다 <<<",
+      "TW": ">>> 巨人已被擊敗 <<<"
+    }
   },
   ">>> Gargantua is Coming <<<": {
-    "translation": ">>>巨怪正在来袭<<<"
+    "translation": ">>>巨怪正在来袭<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ガージェント接近中 <<<",
+      "CN": ">>>伽刚特尔即将出现<<<",
+      "KR": ">>> 가르간투아가 등장합니다 <<<",
+      "TW": ">>> 巨人即將出現 <<<"
+    }
   },
   ">>> Hold 10 Seconds <<<": {
-    "translation": ">>>防守10秒<<<"
+    "translation": ">>>防守10秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒間押す <<<",
+      "CN": ">>>保持10秒<<<",
+      "KR": ">>> 10초 동안 유지 <<<",
+      "TW": ">>> 請按住10秒 <<<"
+    }
   },
   ">>> Hold 15 Seconds <<<": {
-    "translation": ">>>防守15秒<<<"
+    "translation": ">>>防守15秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 15秒間押す <<<",
+      "CN": ">>>保持15秒<<<",
+      "KR": ">>> 15초 동안 유지 <<<",
+      "TW": ">>> 請按住15秒 <<<"
+    }
   },
   ">>> Hold 20 Seconds <<<": {
-    "translation": ">>>防守20秒<<<"
+    "translation": ">>>防守20秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 20秒間押す <<<",
+      "CN": ">>>保持20秒<<<",
+      "KR": ">>> 20초 동안 유지 <<<",
+      "TW": ">>> 請按住20秒 <<<"
+    }
   },
   ">>> Hold 25 Seconds <<<": {
-    "translation": ">>>防守25秒<<<"
+    "translation": ">>>防守25秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 25秒間押す <<<",
+      "CN": ">>>保持25秒<<<",
+      "KR": ">>> 25초 동안 유지 <<<",
+      "TW": ">>> 請按住25秒 <<<"
+    }
   },
   ">>> Hold 30 Seconds  <<<": {
-    "translation": ">>>防守30秒<<<"
+    "translation": ">>>防守30秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒間押す <<<",
+      "CN": ">>>保持30秒<<<",
+      "KR": ">>> 30초 동안 유지 <<<",
+      "TW": ">>> 請按住30秒 <<<"
+    }
   },
   ">>> Hold 30 Seconds <<<": {
-    "translation": ">>>防守30秒<<<"
+    "translation": ">>>防守30秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒間押す <<<",
+      "CN": ">>>保持30秒<<<",
+      "KR": ">>> 30초 동안 유지 <<<",
+      "TW": ">>> 請按住30秒 <<<"
+    }
   },
   ">>> Hold 35 Seconds <<<": {
-    "translation": ">>>防守35秒<<<"
+    "translation": ">>>防守35秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 35秒間押し続けてください <<<",
+      "CN": ">>> 保持35秒 <<<",
+      "KR": ">>> 35초간 유지 <<<",
+      "TW": "按住35秒"
+    }
   },
   ">>> Hold 40 Seconds <<<": {
-    "translation": ">>>防守40秒<<<"
+    "translation": ">>>防守40秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 40秒間押し続けてください <<<",
+      "CN": ">>> 保持40秒 <<<",
+      "KR": ">>> 40초간 유지 <<<",
+      "TW": "按住40秒"
+    }
   },
   ">>> Hold 5 Seconds <<<": {
-    "translation": ">>>防守5秒<<<"
+    "translation": ">>>防守5秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 5秒間押し続けてください <<<",
+      "CN": ">>> 保持5秒 <<<",
+      "KR": ">>> 5초간 유지 <<<",
+      "TW": "按住5秒"
+    }
   },
   ">>> Map by Moray and nano <<<": {
-    "translation": ">>>地图作者：Moray和nano 翻译：Asteri3m<<<"
+    "translation": ">>>地图作者：Moray和nano 翻译：Asteri3m<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> マップ制作：Moray and nano <<<",
+      "CN": ">>> 地图制作：Moray 和 nano <<<",
+      "KR": ">>> 지도 제작자: Moray 및 nano <<<",
+      "TW": ">>> 地圖由 Moray 和 nano 製作 <<<"
+    }
   },
   ">>> Player has picked up Abyss  <<<": {
-    "translation": ">>>玩家已拾起ZM虚空术<<<"
+    "translation": ">>>玩家已拾起ZM虚空术<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはアビスを獲得しました <<<",
+      "CN": ">>> 玩家拾取了深渊 <<<",
+      "KR": ">>> 플레이어가 아비스를 획득했습니다 <<<",
+      "TW": "玩家已拾取 Abyss"
+    }
   },
   ">>> Player has picked up Ammo <<<": {
-    "translation": ">>>玩家已拾起弹药<<<"
+    "translation": ">>>玩家已拾起弹药<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーは弾薬を取得しました <<<",
+      "CN": ">>> 玩家拾取了弹药 <<<",
+      "KR": ">>> 플레이어가 탄약을 획득했습니다 <<<",
+      "TW": "玩家已拾取 Ammo"
+    }
   },
   ">>> Player has picked up Ballista <<<": {
-    "translation": ">>>玩家已拾起弩炮<<<"
+    "translation": ">>>玩家已拾起弩炮<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはバルジスタを手に入れました <<<",
+      "CN": ">>> 玩家拾取了弩车 <<<",
+      "KR": ">>> 플레이어가 발리스타를 획득했습니다 <<<",
+      "TW": "玩家已拾取 Ballista"
+    }
   },
   ">>> Player has picked up Bible <<<": {
-    "translation": ">>>玩家已拾起圣经<<<"
+    "translation": ">>>玩家已拾起圣经<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーは聖書を受け取りました <<<",
+      "CN": ">>> 玩家拾取了圣经 <<<",
+      "KR": ">>> 플레이자가 성서(바이블)를 획득했습니다 <<<",
+      "TW": "玩家已拾取 Bible"
+    }
   },
   ">>> Player has picked up Blood Orb  <<<": {
-    "translation": ">>>玩家已拾起ZM祈血术<<<"
+    "translation": ">>>玩家已拾起ZM祈血术<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが血のオーブを拾いました",
+      "CN": ">>> 玩家已拾取血球 <<<",
+      "KR": "플레이어가 피의 구슬을 획득했습니다",
+      "TW": ">>> 玩家已拾取血珠 <<<"
+    }
   },
   ">>> Player has picked up Crystal Staff <<<": {
-    "translation": ">>>玩家已拾起水晶权杖<<<"
+    "translation": ">>>玩家已拾起水晶权杖<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがクリスタルスタッフを拾いました",
+      "CN": ">>> 玩家已拾取水晶法杖 <<<",
+      "KR": "플레이어가 수정 지팡이를 획득했습니다",
+      "TW": ">>> 玩家已拾取水晶法杖 <<<"
+    }
   },
   ">>> Player has picked up Explosive Barrel  <<<": {
-    "translation": ">>>玩家已拾起ZM炸药桶<<<"
+    "translation": ">>>玩家已拾起ZM炸药桶<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが爆発バレルを拾いました",
+      "CN": ">>> 玩家已拾取爆炸桶 <<<",
+      "KR": "플레이어가 폭발통을 획득했습니다",
+      "TW": ">>> 玩家已拾取炸藥桶 <<<"
+    }
   },
   ">>> Player has picked up Guillotine  <<<": {
-    "translation": ">>>玩家已拾起ZM断头台<<<"
+    "translation": ">>>玩家已拾起ZM断头台<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがギロチンを拾いました",
+      "CN": ">>> 玩家已拾取断头台 <<<",
+      "KR": "플레이어가 단두대를 획득했습니다",
+      "TW": ">>> 玩家已拾取斷頭台 <<<"
+    }
   },
   ">>> Player has picked up Heal Staff <<<": {
-    "translation": ">>>玩家已拾起治疗权杖<<<"
+    "translation": ">>>玩家已拾起治疗权杖<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが回復スタッフを拾いました",
+      "CN": ">>> 玩家已拾取治疗法杖 <<<",
+      "KR": "플레이어가 치유 지팡이를 획득했습니다",
+      "TW": ">>> 玩家已拾取治療法杖 <<<"
+    }
   },
   ">>> Player has picked up Meteor Staff <<<": {
-    "translation": ">>>玩家已拾起流星权杖<<<"
+    "translation": ">>>玩家已拾起流星权杖<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが隕石スタッフを拾いました",
+      "CN": ">>> 玩家已拾取流星法杖 <<<",
+      "KR": "플레이어가 유성 지팡이를 획득했습니다",
+      "TW": ">>> 玩家已拾取流星法杖 <<<"
+    }
   },
   ">>> Player has picked up Necromancy  <<<": {
-    "translation": ">>>玩家已拾起ZM妖术<<<"
+    "translation": ">>>玩家已拾起ZM妖术<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが死霊術書を拾いました",
+      "CN": ">>> 玩家已拾取死灵法术 <<<",
+      "KR": "플레이어가 죽음의 마법을 획득했습니다",
+      "TW": ">>> 玩家已拾取死靈魔法 <<<"
+    }
   },
   ">>> Player has picked up Sacred Staff <<<": {
-    "translation": ">>>玩家已拾起恐惧权杖<<<"
+    "translation": ">>>玩家已拾起恐惧权杖<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが聖なるスタッフを拾いました",
+      "CN": ">>> 玩家已拾取圣物法杖 <<<",
+      "KR": "플레이어가 신성한 지팡이를 획득했습니다",
+      "TW": ">>> 玩家已拾取聖物法杖 <<<"
+    }
   },
   ">>> Player has picked up Shade Staff <<<": {
-    "translation": ">>>玩家已拾起阴影权杖<<<"
+    "translation": ">>>玩家已拾起阴影权杖<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 影の杖を手に入れた <<<",
+      "CN": ">>> 玩家已拾取暗影法杖 <<<",
+      "KR": ">>> 플레이어가 그림자 지팡이를 획득했습니다 <<<",
+      "TW": ">>> 玩家已拾取陰影權杖 <<<"
+    }
   },
   ">>> Player has picked up Tornado Staff <<<": {
-    "translation": ">>>玩家已拾起飓风权杖<<<"
+    "translation": ">>>玩家已拾起飓风权杖<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 嵐の杖を手に入れた <<<",
+      "CN": ">>> 玩家已拾取龙卷风法杖 <<<",
+      "KR": ">>> 플레이어가 토네이도 지팡이를 획득했습니다 <<<",
+      "TW": ">>> 玩家已拾取龍捲風權杖 <<<"
+    }
   },
   ">>> Player has picked up Venom Staff <<<": {
-    "translation": ">>>玩家已拾起毒液权杖<<<"
+    "translation": ">>>玩家已拾起毒液权杖<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 毒の杖を手に入れた <<<",
+      "CN": ">>> 玩家已拾取剧毒法杖 <<<",
+      "KR": ">>> 플레이어가 독 지팡이를 획득했습니다 <<<",
+      "TW": ">>> 玩家已拾取毒液權杖 <<<"
+    }
   },
   ">>> Ported from CSS v2 version by Tenshi. <<<": {
-    "translation": ">>>由Tenshi从CSS v2版本移植<<<"
+    "translation": ">>>由Tenshi从CSS v2版本移植<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> TenshiによってCSS v2バージョンから移植されました。<<<",
+      "CN": ">>> 由 Tenshi 从 CSS v2 版本移植。<<<",
+      "KR": ">>> Tenshi가 CSS v2 버전에서 포팅하였습니다. <<<",
+      "TW": ">>> 由 Tenshi 移植自 CSS v2 版本。<<<"
+    }
   },
   ">>> Rakiora has been slain... <<<": {
-    "translation": ">>>拉基奥拉已被击杀...<<<"
+    "translation": ">>>拉基奥拉已被击杀...<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ラキオラが倒された... <<<",
+      "CN": ">>> 拉基奥拉已被击杀... <<<",
+      "KR": ">>> 라키오라가 처치되었습니다... <<<",
+      "TW": ">>> 拉基奧拉已被擊殺... <<<"
+    }
   },
   ">>> Rakiora is Coming <<<": {
-    "translation": ">>>拉基奥拉正在来袭<<<"
+    "translation": ">>>拉基奥拉正在来袭<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ラキオラ接近中 <<<",
+      "CN": ">>> 拉基奥拉降临 <<<",
+      "KR": ">>> 라키오라가 접근 중입니다 <<<",
+      "TW": ">>> 拉基奧拉即將到來 <<<"
+    }
   },
   ">>> Round Failed <<<": {
-    "translation": ">>>回合失败<<<"
+    "translation": ">>>回合失败<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ラウンド失敗 <<<",
+      "CN": ">>> 回合失败 <<<",
+      "KR": ">>> 라운드 실패 <<<",
+      "TW": ">>> 回合失敗 <<<"
+    }
   },
   ">>> SECRET EASTER EGG COMPLETED <<<": {
-    "translation": ">>>神秘彩蛋已触发<<<"
+    "translation": ">>>神秘彩蛋已触发<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 隠しイースターエッグ完了 <<<",
+      "CN": ">>> 秘密彩蛋已完成 <<<",
+      "KR": ">>> 비밀 이스터 에그 달성 <<<",
+      "TW": ">>> 隱藏彩蛋已完成 <<<"
+    }
   },
   ">>> SHOOT!!! <<<": {
-    "translation": ">>>开火！！！<<<"
+    "translation": ">>>开火！！！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 撃て！！！ <<<",
+      "CN": "开火！",
+      "KR": "사격!!!",
+      "TW": ">>> 射擊！！！ <<<"
+    }
   },
   ">>> Something lurks in the water... <<<": {
-    "translation": ">>>水中潜伏着什么...<<<"
+    "translation": ">>>水中潜伏着什么...<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 水中に何か気配が... <<<",
+      "CN": "水中潜伏着某种东西……",
+      "KR": "물 속에 무언가 위태로운 것이...",
+      "TW": ">>> 水下似乎有什麼陰影... <<<"
+    }
   },
   ">>> Spider has been Defeated <<<": {
-    "translation": ">>>蜘蛛已被击败<<<"
+    "translation": ">>>蜘蛛已被击败<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> スパイダー撃破 <<<",
+      "CN": "蜘蛛已被击败",
+      "KR": "거미 처치 완료",
+      "TW": ">>> 蜘蛛已被擊敗 <<<"
+    }
   },
   ">>> Spider is Coming <<<": {
-    "translation": ">>>蜘蛛正在来袭<<<"
+    "translation": ">>>蜘蛛正在来袭<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> スパイダー接近 <<<",
+      "CN": "蜘蛛来袭",
+      "KR": "거미의 출현!",
+      "TW": ">>> 蜘蛛即將到來 <<<"
+    }
   },
   ">>> Stage 1 <<<": {
-    "translation": ">>>第一关<<<"
+    "translation": ">>>第一关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 1 <<<",
+      "CN": "第1关",
+      "KR": "1스테이지",
+      "TW": ">>> 第一關 <<<"
+    }
   },
   ">>> Stage 2 <<<": {
-    "translation": ">>>第二关<<<"
+    "translation": ">>>第二关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 2 <<<",
+      "CN": "第2关",
+      "KR": "2스테이지",
+      "TW": ">>> 第二關 <<<"
+    }
   },
   ">>> Stage 2 Completed <<<": {
-    "translation": ">>>第二关完成<<<"
+    "translation": ">>>第二关完成<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 2 完了 <<<",
+      "CN": "第2关完成",
+      "KR": "2스테이지 클리어!",
+      "TW": ">>> 第二關完成 <<<"
+    }
   },
   ">>> Stage 3 <<<": {
-    "translation": ">>>第三关<<<"
+    "translation": ">>>第三关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 3 <<<",
+      "CN": "第3关",
+      "KR": "3스테이지",
+      "TW": ">>> 第三關 <<<"
+    }
   },
   ">>> Stage 3 Completed <<<": {
-    "translation": ">>>第三关完成<<<"
+    "translation": ">>>第三关完成<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 第3ステージクリア <<<",
+      "CN": ">>> 第三阶段完成 <<<",
+      "KR": ">>> 스테이지 3 클리어 <<<",
+      "TW": ">>> 第 3 關完成 <<<"
+    }
   },
   ">>> Stage 4 <<<": {
-    "translation": ">>>第四关<<<"
+    "translation": ">>>第四关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 第4ステージ <<<",
+      "CN": ">>> 第四阶段 <<<",
+      "KR": ">>> 스테이지 4 <<<",
+      "TW": ">>> 第 4 關 <<<"
+    }
   },
   ">>> Stage 4 Completed <<<": {
-    "translation": ">>>第四关完成<<<"
+    "translation": ">>>第四关完成<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 第4ステージクリア <<<",
+      "CN": ">>> 第四阶段完成 <<<",
+      "KR": ">>> 스테이지 4 클리어 <<<",
+      "TW": ">>> 第 4 關完成 <<<"
+    }
   },
   ">>> Stage 5 <<<": {
-    "translation": ">>>第五关<<<"
+    "translation": ">>>第五关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 第5ステージ <<<",
+      "CN": ">>> 第五阶段 <<<",
+      "KR": ">>> 스테이지 5 <<<",
+      "TW": ">>> 第 5 關 <<<"
+    }
   },
   ">>> Stage 5 Completed <<<": {
-    "translation": ">>>第五关完成<<<"
+    "translation": ">>>第五关完成<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 第5ステージクリア <<<",
+      "CN": ">>> 第五阶段完成 <<<",
+      "KR": ">>> 스테이지 5 클리어 <<<",
+      "TW": ">>> 第 5 關完成 <<<"
+    }
   },
   ">>> Stage1 Completed <<<": {
-    "translation": ">>>第一关完成<<<"
+    "translation": ">>>第一关完成<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 第1ステージクリア <<<",
+      "CN": ">>> 第一阶段完成 <<<",
+      "KR": ">>> 스테이지 1 클리어 <<<",
+      "TW": ">>> 第 1 關完成 <<<"
+    }
   },
   ">>> TRUE ENDING ENABLED <<<": {
-    "translation": ">>>真结局已启用<<<"
+    "translation": ">>>真结局已启用<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> TRUE ENDING 発動 <<<",
+      "CN": ">>> 开启真结局 <<<",
+      "KR": ">>> 트루 엔딩 활성화 <<<",
+      "TW": ">>> 解鎖真正結局 <<<"
+    }
   },
   ">>> The water tremors... <<<": {
-    "translation": ">>>水面颤动...<<<"
+    "translation": ">>>水面颤动...<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 水面の震え... <<<",
+      "CN": ">>> 水体颤动…… <<<",
+      "KR": ">>> 물결이 떨린다... <<<",
+      "TW": ">>> 水面震動... <<<"
+    }
   },
   ">>> Troll has been Defeated <<<": {
-    "translation": ">>>巨魔已被击败<<<"
+    "translation": ">>>巨魔已被击败<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "トロールを撃破しました",
+      "CN": "巨魔已被击败",
+      "KR": "<<< 트롤이 패배했습니다 <<<",
+      "TW": ">>>巨魔已被擊敗<<<"
+    }
   },
   ">>> Troll is Coming <<<": {
-    "translation": ">>>巨魔正在来袭<<<"
+    "translation": ">>>巨魔正在来袭<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "トロールが接近中",
+      "CN": "巨魔即将到来",
+      "KR": "<<< 트롤이 approaching합니다 <<<",
+      "TW": ">>>巨魔即將到來<<<"
+    }
   },
   ">>> Updates by HOBGOBLIN and djinnz <<<": {
-    "translation": ">>>更新：HOBGOBLIN和djinnz<<<"
+    "translation": ">>>更新：HOBGOBLIN和djinnz<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "アップデート: HOBGOBLIN と djinnz 担当",
+      "CN": "由 HOBGOBLIN 和 djinnz 更新",
+      "KR": "<<< HOBGOBLIN과 djinnz의 업데이트 <<<",
+      "TW": ">>>由HOBGOBLIN與djinnz製作更新<<<"
+    }
   },
   ">>> You feel an ominous presence  <<<": {
-    "translation": ">>>你感受到一种不祥的存在<<<"
-  },
-  ">>> ZM TP IN 15 SECONDS <<<": {
-    "translation": ">>>僵尸传送将在15秒内进行<<<"
+    "translation": ">>>你感受到一种不祥的存在<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "不気味な気配を感じます",
+      "CN": "你感到一股不祥的气息",
+      "KR": "<<< 불길한 존재를 느낍니다 <<<",
+      "TW": ">>>你感覺到不祥的氣息<<<"
+    }
   },
   ">>> Zombie Teleport in 10 Seconds <<<": {
-    "translation": ">>>僵尸将在10秒内传送<<<"
+    "translation": ">>>僵尸将在10秒内传送<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビのテレポートまで10秒",
+      "CN": "丧尸将在10秒后传送",
+      "KR": "<<< 좀비가 10초 후에 텔레포트합니다 <<<",
+      "TW": ">>>殭屍將在10秒後傳送<<<"
+    }
   },
   ">>> Zombies Teleport in 10 Seconds <<<": {
-    "translation": ">>>僵尸将在10秒内传送<<<"
+    "translation": ">>>僵尸将在10秒内传送<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビのテレポートまで10秒",
+      "CN": "丧尸群将在10秒后传送",
+      "KR": "<<< 좀비들이 10초 후에 텔레포트합니다 <<<",
+      "TW": ">>>殭屍群將在10秒後傳送<<<"
+    }
   },
   ">>> ze_Tyranny2 <<<": {
-    "translation": ">>>ze_Tyranny2 暴君2<<<"
+    "translation": ">>>ze_Tyranny2 暴君2<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze_Tyranny2",
+      "CN": "ze_Tyranny2",
+      "KR": "<<< ze_Tyranny2 <<<",
+      "TW": ">>>ze_Tyranny2<<<"
+    }
   },
   ">>>[Admin] Ammo Unlocked <<<": {
-    "translation": ">>>[管理员]弹药已解锁<<<"
+    "translation": ">>>[管理员]弹药已解锁<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "[管理者] 弾薬の解放",
+      "CN": "[管理员] 弹药已解锁",
+      "KR": "<<<[관리자] 탄약 잠금 해제 <<<",
+      "TW": ">>>[管理員]弹药已解锁<<<"
+    }
   },
   ">>>[Admin] Ballista Unlocked <<<": {
-    "translation": ">>>[管理员]弩炮已解锁<<<"
+    "translation": ">>>[管理员]弩炮已解锁<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>[管理者]ボールスタ弩が解放されました<<<",
+      "CN": ">>>[管理员]连弩已解锁<<<",
+      "KR": "[관리자] 발리스타 해제됨 <<<",
+      "TW": ">>>[管理員] 連弩已解鎖 <<<"
+    }
   },
   ">>>[Admin] Bible Unlocked <<<": {
-    "translation": ">>>[管理员]圣经已解锁<<<"
+    "translation": ">>>[管理员]圣经已解锁<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>[管理者]聖典が解放されました<<<",
+      "CN": ">>>[管理员]圣经已解锁<<<",
+      "KR": "[관리자] 성경 해제됨 <<<",
+      "TW": ">>>[管理員] 聖典已解鎖 <<<"
+    }
   },
   ">>>[Admin] Sacred Staff Unlocked <<<": {
-    "translation": ">>>[管理员]恐惧权杖已解锁<<<"
+    "translation": ">>>[管理员]恐惧权杖已解锁<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>[管理者]聖杖が解放されました<<<",
+      "CN": ">>>[管理员]神圣法杖已解锁<<<",
+      "KR": "[관리자] 거룩한 지팡이 해제됨 <<<",
+      "TW": ">>>[管理員] 神聖法杖已解鎖 <<<"
+    }
   },
   ">>>[Admin] Shade Staff Unlocked <<<": {
-    "translation": ">>>[管理员]阴影权杖已解锁<<<"
+    "translation": ">>>[管理员]阴影权杖已解锁<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>[管理者]影法師の杖が解放されました<<<",
+      "CN": ">>>[管理员]暗影法杖已解锁<<<",
+      "KR": "[관리자] 섀도우 스태프 해제됨 <<<",
+      "TW": ">>>[管理員] 幽暗法杖已解鎖 <<<"
+    }
   },
   ">>>[Admin] Stage 1 Activated <<<": {
-    "translation": ">>>[管理员]已选择第一关<<<"
+    "translation": ">>>[管理员]已选择第一关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>[管理者]ステージ1が開始されました<<<",
+      "CN": ">>>[管理员]阶段1激活<<<",
+      "KR": "[관리자] 스테이지 1 활성화됨 <<<",
+      "TW": ">>>[管理員] 階段一已啟動 <<<"
+    }
   },
   ">>>[Admin] Stage 2 Activated <<<": {
-    "translation": ">>>[管理员]已选择第二关<<<"
+    "translation": ">>>[管理员]已选择第二关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>[管理者]ステージ2が開始されました<<<",
+      "CN": ">>>[管理员]阶段2激活<<<",
+      "KR": "[관리자] 스테이지 2 활성화됨 <<<",
+      "TW": ">>>[管理員] 階段二已啟動 <<<"
+    }
   },
   ">>>[Admin] Stage 3 Activated <<<": {
-    "translation": ">>>[管理员]已选择第三关<<<"
+    "translation": ">>>[管理员]已选择第三关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>[管理者]ステージ3が開始されました<<<",
+      "CN": ">>>[管理员]阶段3激活<<<",
+      "KR": "[관리자] 스테이지 3 활성화됨 <<<",
+      "TW": ">>>[管理員] 階段三已啟動 <<<"
+    }
   },
   ">>>[Admin] Stage 4 Activated <<<": {
-    "translation": ">>>[管理员]已选择第四关<<<"
+    "translation": ">>>[管理员]已选择第四关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>[管理者]ステージ4が開始されました<<<",
+      "CN": ">>>[管理员]阶段4激活<<<",
+      "KR": "[관리자] 스테이지 4 활성화됨 <<<",
+      "TW": ">>>[管理員] 階段四已啟動 <<<"
+    }
   },
   ">>>[Admin] Stage 5 Activated <<<": {
-    "translation": ">>>[管理员]已选择第五关<<<"
-  },
-  ">>> 第五关跳刀已增加30秒限时 (by bxzl) loaded <<<": {
-    "translation": ">>> 第五关跳刀已增加30秒限时 (by bxzl) loaded <<<",
-    "DoorCountDown": -1
-  },
-  ">>> defeat boss within 30 seconds <<<": {
-    "translation": ">>>30秒内击败BOSS<<<"
-  },
-  ">>> defeat boss within 20 seconds <<<": {
-    "translation": ">>>20秒内击败BOSS"
-  },
-  ">>> defeat boss within 10 seconds <<<": {
-    "translation": ">>>10秒内击败BOSS<<<"
+    "translation": ">>>[管理员]已选择第五关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> [管理者] ステージ5 起動 <<<",
+      "CN": ">>>[管理员] 第5阶段已激活 <<<",
+      "KR": ">>> [Admin] 스테이지 5 활성화 <<<",
+      "TW": ">>>[管理員] 階段 5 已啟用 <<<"
+    }
   },
   ">>> CS2 Ported Thanks: 礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀 <<<": {
-    "translation": ""
+    "translation": ">>>CS2移植感谢:礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀<<<",
+    "MultiLang": {
+      "US": "CS2 Ported Thanks: Reikira, Enc0d2r, XiaoXiaoXiaoWain, Qiuyan Buhui Taodao",
+      "JP": ">>> CS2 ポートご支援: 礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
+      "CN": ">>>CS2移植感谢:礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀<<<",
+      "KR": ">>> CS2 포팅 감사: 리키루오, Enc0d2r, 샤오샤오샤오나위엔, 쿄우겐후이티아오다오 <<<",
+      "TW": ">>> CS2 移植感謝名單：禮綺羅Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不會跳刀 <<<"
+    }
+  },
+  ">>> ZM Item <Abyss> has been disable use <<<": {
+    "translation": "ZM虚空术已禁用",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ZMアイテム <Abyss> が無効化されました <<<",
+      "CN": ">>> ZM物品 <深渊> 已禁用 <<<",
+      "KR": ">>> ZM 아이템 <Abyss> 사용이 비활성화되었습니다 <<<",
+      "TW": ">>> ZM 物品 <Abyss> 已停用 <<<"
+    }
+  },
+  ">>> ZM Item <Abyss> has been enable use <<<": {
+    "translation": "ZM虚空术已启用",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ZMアイテム <Abyss> が有効化されました <<<",
+      "CN": ">>> ZM物品 <深渊> 已启用 <<<",
+      "KR": ">>> ZM 아이템 <Abyss> 사용이 활성화되었습니다 <<<",
+      "TW": ">>> ZM 物品 <Abyss> 已啟用 <<<"
+    }
+  },
+  "defeat boss within 40 seconds": {
+    "translation": "40秒内击败BOSS",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒以内でボス撃破",
+      "CN": "在40秒内击败Boss",
+      "KR": "보스를 40초 내에 처치하세요",
+      "TW": "在 40 秒內擊敗 boss"
+    }
+  },
+  "defeat boss within 30 seconds": {
+    "translation": "30秒内击败BOSS",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒以内でボス撃破",
+      "CN": "在30秒内击败Boss",
+      "KR": "보스를 30초 내에 처치하세요",
+      "TW": "在 30 秒內擊敗 boss"
+    }
+  },
+  "defeat boss within 20 seconds": {
+    "translation": "20秒内击败BOSS",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒以内でボス撃破",
+      "CN": "在20秒内击败Boss",
+      "KR": "보스를 20초 내에 처치하세요",
+      "TW": "在 20 秒內擊敗 boss"
+    }
+  },
+  "defeat boss within 10 seconds": {
+    "translation": "10秒内击败BOSS",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒以内でボス撃破",
+      "CN": "在10秒内击败Boss",
+      "KR": "보스를 10초 내에 처치하세요",
+      "TW": "在 10 秒內擊敗 boss"
+    }
+  },
+  "第5关跳刀已增加四十秒限时 (by bxzl)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The limit for Level 5 bounce has been increased by 40 seconds (by bxzl)",
+      "JP": "第5关ジャンプナイフの制限時間が40秒に延長されました（bxzlより）",
+      "CN": "",
+      "KR": "5번 미션 점프칼 시간 제한 40초 추가 (bxzl 작)",
+      "TW": "第5關跳刀已增加四十秒限時 (by bxzl)"
+    }
   }
 }

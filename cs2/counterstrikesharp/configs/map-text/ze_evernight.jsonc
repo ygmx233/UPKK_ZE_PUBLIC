@@ -1,0 +1,2012 @@
+{
+  "> Act I:Initial Contact | Difficulty:Normal <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 第一章：最初の接触 | 難易度:普通 <",
+      "CN": "> 第一章：初次接触 | 难度：普通 <",
+      "KR": "> 1장: 첫 접촉 | 난이도: 보통 <",
+      "TW": "> 第一章：初次接觸 | 難度：普通 <"
+    }
+  },
+  "**After three day of tracking Basil**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**バスルを追跡して3日後**",
+      "CN": "**追踪巴塞尔三天后**",
+      "KR": "**바실을 3일 동안 추적한 후**",
+      "TW": "**追蹤巴西爾三天後**"
+    }
+  },
+  "**we arrived at the Frostwind Valley**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**私たちはフロストウィンド谷に到着した**",
+      "CN": "**我们到达了霜风谷**",
+      "KR": "**우리는 서풍 계곡에 도착했다**",
+      "TW": "**我們抵達了寒風谷**"
+    }
+  },
+  "**According to the existing information**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**既存の情報によれば**",
+      "CN": "**根据现有情报**",
+      "KR": "**기존 정보에 따르면**",
+      "TW": "**根據現有資訊**"
+    }
+  },
+  "> Location:Frostwind Valley <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 場所:フロストウィンド谷 <",
+      "CN": "> 地点：霜风谷 <",
+      "KR": "> 위치: 서풍 계곡 <",
+      "TW": "> 地點：寒風谷 <"
+    }
+  },
+  "**and the Glimmer Fragment is likely to be kept in there**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**そしてグリッターフラグメントはおそらくそこに保管されている**",
+      "CN": "**闪烁碎片很可能就藏在那里**",
+      "KR": "**글리머 파편이 아마도 저기에 보관되어 있을 것이다**",
+      "TW": "**且閃光碎片很可能就藏在那裡**"
+    }
+  },
+  "**There is not much time for us**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**私たちには時間はあまりない**",
+      "CN": "**我们时间不多了**",
+      "KR": "**우리에게 시간은 많지 않다**",
+      "TW": "**我們的時間不多了**"
+    }
+  },
+  "**A player learn the Flameshot (Fire Magick Lv.1)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがフレイムショット（火魔法 Lv.1）を習得**",
+      "CN": "**一名玩家学会了火焰射击（火焰魔法 Lv.1）**",
+      "KR": "**플레이어가 화염탄 (불 마법 Lv.1)을 습득함**",
+      "TW": "**一名玩家學會了火焰投射（火焰魔法 Lv.1）**"
+    }
+  },
+  "**let's get the Glimmer Fragment before Basil does**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バジルより先にグリッターフラグメントを入手しよう",
+      "CN": "在巴斯利完成之前获取暮光碎片",
+      "KR": "바질보다 먼저 글리머 프래그먼트를 확보하자",
+      "TW": "在巴澤之前拿到輝光碎片"
+    }
+  },
+  "**Operation Evernight,mission start**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "作戦『エヴァーナイト』、ミッション開始",
+      "CN": "永恒黑夜行动，任务开始",
+      "KR": "작전 에버나이트, 임무 시작",
+      "TW": "永夜行動，任務開始"
+    }
+  },
+  "**Hold 25 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒保持",
+      "CN": "坚持25秒",
+      "KR": "25초간 유지",
+      "TW": "堅持 25 秒"
+    }
+  },
+  "**A player learn the Frostbite (Ice Magick Lv.1)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがフローズンバイト（氷魔法 Lv.1）を習得",
+      "CN": "一名玩家习得了霜冻（冰系魔法 Lv.1）",
+      "KR": "플레이어가 프리즈빗(얼음 마법 Lv.1)을 습득",
+      "TW": "一名玩家學會了霜凍（冰魔法 Lv.1）"
+    }
+  },
+  "**The evil one of blood and fire was born... **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "血と火の悪しき者が誕生した…",
+      "CN": "血与火的邪恶者诞生了……",
+      "KR": "혈투와 화염의 사악한 자 탄생...",
+      "TW": "血腥與火焰的邪惡存在誕生了……"
+    }
+  },
+  "**The exit of the suqare is closed**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "スクエアの出口が閉じた",
+      "CN": "广场出口已关闭",
+      "KR": "광장의 출구가 폐쇄됨",
+      "TW": "出口已被封閉"
+    }
+  },
+  "**try to find a way to open the gate**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "門を開く方法を見つけよう",
+      "CN": "尝试找到打开大门的方法",
+      "KR": "문을 여는 방법을 찾아보자",
+      "TW": "嘗試找到開啟門的方法"
+    }
+  },
+  "**A player learn the Thunderblast (Thunder Magick Lv.1)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがサンダーブラスト（雷魔法 Lv.1）を習得",
+      "CN": "一名玩家习得了雷霆爆破（雷系魔法 Lv.1）",
+      "KR": "플레이어가 서드블라스트(번개 마법 Lv.1)을 습득",
+      "TW": "一名玩家學會了雷電爆裂（雷魔法 Lv.1）"
+    }
+  },
+  "**A player learn the Thunderblast (Thunder Magick Lv.2)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『サンダースト』（雷魔法 Lv.2）を習得",
+      "CN": "一名玩家习得了雷鸣炮击（雷之魔法 Lv.2）",
+      "KR": "한 플레이어가 썬더블라스트 (썬더 마법 Lv.2)를 습득했습니다",
+      "TW": "一名玩家學會了雷爆術（雷闇魔法 Lv.2）"
+    }
+  },
+  "**A player learn the Baptism (Light Magick Lv.1)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『バプティズム』（光魔法 Lv.1）を習得",
+      "CN": "一名玩家习得了圣洗仪式（光之魔法 Lv.1）",
+      "KR": "한 플레이어가 배티즘 (라이트 마법 Lv.1)를 습득했습니다",
+      "TW": "一名玩家學會了聖禮（光闇魔法 Lv.1）"
+    }
+  },
+  "**A player learn the Shadowbound (Shadow Magick Lv.1)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『シャドウバウンド』（闇魔法 Lv.1）を習得",
+      "CN": "一名玩家习得了影缚（暗之魔法 Lv.1）",
+      "KR": "한 플레이어가 쏘도우바운드 (쉐도 마법 Lv.1)를 습득했습니다",
+      "TW": "一名玩家學會了暗影束縛（影闇魔法 Lv.1）"
+    }
+  },
+  "**The crystal has been smashed**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "クリスタルが粉々になった",
+      "CN": "水晶已被击碎",
+      "KR": "크리스탈이 파괴되었습니다",
+      "TW": "水晶已被擊碎"
+    }
+  },
+  "**Hold for 23 seconds till the gate open**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "23秒間ホールドし続けることでゲートが開く",
+      "CN": "按住23秒直到闸门打开",
+      "KR": "23초 동안 유지하면 문의가 열립니다",
+      "TW": "維持23秒直到大門開啟"
+    }
+  },
+  "**Now get down to the ropeway platform**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロープウェイ乗り場へ向かえ",
+      "CN": "现在前往缆车平台",
+      "KR": "이제 로프웨이 플랫폼으로 내려갑니다",
+      "TW": "現在前往纜車平台"
+    }
+  },
+  "**A player learn the Flameshot (Fire Magick Lv.2)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『フレイムショット』（火魔法 Lv.2）を習得",
+      "CN": "一名玩家习得了火焰冲击（火之魔法 Lv.2）",
+      "KR": "한 플레이어가 플레임샷 (파이어 마법 Lv.2)를 습득했습니다",
+      "TW": "一名玩家學會了火球術（火闇魔法 Lv.2）"
+    }
+  },
+  "**A player learn the Shadowbound (Shadow Magick Lv.2)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『シャドウバウンド』（闇魔法 Lv.2）を習得",
+      "CN": "一名玩家习得了影缚（暗之魔法 Lv.2）",
+      "KR": "한 플레이어가 쏘도우바운드 (쉐도 마법 Lv.2)를 습득했습니다",
+      "TW": "一名玩家學會了暗影束縛（影闇魔法 Lv.2）"
+    }
+  },
+  "**A player learn the Storm Surge (Wind Magick Lv.3)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがストームサージ（風魔術 Lv.3）を習得した",
+      "CN": "**一名玩家习得了风暴涌动（风魔法 Lv.3）**",
+      "KR": "\"Player\"가 바람 마법 Lv.3 '폭풍의 물결'을 습득했습니다",
+      "TW": "玩家學到了風暴湧浪（風魔法 Lv.3）"
+    }
+  },
+  "**Hang up your slide hook**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "スライドフックを上げる",
+      "CN": "**挂好你的滑行钩索**",
+      "KR": "슬라이드 후크를 걸으시오",
+      "TW": "收起你的滑索鉤"
+    }
+  },
+  "**We'll set out when everyone is ready**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "全員が準備でき次第、出発する",
+      "CN": "**当所有人都准备好时，我们便出发**",
+      "KR": "모든 준비가 완료되면 출발합니다",
+      "TW": "等所有人準備好後，我們就出發"
+    }
+  },
+  "**Wait for 28 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "28秒待機",
+      "CN": "**等待 28 秒**",
+      "KR": "28초 동안 대기 중",
+      "TW": "等待 28 秒"
+    }
+  },
+  "**The way to the temple is blocked**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "神殿への道が封鎖されている",
+      "CN": "**通往神殿的道路被封锁了**",
+      "KR": "사원까지 가는 길이 막혔습니다",
+      "TW": "前往神殿的路徑受阻"
+    }
+  },
+  "**Get ready for your C4 bomb**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4爆弾の準備をしろ",
+      "CN": "**准备好你的 C4 炸药**",
+      "KR": "C4 폭탄 장착 준비를 하시오",
+      "TW": "準備好你的 C4 炸藥"
+    }
+  },
+  "**A seal of thousands of years under the glacier has been broken through...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "氷河 beneath にある何千年もの封印が解かれた……",
+      "CN": "**冰川下的千年封印已被打破……**",
+      "KR": "수천 년 동안 빙하 아래에 있던 봉인이 깨졌습니다...",
+      "TW": "冰蓋下封存千年的封印已被破解……"
+    }
+  },
+  "**C4 has been planted, waiting for 25 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "C4を仕掛け、25秒待機",
+      "CN": "**C4 已放置，倒计时 25 秒**",
+      "KR": "C4가 설치되었으며 25초 대기 중",
+      "TW": "已部署 C4，倒計時 25 秒"
+    }
+  },
+  "**A player learn the Frostbite (Ice Magick Lv.2)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはフロストバイト（氷魔法 Lv.2）を習得",
+      "CN": "玩家学会了霜冻术（冰系魔法 Lv.2）",
+      "KR": "**플레이어가 서리 발증(얼음 마법 Lv.2)을 익혔습니다**",
+      "TW": "玩家學會了冰霜（冰魔法 Lv.2）"
+    }
+  },
+  "**Get back!C4 is about to explode!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "下がれ！C4が爆発するぞ！",
+      "CN": "快退后！C4炸药即将爆炸！",
+      "KR": "**뒤로 물러서! C4가 폭발할 예정입니다!**",
+      "TW": "快回去！C4 就要爆炸了！"
+    }
+  },
+  "**Cover here for 30 seconds till we open the gate**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが開くまでここを30秒守れ",
+      "CN": "在这里掩护我们30秒，直到我们打开闸门",
+      "KR": "**정문까지 30초 동안 여기서 피격해 주세요**",
+      "TW": "在這裡掩護 30 秒，直到我們打開學園大門"
+    }
+  },
+  "**That's the Evernight Temple**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "そこはエヴァーナイト寺院だ",
+      "CN": "那就是永夜寺",
+      "KR": "**그곳이 영야 사원입니다**",
+      "TW": "那就是永夜寺廟"
+    }
+  },
+  "**Let's get into it**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "行こう",
+      "CN": "我们动手吧",
+      "KR": "**시작합시다**",
+      "TW": "我們動手吧"
+    }
+  },
+  "'Seems some bugs follow me.'": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうやら僕を追跡するバグがいるようだ。",
+      "CN": "看来有些虫子在跟踪我。",
+      "KR": "어느 벌레들이 나를 따르는군.",
+      "TW": "似乎有些蟲子跟著我。」"
+    }
+  },
+  "**That it Basil!Wait...with Gradyrat?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "そっか、ベーシルだ！待てよ…グレイラットと一緒に？",
+      "CN": "就是那只巴兹！等等……还有格雷达特？",
+      "KR": "**바실! 잠깐… 그래이저럿과 함께?**",
+      "TW": "原來是巴茲！等等……有格雷迪老鼠？」"
+    }
+  },
+  "**Sh*t!we have been found!shot it!shot it!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "やばい！見つかったぞ！撃て！撃て！",
+      "CN": "该死！我们被发现了！开火！开火！",
+      "KR": "** crap! 우리가 발각됐어! 쏴라! 쏴라!**",
+      "TW": "該死！我們被發現了！射它！射它！」"
+    }
+  },
+  "**It's an image of Basil...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バジルの肖像だ…",
+      "CN": "这是巴兹尔的图片……",
+      "KR": "바질상의 초상화입니다...",
+      "TW": "聖羅勒的畫像……"
+    }
+  },
+  "**We have to hurry up,let's move**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "急がないと、さあ行こう",
+      "CN": "我们得赶紧行动，走吧。",
+      "KR": "빨리 이동해야 해, 빨리 움직이자",
+      "TW": "我們得趕快，快走吧。"
+    }
+  },
+  "**A player learn the Air Lash (Wind Magick Lv.2)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『エアラッシュ』（風魔法 Lv.2）を習得した",
+      "CN": "玩家学会了风之鞭击（风魔法 Lv.2）",
+      "KR": "플레이어가 에어 래시(바람 마그닉 Lv.2)을 습득했습니다",
+      "TW": "一名玩家學會了風之鞭撻（風魔法 Lv.2）"
+    }
+  },
+  "**A player learn the Mega Pressure (Shadow Magick Lv.3)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『メガプレッシャー』（闇魔法 Lv.3）を習得した",
+      "CN": "玩家学会了超大压力（暗影魔法 Lv.3）",
+      "KR": "플레이어가 메가 프레 sure(그림자 마그닉 Lv.3)을 습득했습니다",
+      "TW": "一名玩家學會了巨壓（暗影魔法 Lv.3）"
+    }
+  },
+  "**A player learn the Dragon's Breath (Fire Magick Lv.3)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『ドラゴンブレス』（火魔法 Lv.3）を習得した",
+      "CN": "玩家学会了龙息（火魔法 Lv.3）",
+      "KR": "플레이어가 드래곤스 브레스(파이어 마그닉 Lv.3)을 습득했습니다",
+      "TW": "一名玩家學會了龍息（火焰魔法 Lv.3）"
+    }
+  },
+  "**A player learn the Frost Burst (Ice Magick Lv.3)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが『フロストバースト』（氷魔法 Lv.3）を習得した",
+      "CN": "玩家学会了霜爆（冰魔法 Lv.3）",
+      "KR": "플레이어가 프로스트 버스트(아이스 마그닉 Lv.3)을 습득했습니다",
+      "TW": "一名玩家學會了霜爆（冰霜魔法 Lv.3）"
+    }
+  },
+  ">>The gate will close after 30 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>門は30秒後に閉じます<<",
+      "CN": ">>闸门将在30秒后关闭<<",
+      "KR": ">>30초 후 게이트가 닫힙니다<<",
+      "TW": ">>30秒後大門將關閉<<"
+    }
+  },
+  "**Act I complete**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "アクト1 完了",
+      "CN": "第一幕完成",
+      "KR": "Act I 완료",
+      "TW": "第一章完成"
+    }
+  },
+  "> Act II:Misty Mystery | Difficulty:Hard <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 章2：霧のミステリー ｜ 難易度：ハード <",
+      "CN": "> 第二章：迷雾谜案 | 难度：困难 <",
+      "KR": "> 챕터 II: 안개의 미스터리 | 난이도:Hard <",
+      "TW": "> 第二章：霧中謎影 | 難度：困難 <"
+    }
+  },
+  "**Now we're in the Evernight Temple**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**さて、私たちはエバーナイト寺院に入った**",
+      "CN": "**现在我们身处永夜寺**",
+      "KR": "**지금 우리는 영밤 사원 안에 있습니다**",
+      "TW": "**我們現在位於永夜神殿**"
+    }
+  },
+  "**The instrument shows that the fragment is over our heads**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**測定器によると、fragmentは私たちの上空にあるようです**",
+      "CN": "**仪器显示碎片就在我们头顶上方**",
+      "KR": "**계측기에 따르면 조각들은 우리 머리 위에 있습니다**",
+      "TW": "**儀器顯示，碎片就在我們頭頂上方**"
+    }
+  },
+  "> Location:Evernight Temple <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 場所：エバーナイト寺院 <",
+      "CN": "> 地点：永夜寺 <",
+      "KR": "> 위치:영밤 사원 <",
+      "TW": "> 地點：永夜神殿 <"
+    }
+  },
+  "**We have to use the main lift to go up,but it seems that the main lift is without power**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**メインの.liftを使わないと上に行けませんが、動力がないようです**",
+      "CN": "**我们必须使用主电梯上行，但它似乎没电了**",
+      "KR": "**주 엘리베이터를 이용해서 올라가야 하지만, 전원 공급이 끊겨 있는 것 같습니다**",
+      "TW": "**我們必須使用主升降梯上行，但看來主升降梯似乎斷電了**"
+    }
+  },
+  "**Let's go to the inner part of the temple to find two main power cores and make them work**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**寺院の奥にある2つのメインパワーコアを探して起動しましょう**",
+      "CN": "**去寺庙内部寻找两个主能量核心，让它们运转起来**",
+      "KR": "**사원 내부로 이동하여 메인 파워 코어 두 개를 찾아 전원을 복구해 봅시다**",
+      "TW": "**讓我們前往神殿內部尋找兩個主電源核心，並啟動它們**"
+    }
+  },
+  "**First go to right**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**まずは右へ向かいます**",
+      "CN": "**先往右边走**",
+      "KR": "**먼저 오른쪽으로 가세요**",
+      "TW": "**先向右前進**"
+    }
+  },
+  "**In order to prevent invaders**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**侵略者を防ぐために**",
+      "CN": "**为了防止入侵者**",
+      "KR": "**침입자들을 막기 위해**",
+      "TW": "**為了防止入侵者**"
+    }
+  },
+  "**there're many seal doors**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "封印された扉が多数存在する",
+      "CN": "这里有许多封印之门",
+      "KR": "잠금된 문이 여러 개 있습니다",
+      "TW": "有許多封印門"
+    }
+  },
+  ">>The door will open in 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>15秒後に扉が開く<<",
+      "CN": ">>门将在15秒后打开<<",
+      "KR": ">>문이 15초 뒤에 열립니다<<",
+      "TW": ">>15秒後門將開啟<<"
+    }
+  },
+  "**The banshee landed on the ground with howling and wailing...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バシリーが唸りながら叫び声を上げ、地面に降下した…",
+      "CN": "女妖发出凄厉的嚎叫，重重地摔在地上……",
+      "KR": "분수가 울부짖으며 땅에 착지했습니다...",
+      "TW": "**女妖尖嘯著落在地上...**"
+    }
+  },
+  "**Cover here till we open the gate**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが開くまでここで掩護せよ",
+      "CN": "在此掩护，直到我们打开大门",
+      "KR": "문을 열 때까지 여기서掩护하세요",
+      "TW": "**在這兒防守，直到我們開啟門**"
+    }
+  },
+  ">>10 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>あと10秒<<",
+      "CN": ">>10秒<<",
+      "KR": ">>10초<<",
+      "TW": ">>10秒<<"
+    }
+  },
+  "**Nicely done, the Core External Gate will open in 30 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "好任務完了、コア外部ゲートは30秒後に開く",
+      "CN": "干得漂亮，外置核心大门将在30秒后开启",
+      "KR": "잘했습니다. 외부 코어 게이트가 30초 뒤에 열립니다",
+      "TW": "**做得好，外部核心門將在30秒後開啟**"
+    }
+  },
+  "**Hold the position till the gate open**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが開くまで陣地を維持せよ",
+      "CN": "坚守阵地，直到大门打开",
+      "KR": "문이 열릴 때까지 위치를 유지하세요",
+      "TW": "**守住陣地，直到門開啟**"
+    }
+  },
+  "**There're two invisible walls**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "不可視の壁が2つ存在する",
+      "CN": "这里有两堵隐形墙",
+      "KR": "두 개의 보이지 않는 벽이 있습니다",
+      "TW": "有兩面隱形牆"
+    }
+  },
+  "**try to find a way to break through**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "突破する方法を見つけよう",
+      "CN": "尝试找到突破的方法",
+      "KR": "**탈출구를 찾으려고 시도**",
+      "TW": "**試著找到突破的方法**"
+    }
+  },
+  "**A player learn the Brilliant Circle (Light Magick Lv.4)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがブラリアンス（光魔法 Lv.4）を習得した",
+      "CN": "{0}习得了闪耀剑式（光魔法 Lv.4）",
+      "KR": "**플레이어가 Brilliant Circle(라이트 마그닉 Lv.4)을 습득**",
+      "TW": "**一名玩家學成了輝光圓舞（光魔法 Lv.4）**"
+    }
+  },
+  ">>The Downstairs Doors will open in 10 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>地下階の扉が10秒後に開きます<<",
+      "CN": ">>10秒后下楼大门将开启<<",
+      "KR": "<<10초 후에 아래쪽 문이 개방됩니다.>>",
+      "TW": ">>一樓的門將在10秒後開啟<<"
+    }
+  },
+  "**A player learn the Polar Storm (Ice Magick Lv.5)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがポールストーム（氷魔法 Lv.5）を習得した",
+      "CN": "{0}习得了极地风暴（冰魔法 Lv.5）",
+      "KR": "**플레이어가 Polar Storm(아이스 마그닉 Lv.5)을 습득**",
+      "TW": "**一名玩家學成了極地風暴（冰魔法 Lv.5）**"
+    }
+  },
+  "**A player learn the Atmosphere Turbulence (Wind Magick Lv.5)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがアトモスフィアタービュランス（風魔法 Lv.5）を習得した",
+      "CN": "{0}习得了大气乱流（风魔法 Lv.5）",
+      "KR": "**플레이어가 Atmosphere Turbulence(윈드 마그닉 Lv.5)을 습득**",
+      "TW": "**一名玩家學成了大氣亂流（風魔法 Lv.5）**"
+    }
+  },
+  "**A player learn the Arcbreak (Thunder Magick Lv.3)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがアークブレイク（雷魔法 Lv.3）を習得した",
+      "CN": "{0}习得了弧光裂斩（雷魔法 Lv.3）",
+      "KR": "**플레이어가 Arcbreak(썬더 마그닉 Lv.3)을 습득**",
+      "TW": "**一名玩家學成了弧光斬擊（雷魔法 Lv.3）**"
+    }
+  },
+  "**A player learn the Air Lash (Wind Magick Lv.1)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがエアラッシュ（風魔法 Lv.1）を習得した",
+      "CN": "{0}习得了风之鞭（风魔法 Lv.1）",
+      "KR": "**플레이어가 Air Lash(윈드 마그닉 Lv.1)을 습득**",
+      "TW": "**一名玩家學成了空之鞭撻（風魔法 Lv.1）**"
+    }
+  },
+  "**A player learn the Mega Pressure (Shadow Magick Lv.4)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがメガプレッシャー（影魔法 Lv.4）を習得した",
+      "CN": "{0}习得了巨型压力（暗魔法 Lv.4）",
+      "KR": "**플레이어가 Mega Pressure(쉐도우 마그닉 Lv.4)을 습득**",
+      "TW": "**一名玩家學成了巨壓衝擊（闇魔法 Lv.4）**"
+    }
+  },
+  "**Unlocking the first seal...Waiting for 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "最初の封印を解除中…20秒後に完了",
+      "CN": "正在解锁第一个封印……等待20秒",
+      "KR": "첫 번째 봉인 해제 중... 20초간 대기",
+      "TW": "正在解開第一個封印……等待20秒"
+    }
+  },
+  "**A player learn the Storm Surge (Wind Magick Lv.4)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが嵐の急流（風魔術 Lv.4）を習得しました",
+      "CN": "{0}习得了风暴激流（风魔法 Lv.4）",
+      "KR": "플레이어가 폭풍 넘치기(바람 마법 Lv.4)을 습득함",
+      "TW": "一名玩家習得了暴風浪潮（風之魔法 Lv.4）"
+    }
+  },
+  "**A player learn the Frost Burst (Ice Magick Lv.4)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが氷の爆発（氷魔術 Lv.4）を習得しました",
+      "CN": "{0}习结了霜冻爆裂（冰魔法 Lv.4）",
+      "KR": "플레이어가 서리 폭발(얼음 마법 Lv.4)을 습득함",
+      "TW": "一名玩家習得了霜凍 burst（冰之魔法 Lv.4）"
+    }
+  },
+  "**A player learn the Baptism (Light Magick Lv.2)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがバプティズム（光魔術 Lv.2）を習得しました",
+      "CN": "{0}习得了洗礼（光魔法 Lv.2）",
+      "KR": "플레이어가 침례(빛 마법 Lv.2)을 습득함",
+      "TW": "一名玩家習得了洗禮（光之魔法 Lv.2）"
+    }
+  },
+  "**Unlocking the second seal...Waiting for 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "二つ目の封印を解除中…20秒後に完了",
+      "CN": "正在解锁第二个封印……等待20秒",
+      "KR": "두 번째 봉인 해제 중... 20초간 대기",
+      "TW": "正在解開第二個封印……等待20秒"
+    }
+  },
+  "**A player learn the Celestial Smash (Thunder Magick Lv.5)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが天空の連打（雷魔術 Lv.5）を習得しました",
+      "CN": "{0}习得了天界重击（雷魔法 Lv.5）",
+      "KR": "플레이어가 천상의 타격(번개 마법 Lv.5)을 습득함",
+      "TW": "一名玩家習得了天界粉碎（雷之魔法 Lv.5）"
+    }
+  },
+  "**A player learn the Divine Aegis (Light Magick Lv.5)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが神聖な盾（光魔術 Lv.5）を習得しました",
+      "CN": "{0}习得了神圣护盾（光魔法 Lv.5）",
+      "KR": "플레이어가 신성한 방패(빛 마법 Lv.5)을 습득함",
+      "TW": "一名玩家習得了神聖護盾（光之魔法 Lv.5）"
+    }
+  },
+  "**A player learn the Helltide (Fire Magick Lv.5)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが地獄の洪水（火魔術 Lv.5）を習得しました",
+      "CN": "{0}习得了地狱火海（火魔法 Lv.5）",
+      "KR": "플레이어가 지옥의 물결(불 마법 Lv.5)을 습득함",
+      "TW": "一名玩家習得了地獄風暴（火之魔法 Lv.5）"
+    }
+  },
+  "**The core must be...wait**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コアが……待って",
+      "CN": "**核心必须……等等**",
+      "KR": "**핵심은... 잠깐**",
+      "TW": "核心必須……等等"
+    }
+  },
+  "**there is something has been wakened!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "何かが覚醒した！",
+      "CN": "**有东西被唤醒了！**",
+      "KR": "**뭔가 깨어났습니다!**",
+      "TW": "有什麼甦醒了！"
+    }
+  },
+  "'I'm the watcher of the temple'": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "私は神殿の監視者よ」",
+      "CN": "'我是这座神庙的守望者'",
+      "KR": "'나는 사원의 감시자다'",
+      "TW": "我是神殿的守望者"
+    }
+  },
+  "'and the keeper of the Glimmer Fragment'": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "そして、グリッター欠片の守護者」。",
+      "CN": "'以及闪烁碎片的守护者'",
+      "KR": "**그리고 '희미한 조각'의 수호자다**",
+      "TW": "以及微光碎片的守護者"
+    }
+  },
+  "'You,the greedy thieves of humankind'": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "汝は人類を貪る強盗。",
+      "CN": "'你们，贪婪的人类窃贼'",
+      "KR": "'너는, 인류의 탐욕스런 도둑이로다'",
+      "TW": "你們，貪婪的人類竊賊"
+    }
+  },
+  "'Now face me and feel my wrath!'": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "今、私と対峙し、その怒りを味わえ！」",
+      "CN": "'现在面对我，感受我的怒火！'",
+      "KR": "**지금 나를 맞서고 나의 분노를 느껴라!**",
+      "TW": "現在與我對決，領略我的怒火吧！"
+    }
+  },
+  "**It's the watcher system of the temple!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**神殿の監視システムだ！**",
+      "CN": "**它是神庙的守望者系统！**",
+      "KR": "사원의 감시 시스템입니다!**",
+      "TW": "它是神殿的守望者系統！"
+    }
+  },
+  "**Ready for battle!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**戦闘準備完了！**",
+      "CN": "**准备好战斗了！**",
+      "KR": "**전투 준비 완료!**",
+      "TW": "準備戰鬥！"
+    }
+  },
+  "**Make it stop before it kill us all!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "早く止めて！みんな助かって！",
+      "CN": "在它杀死我们所有人之前，让它停下！",
+      "KR": "**이봐, 우리 다 죽기 전에 그거 멈춰!**",
+      "TW": "**在牠殺死我們之前，快讓它停下！**"
+    }
+  },
+  "> BOSS:'The watcher' <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ボス：『ウィッチャー』 <",
+      "CN": "> BOSS:'观察者' <",
+      "KR": "> 보스: '관측자' <",
+      "TW": "> BOSS:『窺視者』 <"
+    }
+  },
+  ">>Tips - Break any addition core to weak the Watcher??s power<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ヒント - ウィッチャーの力を弱めるために、すべての追加コアを破壊してください<<",
+      "CN": ">>提示 - 摧毁任意附加核心以削弱观察者的力量<<",
+      "KR": ">>팁 - 추가 코어 중 하나를 부수어 '관측자'의 능력을 약화하세요.<<",
+      "TW": ">>提示 - 摧毀額外核心以削弱窺視者的力量<<"
+    }
+  },
+  "**Static Shock - crouch **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**静電気ショック - しゃがむ **",
+      "CN": "**静电冲击 - 蹲下 **",
+      "KR": "**정전기 충격 - 웅크리기**",
+      "TW": "**靜電衝擊 - 蹲下 **"
+    }
+  },
+  ">>Tips - Fire Magick can cause damage to the Watcher and neutralize the effect of 'Frostnova'<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ヒント - 火の魔法はウィッチャーにダメージを与え、『フ罗斯トノバ』の効果を無効化できます<<",
+      "CN": ">>提示 - 火焰魔法可以对观察者造成伤害，并中和'霜新星'的效果<<",
+      "KR": ">>팁 - 불 마법으로 '관측자'에게 피해 입히기 및 ' frostnova ' 효과 무력화<<",
+      "TW": ">>提示 - 火焰魔法會對窺視者造成傷害，並消除『冰霜新星』的效果<<"
+    }
+  },
+  "**A player learn the Brilliant Circle (Light Magick Lv.3)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーが「ブライトサークル（光魔法 Lv.3）」を習得<<",
+      "CN": "**玩家学习了光辉圆环（光魔法 Lv.3）**",
+      "KR": "**플레이어가 밝은 원소 (Light Magick Lv.3)를 습득했습니다.**",
+      "TW": "**一名玩家學會瞭亮環（光魔法 Lv.3）**"
+    }
+  },
+  "**A player learn the Dragon's Breath (Fire Magick Lv.4)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーが「ドラゴンズブレス（火魔法 Lv.4）」を習得<<",
+      "CN": "**玩家学习了龙息（火魔法 Lv.4）**",
+      "KR": "**플레이어가 드래곤의 숨결 (불 마법 Lv.4)를 습득했습니다.**",
+      "TW": "**一名玩家學會了龍息（火焰魔法 Lv.4）**"
+    }
+  },
+  "**Sidewind**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**サイドウィンド**",
+      "CN": "**侧风**",
+      "KR": "**측면 스와이프**",
+      "TW": "**側風**"
+    }
+  },
+  ">>Tips - Ice Magick can freeze the Watcher and neutralize the effect of 'Flare'<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ヒント - 氷の魔法はウォッチャーを凍結させ、『フレア』の影響を無効化できます<<",
+      "CN": ">>提示 - 冰魔法可以冻结观察者，抵消‘炽焰’的效果<<",
+      "KR": ">>팁 - 얼음 마법은 시야를 얼려 '플레어'의 효과를 무력화할 수 있습니다.<<",
+      "TW": ">>提示 - 冰雪魔法可以凍結看守者，並抵消『熾熱』的效果<<"
+    }
+  },
+  ">>Tips - Thunder Magick can damage to the Watcher and smash 'Aurora Shield'<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ヒント - 雷の魔法はウォッチャーにダメージを与え、『オーロラシールド』を破壊できます<<",
+      "CN": ">>提示 - 雷魔法可以对观察者造成伤害，并粉碎‘极光护盾’<<",
+      "KR": ">>팁 - 번개 마법은 시야에 피해를 주고 '오로라 쉴드'를 부술 수 있습니다.<<",
+      "TW": ">>提示 - 雷電魔法可以損傷看守者，並破壞『極光護盾』<<"
+    }
+  },
+  "**Freezing Breath**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**凍結ブレス**",
+      "CN": "**冻结呼吸**",
+      "KR": "**냉기 호흡**",
+      "TW": "**冰霜吐息**"
+    }
+  },
+  "**The watcher is absorbing other additional cores!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ウォッチャーが他の追加コアを吸収中！**",
+      "CN": "**观察者正在吸收其他额外的核心！**",
+      "KR": "**시야가 다른 추가 코어를 흡수하고 있습니다!**",
+      "TW": "**看守者正在吸收其他額外的核心！**"
+    }
+  },
+  "**get close to the middle of field**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**フィールド中央に近づけ**",
+      "CN": "**靠近场地中央**",
+      "KR": "**장소의 중앙으로 가까이 가십시오.**",
+      "TW": "**接近場地的中央**"
+    }
+  },
+  "**Lightning Storm**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**雷撃嵐**",
+      "CN": "**雷暴**",
+      "KR": "**뇌우**",
+      "TW": "**雷暴**"
+    }
+  },
+  "**Ember Tornado**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**エムバートORNADO**",
+      "CN": "**余烬龙卷风**",
+      "KR": "**에버 토네이도**",
+      "TW": "**餘燼龍捲風**"
+    }
+  },
+  "**Aurora Shield - The Watcher is transform the damage we have done to it into healing,use the Thunder Magick to smash the shield**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**オーロラシールド - ウォッチャーは私たちが与えたダメージを回復に変換しています。雷の魔法でシールドを砕きましょう**",
+      "CN": "**极光护盾 - 观察者会将我们对其造成的伤害转化为治疗，请使用雷魔法粉碎护盾**",
+      "KR": "**오로라 쉴드 - 시야는 우리에게 가한 피해를 회복으로 변환합니다. 번개 마법으로 쉴드를 부수십시오.**",
+      "TW": "**極光護盾 - 看守者將對它造成的傷害轉化為治癒，請使用雷電魔法擊碎護盾**"
+    }
+  },
+  "**We defeat it**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "倒す",
+      "CN": "我们来消灭它",
+      "KR": "**우리가 그것을 물리친다**",
+      "TW": "我們消滅了它"
+    }
+  },
+  "**Just hold for a while,we need a little time to light up the core**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "もう少し待って！コアに電力を送る準備をさせて！",
+      "CN": "先坚持一会儿，我们需要一点时间来启动核心",
+      "KR": "**조금만 버텨주세요. 코어 점등에 시간이 더 필요합니다.**",
+      "TW": "堅持一陣子，我們需要一點時間來啟動核心"
+    }
+  },
+  "**We have lit up the core successfully,keep defending for 20 seconds till the core lift move upwards**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コアへの給電完了！あと20秒間の防御を守り、持ち上げられるまで待機！",
+      "CN": "核心已成功启动，继续防御20秒，直到核心上升移动",
+      "KR": "**코어 점등에 성공했습니다! 코어가 상승할 때까지 20초 동안 방어합니다.**",
+      "TW": "核心已成功啟動，請繼續防禦20秒直到核心升起"
+    }
+  },
+  ">>The Core Exit will open in 25 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>25秒後にコア出口が開放されます<<",
+      "CN": ">>核心出口将在25秒后打开<<",
+      "KR": ">>코어出口가 25초 후에 열립니다<<",
+      "TW": ">>25秒後核心出口將開啟<<"
+    }
+  },
+  ">>The Core External Gate will open in 30 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>30秒後に外部ゲートが開放されます<<",
+      "CN": ">>核心外部闸门将在30秒后打开<<",
+      "KR": ">>코어 외부 관문이 30초 후에 열립니다<<",
+      "TW": ">>30秒後核心外門將開啟<<"
+    }
+  },
+  ">>The Aisle Gate will open in 25 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>25秒後に通路の扉が開放されます<<",
+      "CN": ">>通道闸门将在25秒后打开<<",
+      "KR": ">>복도 문이 25초 후에 열립니다<<",
+      "TW": ">>25秒後通道門將開啟<<"
+    }
+  },
+  ">>The Seal Door will open in 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>15秒後に封印された扉が開放されます<<",
+      "CN": ">>封印门将在15秒后打开<<",
+      "KR": ">>실리드 도어가 15초 후에 열립니다<<",
+      "TW": ">>15秒後封印門將開啟<<"
+    }
+  },
+  ">>The Right Gate will open in 30 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>30秒後に右側の扉が開放されます<<",
+      "CN": ">>右侧闸门将在30秒后打开<<",
+      "KR": ">>오른쪽 문이 30초 후에 열립니다<<",
+      "TW": ">>30秒後右側大門將開啟<<"
+    }
+  },
+  "**This is our last hold, holding for 60 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここが最後の砦、60秒間持ちこたえて！",
+      "CN": "这里是我们的最后据点，坚守60秒",
+      "KR": "우리의 마지막 거점입니다. 60초 동안 버티세요",
+      "TW": "**這是我們最後的防線，守持60秒**"
+    }
+  },
+  "**Act II complete**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第二章 完了",
+      "CN": "第二章完成",
+      "KR": "2막 완료",
+      "TW": "**第二章完成**"
+    }
+  },
+  "**The exit of the square is closed**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "広場の出口が封鎖された",
+      "CN": "广场出口已关闭",
+      "KR": "광장 출구가 폐쇄되었습니다",
+      "TW": "**广场出口已關閉**"
+    }
+  },
+  ">>The gate will close after 50 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>50秒後にゲートが閉じます<<",
+      "CN": ">>闸门将在50秒后关闭<<",
+      "KR": ">>50초 후 문이 닫힙니다<<",
+      "TW": ">>50秒後門將關閉<<"
+    }
+  },
+  "**A player learn the Fiend's Grip (Shadow Magick Lv.5)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは『魔獣の握り』（邪魔法 Lv.5）を習得した",
+      "CN": "一名玩家习得了魔物之手（暗影魔法 Lv.5）",
+      "KR": "플레이어가 마수 (Shadow Magick Lv.5)를 습득했습니다",
+      "TW": "**一名玩家學到了「魔物之握」(暗影魔法 Lv.5)**"
+    }
+  },
+  "**Absolute Vacuum**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "絶対真空",
+      "CN": "绝对真空",
+      "KR": "절대 진공",
+      "TW": "**絕對真空**"
+    }
+  },
+  "**Chaosbreak**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "カオスブレイク",
+      "CN": "混沌终结",
+      "KR": "카오스 브레이크",
+      "TW": "**混沌破壞**"
+    }
+  },
+  "> Act III:Checkmate | Difficulty:Extreme <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 第三章：チェックメイト | 難易度：エクストリーム <",
+      "CN": "> 第三章：将死 | 难度：地狱 <",
+      "KR": "> 3막: 말도없게 | 난이도: 극한 <",
+      "TW": "> 第三章：將軍 | 難度：極限 <"
+    }
+  },
+  "**We have lit up one of the cores successfully**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**コアクオリドンの一つに点火成功**",
+      "CN": "我们已成功点亮其中一个核心",
+      "KR": "코어 하나를 성공적으로 점등했습니다",
+      "TW": "我們已成功啟動其中一個核心"
+    }
+  },
+  "**Now we need go to left and light up the other one**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**今度は左に進んで、もう一つのコアに点火する必要がある**",
+      "CN": "现在我们需要前往左侧，点亮另一个核心",
+      "KR": "이제 왼쪽으로 가서 다른 하나를 점등해야 합니다",
+      "TW": "現在我們要往左走並啟動另一個核心"
+    }
+  },
+  "**Go to left**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**左へ進む**",
+      "CN": "前往左侧",
+      "KR": "왼쪽으로 이동하세요",
+      "TW": "往左走"
+    }
+  },
+  ">>Wait for 10 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>10秒後に次へ進む<<",
+      "CN": ">>等待10秒<<",
+      "KR": ">>10초간 대기<<",
+      "TW": ">>等待10秒<<"
+    }
+  },
+  "**Woe are us!The temple must needs a refurbishment!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**やばい！神殿の改装が必要だ！**",
+      "CN": "悲惨啊！这座神庙亟需整修！",
+      "KR": "불쌍한 우리가! 사원은 정비가 필요합니다!",
+      "TW": "天啊！這座神廟真的需要翻修了！"
+    }
+  },
+  "**It seems that we are in the ancient drainage of the temple**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**どうやら神殿の古代の排水路にいるようだ**",
+      "CN": "看起来我们身处神庙的古排水系统中",
+      "KR": "우리는 사원의 고대 배수구에 있는 것 같습니다",
+      "TW": "看來我們身處神廟的古代排水系統中"
+    }
+  },
+  "**Try to find a way to get the next core**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**次のコアへの道を探す**",
+      "CN": "尝试找到通往下一核心路径",
+      "KR": "다음 코어를 얻는 방법을 찾아보세요",
+      "TW": "試著找到取得下一個核心的方法"
+    }
+  },
+  ">>The Brake will open in 25 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ブレーキが25秒後に解除されます<<",
+      "CN": ">>闸口将在25秒后开启<<",
+      "KR": ">>브레이크가 25초 후에 열립니다<<",
+      "TW": ">>剎車將在25秒後開啟<<"
+    }
+  },
+  ">>The Bottom Seal Door will open in 30 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>底部の封印扉が30秒後に開きます<<",
+      "CN": ">>底部封印门将在30秒后开启<<",
+      "KR": ">>하단 봉인 문이 30초 후에 열립니다<<",
+      "TW": ">>Bottom Seal Door 將在30秒後開啟<<"
+    }
+  },
+  ">>The Fence will open in 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>柵が15秒後に開きます<<",
+      "CN": ">>栅栏将在15秒后打开<<",
+      "KR": ">>담장이 15초 후에 열립니다<<",
+      "TW": ">>柵欄將在15秒後開啟<<"
+    }
+  },
+  ">>The Medium Seal Door will open in 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>中級の封印扉が15秒後に開きます<<",
+      "CN": ">>中型封印门将在15秒后开启<<",
+      "KR": ">>중간 봉인 문이 15초 후에 열립니다<<",
+      "TW": ">>Medium Seal Door 將在15秒後開啟<<"
+    }
+  },
+  ">>The Top Seal Door will open in 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>上部の封印扉が15秒後に開きます<<",
+      "CN": ">>顶部封印门将在15秒后开启<<",
+      "KR": ">>상단 봉인 문이 15초 후에 열립니다<<",
+      "TW": ">>Top Seal Door 將在15秒後開啟<<"
+    }
+  },
+  "**There is no way...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**無理だ…**",
+      "CN": "**没办法了……**",
+      "KR": "**어쩔 수 없이...**",
+      "TW": "**絕無可能……**"
+    }
+  },
+  "**We have no option but to through the waterway under our feet**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**足下の水路を通るしかない**",
+      "CN": "**我们只能从脚下的水道通过**",
+      "KR": "**우리가 발 아래 수로를 통과할 수밖에 없습니다**",
+      "TW": "**我們只能從腳下的水道穿過**"
+    }
+  },
+  "**We must turn on the three switches to get through**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**通過するには3つのスイッチをオンにする必要がある**",
+      "CN": "**我们必须启动三个开关才能通过**",
+      "KR": "**해상하기 위해 세 개의 스위치를 켜야 합니다**",
+      "TW": "**我們必須開啟三個開關才能通過**"
+    }
+  },
+  "**Hold on,we are going to get the air,the Outfall will open in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**待ってろ、空気を取りにいくぞ。アウトフォールが15秒後に開く**",
+      "CN": "**抓紧，我们要去获取空气了，出口将在15秒后开启**",
+      "KR": "**기다려, 공기 공급을 얻으러 갑니다. 출수구가 15초 후에 열립니다**",
+      "TW": "**堅持住，我們要去獲取空氣，Outfall 將在15秒後開啟**"
+    }
+  },
+  "**There is no way to reach the other side**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "もう一方の側へは行けない",
+      "CN": "**无法到达另一侧**",
+      "KR": "다른 쪽으로 갈 길이 없네요",
+      "TW": "沒有任何方法能抵達另一側"
+    }
+  },
+  "**Maybe we could get some aids from the building?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "建物から援助が得られるかもしれませんね",
+      "CN": "**也许我们可以从建筑物那里得到一些援助？**",
+      "KR": "**건물에서援助를 얻을 수도 있겠네요?**",
+      "TW": "也許我們可以從這棟建築獲得一些援助？"
+    }
+  },
+  "**The sluice activated**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "水門が作動しました",
+      "CN": "水闸已激活**",
+      "KR": "수문이 작동했습니다",
+      "TW": "水閘已啟動"
+    }
+  },
+  "**Hold here for 43 seconds till the water rises**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位が上がるまで43秒間ここで待機してください",
+      "CN": "**在此坚守43秒，直到水位上涨**",
+      "KR": "**물이 차오를 때까지 43초간 here를 유지하세요**",
+      "TW": "在此守住43秒，直到水位上升"
+    }
+  },
+  ">>Core Bottom Entrance will open in 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>コア底部の入口が15秒後に開きます<<",
+      "CN": ">>核心底部入口将在15秒后开启<<",
+      "KR": "<<코어 바닥 입구가 15초 후에 열립니다>>",
+      "TW": "核心底部入口將在15秒後開啟<<"
+    }
+  },
+  ">>The Core Room will open in 15 Seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>コアルームが15秒後に開きます<<",
+      "CN": ">>核心室将在15秒后开启<<",
+      "KR": "<<핵심 방이 15초 후에 열립니다>>",
+      "TW": "核心房間將在15秒後開啟<<"
+    }
+  },
+  "**Very luck,it seems the Watcher system is broken here**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキーですね、ウォッチャーシステムはこの場所で壊れているようです",
+      "CN": "**运气很好，这里的观察者系统似乎坏了**",
+      "KR": "**운이 좋네요, 감시자 시스템이 여기서는 고장 난 것 같습니다**",
+      "TW": "萬幸，看來這裡的監視者系統已經損壞"
+    }
+  },
+  "**We need a little time to light the core**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コアクリアランスを点亮するために少し時間が必要です",
+      "CN": "**我们需要一点时间来启动核心**",
+      "KR": "**코어를 점등하는 데 시간이 좀 걸립니다**",
+      "TW": "我們需要一點時間來啟動核心"
+    }
+  },
+  "**OK,let's go**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "了解、行こう！",
+      "CN": "**好的，出发吧**",
+      "KR": "**좋아, 출격한다**",
+      "TW": "好，我們出發"
+    }
+  },
+  ">>Core Exit will open in 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>コア終了が15秒後に開放されます<<",
+      "CN": ">>核心出口将在15秒后开启<<",
+      "KR": ">>핵심 탈출구가 15초 후에 열립니다<<",
+      "TW": ">>核心出口將在 15 秒後開啟<<"
+    }
+  },
+  "**Damn!Gradyrat is there!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "damn！グラディラットがいる！",
+      "CN": "**该死！格雷德鼠就在前面！**",
+      "KR": "**젠장! 그라디랫이 나타났다!**",
+      "TW": "該死！葛雷德鼠在那裡！"
+    }
+  },
+  "**It must be summoned by Basil!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "これはバジルによる召喚だ！",
+      "CN": "**它一定是被巴塞尔召唤出来的！**",
+      "KR": "**바질에 의해 소환된 게 틀림없어!**",
+      "TW": "這一定是巴茲爾召喚的！"
+    }
+  },
+  "**he want a checkmate in this move!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "今この手で王手をかけたい！！",
+      "CN": "**这步棋他想将死我！**",
+      "KR": "**이 수로 체크메이트를 노리고 있어!**",
+      "TW": "他這一步要將死！"
+    }
+  },
+  "**No time to waste,defeat it or be killed by it!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "無駄な時間はない、倒すか、殺されるかだ！",
+      "CN": "**没时间犹豫了，要么击败它，要么被它杀死！**",
+      "KR": "**남겨진 시간이 없군! 무찌르거나 죽임을 당하라!**",
+      "TW": "別浪費時間，擊敗它或被它消滅！"
+    }
+  },
+  "**Prepare to fight!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "戦闘準備を整えよ！",
+      "CN": "**准备战斗！**",
+      "KR": "**전투 준비!**",
+      "TW": "準備戰鬥！"
+    }
+  },
+  "> BOSS:Gradyrat the Dark Creation <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ボス：暗黒の造物グラディラット <",
+      "CN": "> BOSS: 格雷德鼠·暗黑造物 <",
+      "KR": "보스: 암흑의 작살자 그라디랫<<",
+      "TW": "> BOSS:葛雷德鼠，黑暗創造物 <"
+    }
+  },
+  "**Crystal Blast**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "クリスタルブラスト",
+      "CN": "**水晶冲击**",
+      "KR": "**크리스탈 블래스트**",
+      "TW": "水晶爆炸"
+    }
+  },
+  "**Curse of Weakness**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "弱りの呪い",
+      "CN": "**虚弱诅咒**",
+      "KR": "**약화의 저주**",
+      "TW": "衰弱詛咒"
+    }
+  },
+  "**It's the control station of 'the Watcher' system!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "『ウォッチャー』システムの管制ステーションです！",
+      "CN": "这里是‘观察者’系统的控制站！",
+      "KR": "'워쳐' 시스템의 제어 관측소입니다!",
+      "TW": "這是『監視者』系統的控制中心！"
+    }
+  },
+  "**Maybe we can use it to attack Gradyrat?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "もしや、グラディラットを攻撃するためにこれを使えるかもしれません。",
+      "CN": "也许我们可以用它来攻击格拉迪老鼠？",
+      "KR": "그레이드렛을 공격하는 데 사용할 수 있을까요?",
+      "TW": "也許我們能用它來攻擊格拉地鼠？"
+    }
+  },
+  "**Dark Subside**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ダークサブサイド",
+      "CN": "**黑暗底部**",
+      "KR": "다크 서브사이드**",
+      "TW": "黑暗沉淪"
+    }
+  },
+  "**Go!We need catch up Basil before he get the Fragment!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "行こう！グレイトがフラグメントを手に入れる前に追いつく必要があります！",
+      "CN": "快！我们得在巴塞尔拿到碎片之前追上他！",
+      "KR": "바질이 파편을 얻기 전에 쫓아갑시다!",
+      "TW": "快！我們必須在巴茲取得碎片之前追上他！"
+    }
+  },
+  ">>The Brake will open in 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>15秒後にブレーキが開きます<<",
+      "CN": ">>刹车将在15秒后打开<<",
+      "KR": "브레이크가 15초 후에 열립니다<<",
+      "TW": ">>剎車將於 15 秒後開啟<<"
+    }
+  },
+  ">>The exit will open in 10 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>10秒後に出口が開きます<<",
+      "CN": ">>出口将在10秒后开启<<",
+      "KR": "출구가 10초 후에 열립니다<<",
+      "TW": "出口將在10秒後開啟"
+    }
+  },
+  ">>The Side Doors will open in 10 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>側面ドアが10秒後に開きます<<",
+      "CN": ">>侧门将在10秒后开启<<",
+      "KR": ">>사이드 도어가 10초 후에 열립니다<<",
+      "TW": ">>側門將在 10 秒後開啟<<"
+    }
+  },
+  ">>The lift will open in 25 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>エレベーターが25秒後に開きます<<",
+      "CN": ">>电梯将在25秒后开启<<",
+      "KR": ">>엘리베이터가 25초 후에 열립니다<<",
+      "TW": ">>電梯將在 25 秒後開啟<<"
+    }
+  },
+  "**Hurry up!start up the lift!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**急いで！エレベーターを起動しろ！**",
+      "CN": "**快！启动电梯！**",
+      "KR": "**서두르세요! 엘리베이터를 가동하세요!**",
+      "TW": "**快！啟動電梯！**"
+    }
+  },
+  ">>Hold on 15 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>15秒間待機<<",
+      "CN": ">>坚持15秒<<",
+      "KR": ">>기다려주세요 15초<<",
+      "TW": ">>等待 15 秒<<"
+    }
+  },
+  "**Watch out!zombies are climbing the wall!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**注意！ゾンビが壁を登っている！**",
+      "CN": "**小心！僵尸正在攀爬围墙！**",
+      "KR": "**조심하세요! 좀비들이 벽을 타고 올라옵니다!**",
+      "TW": "**小心！殭屍正在攀爬圍牆！**"
+    }
+  },
+  "**Act III complete**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**第三幕完了**",
+      "CN": "**第三幕完成**",
+      "KR": "**Act III 완료**",
+      "TW": "**第三章完成**"
+    }
+  },
+  "**Next act coming soon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**次の幕はまもなく開始**",
+      "CN": "**下一幕即将推出**",
+      "KR": "다음 액트 곧 공개**",
+      "TW": "**下一章即將登場**"
+    }
+  },
+  "**Celestial Smash - Go side**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**天穹砕撃 - 側面へ進め**",
+      "CN": "**天界粉碎 - 选择侧门**",
+      "KR": "**Celestial Smash - 사이드로 진행**",
+      "TW": "**天界粉碎 - 進入側門**"
+    }
+  },
+  "**Blizzard**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ブリザード**",
+      "CN": "**暴风雪**",
+      "KR": "**눈보라**",
+      "TW": "暴風雪"
+    }
+  },
+  "**Warning!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**警告!**",
+      "CN": "**警告！**",
+      "KR": "**경고!**",
+      "TW": "警告！"
+    }
+  },
+  "**Power is nearly to critical value!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**パワーがほぼ臨界値に達しました!**",
+      "CN": "**力量已接近临界值！**",
+      "KR": "**전원이 임계값에 다다른 상태입니다!**",
+      "TW": "能量已逼近極限！"
+    }
+  },
+  "**He is casting his last attack!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**彼は最後の攻撃を発動しています!**",
+      "CN": "**他正在发动最后一击！**",
+      "KR": "**그가 마지막 공격을 가하려 합니다!**",
+      "TW": "他正在使出絕招！"
+    }
+  },
+  "**It's our last chance!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**これが最後のカギです!**",
+      "CN": "**这是我们要的最后机会！**",
+      "KR": "**마지막 기회입니다!**",
+      "TW": "這是我們最後的機會！"
+    }
+  },
+  "**Model help:Dakotec**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**モデル協力:Dakotec**",
+      "CN": "Model help:Dakotec",
+      "KR": "모델 도움: Dakotec",
+      "TW": "Model help:Dakotec"
+    }
+  },
+  "> WARMUP ROUND <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 予備ラウンド <",
+      "CN": "> 热身轮次 <",
+      "KR": "> 예선전 <",
+      "TW": "> 熱身回合 <"
+    }
+  },
+  "**ze_evernight**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ze_evernight**",
+      "CN": "**ze_evernight**",
+      "KR": "**ze_evernight**",
+      "TW": "ze_evernight"
+    }
+  },
+  "**Map by Asami/Ateistia**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：Asami/Ateistia",
+      "CN": "**地图制作者：Asami/Ateistia**",
+      "KR": "**아사미/Ateistia 작 지도**",
+      "TW": "**製作地圖：Asami/Ateistia**"
+    }
+  },
+  "**Early help:thas**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "初期サポート:thas",
+      "CN": "早期帮助：thas**",
+      "KR": "**초반 지원: thas**",
+      "TW": "**早期協助：thas**"
+    }
+  },
+  "** Thanks to ClariceTang and Lishang for finding the cause of crash on the 'The Watcher' Boss **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ClariceTang氏とLishang氏に感謝、'The Watcher'ボスのクラッシュ原因の特定ありがとうございます",
+      "CN": "感谢ClariceTang和Lishang找到“观察者”Boss崩溃的原因**",
+      "KR": "**ClariceTang과 Lishang이 'The Watcher' 보스 크래시의 원인을 찾아주신 것에 감사드립니다**",
+      "TW": "**感謝 ClariceTang 和 Lishang 找出『The Watcher』Boss 造成當機的原因**"
+    }
+  },
+  "**Thanks to Tenshi for the hpbar texture**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Tenshi氏に感謝、HPバーテクスチャの提供をありがとう",
+      "CN": "感谢Tenshi提供的血条纹理**",
+      "KR": "**Tenshi에게 hpbar 텍스처 제공 감사의 글**",
+      "TW": "**感謝 Tenshi 提供生命條紋理圖**"
+    }
+  },
+  "** Tip - This is not an easy map. It requires excellen teamwork **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒント - これは簡単なマップではありません。優れたチームワークが必要です",
+      "CN": "提示 - 这不是一张简单的地图。它需要出色的团队合作。**",
+      "KR": "**팁 - 이것은 쉬운 맵이 아닙니다. 탁월한 팀워크가 필요합니다**",
+      "TW": "**提示 - 這不是一張簡單的關卡。極佳團隊合作才能通過**"
+    }
+  },
+  "** Tip - You can adjust music volume in your audio settings **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒント - 音楽の音量はオーディオ設定で調整可能です",
+      "CN": "**提示 - 你可以在音频设置中调整音乐音量**",
+      "KR": "**팁 - 오디오 설정에서 음악 볼륨을 조절할 수 있습니다**",
+      "TW": "**提示 - 您可以在音訊設定中調整音樂音量**"
+    }
+  },
+  "**Tips - The items in this map isn't traditional,try to understand the real effect of them**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒント - このマップのアイテムは伝統的ではありません。それらの実際の効果を理解してください",
+      "CN": "**提示 - 此地图中的物品并非传统类型，请尝试理解它们的实际效果。**",
+      "KR": "**팁 - 이 맵의 아이템은 전통적이지 않습니다. 실제 효과를 이해하려고 노력하세요**",
+      "TW": "**提示 - 此關卡的物品並非傳統設定，請努力理解它們的真正效果**"
+    }
+  },
+  "** Tip - Each item has 5 different levels, each with different effects **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒント - 各アイテムには5つの異なるレベルがあり、それぞれ異なる効果があります",
+      "CN": "**提示 - 每种物品有5个不同的等级，每个等级的效果各不相同。**",
+      "KR": "**팁 - 각 아이템에는 서로 다른 효과가 있는 5가지 다른 레벨이 있습니다**",
+      "TW": "**提示 - 每種物品都有 5 個不同的等級，每個等級效果各異**"
+    }
+  },
+  "** Tip - To level up, you can either pick up a new item or complete a level **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヒント - レベルアップするには、新しいアイテムを取得するか、ステージをクリアしてください**",
+      "CN": "** 提示 - 想要升级，您可以拾取新物品或完成关卡 **",
+      "KR": "**팁 - 레벨업하려면 새 아이템을 얻거나 미션을 완료하세요.**",
+      "TW": "提示 - 升級方式為拾取新道具或通過關卡"
+    }
+  },
+  "**Good luck and have fun :P**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ごきげんよう：P**",
+      "CN": "** 祝好运，玩得开心 :P**",
+      "KR": "**행운을 빕니다. 재미있게 플레이하세요! :P**",
+      "TW": "祝你好運，玩得開心 :P"
+    }
+  },
+  "**You can't defeat it...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この敵には勝てない…」**",
+      "CN": "**你无法战胜它...**",
+      "KR": "**당신은 그것을 물리칠 수 없습니다...**",
+      "TW": "你無法擊敗它……"
+    }
+  },
+  "**Burning Field**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**火焔フィールド**",
+      "CN": "**燃烧战场**",
+      "KR": "**타오르는 들판**",
+      "TW": "燃燒領域"
+    }
+  },
+  "**Frostnova - Use the Fire Magick to neutralize the effect**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**フローズンnova - 火魔法を使用して効果を抑止する**",
+      "CN": "**霜新星 - 使用火焰魔法抵消效果**",
+      "KR": "**Frostnova - 마력을 사용하여 효과를 무력화하세요**",
+      "TW": "霜新星 - 使用火焰魔法抵消效果"
+    }
+  },
+  "**Spitacid**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**酸液吐く**",
+      "CN": "**吐酸**",
+      "KR": "**위험한 물질을 뱉어냅니다.**",
+      "TW": "吐酸"
+    }
+  },
+  "**Poison Cloud**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**毒雲**",
+      "CN": "**毒云**",
+      "KR": "**독성 구름**",
+      "TW": "毒雲"
+    }
+  },
+  ">>Tips - Keep close to the crystal for 10 seconds to start up the system<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ヒント - システムを起動するために、クリスタルの近くで10秒間待機してください<<",
+      "CN": ">>提示 - 在水晶附近停留10秒以启动系统<<",
+      "KR": ">>팁 - 시스템 가동을 위해 수정에서 10초간 가까이 있으세요<<",
+      "TW": ">>提示 - 緊貼水晶持續 10 秒以啟動系統<<"
+    }
+  },
+  "**We don't have much time!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "時間がありません！",
+      "CN": "**我们的时间不多了！**",
+      "KR": "시간이 많지 않아!",
+      "TW": "我們沒有太多時間了！"
+    }
+  },
+  "**Defeat it as quickly as possible!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "可能な限り早く倒してください！",
+      "CN": "**请尽快击败它！**",
+      "KR": "가능하면 빠르게 처치해라!",
+      "TW": "盡快將其擊倒！"
+    }
+  },
+  "**You're too late..**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "遅すぎたね…。",
+      "CN": "**你来晚了..**",
+      "KR": "너는 너무 느려..",
+      "TW": "你來得太晚了……"
+    }
+  },
+  "**Icicle Prod**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "アイシクルプロッド",
+      "CN": "冰柱长矛",
+      "KR": "고드름 채찍",
+      "TW": "冰柱法杖"
+    }
+  },
+  "**Flare - Use the Ice Magick to neutralize the effect**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "フレア - 氷の魔術を使用して効果を抑える",
+      "CN": "烈焰冲击 - 使用冰魔法抵消其效果",
+      "KR": "플레어 - 아이스 마그닉으로 효과를 상쇄하세요",
+      "TW": "灼焰 - 使用寒冰魔法抵銷效果"
+    }
+  },
+  "**A player learn the Arcbreak (Thunder Magick Lv.4)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが電光崩壊（雷魔法 Lv.4）を習得",
+      "CN": "玩家习得了碎魔晶（雷系魔法 Lv.4）",
+      "KR": "플레이어가 아르크브레이크(썬더 마그믹 Lv.4)를 습득함",
+      "TW": "玩家習得斷雷術（雷霆魔法 Lv.4）"
+    }
+  },
+  "**Meltdown - Silence human magick for 30 seconds (except for the Light Magick)**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "メルトダウン - 30秒間ヒューマン魔法を無効化（光魔法を除く）",
+      "CN": "熔毁 - 使人类魔法失效30秒（光系魔法除外）",
+      "KR": "멜트다운 - 30초 동안 인간 마그직을 무효화함 (라이트 마그닉 제외)",
+      "TW": "熔毀 - 沉默人類魔法30秒（光魔法除外）"
+    }
+  },
+  "**Automatic Defense System 'the Watcher' reactivate**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "自動防衛システム「ウォッチャー」再稼働",
+      "CN": "自动防御系统“守望者”重新激活",
+      "KR": "자동 방어 시스템 '위쳐' 재가동",
+      "TW": "自動防禦系統「監視者」重新啟動"
+    }
+  },
+  "**Atomsphere Vortex - Disable the motion of Gradyrat for 10 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "原子気流渦 - グレーディラットの動きを10秒間停止",
+      "CN": "原子层气旋——使格雷迪拉特的动作停止10秒",
+      "KR": "원자구름 소용돌이 - 그레idrat의 이동을 10초간 무효화",
+      "TW": "原子風暴 - 使格雷德羅斯特的移動停止10秒"
+    }
+  }
+}

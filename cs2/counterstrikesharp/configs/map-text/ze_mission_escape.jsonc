@@ -1,0 +1,92 @@
+{
+  "lll GATE OPENS IN 30 SEC lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll 30秒後にゲート開放 lll",
+      "CN": "lll 闸门将在30秒后开启 lll",
+      "KR": "lll 게이트가 30초 후에 열립니다 lll",
+      "TW": "lll 門将在30秒后开启 lll"
+    }
+  },
+  "lll THE DOOR EXPLODES IN 35 SEC lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll 35秒後に扉爆破 lll",
+      "CN": "lll 门将在35秒后爆炸 lll",
+      "KR": "lll 문이 35초 후에 폭발합니다 lll",
+      "TW": "lll 門将在35秒后爆炸 lll"
+    }
+  },
+  "lll ZOMBIES TP IN 10 SEC lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll 10秒後にゾンビTP lll",
+      "CN": "lll 僵尸将在10秒内传送 lll",
+      "KR": "lll 좀비가 10초 내에 텔레포트합니다 lll",
+      "TW": "lll 殭屍将在10秒后传送至此处 lll"
+    }
+  },
+  "lll DOOR UNLOCKES IN 30 SEC lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll 30秒後に扉解除 lll",
+      "CN": "lll 门将在30秒后解锁 lll",
+      "KR": "lll 문이 30초 후에 해제됩니다 lll",
+      "TW": "lll 門将在30秒后解鎖 lll"
+    }
+  },
+  "lll GATE OPENS IN 40 SEC lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll 40秒後にゲート開放 lll",
+      "CN": "lll 闸门将在40秒后开启 lll",
+      "KR": "lll 게이트가 40초 후에 열립니다 lll",
+      "TW": "lll 門将在40秒后开启 lll"
+    }
+  },
+  "lll GATE OPENS IN 35 SEC lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll 35秒後にゲート開放 lll",
+      "CN": "lll 闸门将在35秒后开启 lll",
+      "KR": "lll 게이트가 35초 후에 열립니다 lll",
+      "TW": "lll 門将在35秒后开启 lll"
+    }
+  },
+  "lll PLANE LEAVES IN 50 SEC lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll 50秒後に飛行機発進 lll",
+      "CN": "lll 飞机将在50秒后起飞 lll",
+      "KR": "lll 비행기가 50초 내에 출발합니다 lll",
+      "TW": "lll 飛機将在50秒後離開 lll"
+    }
+  },
+  "lll MAP BY CTX lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll map by CTX lll",
+      "CN": "lll 地图由CTX制作 lll",
+      "KR": "lll 맵 제작: CTX lll",
+      "TW": "lll 地圖由 CTX 提供 lll"
+    }
+  },
+  "lll PORT BY CHARLIE lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll PORT BY CHARLIE lll",
+      "CN": "lll 由CHARLIE移植的lll",
+      "KR": "lll CHARLIE 이식 lll",
+      "TW": "lll 由 CHARLIE 移植 lll"
+    }
+  }
+}

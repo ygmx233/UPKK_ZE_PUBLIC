@@ -1,77 +1,412 @@
 {
   "\"「いつからここにいるのか分からない...」\"": {
-    "translation": "\"「我不知道从什么时候开始在这里...」\""
+    "translation": "\"「我不知道从什么时候开始在这里...」\"",
+    "MultiLang": {
+      "US": "\"I can't remember when I got here...\"",
+      "JP": "",
+      "CN": "「いつからここにいるのか分からない...」",
+      "KR": "\"어디서부터 여기에 있었던 걸까...\"",
+      "TW": "「不知道自己從什麼時候就在這裡了……」"
+    }
   },
   "\"「ここからトンネルへ行けるかもしれない...」\"": {
-    "translation": "\"「也许可以从这里通往隧道...」\""
+    "translation": "\"「也许可以从这里通往隧道...」\"",
+    "MultiLang": {
+      "US": "\"There might be a tunnel from here...\"",
+      "JP": "",
+      "CN": "「ここからトンネルへ行けるかもしれない...」",
+      "KR": "\"여기서 터널로 갈 수 있을지도 몰라...\"",
+      "TW": "「或許可以從這裡去隧道……」"
+    }
   },
   "\"「ここは何かの儀式場...？」\"": {
-    "translation": "\"「这里是某种仪式场所...？」\""
+    "translation": "\"「这里是某种仪式场所...？」\"",
+    "MultiLang": {
+      "US": "\"Is this some kind of ritual site?\"",
+      "JP": "",
+      "CN": "「ここは何かの儀式場...？」",
+      "KR": "\"어딘가 의식장 같은 곳이야...?\"",
+      "TW": "「這裡像是某種儀式場所……？」"
+    }
   },
   "\"「この場所は療養所...」\"": {
-    "translation": "\"「这个地方是疗养所...」\""
+    "translation": "\"「这个地方是疗养所...」\"",
+    "MultiLang": {
+      "US": "\"This place is a sanatorium...\"",
+      "JP": "",
+      "CN": "「この場所は療養所...」",
+      "KR": "\"이곳은 요양 시설이야...\"",
+      "TW": "「這裡是療養院……」"
+    }
   },
   "\"「そこに私を知るための何かがあるかもしれないから...」\"": {
-    "translation": "\"「因为那里可能有了解我的东西...」\""
+    "translation": "\"「因为那里可能有了解我的东西...」\"",
+    "MultiLang": {
+      "US": "\"There might be something here to help me learn more about myself...\"",
+      "JP": "",
+      "CN": "「そこに私を知るための何かがあるかもしれないから...」",
+      "KR": "\"나를 알아가는 무언가가 있을지도 모르니까...\"",
+      "TW": "「那裡或許藏著讓我了解自身的事情……」"
+    }
   },
   "\"「なぜだかここにいると落ち着くような...」\"": {
-    "translation": "\"「不知道为什么在这里会感到平静...」\""
+    "translation": "\"「不知道为什么在这里会感到平静...」\"",
+    "MultiLang": {
+      "US": "\"For some reason, I feel calm being here...\"",
+      "JP": "",
+      "CN": "「なぜだかここにいると落ち着くような...」",
+      "KR": "왠지 여기 있으면 마음이 차분해지는 기분이 들었어...\",\"7\":\"하나 분명해진 건...\",\"8\":\"낡은 대공 폭격 피난처...\")",
+      "TW": "「不知為何，待在這裡總讓我感到安心……」"
+    }
   },
   "\"「一つ分かることと言えば...」\"": {
-    "translation": "\"「唯一能确定的是...」\""
+    "translation": "\"「唯一能确定的是...」\"",
+    "MultiLang": {
+      "US": "\"One thing I've come to realize is...\"",
+      "JP": "",
+      "CN": "「一つ分かることと言えば...」",
+      "KR": "\"하나 분명한 점은...\"",
+      "TW": "「我可以確定的一件事是……」"
+    }
   },
   "\"「古い防空壕...」\"": {
-    "translation": "\"「这是一个旧的防空洞...」\""
+    "translation": "\"「这是一个旧的防空洞...」\"",
+    "MultiLang": {
+      "US": "\"An old air-raid shelter...\"",
+      "JP": "",
+      "CN": "「古い防空壕...」",
+      "KR": "\"낡은 방공호...\"",
+      "TW": "「舊防空壕道……」"
+    }
   },
   "\"「渡木トンネルへ行かなければならないということ...」\"": {
-    "translation": "\"「我必须去渡木隧道...」\""
+    "translation": "\"「我必须去渡木隧道...」\"",
+    "MultiLang": {
+      "US": "\"I must go to Watanuki Tunnel...\"",
+      "JP": "「渡木トンネルへ行かなければならないというthing...」",
+      "CN": "「必须去渡木隧道……」",
+      "KR": "\"무목 터널로 가야 한다는 건가...\"",
+      "TW": "\"「非得去渡木隧道不可了……」\""
+    }
   },
   "\"「私がなぜ死んでいるのかも分からない...」\"": {
-    "translation": "\"「我也不知道我为什么会死...」\""
+    "translation": "\"「我也不知道我为什么会死...」\"",
+    "MultiLang": {
+      "US": "\"I don't even know why I'm dead...\"",
+      "JP": "「私はなぜ死んでいるのでもわからない...」",
+      "CN": "「我甚至不明白为什么自己已经死了……」",
+      "KR": "\"내가 왜 죽었는지조차 모른다...\"",
+      "TW": "\"「我也搞不清楚自己為什麼已經死了……」\""
+    }
   },
   "\"「私には辺りが燃えているように感じる...」\"": {
-    "translation": "\"「我感觉周围像是在燃烧...」\""
+    "translation": "\"「我感觉周围像是在燃烧...」\"",
+    "MultiLang": {
+      "US": "\"It feels like everything is burning around me...\"",
+      "JP": "",
+      "CN": "「我感觉四周仿佛在燃烧……」",
+      "KR": "\"주변이 불타는 것처럼 느껴진다...\"",
+      "TW": "\"「我覺得周圍彷佛正在燃燒……」\""
+    }
   },
   "\"幽霊少女 :\"": {
-    "translation": "\"幽灵少女：\""
+    "translation": "\"幽灵少女：\"",
+    "MultiLang": {
+      "US": "Ghost Girl :",
+      "JP": "幽霊少女 :",
+      "CN": "\"幽灵少女：\"",
+      "KR": "유령 소녀 :",
+      "TW": "幽靈少女："
+    }
   },
   "<!> Music : Aquarius <!>": {
-    "translation": "<!>音乐：Aquarius<!>"
+    "translation": "<!>音乐：Aquarius<!>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<!> Music : Aquarius <!>",
+      "CN": "《 Aquarius 》",
+      "KR": "<!> 음악 : Aquarius <!>",
+      "TW": "<!> 音樂：Aquarius <!>"
+    }
   },
   "<!> Music : Awake <!>": {
-    "translation": "<!>音乐：Awake<!>"
+    "translation": "<!>音乐：Awake<!>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<!> Music : Awake <!>",
+      "CN": "《 Awake 》",
+      "KR": "<!> 음악 : Awake <!>",
+      "TW": "<!> 音樂：Awake <!>"
+    }
   },
   "<!> ゾンビが入ってきた！ -- Zombies or entered the elevator! <!>": {
-    "translation": "<!>僵尸进来了！<!>"
+    "translation": "<!>僵尸进来了！<!>",
+    "MultiLang": {
+      "US": "<!> Zombies have entered the elevator! <!>",
+      "JP": "<!> ゾンビが入ってきた！ -- ゾンビズやエンテッドentifier! <!>",
+      "CN": "僵尸冲进了电梯！",
+      "KR": "<!> 좀비가 엘리베이터에 들어왔다! <!>",
+      "TW": "<!> 殭屍進來了！ -- 殱屍進入電梯 <!>"
+    }
   },
   "<!> ドアを開く -- Open the door 10 sec <!>": {
-    "translation": "<!>门将在10秒后打开<!>"
+    "translation": "<!>门将在10秒后打开<!>",
+    "MultiLang": {
+      "US": "<!> Open the door 10 sec <!>",
+      "JP": "<!> ドアを開く -- 10sec开门 <!>",
+      "CN": "开门倒计时：10秒",
+      "KR": "<!> 문 열기 -- 10초 내에 열린다 <!>",
+      "TW": "<!> 開啟門 -- 10秒後開門 <!>"
+    }
   },
   "<!> ドアを開く -- Open the door 30 sec <!>": {
-    "translation": "<!>门将在30秒后打开<!>"
+    "translation": "<!>门将在30秒后打开<!>",
+    "MultiLang": {
+      "US": "<!> Open the door 30 sec <!>",
+      "JP": "<!> ドアを開く -- 30 sec <!>",
+      "CN": "开门倒计时：30秒",
+      "KR": "<!> 문 열기 -- 30초 후 문 열기 <!>",
+      "TW": "<!> 打開門 30 秒 <!>"
+    }
   },
   "<!> バリケードを破壊 -- Destroying the barricade 10 sec <!>": {
-    "translation": "<!>破坏路障:10秒<!>"
+    "translation": "<!>破坏路障:10秒<!>",
+    "MultiLang": {
+      "US": "<!> Destroying the barricade 10 sec <!>",
+      "JP": "!<>バリケードを破壊 -- 10秒後爆破 <!>",
+      "CN": "<!> 破壞路障中 -- 耗時10秒<!>",
+      "KR": "<!> 장벽 파괴 -- 10초 경과 <!>",
+      "TW": "<!> 破壞路障 10 秒 <!>"
+    }
   },
   "<!> バリケードを破壊 -- Destroying the barricade 15 sec <!>": {
-    "translation": "<!>破坏路障:15秒<!>"
+    "translation": "<!>破坏路障:15秒<!>",
+    "MultiLang": {
+      "US": "<!> Barikadei o Hakai -- Destroying the barricade 15 sec <!>",
+      "JP": "!<＞バリケードを破壊 -- バリケードの破壊 15 sec <!>",
+      "CN": "<!> 破壞路障中 -- 耗時15秒<!>",
+      "KR": "<!> 장벽 파괴 -- 15초 경과 <!>",
+      "TW": "<!> 破壞路障 15 秒 <!>"
+    }
   },
   "<!> バリケードを破壊 -- Destroying the barricade 30 sec <!>": {
-    "translation": "<!>破坏路障:30秒<!>"
+    "translation": "<!>破坏路障:30秒<!>",
+    "MultiLang": {
+      "US": "<!> Barikadei o Hakai -- Destroying the barricade 30 sec <!>",
+      "JP": "!<＞バリケードを破壊 -- 30sec !<>",
+      "CN": "<!> 破壞路障中 -- 耗時30秒<!>",
+      "KR": "<!> 장벽 파괴 -- 30초 경과 <!>",
+      "TW": "<!> 破壞路障 30 秒 <!>"
+    }
   },
   "<!> バリケードを破壊 -- Destroying the barricade 40 sec <!>": {
-    "translation": "<!>破坏路障:40秒<!>"
+    "translation": "<!>破坏路障:40秒<!>",
+    "MultiLang": {
+      "US": "<!> Barikadei o Hakai -- Destroying the barricade 40 sec <!>",
+      "JP": "!<＞バリケードを破壊 -- バリケードを40秒で破壊 <!>",
+      "CN": "<!> 破壞路障中 -- 耗時40秒<!>",
+      "KR": "<!> 장벽 파괴 -- 40초 경과 <!>",
+      "TW": "<!> 破壞路障 40 秒 <!>"
+    }
   },
   "<!> 人間たちは脱出した -- The humans escaped <!>": {
-    "translation": "<!> 人类逃脱 翻译：Asteri3m <!>"
+    "translation": "<!> 人类逃脱 翻译：Asteri3m <!>",
+    "MultiLang": {
+      "US": "<!> Ningen-tachi wa Dasshutsu shita -- The humans escaped <!>",
+      "JP": "<!> 人間たちは脱出した -- ヒューマンズ・エスケープッド <!>",
+      "CN": "<!> 人類已逃脫<!>",
+      "KR": "<!> 인간들이 탈출했다 <!>",
+      "TW": "<!> 人類逃脫成功 <!>"
+    }
   },
   "<!> 古びたレコードを再生した <!>": {
-    "translation": "<!>播放了古老的唱片<!>"
+    "translation": "<!>播放了古老的唱片<!>",
+    "MultiLang": {
+      "US": "<!> Furubita rekōdo o Saikai shita <!>",
+      "JP": "",
+      "CN": "<!> 播放了舊唱片<!>",
+      "KR": "<!> 낡은 레코드 재생 완료 <!>",
+      "TW": "<!> 播放老式唱片 <!>"
+    }
   },
   "<!> 最後の防衛だ -- This is the last defense 10 sec <!>": {
-    "translation": "<!>这是最后的防守:10秒<!>"
+    "translation": "<!>这是最后的防守:10秒<!>",
+    "MultiLang": {
+      "US": "<!> Sai no Bōei da -- This is the last defense 10 sec <!>",
+      "JP": "!<> 最後の防衛だ -- これは最後の防御 10 sec <!>",
+      "CN": "<!> 最後一輪防禦 -- 耗時10秒<!>",
+      "KR": "<!> 마지막 방어 -- 10초 경과 <!>",
+      "TW": "<!> 最後的防衛 10 秒 <!>"
+    }
   },
   "<!> 最後の防衛だ -- This is the last defense 40 sec <!>": {
-    "translation": "<!>这是最后的防守:40秒<!>"
+    "translation": "<!>这是最后的防守:40秒<!>",
+    "MultiLang": {
+      "US": "<!> Sai no Bōei da -- This is the last defense 40 sec <!>",
+      "JP": "<!> 最後の防衛だ --これは最後の防御 40sec <!>",
+      "CN": "<!> 最後一輪防禦 -- 耗時40秒<!>",
+      "KR": "<!> 마지막 방어 -- This is the last defense 40 sec <!>",
+      "TW": "<!> 最後防衛 -- 這是最後的防禦 40 秒 <!>"
+    }
+  },
+  "<!> バリケードを破壊 -- Destroying the barricade 20 sec <!>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<!> Barikadei o Hakai -- Destroying the barricade 20 sec <!>",
+      "JP": "<!>バリケードを破壊 -- 20sec <!>",
+      "CN": "<!> 破坏路障 -- 摧毁路障还需20秒 <!>",
+      "KR": "<!> 벙커 파괴 -- Destroying the barricade 20 sec <!>",
+      "TW": "<!> 破壞路障 -- 摧毀路障 20 秒 <!>"
+    }
+  },
+  "<!> 激痛を習得した！ -- ZM skill : sharp pain <!>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<!> Acquired Sharp Pain! -- ZM skill: sharp pain <!>",
+      "JP": "<!> 激痛を習得了！ -- ZM 技能 : 激痛 <!>",
+      "CN": "<!> 习得技能：剧痛 -- ZM技能：剧烈疼痛 <!>",
+      "KR": "<!> 급통증을 습득했다! -- ZM skill : sharp pain <!>",
+      "TW": "<!> 習得劇痛！ -- ZM 技能：劇痛 <!>"
+    }
+  },
+  "<!> Music : Lost_Painting <!>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<!> Music : Lost_Painting <!>",
+      "CN": "<!> 音乐：迷画之境（Lost_Painting） <!>",
+      "KR": "<!> Music : Lost_Painting <!>",
+      "TW": "<!> 音樂：失落的繪畫 <!>"
+    }
+  },
+  "<!> Changed to English translation. <!>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<!> 英語翻訳に変更されました。<!>",
+      "CN": "<!> 已更改为英文翻译。<!>",
+      "KR": "<!> Changed to English translation. <!>",
+      "TW": "<!> 已切換為英文翻譯。 <!>"
+    }
+  },
+  "\"Ghost girl :\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "幽霊少女 :",
+      "CN": "\"幽灵少女：\"",
+      "KR": "\"유령 소녀:\"",
+      "TW": "\"幽靈女孩：\""
+    }
+  },
+  "\"「I don't know how long I've been here...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「どれくらいの期間ここにいるのか…わからない…」",
+      "CN": "\"我不知道在这里待了多久…\"",
+      "KR": "\"얼마나 여기에 있었는지 모르겠어...\"",
+      "TW": "\"「我不知道我已經在這裡待了多久……」\""
+    }
+  },
+  "\"「I don't even know why I'm dead...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「自分がなぜ死んだのかも…わからない…）」",
+      "CN": "\"我甚至不知道自己为什么死了…\"",
+      "KR": "\"내가 왜 죽었는지도 잘 모르겠어...\"",
+      "TW": "\"「我甚至不知道自己為什麼死了……」\""
+    }
+  },
+  "\"「If there's one thing I know...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「私が知ってることの一つがある……」",
+      "CN": "\"如果有一件事是清楚的……\"",
+      "KR": "\"하나만 알 수 있는 게 있다면…\"",
+      "TW": "「如果有一件事我可以確定……」"
+    }
+  },
+  "\"「I mean I have to go to the Watagi Tunnel...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「つまり、私は和氣トンネルに行かなきゃならない……」",
+      "CN": "「我的意思是我必须去渡部隧道……」",
+      "KR": "\"내가 와타기 터널에 가야 한다는 거지…\"",
+      "TW": "「我的意思是，我非得去和我那隧道不可……」"
+    }
+  },
+  "\"「Because there might be something there to get to know me...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「なぜなら、私を知るための何かがそこにあるかもしれないから……」",
+      "CN": "「因为那里可能有了解我的东西……」",
+      "KR": "\"왜냐하면, 나를 알아줄 무언가가 있을지도 모르니까…\"",
+      "TW": "「因為那裡可能有什麼讓我更了解自己……」"
+    }
+  },
+  "\"「This place was a sanatorium...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「ここは療養所だった……」",
+      "CN": "「这个地方以前是疗养院……」",
+      "KR": "\"이 곳은 요양원이었어…\"",
+      "TW": "「這地方曾經是一家療養院……」"
+    }
+  },
+  "\"「For some reason, I feel at home here...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「なぜか、ここで落ち着く気がする……」",
+      "CN": "「不知道为什么，我觉得这里很有家的感觉……」",
+      "KR": "유독 이 곳에서 친근함을 느껴…\"",
+      "TW": "「不知為何，我覺得這裡很有家的感覺……」"
+    }
+  },
+  "\"「This is an old air-raid shelter...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「これは古い防空壕だ……」",
+      "CN": "「这是一个旧的防空洞……」",
+      "KR": "\"이것은 오래된 공습 대피소야…\"",
+      "TW": "「這是一個舊的防空洞……」"
+    }
+  },
+  "\"「To me it feels like the whole area is on fire...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「私には、ここ全体が火事の中にいるように感じる……」",
+      "CN": "「对我来说，感觉整个区域都在燃烧……」",
+      "KR": "나한테는 전체가 불타고 있는 것 같아…\"",
+      "TW": "「對我來說，感覺整個地區都在燃燒……」"
+    }
+  },
+  "\"「Was this some kind of ceremonial place...?」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「これは何らかの儀式用の場所だったのか……？」",
+      "CN": "「这里曾经是某种仪式场所吗……？」",
+      "KR": "\"어떤 의식이 있던 곳이었나?\"",
+      "TW": "「這裡曾經是某種儀式場所嗎……？」"
+    }
+  },
+  "\"「There might be a way to get to the tunnel from here...」\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「ここから洞窟に至る方法があるはずだ…」",
+      "CN": "「也许从这里可以找到通往隧道的路……」",
+      "KR": "\"여기서 터널로 들어갈 수 있는 길이 있을지도 모릅니다...\"",
+      "TW": "「這裡也許有通往隧道的方法……」"
+    }
   }
 }

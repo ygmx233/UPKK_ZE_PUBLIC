@@ -1,29 +1,92 @@
 {
   "> NUKE exploding in 10 sec<": {
-    "translation": "> 核弹将在10秒内爆炸 <"
+    "translation": "> 核弹将在10秒内爆炸 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 核爆発まであと10秒<",
+      "CN": "核弹将在10秒后爆炸",
+      "KR": "> NUKE 10초 후 폭발<",
+      "TW": "核彈将在10秒后爆炸"
+    }
   },
   "> NUKE exploding in 50 sec<": {
-    "translation": "> 核弹将在50秒内爆炸 <"
+    "translation": "> 核弹将在50秒内爆炸 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 核爆発まであと50秒<",
+      "CN": "核弹将在50秒后爆炸",
+      "KR": "> NUKE 50초 후 폭발<",
+      "TW": "核彈将在50秒后爆炸"
+    }
   },
   "> Use the console to launch nuke <": {
-    "translation": "> 使用控制台发射核弹 <"
+    "translation": "> 使用控制台发射核弹 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> コンソールを使って核ミサイルを発射せよ <",
+      "CN": "使用控制台发射核弹",
+      "KR": "> 콘솔을 사용하여 핵폭탄 발사<",
+      "TW": "使用控制台发射核弹"
+    }
   },
   ">Bars will break in 30 sec<": {
-    "translation": "> 栏杆将在30秒内断裂 <"
+    "translation": "> 栏杆将在30秒内断裂 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> バーの破損まであと30秒<",
+      "CN": "栅栏将在30秒后损坏",
+      "KR": "> 바 30초 후 파손<",
+      "TW": "门将在30秒后损坏"
+    }
   },
   ">Boat leaving in 60 sec<": {
-    "translation": "> 船将在60秒内离开 <"
+    "translation": "> 船将在60秒内离开 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 船の発射まであと60秒<",
+      "CN": "船只将于60秒后离港",
+      "KR": "> 보트 60초 후 출발<",
+      "TW": "船将在60秒后离港"
+    }
   },
   ">Door will break in 30 sec<": {
-    "translation": "> 门将在30秒内破裂 <"
+    "translation": "> 门将在30秒内破裂 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ドアの破損まであと30秒<",
+      "CN": "门将在30秒后损坏",
+      "KR": "> 문 30초 후 파손<",
+      "TW": "门将在30秒后损坏"
+    }
   },
   ">Get in the boat!!!<": {
-    "translation": "> 上船！！！ 翻译：Asteri3m <"
+    "translation": "> 上船！！！ 翻译：Asteri3m <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 船に乗れ！！！<",
+      "CN": "快上船！！！",
+      "KR": "> 보트에 타세요!!!<",
+      "TW": "快上船！！！<br/>"
+    }
   },
   ">Wing will break in 10 sec<": {
-    "translation": "> 机翼将在10秒内破裂 <"
+    "translation": "> 机翼将在10秒内破裂 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ウィングの破損まであと10秒<",
+      "CN": "机翼将在10秒后损坏",
+      "KR": "> 날개 10초 후 파손<",
+      "TW": "机翼将在10秒后损坏"
+    }
   },
   ">Wing will break in 30 sec<": {
-    "translation": "> 机翼将在30秒内破裂 <"
+    "translation": "> 机翼将在30秒内破裂 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "翼が30秒後に壊れます",
+      "CN": ">翅膀将在30秒后断裂<",
+      "KR": ">Wing 30초 후 파손<",
+      "TW": "< wings 將在30秒後斷裂>"
+    }
   }
 }

@@ -1,0 +1,492 @@
+{
+  "Big Gate Opening | 20 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "大扉オープン | 20秒",
+      "CN": "大门开启 | 20秒",
+      "KR": "대문 개방 | 20초",
+      "TW": "大閘開啟中｜20秒"
+    }
+  },
+  "Big Gate Opening | 15 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "大扉オープン | 15秒",
+      "CN": "大门开启 | 15秒",
+      "KR": "대문 개방 | 15초",
+      "TW": "大閘開啟中｜15秒"
+    }
+  },
+  "Big Gate Opening | 10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "大扉オープン | 10秒",
+      "CN": "大门开启 | 10秒",
+      "KR": "대문 개방 | 10초",
+      "TW": "大閘開啟中｜10秒"
+    }
+  },
+  "Big Gate Opening | 5 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "大扉オープン | 5秒",
+      "CN": "大门开启 | 5秒",
+      "KR": "대문 개방 | 5초",
+      "TW": "大閘開啟中｜5秒"
+    }
+  },
+  "Big Gate Opening | 0 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "大扉オープン | 0秒",
+      "CN": "大门开启 | 0秒",
+      "KR": "대문 개방 | 0초",
+      "TW": "大閘開啟中｜0秒"
+    }
+  },
+  "White Gate Opening | 30 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "白扉オープン | 30秒",
+      "CN": "白门开启 | 30秒",
+      "KR": "백색 관문 개방 | 30초",
+      "TW": "白門開啟中｜30秒"
+    }
+  },
+  "White Gate Opening | 25 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "白扉オープン | 25秒",
+      "CN": "白门开启 | 25秒",
+      "KR": "백색 관문 개방 | 25초",
+      "TW": "白門開啟中｜25秒"
+    }
+  },
+  "1/2 Big Glass Breaking | 4 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "1/2 割れガラス | 4秒",
+      "CN": "1/2大块玻璃破碎 | 4秒",
+      "KR": "유리벽 파쇄 1/2 | 4초",
+      "TW": "大型玻璃破碎｜4秒"
+    }
+  },
+  "White Gate Opening | 20 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ホワイトゲート開放 | 20秒",
+      "CN": "白门开启 | 20秒",
+      "KR": "흰 문 열림 | 20초",
+      "TW": "白門開啟 | 20 秒"
+    }
+  },
+  "White Gate Opening | 15 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ホワイトゲート開放 | 15秒",
+      "CN": "白门开启 | 15秒",
+      "KR": "흰 문 열림 | 15초",
+      "TW": "白門開啟 | 15 秒"
+    }
+  },
+  "White Gate Opening | 10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ホワイトゲート開放 | 10秒",
+      "CN": "白门开启 | 10秒",
+      "KR": "흰 문 열림 | 10초",
+      "TW": "白門開啟 | 10 秒"
+    }
+  },
+  "White Gate Opening | 5 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ホワイトゲート開放 | 5秒",
+      "CN": "白门开启 | 5秒",
+      "KR": "흰 문 열림 | 5초",
+      "TW": "白門開啟 | 5 秒"
+    }
+  },
+  "White Gate Opening | 0 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ホワイトゲート開放 | 0秒",
+      "CN": "白门开启 | 0秒",
+      "KR": "흰 문 열림 | 0초",
+      "TW": "白門開啟 | 0 秒"
+    }
+  },
+  "1/1 Small Gate Opening | 4 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "小サイズ1/1の白いゲート開放 | 4秒",
+      "CN": "小门1/1开启 | 4秒",
+      "KR": "작은 흰 문 열림 | 4초",
+      "TW": "1/1 小門開啟 | 4 秒"
+    }
+  },
+  "Gray Door Opening | 30 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレー扉開放 | 30秒",
+      "CN": "灰门开启 | 30秒",
+      "KR": "회색 문 열림 | 30초",
+      "TW": "灰門開啟 | 30 秒"
+    }
+  },
+  "Gray Door Opening | 25 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレー扉開放 | 25秒",
+      "CN": "灰门开启 | 25秒",
+      "KR": "회색 문 열림 | 25초",
+      "TW": "灰門開啟 | 25 秒"
+    }
+  },
+  "Gray Door Opening | 20 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレー扉開門 | 20秒",
+      "CN": "灰门开启 | 20秒",
+      "KR": "회색 문 열림 | 20초",
+      "TW": "灰門開啟 | 20秒"
+    }
+  },
+  "Gray Door Opening | 15 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレー扉開門 | 15秒",
+      "CN": "灰门开启 | 15秒",
+      "KR": "회색 문 열림 | 15초",
+      "TW": "灰門開啟 | 15秒"
+    }
+  },
+  "Gray Door Opening | 10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレー扉開門 | 10秒",
+      "CN": "灰门开启 | 10秒",
+      "KR": "회색 문 열림 | 10초",
+      "TW": "灰門開啟 | 10秒"
+    }
+  },
+  "Gray Door Opening | 5 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレー扉開門 | 5秒",
+      "CN": "灰门开启 | 5秒",
+      "KR": "회색 문 열림 | 5초",
+      "TW": "灰門開啟 | 5秒"
+    }
+  },
+  "Gray Door Opening | 0 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレー扉開門 | 0秒",
+      "CN": "灰门开启 | 0秒",
+      "KR": "회색 문 열림 | 0초",
+      "TW": "灰門開啟 | 0秒"
+    }
+  },
+  "1/2 Glow Red Target Teleport [ZM] | 10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "1/2 グロー赤ターゲットテレポーション [ZM] | 10秒",
+      "CN": "1/2红光目标传送 [ZM] | 10秒",
+      "KR": "1/2 글로우 레드 타겅 텔레포트 [ZM] | 10초",
+      "TW": "1/2 紅光目標傳送 [ZM] | 10秒"
+    }
+  },
+  "Metal Fence Opening | 20 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "金属フェンス開門 | 20秒",
+      "CN": "金属栅栏开启 | 20秒",
+      "KR": "금속 울타리 열림 | 20초",
+      "TW": "金屬柵欄開啟 | 20秒"
+    }
+  },
+  "Metal Fence Opening | 15 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "金属フェンス開門 | 15秒",
+      "CN": "金属栅栏开启 | 15秒",
+      "KR": "금속 울타리 열림 | 15초",
+      "TW": "金屬柵欄開啟 | 15秒"
+    }
+  },
+  "Metal Fence Opening | 10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "金属フェンスの開放 | 10秒",
+      "CN": "金属栅栏开启 | 10秒",
+      "KR": "금속 울타리 개방 | 10초",
+      "TW": "金屬柵欄開啟 | 10秒"
+    }
+  },
+  "Metal Fence Opening | 5 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "金属フェンスの開放 | 5秒",
+      "CN": "金属栅栏开启 | 5秒",
+      "KR": "금속 울타리 개방 | 5초",
+      "TW": "金屬柵欄開啟 | 5秒"
+    }
+  },
+  "Metal Fence Opening | 0 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "金属フェンスの開放 | 0秒",
+      "CN": "金属栅栏开启 | 0秒",
+      "KR": "금속 울타리 개방 | 0초",
+      "TW": "金屬柵欄開啟 | 0秒"
+    }
+  },
+  "Pink Glass Opening | 30 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ピンクガラスの開放 | 30秒",
+      "CN": "粉色玻璃开启 | 30秒",
+      "KR": "핑크 유리 개방 | 30초",
+      "TW": "粉紅玻璃開啟 | 30秒"
+    }
+  },
+  "Pink Glass Opening | 25 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ピンクガラスの開放 | 25秒",
+      "CN": "粉色玻璃开启 | 25秒",
+      "KR": "핑크 유리 개방 | 25초",
+      "TW": "粉紅玻璃開啟 | 25秒"
+    }
+  },
+  "Pink Glass Opening | 20 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ピンクガラスの開放 | 20秒",
+      "CN": "粉色玻璃开启 | 20秒",
+      "KR": "핑크 유리 개방 | 20초",
+      "TW": "粉紅玻璃開啟 | 20秒"
+    }
+  },
+  "Pink Glass Opening | 15 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ピンクガラスの開放 | 15秒",
+      "CN": "粉色玻璃开启 | 15秒",
+      "KR": "핑크 유리 개방 | 15초",
+      "TW": "粉紅玻璃開啟 | 15秒"
+    }
+  },
+  "Pink Glass Opening | 10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ピンクガラスの開放 | 10秒",
+      "CN": "粉色玻璃开启 | 10秒",
+      "KR": "핑크 유리 개방 | 10초",
+      "TW": "粉紅玻璃開啟 | 10秒"
+    }
+  },
+  "Pink Glass Opening | 5 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ピンクガラス開場 | 5秒",
+      "CN": "粉红玻璃开启 | 5秒",
+      "KR": "핑크 글래스 오프닝 | 5초",
+      "TW": "粉紅玻璃開啟 | 5秒"
+    }
+  },
+  "Pink Glass Opening | 0 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ピンクガラス開場 | 0秒",
+      "CN": "粉红玻璃开启 | 0秒",
+      "KR": "핑크 글래스 오프닝 | 0초",
+      "TW": "粉紅玻璃開啟 | 0秒"
+    }
+  },
+  "Portal Opening | 20 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポータル開場 | 20秒",
+      "CN": "传送门开启 | 20秒",
+      "KR": "포털 오프닝 | 20초",
+      "TW": "傳送門開啟 | 20秒"
+    }
+  },
+  "Portal Opening | 15 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポータル開場 | 15秒",
+      "CN": "传送门开启 | 15秒",
+      "KR": "포털 오프닝 | 15초",
+      "TW": "傳送門開啟 | 15秒"
+    }
+  },
+  "Portal Opening [Stay in Particle Effect] | 10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポータル開場 [粒子エフェクト継続] | 10秒",
+      "CN": "传送门开启 [停留粒子特效] | 10秒",
+      "KR": "포털 오프닝 [파티클 효과 유지] | 10초",
+      "TW": "傳送門開啟 [粒子特效持續] | 10秒"
+    }
+  },
+  "Portal Opening [Stay in Particle Effect] | 5 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポータル開場 [粒子エフェクト継続] | 5秒",
+      "CN": "传送门开启 [停留粒子特效] | 5秒",
+      "KR": "포털 오프닝 [파티클 효과 유지] | 5초",
+      "TW": "傳送門開啟 [粒子特效持續] | 5秒"
+    }
+  },
+  "Portal Opening [Stay in Particle Effect] | 0 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポータル開場 [粒子エフェクト継続] | 0秒",
+      "CN": "传送门开启 [停留粒子特效] | 0秒",
+      "KR": "포털 오프닝 [파티클 효과 유지] | 0초",
+      "TW": "傳送門開啟 [粒子特效持續] | 0秒"
+    }
+  },
+  "Just Survival | 30 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "単なるサバイバル | 30秒",
+      "CN": "生存模式 | 30秒",
+      "KR": "쫄면 스테이지 클리어 | 30초",
+      "TW": "純粹生存 | 30秒"
+    }
+  },
+  "Just Survival | 25 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サバイバルのみ | 25秒",
+      "CN": "生存模式 | 25秒",
+      "KR": "단순 생존 | 25초",
+      "TW": "僅生存模式 | 25秒"
+    }
+  },
+  "Just Survival | 20 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サバイバルのみ | 20秒",
+      "CN": "生存模式 | 20秒",
+      "KR": "단순 생존 | 20초",
+      "TW": "僅生存模式 | 20秒"
+    }
+  },
+  "Just Survival | 15 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サバイバルのみ | 15秒",
+      "CN": "生存模式 | 15秒",
+      "KR": "단순 생존 | 15초",
+      "TW": "僅生存模式 | 15秒"
+    }
+  },
+  "Just Survival | 10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サバイバルのみ | 10秒",
+      "CN": "生存模式 | 10秒",
+      "KR": "단순 생존 | 10초",
+      "TW": "僅生存模式 | 10秒"
+    }
+  },
+  "Just Survival | 5 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サバイバルのみ | 5秒",
+      "CN": "生存模式 | 5秒",
+      "KR": "단순 생존 | 5초",
+      "TW": "僅生存模式 | 5秒"
+    }
+  },
+  "Just Survival | 0 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サバイバルのみ | 0秒",
+      "CN": "生存模式 | 0秒",
+      "KR": "단순 생존 | 0초",
+      "TW": "僅生存模式 | 0秒"
+    }
+  },
+  "Nice Team! - Thanks For Playing Map": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "良い協力！ - マップをプレイしていただきありがとう",
+      "CN": "队伍配合不错！——感谢游玩此地图",
+      "KR": "훌륭한 팀워크! - 맵을 즐겼습니다",
+      "TW": "團隊合作無間！感謝遊玩此地圖"
+    }
+  },
+  "Map Made By: MUHAMMETS7": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作者: MUHAMMETS7",
+      "CN": "地图制作者：MUHAMMETS7",
+      "KR": "맵 제작자: MUHAMMETS7",
+      "TW": "地圖作者：MUHAMMETS7"
+    }
+  },
+  "2/2 Big Glass Breaking | 4 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "2/2 割れやすい大きなガラス | 4秒",
+      "CN": "2/2 大型玻璃破碎 | 4秒",
+      "KR": "유리 유리 2/2 | 4초",
+      "TW": "2/2 大型玻璃破壞 | 4 秒"
+    }
+  }
+}

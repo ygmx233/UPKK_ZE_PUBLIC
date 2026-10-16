@@ -1,26 +1,82 @@
 {
   "Pause for 20 seconds": {
-    "translation": "暂停20秒"
+    "translation": "暂停20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間ポーズ",
+      "CN": "暂停20秒",
+      "KR": "20초간 일시정지",
+      "TW": "暫停 20 秒"
+    }
   },
   "Pause for 25 seconds": {
-    "translation": "暂停25秒"
+    "translation": "暂停25秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間ポーズ",
+      "CN": "暂停25秒",
+      "KR": "25초간 일시정지",
+      "TW": "暫停 25 秒"
+    }
   },
   "Pause for 15 seconds": {
-    "translation": "暂停15秒"
+    "translation": "暂停15秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間ポーズ",
+      "CN": "暂停15秒",
+      "KR": "15초간 일시정지",
+      "TW": "暫停 15 秒"
+    }
   },
   "Final pause for 60 seconds": {
-    "translation": "暂停60秒"
+    "translation": "暂停60秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の60秒間ポーズ",
+      "CN": "最终暂停60秒",
+      "KR": "마지막 정지 60초",
+      "TW": "最後一次暫停 60 秒"
+    }
   },
   "30 seconds left": {
-    "translation": "剩余30秒"
+    "translation": "剩余30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り30秒",
+      "CN": "剩余30秒",
+      "KR": "30초 남음",
+      "TW": "剩餘 30 秒"
+    }
   },
   "10 seconds left": {
-    "translation": "剩余10秒"
+    "translation": "剩余10秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒",
+      "CN": "剩余10秒",
+      "KR": "10초 남음",
+      "TW": "剩餘 10 秒"
+    }
   },
   ". . .": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "! ! !": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   }
 }

@@ -1,0 +1,632 @@
+{
+  "- 10S后僵尸出笼 -": {
+    "translation": "- 10秒后僵尸出笼 -",
+    "MultiLang": {
+      "US": "- Zombies spawn in 10S -",
+      "JP": "- 10秒後にゾンビが解放 -",
+      "CN": "- 10秒后僵尸出笼 -",
+      "KR": "- 좀비가 출현하는 데 10초 걸림 -",
+      "TW": "- 10秒後殭屍出籠 -"
+    }
+  },
+  "- 15 -": {
+    "translation": "- 15秒 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "- 15秒 -",
+      "KR": "4. 오역 또는 과역은 작업 실패视图模式",
+      "TW": ""
+    }
+  },
+  "- 15S后僵尸出笼 -": {
+    "translation": "- 15秒后僵尸出笼 -",
+    "MultiLang": {
+      "US": "- Zombies spawn in 15S -",
+      "JP": "- 15秒後にゾンビが解放 -",
+      "CN": "- 15秒后僵尸出笼 -",
+      "KR": "- 좀비가 출현하는 데 15초 걸림 -",
+      "TW": "- 15秒後殭屍出籠 -"
+    }
+  },
+  "- 20 -": {
+    "translation": "- 20秒 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "- 20秒 -",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 20S后僵尸出笼 -": {
+    "translation": "- 20秒后僵尸出笼 -",
+    "MultiLang": {
+      "US": "- Zombies spawn in 20S -",
+      "JP": "- 20秒後にゾンビが解放 -",
+      "CN": "- 20秒后僵尸出笼 -",
+      "KR": "- 좀비가 출현하는 데 20초 걸림 -",
+      "TW": "- 20秒後殭屍出籠 -"
+    }
+  },
+  "- 25 -": {
+    "translation": "- 25秒 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "- 25秒 -",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 30S后启用传送门 -": {
+    "translation": "- 30秒后启用传送门 -",
+    "MultiLang": {
+      "US": "- Portal activates in 30S -",
+      "JP": "- 30秒後にポータル有効化 -",
+      "CN": "- 30秒后启用传送门 -",
+      "KR": "- 포트홀 개방까지 30초 -",
+      "TW": "- 30秒後啟用傳送門 -"
+    }
+  },
+  "- 50 -": {
+    "translation": "- 50秒 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "- 50秒 -",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 5S后传送 -": {
+    "translation": "- 5秒后传送 -",
+    "MultiLang": {
+      "US": "- Teleport in 5S -",
+      "JP": "- 5秒後に転送 -",
+      "CN": "- 5秒后传送 -",
+      "KR": "- 이동까지 5초 -",
+      "TW": "- 5秒後傳送 -"
+    }
+  },
+  "- 60 -": {
+    "translation": "- 60秒 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "- 60秒 -",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 七色花 -": {
+    "translation": "- 七色花 -",
+    "MultiLang": {
+      "US": "- Seven-Colored Flower -",
+      "JP": "- 七色花 -",
+      "CN": "- 七色花 -",
+      "KR": "- 일곱 빛깔 꽃 -",
+      "TW": "- 七色花 -"
+    }
+  },
+  "- 与四周颜色不同的板子会碎裂 -": {
+    "translation": "- 与四周颜色不同的板子会碎裂 -",
+    "MultiLang": {
+      "US": "- Panels differing from surrounding colors will shatter -",
+      "JP": "- 周囲の色と異なる板は破壊される -",
+      "CN": "- 与四周颜色不同的板子会碎裂 -",
+      "KR": "- 주변 색상과 다른 판자가 깨짐",
+      "TW": "- 與四周顏色不同的板子會碎裂 -"
+    }
+  },
+  "- 人类+20HP -": {
+    "translation": "- 人类+20HP -",
+    "MultiLang": {
+      "US": "- Humans +20HP -",
+      "JP": "- ヒューマン+20HP -",
+      "CN": "- 人类+20HP -",
+      "KR": "- 인간 +20체력 -",
+      "TW": "- 人類+20HP -"
+    }
+  },
+  "- 人类-20HP -": {
+    "translation": "- 人类-20HP -",
+    "MultiLang": {
+      "US": "- Human -20HP -",
+      "JP": "- 人類-20HP -",
+      "CN": "- 人类-20HP -",
+      "KR": "- 휴한민 -20HP -",
+      "TW": "- 人類 -20HP -"
+    }
+  },
+  "- 人类登顶 -": {
+    "translation": "- 人类登顶 -",
+    "MultiLang": {
+      "US": "- Human Tops the Peak -",
+      "JP": "- 人類頂点 -",
+      "CN": "- 人类登顶 -",
+      "KR": "- 휴한민 정상 도달 -",
+      "TW": "- 人類登頂 -"
+    }
+  },
+  "- 人类胜利 -": {
+    "translation": "- 人类胜利 -",
+    "MultiLang": {
+      "US": "- Human Victory -",
+      "JP": "- 人類勝利 -",
+      "CN": "- 人类胜利 -",
+      "KR": "- 휴한민 승리 -",
+      "TW": "- 人類獲勝 -"
+    }
+  },
+  "- 人类阵营+20HP -": {
+    "translation": "- 人类阵营+20HP -",
+    "MultiLang": {
+      "US": "- Human Faction +20HP -",
+      "JP": "- 人類陣営+20HP -",
+      "CN": "- 人类阵营+20HP -",
+      "KR": "- 휴한민 진영 +20HP -",
+      "TW": "- 人類陣營 +20HP -"
+    }
+  },
+  "- 人类阵营-20HP -": {
+    "translation": "- 人类阵营-20HP -",
+    "MultiLang": {
+      "US": "- Human Faction -20HP -",
+      "JP": "- 人類陣営-20HP -",
+      "CN": "- 人类阵营-20HP -",
+      "KR": "- 휴한민 진영 -20HP -",
+      "TW": "- 人類陣營 -20HP -"
+    }
+  },
+  "- 人类阵营全军覆没 -": {
+    "translation": "- 人类阵营全军覆没 -",
+    "MultiLang": {
+      "US": "- Human Faction Annihilated -",
+      "JP": "- 人類陣営全滅 -",
+      "CN": "- 人类阵营全军覆没 -",
+      "KR": "- 휴한민 진영 전멸 -",
+      "TW": "- 人類陣營全軍覆沒 -"
+    }
+  },
+  "- 僵尸射手 -": {
+    "translation": "- 僵尸射手 -",
+    "MultiLang": {
+      "US": "- Zombie Archer -",
+      "JP": "- ゾンビ射手 -",
+      "CN": "- 僵尸射手 -",
+      "KR": "- 좀비 사수 -",
+      "TW": "- 殭屍射手 -"
+    }
+  },
+  "- 僵尸登顶 -": {
+    "translation": "- 僵尸登顶 -",
+    "MultiLang": {
+      "US": "- Zombie Tops the Peak -",
+      "JP": "- ゾンビ頂点 -",
+      "CN": "- 僵尸登顶 -",
+      "KR": "- 좀비 정상 도달 -",
+      "TW": "- 殭屍登頂 -"
+    }
+  },
+  "- 僵尸胜利 -": {
+    "translation": "- 僵尸胜利 -",
+    "MultiLang": {
+      "US": "- Zombies Win -",
+      "JP": "僵尸の勝利",
+      "CN": "- 僵尸胜利 -",
+      "KR": "- 좀비 승리 -",
+      "TW": "- 殭屍勝利 -"
+    }
+  },
+  "- 僵尸阵营全军覆没 -": {
+    "translation": "- 僵尸阵营全军覆没 -",
+    "MultiLang": {
+      "US": "- Zombie Team Eliminated -",
+      "JP": "僵尸陣営壊滅",
+      "CN": "- 僵尸阵营全军覆没 -",
+      "KR": "- 좀진 진영 전체 제거 -",
+      "TW": "- 殭屍陣營全軍覆沒 -"
+    }
+  },
+  "- 即将返回小屋 -": {
+    "translation": "- 即将返回小屋 -",
+    "MultiLang": {
+      "US": "- Returning to the Cabin -",
+      "JP": "小屋へ戻ります",
+      "CN": "- 即将返回小屋 -",
+      "KR": "- 작약소로 반환 예정 -",
+      "TW": "- 即將返回小屋 -"
+    }
+  },
+  "- 在时限内到达终点 -": {
+    "translation": "- 在时限内到达终点 -",
+    "MultiLang": {
+      "US": "- Reach the endpoint within the time limit -",
+      "JP": "時間内にゴールに到達する",
+      "CN": "- 在时限内到达终点 -",
+      "KR": "- 시간 내에 도착점 도달 -",
+      "TW": "- 在時限內到達終點 -"
+    }
+  },
+  "- 在时限内，用手雷命中移动方块，并达到规定次数 -": {
+    "translation": "- 在时限内，用手雷命中移动方块，并达到规定次数 -",
+    "MultiLang": {
+      "US": "- Within the time limit, hit the moving block with grenades and achieve the required number of times -",
+      "JP": "制限時間内に手榴弾で移動ブロックを命中させ、指定回数に達する",
+      "CN": "- 在时限内，用手雷命中移动方块，并达到规定次数 -",
+      "KR": "- 정해진 시간 안에 수류를 사용해 이동하는 블록을 명중하고 정해진 횟수 달성 -",
+      "TW": "- 在時限內，用手榴彈命中移動方塊，並達到規定次數 -"
+    }
+  },
+  "- 小游戏时间 -": {
+    "translation": "- 小游戏时间 -",
+    "MultiLang": {
+      "US": "- Minigame Time -",
+      "JP": "ミニゲーム開始",
+      "CN": "- 小游戏时间 -",
+      "KR": "- 미니게임 시간 -",
+      "TW": "- 小遊戲時間 -"
+    }
+  },
+  "- 小游戏结束 -": {
+    "translation": "- 小游戏结束 -",
+    "MultiLang": {
+      "US": "- Minigame Ended -",
+      "JP": "ミニゲーム終了",
+      "CN": "- 小游戏结束 -",
+      "KR": "- 미니게임 종료 -",
+      "TW": "- 小遊戲結束 -"
+    }
+  },
+  "- 小游戏结束，正在修正血量 -": {
+    "translation": "- 小游戏结束，正在修正血量 -",
+    "MultiLang": {
+      "US": "- Minigame Ended, adjusting HP -",
+      "JP": "ミニゲーム終了、体力を補正中",
+      "CN": "- 小游戏结束，正在修正血量 -",
+      "KR": "- 미니게임 종료, 체력 보정 중 -",
+      "TW": "- 小遊戲結束，正在修正血量 -"
+    }
+  },
+  "- 小游戏结束，血量修正中 -": {
+    "translation": "- 小游戏结束，血量修正中 -",
+    "MultiLang": {
+      "US": "- Mini-game ended, health recalculating -",
+      "JP": "-ミニゲーム終了、HP調整中-",
+      "CN": "- 小游戏结束，血量修正中 -",
+      "KR": "- 미니게임 종료, 체력 보정 중 -",
+      "TW": "- 小遊戲結束，血量修正中 -"
+    }
+  },
+  "- 平局 -": {
+    "translation": "- 平局 -",
+    "MultiLang": {
+      "US": "- Draw -",
+      "JP": "-引分-",
+      "CN": "- 平局 -",
+      "KR": "- 무승부 -",
+      "TW": "- 平手 -"
+    }
+  },
+  "- 扔手雷 -": {
+    "translation": "- 扔手雷 -",
+    "MultiLang": {
+      "US": "- Throw grenade -",
+      "JP": "-手榴弾を投げる-",
+      "CN": "- 扔手雷 -",
+      "KR": "- 수류 투척 -",
+      "TW": "- 投擲手榴彈 -"
+    }
+  },
+  "- 按E拾取手雷 -": {
+    "translation": "- 按E拾取手雷 -",
+    "MultiLang": {
+      "US": "- Press E to pick up grenade -",
+      "JP": "-Eキーで手榴弾を拾う-",
+      "CN": "- 按E拾取手雷 -",
+      "KR": "- E를 눌러 수류탄 수집 -",
+      "TW": "- 按E拾起手榴彈 -"
+    }
+  },
+  "- 推力枪已被拾取 -": {
+    "translation": "- 推力枪已被拾取 -",
+    "MultiLang": {
+      "US": "- Grappling gun picked up -",
+      "JP": "-フォースガンがすでに使用済みです-",
+      "CN": "- 推力枪已被拾取 -",
+      "KR": "- 추진 총기 이미 수집됨 -",
+      "TW": "- 推進槍已被拾取 -"
+    }
+  },
+  "- 搭方块 -": {
+    "translation": "- 搭方块 -",
+    "MultiLang": {
+      "US": "- Stack blocks -",
+      "JP": "-ブロック組み立て-",
+      "CN": "- 搭方块 -",
+      "KR": "- 블록 쌓기 -",
+      "TW": "- 疊疊樂 -"
+    }
+  },
+  "- 无人幸存 -": {
+    "translation": "- 无人幸存 -",
+    "MultiLang": {
+      "US": "- No survivors -",
+      "JP": "-生存者なし-",
+      "CN": "- 无人幸存 -",
+      "KR": "- 생존자 없음 -",
+      "TW": "- 無人生還 -"
+    }
+  },
+  "- 未检测到玩家 -": {
+    "translation": "- 未检测到玩家 -",
+    "MultiLang": {
+      "US": "- Player not detected -",
+      "JP": "-プレイヤーを検出できません-",
+      "CN": "- 未检测到玩家 -",
+      "KR": "- 플레이어를 감지할 수 없음 -",
+      "TW": "- 未偵測到玩家 -"
+    }
+  },
+  "- 正在抽取小游戏 -": {
+    "translation": "- 正在抽取小游戏 -",
+    "MultiLang": {
+      "US": "- Drawing Mini Game -",
+      "JP": "- 小さなゲームを抽選中 -",
+      "CN": "- 正在抽取小游戏 -",
+      "KR": "- 미니 게임 로딩 중 -",
+      "TW": "- 正在抽取小遊戲 -"
+    }
+  },
+  "- 每一位人类玩家到达终点，人类阵营+5HP -": {
+    "translation": "- 每一位人类玩家到达终点，人类阵营+5HP -",
+    "MultiLang": {
+      "US": "- For every Human player reaching the finish line, Human Faction gains +5 HP -",
+      "JP": "- すべての人間プレイヤーがゴールに到達すれば、人間陣営+5HP -",
+      "CN": "- 每一位人类玩家到达终点，人类阵营+5HP -",
+      "KR": "- 모든 인간 플레이어가 종료 지점에 도달하면, 인간 진영 +5HP",
+      "TW": "- 每位人類玩家到達終點，人類陣營+5HP -"
+    }
+  },
+  "- 每一位僵尸玩家到达终点，人类阵营-5HP -": {
+    "translation": "- 每一位僵尸玩家到达终点，人类阵营-5HP -",
+    "MultiLang": {
+      "US": "- For every Zombie player reaching the finish line, Human Faction loses 5 HP -",
+      "JP": "- すべてのゾンビプレイヤーがゴールに到達すれば、人間陣営-5HP -",
+      "CN": "- 每一位僵尸玩家到达终点，人类阵营-5HP -",
+      "KR": "- 모든 좀비 플레이어가 종료 지점에 도달하면, 인간 진영 -5HP",
+      "TW": "- 每位殭屍玩家到達終點，人類陣營-5HP -"
+    }
+  },
+  "- 看谁滑的远 -": {
+    "translation": "- 看谁滑的远 -",
+    "MultiLang": {
+      "US": "- See Who Slides Farthest -",
+      "JP": "- 誰が一番遠くまで滑るか見てみよう -",
+      "CN": "- 看谁滑的远 -",
+      "KR": "- 누가 더 멀리 미끄러지는가?",
+      "TW": "- 看誰滑得遠 -"
+    }
+  },
+  "- 终点按E可重新滑一次 -": {
+    "translation": "- 终点按E可重新滑一次 -",
+    "MultiLang": {
+      "US": "- Press E at the finish line to slide again -",
+      "JP": "- ゴールでEキーを押すと、もう一度滑ることができます -",
+      "CN": "- 终点按E可重新滑一次 -",
+      "KR": "- E키를 눌러 다시 한 번 미끄러지기",
+      "TW": "- 到達終點按E可重新滑行一次 -"
+    }
+  },
+  "- 躲避僵尸从下方和四周发射的炮弹 -": {
+    "translation": "- 躲避僵尸从下方和四周发射的炮弹 -",
+    "MultiLang": {
+      "US": "- Dodge bullets fired by Zombies from below and all sides -",
+      "JP": "- 足元や周囲から撃ち込まれるゾンビの弾を避けましょう -",
+      "CN": "- 躲避僵尸从下方和四周发射的炮弹 -",
+      "KR": "- 좀비가 하단과 사방에서 발사하는 포탄 피하기",
+      "TW": "- 躲避殭屍從下方及四周發射的子彈 -"
+    }
+  },
+  "- 速降 -": {
+    "translation": "- 速降 -",
+    "MultiLang": {
+      "US": "- Speed Down -",
+      "JP": "- スキー滑走 -",
+      "CN": "- 速降 -",
+      "KR": "- 속도 감소 중",
+      "TW": "- 速降 -"
+    }
+  },
+  "- 雷杀失败 -": {
+    "translation": "- 雷杀失败 -",
+    "MultiLang": {
+      "US": "- Mine Kill Failed -",
+      "JP": "- 地雷による失敗 -",
+      "CN": "- 雷杀失败 -",
+      "KR": "- 폭탄 공격 실패",
+      "TW": "- 雷殺失敗 -"
+    }
+  },
+  "- 雷杀成功 -": {
+    "translation": "- 雷杀成功 -",
+    "MultiLang": {
+      "US": "- Leisha Attack Successful -",
+      "JP": "- 雷殺成功 -",
+      "CN": "- 雷杀成功 -",
+      "KR": "- 낙뢰 성공 -",
+      "TW": "- 雷殺成功 -"
+    }
+  },
+  "- 移动方块可被击碎 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Movable blocks can be shattered -",
+      "JP": "- 移動區塊可被擊碎 -",
+      "CN": "",
+      "KR": "- 이동 가능한 블록은 파괴 가능 -",
+      "TW": "- 移動方塊可被擊碎 -"
+    }
+  },
+  "- 每一位僵尸玩家到达终点，人类阵营-15HP -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- When every zombie player reaches the finish line, human team HP -15 -",
+      "JP": "- 每位殭屍玩家到達終點，人類陣營-15HP -",
+      "CN": "",
+      "KR": "- 각 좀비 플레이어가终点에 도달할 때마다 인간 진영 HP -15 -",
+      "TW": "- 每位殭屍玩家抵達終點，人類陣營HP-15 -"
+    }
+  },
+  "- 地图制作：咸自矜持 & 金轮的YR -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Map Design: Xianzijinchi & Jinlun's YR -",
+      "JP": "- 地圖製作：鹹自矜持 & 金輪的YR -",
+      "CN": "",
+      "KR": "- 맵 제작: 현자기지 및 금륜의 YR -",
+      "TW": "- 地圖製作：咸自矜持 & 金輪的YR -"
+    }
+  },
+  "- 猪猪炸弹 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Pig Bomb -",
+      "JP": "- 豬豬炸彈 -",
+      "CN": "",
+      "KR": "- 돼지 폭탄 -",
+      "TW": "- 豬豬炸彈 -"
+    }
+  },
+  "- 躲避猪头 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Dodge the pig head -",
+      "JP": "- 躲避豬頭 -",
+      "CN": "- 避免猪头 -",
+      "KR": "- 돼지 머리 피하기 -",
+      "TW": "- 躲避豬頭 -"
+    }
+  },
+  "- 被炸五次判为失败 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Being exploded five times counts as a failure -",
+      "JP": "- 被炸五次判為失敗 -",
+      "CN": "被炸5次判定失败",
+      "KR": "- 5회 폭발 시 패배 판정 -",
+      "TW": "- 被炸五次判定為失敗 -"
+    }
+  },
+  "- 1/6 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 2/6 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 3/6 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 4/6 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 5/6 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 6/6 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- 狂暴模式已加载 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Berserk Mode Loaded -",
+      "JP": "- 狂暴模式已加載 -",
+      "CN": "",
+      "KR": "- 광폭 모드 로드됨 -",
+      "TW": "- 狂暴模式已載入 -"
+    }
+  },
+  "- 看不见 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Invisible -",
+      "JP": "- 見えない -",
+      "CN": "",
+      "KR": "- 보이지 않음 -",
+      "TW": "- 看不見 -"
+    }
+  },
+  "- 不要和僵尸站同一块圆盘 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Don't stand on the same disc as the zombie -",
+      "JP": "- ゾンビと同じ円盤に立たないで -",
+      "CN": "",
+      "KR": "- 좀비와 같은 원판에 서지 마세요 -",
+      "TW": "- 不要和僵屍站同一塊圓盤 -"
+    }
+  },
+  "- 更不要不站圆盘 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- And don't stand off the discs -",
+      "JP": "- 円盤に立たないのもダメ -",
+      "CN": "",
+      "KR": "- 원판에 서지 않는 것은 더더욱 안 됩니다 -",
+      "TW": "- 更不要不站圓盤 -"
+    }
+  },
+  "- 请选择圆盘 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "- Please select a disc -",
+      "JP": "- 円盤を選んでください -",
+      "CN": "",
+      "KR": "- 원판을 선택해 주세요 -",
+      "TW": "- 請選擇圓盤 -"
+    }
+  }
+}

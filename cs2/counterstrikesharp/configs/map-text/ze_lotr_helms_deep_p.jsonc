@@ -1,104 +1,342 @@
 {
   "** Defend at fort! Hall door will open in 40s!**": {
-    "translation": "**防守堡垒！大厅门将在40秒后打开！**"
+    "translation": "**防守堡垒！大厅门将在40秒后打开！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "砦で防御しろ！門の扉は40秒後に開放される！",
+      "CN": "在堡垒中防守！城门将于40秒后开启！",
+      "KR": "** 요새에서 방어! 홀 문이 40초 후에 열립니다!**",
+      "TW": "在堡壘中防禦！大廳門將在 40 秒後開啟！"
+    }
   },
   "** Gate zone is out of control ** retreat NOW!**": {
-    "translation": "**门区失控了** 立即撤退！**"
+    "translation": "**门区失控了** 立即撤退！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートゾーンが制御不能！ただちに撤退しろ！",
+      "CN": "闸门区域失控，立即撤退！",
+      "KR": "** 문 구간 통제 불가** 지금 퇴각하세요!",
+      "TW": "閘區失控，立即撤退！"
+    }
   },
   "** Get safe in the fort! **": {
-    "translation": "**在堡垒中避险！**"
+    "translation": "**在堡垒中避险！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "砦内に避難せよ！",
+      "CN": "迅速进入堡垒确保安全！",
+      "KR": "** 요새로 대피!**",
+      "TW": "躲進堡壘中確保安全！"
+    }
   },
   "** Kill him! Stop the torch bearer!**": {
-    "translation": "**杀死他！阻止火炬手！**"
+    "translation": "**杀死他！阻止火炬手！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "倒せ！松明運搬者を止めるんだ！",
+      "CN": "击杀他！阻止举火炬者！",
+      "KR": "** 그를 죽여라! 횃불所持자를 막아라!**",
+      "TW": "殺了他！阻止持有火炬的人！"
+    }
   },
   "** Ladders! **": {
-    "translation": "**梯子！**"
+    "translation": "**梯子！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "梯子だ！",
+      "CN": "云梯！",
+      "KR": "** 사다리!**",
+      "TW": "雲梯！"
+    }
   },
   "** MAP BY HANNIBAL [SPA] (Rafuron) **": {
-    "translation": "**地图由HANNIBAL [SPA] (Rafuron) 制作 翻译：Asteri3m**"
+    "translation": "**地图由HANNIBAL [SPA] (Rafuron) 制作 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハンニバルの地図 [SPA]（ラフルロン）",
+      "CN": "汉尼拔的地图 [SPA] (Rafuron)",
+      "KR": "** 한니발의 지도 [SPA] (Rafuron) **",
+      "TW": "漢尼拔的地圖 [SPA] (Rafuron)"
+    }
   },
   "** Teleporting AFK to the cage in 30s **": {
-    "translation": "**30秒后将挂机玩家传送到笼子里**"
+    "translation": "**30秒后将挂机玩家传送到笼子里**",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKで30秒後に檻へテレポートする",
+      "CN": "30秒后将传送AFK至牢笼",
+      "KR": "** 30초 후 오프라인 상태로 케이지로 텔레포트**",
+      "TW": "30 秒後傳送回籠子的 AFK"
+    }
   },
   "** The door is closing in 10s **": {
-    "translation": "**门将在10秒后关闭**"
+    "translation": "**门将在10秒后关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は10秒後に閉まる",
+      "CN": "门将在10秒后关闭",
+      "KR": "** 문이 10초 후에 닫힙니다 **",
+      "TW": "門將在 10 秒後關閉"
+    }
   },
   "** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** ": {
-    "translation": "**他们突破了！城堡被攻破了！撤退！把他们带进堡垒！**"
+    "translation": "**他们突破了！城堡被攻破了！撤退！把他们带进堡垒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "突破された！城が陥落した！撤退だ！内側へ入れ！本丸まで入れ！",
+      "CN": "他们突破了！城门已破！撤退！把他们赶进内堡！进入主楼！",
+      "KR": "** 돌파했군! 성과가 무너졌어! 후퇴! 그들을 안으로 들이거라! 성옥으로!**",
+      "TW": "他們突破了！城堡被攻陷了！撤退！把他們帶進內部！進入主堡！"
+    }
   },
   "** Wall zone is out of control ** retreat NOW!**": {
-    "translation": "**城墙失守了** 立即撤退！**"
+    "translation": "**城墙失守了** 立即撤退！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁の防衛ラインが崩壊した。今すぐ撤退しろ！",
+      "CN": "城墙防线失控，立即撤退！",
+      "KR": "** 성벽 구간 통제 불가! 지금 즉시 후퇴하라!**",
+      "TW": "牆壁區域失控，立即撤退！"
+    }
   },
   "** for you shall receive none!**": {
-    "translation": "**你将一无所获！**"
+    "translation": "**你将一无所获！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "お前には何もない！",
+      "CN": "否则你将一无所获！",
+      "KR": "** 너희는 아무것도 받지 못하리라!**",
+      "TW": "因為你將不會收到任何補給！"
+    }
   },
   "**A zombie has passed the GATE! Kill him or think about start a retreat!**": {
-    "translation": "**一只僵尸通过了大门！杀死他或考虑开始撤退！**"
+    "translation": "**一只僵尸通过了大门！杀死他或考虑开始撤退！**",
+    "MultiLang": {
+      "US": "**A zombie has passed the GATE! Kill him or consider starting a retreat!**",
+      "JP": "ゾンゲが gate を突破した！撃ち殺せ、さもなくば撤退を考えろ！",
+      "CN": "僵尸已突破城门！击杀他，否则准备撤退！",
+      "KR": "** 좀비가 문을 통과했다! 그를 죽이거나 후퇴 시작을 고려하라!**",
+      "TW": "喪屍已突破城門！殺死他，否則只能開始撤退！"
+    }
   },
   "**A zombie has passed the WALL! Kill him or think about start a retreat!**": {
-    "translation": "**一只僵尸通过了墙！杀死他或考虑开始撤退！**"
+    "translation": "**一只僵尸通过了墙！杀死他或考虑开始撤退！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンゲが wall を突破した！撃ち殺せ、さもなくば撤退を考えろ！",
+      "CN": "僵尸已翻越城墙！击杀他，否则准备撤退！",
+      "KR": "** 좀비가 성벽을 통과했다! 그를 죽이거나 후퇴 시작을 고려하라!**",
+      "TW": "喪屍已突破城牆！殺死他，否則只能開始撤退！"
+    }
   },
   "**Charge! Follow the shiny path! Do not separate! ": {
-    "translation": "**冲锋！跟随发光的路径！不要分散！**"
+    "translation": "**冲锋！跟随发光的路径！不要分散！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "突撃だ！光る道をついていけ！離れるな！",
+      "CN": "冲锋！追随闪光的路径！切勿掉队！",
+      "KR": "** 돌진하라! 빛나는 길을 따라라! 떨어지지 말라!",
+      "TW": "衝鋒！跟隨閃亮的道路！不要分散！"
+    }
   },
   "**Charge!**": {
-    "translation": "**冲锋！**"
+    "translation": "**冲锋！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "突撃だ！",
+      "CN": "冲锋！",
+      "KR": "** 돌진하라!**",
+      "TW": "衝鋒！"
+    }
   },
   "**Door is under attack!**": {
-    "translation": "**门正在遭受攻击！**"
+    "translation": "**门正在遭受攻击！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が攻撃されている！",
+      "CN": "大门遭受攻击！",
+      "KR": "** 문이 공격당하고 있다!**",
+      "TW": "房門遭到攻擊！"
+    }
   },
   "**Door will close in 30 s  ** Get safe into Helms Deep!**": {
-    "translation": "**门将在30秒后关闭** 进入圣盔谷避险！**"
+    "translation": "**门将在30秒后关闭** 进入圣盔谷避险！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒後に扉が閉じます ** ヘルムズ・ディープへ安全に避難せよ！",
+      "CN": "**大门将在30秒后关闭  ** 进入 helm's deep 确保安全！**",
+      "KR": "** 30초 후 문이 닫힙니다! ** 헬름 Deep으로 안전히 대피하세요!",
+      "TW": "**門將在 30 秒後關閉**。進入赫爾姆斯深谷避難！"
+    }
   },
   "**Fall back! Get in the fortress! Follow the shiny path**": {
-    "translation": "**撤退！进入堡垒！跟随发光的路径**"
+    "translation": "**撤退！进入堡垒！跟随发光的路径**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 後退せよ！砦の中へ進入せよ！**",
+      "CN": "**撤退！进入堡垒！沿着发光的路径前进**",
+      "KR": "** 후퇴! 성 안으로 들어가세요! 빛나는 길을 따라가세요**",
+      "TW": "**撤退！進入堡壘！沿著發光的路徑前進**"
+    }
   },
   "**Horn activated ** Charge with unlimited ammo **": {
-    "translation": "**号角激活** 带着无限弹药冲锋**"
+    "translation": "**号角激活** 带着无限弹药冲锋**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**  hornが発動 ** 無限の弾薬で突撃 **",
+      "CN": "**号角已激活 ** 无限弹药冲锋 **",
+      "KR": "** 나팔 소리! ** 무제한 탄창으로 돌진!**",
+      "TW": "**號角已響起。無限子彈射擊**"
+    }
   },
   "**Huge ladder is being setting!**": {
-    "translation": "**巨大的梯子正在设置中！**"
+    "translation": "**巨大的梯子正在设置中！**",
+    "MultiLang": {
+      "US": "***Huge ladder is being set up!***",
+      "JP": "**巨大なはしごが設置されている！**",
+      "CN": "**巨型梯子正在设置中！**",
+      "KR": "** 거대한 사다리가 설치 중입니다!**",
+      "TW": "**巨大的梯子正在安裝！**"
+    }
   },
   "**Hurry! get in the hall!**": {
-    "translation": "**快！进入大厅！**"
+    "translation": "**快！进入大厅！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 急げ！中庭へ進入せよ！**",
+      "CN": "**快点！进入大厅！**",
+      "KR": "** 서두르세요! 대 Hall 안으로 들어가세요!**",
+      "TW": "**快點！進入大廳**！"
+    }
   },
   "**Kill the remaining zombies of the room!**": {
-    "translation": "**杀死房间里剩余的僵尸！**"
+    "translation": "**杀死房间里剩余的僵尸！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 部屋の残りゾンキを倒し、敵を排除しろ！**",
+      "CN": "**消灭房间内的剩余丧尸！**",
+      "KR": "** 방의 잔존 좀비를 처치하세요!**",
+      "TW": "消滅房間內剩餘的殭屍！"
+    }
   },
   "**Main door cannot hold the battering ram! RETREAT NOW!**": {
-    "translation": "**主门无法抵挡攻城槌！立即撤退！**"
+    "translation": "**主门无法抵挡攻城槌！立即撤退！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** メインの扉は戦車には耐えられない！ 今すぐ後退せよ！**",
+      "CN": "**大门无法承受冲撞！立即撤退！**",
+      "KR": "** 주문이 함대포의 타격을 견딜 수 없습니다! 지금 즉시 후퇴하세요!**",
+      "TW": "**主門無法抵擋攻城槌衝擊！立即撤退**！"
+    }
   },
   "**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**": {
-    "translation": "**僵尸注意：如果你设置了梯子，你将获得1分** 攻击大门也一样**"
+    "translation": "**僵尸注意：如果你设置了梯子，你将获得1分** 攻击大门也一样**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビへの注意：はしごを置くと1ポイント獲得！ 門を攻撃しても同じ**",
+      "CN": "**给丧尸的提示：放置梯子可获得1分 ** 攻击大门同样计分**",
+      "KR": "** 좀비에게 고함: 사다리를 설치하면 1점을 얻습니다** 문에 공격을 가해도 동일한 점수 획득",
+      "TW": "【給殭屍的注意事項】放置梯子可獲得 1 點分數。攻擊城門也可獲得相同分數。"
+    }
   },
   "**Note: if you defend at defensive points you will earn 1 point every 10 seconds (near GATE and TOP of WALL)**": {
-    "translation": "**注意：如果你在防御点防守，你每10秒将获得1分（靠近大门和墙顶）**"
+    "translation": "**注意：如果你在防御点防守，你每10秒将获得1分（靠近大门和墙顶）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**注記: 防衛地点で守備態勢を堅持すると、敵門（GATE）および城壁の山頂部付近で10秒ごとに守備点数が加算されます。**",
+      "CN": "**注意：若你在防御点防守，每10秒将获得1点积分（近大门及城墙顶部）**",
+      "KR": "**참고: 방어 지점에서 방어 시 10초마다 1점을 획득합니다 (문 근처 및 성벽 상단)**",
+      "TW": "**注意：在防衛據點防守時，您每10秒獲得1點（靠近城門與牆頂）**"
+    }
   },
   "**Objective: people at gate MUST defend the gate**": {
-    "translation": "**目标：在大门的人必须防守大门**"
+    "translation": "**目标：在大门的人必须防守大门**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**目的: 敵門の守備に当たる者は、必ず城門を死守すること。**",
+      "CN": "**目标：守卫大门的人员必须防守大门**",
+      "KR": "**목표: 문에 있는 사람은 반드시 문을 방어해야 합니다**",
+      "TW": "**目標：在城門處的人員必須防守城門**"
+    }
   },
   "**Objective: people at wall MUST defend the wall**": {
-    "translation": "**目标：在墙上的人必须防守墙**"
+    "translation": "**目标：在墙上的人必须防守墙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**目的: 城壁の守備に当たる者は、必ず城壁を死守すること。**",
+      "CN": "**目标：守墙人员必须防守城墙**",
+      "KR": "**목표: 성벽에 있는 사람은 반드시 성벽을 방어해야 합니다**",
+      "TW": "**目標：在牆壁處的人員必須防守牆壁**"
+    }
   },
   "**Resist 30s!**": {
-    "translation": "**坚持30秒！**"
+    "translation": "**坚持30秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**30秒耐え抜く！**",
+      "CN": "**坚持30秒！**",
+      "KR": "30초간 저항!",
+      "TW": "**堅持30秒！**"
+    }
   },
   "**Show them no mercy...**": {
-    "translation": "**对他们毫不留情...**"
+    "translation": "**对他们毫不留情...**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**容赦はない…**",
+      "CN": "**绝不留情……**",
+      "KR": "용서를 베풀지 마라...",
+      "TW": "**對他們別留情…**"
+    }
   },
   "**Sun is rising.**": {
-    "translation": "**太阳升起了。**"
+    "translation": "**太阳升起了。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "夜が明け、太陽が昇る。",
+      "CN": "**太阳升起了。**",
+      "KR": "해가 떠오른다.",
+      "TW": "**太陽即將升起。**"
+    }
   },
   "**The battering ram is breaking the door!**": {
-    "translation": "**攻城槌正在破坏大门！**"
+    "translation": "**攻城槌正在破坏大门！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "突撃隊による城门の破壊攻撃が発生！",
+      "CN": "**冲车正在破坏大门！**",
+      "KR": "충돌체가 문을 부수고 있습니다!",
+      "TW": "**攻城槌正在撞破城門！**"
+    }
   },
   "**The door is now open Get in the fort now!**": {
-    "translation": "**门现在打开了，现在进入堡垒！**"
+    "translation": "**门现在打开了，现在进入堡垒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "城門が開通、今すぐ要塞内へ突入せよ！",
+      "CN": "**大门已开启，立即进入堡垒！**",
+      "KR": "문이 열렸습니다. 지금 요새로 진입하세요!",
+      "TW": "**城門已開啟，立即進入要塞！**"
+    }
   },
   "**The wall has been destroyed! Fall back! Get in the fortress!**": {
-    "translation": "**墙已被摧毁！撤退！进入堡垒！**"
+    "translation": "**墙已被摧毁！撤退！进入堡垒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁が破壊された！後退だ！砦へ逃げろ！",
+      "CN": "城墙已毁坏！撤退！退回要塞！",
+      "KR": "벽이 파괴되었습니다! 후퇴하십시오! 요새로 들어갑시다!",
+      "TW": "牆壁已被摧毀！撤退！進入堡壘！"
+    }
   },
   "**You must not retrieve ** The retrieve will be announced **": {
-    "translation": "**你不能撤退** 撤退将会被通告**"
+    "translation": "**你不能撤退** 撤退将会被通告**",
+    "MultiLang": {
+      "US": "",
+      "JP": "## あなたは## retrieveすることはできません retrieveの通知は発表されます**",
+      "CN": "禁止回收 ** 回收公告将在 **",
+      "KR": "** 회수는 ** 발표하지 않도록 해야 합니다.",
+      "TW": "**您不得搜尋** 搜尋結果將公告 **"
+    }
   }
 }

@@ -1,155 +1,522 @@
 {
   ">>>css port by xen <<<": {
-    "translation": ">>> CSS移植：Xen <<<"
+    "translation": ">>> CSS移植：Xen <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> xenによるcssポート <<<",
+      "CN": ">>>css移植自xen<<<",
+      "KR": ">>>xen-css 포트<<<",
+      "TW": "CSS 移植作者：xen"
+    }
   },
   ">>>backport by koen <<<": {
-    "translation": ">>> 由 Koen 进行反向移植到CSGO <<<"
+    "translation": ">>> 由 Koen 进行反向移植到CSGO <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> koenによるバックポート <<<",
+      "CN": ">>>反向移植自koen<<<",
+      "KR": ">>>koen 백포트<<<",
+      "TW": "後向移植作者：koen"
+    }
   },
   ">>> Map by Airvulpes <<<": {
-    "translation": ">>> 地图作者：Airvulpes <<<"
+    "translation": ">>> 地图作者：Airvulpes <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> Airvulpes作マップ <<<",
+      "CN": ">>>地图作者Airvulpes<<<",
+      "KR": ">>> Airvulpes 작 <<<",
+      "TW": "地圖製作者：Airvulpes"
+    }
   },
   "> Stage - C <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ステージ - C <",
+      "CN": ">阶段 - C<",
+      "KR": "> 스테이지 - C <",
+      "TW": "> 階段 - C <"
+    }
   },
   ">>> Hold 40 seconds <<<": {
-    "translation": ">>> 坚持 40 秒 <<<"
+    "translation": ">>> 坚持 40 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 40秒間保持してください <<<",
+      "CN": ">>>保持40秒<<<",
+      "KR": ">>> 40초간 유지<<<",
+      "TW": ">>> 持續按住 40 秒 <<<"
+    }
   },
   "> Stage - B <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ステージ - B <",
+      "CN": ">阶段 - B<",
+      "KR": "> 스테이지 - B <",
+      "TW": "> 階段 - B <"
+    }
   },
   "> Stage - A <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ステージ - A <",
+      "CN": ">阶段 - A<",
+      "KR": "> 스테이지 - A <",
+      "TW": "> 階段 - A <"
+    }
   },
   ">>> 30 seconds left <<<": {
-    "translation": ">>> 还剩 30 秒 <<<"
+    "translation": ">>> 还剩 30 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> あと30秒です <<<",
+      "CN": ">>>剩余30秒<<<",
+      "KR": ">>> 30초 남음<<<",
+      "TW": ">>> 剩餘 30 秒 <<<"
+    }
   },
   ">>> 20 seconds left <<<": {
-    "translation": ">>> 还剩 20 秒 <<<"
+    "translation": ">>> 还剩 20 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り20秒",
+      "CN": "剩余20秒",
+      "KR": "남은 시간 20초",
+      "TW": "剩餘 20 秒"
+    }
   },
   ">>> 10 seconds left <<<": {
-    "translation": ">>> 还剩 10 秒 <<<"
+    "translation": ">>> 还剩 10 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒",
+      "CN": "剩余10秒",
+      "KR": "남은 시간 10초",
+      "TW": "剩餘 10 秒"
+    }
   },
   ">>> Hold 15 seconds <<<": {
-    "translation": ">>> 坚持 15 秒 <<<"
+    "translation": ">>> 坚持 15 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間長押し",
+      "CN": "按住15秒",
+      "KR": "15초 동안 유지",
+      "TW": "按住 15 秒"
+    }
   },
   ">>> 5 seconds left <<<": {
-    "translation": ">>> 还剩 5 秒 <<<"
+    "translation": ">>> 还剩 5 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒",
+      "CN": "剩余5秒",
+      "KR": "남은 시간 5초",
+      "TW": "剩餘 5 秒"
+    }
   },
   ">>> D INSANE MODE ENABLED <<<": {
-    "translation": ">>> Stage - D 已启用 <<<"
+    "translation": ">>> Stage - D 已启用 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "D INSANE モード発動",
+      "CN": "D级疯狂模式已启用",
+      "KR": "D 인페인 모드 활성화",
+      "TW": "D 地獄模式已啟用"
+    }
   },
   "> Stage - D <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ステージ - D <",
+      "CN": "> 关卡 - D <",
+      "KR": "> 스테이지 - D <",
+      "TW": "> 關卡 - D <"
+    }
   },
   ">>> Hold 30 seconds <<<": {
-    "translation": ">>> 坚持 30 秒 <<<"
+    "translation": ">>> 坚持 30 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間長押し",
+      "CN": "按住30秒",
+      "KR": "30초 동안 유지",
+      "TW": "按住 30 秒"
+    }
   },
   ">>> Hold 20 seconds <<<": {
-    "translation": ">>> 坚持 20 秒 <<<"
+    "translation": ">>> 坚持 20 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間長押し",
+      "CN": "按住20秒",
+      "KR": "20초 동안 유지",
+      "TW": "按住 20 秒"
+    }
   },
   ">>> D INSANE MODE ENABLED FOR NEXT ROUND <<<": {
-    "translation": ">>> 下一回合 Stage - D 启用INSANE模式 <<<"
+    "translation": ">>> 下一回合 Stage - D 启用INSANE模式 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 次ラウンドよりDインスーンモード有効 <<<",
+      "CN": ">>> 下轮开启 D 变态模式 <<<",
+      "KR": ">>> 다음 라운드 D Insane 모드 활성화 <<<",
+      "TW": "<<<下回合將啟用瘋狂難度模式>>>"
+    }
   },
   "> Stage - Insane D <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ステージ - インスーンD <",
+      "CN": "> 关卡 - 变态难度 D <",
+      "KR": "> 스테이지 - Insane D <",
+      "TW": "> 關卡 - 瘋狂 D <"
+    }
   },
   ">>> css port by xen <<<": {
-    "translation": ">>> CSS移植：Xen <<<"
+    "translation": ">>> CSS移植：Xen <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> css移植版 by xen <<<",
+      "CN": ">>> css 移植：xen <<<",
+      "KR": ">>> css 포트 작성자: xen <<<",
+      "TW": ">>> css 移植版本由 xen 製作 <<<"
+    }
   },
   ">>> csgo k3 version port by koen <<<": {
-    "translation": ">>> CSGO K3 版本由 Koen 进行反向移植 <<<"
+    "translation": ">>> CSGO K3 版本由 Koen 进行反向移植 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> csgo k3版移植 by koen <<<",
+      "CN": ">>> csgo k3 版本移植：koen <<<",
+      "KR": ">>> csgo k3 버전 포트 작성자: koen <<<",
+      "TW": ">>> csgo k3 版本移植由 koen 製作 <<<"
+    }
   },
   ">>> cs2 port by Tenshi. <<<": {
-    "translation": ">>> CS2移植：Tenshi. 翻译：Ayanami♪ <<<"
+    "translation": ">>> CS2移植：Tenshi. 翻译：Ayanami♪ <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> cs2版移植 by Tenshi. <<<",
+      "CN": ">>> cs2 移植：Tenshi. <<<",
+      "KR": ">>> cs2 포트 작성자: Tenshi. <<<",
+      "TW": ">>> cs2 移植版本由 Tenshi 製作 <<<"
+    }
   },
   ">>> ADMIN HAS SKIPPED STAGE A <<<": {
-    "translation": ">>> 管理员已跳过STAGE A <<<"
+    "translation": ">>> 管理员已跳过STAGE A <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理者がステージAをスキップしました <<<",
+      "CN": ">>> 管理员已跳过关卡 A <<<",
+      "KR": ">>> 관리자가 스테이지 A를 건너뜁니다 <<<",
+      "TW": ">>> 管理員已跳過關卡 A <<<"
+    }
   },
   ">>> ADMIN HAS SKIPPED STAGE B <<<": {
-    "translation": ">>> 管理员已跳过STAGE B <<<"
+    "translation": ">>> 管理员已跳过STAGE B <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理者がステージBをスキップしました <<<",
+      "CN": ">>> 管理员已跳过关卡 B <<<",
+      "KR": ">>> 관리자가 스테이지 B를 건너뜁니다 <<<",
+      "TW": ">>> 管理員已跳過關卡 B <<<"
+    }
   },
   ">>> ADMIN HAS SKIPPED STAGE C <<<": {
-    "translation": ">>> 管理员已跳过STAGE C <<<"
+    "translation": ">>> 管理员已跳过STAGE C <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理者がステージCをスキップしました <<<",
+      "CN": ">>> 管理员已跳过关卡 C <<<",
+      "KR": ">>> 관리자가 스테이지 C를 건너뜁니다 <<<",
+      "TW": ">>> 管理員已跳過關卡 C <<<"
+    }
   },
   ">>> ADMIN HAS RESET THE MAP <<<": {
-    "translation": ">>> 管理员已重置地图 <<<"
+    "translation": ">>> 管理员已重置地图 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理者がマップをリセットしました <<<",
+      "CN": ">>> 管理员已重置地图 <<<",
+      "KR": ">>> 관리자가 맵을 초기화했습니다 <<<",
+      "TW": ">>> 管理員已重置地圖 <<<"
+    }
   },
   ">>> 100 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 90 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 80 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 70 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 60 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 50 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 40 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 30 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 20 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 10 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 5 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 4 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 3 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 2 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 1 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ZOMBIE GOT INSIDE THE LIFT <<<": {
-    "translation": ">>> 僵尸进入电梯 <<<"
+    "translation": ">>> 僵尸进入电梯 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゾンビーがエレベーター内に侵入しました <<<",
+      "CN": ">>> 僵尸已进入电梯 <<<",
+      "KR": ">>> 좀비가 엘레베이터에 진입했습니다 <<<",
+      "TW": ">>> 殭屍已進入電梯 <<<"
+    }
   },
   ">>> STAGE FAILED <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ失敗 <<<",
+      "CN": ">>> 关卡失败 <<<",
+      "KR": ">>> 스테이지 실패 <<<",
+      "TW": ">>> 關卡失敗 <<<"
+    }
   },
   ">>> 9 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 8 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 7 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 6 <<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> Hold 10 seconds <<<": {
-    "translation": ">>> 坚持 10 秒 <<<"
+    "translation": ">>> 坚持 10 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒間押し続けてください <<<",
+      "CN": ">>> 按住10秒 <<<",
+      "KR": ">>> 10초간 누르세요 <<<",
+      "TW": ">>> 按住10秒 <<<"
+    }
   },
   ">>> Hold 5 seconds <<<": {
-    "translation": ">>> 坚持 5 秒 <<<"
+    "translation": ">>> 坚持 5 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 5秒間押し続けてください <<<",
+      "CN": ">>> 按住5秒 <<<",
+      "KR": ">>> 5초간 누르세요 <<<",
+      "TW": ">>> 按住5秒 <<<"
+    }
   },
   ">>> csgo backport by koen <<<": {
-    "translation": ">>> 由 Koen 进行反向移植到CSGO <<<"
+    "translation": ">>> 由 Koen 进行反向移植到CSGO <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> koenによるCSGOバックポート <<<",
+      "CN": ">>> csgo回退版 by koen <<<",
+      "KR": ">>> csgo 백포트 by koen <<<",
+      "TW": ">>> csgo 後移植由 koen <<<"
+    }
   },
   ">>> RESTARTING ROUND IN 3 <<<": {
-    "translation": ">>> 3 秒后重新开始 <<<"
+    "translation": ">>> 3 秒后重新开始 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ラウンドを3で再開 <<<",
+      "CN": ">>> 3秒后重新开始回合 <<<",
+      "KR": ">>> 라운드 재시작 3초 후 <<<",
+      "TW": ">>> 3秒後重新開始回合 <<<"
+    }
   },
   ">>> ADMIN HAS ENABLED D INSANE MODE <<<": {
-    "translation": ">>> 管理员已启用 D INSANE MODE <<<"
+    "translation": ">>> 管理员已启用 D INSANE MODE <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 管理者がD insaneモードを有効にしました <<<",
+      "CN": ">>> 管理员已启用D疯狂模式 <<<",
+      "KR": ">>> 관리자가 D 모드를 활성화했습니다 <<<",
+      "TW": ">>> 管理員已啟用 D 瘋狂模式 <<<"
+    }
+  },
+  "D关逃亡路的刀增加持续1.5秒的0.5减速(by bxzl)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Level D Escape Route knife effect slows target by 0.5 for an additional 1.5 seconds (by bxzl)",
+      "JP": "D関脱出路のブレードが0.5秒間の沈黙を付与(継続1.5秒)(by bxzl)",
+      "CN": "",
+      "KR": "D 관 도주로 증가된 칼날 지속 시간 1.5초, 치명타율 0.5%(bxzl 기준)",
+      "TW": "D關逃亡路的刀增加持續1.5秒的0.5減速(by bxzl)"
+    }
   }
 }

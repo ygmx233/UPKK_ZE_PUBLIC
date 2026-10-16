@@ -1,35 +1,112 @@
 {
   "**Crazy Rock**": {
-    "translation": "**疯狂滚石**"
+    "translation": "**疯狂滚石**",
+    "MultiLang": {
+      "US": "",
+      "JP": "クレイジー・ロック",
+      "CN": "**疯狂岩石**",
+      "KR": "**크레이지 락**",
+      "TW": "**瘋狂巖石**"
+    }
   },
   "**Fruit Race**": {
-    "translation": "**水果赛**"
+    "translation": "**水果赛**",
+    "MultiLang": {
+      "US": "",
+      "JP": "フルーツ・レース",
+      "CN": "**水果竞赛**",
+      "KR": "**과일 레이스**",
+      "TW": "**水果競賽**"
+    }
   },
   "**KZ**": {
-    "translation": "**身法**"
+    "translation": "**身法**",
+    "MultiLang": {
+      "US": "",
+      "JP": "KZ",
+      "CN": "**KZ**",
+      "KR": "**KZ**",
+      "TW": "**KZ模式**"
+    }
   },
   "**King of the Mountain**": {
-    "translation": "**山之王**"
+    "translation": "**山之王**",
+    "MultiLang": {
+      "US": "",
+      "JP": "キング・オブ・ザ・マウンテン",
+      "CN": "**Mountain King** (山巅之王)",
+      "KR": "**킹 오브 더 마운틴**",
+      "TW": "**山上之王**"
+    }
   },
   "**Map By R1cko27**": {
-    "translation": "**地图作者：R1cko27 翻译：Asteri3m**"
+    "translation": "**地图作者：R1cko27 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：R1cko27",
+      "CN": "**由 R1cko27 制作地图**",
+      "KR": "**맵 바이 R1cko27**",
+      "TW": "**地圖作者：R1cko27**"
+    }
   },
   "**Moving Walls**": {
-    "translation": "**移动墙壁**"
+    "translation": "**移动墙壁**",
+    "MultiLang": {
+      "US": "",
+      "JP": "移動する壁",
+      "CN": "**移动墙壁**",
+      "KR": "**무빙 월즈**",
+      "TW": "**移動牆壁**"
+    }
   },
   "**Revolving Platforms**": {
-    "translation": "**旋转平台**"
+    "translation": "**旋转平台**",
+    "MultiLang": {
+      "US": "",
+      "JP": "回転プラットフォーム",
+      "CN": "**旋转平台**",
+      "KR": "**리볼ビング 플래폼**",
+      "TW": "**旋轉平台**"
+    }
   },
   "**Skipping Rope**": {
-    "translation": "**跳绳**"
+    "translation": "**跳绳**",
+    "MultiLang": {
+      "US": "",
+      "JP": "縄跳び",
+      "CN": "**跳绳**",
+      "KR": "**Skipping Rope**",
+      "TW": "**跳繩**"
+    }
   },
   "**UP**": {
-    "translation": "**向上看**"
+    "translation": "**向上看**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**UP**",
+      "CN": "**上**",
+      "KR": "**위쪽**",
+      "TW": "向上"
+    }
   },
   "**Zombie on elevator**": {
-    "translation": "**电梯上有僵尸**"
+    "translation": "**电梯上有僵尸**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Zombie on elevator**",
+      "CN": "**电梯里的僵尸**",
+      "KR": "**엘리베이터에 좀비가 나타남**",
+      "TW": "電梯上的殭屍"
+    }
   },
   "**Fragile floor**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Fragile floor**",
+      "CN": "**地板易碎**",
+      "KR": "**약한 바닥**",
+      "TW": "脆弱的地板"
+    }
   }
 }

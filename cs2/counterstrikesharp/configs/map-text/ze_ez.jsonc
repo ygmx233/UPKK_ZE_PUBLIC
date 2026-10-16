@@ -1,0 +1,62 @@
+{
+  ">>>地图作者  ze探险家<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Map Author: Ze Explorer",
+      "JP": ">>>マップ作者 ze冒険者<<<",
+      "CN": "",
+      "KR": "지도 작성자 ze탐험가",
+      "TW": ">>>地圖作者  ze探險家<<<"
+    }
+  },
+  ">>>大门即将打开 30 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door Opening in 30 seconds",
+      "JP": ">>>ゲート間もなく開放 30秒<<<",
+      "CN": "",
+      "KR": "대문이 곧 열립니다 30초 후",
+      "TW": ">>>大門即將開啟 30秒後<<<"
+    }
+  },
+  ">>>僵尸即将传送 10 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies Teleporting in 10 seconds",
+      "JP": ">>>ゾンジ間もなく転送 10秒<<<",
+      "CN": "",
+      "KR": "좀비가 곧 소환됩니다 10초 후",
+      "TW": ">>>殭屍即將傳送 10秒後<<<"
+    }
+  },
+  ">>>大门即将打开 20 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door Opening in 20 seconds",
+      "JP": ">>>ゲート間もなく開放 20秒<<<",
+      "CN": "",
+      "KR": "대문이 곧 열립니다 20초 후",
+      "TW": ">>>大門即將開啟 20秒後<<<"
+    }
+  },
+  ">>>最后防守 20 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Final Defense: 20 seconds remaining",
+      "JP": ">>>最終防衛 20秒<<<",
+      "CN": "",
+      "KR": "마지막 방어 20초 후",
+      "TW": ">>>最後防守 20秒後<<<"
+    }
+  },
+  ">>>大门即将关闭 10 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door Closing in 10 seconds",
+      "JP": ">>>ゲート間もなく閉鎖 10秒<<<",
+      "CN": "",
+      "KR": "대문이 곧 닫힙니다 10초 후",
+      "TW": ">>>大門即將關閉 10秒後<<<"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "** Ship is leaving in 10 Sec. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "船が10秒後に発着します",
+      "CN": "** 飞船将于 10 秒后起飞 **",
+      "KR": "** 우주선이 10초 후에 출발합니다. **",
+      "TW": "**距離船離岸只剩10秒**"
+    }
+  },
+  "**Wagon 1 is leaving in 3 Sec**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ワゴン1号車が3秒後に発車します",
+      "CN": "** 车厢 1 将于 3 秒后发车 **",
+      "KR": "** 1호차가 3초 후에 출발합니다. **",
+      "TW": "**機車組1距離離岸只剩3秒**"
+    }
+  },
+  "**Wagon 2 is leaving in 3 Sec**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ワゴン2号車が3秒後に発車します",
+      "CN": "** 车厢 2 将于 3 秒后发车 **",
+      "KR": "** 2호차가 3초 후에 출발합니다. **",
+      "TW": "**機車組2距離離岸只剩3秒**"
+    }
+  },
+  "** Doors to secure rooms close in 30 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "安全区域のドアが30秒後に閉じます",
+      "CN": "** 安全室门将在 30 秒后关闭**",
+      "KR": "** 안전실 문이 30초 후에 닫힙니다. **",
+      "TW": "**密封室門將在30秒後關閉**"
+    }
+  },
+  "** Doors to secure rooms close in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "安全区域のドアが15秒後に閉じます",
+      "CN": "** 安全室门将在 15 秒后关闭 **",
+      "KR": "** 안전실 문이 15초 후에 닫힙니다. **",
+      "TW": "**密封室門將在15秒後關閉**"
+    }
+  },
+  "** Doors to secure rooms close in 5 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "安全区域のドアが5秒後に閉じます",
+      "CN": "** 安全室门将在 5 秒后关闭**",
+      "KR": "** 안전실 문이 5초 후에 닫힙니다. **",
+      "TW": "**密封室門將在5秒後關閉**"
+    }
+  },
+  "** Flap Door to the middle room is open **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "中室へのフラップドアが開いています",
+      "CN": "** 通往中间房间的风闸门已打开 **",
+      "KR": "** 중앙 방으로 이어진 플랩 도어가 열려 있습니다. **",
+      "TW": "**通往中間的活板門已開啟**"
+    }
+  },
+  "** Big Doors opening in 5 Seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "大きなドアが5秒後に開きます",
+      "CN": "** 大型气闸门将在 5 秒后开启**",
+      "KR": "** 대형 문이 5초 후에 열립니다. **",
+      "TW": "**大門口將於5秒後打開**"
+    }
+  },
+  "** Trucks leaving in 10 Seconds HURRY UP!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒以内にトラックが Depart します！急いでください！**",
+      "CN": "** 卡车将在 10 秒后驶离，赶快！",
+      "KR": "** 트럭 출발 10초 후 추격!",
+      "TW": "貨車將於 10 秒後出發，快點！"
+    }
+  },
+  "** AFK teleport in 5 seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** AFK プレイヤーを5秒後にテレポートします**",
+      "CN": "** AFK 传送将在 5 秒后开始",
+      "KR": "** AFK 텔레포트 5초 후 **",
+      "TW": "離開狀態傳送計時 5 秒"
+    }
+  },
+  "** Next Door Opening in 60 Seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 次なるドアオープンまで60秒**",
+      "CN": "** 下一扇门将在 60 秒后打开",
+      "KR": "** 다음 문 개방 60초 후 **",
+      "TW": "下一扇門開啟倒數 60 秒"
+    }
+  },
+  "** Next Door Opening in 15 Seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 次なるドアオープンまで15秒**",
+      "CN": "** 下一扇门将在 15 秒后打开",
+      "KR": "** 다음 문 개방 15초 후 **",
+      "TW": "下一扇門開啟倒數 15 秒"
+    }
+  },
+  "** Next Door Opening in 5 Seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 次なるドアオープンまで5秒**",
+      "CN": "** 下一扇门将在 5 秒后打开",
+      "KR": "** 다음 문 개방 5초 후 **",
+      "TW": "下一扇門開啟倒數 5 秒"
+    }
+  },
+  "** Get to the Shuttle! It leaves in 120 Seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** シャトルへ向かえ！120秒後に Depart します**",
+      "CN": "** 前往穿梭机！它将在 120 秒后出发",
+      "KR": "** 선착장으로 가라! 120초 후 출발 **",
+      "TW": "快點前往穿梭機！它將於 120 秒後出發"
+    }
+  },
+  "** SHUTTLE LEAVING IN 60 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** シャトル、60秒後に Depart します**",
+      "CN": "** 穿梭机将在 60 秒后出发",
+      "KR": "** 셔틀 출발 60초 후 **",
+      "TW": "穿梭機即將於 60 秒後離去"
+    }
+  },
+  "** SHUTTLE LEAVING IN 30 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** シャトル、30秒後に Depart します**",
+      "CN": "** 穿梭机将在 30 秒后出发",
+      "KR": "** 셔틀 출발 30초 후 **",
+      "TW": "穿梭機即將於 30 秒後離去"
+    }
+  },
+  "** SHUTTLE LEAVING IN 15 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** シュトル、15秒後に発進 **",
+      "CN": "** 穿梭机将在15秒后离开 **",
+      "KR": "**셔틀 15초 후 출발**",
+      "TW": "** 穿梭機將於15秒後離岸 **"
+    }
+  },
+  "** SHUTTLE IS LEAVING! PREPARE TO DIE! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** シュトル発進！死へ備えろ！**",
+      "CN": "** 穿梭机正在离开！准备受死！**",
+      "KR": "**셔털이 떠납니다! 각오하십시오!**",
+      "TW": "** 穿梭機正在離開！準備赴死！ **"
+    }
+  }
+}

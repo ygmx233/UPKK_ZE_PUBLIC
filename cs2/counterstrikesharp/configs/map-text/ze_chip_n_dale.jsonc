@@ -1,0 +1,342 @@
+{
+  "\"地图: FC松鼠大战\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Map: FC Squirrel Battle",
+      "JP": "マップ: FCシナモン・レース",
+      "CN": "",
+      "KR": "지도: FC 다람쥐 전쟁",
+      "TW": "地圖：FC松鼠大戰"
+    }
+  },
+  "\"版本: Alpha 1.1\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Version: Alpha 1.1",
+      "JP": "バージョン: Alpha 1.1",
+      "CN": "",
+      "KR": "버전: Alpha 1.1",
+      "TW": "版本：Alpha 1.1"
+    }
+  },
+  "\"作者: CD意识.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Author: CD Consciousness.",
+      "JP": "作者: CD意識.",
+      "CN": "",
+      "KR": "제작자: CD 인식.",
+      "TW": "作者：CD意識."
+    }
+  },
+  "\"检测到服务器无Lua解锁插件，地图部分功能禁用\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "No Lua unlock plugin detected on the server. Map features disabled.",
+      "JP": "サーバーにLuaアンロックプラグインが見つかりません。マップの一部の機能が無効化されました",
+      "CN": "",
+      "KR": "Lua 모드 해제 플러그인을 찾을 수 없습니다. 지도의 일부 기능이 비활성화됩니다.",
+      "TW": "檢測到伺服器無Lua解鎖插件，地圖部分功能禁用"
+    }
+  },
+  "--- WarmTime ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- ウォームタイム ---",
+      "CN": "--- WarmTime ---",
+      "KR": "--- WarmTime ---",
+      "TW": "--- WarmTime ---"
+    }
+  },
+  "--- Stage1 ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- ステージ1 ---",
+      "CN": "--- Stage1 ---",
+      "KR": "--- Stage1 ---",
+      "TW": "--- Stage1 ---"
+    }
+  },
+  "-- 3 wooden boxes left --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 木製の箱が3つ残っています --",
+      "CN": "-- 剩余3个木箱 --",
+      "KR": "-- 나무 상자 3개 남음 --",
+      "TW": "-- 剩餘3個木箱 --"
+    }
+  },
+  "-- 2 wooden boxes left --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 木製の箱が2つ残っています --",
+      "CN": "-- 剩余2个木箱 --",
+      "KR": "-- 나무 상자 2개 남음 --",
+      "TW": "-- 剩餘2個木箱 --"
+    }
+  },
+  "-- 1 wooden boxes left --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 木箱が1つ残っています --",
+      "CN": "-- 剩余1个木箱 --",
+      "KR": "-- 나무 상자 1개 남음 --",
+      "TW": "-- 剩餘一個木箱 --"
+    }
+  },
+  "-- Lets Go --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 行くぞ --",
+      "CN": "-- 出发 --",
+      "KR": "-- 출발하자 --",
+      "TW": "-- 出發吧！ --"
+    }
+  },
+  "-- Teleport in 5s --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- テレポートまで5秒 --",
+      "CN": "-- 5秒后传送 --",
+      "KR": "-- 5초 후 텔레포트 --",
+      "TW": "-- 5秒後傳送 --"
+    }
+  },
+  "-- Teleport in 4s --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- テレポートまで4秒 --",
+      "CN": "-- 4秒后传送 --",
+      "KR": "-- 4초 후 텔레포트 --",
+      "TW": "-- 4秒後傳送 --"
+    }
+  },
+  "-- Teleport in 3s --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- テレポートまで3秒 --",
+      "CN": "-- 3秒后传送 --",
+      "KR": "-- 3초 후 텔레포트 --",
+      "TW": "-- 3秒後傳送 --"
+    }
+  },
+  "-- Teleport in 2s --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- テレポートまで2秒 --",
+      "CN": "-- 2秒后传送 --",
+      "KR": "-- 2초 후 텔레포트 --",
+      "TW": "-- 2秒後傳送 --"
+    }
+  },
+  "-- Teleport in 1s --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- テレポートまで1秒 --",
+      "CN": "-- 1秒后传送 --",
+      "KR": "-- 1초 후 텔레포트 --",
+      "TW": "-- 1秒後傳送 --"
+    }
+  },
+  "-- Hurry! Plug the hole with that apple! --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 急いで！そのリンゴで穴をふさいで！ --",
+      "CN": "-- 快！用那个苹果堵住洞口！ --",
+      "KR": "-- 빨리! 그 사과로 구멍을 막아라! --",
+      "TW": "-- 快！用那顆蘋果堵住漏洞！--"
+    }
+  },
+  "-- Shhh, it looks like that big guy is sleeping --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "――静かに、あの大きな奴が寝てるようだ――",
+      "CN": "-- 嘘，看起来那个大块头正在睡觉 --",
+      "KR": "-- 쉬, 그 큰 놈이 자고 있는 것 같다 --",
+      "TW": "-- 噓，看來那個大傢伙正在睡覺 --"
+    }
+  },
+  "-- We better walk over quietly --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "――ゆっくり近づこう――",
+      "CN": "-- 我们最好悄悄走过去 --",
+      "KR": "-- 조용히 다가가는 게 좋겠다 --",
+      "TW": "-- 我們最好輕聲走过去 --"
+    }
+  },
+  "-- Ooooh, that guy is awake, RUN! --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "――おい、あの奴が目覚めたぞ！ 逃げるんだ！",
+      "CN": "-- 哦，那个人醒了，快跑！ --",
+      "KR": "-- 오오, 그 놈이 깨쳤다, 도망쳐! --",
+      "TW": "-- 喔，那個人醒來了，快跑！ --"
+    }
+  },
+  "\"检测到服务器无Lua Unlocker插件\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "No Lua Unlocker plugin detected on the server",
+      "JP": "サーバーにLua Unlockerプラグインが検出されませんでした",
+      "CN": "",
+      "KR": "\"서버에 Lua Unlocker 플러그인이 없습니다\"",
+      "TW": "偵測到伺服器沒有 Lua Unlocker 外掛程式"
+    }
+  },
+  "\"BOSS战无法进行。跳过\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "BOSS battle cannot proceed. Skipping.",
+      "JP": "BOSS戦は実行できません。スキップ",
+      "CN": "",
+      "KR": "\"BOSS 전을 진행할 수 없습니다. 건너뜀\"",
+      "TW": "無法進行 BOSS 戰。跳過"
+    }
+  },
+  "\"Lua Unlocker Plugin Needed\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Lua Unlocker プラグインが必要です",
+      "CN": "需要Lua解锁器插件",
+      "KR": "\"Lua Unlocker 플러그인이 필요합니다\"",
+      "TW": "需要 Lua Unlocker 外掛程式"
+    }
+  },
+  "\"Server Dont have it. Skip BOSS Fight\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サーバーにはありません。ボス戦をスキップします",
+      "CN": "服务器没有该物品，跳过BOSS战",
+      "KR": "\"서버에 없습니다. BOSS 전투 건너뛰기\"",
+      "TW": "伺服器未安裝。跳過 BOSS 戰"
+    }
+  },
+  "-- Teleport in 10s --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 10秒でテレポート --",
+      "CN": "-- 传送倒计时：10秒 --",
+      "KR": "-- 10초 내로 순간이동 --",
+      "TW": "-- 10 秒後傳送 --"
+    }
+  },
+  "-- Its The End --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 終わり --",
+      "CN": "-- 游戏结束 --",
+      "KR": "-- Its The End --",
+      "TW": "—— 終焉之刻 ——"
+    }
+  },
+  "\"版本: Alpha 1.2\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Version: Alpha 1.2",
+      "JP": "バージョン: Alpha 1.2",
+      "CN": "",
+      "KR": "\"버전: Alpha 1.2\"",
+      "TW": "版本：Alpha 1.2"
+    }
+  },
+  "\"版本: Alpha 1.3\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Version: Alpha 1.3",
+      "JP": "バージョン: Alpha 1.3",
+      "CN": "",
+      "KR": "\"버전: Alpha 1.3\"",
+      "TW": "版本：Alpha 1.3"
+    }
+  },
+  "\"版本: V 1.0\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Version: V 1.0",
+      "JP": "バージョン: V 1.0",
+      "CN": "",
+      "KR": "\"버전: V 1.0\"",
+      "TW": "版本：V 1.0"
+    }
+  },
+  "管理员开启了多倍BOSS模式": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Administrator has enabled multipliers BOSS mode",
+      "JP": "管理者が倍率BOSSモードを有効にしました",
+      "CN": "",
+      "KR": "관리자가 다중 보스 모드를 활성화했습니다.",
+      "TW": "管理員已啟用多倍BOSS模式"
+    }
+  },
+  "Secret Found (1/4)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "シークレット発見 (1/4)",
+      "CN": "发现秘密（1/4）",
+      "KR": "비밀 발견 (1/4)",
+      "TW": "發現密道 (1/4)"
+    }
+  },
+  "Secret Found (2/4)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "シークレット発見 (2/4)",
+      "CN": "发现秘密（2/4）",
+      "KR": "비밀 발견 (2/4)",
+      "TW": "發現密道 (2/4)"
+    }
+  },
+  "Secret Found (3/4)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "シークレット発見 (3/4)",
+      "CN": "发现秘密（3/4）",
+      "KR": "비밀 발견 (3/4)",
+      "TW": "發現密道 (3/4)"
+    }
+  },
+  "Secret Found (4/4)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "シークレット発見（4/4）",
+      "CN": "发现秘密（4/4）",
+      "KR": "비밀 발견 (4/4)",
+      "TW": "已找到所有秘密物品 (4/4)"
+    }
+  },
+  "Next round: secret music unlocked!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のラウンド：シークレットミュージック解除！",
+      "CN": "下一轮：已解锁秘密音乐！",
+      "KR": "다음 라운드: 비밀 음악 잠금 해제!",
+      "TW": "下一輪將解鎖秘密音樂！"
+    }
+  }
+}

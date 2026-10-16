@@ -1,0 +1,522 @@
+{
+  "热身: 80秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up: 80 seconds",
+      "JP": "ウォーミングアップ: 80秒",
+      "CN": "",
+      "KR": "웜업: 80초",
+      "TW": "熱身: 80秒"
+    }
+  },
+  "++ 地图制作: HANNIBAL[SPA] / Rafuron ++": {
+    "translation": "",
+    "MultiLang": {
+      "US": "++ Map Creation: HANNIBAL[SPA] / Rafuron ++",
+      "JP": "++ マップ制作: HANNIBAL[SPA] / Rafuron ++",
+      "CN": "",
+      "KR": "++ 맵 제작: HANNIBAL[SPA] / Rafuron ++",
+      "TW": "++ 地圖製作: HANNIBAL[SPA] / Rafuron ++"
+    }
+  },
+  "++ 特别感谢: George / Sgt.zuff ++": {
+    "translation": "",
+    "MultiLang": {
+      "US": "++ Special Thanks: George / Sgt.zuff ++",
+      "JP": "++ 特別感謝: George / Sgt.zuff ++",
+      "CN": "",
+      "KR": "++ 특별 감사: George / Sgt.zuff ++",
+      "TW": "++ 特別感謝: George / Sgt.zuff ++"
+    }
+  },
+  "++ CS2移植: Source2 ZE / 魔改&脚本: kou. ++": {
+    "translation": "",
+    "MultiLang": {
+      "US": "++ CS2 Port: Source2 ZE / Script Mod & Scripts: kou. ++",
+      "JP": "++ CS2移植: Source2 ZE / 魔改&スクリプト: kou. ++",
+      "CN": "",
+      "KR": "++ CS2 포트: Source2 ZE / 수정&스크립트: kou. ++",
+      "TW": "++ CS2移植: Source2 ZE / 魔改&腳本: kou. ++"
+    }
+  },
+  "++ 本地图需启用推力修复 / 当前语言设置: 中文 ++": {
+    "translation": "",
+    "MultiLang": {
+      "US": "++ This map requires thrust repair enabled / Current language setting: Chinese ++",
+      "JP": "++ 本マップには推力修正の有効化が必要です / 現在の言語設定: 中文 ++",
+      "CN": "",
+      "KR": "++ 이 맵은推力 수정이 필요합니다 / 현재 언어 설정: 중국어 ++",
+      "TW": "++ 本地圖需啟用推力修復 / 當前語言設定: 中文 ++"
+    }
+  },
+  "热身: 70秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up: 70 seconds",
+      "JP": "ウォーミングアップ: 70秒",
+      "CN": "",
+      "KR": "웜업: 70초",
+      "TW": "熱身: 70秒"
+    }
+  },
+  "热身: 60秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up: 60 seconds",
+      "JP": "ウォーミングアップ: 60秒",
+      "CN": "",
+      "KR": "웜업: 60초",
+      "TW": "熱身: 60秒"
+    }
+  },
+  "热身: 50秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up: 50 seconds",
+      "JP": "ウォーミングアップ: 50秒",
+      "CN": "",
+      "KR": "웜업: 50초",
+      "TW": "熱身: 50秒"
+    }
+  },
+  "热身: 40秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warmup: 40s",
+      "JP": "準備運動: 40秒",
+      "CN": "",
+      "KR": "준비: 40초",
+      "TW": "熱身：40秒"
+    }
+  },
+  "热身: 30秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warmup: 30s",
+      "JP": "準備運動: 30秒",
+      "CN": "",
+      "KR": "준비: 30초",
+      "TW": "熱身：30秒"
+    }
+  },
+  "热身: 20秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warmup: 20s",
+      "JP": "準備運動: 20秒",
+      "CN": "",
+      "KR": "준비: 20초",
+      "TW": "熱身：20秒"
+    }
+  },
+  "热身: 10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warmup: 10s",
+      "JP": "準備運動: 10秒",
+      "CN": "",
+      "KR": "준비: 10초",
+      "TW": "熱身：10秒"
+    }
+  },
+  "热身: 5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warmup: 5s",
+      "JP": "準備運動: 5秒",
+      "CN": "",
+      "KR": "준비: 5초",
+      "TW": "熱身：5秒"
+    }
+  },
+  "热身结束": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warmup ended",
+      "JP": "準備運動終了",
+      "CN": "",
+      "KR": "준비 종료",
+      "TW": "熱身結束"
+    }
+  },
+  "热身: 90秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warmup: 90s",
+      "JP": "準備運動: 90秒",
+      "CN": "",
+      "KR": "준비: 90초",
+      "TW": "熱身：90秒"
+    }
+  },
+  "士兵已拾取 - 右键放置或回收": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Soldier equipped - Right-click to place or recycle",
+      "JP": "兵士が拾取しました - 右クリックで設置または回収",
+      "CN": "",
+      "KR": "병사가 수거함 - 오른쪽 버튼으로 배치하거나 회수",
+      "TW": "士兵已拾取 - 右鍵放置或回收"
+    }
+  },
+  "哨戒炮台已拾取 - 按E放置或回收炮台": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Turret Pickup - Press E to Deploy or Retrieve",
+      "JP": "哨戒砲台を取得しました - Eキーで設置または回収",
+      "CN": "",
+      "KR": "감시 타워를 주웠습니다 - E를 눌러 설치하거나 회수합니다",
+      "TW": "哨戒炮台已拾取 - 按 E 放置或回收炮台"
+    }
+  },
+  "旋风枪已拾取 - 按E发射旋风推开僵尸": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Whirlwind Gun Pickup - Press E to Fire and Repel Zombies",
+      "JP": "旋風銃を取得しました - Eキーで旋風を発射してゾンビを吹き飛ばす",
+      "CN": "",
+      "KR": "회오리 건을 주웠습니다 - E를 눌러 회오리를 발사하여 좀비를 밀어냅니다",
+      "TW": "旋風槍已拾取 - 按 E 發射旋風推開殭屍"
+    }
+  },
+  "零重力枪已拾取 - 按E使用浮空僵尸 - 冷却时间: 30秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zero-G Gun Pickup - Press E to Float Zombies - Cooldown: 30s",
+      "JP": "無重力銃を取得しました - Eキーで浮遊するゾンビを使用 - クールタイム: 30秒",
+      "CN": "",
+      "KR": "무중력 건을 주웠습니다 - E를 사용하여浮空 좀비를 처리합니다 - 쿨타임: 30초",
+      "TW": "零重力槍已拾取 - 按 E 使用浮空殭屍 - 冷卻時間：30秒"
+    }
+  },
+  "*** 右侧按钮激活 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Right Button Active ***",
+      "JP": "*** 右側ボタンが有効化されました ***",
+      "CN": "",
+      "KR": "*** 오른쪽 버튼 활성화 ***",
+      "TW": "*** 右側按鈕已啟用 ***"
+    }
+  },
+  "*** 左侧按钮激活 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Left Button Active ***",
+      "JP": "*** 左側ボタンが有効化されました ***",
+      "CN": "",
+      "KR": "*** 왼쪽 버튼 활성화 ***",
+      "TW": "*** 左側按鈕已啟用 ***"
+    }
+  },
+  "*** 最右侧按钮激活 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Far Right Button Active ***",
+      "JP": "*** 右端のボタンが有効化されました ***",
+      "CN": "",
+      "KR": "*** 가장 오른쪽 버튼 활성화 ***",
+      "TW": "*** 最右側按鈕已啟用 ***"
+    }
+  },
+  "*** 最左侧按钮激活 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Far Left Button Active ***",
+      "JP": "*** 左端のボタンが有効化されました ***",
+      "CN": "",
+      "KR": "*** 가장 왼쪽 버튼 활성화 ***",
+      "TW": "*** 最左側按鈕已啟用 ***"
+    }
+  },
+  "超越极限已拾起 - 按E使用使人类获得巨额加速与血量提升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Limit Breaker Pickup - Press E to Grant Humans Massive Speed and Health Boost",
+      "JP": "限界突破を取得しました - Eキーで使用し、人間に大幅な加速と体力増加を与える",
+      "CN": "",
+      "KR": "한계 초월을 주웠습니다 - E를 사용하여 인간에게 막대한 가속과 체력 상승을 제공합니다",
+      "TW": "超越極限已拾起 - 按 E 使用使人類獲得巨额加速與血量提升"
+    }
+  },
+  "特感坦克加入游戏 - 靠近废车右键打铁": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Special Infected Tank has spawned - Right-click to smash ruined vehicles",
+      "JP": "特殊感音戦車がゲームに参加 - 廃車に近づき右クリックで鉄を打つ",
+      "CN": "",
+      "KR": "특수 감지 전차 게임 추가 - 폐차 근처에서 우클릭하여 철제 방어구 제작",
+      "TW": "獲得特殊坦克 - 靠近廢車右鍵拆卸裝甲"
+    }
+  },
+  "地雷已拾取 - 按E放置地雷 - 靠近地雷以回收": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mine picked up - Press E to place the mine - Right-click the mine to collect it",
+      "JP": "地雷を回収 - Eキーで地雷を設置 - 地雷に近づいて回収",
+      "CN": "",
+      "KR": "지뢰 획득 - E를 눌러 지뢰 설치 - 지뢰 근처에서 수거",
+      "TW": "已拾取地雷 - 按 E 放置地雷 - 靠近地雷回收"
+    }
+  },
+  "M60机枪已拾取 - 按E切换开火": {
+    "translation": "",
+    "MultiLang": {
+      "US": "M60 Machine Gun picked up - Press E to fire",
+      "JP": "M60機関銃を入手 - Eキーで射撃切替",
+      "CN": "",
+      "KR": "M60 기관총 획득 - E를 눌러 발사 모드 전환",
+      "TW": "已拾取 M60 機槍 - 按 E 切換射擊"
+    }
+  },
+  "高斯枪已拾取 - 按E释放毁灭射线": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Gauss Rifle picked up - Press E to unleash a devastating beam",
+      "JP": "ガウスライフルを入手 - Eキーで破壊ビーム発射",
+      "CN": "",
+      "KR": "가우스건 획득 - E를 발동하여 파괴 레이저 방사",
+      "TW": "已拾取高斯槍 - 按 E 釋放毀滅射線"
+    }
+  },
+  "冲击狗加入游戏 - 右键推开人类和僵尸": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Impact Dog has spawned - Right-click to knock back Survivors and Infected",
+      "JP": "ショックドッグがゲームに参加 - 右クリックで人類とゾンビを吹き飛ばす",
+      "CN": "",
+      "KR": "충격 개 게임 추가 - 우클릭으로 인간과 좀비 밀어내기",
+      "TW": "獲得衝擊狗 - 右鍵推開人類和殭屍"
+    }
+  },
+  "飞扑者加入游戏 - 右键向前冲刺": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Boomer has spawned - Right-click to lunge forward",
+      "JP": "スライマーがゲームに参加 - 右クリックで前方ダッシュ",
+      "CN": "",
+      "KR": "돌진자 게임 추가 - 우클릭으로 전방 돌진",
+      "TW": "獲得飛撲者 - 右鍵向前衝刺"
+    }
+  },
+  "免疫装置已拾起 - 按E使用使人类免疫感染20秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Immunity Syringe picked up - Press E to use, granting Survivors immunity from infection for 20 seconds",
+      "JP": "免疫デバイスを取得 - Eキーで使用して人類を20秒間感染から免疫化",
+      "CN": "",
+      "KR": "면역 장구 획득 - E를 사용하여 인간을 20초간 감염에서 면역 상태로 만듦",
+      "TW": "已拾取免疫裝置 - 按 E 使用，使人類免疫感染 20 秒"
+    }
+  },
+  "启用免疫装置 - 人类将在20秒内免疫感染": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Immunity Syringe activated - Survivors are immune to infection for 20 seconds",
+      "JP": "免疫デバイスを有効化 - 人類は20秒間感染から免疫となる",
+      "CN": "",
+      "KR": "면역 장치 활성화 - 인간은 20초간 감염에 면역",
+      "TW": "啟動免疫裝置 - 人類將在 20 秒內免疫感染"
+    }
+  },
+  "黑洞巫师加入游戏 - 右键放置传送黑洞": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Black Hole Wizard joins the game - Right-click to place a teleportation black hole",
+      "JP": "ブラックホールウィザードが参加 - 右クリックでトランスポートブラックホールを設置",
+      "CN": "",
+      "KR": "블랙홀 마술사 게임 추가 - 우클릭으로 전송 블랙홀 배치",
+      "TW": "黑洞巫師加入遊戲 - 右鍵放置傳送黑洞"
+    }
+  },
+  "弗地冈人加入游戏 - 右键将人类拉至身前": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Froggonians join the game - Right-click to pull humans in front of you",
+      "JP": "フットーゴンが参加 - 右クリックで人間を引き寄せる",
+      "CN": "",
+      "KR": "프티군 게임 추가 - 우클릭으로 인간을 앞으로 끌어오기",
+      "TW": "弗地岡人加入遊戲 - 右鍵將人類拉至身前"
+    }
+  },
+  "*** 僵尸已逃脱! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Zombie has escaped! ***",
+      "JP": "*** ゾンビが脱出しました！***",
+      "CN": "",
+      "KR": "*** 좀비가 탈출했습니다! ***",
+      "TW": "*** 殭屍已逃脫！***"
+    }
+  },
+  "*** 僵尸触发了开关! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*** The zombie triggered the switch! ***",
+      "JP": "*** ゾンビがスイッチをトリガーしました！***",
+      "CN": "",
+      "KR": "*** 좀비가 스위치를 트리거했습니다! ***",
+      "TW": "*** 殭屍觸發了開關！***"
+    }
+  },
+  "免疫枪已拾取 - 按E发射免疫光线": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Immunity Gun picked up - Press E to fire immunity ray",
+      "JP": "免疫ガン取得 - Eキーで免疫ビームを発射",
+      "CN": "",
+      "KR": "면역권 총拾得 - E를 눌러 면역 광선 발사",
+      "TW": "免疫槍已拾取 - 按 E 發射免疫光線"
+    }
+  },
+  "基因背包已拾取 - 按E放置基因改造药物 - 小心毒药": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Gene Backpack picked up - Press E to place genetic modification drug - Watch out for poison",
+      "JP": "遺伝子バックパック取得 - Eキーで遺伝子改造薬を設置 - 毒に注意",
+      "CN": "",
+      "KR": "유전자 백팩拾得 - E를 눌러 유전자 조작 약물 배치 - 독에 주의",
+      "TW": "基因背包已拾取 - 按 E 放置基因改造藥物 - 小心毒藥"
+    }
+  },
+  "突变基因: 速度x0.9": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mutated Gene: Speed x0.9",
+      "JP": "変異遺伝子: 速度x0.9",
+      "CN": "",
+      "KR": "돌연변이 유전자: 속도 x0.9",
+      "TW": "突變基因：速度 x0.9"
+    }
+  },
+  "突变基因: 速度x0.75": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mutated Gene: Speed x0.75",
+      "JP": "変異遺伝子: 速度x0.75",
+      "CN": "",
+      "KR": "돌연변이 유전자: 속도 x0.75",
+      "TW": "突變基因：速度 x0.75"
+    }
+  },
+  "突变基因: 太空漫步": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mutant Gene: Spacewalk",
+      "JP": "変異遺伝子: 宇宙散歩",
+      "CN": "",
+      "KR": "돌연변이 유전자: 우주 유영",
+      "TW": "突變基因：太空漫步"
+    }
+  },
+  "突变基因: 速度x1.25": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mutant Gene: Speed x1.25",
+      "JP": "変異遺伝子: スピードx1.25",
+      "CN": "",
+      "KR": "돌연변이 유전자: 속도 x1.25",
+      "TW": "突變基因：速度x1.25"
+    }
+  },
+  "阿尔玛加入游戏 - 右键缴械人类并杀死他们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Alma has joined the game - Right-click to disarm and kill humans",
+      "JP": "アルマ参戦 - 右クリックで人類を武装解除し、殺害する",
+      "CN": "",
+      "KR": "알마 게임 참여 - 마우스 우클릭으로 인간 무장 해제 및 처치",
+      "TW": "阿爾瑪加入遊戲 - 右鍵解除武裝人類並消滅他們"
+    }
+  },
+  "传送枪已拾取 - 按E放置或回收传送门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleportation Gun picked up - Press E to place or retrieve portals",
+      "JP": "テレポートガン獲得 - Eキーでポータル設置または回収",
+      "CN": "",
+      "KR": "포털 건 획득 - E를 눌러 포털 배치 또는 회수",
+      "TW": "已拾取傳送槍 - 按E放置或回收傳送門"
+    }
+  },
+  "突变基因: 超越极限": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mutant Gene: Over the Limit",
+      "JP": "変異遺伝子: リミットブレイカー",
+      "CN": "",
+      "KR": "돌연변이 유전자: 한계 초월",
+      "TW": "突變基因：超越極限"
+    }
+  },
+  "蜉蝣加入游戏 - 右键释放冰霜新星减速人类": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mayfly has joined the game - Right-click to release Frost Nova to slow humans",
+      "JP": "カゲロウ参戦 - 右クリックでフロストニュウを発射し、人類の速度を低下させる",
+      "CN": "",
+      "KR": "하루살이 게임 참여 - 마우스 우클릭으로 서리新星 발사하여 인간 속도 저하",
+      "TW": "蜉蝣加入遊戲 - 右鍵釋放冰霜新星減速人類"
+    }
+  },
+  "铁血战士加入游戏 - 右键粒子炮 - 左右键隐身 - SS高跳 - ADAD自爆": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Predator has joined the game - Right-click Plasma Caster - Left/Right click for cloaking - SS for high jump - ADAD to self-destruct",
+      "JP": "Predator参戦 - 右クリックでパーティクルキャノン、左右クリックでステルス、SSでハイジャンプ、ADADで自爆",
+      "CN": "",
+      "KR": "Predator 게임 참여 - 마우스 우클릭으로 파티클 캐넌 사용 - 좌우클릭으로隐身 - SS로 고도 비약 - ADAD로 자폭",
+      "TW": "铁血戰士加入遊戲 - 右鍵粒子炮 - 左右鍵隱身 - SS高跳 - ADAD自爆"
+    }
+  },
+  "蚁狮加入游戏 - 右键飞行 - 左右键钻地": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Antlion has joined the game - Right-click for flight - Left/Right click to burrow",
+      "JP": "蚁蛉参戦 - 右クリックで飛行、左右クリックで地中潜行",
+      "CN": "",
+      "KR": "Antlion 게임 참여 - 마우스 우클릭으로 비행 - 좌우클릭으로 지뢰 굴",
+      "TW": "蟻獅加入遊戲 - 右鍵飛行 - 左右鍵鑽地"
+    }
+  },
+  "火焰喷射器已拾取 - 按E使用 - 右键切换模式": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Flamethrower picked up - Press E to use - Right click to switch mode",
+      "JP": "焚き火スプレーを拾う - Eキーで使用する - 右クリックでモード切替",
+      "CN": "",
+      "KR": "화염 방사기 습득 - E 버튼으로 사용 - 우클릭으로 모드 전환",
+      "TW": "已拾取火焰喷射器 - 按E使用 - 右鍵切換模式"
+    }
+  },
+  "燃料已拾取 - 靠近阿帕奇直升机添加燃料": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fuel picked up - Approach the Apache helicopter to add fuel",
+      "JP": "燃料を拾う - アパッチヘリコプターの近くで燃料を追加",
+      "CN": "",
+      "KR": "연료 습득 - 압치 헬리콥터 근처에서 연료 추가",
+      "TW": "已拾取燃料 - 靠近阿帕奇直升機添加燃料"
+    }
+  },
+  "弹药箱已拾起 - 按E放置无限弹药箱": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ammo crate picked up - Press E to place infinite ammo crate",
+      "JP": "弾薬箱を拾う - Eキーで無限の弾薬箱を設置",
+      "CN": "",
+      "KR": "탄약 상자 습득 - E 버튼으로 무제한 탄약 상자 배치",
+      "TW": "已拾取彈藥箱 - 按E放置無限彈藥箱"
+    }
+  },
+  "机械狗加入游戏 - 左键切换技能 - 右键释放": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mechanical dog joined the game - Left click to switch skills - Right click to release",
+      "JP": "機械犬がゲームに追加 - 左クリックでスキル切替 - 右クリックで解放",
+      "CN": "",
+      "KR": "기계견 게임 참여 - 좌클릭으로 스킬 전환 - 우클릭으로 발동",
+      "TW": "機械狗加入遊戲 - 左鍵切換技能 - 右鍵釋放"
+    }
+  }
+}

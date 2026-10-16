@@ -1,0 +1,112 @@
+{
+  "***ze_taiwan_v1***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ze_taiwan_v1***",
+      "CN": "***ze_taiwan_v1***",
+      "KR": "***ze_taiwan_v1***",
+      "TW": "***ze_taiwan_v1***"
+    }
+  },
+  "***Map by fadil (now know as Italia)***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***fadil制作のマップ（現在の名はItalia)***",
+      "CN": "***地图作者：fadil（现名 Italia）***",
+      "KR": "***fadil 제작 맵 (현재 Italia로 알려져 있음)***",
+      "TW": "***由 fadil 製圖（現名為 Italia）***"
+    }
+  },
+  "***Map created for return to roots zombie escape professional mapping conest***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***return to roots zombie escape プロマッピングコンテスト用のマップ作成***",
+      "CN": "***为“回归本源”僵尸逃亡专业地图竞赛而创作的地图***",
+      "KR": "***전문맵 콘테스트 'Roots' 리턴을 위해 제작된 맵***",
+      "TW": "***此地圖為「重返根源專業地圖製作競賽」之殭屍逃跑主題而製***"
+    }
+  },
+  "***the map is based on movie \"the matirx\"***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***このマップは映画「マトリックス」をベースにしています***",
+      "CN": "***本地图灵感源自电影《黑客帝国》***",
+      "KR": "***이 맵은 영화 '매트릭스'를 바탕으로 합니다***",
+      "TW": "***此地圖以電影「駭客任務」為藍本***"
+    }
+  },
+  "***de wall will die in 30 seconds***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***de wall は30秒後に消滅します***",
+      "CN": "***防御墙将在30秒后消失***",
+      "KR": "***de wall은 30초 후 붕괴됩니다***",
+      "TW": "***牆壁防禦將在 30 秒後倒塌***"
+    }
+  },
+  "***oh no! zombies ar klose! we need to reach vending teleporter!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***おやおや！ゾンビーが近づいてきた！自動販売機のテレポート先に到達する必要がある！***",
+      "CN": "***糟糕！丧尸迫在眉睫，我们必须抵达自动贩卖机传送门！***",
+      "KR": "***안 돼! 좀비가 가까워져! 자동판매자 텔레포터를 계속 타야 해!***",
+      "TW": "***天哪！殭屍靠近了！我們必須抵達自動販賣機瞬間移動器！***"
+    }
+  },
+  "***btw hold the zombies a bit longer cuz theres no filter for tp!!!!!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ちなみに、TPにフィルタがないので、もう少しゾンビを待機させてください！***",
+      "CN": "***顺便说一下，请尽量拖住丧尸更长时间，因为传送门没有冷却时间过滤！***",
+      "KR": "***btw 좀비를 조금 더 오래 붙잡아 주셈. 텔레포트 필터가 없잖아!!!!!***",
+      "TW": "***另外，請稍微撐久一點，因為沒有瞬間移動過濾機制！***"
+    }
+  },
+  "***vending machine will use its power in 30 seconds!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***自動販売機の電源は30秒後に切れます！***",
+      "CN": "***自动贩卖机将在30秒后耗尽能源！***",
+      "KR": "***자판기가 30초 후에 전력을 소진합니다!***",
+      "TW": "***自動販賣機將在 30 秒後耗盡電力！***"
+    }
+  },
+  "***hold! teleporter will be enabled in 1 minute and 4 platform will brek***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***停止！テレポーターは1分4秒後に有効になり、プラットフォームが壊れます***",
+      "CN": "***按住！传送器将在1分4秒后启用，届时将破坏4个平台***",
+      "KR": "***정지! 텔레포터가 1분 후 활성화되며, 플랫폼이 붕괴됩니다***",
+      "TW": "***暫停！傳送器將於1分4秒後啟動，將有4座平台斷裂***"
+    }
+  },
+  "***hold the castle for 60 seconds and then use vending mahine***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***城を60秒間保持し、その後自動販売機を使用してください***",
+      "CN": "***坚守城堡60秒，然后使用自动售货机***",
+      "KR": "***성을 60초 동안 방어한 후 자판기를 사용하세요***",
+      "TW": "***守衛城堡60秒後，再使用自動販賣機***"
+    }
+  },
+  "***you sacrified ur teammates to win! gj!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***チームメイトを犠牲にして勝利しました！おめでとう！***",
+      "CN": "***你牺牲了队友赢得了胜利！干得漂亮！***",
+      "KR": "***팀원을 희생하고 승리했습니다! 잘했어요!***",
+      "TW": "***你犧牲隊友贏得勝利！太棒了！***"
+    }
+  }
+}

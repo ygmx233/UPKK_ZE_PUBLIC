@@ -1,0 +1,512 @@
+{
+  "Welcome to OBJ_PEPSI_TOWER_V67_P": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "OBJ_PEPSI_TOWER_V67_P へようこそ",
+      "CN": "欢迎来到 OBJ_PEPSI_TOWER_V67_P",
+      "KR": "OBJ_PEPSI_TOWER_V67_P에 오신 것을 환영합니다.",
+      "TW": "歡迎來到 OBJ_PEPSI_TOWER_V67_P"
+    }
+  },
+  "Map Sponsored by PEPSI CORP, and ONLY FANS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップはPEPSI CORPとONLY FANSのスポンサー協賛",
+      "CN": "地图由百事可乐公司及FANS独家赞助",
+      "KR": "지도 후원: PEPSI CORP 및 ONLY FANS",
+      "TW": "本地圖由 PEPSI CORP 贊助，僅限粉絲"
+    }
+  },
+  "JOIN THE OFFICIAL PEPSI ZE SERVER: 87.98.228.196:27040!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "公式ペプシZEサーバーに参加: 87.98.228.196:27040!!!",
+      "CN": "加入官方百事 ZE 服务器：87.98.228.196:27040！！！",
+      "KR": "공식 PEPSI ZE 서버에 가입하세요: 87.98.228.196:27040!!!",
+      "TW": "加入官方 PEPSI ZE 伺服器：87.98.228.196:27040！！！"
+    }
+  },
+  ">>> He's blocking the way! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 道を塞がれている! <<<",
+      "CN": ">>> 他挡路了！ <<<",
+      "KR": ">>> 길이 막혔어! <<<",
+      "TW": ">>> 他擋路了！ <<<"
+    }
+  },
+  "NOOB DOWN ( ͡ʘ ͜ʖ ͡ʘ)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "初心者倒しました ( ͡ʘ ͜ʖ ͡ʘ)",
+      "CN": "菜逼倒下 ( ͡ʘ ͜ʖ ͡ʘ)",
+      "KR": "신초 패배 ( ͡ʘ ͜ʖ ͡ʘ)",
+      "TW": "新手倒地 ( ͡ʘ ͜ʖ ͡ʘ)"
+    }
+  },
+  "NOOB DOWN ( ͡ ° ͜ ʖ ͡ ° )": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "初心者倒しました ( ͡ ° ͜ ʖ ͡ ° )",
+      "CN": "菜逼倒下 ( ͡ ° ͜ ʖ ͡ ° )",
+      "KR": "신초 패배 ( ͡ ° ͜ ʖ ͡ ° )",
+      "TW": "新手倒地 ( ͡ ° ͜ ʖ ͡ ° )"
+    }
+  },
+  "NOOB DOWN ( ͡°( ͡° ͜ʖ ( ͡ ° ͜ ʖ ͡ ° )ʖ ͡°) ͡°)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "初心者倒しました ( ͡°( ͡° ͜ʖ ( ͡ ° ͜ ʖ ͡ ° )ʖ ͡°) ͡°)",
+      "CN": "菜逼倒下 ( ͡°( ͡° ͜ʖ ( ͡ ° ͜ ʖ ͡ ° )ʖ ͡°) ͡°)",
+      "KR": "신초 패배 ( ͡°( ͡° ͜ʖ ( ͡ ° ͜ ʖ ͡ ° )ʖ ͡°) ͡°)",
+      "TW": "新手倒地 ( ͡°( ͡° ͜ʖ ( ͡ ° ͜ ʖ ͡ ° )ʖ ͡°) ͡°)"
+    }
+  },
+  "*** ZMs/AFKs TP active in 15 seconds. ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ZMs/AFKs のTPが15秒後に有効になります。 ***",
+      "CN": "*** ZMs/AFKs TP 将在15秒后激活。 ***",
+      "KR": "*** 15초 후 ZMs/AFK들 TP 활성화. ***",
+      "TW": "*** ZMs/AFKs 將在 15 秒後瞬移。 ***"
+    }
+  },
+  "WATCH YOUR FOOTSTEP BROCHACHO": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "踏み間違えるな ブロチャチョ",
+      "CN": "小心脚下，布罗恰乔",
+      "KR": "발걸음에 조심해봐라, 브로차초야",
+      "TW": "小心你的腳步，Brochacho"
+    }
+  },
+  ">>> 1/3 PEPSI Terminal Activated <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 1/3 ペプシターミナル起動完了 <<<",
+      "CN": ">>> 1/3 PEPSI 终端已激活 <<<",
+      "KR": ">>> 1/3 펩시 터미널 가동 <<<",
+      "TW": ">>> 已啟動百事可樂終端機 (1/3) <<<"
+    }
+  },
+  ">>> 2/3 PEPSI Terminal Activated <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 2/3 ペプシターミナル起動完了 <<<",
+      "CN": ">>> 2/3 PEPSI 终端已激活 <<<",
+      "KR": ">>> 2/3 펩시 터미널 가동 <<<",
+      "TW": ">>> 已啟動百事可樂終端機 (2/3) <<<"
+    }
+  },
+  ">>> ALL PEPSI Terminal Activated. The Platform Ascends in 20 seconds. <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ペプシターミナル全て起動完了。20秒後にプラットフォームが上昇する。 <<<",
+      "CN": ">>> 所有 PEPSI 终端已激活。平台将在 20 秒后上升。<<<",
+      "KR": ">>> 모든 펩시 터미널 가동. 20초 후 플랫폼 상승. <<<",
+      "TW": ">>> 所有百事可樂終端機已啟動。平台將於20秒後上升。 <<<"
+    }
+  },
+  "*** ZMs/AFKs TP active in 12 seconds. ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ZMs/AFKs TP 12秒後に開始 ***",
+      "CN": "*** ZMs/AFKs TP 将在 12 秒后生效。***",
+      "KR": "*** ZMs/AFKs 전송 가동까지 12초. ***",
+      "TW": "*** 12秒後將對ZMs/AFKs執行TP。 ***"
+    }
+  },
+  ">>> Some retard jumped into the pepsi ocean and f*cking died! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> お馬鹿がペプシの海に飛び込んで死んだ <<<",
+      "CN": ">>> 有个傻X跳进了PEPSI海里，他妈的死了！<<<",
+      "KR": ">>> 멍청한 녀석이 펩시 바다로 뛰어들어가 죽어버렸네! <<<",
+      "TW": ">>> 某個智障跳進百事可樂海裡，他媽的死了！ <<<"
+    }
+  },
+  ">>> This fat-ass bear zi*nist is blocking the way. Get this mfer out of here. <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> お前の太ったイェーメン熊が道を塞いでるな。ここから消えろ <<<",
+      "CN": ">>> 这头胖得流油的犹太种族主义熊挡路了。把这杂种从这儿弄走。<<<",
+      "KR": ">>> 이 뚱보곰 같은 시*나스틱이 길목을 가로막고 있군. 이 놈을 없애 버려. <<<",
+      "TW": ">>> 這隻又胖又蠢的種族主義熊擋住了路。把這傢伙給我滾開。 <<<"
+    }
+  },
+  "\u000fCoLa AGENT: אני תומך ברצח עם": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "CoLaエージェント：ジェノサイドを支持する",
+      "CN": "CoLa 特工：我支持种族灭绝",
+      "KR": "\u000f코라 단원: 나, 집단학살을 지원해",
+      "TW": "CoLa 特工：我支持種族滅絕"
+    }
+  },
+  ">>> Don't listen to his bullsh*t. Cola is a Goyim product. Don't drink this crap! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼の嘘に耳を貸すな。コーラはゴイムの製品だ。こんな糞は飲くな！",
+      "CN": ">>> 别听他的鬼话。可乐是外邦人的产品。别喝这种狗屎！<<<",
+      "KR": ">>>他那边的废话别听。可拉是戈伊姆产品，喝这玩意儿作甚！<<<",
+      "TW": "<<< 別聽他胡說八道。可樂是外邦人的產物。別喝這堆垃圾！ >>>"
+    }
+  },
+  "NOOB DOWN （͡ ͡° ͜ つ ͡͡°）": {
+    "translation": "",
+    "MultiLang": {
+      "US": "NOOB DOWN （͡ ͡° ͜ つ ͡͡°）",
+      "JP": "",
+      "CN": "菜鸟倒下 （͡ ͡° ͜ つ ͡͡°）",
+      "KR": "초보 처치 （͡ ͡° ͜ つ ͡͡°）",
+      "TW": "菜鳥倒下 （͡ ͡° ͜ つ ͡͡°）"
+    }
+  },
+  "NOOB DOWN (｡˘з˘)Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ノーブ ダウン (｡˘з˘)Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞",
+      "CN": "菜鸟倒下 (｡˘з˘)Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞",
+      "KR": "초보 처치 (｡˘з˘)Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞",
+      "TW": "菜鳥倒下 (｡˘з˘)Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞"
+    }
+  },
+  "*** A pepsican has been destroyed ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ペプシ缶が破壊されました ***",
+      "CN": "*** 一罐百事可乐被摧毁了 ***",
+      "KR": "*** 펩시캔이 파괴되었습니다 ***",
+      "TW": "*** 一罐百事可樂已被摧毀 ***"
+    }
+  },
+  ">>> The ennemy has progressed too far and called a Tactical Nuke! <<<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 敵があまりに進行し、戦術核を要請しました！ <<<<<<",
+      "CN": ">>> 敌人推进太远并召唤了战术核弹！ <<<<<<",
+      "KR": ">>> 적이 너무 멀리 진출하여 전술 핵을 요청했습니다! <<<<",
+      "TW": ">>> 敵方進展太遠並呼叫了戰術核彈！ <<<<<<"
+    }
+  },
+  ">>> 1/4 PEPSI Terminal Activated <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 1/4 PEPSI ターミナルが起動しました <<<",
+      "CN": ">>> 1/4 百事终端已激活 <<<",
+      "KR": ">>> 1/4 펩시 터미널 활성화 <<<",
+      "TW": ">>> 1/4 PEPSI 終端已啟動 <<<"
+    }
+  },
+  ">>> 2/4 PEPSI Terminal Activated <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 2/4 PEPSI ターミナルが起動しました <<<",
+      "CN": ">>> 2/4 百事终端已激活 <<<",
+      "KR": ">>> 2/4 펩시 터미널 활성화 <<<",
+      "TW": ">>> 2/4 PEPSI 終端已啟動 <<<"
+    }
+  },
+  "*** A Human Item was found! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 人間のアイテムが発見されました！ ***",
+      "CN": "*** 发现了一个人类物品！ ***",
+      "KR": "*** 인간 아이템을 발견했습니다! ***",
+      "TW": "*** 發現了一件人類物品！ ***"
+    }
+  },
+  "*** This Pepsi can gave you blindness... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** このペプシ缶はあなたを盲目にしました... ***",
+      "CN": "*** 这罐百事可乐让你失明了... ***",
+      "KR": "*** 이 펩시 캔이 당신에게 실명을 안겨주었습니다... ***",
+      "TW": "*** 這罐百事可樂讓你失明了... ***"
+    }
+  },
+  "*** A Zombie Item was found instead... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 代わりにゾンビアイテムが発見されました... ***",
+      "CN": "*** 却发现了僵尸物品... ***",
+      "KR": "*** 좀비 아이템이 대신 발견되었습니다... ***",
+      "TW": "*** 找到的卻是殭屍道具... ***"
+    }
+  },
+  "*** This Pepsi can gave you a burning diarrhea... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** このペプシ缶で灼熱の下痢になった... ***",
+      "CN": "*** 这罐百事可乐让你得了灼烧性腹泻... ***",
+      "KR": "*** 이 펩시 캔이 당신에게 타는 듯한 설사를 안겨주었습니다... ***",
+      "TW": "*** 這罐百事可樂讓你拉出火燒屁股的腹瀉... ***"
+    }
+  },
+  "*** This Pepsi can gave you brain freeze... ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** このペプシ缶で頭がキーンとした... ***",
+      "CN": "*** 这罐百事可乐让你脑冻住了... ***",
+      "KR": "*** 이 펩시 캔이 당신에게 뇌동결을 안겨주었습니다... ***",
+      "TW": "*** 這罐百事可樂讓你腦凍... ***"
+    }
+  },
+  ">>> The Gates open in 20 seconds. <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゲートが20秒後に開きます。 <<<",
+      "CN": ">>> 大门将在20秒后开启。 <<<",
+      "KR": ">>> 20초 후 문이 열립니다. <<<",
+      "TW": ">>> 大門將在 20 秒後開啟。 <<<"
+    }
+  },
+  "*** This Pepsi can gave you additional max health! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** このペプシ缶で最大体力が増加した！ ***",
+      "CN": "*** 这罐百事可乐增加了你的最大生命值！ ***",
+      "KR": "*** 이 펩시 캔이 최대 체력을 추가로 주었습니다! ***",
+      "TW": "*** 這罐百事可樂給予你額外最大生命值！ ***"
+    }
+  },
+  ">>> DON'T GO NEAR HIM, ARE YOU STUPID OR WHAT? <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> あいつに近づくな、バカか？ <<<",
+      "CN": ">>> 别靠近他，你是傻子吗？ <<<",
+      "KR": ">>> 그에게 가까이 가지 마, 너 바보야? <<<",
+      "TW": ">>> 別靠近他，你是笨嗎？ <<<"
+    }
+  },
+  "*** ZMs TP active in 7 seconds. ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ZMのTPが7秒後に発動します。 ***",
+      "CN": "*** ZM传送将在7秒后激活。 ***",
+      "KR": "*** 7초 후 ZMs TP가 활성화됩니다. ***",
+      "TW": "*** ZMs 傳送將在 7 秒後啟動。 ***"
+    }
+  },
+  ">>> This fat-ass bear is blocking the way. Get him out of here! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> このデブ熊が邪魔だ。どっか行かせろ！ <<<",
+      "CN": ">>> 这头胖熊挡着路了，快把他弄走！ <<<",
+      "KR": ">>> 이 뚱보 곰이 길을 막고 있어. 여기서 쫓아내! <<<",
+      "TW": ">>> 這隻肥胖的混蛋熊擋住路了。把他趕走！ <<<"
+    }
+  },
+  ">>> What a tryhard. I can't believe this mfer just used Rapport! Did the IDF teach him that move!? <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 何必死になってんだよ。Rapport使うなんて信じられねー。IDFでその技教わったのかよ！？ <<<",
+      "CN": ">>> 真够拼的。真不敢信这混蛋竟然用了 Rapport！这招是以色列国防军教的吗！？ <<<",
+      "KR": ">>> 완전 트라이하드네. 이 씨발놈이 라포르를 썼다고!? IDF가 그 무브를 가르쳤나!? <<<",
+      "TW": ">>> 真是個拼命三郎。不敢相信這混蛋居然用了 Rapport！是以色列國防軍教他的這招嗎！？ <<<"
+    }
+  },
+  ">>> The gates to PEPSI TOWER open in 20 seconds. <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> PEPSI TOWERのゲートが20秒後に開きます。 <<<",
+      "CN": ">>> 通往百事塔的大门将在 20 秒后开启。 <<<",
+      "KR": ">>> 펩시 타워의 문이 20초 후에 열립니다. <<<",
+      "TW": ">>> 百事塔大門將在 20 秒後開啟。 <<<"
+    }
+  },
+  "*** ZMs/AFKs TP active in 7 seconds. ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ZM/AFKのTPが7秒後に有効になります。 ***",
+      "CN": "*** ZMs/挂机玩家传送将在 7 秒后激活。 ***",
+      "KR": "*** ZMs/AFK들 TP가 7초 후에 활성화됩니다. ***",
+      "TW": "*** 殭屍/掛機玩家傳送將在 7 秒後啟動。 ***"
+    }
+  },
+  ">>> P.DIDDY!? <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> P.DIDDY!? <<<",
+      "CN": ">>> P.DIDDY!? <<<",
+      "KR": ">>> 피.디디!? <<<",
+      "TW": ">>> P.DIDDY！？ <<<"
+    }
+  },
+  "\u000fDIDDY: Oil up and spread your cheeks love.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "\u000fDIDDY: オイルを塗ってケツを広げろよ、ラブ。",
+      "CN": "\u000f迪迪：抹上油，撅起屁股，宝贝。",
+      "KR": "\u000f디디: 기름 바르고 엉덩이 벌려 봐, 자기야.",
+      "TW": "\u000fDIDDY: 塗上油、張開屁股吧，親愛的。"
+    }
+  },
+  "\u000fMEDJED: SAY WALLAHI": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "\u000fMEDJED: ワラヒと言ってみろ",
+      "CN": "\u000f梅杰德：说阿拉作证",
+      "KR": "\u000f메제드: 왈라히라고 말해",
+      "TW": "\u000fMEDJED: 說 WALLAHI"
+    }
+  },
+  ">>> A little bit of this and a little bit of that aah map <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> これちょっと、あれちょっと、あーあマップ <<<",
+      "CN": ">>> 这地图稍微整点这个，又整点那个，啊啊地图 <<<",
+      "KR": ">>> 이거 조금 저거 조금 아아 맵 <<<",
+      "TW": ">>> 一點這個、一點那個啊，這張地圖 <<<"
+    }
+  },
+  ">>> Survive 67 seconds! AND ABOVE ALL, DO NOT LET THEM trigger the PEPSI terminals! If more than two are triggered, it's JOEVER! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 67秒生き延びろ！何よりも、PEPSI端末を起動させるな！2つ以上起動されたら、終わりだ！ <<<",
+      "CN": ">>> 坚持 67 秒！最重要的是，绝不能让他们触发百事终端！要是触发超过两个，就完蛋了！ <<<",
+      "KR": ">>> 67초간 생존하라! 그리고 무엇보다, 그들에게 펩시 터미널을 작동시키게 하지 마라! 두 개 이상 작동되면, 그건 조버야! <<<",
+      "TW": ">>> 坚持 67 秒！務必別讓他們觸發百事終端機！若超過兩個被觸發，就完蛋了！ <<<"
+    }
+  },
+  ">>> GG. Now prepare to face Pepsiman! Gather on the throne. Hurry up! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 乙。さて、ペプシマンと対峙する準備をしろ！玉座に集まれ。急げ！ <<<",
+      "CN": ">>> GG. 现在准备面对 Pepsiman! 集合在王座上。快点! <<<",
+      "KR": ">>> GG. 이제 펩시맨을 상대할 준비해! 왕좌로 모여. 빨리! <<<",
+      "TW": ">>> GG. 現在準備面對百事人！聚集在王座上。快點！ <<<"
+    }
+  },
+  ">>> Also, I can't believe you managed to hold all the positions! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> それにしても、全ての拠点を守り抜いたなんて信じられない！ <<<",
+      "CN": ">>> 还有, 我简直不敢相信你竟然守住了所有阵地! <<<",
+      "KR": ">>> 게다가, 네가 모든 위치를 지켜냈다니 믿을 수 없어! <<<",
+      "TW": ">>> 而且，我真不敢相信你竟然守住了所有陣位！ <<<"
+    }
+  },
+  ">>> I shall reward you for your performence. <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> お前の働きに報いてやろう。 <<<",
+      "CN": ">>> 我将奖励你的表现。 <<<",
+      "KR": ">>> 너의 활약에 보상하마. <<<",
+      "TW": ">>> 我將獎勵你的表現。 <<<"
+    }
+  },
+  "\u000fPEPSIMAN: Model animation set to: RUN": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "\u000fPEPSIMAN: モデルアニメーションを設定: RUN",
+      "CN": "\u000fPEPSIMAN: 模型动画设置为: RUN",
+      "KR": "\u000fPEPSIMAN: 모델 애니메이션 설정: RUN",
+      "TW": "\u000fPEPSIMAN: 模型動畫設置為：奔跑"
+    }
+  },
+  "\u000fPEPSIMAN: New objective set: KILL EVERYBODY.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "\u000fPEPSIMAN: 新しい目標を設定: 全員を殺せ。",
+      "CN": "\u000fPEPSIMAN: 新目标设定: 杀光所有人。",
+      "KR": "\u000fPEPSIMAN: 새로운 목표 설정: 모두 처치.",
+      "TW": "\u000fPEPSIMAN: 新目標設置：殺光所有人。"
+    }
+  },
+  ">>> Do they know? ( ͡ʘ ͜ʖ ͡ʘ ) <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 奴らは知ってるのか？ ( ͡ʘ ͜ʖ ͡ʘ ) <<<",
+      "CN": ">>> 他们知道吗? ( ͡ʘ ͜ʖ ͡ʘ ) <<<",
+      "KR": ">>> 걔네 알아? ( ͡ʘ ͜ʖ ͡ʘ ) <<<",
+      "TW": ">>> 他們知道嗎？( ͡ʘ ͜ʖ ͡ʘ ) <<<"
+    }
+  },
+  ">>> Eh? Uh, maybe you should do something about those pesky PEPSI LIGHT cans... <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> え？ うーん、あの厄介なペプシライトの缶をなんとかしたほうがいいかもな... <<<",
+      "CN": ">>> 呃? 那个, 也许你该处理一下那些讨厌的 PEPSI LIGHT 罐头... <<<",
+      "KR": ">>> 어? 음, 저 성가신 펩시 라이트 캔들을 좀 어찌해봐... <<<",
+      "TW": ">>> 欸？呃，也許你應該處理一下那些討厭的百事輕怡罐…… <<<"
+    }
+  },
+  ">>> What exactly? I have no f*cking idea. F*ck around and find out as they say. <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 何をだ？ 俺にもさっぱりわからねぇ。やってみなきゃわからねぇってな。 <<<",
+      "CN": ">>> 到底是什么? 我他妈*也不知道。正如俗话所说, 作死就得承担后果。 <<<",
+      "KR": ">>> 정확히 뭘? 씨발, 나도 모르겠어. 지들 말마따나 닥치고 겪어봐. <<<",
+      "TW": ">>> 到底是什麼？我他媽的完全沒頭緒。所謂作死試試就知道了。 <<<"
+    }
+  },
+  ">>> （͡ ͡° ͜ つ ͡͡°） <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> （͡ ͡° ͜ つ ͡͡°） <<<",
+      "JP": "",
+      "CN": ">>> （͡ ͡° ͜ つ ͡͡°） <<<",
+      "KR": ">>> （͡ ͡° ͜ つ ͡͡°） <<<",
+      "TW": ">>> （͡ ͡° ͜ つ ͡͡°） <<<"
+    }
+  },
+  ">>> What the hell, I'd swear those cans were way smaller when they came out of that truck... Argh, whatever man. <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> なんなんだよ、あの缶がトラックから出てきたときはもっと小さかった気がするんだが... ああ、もうどうでもいいや。 <<<",
+      "CN": ">>> 这什么鬼，我发誓那些罐头从卡车上卸下来的时候明明小得多…… 啊，算了吧哥们。 <<<",
+      "KR": ">>> 젠장, 그 트럭에서 나왔을 때만 해도 캔들이 훨씬 작았던 것 같은데... 아, 됐어. 상관없어. <<<",
+      "TW": ">>> 這是什麼鬼，我發誓那些罐頭剛從卡車卸下來時明明小得多……啊，算了啦。 <<<"
+    }
+  }
+}

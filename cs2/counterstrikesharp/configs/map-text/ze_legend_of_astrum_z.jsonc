@@ -1,0 +1,1952 @@
+{
+  "** 10 more seconds! **": {
+    "translation": "**再守10秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒！",
+      "CN": "** 还有 10 秒！**",
+      "KR": "** 10초 뒤! **",
+      "TW": "**再堅持 10 秒！**"
+    }
+  },
+  "** 10 more seconds. **": {
+    "translation": "**再守10秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒。",
+      "CN": "** 还有 10 秒。**",
+      "KR": "** 10초 뒤. **",
+      "TW": "**再撐 10 秒。**"
+    }
+  },
+  "** 10 seconds left. **": {
+    "translation": "**还有10秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒。",
+      "CN": "** 剩余 10 秒。**",
+      "KR": "** 남은 시간 10초. **",
+      "TW": "**剩餘 10 秒。**"
+    }
+  },
+  "** 15 more seconds! **": {
+    "translation": "**再守15秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り15秒！",
+      "CN": "** 还有 15 秒！**",
+      "KR": "** 15초 뒤! **",
+      "TW": "**再堅持 15 秒！**"
+    }
+  },
+  "** 15 more seconds! Keep them at bay for a little longer! **": {
+    "translation": "**再守15秒！再坚持一会儿！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り15秒！あと少し、持ちこたえて！",
+      "CN": "** 还有 15 秒！再坚持一会儿！**",
+      "KR": "** 15초 뒤! 조금 더 버텨주세요! **",
+      "TW": "**再撐 15 秒！請再多支撐一陣子！**"
+    }
+  },
+  "** 15 more seconds. **": {
+    "translation": "**再守15秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り15秒。",
+      "CN": "** 还有 15 秒。**",
+      "KR": "** 15초 뒤. **",
+      "TW": "**再撐 15 秒。**"
+    }
+  },
+  "** 15 seconds left! **": {
+    "translation": "**还有15秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り15秒！",
+      "CN": "** 剩余 15 秒！**",
+      "KR": "** 남은 시간 15초! **",
+      "TW": "**剩餘 15 秒！**"
+    }
+  },
+  "** 2 hours later... **": {
+    "translation": "**两小时后……**",
+    "MultiLang": {
+      "US": "",
+      "JP": "2時間後...",
+      "CN": "** 两小时后……**",
+      "KR": "** 2시간 후... **",
+      "TW": "**兩小時後……**"
+    }
+  },
+  "** 20 more seconds. **": {
+    "translation": "**再守20秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あと20秒です。",
+      "CN": "还有20秒。",
+      "KR": "** 20초 남았습니다. **",
+      "TW": "** 還剩20秒。**"
+    }
+  },
+  "** 5 more seconds! **": {
+    "translation": "**再守5秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あと5秒！",
+      "CN": "最后5秒！",
+      "KR": "** 5초! **",
+      "TW": "** 只剩5秒！**"
+    }
+  },
+  "** 5 more seconds. **": {
+    "translation": "**再守5秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あと5秒。",
+      "CN": "还有5秒。",
+      "KR": "** 5초 남았습니다. **",
+      "TW": "** 還剩5秒。**"
+    }
+  },
+  "** 5 more seconds. Get ready to push forward. **": {
+    "translation": "**再守5秒。准备向前推进。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あと5秒です。前進の準備をしてください。",
+      "CN": "还有5秒。准备好推进。",
+      "KR": "** 5초 남았습니다. 앞으로 나설 준비를 하십시오. **",
+      "TW": "** 還有5秒！準備向前推進。**"
+    }
+  },
+  "** 5 seconds left! **": {
+    "translation": "**还有5秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒！",
+      "CN": "最后5秒！",
+      "KR": "** 5초 남았습니다! **",
+      "TW": "** 剩餘時間：5秒！**"
+    }
+  },
+  "** 5 seconds left! Everyone inside! **": {
+    "translation": "**还有5秒！大家快进来！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒！全員、乗車してください。",
+      "CN": "最后5秒！所有人就位！",
+      "KR": "** 5초 남았습니다! 모두 안에 들어오십시오! **",
+      "TW": "** 剩餘時間：5秒！全員立即入內。**"
+    }
+  },
+  "** 5 seconds left. **": {
+    "translation": "**还有5秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒。",
+      "CN": "还有5秒。",
+      "KR": "** 5초 남았습니다. **",
+      "TW": "** 還剩5秒。**"
+    }
+  },
+  "** 5 seconds left. Just one last log. **": {
+    "translation": "**还有5秒。只差最后一根木头。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒です。最後一つの積込み作業です。",
+      "CN": "最后5秒。仅差最后一块原木。",
+      "KR": "** 5초 남았습니다. 마지막 기록만 남겨두십시오. **",
+      "TW": "** 還有5秒。完成最後一筆日誌記錄。**"
+    }
+  },
+  "** 5 seconds. Ready to go? **": {
+    "translation": "**还有5秒。准备好了吗？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あと5秒です。準備はいいですか？",
+      "CN": "5秒后开始。准备好了吗？",
+      "KR": "** 5초입니다. 준비되셨나요? **",
+      "TW": "** 5秒後。準備出發？**"
+    }
+  },
+  "** And you will be able to cast it's abilities. **": {
+    "translation": "**这样你就可以施展它的能力。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "こうすると、そのキャラクターの技を使えるようになります。",
+      "CN": "之后你将能够使用它的技能。",
+      "KR": "** 그리고 당신은 그것의 능력을 사용할 수 있게 됩니다. **",
+      "TW": "** 你將能夠釋放它的技能。**"
+    }
+  },
+  "** Crates are blocking the way! Hold 20 seconds. **": {
+    "translation": "**箱子挡住了路！再守20秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が箱で塞がれています！20秒間持ち続けてください。",
+      "CN": "货箱挡住了去路！按住20秒。",
+      "KR": "**crate가 길을 막고 있습니다! 20초간 유지하세요. **",
+      "TW": "** 箱子擋住了去路！維持20秒。**"
+    }
+  },
+  "** Door will open in 30 seconds. **": {
+    "translation": "**门将在30秒后打开。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは30秒後に開きます。",
+      "CN": "门将在30秒后打开。",
+      "KR": "** 문이 30초 후에 열립니다. **",
+      "TW": "** 門將在30秒後開啟。**"
+    }
+  },
+  "** Door will unlock in 20 seconds. **": {
+    "translation": "**门将在20秒后解锁。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは20秒後に解除されます。",
+      "CN": "门将在20秒后解锁。",
+      "KR": "** 문이 20초 후에 잠금 해제됩니다. **",
+      "TW": "** 鎖將在20秒後解除。**"
+    }
+  },
+  "** Everyone get over here! Its about to throw a boulder! **": {
+    "translation": "**大家快过来！它要扔石头了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "みんなでここへ集まれ！岩を投げつけようとしている！",
+      "CN": "大家都过来！它要扔巨石了！",
+      "KR": "** 모두 여기로 오세요! 곧 바위를 던질 것입니다! **",
+      "TW": "** 大家快到這裡來！它即將投擲石塊！**"
+    }
+  },
+  "** From the looks of it the Golem is weak against magic. **": {
+    "translation": "**从外观来看，石像鬼的魔法抗性很高。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "見ての通り、ゴーレムは魔法に対して弱そうです。",
+      "CN": "从目前的状况来看，石像鬼对魔法很脆弱。",
+      "KR": "** 그레이트고렘은 마법에 약해 보입니다. **",
+      "TW": "** 看起來，魔像對魔法比較弱。**"
+    }
+  },
+  "** Hold on to it until then. **": {
+    "translation": "**坚持到那时。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "その時まで持ち続けてください。",
+      "CN": "在那之前要一直按住它。",
+      "KR": "** 그때까지 잡고 계세요. **",
+      "TW": "** 堅持到那時。**"
+    }
+  },
+  "** I guess we can close the door here. Lets wait for 30 seconds for the others. **": {
+    "translation": "**我想我们可以把门关上了。接下来，我们等其他人到来，大约30秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここで扉を閉めよう。他の人が来るまで30秒待とう。",
+      "CN": "** 我想我们可以在此关门了。让我们等30秒，以便其他人赶上。**",
+      "KR": "** 아마 여기서 문을 닫을 수 있겠네요. 다른 친구들이 올 때까지 30초 기다려봅시다. **",
+      "TW": "** 我想我們可以關上這扇門。讓我們等 30 秒，等其他人來。**"
+    }
+  },
+  "** It is broken! Let's keep going. **": {
+    "translation": "**它坏了！继续前进。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "壊れている！まだ進むしかない。",
+      "CN": "** 它坏了！让我们继续前进。**",
+      "KR": "** 고장 났어요! 계속 진행합시다. **",
+      "TW": "** 它壞掉了！讓我們繼續前進。**"
+    }
+  },
+  "** It's gone! **": {
+    "translation": "**它没了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "消えた！",
+      "CN": "** 它消失了！**",
+      "KR": "** 사라졌네요! **",
+      "TW": "** 不見了！**"
+    }
+  },
+  "** It's open! It's a straight path to Kyaru! **": {
+    "translation": "**门开了！前往凯露家的道路真是笔直无阻！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "開いた！凱ルへの道は直結だ。",
+      "CN": "** 它打开了！通往 Kyaru 的路是直的！**",
+      "KR": "** 열렸어요! 카르루로가는 직선 경로입니다! **",
+      "TW": "** 開了！通往 Kyaru 的是一條直線。**"
+    }
+  },
+  "** It's open! Let's move forward! **": {
+    "translation": "**门开了！快往前走！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "開いた！先に進もう！",
+      "CN": "** 它打开了！让我们前进吧！**",
+      "KR": "** 열렸어요! 계속 나아가봅시다! **",
+      "TW": "** 開了！讓我們向前移動！**"
+    }
+  },
+  "** It's open! Lets keep going towards her! **": {
+    "translation": "**门开了！我们赶紧朝她的方向走吧！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "開いた！彼女のほうへ進もう！",
+      "CN": "** 它打开了！让我们朝她的方向前进吧！**",
+      "KR": "** 열렸어요! 계속 그녀 쪽으로 나아가봅시다! **",
+      "TW": "** 開了！讓我們繼續朝她前進！**"
+    }
+  },
+  "** Its broken. Let us proceed. **": {
+    "translation": "**门坏了。我们继续往前走吧。**",
+    "MultiLang": {
+      "US": "*** Broken. Let us proceed. ***",
+      "JP": "壊れている。進むしかない。",
+      "CN": "** 它坏了。让我们继续。**",
+      "KR": "** 고장 났습니다. 진행합시다. **",
+      "TW": "** 它壞了。讓我們繼續。**"
+    }
+  },
+  "** Its clear! **": {
+    "translation": "**清理完毕！**",
+    "MultiLang": {
+      "US": "*** Clear! ***",
+      "JP": "道が通じた！",
+      "CN": "** 它清楚了！**",
+      "KR": "** 괜찮아요! **",
+      "TW": "** 清楚了！**"
+    }
+  },
+  "** Just 10 more seconds! **": {
+    "translation": "**再守10秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あと10秒だけ、もう少し！",
+      "CN": "** 只剩最后十秒了！ **",
+      "KR": "** 딱 10초만 더！**",
+      "TW": "** 只剩最後 10 秒！"
+    }
+  },
+  "** Just focus on it and channel your strength through it. It should listen. **": {
+    "translation": "**专注于它，将你的力量传达出去。它应该会听你的。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "それに集中して、力を込めれば……反応するはずよ。",
+      "CN": "** 专注一点，将力量汇聚于其中。它应该能听进去的。 **",
+      "KR": "** 집중해서 힘을 모아야 해. 소리를 들어야 해.**",
+      "TW": "** 請專心一點，將力量集中在上面。它應該會聽得懂。"
+    }
+  },
+  "** Kokkoro: I see my spear right there. Unfortunately it's blocked by a tree. I can summon spirits to carry them. **": {
+    "translation": "**可可萝：我看到我的矛就在那儿，但可惜被一棵树挡住了。我可以召唤精灵来帮忙搬运它。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "小春：あの場所に私の槍があるわ。ただし木に邪魔されて見えない……。精霊を召喚して取り寄せてみましょうか。",
+      "CN": "** Kokkoro：我看见我的枪就在那儿，不幸的是被一棵树挡住了。我可以召唤精灵把它们搬走。 **",
+      "KR": "** 코코로: 스피어는 바로 거기에 있어. 다행히 나무에 막혀 있어. 영혼을 소환해 가져올게.**",
+      "TW": "** 可可蘿：我看到我的矛了，就在前面。不過不幸的是被樹擋住了。我可以召喚精靈去搬走它。"
+    }
+  },
+  "** Kokkoro: The way is clear now. We can go on right ahead. **": {
+    "translation": "**可可萝：现在路畅通无阻，我们可以直接继续前进了。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "小春：道は開けましたね。そのまま進みましょう。",
+      "CN": "** Kokkoro：现在道路已经通畅。我们可以继续前进了。 **",
+      "KR": "** 코코로: 길이 막힌 게 없네. 이제 계속 갈 수 있어.**",
+      "TW": "** 可可蘿：道路已開闊了。我們可以繼續前進。"
+    }
+  },
+  "** Kokkoro: This will take 15 seconds. **": {
+    "translation": "**可可萝：这需要15秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "小春：これには15秒ほどかかります。",
+      "CN": "** Kokkoro：这需要15秒的时间。 **",
+      "KR": "** 코코로: 15초가 걸릴 거야.**",
+      "TW": "** 可可蘿：這需要 15 秒。"
+    }
+  },
+  "** Kyaru: 5 more... Charging! **": {
+    "translation": "**凯露：再守5秒……充能中！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "キャル：残り5秒……充電完了！",
+      "CN": "** Kyaru：再加五……充能！ **",
+      "KR": "** 크야르: 5초... 충전 완료!**",
+      "TW": "** 晴奈：再等我一下……充能完成！"
+    }
+  },
+  "** Kyaru: The way is clear! **": {
+    "translation": "**凯露：路畅通无阻！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "キャル：道が開いたよ！",
+      "CN": "** Kyaru：道路已清理完毕！ **",
+      "KR": "** 크야르: 길이 막혔네!**",
+      "TW": "** 晴奈：道路已開闊了！"
+    }
+  },
+  "** Kyaru: These rocks are in the way! I think I should have enough magic to blow these up. Hold on for 20 seconds. **": {
+    "translation": "**凯露：这些石头挡住了路！我想我有足够的魔力来炸掉它们。再守20秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "キャル：岩が邪魔だ……。爆破できれば十分な魔力はあるはず。20秒待ってて！",
+      "CN": "** Kyaru：这些石头挡住了去路！我觉得我的魔力足够将它们炸开。请坚持20秒。 **",
+      "KR": "** 크야르: 바위들이 길을 막고 있어! 이거 폭발시킬 마법이 충분할 거 같아. 20초만 기다려 줘.**",
+      "TW": "** 晴奈：這些岩石擋住去路！我想我的魔力應該足夠將它們炸開。請稍等 20 秒。"
+    }
+  },
+  "** Let us go now to Landosol. It's close. **": {
+    "translation": "**我们现在就去兰德索尔吧。离这儿不远。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "さて、ラドソルへ向かおう。近いぞ。",
+      "CN": "前往兰多索尔吧，那里很近了。",
+      "KR": "** 이제라도 난도솔로 가자. 가까워. **",
+      "TW": "我們現在前往蘭多索爾。那裡很近。"
+    }
+  },
+  "** Let us push forward! **": {
+    "translation": "**我们向前推进！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "行くぞ！",
+      "CN": "继续前进！",
+      "KR": "** 전진하자! **",
+      "TW": "繼續前進吧！"
+    }
+  },
+  "** Let us rest for 10 seconds. There were way too many monsters inside. **": {
+    "translation": "**我们先休息10秒。里面的怪物太多了。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒休憩しよう。モンスターが多すぎた。",
+      "CN": "休息10秒吧。里面的怪物实在太多了。",
+      "KR": "** 10초간 휴식하자. 몬스터가 너무 많았어. **",
+      "TW": "讓我們休息 10 秒。裡面的怪物實在太多了。"
+    }
+  },
+  "** Let us rest here for now... **": {
+    "translation": "**我们先在这里休息……**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここで休もう……",
+      "CN": "先在这里休息一会儿吧……",
+      "KR": "** 여기서 잠시 휴식하자... **",
+      "TW": "我們就先在此休息……"
+    }
+  },
+  "** Let us wait for the others. We will close the door in 25 seconds. **": {
+    "translation": "**我们等一下其他人。25秒后我们就关门。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "他のメンバーを待とう。25秒後に扉が閉まる。",
+      "CN": "等其他人跟上来吧。25秒后门会关闭。",
+      "KR": "** 다른 이들을 기다리자. 문이 25초 후에 닫힐 거야. **",
+      "TW": "等其他人一起來。門將在 25 秒後關閉。"
+    }
+  },
+  "** Lets go out through the back door... **": {
+    "translation": "**我们从后门出去……**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裏口から抜けよう……",
+      "CN": "从后门出去吧……",
+      "KR": "** 뒷문으로 나가자... **",
+      "TW": "我們從後門出去吧……"
+    }
+  },
+  "** More trees on the way! Hold on for a bit. It will take around 20 seconds again. **": {
+    "translation": "**路上还有更多的树！请再等一会儿，这又要花费大约20秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "木々が更多に現れる！もう少し待て。20秒ほどかかるだろう。",
+      "CN": "前方还有树林！再坚持一下，大约还要20秒。",
+      "KR": "** 길에 나무가 더 많아! 조금만 기다려. 또 약 20초 걸릴 거야. **",
+      "TW": "路上有更多樹木！再撐一下。大約又要花 20 秒。"
+    }
+  },
+  "** Now... We may need our weapons. Could you find them in the forest? **": {
+    "translation": "**现在……我们可能需要武器。你能在森林里找到它们吗？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "さて……武器が必要になるかもしれない。森から持ってきてくれるか？",
+      "CN": "接下来……我们可能需要武器。你能去森林里找找吗？",
+      "KR": "** 이제... 무기가 필요할지도 몰라. 숲에서 찾아줄 수 있어? **",
+      "TW": "現在……我們可能需要武器。你能在森林裡找到嗎？"
+    }
+  },
+  "** Okay. They will close the gates! Everyone get in within 30 seconds. **": {
+    "translation": "**好的，他们要关门了！大家在30秒内快点进来。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "よし。ゲートが閉じる！全員、30秒以内に入れ！",
+      "CN": "** 好的。他们会关闭城门！所有人必须在30秒内进入。**",
+      "KR": "** 좋아. 문이 닫힐 거야! 30초 안에 모두 들어와.",
+      "TW": "好。大閘門將關閉！大家在 30 秒內全部進來。"
+    }
+  },
+  "** Pecorine: Give me 20 seconds to warm up and charge the punch. **": {
+    "translation": "**佩可莉姆：给我20秒时间。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ペコリーヌ：温まってパンチを充電するのに、あと20秒頂戴！",
+      "CN": "** 佩可莉娜：给我20秒预热并蓄力出拳。**",
+      "KR": "** 페코린: 내가 주구를 충전하는 데 20초만 줘.",
+      "TW": "佩可莉姆：給我 20 秒時間熱身，然後蓄力出拳。"
+    }
+  },
+  "** Pecorine: Here we go! **": {
+    "translation": "**佩可莉姆：开始了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ペコリーヌ：いくよー！",
+      "CN": "** 佩可莉娜：准备好了吗！**",
+      "KR": "** 페코린: 가자!",
+      "TW": "佩可莉姆：接招吧！"
+    }
+  },
+  "** Pecorine: Seems like the rock wall is blocking the path. I guess I can punch through it. **": {
+    "translation": "**佩可莉姆：看起来石墙挡住了路。我想我可以把它打破。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ペコリーヌ：岩壁が道を塞いでるわ。 punch で突破するしかないかしら。",
+      "CN": "** 佩可莉娜：看起来岩壁挡住了去路。我想我可以一拳打穿它。**",
+      "KR": "** 페코린: 바위벽이 길을 막고 있군. 주구로 뚫을 수 있을 것 같아.",
+      "TW": "佩可莉姆：看來石牆擋住了去路。我應該可以一拳打穿它。"
+    }
+  },
+  "** SURVIVE **": {
+    "translation": "**活下去**",
+    "MultiLang": {
+      "US": "",
+      "JP": "サバイバル",
+      "CN": "** 存活**",
+      "KR": "** 생존 **",
+      "TW": "存活下來"
+    }
+  },
+  "** That was way too close. **": {
+    "translation": "**太危险了。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "まあ、それは危なかったわ。",
+      "CN": "** 太惊险了。**",
+      "KR": "** 위태로웠어. **",
+      "TW": "太驚險了。"
+    }
+  },
+  "** The Golem's Dead! Nice one everyone. **": {
+    "translation": "**魔像死了！大家干得不错。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゴーレム撃破！お疲れ様！",
+      "CN": "** 魔像已死！大家干得漂亮。**",
+      "KR": "** 골렘이 죽었어! 잘했어, 모두.",
+      "TW": "傀儡已經死亡！大家做得很好。"
+    }
+  },
+  "** The bridge is unstable! Get out of there! **": {
+    "translation": "**桥不稳定！快离开那里！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "橋が不安定！すぐ離れて！",
+      "CN": "** 桥梁不稳！快离开那里！**",
+      "KR": "** 다리가 불안정해! 거기서 나와! **",
+      "TW": "橋樑不穩！快離開那裡！"
+    }
+  },
+  "** The door is closing in 10 seconds. **": {
+    "translation": "**门将在10秒后关闭。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが10秒後に閉じます。",
+      "CN": "**门将在10秒后关闭。**",
+      "KR": "** 문이 10초 후에 닫힙니다. **",
+      "TW": "**門將在10秒後關閉。**"
+    }
+  },
+  "** The door is closing in 20 seconds. **": {
+    "translation": "**门将在20秒后关闭。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが20秒後に閉じます。",
+      "CN": "**门将在20秒后关闭。**",
+      "KR": "** 문이 20초 후에 닫힙니다. **",
+      "TW": "**門將在20秒後關閉。**"
+    }
+  },
+  "** The door is closing! **": {
+    "translation": "**门要关了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが閉まります！",
+      "CN": "**门正在关闭！**",
+      "KR": "** 문이 닫힙니다! **",
+      "TW": "**門正在關閉！**"
+    }
+  },
+  "** The door is now open. **": {
+    "translation": "**门现在打开了。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開きました。",
+      "CN": "**门已打开。**",
+      "KR": "** 이제 문이 열렸습니다. **",
+      "TW": "**門現在已經打開。**"
+    }
+  },
+  "** The door is stuck. Hold on for 30 seconds. **": {
+    "translation": "**门卡住了。再守30秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが詰まっています。30秒お待ちください。",
+      "CN": "**门卡住了。请等待30秒。**",
+      "KR": "** 문이 막혔습니다. 30초간 기다려 주세요. **",
+      "TW": "**門卡住了。請等待30秒。**"
+    }
+  },
+  "** The door will open in 25 seconds! **": {
+    "translation": "**门将在25秒后打开！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒後にドアが開きます！",
+      "CN": "**门将在25秒后打开！**",
+      "KR": "** 문이 25초 후에 열립니다! **",
+      "TW": "**門將在25秒後開啟！**"
+    }
+  },
+  "** The gates are closing! Get inside before it's too late! **": {
+    "translation": "**大门要关了！快进来，别等到来不及了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "門が閉まります！間に合う内に中へ入ってください！",
+      "CN": "**大门即将关闭！请在为时已晚前进入！**",
+      "KR": "** 게이트가 닫힙니다! 제때 안에 들어오세요! **",
+      "TW": "**大閘正在關閉！請在太遲之前進入！**"
+    }
+  },
+  "** The trees are in the way! We'll be able to clear it in 20 seconds. **": {
+    "translation": "**树挡住了路！我们大约20秒后就能清理掉它。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "木々が邪魔をしています。20秒後に撤去できます。",
+      "CN": "**树木挡住了去路！我们将用20秒清理障碍物。**",
+      "KR": "** 나무가 길을 막고 있습니다. 20초 안에 처리할 수 있습니다. **",
+      "TW": "**樹木擋住了去路！我們將用20秒將其清理完畢。**"
+    }
+  },
+  "** There are too many! Is this going to be the end? **": {
+    "translation": "**实在太多了！这会结束吗？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あまりに多い！これが終わりなのか？",
+      "CN": "**怪物太多了！难道这就是结局？**",
+      "KR": "** 너무 많아! 이게 최후인가? **",
+      "TW": "太多了！這難道是最終結局嗎？"
+    }
+  },
+  "** There is still monsters inside! Get rid of them! **": {
+    "translation": "**里面还有怪物！把它们解决掉！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "中にモンスターがいる！退治しろ！",
+      "CN": "**里面还有怪物！消灭它们！**",
+      "KR": "** 안쪽에 괴물이 남아 있어! 퇴치해라! **",
+      "TW": "裡面還有怪物！把牠們清除掉！"
+    }
+  },
+  "** There should be three paths. I think all paths has a weapon of ours. Thanks in advance. **": {
+    "translation": "**应该有三条路。我觉得每条路上都有我们的武器。提前感谢你。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "３つの道があるはずだ。それぞれの道に我々の武器があると思う。よろしく頼むぞ。",
+      "CN": "**应该有三条路。我想每条路上都有我们的武器。先谢过各位。**",
+      "KR": "** 세 가지 길이 있을 거야. 우리 무기가 각 경로에 하나씩 있을 거라고 믿어. 미리 감사해. **",
+      "TW": "應該有三條路。我想每條路都藏著我們的武器。先謝謝你了。"
+    }
+  },
+  "** Wait why is there a golem? **": {
+    "translation": "**等一下，为什么会有魔像？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "おい、ゴーレムが!? なぜだ？",
+      "CN": "**等等，怎么会有魔像？**",
+      "KR": "** 잠깐, 골렘이 왜 있어? **",
+      "TW": "等等，怎麼有石巨人？"
+    }
+  },
+  "** Wait. There is no way out! **": {
+    "translation": "**等一下。没有出路了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "待て、出口がない！",
+      "CN": "**等等，没有出口了！**",
+      "KR": "** 잠깐. 빠져나갈 수 없어! **",
+      "TW": "等等。沒有出口！"
+    }
+  },
+  "** Wait... SHADOWS! RUN! **": {
+    "translation": "**等一下……是暗影！快跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "静かに……影だ！逃げろ！",
+      "CN": "**别动……是暗影！快跑！**",
+      "KR": "** 잠깐... 그림자다! 도망쳐! **",
+      "TW": "等等……有陰影！快逃！"
+    }
+  },
+  "** We are also surrounded! We have to hold on! **": {
+    "translation": "**我们也被包围了！我们必须坚持住！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "我々も包囲された！持ちこたえろ！",
+      "CN": "**我们也被包围了！我们必须坚持住！**",
+      "KR": "** 우리도 포위됐다! 버텨야 해! **",
+      "TW": "我們也被包圍了！必須堅守陣地！"
+    }
+  },
+  "** We got one of the keys to unlock the restaurant! **": {
+    "translation": "**我们找到了一把可以解锁餐厅的钥匙！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レストランの鍵の一つを手に入れたぞ！",
+      "CN": "**我们拿到了解锁餐厅的一把钥匙。**",
+      "KR": "** 식당 문을 열 수 있는 열쇠 중 하나를 얻었어! **'",
+      "TW": "拿到解鎖餐廳的一把鑰匙了！"
+    }
+  },
+  "** We gotta break these planks! Give us 30 seconds! **": {
+    "translation": "**我们得打破这些木板！给我们30秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "木を割け！30秒待って！",
+      "CN": "我们必须破坏这些木板！给我们30秒！",
+      "KR": "** 판자를 부부해야 합니다! 30초를 기다려 주세요! **",
+      "TW": "** 我們得敲開這些木板！給我們30秒的時間！ **"
+    }
+  },
+  "** We have found Kokkoro's Staff! **": {
+    "translation": "**我们找到了可可萝的矛！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ココロの杖を発見！",
+      "CN": "我们找到了心奈的法杖！",
+      "KR": "** 코코로의 지팡이를 찾았습니다! **",
+      "TW": "** 我們找到了 Kokoro 的手杖！ **"
+    }
+  },
+  "** We have found Kyaru's Grimore! **": {
+    "translation": "**我们找到了凯露的魔导书！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "カルアのお魔導書を手に入れた！",
+      "CN": "我们找到了胡桃的魔导书！",
+      "KR": "** 쟈르의 마법은 찾아냈습니다! **",
+      "TW": "** 我們找到了 Kyaru 的魔法書！ **"
+    }
+  },
+  "** We have found Pecorine's Sword! **": {
+    "translation": "**我们找到了佩可莉姆的剑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ペコリーの剣を取り戻した！",
+      "CN": "我们找到了佩可莉姆的剑！",
+      "KR": "** 페쿠리나의 검을 찾았습니다! **",
+      "TW": "** 我們找到了 Pecorine 的劍！ **"
+    }
+  },
+  "** We have to defeat it here at the bridge. **": {
+    "translation": "**我们必须在桥上打败它。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここで橋を叩きつぶすぞ",
+      "CN": "我们必须在这座桥上击败它。",
+      "KR": "** 교량에서 꼭 격파해야 합니다. **",
+      "TW": "** 我們必須在這裡的橋樑上擊敗它。 **"
+    }
+  },
+  "** Why is it very quiet outside? **": {
+    "translation": "**外面怎么这么安静？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "外がなぜか妙に静かだ",
+      "CN": "为什么外面如此安静？",
+      "KR": "** 왜 외부가 이렇게 조용할까요? **",
+      "TW": "** 為什麼外面如此安靜？ **"
+    }
+  },
+  "** You found all of our weapons! We can push forward. Let's just wait for 20 seconds for the rest to catch up. **": {
+    "translation": "**你找到了我们所有的武器！我们可以继续前进了。先等20秒，让其他人赶上来吧。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "武器を手に取った！進む準備はできた。残り20秒、仲間の合流を待とう",
+      "CN": "你找到了我们的所有武器！我们可以继续前进。再等20秒，让其他人赶上我们吧。",
+      "KR": "** 모든 무기를 찾았습니다! 나아가세요. 나머지 일행이 따라올 때까지 20초간 대기합니다. **",
+      "TW": "** 你找到了我們所有的武器！我們可以繼續前進。讓我們等待20秒，讓其他人跟上來。 **"
+    }
+  },
+  "** You know what. Keep the weapons for now. We will teach you how to use them in Landosol. **": {
+    "translation": "**你知道吗，暂时把武器留着。我们会在兰德索尔教你怎么使用它们。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "武器は持っておけ。使い方はお城の土地で教えてやろう",
+      "CN": "算了，先保管好武器。我们在兰多斯洛教你如何使用的。",
+      "KR": "** 그래, 무기는 일단 가지고 가세요. 랜드솔로 가면 쓰는 방법을 가르쳐 드리죠. **",
+      "TW": "** 你知道該怎麼辦。先把武器收好，我們會在 Landosol 教你們如何使用它們。 **"
+    }
+  },
+  "** You know what. We will teach you how to use our weapons. **": {
+    "translation": "**你知道吗，我们会教你如何使用我们的武器。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "さて、ここからが本番だ。我々が武器の使い方を教えてやろう。",
+      "CN": "你想说什么。我们会教你如何运用我们的武器。",
+      "KR": "** 알겠어. 우리가 너희에게 무기를 사용하는 법을 가르쳐주마. **",
+      "TW": "**你聽好了。我們會教你如何運用我們的武器。**"
+    }
+  },
+  "<<BUG反馈请前往Dc频道>>": {
+    "translation": "<<BUG反馈请前往Dc频道>>",
+    "MultiLang": {
+      "US": "<<For bug feedback, please go to the DC channel>>",
+      "JP": "<<バグのフィードバックはDCチャンネルへお願いします>>",
+      "CN": "<<BUG反馈请前往Dc频道>>",
+      "KR": "<<버그 제보 Dc 채널로>>",
+      "TW": "<<BUG反饋請前往Dc頻道>>"
+    }
+  },
+  "<<By Pasas1345>>": {
+    "translation": "<<地图作者：Pasas1345 翻译：Asteri3m>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<By Pasas1345>>",
+      "CN": "<<By Pasas1345>>",
+      "KR": "<<By Pasas1345>>",
+      "TW": "<<By Pasas1345>>"
+    }
+  },
+  "<<Congratulations on your victory!>>": {
+    "translation": "<<恭喜你们获胜！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "勝利おめでとうございます！",
+      "CN": "<<恭喜你获得胜利！>>",
+      "KR": "<<축하합니다, 승리했습니다!>>",
+      "TW": "恭喜您獲勝！"
+    }
+  },
+  "<<Get too close and you will die.>>": {
+    "translation": "<<靠得太近就会死。>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<近寄ると死ぬぞ。>>",
+      "CN": "<<太靠近你就会死。>>",
+      "KR": "<<너무 가까이 다가오면 죽습니다.>>",
+      "TW": "靠得太近會死。"
+    }
+  },
+  "<<Golem>>": {
+    "translation": "<<魔像>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゴーレム",
+      "CN": "<<傀儡>>",
+      "KR": "<<골렘>>",
+      "TW": "<<石像鬼>>"
+    }
+  },
+  "<<Hopefully you'll be able to adventure with everyone.>>": {
+    "translation": "<<希望你能和大家一起冒险。>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<みんなと冒険できるといいな。>>",
+      "CN": "<<希望你今后能和所有人一起冒险。>>",
+      "KR": "<<여러분과 함께 모험하기를 바랍니다.>>",
+      "TW": "<<希望你能和大家一起冒險。>>"
+    }
+  },
+  "<<Inspired by the game Prinecss Connect Re:Dive!>>": {
+    "translation": "<<灵感来自游戏《公主连结 Re:Dive！》>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<プリンセスコネクト！Re:Diveに触発されたゲーム>>",
+      "CN": "<<灵感源自游戏《公主连结Re:Dive》！>>",
+      "KR": "<<게임 <Princess Connect! Re:Dive>에 영감을 받았습니다.>>",
+      "TW": "《公主連結Re:Dive》遊戲靈感來源！"
+    }
+  },
+  "<<Inspired by the game: Princess Connect Re:Dive!>>": {
+    "translation": "<<灵感来自游戏：公主连结 Re:Dive！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<インスパイアード・バイ・プリコネ：Re:Dive!>>",
+      "CN": "<<灵感源自游戏《公主连结Re:Dive》！>>",
+      "KR": "<<Princess Connect Re:Dive!에 영감을 받았습니다>>",
+      "TW": "<<靈感來自遊戲：公主連結 Re:Dive!>>"
+    }
+  },
+  "<<Items have been unlocked!>>": {
+    "translation": "<<神器已解锁！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<アイテムを入手しました！>>",
+      "CN": "<<已解锁道具！>>",
+      "KR": "<<아이템이 해금되었습니다!>>",
+      "TW": "<<道具已解鎖！>>"
+    }
+  },
+  "<<Kokkoro's Spear - After casting a healing aura will appear for 8 seconds.>>": {
+    "translation": "<<可可萝的矛 - 施展后会出现一个治疗光环，持续8秒。>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<コッコロの槍 - 回復オーラを発動し、8秒間持続します。>>",
+      "CN": "<<可可萝的长矛 - 施放治疗光环，持续8秒。>>",
+      "KR": "<<코코로의 창 - 치료 기운을 발사하면 8초 동안 치유의 오라가 나타납니다.>>",
+      "TW": "<< Kokkoro的長矛 - 施放治療光環，持續8秒。>>"
+    }
+  },
+  "<<Kokkoro's Spear - Heals 50 HP. After that it pushes zombies away with the faeries it spawns>>": {
+    "translation": "<<可可萝的矛 - 恢复50点生命值。之后，它会用召唤出的精灵把僵尸推开。>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<コッコロの槍 - 50HP回復。その後、召喚された妖精が殭屍を吹き飛ばします>>",
+      "CN": "<<可可萝的长矛 - 恢复50点生命值。随后生成的精灵会将僵尸击退>>",
+      "KR": "<<코코로의 창 - 체력을 50 회복합니다. 이후 생성된 요정들이 좀비를 밀어냅니다>>",
+      "TW": "<<Kokkoro的長矛 - 恢復50點生命值。此後，它會利用召喚出的精靈將殭屍擊退>>"
+    }
+  },
+  "<<Kokkoro's Spear has been picked up>>": {
+    "translation": "<<可可萝的矛已被捡起>>",
+    "MultiLang": {
+      "US": "Kokkoro's Spear Has Been Picked Up",
+      "JP": "<<コッコロの槍を拾いました>>",
+      "CN": "<<已拾取可可萝的长矛>>",
+      "KR": "<<코코로의 창을 수집했습니다>>",
+      "TW": "<<已拾取Kokkoro的長矛>>"
+    }
+  },
+  "<<Kyaru's Grimore - Charge magic which then shoots an orb that damages and slows zombies.>>": {
+    "translation": "<<凯露的魔导书 - 充能魔法，随后发射一个能造成伤害并减速僵尸的能量球。>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<キャラルの魔導書 - 魔法をチャージし、殭屍にダメージとスロウ効果を与える球体を発射します。>>",
+      "CN": "<<凯露的魔导书 - 蓄力魔法，发射造成伤害并减缓僵尸速度的法球。>>",
+      "KR": "<<샤르의 고레임 - 마력을 충전한 후 좀비를 피해주고 느리게 만드는 오브를 발사합니다.>>",
+      "TW": "<<Kyaru的秘典 - 蓄力後發射球體，對殭屍造成傷害並減速。>>"
+    }
+  },
+  "<<Kyaru's Grimore has been picked up>>": {
+    "translation": "<<凯露的魔导书已被捡起>>",
+    "MultiLang": {
+      "US": "Kyaru's Grimoire Has Been Picked Up",
+      "JP": "<<キャラルの魔導書を拾いました>>",
+      "CN": "<<已拾取凯露的魔导书>>",
+      "KR": "<<샤르의 고레임을 수집했습니다>>",
+      "TW": "<<已拾取Kyaru的秘典>>"
+    }
+  },
+  "<<Legend of Astrum>>": {
+    "translation": "<<阿斯特朗传奇>>",
+    "MultiLang": {
+      "US": "***Astrum Legend***",
+      "JP": "<<アストルムの伝説>>",
+      "CN": "<<天圣传说>>",
+      "KR": "<<아스trum의 전설>>",
+      "TW": "<<Astrum的傳奇>>"
+    }
+  },
+  "<<Let's get familiar with the abilities of the weapons>>": {
+    "translation": "<<让我们熟悉武器的能力>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "武器のスキルに慣れてみましょう",
+      "CN": "<<了解武器的各项能力吧>>",
+      "KR": "<<무기들의 능력을 익숙해져 봅시다>>",
+      "TW": "<<讓我們熟悉武器的能力>>"
+    }
+  },
+  "<<Mana Senri - The Omniscient Kaiser>>": {
+    "translation": "<<千里真那 - 全知的霸瞳>>",
+    "MultiLang": {
+      "US": "<<Mana Senri - The All-Knowing Emperor>>",
+      "JP": "<<マナSenri - 全知のカイザー>>",
+      "CN": "<<Mana Senri - 全知凯撒>>",
+      "KR": "<<마나 센리 - 전지전능한 카이저>>",
+      "TW": "<<瑪娜千里 - 全知的凱撒>>"
+    }
+  },
+  "<<Map by Pasas1345>>": {
+    "translation": "<<地图作者：Pasas1345 翻译：Asteri3m>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<Map by Pasas1345>>",
+      "CN": "<<由 Pasas1345 制作地图>>",
+      "KR": "<<Pasas1345의 맵>>",
+      "TW": "<<由 Pasas1345 製作的地圖>>"
+    }
+  },
+  "<<Map made by Pasas1345>>": {
+    "translation": "<<地图作者：Pasas1345 翻译：Asteri3m>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<マップ制作：Pasas1345>>",
+      "CN": "<<地图由 Pasas1345 制作>>",
+      "KR": "<<Pasas1345가 제작한 맵>>",
+      "TW": "<<由 Pasas1345 製作的地圖>>"
+    }
+  },
+  "<<Pecorine's Sword - After which the sword swings 3 times freezing and pushing back the zombies.>>": {
+    "translation": "<<佩可莉姆的剑 - 之后剑挥动3次，推开并冻结僵尸。>>",
+    "MultiLang": {
+      "US": "<<Pecorine's Sword - Swings 3 times, freezing and pushing back the zombies.>>",
+      "JP": "<<ペコリンの剣 - 3回斬り、ゾンビを凍結・ノックバック>>",
+      "CN": "<<佩可莉姆之剑 - 挥剑三次，冻结并击退僵尸。>>",
+      "KR": "<<페코리네의 칼 - 총 3번 휘둘러 좀비를 얼리고 밀어냅니다.>>",
+      "TW": "<<佩可琳的劍 - 揮舞三次後凍結並擊退殭屍。>>"
+    }
+  },
+  "<<Pecorine's Sword - Become a shield which blocks zombies from going through you.>>": {
+    "translation": "<<佩可莉姆的剑 - 变为一面盾牌，能够阻挡僵尸穿过你。>>",
+    "MultiLang": {
+      "US": "<<Pecorine's Sword - Become a barrier that stops zombies in their tracks.>>",
+      "JP": "<<ペコリンの剣 - 盾となり、ゾンビがあなたを通り抜けるのを阻止>>",
+      "CN": "<<佩可莉姆之剑 - 化身盾牌，阻挡僵尸穿透。>>",
+      "KR": "<<페코리네의 칼 - 좀비가 당신을 통과하는 것을 막아주는 방패가 됩니다.>>",
+      "TW": "<<佩可琳的劍 - 變成盾牌，阻止殭屍穿過你。>>"
+    }
+  },
+  "<<Pecorine's Sword has been picked up>>": {
+    "translation": "<<佩可莉姆的剑已被捡起>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ペコリンの剣を拾いました>>",
+      "CN": "<<已拾取佩可莉姆之剑>>",
+      "KR": "<<페코리네의 칼을 획득했습니다>>",
+      "TW": "<<拾取了佩可琳的劍>>"
+    }
+  },
+  "<<Re:Dive -- The Legend of Astrum>>": {
+    "translation": "<<公主联结 -- 阿斯特朗传奇>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<Re:Dive -- Astrumの伝説>>",
+      "CN": "<<Re:Dive -- Astrum的传说>>",
+      "KR": "<<Re:Dive -- 아스트룸의 전설>>",
+      "TW": "<<Re:Dive -- 阿斯特朗的傳說>>"
+    }
+  },
+  "<<Re:Dive Mode Complete...>>": {
+    "translation": "<<公主联结模式完成……>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<Re:Diveモード完了...>>",
+      "CN": "<<Re:Dive 模式完成...>>",
+      "KR": "<<Re:다이버 모드 완료...>>",
+      "TW": "<<重：潛水模式完成...>>"
+    }
+  },
+  "<<Shadows>>": {
+    "translation": "<<暗影>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<シャドウズ>>",
+      "CN": "《暗影》",
+      "KR": "<<그림자>>",
+      "TW": "<<陰影>>"
+    }
+  },
+  "<<Stage 1 - Forest & Landosol>>": {
+    "translation": "<<第一关 - 森林与兰德索尔>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ステージ1 - 森とランドソル>>",
+      "CN": "《第1关 - 森林与兰多索尔》",
+      "KR": "<<ステージ 1 - 숲 & 랜도솔>>",
+      "TW": "<<第1關 - 森林與蘭多索爾>>"
+    }
+  },
+  "<<Stage 1 Completed!>>": {
+    "translation": "<<第一关完成！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ステージ1クリア！>>",
+      "CN": "《第1关完成！》",
+      "KR": "<<.Stage 1 완료!>>",
+      "TW": "<<第1關完成！>>"
+    }
+  },
+  "<<Stage 2 - The False Princess>>": {
+    "translation": "<<第二关 - 虚假的公主>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ステージ2 - 偽りの王女>>",
+      "CN": "《第2关 - 假公主》",
+      "KR": "<<Stage 2 - 가짜 공주>>",
+      "TW": "<<第2關 - 假公主>>"
+    }
+  },
+  "<<Stage 2 Won!>>": {
+    "translation": "<<第二关胜利！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ステージ2制覇！>>",
+      "CN": "《第2关获胜！》",
+      "KR": "<<Stage 2 승리!>>",
+      "TW": "<<第2關通關！>>"
+    }
+  },
+  "<<The boulders are now gone>>": {
+    "translation": "<<石头现在消失了>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<岩はもう消えた>>",
+      "CN": "巨石现已移除",
+      "KR": "<<큰 바위들이 사라졌다>>",
+      "TW": "<<巨石已經消失了>>"
+    }
+  },
+  "<<The door can be unlocked>>": {
+    "translation": "<<门可以解锁>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<扉が解放された>>",
+      "CN": "门已可以解锁",
+      "KR": "<<문을 열 수 있다>>",
+      "TW": "<<門可以被解鎖了>>"
+    }
+  },
+  "<<Warmup -- 10 seconds>>": {
+    "translation": "<<热身 -- 10秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ウォーミングアップ -- 10秒>>",
+      "CN": "《热身练习 -- 10秒》",
+      "KR": "<<웨이프 -- 10초>>",
+      "TW": "<<熱身 -- 10 秒>>"
+    }
+  },
+  "<<Warmup -- 20 seconds>>": {
+    "translation": "<<热身 -- 20秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ウォーミングアップ -- 20秒>>",
+      "CN": "「热身阶段 -- 剩余20秒」",
+      "KR": "<<웨이프 -- 20초>>",
+      "TW": "<<熱身 -- 20 秒>>"
+    }
+  },
+  "<<Warmup -- 30 seconds>>": {
+    "translation": "<<热身 -- 30秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ウォーミングアップ -- 30秒>>",
+      "CN": "「热身阶段 -- 剩余30秒」",
+      "KR": "<<웨이프 -- 30초>>",
+      "TW": "<<熱身 -- 30 秒>>"
+    }
+  },
+  "<<Warmup -- 40 seconds>>": {
+    "translation": "<<热身 -- 40秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ウォーミングアップ -- 40秒>>",
+      "CN": "「热身阶段 -- 剩余40秒」",
+      "KR": "<<웨이프 -- 40초>>",
+      "TW": "<<熱身 -- 40 秒>>"
+    }
+  },
+  "<<Warmup -- 50 seconds>>": {
+    "translation": "<<热身 -- 50秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ウォーミングアップ -- 50秒>>",
+      "CN": "「热身阶段 -- 剩余50秒」",
+      "KR": "<<웨이프 -- 50초>>",
+      "TW": "<<熱身 -- 50 秒>>"
+    }
+  },
+  "<<Warmup -- 60 seconds>>": {
+    "translation": "<<热身 -- 60秒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ウォーミングアップ -- 60秒>>",
+      "CN": "「热身阶段 -- 剩余60秒」",
+      "KR": "<<웨이프 -- 60초>>",
+      "TW": "<<熱身 -- 60 秒>>"
+    }
+  },
+  "<<Warmup -- Ending>>": {
+    "translation": "<<热身 -- 结束>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ウォーミングアップ -- 終了>>",
+      "CN": "「热身阶段 -- 结束」",
+      "KR": "<<웨이프 -- 종료>>",
+      "TW": "<<熱身 -- 結束>>"
+    }
+  },
+  "<<YOU FAILED TO HURT KAISER FAST ENOUGH>>": {
+    "translation": "<<你没能及时伤害霸瞳>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<カイザーを十分な速度でダメージを与えられませんでした>>",
+      "CN": "<<你未能足够快地伤害凯撒>>",
+      "KR": "<<카이저를 충분히 빠르게 공격하지 못했습니다>>",
+      "TW": "<<你未能夠足夠快速地傷害凱撒>>"
+    }
+  },
+  "<<You and your guildmates go inside the building...>>": {
+    "translation": "<<你和你的公会成员走进建筑……>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<あなたはギルドメイトと一緒に建物の中へ入ります...>>",
+      "CN": "<<你和公会成员进入了建筑内部...>>",
+      "KR": "<<당신과 당신의 길드원들이 건물 안으로 들어갑니다...>>",
+      "TW": "<<你和你公會成員走進建築物內……>>"
+    }
+  },
+  "<<You and your guildmates move inside Landosol>>": {
+    "translation": "<<你和你的公会成员进入兰德索尔>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<あなたはギルドメイトと一緒にランドソルの中を移動します>>",
+      "CN": "<<你与公会成员在兰多索尔内行进>>",
+      "KR": "<<당신과 당신의 길드원들이 라ndon솔 안으로 이동합니다>>",
+      "TW": "<<你和你公會成員進入蘭多索爾>>"
+    }
+  },
+  "<<You have 75 seconds to weaken Kaiser before they casts their Union Burst and kill everyone!>>": {
+    "translation": "<<你有75秒的时间来削弱霸瞳，赶在他们施放连结爆发之前，免得杀光所有人！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<カイザーが合同超技を放ち全員を倒す前に、75秒以内にカイザーの攻撃力を弱体化させなければなりません！>>",
+      "CN": "<<你有75秒的时间削弱皇帝，否则他们释放出合击技后所有人都会阵亡！>>",
+      "KR": "<<카이저가 유니온 버스트를 발동하고 모두를 죽이기 전에 75초 안에 그들을 약화시켜야 합니다!>>",
+      "TW": "<<你有75秒的時間在凱撒發動聯合爆裂技並消滅所有人之前削弱他！>>"
+    }
+  },
+  "<<Yuuki's Sword has been picked up!>>": {
+    "translation": "<<佑树的剑已被捡起！>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ユウキの剣を拾いました！>>",
+      "CN": "<<已拾取结月的剑！>>",
+      "KR": "<<유키의 검을 획득했습니다!>>",
+      "TW": "<<已撿起有紀的劍！>>"
+    }
+  },
+  "<<discord.gg/eXR7xumCfP>>": {
+    "translation": "<<discord.gg/eXR7xumCfP>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<discord.gg/eXR7xumCfP>>",
+      "CN": "<<discord.gg/eXR7xumCfP>>",
+      "KR": "<<discord.gg/eXR7xumCfP>>",
+      "TW": "<<discord.gg/eXR7xumCfP>>"
+    }
+  },
+  "<<当前版本号码为001>>": {
+    "translation": "<<当前版本号码为001>>",
+    "MultiLang": {
+      "US": "<<Current version number is 001>>",
+      "JP": "<<現在のバージョン番号は001です>>",
+      "CN": "<<当前版本号码为001>>",
+      "KR": "<<현재 버전 번호는 001입니다>>",
+      "TW": "<<目前版本號碼為001>>"
+    }
+  },
+  "<???>: I think I can help with that. But I think this is the last of the portals I can make.": {
+    "translation": "<???>: 我想我可以帮忙。但我想这是我能制造的最后一个传送门。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<???>:それなら私がお手伝いできます。でも、これが私が作れる最後のポータルだと思います。",
+      "CN": "<???>：我想我可以帮上忙。但我觉得这可能是我能制作的最后一个传送门了。",
+      "KR": "<???>: 그 일에 도와드릴 수 있을 것 같습니다. 하지만 제가 만들 수 있는 포털이 이것이 마지막일 것입니다.",
+      "TW": "<???>：我想我應該可以幫忙。但我想這是我能製造的最後一個傳送門了。"
+    }
+  },
+  "<???>: Im opening a portal over there. Hold on a little bit longer!": {
+    "translation": "<???>: 我在那边开一个传送门。再坚持一下！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<???>:あのあたりにもポータルを開きます。もう少しお待ちを！",
+      "CN": "<???>：我正在那边开启传送门。再坚持一会儿！",
+      "KR": "<???>: 거기서 포털을 열겠습니다. 조금만 더 참아주세요!",
+      "TW": "<???>：我正在那邊開啟傳送門。再等一下！"
+    }
+  },
+  "<???>: It's open!": {
+    "translation": "<???>: 开了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "開いた！",
+      "CN": "<???>：门开了！",
+      "KR": "열렸어!",
+      "TW": "門開了！"
+    }
+  },
+  "<???>: It's open! Get out of there!": {
+    "translation": "<???>: 开了！快出去！",
+    "MultiLang": {
+      "US": "",
+      "JP": "開いた！そっちから逃げろ！",
+      "CN": "<???>：门开了！快离开那里！",
+      "KR": "열렸어! 빨리 거기서 나와!",
+      "TW": "門開了！快離開那裡！"
+    }
+  },
+  "<???>: Seems like you have fallen for my trap.": {
+    "translation": "<???>: 看起来你掉进了我的陷阱。",
+    "MultiLang": {
+      "US": "",
+      "JP": "うちの罠に掛かったようですね。",
+      "CN": "<???>：看来你中了我的圈套。",
+      "KR": "나를 속은 모양이군.",
+      "TW": "看來你中了我的圈套呢。"
+    }
+  },
+  "<???>: Seems like you need some help over there.": {
+    "translation": "<???>: 似乎你需要一些帮助。",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうやらそっちでは手助けが必要のようですが。",
+      "CN": "<???>：看来你那边需要点帮助。",
+      "KR": "거기서 도움이 필요한 것 같네.",
+      "TW": "看來你在那邊需要一些幫助。"
+    }
+  },
+  "<???>: She really does like being in your little guild.": {
+    "translation": "<???>: 她真的很喜欢在你的小公会里。",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼女はあなたが作った小さなギルドにいることが、本当に気に入っているようですよ。",
+      "CN": "<???>：她似乎很喜欢待在你的小公会里。",
+      "KR": "그 녀석이 네 작은 길드에 있는 걸 정말 좋아하는구먼.",
+      "TW": "她真的很喜歡待在你的小小公會裡呢。"
+    }
+  },
+  "<???>: You really do care about Kyaru you guys do you...": {
+    "translation": "<???>: 你们真的很关心凯露，你们……",
+    "MultiLang": {
+      "US": "???: You really do care about Kyaru, don't you...",
+      "JP": "君たち还真是卡利亚呢...。",
+      "CN": "<???>：你真的很在乎Kyaru，你们真是……",
+      "KR": "진짜 케야를 걱정하는구나, 너희는 잘 해나가는 거 같다…",
+      "TW": "你真的很關心琪亞露呢，你們就按照自己的方式來吧……"
+    }
+  },
+  "<Ameth>: Changing stage to <Stage 1 -- Forest & Landosol>. Turning off Re:Dive Mode.": {
+    "translation": "<爱梅斯>: 将舞台切换到<第一关 -- 森林与兰德索尔>。关闭公主连结模式。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Ameth>：ステージを「<Stage 1 -- Forest & Landosol>」に変更。Re:Diveモードを無効化します。",
+      "CN": "<Ameth>：场景切换至<第1阶段 -- 森林与兰多索尔>。关闭Re:Dive模式。",
+      "KR": "<Ameth>: 스테이지를 '<Stage 1 -- Forest & Landosol>'로 전환합니다. Re:Dive 모드를 끕니다.",
+      "TW": "<Ameth>：切換至場景「<Stage 1 -- 森林與蘭多索爾>」。關閉 Re:Dive 模式。"
+    }
+  },
+  "<Ameth>: Disabled Re:Dive Mode.": {
+    "translation": "<爱梅斯>: 已禁用公主连结模式。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Ameth>：Re:Diveモードを無効化しました。",
+      "CN": "<Ameth>：已关闭Re:Dive模式。",
+      "KR": "<Ameth>: Re:Dive 모드가 비활성화되었습니다.",
+      "TW": "<Ameth>：已關閉 Re:Dive 模式。"
+    }
+  },
+  "<Ameth>: Enabled Re:Dive Mode.": {
+    "translation": "<爱梅斯>: 已启用公主连结模式。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Ameth>: Re:Diveモード有効化。",
+      "CN": "<Ameth>：已启用Re:Dive模式。",
+      "KR": "<Ameth>: Re:Dive 모드가 활성화되었습니다.",
+      "TW": "<Ameth>：Re:Dive 模式已啟用。"
+    }
+  },
+  "<Ameth>: Initializing Re:Dive Mode. This is your final challenge...": {
+    "translation": "<爱梅斯>: 正在初始化公主连结模式。这是你们的最后挑战……",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Ameth>: Re:Diveモード初期化中。これはあなたの最後の挑戦です……",
+      "CN": "<Ameth>：正在初始化Re:Dive模式。这是你的最终挑战……",
+      "KR": "<Ameth>: Re:Dive 모드 초기화 중. 이것이 마지막 도전입니다...",
+      "TW": "<Ameth>：正在初始化 Re:Dive 模式。這是你的最終挑戰……"
+    }
+  },
+  "<Ameth>: Restarting the current round...": {
+    "translation": "<爱梅斯>: 正在重启当前回合……",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Ameth>: 現在のラウンドをリスタートします……",
+      "CN": "<Ameth>：正在重开当前对局……",
+      "KR": "<Ameth>: 현재 라운드를 재시작합니다...",
+      "TW": "<Ameth>：正在重新啟動當前回合……"
+    }
+  },
+  "<Ameth>: Setting the stage to <Stage 1 -- Forest & Landosol>": {
+    "translation": "<爱梅斯>: 将舞台设置为<第一关 -- 森林与兰德索尔>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Ameth>: ステージを<第1ステージ -- 森とランドソル>に設定",
+      "CN": "<Ameth>：切换舞台至 <第一幕 -- 森林与兰多索尔>",
+      "KR": "<Ameth>: 무대를 < Stage 1 -- 숲과 란도솔 > 로 설정합니다",
+      "TW": "<Ameth>：將舞台設定為 <第 1 幕 -- 森林與蘭多索爾>"
+    }
+  },
+  "<Ameth>: Setting the stage to <Stage 2 -- The False Princess>": {
+    "translation": "<爱梅斯>: 将舞台设置为<第二关 -- 虚假的公主>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Ameth>: ステージを<第2ステージ -- 偽りの姫君>に設定",
+      "CN": "<Ameth>：切换舞台至 <第二幕 -- 冒牌公主>",
+      "KR": "<Ameth>: 무대를 < Stage 2 -- 가짜 공주 > 로 설정합니다",
+      "TW": "<Ameth>：將舞台設定為 <第 2 幕 -- 假公主>"
+    }
+  },
+  "<Kaiser>: After I'm done with you all. She will get a very hefty punishment.": {
+    "translation": "<霸瞳>: 等我解决了你们，她一定会受到非常严厉的惩罚。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kaiser>: お前たちが始まったら、あいつにはすごく重い罰が待つことになる。",
+      "CN": "<Kaiser>：等我收拾完你们，她便会受到极其严厉的惩罚。",
+      "KR": "<Kaiser>: 내가 너희 모두를 처리한 뒤에야. 그녀는 매우 무거운 처벌을 받을 것이다.",
+      "TW": "<Kaiser>：在我處理完你們所有人之後，她將受到非常嚴厲的懲罰。"
+    }
+  },
+  "<Kaiser>: Ah. The Princess that has been forgotten by all.": {
+    "translation": "<霸瞳>: 啊。被所有人遗忘的公主。",
+    "MultiLang": {
+      "US": "<Kaiser>: Ah. The Princess forgotten by all.",
+      "JP": "<Kaiser>: ああ。全てに忘れられた姫君よ。",
+      "CN": "<Kaiser>：啊，那个被所有人遗忘的公主。",
+      "KR": "<Kaiser>: 아. 모두에게 잊힌 공주가.",
+      "TW": "<Kaiser>：啊，那個被所有人遺忘的公主。"
+    }
+  },
+  "<Kaiser>: Don't worry about Kyaru. She will be watching you all die.": {
+    "translation": "<霸瞳>: 不用担心凯露。她会在一旁看着你们一个个死去。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kaiser>: キャールのことなど気にするな。あいつはお前たちが死ぬところをずっと見ているからな。",
+      "CN": "<Kaiser>：不必担心凯露，她会注视着你们的死亡。",
+      "KR": "<Kaiser>: 카루를 걱정하지 마라. 그녀는 너희 모두가 죽는 것을 지켜볼 것이다.",
+      "TW": "<Kaiser>：別擔心卡露露，她會看著你們所有人死去的。"
+    }
+  },
+  "<Kaiser>: Help me monsters! Kill THEM!": {
+    "translation": "<霸瞳>: 帮我，怪物们！杀了他们！",
+    "MultiLang": {
+      "US": "<Kaiser>: Help me, monsters! Kill them!",
+      "JP": "<カイザー>: 怪物たちよ、私を助けてくれ！あれらを倒せ！",
+      "CN": "<Kaiser>：助我一臂之力吧，怪物们！杀死他们！",
+      "KR": "<카이저>: 괴물들아 나를 도와줘! 저들을 죽여라!",
+      "TW": "<皇帝>：怪物們，幫我！殺死他們！"
+    }
+  },
+  "<Kaiser>: How was the experience? Was it painful?": {
+    "translation": "<霸瞳>: 感觉如何？痛苦吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: その経験はどうだった？痛みはあったか？",
+      "CN": "<Kaiser>：体验如何？痛苦吗？",
+      "KR": "<카이저>: 그 경험은 어땠느냐? 고통스러웠는가?",
+      "TW": "<皇帝>：體驗如何？痛嗎？"
+    }
+  },
+  "<Kaiser>: NOOOOOOOOOOO!": {
+    "translation": "<霸瞳>: 不要啊啊啊啊啊啊啊啊！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: ヤダaaaahhh！！！！！",
+      "CN": "<Kaiser>：不——————！",
+      "KR": "<카이저>: 아니iiiiiiiii!",
+      "TW": "<皇帝>：不！！！！！！！"
+    }
+  },
+  "<Kaiser>: No matter. It is time for you and your guildmates to perish.": {
+    "translation": "<霸瞳>: 没关系。该是你和你的公会伙伴们走向灭亡的时候了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: 問題ない。あなたの、そしてギルドメイトの滅びる時です。",
+      "CN": "<Kaiser>：没关系。是时候让你和你的公会成员去死了。",
+      "KR": "<카이저>: 상관없다. 이제 너와 동료 guild 멤버들의 운명은 끝이다.",
+      "TW": "<皇帝>：沒關係。是你和你公會成員死亡的時候了。"
+    }
+  },
+  "<Kaiser>: Now.": {
+    "translation": "<霸瞳>: 现在。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: では、今こそだ。",
+      "CN": "<Kaiser>：现在。",
+      "KR": "<카이저>: 이제야.",
+      "TW": "<皇帝>：就是現在。"
+    }
+  },
+  "<Kaiser>: Rise monsters! Kill these filth.": {
+    "translation": "<霸瞳>: 起来吧，怪物们！去消灭这些污秽之物。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: 怪物たちよ、目覚めよ！この醜い者どもを倒せ。",
+      "CN": "<Kaiser>：召唤怪物！杀掉这些垃圾。",
+      "KR": "<카이저>: 괴물들이여, 일어나라! 이 더러운 것들을 죽여라.",
+      "TW": "<皇帝>：起立，怪物們！殺掉這些污穢。"
+    }
+  },
+  "<Kaiser>: Seems like you made it with the help of Kyaru.": {
+    "translation": "<霸瞳>: 看来你们在凯露的帮助下成功了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: どうやらカユルのおかげで、生き延びたようだね。",
+      "CN": "<Kaiser>：看来你靠着凯露的帮助活下来了。",
+      "KR": "<카이저>: 다행이군. 카류의 도움으로 네가 살아남았구나.",
+      "TW": "<皇帝>：看來你在凱露的幫助下挺過來了。"
+    }
+  },
+  "<Kaiser>: This is her punishment after all for not following me.": {
+    "translation": "<霸瞳>: 这毕竟是她不服从我的惩罚。",
+    "MultiLang": {
+      "US": "<Kaiser>: After all, this is her punishment for not following me.",
+      "JP": "<カイザー>: これが、私に従わなかった彼女への罰なのだからね。",
+      "CN": "<Kaiser>：这是她不听从我的命令所付出的代价。",
+      "KR": "<카이사>: 나를 따르지 않은 여자의 징벌이니 어쩔 수 없지.",
+      "TW": "<皇帝>：這可是她不服從我的懲罰。"
+    }
+  },
+  "<Kaiser>: Time to die.": {
+    "translation": "<霸瞳>: 是时候死了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: お仕置きよ。",
+      "CN": "<Kaiser>：该死吧。",
+      "KR": "<카이저>: 죽을 시간이다.",
+      "TW": "<Kaiser>：該死了。"
+    }
+  },
+  "<Kaiser>: Time to get a little bit more serious...": {
+    "translation": "<霸瞳>: 是时候认真一点了……",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: ちょっと本気出すわね……",
+      "CN": "<Kaiser>：是时候稍微认真一点了……",
+      "KR": "<카이저>: 조금 더 진지하게 가야겠다...",
+      "TW": "<Kaiser>：現在是認真一點的時候……"
+    }
+  },
+  "<Kaiser>: You monsters are useless! DIE DIE!": {
+    "translation": "<霸瞳>: 你们这些怪物毫无用处！去死去死！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カイザー>: あなたたち魔物、使い物にならない！消えなさい！！",
+      "CN": "<Kaiser>：你们这些怪物真没用！去死吧！",
+      "KR": "<카이저>: 너희 들쭉날쭉한 놈들! 죽어라!",
+      "TW": "<Kaiser>：你們這些怪獸真沒用！去死吧！"
+    }
+  },
+  "<Kokkoro>: 15 more seconds till Kaiser is sealed!": {
+    "translation": "<可可萝>: 还有15秒霸瞳就要被封印了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<コッコロ>: カイザー封じ込めまであと15秒！",
+      "CN": "<Kokkoro>：还有15秒封印凯撒！",
+      "KR": "<코쿠로>: 카이저 봉인까지 15초 남았습니다!",
+      "TW": "<Kokkoro>：距離封印凱薩爾還剩15秒！"
+    }
+  },
+  "<Kokkoro>: 25 more seconds till Kaiser is sealed!": {
+    "translation": "<可可萝>: 还有25秒霸瞳就要被封印了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<コッコロ>: カイザー封じ込めまであと25秒！",
+      "CN": "<Kokkoro>：还有25秒封印凯撒！",
+      "KR": "<코쿠로>: 카이저 봉인까지 25초 남았습니다!",
+      "TW": "<Kokkoro>：距離封印凱薩爾還剩25秒！"
+    }
+  },
+  "<Kokkoro>: 35 more seconds till Kaiser is sealed!": {
+    "translation": "<可可萝>: 还有35秒霸瞳就要被封印了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<コッコロ>: カイザー封じ込めまであと35秒！",
+      "CN": "<Kokkoro>：还有35秒封印凯撒！",
+      "KR": "<코쿠로>: 카이저 봉인까지 35초 남았습니다!",
+      "TW": "<Kokkoro>：距離封印凱薩爾還剩35秒！"
+    }
+  },
+  "<Kokkoro>: 5 more seconds till Kaiser is sealed!": {
+    "translation": "<可可萝>: 还有5秒霸瞳就要被封印了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<コッコロ>: カイザー封じ込めまであと5秒！",
+      "CN": "<Kokkoro>：还有5秒封印凯撒！",
+      "KR": "<코쿠로>: 카이저 봉인까지 5초 남았습니다!",
+      "TW": "<Kokkoro>：距離封印凱薩爾還剩5秒！"
+    }
+  },
+  "<Kokkoro>: I will start sealing her right away!": {
+    "translation": "<可可萝>: 我马上就要开始封印她了！",
+    "MultiLang": {
+      "US": "<Kokkoro>: I'll seal her right away!",
+      "JP": "<コッコロ>: これより即時封じ込めを行います！",
+      "CN": "<Kokkoro>：我马上开始封印她！",
+      "KR": "<코쿠로>: 즉시 봉인을 시작하겠습니다!",
+      "TW": "<Kokkoro>：我現在就開始封印她！"
+    }
+  },
+  "<Kokkoro>: They have managed to follow us over the portal! Keep them from advancing!": {
+    "translation": "<可可萝>: 他们已经通过传送门跟上我们了！去阻止他们前进！",
+    "MultiLang": {
+      "US": "<Kokkoro>: They've managed to follow us through the portal! Hold them back!",
+      "JP": "<コッコロ>：彼らがポータルを越えて追って来た！進めさせないで！",
+      "CN": "<Kokkoro>：他们居然跟着我们穿过了传送门！阻止他们前进！",
+      "KR": "<Kokkoro>: 포털을 통해 우리를 뒤쫓아왔어! 저들의 접근을 막아줘!",
+      "TW": "<Kokkoro>：他們已經跟著我們穿過傳送門了！別讓他們再前進！"
+    }
+  },
+  "<Kokkoro>: We got seperated! We have to find each other!": {
+    "translation": "<可可萝>: 我们走散了！必须找到彼此才行！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<コッコロ>：バラバラになっちゃった！互いを見つけないと！",
+      "CN": "<Kokkoro>：我们走散了！必须找到彼此！",
+      "KR": "<Kokkoro>: 떨어져 버렸어! 서로를 찾아야 해!",
+      "TW": "<Kokkoro>：我們分開了！必須找到彼此！"
+    }
+  },
+  "<Kyaru>: 1.": {
+    "translation": "<凯露>: 1秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<キャル>：1.",
+      "CN": "<Kyaru>: 1。",
+      "KR": "<Kyaru>: 1.",
+      "TW": "<Kyaru>: 1."
+    }
+  },
+  "<Kyaru>: 10 more seconds.": {
+    "translation": "<凯露>: 还有10秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<キャル>：あと10秒。",
+      "CN": "<Kyaru>: 还剩10秒。",
+      "KR": "<Kyaru>: 남은 시간 10초.",
+      "TW": "<Kyaru>: 還剩十秒。"
+    }
+  },
+  "<Kyaru>: 2.": {
+    "translation": "<凯露>: 2秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<キャル>：2.",
+      "CN": "<Kyaru>: 2。",
+      "KR": "<Kyaru>: 2.",
+      "TW": "<Kyaru>: 2."
+    }
+  },
+  "<Kyaru>: 20 more seconds.": {
+    "translation": "<凯露>: 还有20秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<キャル>：あと20秒。",
+      "CN": "<Kyaru>: 还剩20秒。",
+      "KR": "<Kyaru>: 남은 시간 20초.",
+      "TW": "<Kyaru>: 還剩二十秒。"
+    }
+  },
+  "<Kyaru>: 3.": {
+    "translation": "<凯露>: 3秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<キャル>：3.",
+      "CN": "<Kyaru>: 3。",
+      "KR": "<Kyaru>: 3.",
+      "TW": "<Kyaru>: 3."
+    }
+  },
+  "<Kyaru>: 30 more seconds.": {
+    "translation": "<凯露>: 还有30秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<キャル>：あと30秒。",
+      "CN": "<Kyaru>: 还剩30秒。",
+      "KR": "<Kyaru>: 남은 시간 30초.",
+      "TW": "<Kyaru>: 還剩三十秒。"
+    }
+  },
+  "<Kyaru>: 4.": {
+    "translation": "<凯露>: 4秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kyaru>: 4.",
+      "CN": "<Kyaru>: 4。",
+      "KR": "<Kyaru>: 4.",
+      "TW": "<Kyaru>：4。"
+    }
+  },
+  "<Kyaru>: 5.": {
+    "translation": "<凯露>: 5秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kyaru>: 5.",
+      "CN": "<Kyaru>: 5。",
+      "KR": "<Kyaru>: 5.",
+      "TW": "<Kyaru>：5。"
+    }
+  },
+  "<Kyaru>: After I open the path. It's up to the new guildmembers. I have chosen a new path with you guys.": {
+    "translation": "<凯露>: 在我打开这条道路之后，就由新的公会成员们来负责了。我已经和你们一起选择了一条新的道路。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kyaru>: 道を開けたら、あとは新しいギルドメンバー次第だ。お前たちと同じ新たな道を選んだ。",
+      "CN": "<Kyaru>：在我打通道路后，就看新队员的了。我已经和你们一起选择了新的道路。",
+      "KR": "<Kyaru>: 판로를 열었어. 이제 새 정파원들의 몫이야. 나는 너희와 함께 새로운 길을 택했어.",
+      "TW": "<Kyaru>：在我開闢出路之後，就交給新公會成員了。我已經與大家選定了一條全新的道路。"
+    }
+  },
+  "<Kyaru>: Defeat Kaiser. For me. For Pecorine.": {
+    "translation": "<凯露>: 打败霸瞳。为了我。为了佩可莉姆。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kyaru>: カイザーを倒すんだ。私のために、ペコリンのために。",
+      "CN": "<Kyaru>：击败凯撒。为了我，也为了佩科琳。",
+      "KR": "<Kyaru>: 카이저를 격파해. 나를 위해, 페코린을 위해.",
+      "TW": "<Kyaru>：打敗凱撒。為了我，也為了佩可琳。"
+    }
+  },
+  "<Kyaru>: Hey. I think I can help from here. Although you have to survive for 50 seconds.": {
+    "translation": "<凯露>: 嘿，我想我可以在这里提供帮助。不过，你们必须坚持50秒才行。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kyaru>: 从这里も手伝えそうな気がする。ただし、50秒は生き残ってね。",
+      "CN": "<Kyaru>：嘿，我想我可以从这里提供帮助。虽然你必须坚持生存50秒。",
+      "KR": "<Kyaru>: 야. 여기에서 제가 도와드릴 수 있을 것 같아요. 단, 50초를 버텨내야 하지만요.",
+      "TW": "<Kyaru>：嘿，我想我可以在這裡發揮一點幫助。雖然你們必須撐過50秒。"
+    }
+  },
+  "<Kyaru>: I guess my weapon specializes against him!": {
+    "translation": "<凯露>: 我想我的武器对付他很有效！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kyaru>: 私、武器が彼に特化してる！",
+      "CN": "<Kyaru>：看来我的武器正适合对付他！",
+      "KR": "<Kyaru>: 아마 제 무기에게 그 상대가 딱 맞는 모양이에요!",
+      "TW": "<Kyaru>：看來我的武器對付他特別有效！"
+    }
+  },
+  "<Kyaru>: I'm charging an attack. Survive until I can release this attack.": {
+    "translation": "<凯露>: 我正在蓄势，等我释放这次攻击，你们要撑住。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kyaru>: 攻撃を溜めてる。開放するまで生き延じてね。",
+      "CN": "<Kyaru>：我正在蓄力攻击。在我发动攻击前，请坚持住。",
+      "KR": "<Kyaru>: 공격을 충전 중이야. 이 공격을 발사할 때까지 버텨줘.",
+      "TW": "<Kyaru>：我目前正在蓄力攻擊。請撐到我能夠釋放這招為止。"
+    }
+  },
+  "<Kyaru>: I'm still gathering the power to open it.": {
+    "translation": "<凯露>: 我还在收集打开它的力量。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kyaru>: まだ開くための力を集めているところ。",
+      "CN": "<Kyaru>：我仍在积蓄打开它的力量。",
+      "KR": "<Kyaru>: 아직 열 힘을 모으는 중이야.",
+      "TW": "<Kyaru>：我仍在匯聚開闢的力量。"
+    }
+  },
+  "<Kyaru>: It's not yet over! Hold them back!": {
+    "translation": "<凯露>: 还没结束！挡住他们！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kiaaru>：まだ終わっちゃいない！敵を押し留めろ！",
+      "CN": "<Kyaru>：还没结束！拦住他们！",
+      "KR": "<Kyaru>: 아직 끝이 아니다! 저들을 막아라!",
+      "TW": "<Kyaru>：還沒結束！幫我拖延他們！"
+    }
+  },
+  "<Kyaru>: It's open. The path to Kaiser has been open. Defeat Kaiser. So that I am free.": {
+    "translation": "<凯露>: 门开了。前往霸瞳的道路已经打开。打败霸瞳。这样我就能获得自由了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kiaaru>：道が開いた。カイザーへの通路だ。カイザーを倒せば、私が解放される。",
+      "CN": "<Kyaru>：道路已开。通往凯撒的道路已经打开。击败凯撒，为了让我重获自由。",
+      "KR": "<Kyaru>: 길이 열렸다.카이저로 가는 길이다. 카이저를 죽여라. 그래야 내가 해방된다.",
+      "TW": "<Kyaru>：通路已開。通往凱撒的道路已經開闢。擊敗凱撒，這樣我就能獲得自由。"
+    }
+  },
+  "<Kyaru>: Just survive. I'm in Kaiser's space and with my connection I can open a path.": {
+    "translation": "<凯露>: 只需活下来。我现在在霸瞳的空间里，利用我的连接可以为你们打开一条道路。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kiaaru>：ただ生き延びて。私はカイザーの領域にいるから、この接続で道を開けるよ。",
+      "CN": "<凯鲁>：只要撑住就行。我在凯撒的领域里，凭借我的连接能力可以开辟一条通路。",
+      "KR": "<Kyaru>: 그저 살아남아라. 나는 카이저의 공간 안에 있고, 연결을 통해길을 열 수 있다.",
+      "TW": "<Kyaru>：活著就好。我在凱撒的空間內，憑藉我的連接能力可以開闢通路。"
+    }
+  },
+  "<Kyaru>: Kaiser is weak enough.": {
+    "translation": "<凯露>: 霸瞳已经足够虚弱。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kiaaru>：カイザーは弱いわ。",
+      "CN": "<凯鲁>：凯撒的实力还不足以构成威胁。",
+      "KR": "<Kyaru>: 카이저는 약해졌다.",
+      "TW": "<Kyaru>：凱撒的力量已經不足。"
+    }
+  },
+  "<Kyaru>: Take that!": {
+    "translation": "<凯露>: 接招！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kiaaru>：くらえ！",
+      "CN": "<凯鲁>：接招吧！",
+      "KR": "<Kyaru>: 받아라!",
+      "TW": "<Kyaru>：接招吧！"
+    }
+  },
+  "<Kyaru>: Wait something isn't right yet.": {
+    "translation": "<凯露>: 等等，似乎还有什么不对劲。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kiaaru>：待って、まだ何かおかしい。",
+      "CN": "<凯鲁>：等等，事情好像还不太对劲。",
+      "KR": "<Kyaru>: 조금 이상하다. 아직 때가 아니군.",
+      "TW": "<Kyaru>：等等，現在還有些不對勁。"
+    }
+  },
+  "<Pecorine>: But all of the ways over there are blocked!": {
+    "translation": "<佩可莉姆>: 可是那边的路都被挡住了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリン>：でも、あっちへの道はふさがってるわ！",
+      "CN": "<碧雪>：但是那边的所有道路都被封锁了！",
+      "KR": "<Pecorine>: 하지만 저쪽으로는 길이 모두 막혀 있어!",
+      "TW": "<Pecorine>：但是所有通往那邊的道路都被封鎖了！"
+    }
+  },
+  "<Pecorine>: Damn it. We can't just go over there. We have to go a different route.": {
+    "translation": "<佩可莉姆>: 该死。我们不能这样过去。我们必须走另一条路。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリン>：まあ大変。あそこには行けないわね。違うルートで行くしかない。",
+      "CN": "<碧雪>：该死。我们不能直接冲过去，必须绕道而行。",
+      "KR": "<Pecorine>: 속이 후련해져. 저쪽으로는 갈 수 없어. 다른 길로 가야 해.",
+      "TW": "<Pecorine>：該死。我們無法直接過去，得走另一條路線。"
+    }
+  },
+  "<Pecorine>: Enough resting! We have got to find her!": {
+    "translation": "<佩可莉姆>: 够了，别再浪费时间了！我们得赶紧去找她！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリーヌ>：もう休むの十分よ！見つけないと！",
+      "CN": "<碧雪>：休息够了！我们必须立刻找到她！",
+      "KR": "<페코린>: 충분히 쉬었잖아! 이제 그녀를 찾아야 해!",
+      "TW": "<佩科琳>：休息得夠了！我們必須找到她！"
+    }
+  },
+  "<Pecorine>: I'm breaking her out! Give me 30 seconds!": {
+    "translation": "<佩可莉姆>: 我要把她救出来！给我30秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリーヌ>：彼女を開放する！30秒待って！",
+      "CN": "<碧雪>：我要把她救出来！给我30秒！",
+      "KR": "<페코린>: 내가 탈출시켜줄게! 30초만 기다려줘!",
+      "TW": "<佩科琳>：我要救出她！給我30秒！"
+    }
+  },
+  "<Pecorine>: Kaiser Insight... The one that stole my title.": {
+    "translation": "<佩可莉姆>: 霸瞳皇帝……那个夺走我身份的家伙。",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリーヌ>：カイザー・インサイト…私の称号を奪った奴だ。",
+      "CN": "<Pecorine>：凯撒洞察……就是那个抢我名号的家伙。",
+      "KR": "<페코린>: 카이저 인사이트... 내 칭호를 훔친 놈.",
+      "TW": "<佩科琳>：凱撒因塞特……那個搶走我稱號的人。"
+    }
+  },
+  "<Pecorine>: Kyaru! Where are you?": {
+    "translation": "<佩可莉姆>: 凯露！你在哪里？",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリーヌ>：キャル！どこにいるの？",
+      "CN": "<Pecorine>：小可！你在哪？",
+      "KR": "<페코린>: 카루! 너 어디 있어?",
+      "TW": "<佩科琳>：卡耶魯！你在哪裡？"
+    }
+  },
+  "<Pecorine>: Wait the doors being forced open by monsters!": {
+    "translation": "<佩可莉姆>: 等等，门被怪物强行打开了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリーヌ>：待って！魔物が扉を強開している！",
+      "CN": "<Pecorine>：等等，门要被怪物强行撞开了！",
+      "KR": "<페코린>: 문이 몬스터들에게 강제로 열려!",
+      "TW": "<佩科琳>：等等，門被魔物強行破開了！"
+    }
+  },
+  "<Pecorine>: Wait. It's Kyaru over there at the cage!": {
+    "translation": "<佩可莉姆>: 等等。那边的笼子里是凯露！",
+    "MultiLang": {
+      "US": "<Pecorine>: Wait. It's Kyaru in the cage!",
+      "JP": "<ペコリーヌ>：待って。あいつのケージにキャルが！",
+      "CN": "<Pecorine>：等等。小可在那边的笼子里！",
+      "KR": "<페코린>: 잠깐. 저기 케이지 안에 카루가 있어!",
+      "TW": "<佩科琳>：等等。卡耶魯在那邊的籠子旁！"
+    }
+  },
+  "<Pecorine>: Wait. Where is Kyaru?": {
+    "translation": "<佩可莉姆>: 等等。凯露在哪里？",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリーヌ>：待って。キャルはどこ？",
+      "CN": "<Pecorine>：等等，小可去哪了？",
+      "KR": "<페코린>: 잠깐. 카루가 어디 있지?",
+      "TW": "<佩科琳>：等等。卡耶魯在哪裡？"
+    }
+  },
+  "<Pecorine>: We can't give up now! We have to survive!": {
+    "translation": "<佩可莉姆>: 我们不能放弃！我们必须活下去！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ペコリーヌ>：今諦められない！生き残らなきゃ！",
+      "CN": "<Pecorine>：现在不能放弃！我们必须活下去！",
+      "KR": "<페코린>: 지금 포기할 수 없어! 우리가 살아남아야 해!",
+      "TW": "<佩科琳>：我們現在不能放棄！我們必須活下來！"
+    }
+  },
+  "<Pecorine>: We got to find her!": {
+    "translation": "<佩可莉姆>: 我们得找到她！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Pecorine>：見つけないと！",
+      "CN": "<Pecorine>：我们得找到她！",
+      "KR": "<페코린>: 우리를 도와주는 whoever 가 무언가 했더라도 우리는 포트를 오픈해야 해요!",
+      "TW": "<Pecorine>：我們得找到她！"
+    }
+  },
+  "<Pecorine>: Whoever is helping us we need the portal open!": {
+    "translation": "<佩可莉姆>: 不管是谁在帮我们，我们需要尽快打开传送门！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Pecorine>：誰が手伝ってくれても、ポータルを開けて！",
+      "CN": "<Pecorine>：不管是谁在帮我们，我们需要开启传送门！",
+      "KR": "<페코린>: 그녀를 찾아야 해!",
+      "TW": "<Pecorine>：不管誰在幫我們，我們需要打開傳送門！"
+    }
+  },
+  "<<当前版本号码为003>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Current version number is 003>>",
+      "JP": "<<現在のバージョン番号は003です>>",
+      "CN": "",
+      "KR": "<<현재 버전 번호는 003입니다>>",
+      "TW": "<<當前版本號碼為003>>"
+    }
+  }
+}

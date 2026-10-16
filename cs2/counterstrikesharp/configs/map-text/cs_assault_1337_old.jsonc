@@ -1,0 +1,12 @@
+{
+  "Some passages are blocked on the map due to lack of players!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤー数が不足しているため、マップ内の一部区画は通行できません！",
+      "CN": "部分关卡因在线玩家数量不足而暂时无法进行游戏！",
+      "KR": "플레이어 부족으로 인해 맵의 일부 구간이 차단되었습니다!",
+      "TW": "由於玩家人數不足，部分道路在地图上被封鎖！"
+    }
+  }
+}

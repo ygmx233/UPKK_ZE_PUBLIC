@@ -1,203 +1,672 @@
 {
   ">> ADMIN CHANGING ROUTE ONE <<": {
-    "translation": ">>管理员调关第一关<<"
+    "translation": ">>管理员调关第一关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理者、ルート1変更中 <<",
+      "CN": ">> 管理员正在修改路线一 <<",
+      "KR": ">> 관리자 경로 1 변경 중 <<",
+      "TW": ">> 管理員正在更改路線一 <<"
+    }
   },
   ">> ADMIN CHANGING ROUTE THREE <<": {
-    "translation": ">>管理员调关第三关<<"
+    "translation": ">>管理员调关第三关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理者、ルート3変更中 <<",
+      "CN": ">> 管理员正在修改路线三 <<",
+      "KR": ">> 관리자 경로 3 변경 중 <<",
+      "TW": ">> 管理員正在更改路線三 <<"
+    }
   },
   ">> ADMIN CHANGING ROUTE TWO <<": {
-    "translation": ">>管理员调关第二关<<"
+    "translation": ">>管理员调关第二关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理者、ルート2変更中 <<",
+      "CN": ">> 管理员正在修改路线二 <<",
+      "KR": ">> 관리자 경로 2 변경 중 <<",
+      "TW": ">> 管理員正在更改路線二 <<"
+    }
   },
   ">> DOOR OPENING IN 20 SECS <<": {
-    "translation": ">>门将在20秒后开启<<"
+    "translation": ">>门将在20秒后开启<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 20秒後にドア開放 <<",
+      "CN": ">> 门将在20秒后开启 <<",
+      "KR": ">> 문이 20초 뒤에 열립니다 <<",
+      "TW": ">> 20秒後門將開啟 <<"
+    }
   },
   ">> DOOR OPENING IN 30 SECS <<": {
-    "translation": ">>门将在30秒后开启<<"
+    "translation": ">>门将在30秒后开启<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒後にドア開放 <<",
+      "CN": ">> 门将在30秒后开启 <<",
+      "KR": ">> 문이 30초 뒤에 열립니다 <<",
+      "TW": ">> 30秒後門將開啟 <<"
+    }
   },
   ">> ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM <<": {
-    "translation": ">>进入大厅中心以访问神器房<<"
+    "translation": ">>进入大厅中心以访问神器房<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ホール中央に進みSPアイテム室にアクセスせよ <<",
+      "CN": ">> 进入大厅中央以进入SP物品室 <<",
+      "KR": ">> 중앙 홀로 이동하여 특수 아이템 방으로 접근하세요 <<",
+      "TW": ">> 進入大廳中心以進入特殊物品房 <<"
+    }
   },
   ">> IGNIS AXE HAS BEEN PICKED UP <<": {
-    "translation": ">>猎火之斧已被拾起<<"
+    "translation": ">>猎火之斧已被拾起<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> イグニスアックスを回収しました <<",
+      "CN": ">> 已拾取伊格尼斯斧头 <<",
+      "KR": ">> 이그니스 도끼를 수집했습니다 <<",
+      "TW": ">> 已拾取 Ignis 斧頭 <<"
+    }
   },
   ">> KILL HIM!! <<": {
-    "translation": ">>杀了他！！<<"
+    "translation": ">>杀了他！！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 彼を倒せ！！ <<",
+      "CN": ">> 击杀他！！ <<",
+      "KR": ">> 그를 처치하라!! <<",
+      "TW": ">> 擊殺他！！<<"
+    }
   },
   ">> ROUTE ONE <<": {
-    "translation": ">>第一关<<"
+    "translation": ">>第一关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ルート1】",
+      "CN": ">> 路线一 <<",
+      "KR": ">> 루트 원 <<",
+      "TW": ">> 路線一 <<"
+    }
   },
   ">> ROUTE THREE <<": {
-    "translation": ">>第三关<<"
+    "translation": ">>第三关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ルート3】",
+      "CN": ">> 路线三 <<",
+      "KR": ">> 루트 쓰리 <<",
+      "TW": ">> 路線三 <<"
+    }
   },
   ">> ROUTE TWO <<": {
-    "translation": ">>第二关<<"
+    "translation": ">>第二关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ルート2】",
+      "CN": ">> 路线二 <<",
+      "KR": ">> 루트 투 <<",
+      "TW": ">> 路線二 <<"
+    }
   },
   ">> SANATIO STAFF HAS BEEN PICKED UP <<": {
-    "translation": ">>治愈之杖已被拾起<<"
+    "translation": ">>治愈之杖已被拾起<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> サナティオのスタッフを確認しました <<",
+      "CN": ">> 已获得治愈法杖 <<",
+      "KR": ">> 산시오 스태프를 획득했습니다 <<",
+      "TW": ">> 已拾取治癒法杖 <<"
+    }
   },
   ">> TAKE FRONT-LEFT DOOR <<": {
-    "translation": ">>走左前门<<"
+    "translation": ">>走左前门<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 正面左側のドアを使用 <<",
+      "CN": ">> 走左前侧的门 <<",
+      "KR": ">> 전면 왼쪽 문으로 이동하세요 <<",
+      "TW": ">> 走左前門 <<"
+    }
   },
   ">> TAKE FRONT-RIGHT DOOR <<": {
-    "translation": ">>走右前门<<"
+    "translation": ">>走右前门<<",
+    "MultiLang": {
+      "US": ">> TAKE FRONT-RIGHT Door <<",
+      "JP": ">> 正面右側のドアを使用 <<",
+      "CN": ">> 走右前侧的门 <<",
+      "KR": ">> 전면 오른쪽 문으로 이동하세요 <<",
+      "TW": ">> 走右前門 <<"
+    }
   },
   ">> TAKE LEFT DOOR <<": {
-    "translation": ">>走左门<<"
+    "translation": ">>走左门<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 左側のドアを使用 <<",
+      "CN": ">> 走左侧的门 <<",
+      "KR": ">> 왼쪽 문으로 이동하세요 <<",
+      "TW": ">> 走左側門 <<"
+    }
   },
   ">> TERRA AXE HAS BEEN PICKED UP <<": {
-    "translation": ">>大地之斧已被拾起<<"
+    "translation": ">>大地之斧已被拾起<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テラアックスを確認しました <<",
+      "CN": ">> 已获得泰拉战斧 <<",
+      "KR": ">> 테라 액스를 획득했습니다 <<",
+      "TW": ">> 已拾取雷牙斧 <<"
+    }
   },
   ">> TRY TO USE THEM <<": {
-    "translation": ">>尝试使用它们<<"
+    "translation": ">>尝试使用它们<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 使ってみろ <<",
+      "CN": "<< 尝试使用它们 >>",
+      "KR": ">> 사용하세요 <<",
+      "TW": ">> 嘗試使用它們 <<"
+    }
   },
   ">> VENTUS STAFF HAS BEEN PICKED UP <<": {
-    "translation": ">>风之杖已被拾起<<"
+    "translation": ">>风之杖已被拾起<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ペンタス装備を収容した <<",
+      "CN": "<< 已拾取风元素法杖 >>",
+      "KR": ">> 벤투스 스태프를 획득했습니다 <<",
+      "TW": ">> 已拾取風之杖 <<"
+    }
   },
   ">> WE SECURED ROUTE ONE <<": {
-    "translation": ">>我们完成了第一关<<"
+    "translation": ">>我们完成了第一关<<",
+    "MultiLang": {
+      "US": ">> WE SECURED ROUTE 1 <<",
+      "JP": ">> ルート1を確保 <<",
+      "CN": "<< 已控制第一路线 >>",
+      "KR": ">> 루트 원 확보 완료 <<",
+      "TW": ">> 已確保第一號路線 <<"
+    }
   },
   ">> WE SECURED ROUTE THREE <<": {
-    "translation": ">>我们完成了第三关<<"
+    "translation": ">>我们完成了第三关<<",
+    "MultiLang": {
+      "US": ">> WE SECURED ROUTE 3 <<",
+      "JP": ">> ルート3を確保 <<",
+      "CN": "<< 已控制第三路线 >>",
+      "KR": ">> 루드 쓰리 확보 완료 <<",
+      "TW": ">> 已確保第三號路線 <<"
+    }
   },
   ">> WE SECURED ROUTE TWO <<": {
-    "translation": ">>我们完成了第二关<<"
+    "translation": ">>我们完成了第二关<<",
+    "MultiLang": {
+      "US": ">> WE SECURED ROUTE 2 <<",
+      "JP": ">> ルート2を確保 <<",
+      "CN": "<< 已控制第二路线 >>",
+      "KR": ">> 루트 투 확보 완료 <<",
+      "TW": ">> 已確保第二號路線 <<"
+    }
   },
   ">> ZE_SIT_CAELUM_PARADISUS <<": {
-    "translation": ">>ZE_SIT_CAELUM_PARADISUS 雕刻天堂<<"
+    "translation": ">>ZE_SIT_CAELUM_PARADISUS 雕刻天堂<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ZE_SIT_CAELUM_PARADISUS <<",
+      "CN": "<< ZE_SIT_CAELUM_PARADISUS >>",
+      "KR": ">> ZE_SIT_CAELUM_PARADISUS <<",
+      "TW": ">> ZE_SIT_CAELUM_PARADISUS <<"
+    }
   },
   ">>> 30 SECS LEFT !!! <<<": {
-    "translation": ">>>还有30秒!!!<<<"
+    "translation": ">>>还有30秒!!!<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 残り30秒 !!! <<<",
+      "CN": ">>> 剩余30秒 !!! <<<",
+      "KR": ">>> 30초 남음 !!! <<<",
+      "TW": ">>> 剩餘 30 秒 <<<"
+    }
   },
   ">>> AND DEFEND UNTIL TELEPORT <<<": {
-    "translation": ">>>并在传送前进行防御<<<"
+    "translation": ">>>并在传送前进行防御<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> テレポートまで防衛せよ <<<",
+      "CN": ">>> 防守至传送结束 <<<",
+      "KR": ">>> 텔레포트까지 저격하라 <<<",
+      "TW": ">>> 防禦直至傳送到達 <<<"
+    }
   },
   ">>> Ark Rhai <<<": {
-    "translation": ">>>阿克瑞海<<<"
+    "translation": ">>>阿克瑞海<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> Ark Rhai <<<",
+      "CN": ">>>  ark rai <<<",
+      "KR": "아크 레이",
+      "TW": ">>> Ark Rhai <<<"
+    }
   },
   ">>> CS2 Ported by Tenshi.<<<": {
-    "translation": ">>>CS2由Tenshi移植<<<"
+    "translation": ">>>CS2由Tenshi移植<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> CS2 ポート制作：Tenshi <<<",
+      "CN": ">>> cs2移植自天使.<<<",
+      "KR": "CS2 테恩施이 포트.",
+      "TW": ">>> 由 Tenshi 移植 CS2。<<<"
+    }
   },
   ">>> DOOR OPENING IN 25 SECS <<<": {
-    "translation": ">>>门将在25秒后开启<<<"
+    "translation": ">>>门将在25秒后开启<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 門が閉じるまで残り25秒 <<<",
+      "CN": ">>> 25秒内开门 <<<",
+      "KR": "문 열림 25초 이내",
+      "TW": ">>> 25 秒後門將開啟 <<<"
+    }
   },
   ">>> Ground Fissure <<<": {
-    "translation": ">>>5秒，地面裂缝<<<"
+    "translation": ">>>5秒，地面裂缝<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 地割れ <<<",
+      "CN": ">>> 地面裂缝 <<<",
+      "KR": "지표 균열",
+      "TW": ">>> 地面裂隙 <<<"
+    }
   },
   ">>> Heal <<<": {
-    "translation": ">>>5秒，治疗<<<"
+    "translation": ">>>5秒，治疗<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 回復 <<<",
+      "CN": ">>> 治疗 <<<",
+      "KR": "치유",
+      "TW": ">>> 治療 <<<"
+    }
   },
   ">>> Ignis <<<": {
-    "translation": ">>>5秒，半场火焰<<<"
+    "translation": ">>>5秒，半场火焰<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> イグニス <<<",
+      "CN": ">>> ignis <<<",
+      "KR": "이그니스",
+      "TW": ">>> Ignis <<<"
+    }
   },
   ">>> MAP BY SATOKA<<<": {
-    "translation": ">>>地图作者：SATOKA 翻译：Asteri3m<<<"
+    "translation": ">>>地图作者：SATOKA 翻译：Asteri3m<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> MAP作成：SATOKA<<<",
+      "CN": ">>>地图由satoka制作<<<",
+      "KR": "지도 제작: 사토카",
+      "TW": ">>> MAP BY SATOKA<<<"
+    }
   },
   ">>> NICELY DONE !! <<<": {
-    "translation": ">>>干得好!!<<<"
+    "translation": ">>>干得好!!<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> お見事！！ <<<",
+      "CN": ">>> 完成得很好!! <<<",
+      "KR": "잘 했어!!",
+      "TW": ">>> 幹得好！！<<<"
+    }
   },
   ">>> NOW GET THE HELL OUT OF HERE <<<": {
-    "translation": ">>>现在快离开这里<<<"
+    "translation": ">>>现在快离开这里<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 今すぐここから消えろ >>>",
+      "CN": ">>> 快滚出去 <<<",
+      "KR": ">>> 여긴 나가<<<",
+      "TW": ">>> 立即滾出去 <<<"
+    }
   },
   ">>> RUN TO THE FINAL ROOM <<<": {
-    "translation": ">>>跑向最后一个房间<<<"
+    "translation": ">>>跑向最后一个房间<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 最終ルームへ走れ >>>",
+      "CN": ">>> 前往终点房间 <<<",
+      "KR": ">>> 최종 방으로 달려가<<<",
+      "TW": ">>> 跑向最後一間房 <<<"
+    }
   },
   ">>> THE DRAGON NOTICED US <<<": {
-    "translation": ">>>龙发现我们了<<<"
+    "translation": ">>>龙发现我们了<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ドラゴンに私たちが気づかれた >>>",
+      "CN": ">>> 龙发现了我们 <<<",
+      "KR": ">>> 드래곤이 우리를 눈치챘어 <<<",
+      "TW": ">>> 龍發現我們了 <<<"
+    }
   },
   ">>> Tail End <<<": {
-    "translation": ">>>5秒，尾部<<<"
+    "translation": ">>>5秒，尾部<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< テールエンド >>>",
+      "CN": ">>> 最终关卡 <<<",
+      "KR": ">>> 테일 엔드 <<<",
+      "TW": ">>> 尾端 <<<"
+    }
   },
   ">>> Ventus <<<": {
-    "translation": ">>>5秒，飓风<<<"
+    "translation": ">>>5秒，飓风<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ヴェンタス >>>",
+      "CN": ">>> 风之领域 <<<",
+      "KR": "<<< 벤투스 >>>",
+      "TW": ">>> 風之領域 <<<"
+    }
   },
   ">>>DEFEND!!<<<": {
-    "translation": ">>>5秒，防御！！<<<"
+    "translation": ">>>5秒，防御！！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 防衛せよ！>>>",
+      "CN": ">>> 防御！<<<",
+      "KR": ">>> 방어!!<<<",
+      "TW": ">>> 防守！！<<<"
+    }
   },
   ">>>DOOR BREAKING IN 15 SECS<<<": {
-    "translation": ">>>门将在15秒后破裂<<<"
+    "translation": ">>>门将在15秒后破裂<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ドア破壊まで15秒 >>>",
+      "CN": ">>> 门将在15秒后被破坏 <<<",
+      "KR": ">>> 문 15초 후 파손 <<<",
+      "TW": ">>> 門將 15 秒後被破壞 <<<"
+    }
   },
   ">>>DOOR BREAKING IN 20 SECS<<<": {
-    "translation": ">>>门将在20秒后破裂<<<"
+    "translation": ">>>门将在20秒后破裂<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ドア破壊まで20秒 >>>",
+      "CN": ">>> 门将在20秒后被破坏 <<<",
+      "KR": ">>> 문 20초 후 파손 <<<",
+      "TW": ">>> 門將 20 秒後被破壞 <<<"
+    }
   },
   ">>>DOOR BREAKING IN 25 SECS<<<": {
-    "translation": ">>>门将在25秒后破裂<<<"
+    "translation": ">>>门将在25秒后破裂<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア破壊まで残り25秒<<<",
+      "CN": ">>>门将在25秒后破碎<<<",
+      "KR": "<<<도어 브레이킹 25초 후>>>",
+      "TW": ">>>門即將在 25 秒後被破壞<<<"
+    }
   },
   ">>>DOOR BREAKING IN 30 SECS<<<": {
-    "translation": ">>>门将在30秒后破裂<<<"
+    "translation": ">>>门将在30秒后破裂<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア破壊まで残り30秒<<<",
+      "CN": ">>>门将在30秒后破碎<<<",
+      "KR": "<<<도어 브레이킹 30초 후>>>",
+      "TW": ">>>門即將在 30 秒後被破壞<<<"
+    }
   },
   ">>>DOOR BREAKING IN 45 SECS<<<": {
-    "translation": ">>>门将在45秒后破裂<<<"
+    "translation": ">>>门将在45秒后破裂<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア破壊まで残り45秒<<<",
+      "CN": ">>>门将在45秒后破碎<<<",
+      "KR": "<<<도어 브레이킹 45초 후>>>",
+      "TW": ">>>門即將在 45 秒後被破壞<<<"
+    }
   },
   ">>>DOOR BREAKING IN 50 SECS<<<": {
-    "translation": ">>>门将在50秒后破裂<<<"
+    "translation": ">>>门将在50秒后破裂<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア破壊まで残り50秒<<<",
+      "CN": ">>>门将在50秒后破碎<<<",
+      "KR": "<<<도어 브레이킹 50초 후>>>",
+      "TW": ">>>門即將在 50 秒後被破壞<<<"
+    }
   },
   ">>>DOOR OPENING 20 SECS<<<": {
-    "translation": ">>>门将在20秒后开启<<<"
+    "translation": ">>>门将在20秒后开启<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア開鎖20秒<<<",
+      "CN": ">>>门将在20秒后开启<<<",
+      "KR": "<<<도어 오프닝 20초 후>>>",
+      "TW": ">>>門即將開啟 20 秒<<<"
+    }
   },
   ">>>DOOR OPENING IN 20 SECS<<<": {
-    "translation": ">>>门将在20秒后开启<<<"
+    "translation": ">>>门将在20秒后开启<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア開鎖まで残り20秒<<<",
+      "CN": ">>>门将在20秒后开启<<<",
+      "KR": "<<<도어 오프닝 20초 후>>>",
+      "TW": ">>>門將在 20 秒後開啟<<<"
+    }
   },
   ">>>DOOR OPENING IN 35 SECS<<<": {
-    "translation": ">>>门将在35秒后开启<<<"
+    "translation": ">>>门将在35秒后开启<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア開鎖まで残り35秒<<<",
+      "CN": ">>>门将在35秒后开启<<<",
+      "KR": "<<<도어 오프닝 35초 후>>>",
+      "TW": ">>>門將在 35 秒後開啟<<<"
+    }
   },
   ">>>EXTRA VENTUS ACTIVATED<<<": {
-    "translation": ">>>额外的风障已激活<<<"
+    "translation": ">>>额外的风障已激活<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>追加のヴェンタス起動<<<",
+      "CN": ">>>额外维图斯已激活<<<",
+      "KR": "<<<익스트라 베누스 활성화됨>>>",
+      "TW": ">>>額外風神已啟動<<<"
+    }
   },
   ">>>GO TO ROUTE THREE<<<": {
-    "translation": ">>>前往第三关<<<"
+    "translation": ">>>前往第三关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ルーツ3へ<<<",
+      "CN": "进入路线三",
+      "KR": ">>>세 번째 경로로 이동<<<",
+      "TW": "前往第三條路線"
+    }
   },
   ">>>GOOD JOB!<<<": {
-    "translation": ">>>干得好！<<<"
+    "translation": ">>>干得好！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>よくできました！<<<",
+      "CN": "干得漂亮！",
+      "KR": ">>>잘했어!<<<",
+      "TW": "做得好！"
+    }
   },
   ">>>GUARDIAN OF THE RUIN AHEAD <<<": {
-    "translation": ">>>前方是遗迹守护者<<<"
+    "translation": ">>>前方是遗迹守护者<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>前方の遺跡の守護者 <<<",
+      "CN": "前方遗迹守护者",
+      "KR": ">>>앞에 있는 ruin의 수호자<<<",
+      "TW": "前方的廢墟守護者"
+    }
   },
   ">>>HHOOLLDD<<<": {
-    "translation": ">>>稍等<<<"
+    "translation": ">>>稍等<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>HHOOLLDD<<<",
+      "CN": "HOLLID",
+      "KR": ">>>HHOOLLDD<<<",
+      "TW": ">>> 保持 <<<"
+    }
   },
   ">>>HOLD<<<": {
-    "translation": ">>>坚守<<<"
+    "translation": ">>>坚守<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ホールド<<<",
+      "CN": "保持",
+      "KR": ">>>HOLD<<<",
+      "TW": "保持"
+    }
   },
   ">>>HOLDDDD<<<": {
-    "translation": ">>>坚守！<<<"
+    "translation": ">>>坚守！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>HOLDDDD<<<",
+      "CN": "HOLDDDD",
+      "KR": ">>>HOLDDDD<<<",
+      "TW": "<<<HOLDDDD>>"
+    }
   },
   ">>>LAST HOLD 18 SECS<<<": {
-    "translation": ">>>最后防守18秒<<<"
+    "translation": ">>>最后防守18秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>最後のホールド、残り18秒<<<",
+      "CN": "最后保持18秒",
+      "KR": ">>>마지막 홀드 18초<<<",
+      "TW": "最後一次保持18秒"
+    }
   },
   ">>>LETS GO TO ROUTE TWO<<<": {
-    "translation": ">>>前往第二关<<<"
+    "translation": ">>>前往第二关<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ルーツ2へ進もう<<<",
+      "CN": "进入路线二",
+      "KR": ">>>두 번째 경로로 가자<<<",
+      "TW": "前往第二條路線"
+    }
   },
   ">>>NOW TIME TO HOLD<<<": {
-    "translation": ">>>现在是时候防守了<<<"
+    "translation": ">>>现在是时候防守了<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "now time to hold",
+      "CN": ">>>现在请保持静止<<<",
+      "KR": "이제 손을 맞대세요",
+      "TW": "現在是交鋒時刻"
+    }
   },
   ">>>RUN RUN RUN! <<<": {
-    "translation": ">>>跑跑跑！<<<"
+    "translation": ">>>跑跑跑！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "run run run!",
+      "CN": ">>>快跑！<<<",
+      "KR": "달려라, 달려!",
+      "TW": "快跑！快跑！"
+    }
   },
   ">>>THE GATE TO THE RUIN WILL OPEN SOON<<<": {
-    "translation": ">>>通往遗迹的门很快会打开<<<"
+    "translation": ">>>通往遗迹的门很快会打开<<<",
+    "MultiLang": {
+      "US": ">>>THE GATE TO THE_ruin_WILL_OPEN_SOON<<<",
+      "JP": "the gate to the ruin will open soon",
+      "CN": ">>>通往废墟的大门即将开启<<<",
+      "KR": "황폐화의 문이 곧 열릴 것입니다",
+      "TW": "通往廢墟的大門即將開啟"
+    }
   },
   ">>>TO HET OUT THIS LIBRARY<<<": {
-    "translation": ">>>要离开这个图书馆<<<"
+    "translation": ">>>要离开这个图书馆<<<",
+    "MultiLang": {
+      "US": ">>TO GET THIS LIBRARY<<",
+      "JP": "to het out this library",
+      "CN": ">>>逃出这座图书馆<<<",
+      "KR": "이 도서관을 벗어나기 위해서는",
+      "TW": "脫離這座圖書館"
+    }
   },
   ">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<": {
-    "translation": ">>>我们必须找到并按下三个隐藏的按钮<<<"
+    "translation": ">>>我们必须找到并按下三个隐藏的按钮<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "we must find and press three hidden button",
+      "CN": ">>>我们必须找到并触发三个隐藏按钮<<<",
+      "KR": "숨겨진 세 개의 단추를 찾아 눌러야 합니다",
+      "TW": "我們必須找到並按下三個隱藏按鈕"
+    }
   },
   ">>>WELL DONE!<<<": {
-    "translation": ">>>干得好！<<<"
+    "translation": ">>>干得好！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "well done!",
+      "CN": ">>>干得漂亮！<<<",
+      "KR": "잘했습니다!",
+      "TW": "做得好！"
+    }
   },
   ">>>YOU FAILED<<<": {
-    "translation": ">>>你失败了<<<"
+    "translation": ">>>你失败了<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "you failed",
+      "CN": ">>>任务失败<<<",
+      "KR": "실패하였습니다",
+      "TW": "任務失敗"
+    }
   },
   ">>>ZOMBIES GET IN<<<": {
-    "translation": ">>>僵尸闯入了<<<"
+    "translation": ">>>僵尸闯入了<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "zombies get in",
+      "CN": ">>>僵尸入侵<<<",
+      "KR": "좀비가 들어옵니다",
+      "TW": "殭屍進來了"
+    }
   },
   ">>A zombie has picked up Fire<<": {
-    "translation": ">>一只僵尸拾起了火<<"
+    "translation": ">>一只僵尸拾起了火<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが火を拾った",
+      "CN": ">>一只僵尸拾取了火焰<<",
+      "KR": "좀비가 불을 picked up",
+      "TW": "殭屍撿到了火"
+    }
   },
   ">>A zombie has picked up Gravity<<": {
-    "translation": ">>一只僵尸拾起了黑洞<<"
+    "translation": ">>一只僵尸拾起了黑洞<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが重力を拾った",
+      "CN": ">>一只僵尸拾取了重力<<",
+      "KR": "좀비가 중력을 picked up",
+      "TW": "殭屍撿到了重力"
+    }
   },
   ">>A zombie has picked up Ice<<": {
-    "translation": ">>一只僵尸拾起了冰<<"
+    "translation": ">>一只僵尸拾起了冰<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが氷を拾った",
+      "CN": ">>一只僵尸拾取了寒冰<<",
+      "KR": "좀비가 얼음을 picked up",
+      "TW": "殭屍撿到了冰"
+    }
   }
 }

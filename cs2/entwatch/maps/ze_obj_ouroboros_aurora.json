@@ -1,184 +1,196 @@
 [
-	{
-		"Name": "Seth_Minigun_Knife",
-		"ShortName": "Seth_Minigun_Knife",
-		"Color": "{default}",
-		"HammerID": "35427",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "rpg",
-		"ShortName": "rpg",
-		"Color": "{default}",
-		"HammerID": "41042",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "flamethrower",
-		"ShortName": "flamethrower",
-		"Color": "{default}",
-		"HammerID": "41557",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "telegunB",
-		"ShortName": "telegunB",
-		"Color": "{default}",
-		"HammerID": "55799",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "telegunA",
-		"ShortName": "telegunA",
-		"Color": "{default}",
-		"HammerID": "55805",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "teleportcontrol",
-		"ShortName": "teleportcontrol",
-		"Color": "{default}",
-		"HammerID": "55813",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "Item_Pistol",
-		"ShortName": "Item_Pistol",
-		"Color": "{default}",
-		"HammerID": "77870",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_p250",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "迷你机枪",
+    "ShortName": "迷你机枪",
+    "Color": "{default}",
+    "HammerID": 35427,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "mini_a",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 35424,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": false
+      }
+    ]
+  },
+  {
+    "Name": "火箭筒",
+    "ShortName": "火箭筒",
+    "Color": "{default}",
+    "HammerID": 41042,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "rpgbutton",
+        "ButtonID": 41044,
+        "ButtonClass": "func_button",
+        "Filter": "rpg_item_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "喷火器",
+    "ShortName": "喷火器",
+    "Color": "{default}",
+    "HammerID": 41557,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "flamebutton",
+        "ButtonID": 41558,
+        "ButtonClass": "func_button",
+        "Filter": "flamethrower_item_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "传送枪B",
+    "ShortName": "传送枪B",
+    "Color": "{default}",
+    "HammerID": 55799,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "传送枪A",
+    "ShortName": "传送枪A",
+    "Color": "{default}",
+    "HammerID": 55805,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "传送装置",
+    "ShortName": "传送装置",
+    "Color": "{default}",
+    "HammerID": 55813,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "teleportbutton",
+        "ButtonID": 55811,
+        "ButtonClass": "func_button",
+        "Filter": "teleporter_item_user:1",
+        "Chat_Uses": false,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 55818,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
+      }
+    ]
+  },
+  {
+    "Name": "弹药",
+    "ShortName": "弹药",
+    "Color": "{default}",
+    "HammerID": 77870,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Button",
+        "ButtonID": 77884,
+        "ButtonClass": "func_physbox",
+        "Filter": "hev_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  }
 ]

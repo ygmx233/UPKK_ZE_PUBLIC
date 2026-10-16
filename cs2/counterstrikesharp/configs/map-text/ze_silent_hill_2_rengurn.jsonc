@@ -1,0 +1,92 @@
+{
+  "30秒后门开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opens in 30s",
+      "JP": "30秒後に門が開く",
+      "CN": "",
+      "KR": "30초 후 백문 개방",
+      "TW": "30秒後門開啟"
+    }
+  },
+  "40秒后门开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opens in 40s",
+      "JP": "40秒後に門が開く",
+      "CN": "",
+      "KR": "40초 후 백문 개방",
+      "TW": "40秒後門開啟"
+    }
+  },
+  "10秒僵尸传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie teleport in 10s",
+      "JP": "10秒でゾンビ転送",
+      "CN": "",
+      "KR": "10초 후 좀비 전송",
+      "TW": "10秒後殭屍傳送"
+    }
+  },
+  "10后僵尸传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie teleport 10s later",
+      "JP": "10秒後、ゾンビ転送",
+      "CN": "",
+      "KR": "10초 후 좀비 전송",
+      "TW": "10秒後殭屍傳送"
+    }
+  },
+  "门开10后僵尸传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opens, zombie teleports 10s later",
+      "JP": "門が開いてから10秒後にゾンビ転送",
+      "CN": "",
+      "KR": "문 개방 후 10초 경과 → 좀비 전송",
+      "TW": "門開啟10秒後殭屍傳送"
+    }
+  },
+  "10秒后僵尸传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie teleport 10s later",
+      "JP": "10秒後、ゾンビ転送",
+      "CN": "",
+      "KR": "10초 후 좀비 전송",
+      "TW": "10秒後殭屍傳送"
+    }
+  },
+  "门开10秒传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opens, teleport in 10s",
+      "JP": "門が開いてから10秒で転送",
+      "CN": "",
+      "KR": "문 개방 10초 후 전송",
+      "TW": "門開啟10秒後傳送"
+    }
+  },
+  "40秒后核爆": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Nuclear explosion in 40s",
+      "JP": "40秒後に核爆発",
+      "CN": "",
+      "KR": "40초 후 핵폭발",
+      "TW": "40秒後核爆"
+    }
+  },
+  "40秒后关门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Doors close in 40 seconds",
+      "JP": "40秒後に門が閉まります",
+      "CN": "",
+      "KR": "40초 후 문 닫힘",
+      "TW": "40秒後關門"
+    }
+  }
+}

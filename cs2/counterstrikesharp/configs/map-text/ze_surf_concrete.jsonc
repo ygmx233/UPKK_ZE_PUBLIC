@@ -1,62 +1,202 @@
 {
   "**All zm tp at 30 seconds**": {
-    "translation": "**所有僵尸 30 秒后传送**"
+    "translation": "**所有僵尸 30 秒后传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に全スロットをtp",
+      "CN": "**所有 zm tp 30秒后**",
+      "KR": "**30초 후에 모든 zm tp**",
+      "TW": "**所有怪物在30秒時瞬移至出生點**"
+    }
   },
   "**Boss Attack!**": {
-    "translation": "**Boss 攻击！**"
+    "translation": "**Boss 攻击！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス攻撃!",
+      "CN": "**Boss Attack!**",
+      "KR": "**보스 공격!**",
+      "TW": "**Boss發動攻擊！**"
+    }
   },
   "**Defend 30 seconds**": {
-    "translation": "**防守 30 秒**"
+    "translation": "**防守 30 秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間防衛",
+      "CN": "**Defend 30 seconds**",
+      "KR": "**30초간 방어**",
+      "TW": "防禦30秒"
+    }
   },
   "**Defend 35 seconds**": {
-    "translation": "**防守 35 秒**"
+    "translation": "**防守 35 秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒間防衛",
+      "CN": "**Defend 35 seconds**",
+      "KR": "**35초간 방어**",
+      "TW": "防禦35秒"
+    }
   },
   "**Defend bridge 35 seconds**": {
-    "translation": "**防守桥梁 35 秒**"
+    "translation": "**防守桥梁 35 秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "橋を35秒間守る",
+      "CN": "**Defend bridge 35 seconds**",
+      "KR": "**다리를 35초간 방어**",
+      "TW": "防禦橋樑35秒"
+    }
   },
   "**Defend the doors**": {
-    "translation": "**防守门**"
+    "translation": "**防守门**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアを守る",
+      "CN": "**Defend the doors**",
+      "KR": "**문을 막아라**",
+      "TW": "守住門口"
+    }
   },
   "**Go down**": {
-    "translation": "**下去**"
+    "translation": "**下去**",
+    "MultiLang": {
+      "US": "",
+      "JP": "下へ行く",
+      "CN": "**Go down**",
+      "KR": "**아래로 내려가**",
+      "TW": "向下移動"
+    }
   },
   "**Gravity!**": {
-    "translation": "**重力！**"
+    "translation": "**重力！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "重力!",
+      "CN": "**Gravity!**",
+      "KR": "**중력!**",
+      "TW": "**重力！**"
+    }
   },
   "**Hold 20 seconds**": {
-    "translation": "**坚持 20 秒**"
+    "translation": "**坚持 20 秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**20秒間押す**",
+      "CN": "按住 20 秒",
+      "KR": "**20초 동안 누르기**",
+      "TW": "**按住 20 秒**"
+    }
   },
   "**Hold 30 seconds**": {
-    "translation": "**坚持 30 秒**"
+    "translation": "**坚持 30 秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**30秒間押す**",
+      "CN": "按住 30 秒",
+      "KR": "**30초 동안 누르기**",
+      "TW": "**按住 30 秒**"
+    }
   },
   "**Hold 45 seconds**": {
-    "translation": "**坚持 45 秒**"
+    "translation": "**坚持 45 秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**45秒間押す**",
+      "CN": "按住 45 秒",
+      "KR": "**45초 동안 누르기**",
+      "TW": "**按住 45 秒**"
+    }
   },
   "**Lasers in 5 seconds**": {
-    "translation": "**5 秒后跳刀**"
+    "translation": "**5 秒后跳刀**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レーザー発射まで5秒**",
+      "CN": "激光将在 5 秒后发射",
+      "KR": "**5초 후 레이저 발사**",
+      "TW": "**導彈將于 5 秒後發射**"
+    }
   },
   "**Map by R1cko27**": {
-    "translation": "**地图作者：R1cko27 翻译：Ayanami♪**"
+    "translation": "**地图作者：R1cko27 翻译：Ayanami♪**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Map by R1cko27**",
+      "CN": "地图由 R1cko27 制作",
+      "KR": "**지도: R1cko27**",
+      "TW": "**地圖作者：R1cko27**"
+    }
   },
   "**Mini Robot Attack!**": {
-    "translation": "**迷你机器人攻击！**"
+    "translation": "**迷你机器人攻击！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ミニロボット大襲来！**",
+      "CN": "迷你机器人袭击！",
+      "KR": "**미니 로봇 공격!**",
+      "TW": "**迷你機器人襲擊！**"
+    }
   },
   "**Push!**": {
-    "translation": "**推力！**"
+    "translation": "**推力！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**押せ！**",
+      "CN": "推！",
+      "KR": "**-push!**",
+      "TW": "**推！**"
+    }
   },
   "**Shoot The Boss!!!**": {
-    "translation": "**射击 Boss！！！**"
+    "translation": "**射击 Boss！！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ボスを撃て！！！**",
+      "CN": "射击首领！！！",
+      "KR": "**보스 쏴!!!**",
+      "TW": "**射擊首領！！！**"
+    }
   },
   "**Zombie Attack!**": {
-    "translation": "**僵尸攻击！**"
+    "translation": "**僵尸攻击！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ゾンビ襲来！**",
+      "CN": "**僵尸袭击！**",
+      "KR": "**좀비 습격!**",
+      "TW": "殭屍襲擊！"
+    }
   },
   "**Zombie tp at 15 seconds**": {
-    "translation": "**僵尸 15 秒后传送**"
+    "translation": "**僵尸 15 秒后传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**15秒後にゾンブtp**",
+      "CN": "**僵尸于15秒后瞬移**",
+      "KR": "**좀비 TP 15초 후**",
+      "TW": "殭屍於 15 秒後傳送"
+    }
   },
   "**Zombie tp at 20 seconds**": {
-    "translation": "**僵尸 20 秒后传送**"
+    "translation": "**僵尸 20 秒后传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**20秒後にゾンビtp**",
+      "CN": "**僵尸于20秒后瞬移**",
+      "KR": "**좀비 TP 20초 후**",
+      "TW": "殭屍於 20 秒後傳送"
+    }
   },
   "**Zombie tp at 30 seconds**": {
-    "translation": "**僵尸 30 秒后传送**"
+    "translation": "**僵尸 30 秒后传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**30秒後にゾンビtp**",
+      "CN": "**僵尸于30秒后瞬移**",
+      "KR": "**좀비 TP 30초 후**",
+      "TW": "殭屍於 30 秒後傳送"
+    }
   }
 }

@@ -1,56 +1,182 @@
 {
   "\">>>Welcome To Take Our Test<<<\"": {
-    "translation": ">>>欢迎参加我们的测试<<<"
+    "translation": ">>>欢迎参加我们的测试<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> テストを受けていただき、ありがとうございます <<<",
+      "CN": ">>>欢迎参与我们的测试<<<",
+      "KR": "테스트에 오신 것을 환영합니다",
+      "TW": ">>>歡迎參加我們的測試<<<"
+    }
   },
   "\">>Map By Linyan<<\"": {
-    "translation": ">>地图作者：Linyan 翻译：Ayanami♪<<"
+    "translation": ">>地图作者：Linyan 翻译：Ayanami♪<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 制作者：Linyan <<",
+      "CN": ">>制作地图：Linyan<<",
+      "KR": "지도 제작: Linyan",
+      "TW": ">>地圖作者：林巖<<"
+    }
   },
   "\">>Thank: 7ychu5, Hez, Nisa<<\"": {
-    "translation": ">>感谢：7ychu5、Hez、Nisa<<"
+    "translation": ">>感谢：7ychu5、Hez、Nisa<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 感謝：7ychu5, Hez, Nisa <<",
+      "CN": ">>致谢：7ychu5, Hez, Nisa<<",
+      "KR": "감사합니다: 7ychu5, Hez, Nisa",
+      "TW": ">>特別感謝：7ychu5, Hez, Nisa<<"
+    }
   },
   "\">>>Have A Good Time<<<\"": {
-    "translation": ">>>祝您玩得愉快<<<"
+    "translation": ">>>祝您玩得愉快<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 楽しんでください <<<",
+      "CN": ">>>祝您游戏愉快<<<",
+      "KR": "즐거운 게임 되세요",
+      "TW": ">>>祝您遊玩愉快<<<"
+    }
   },
   "\">>>Casual Level<<<\"": {
-    "translation": ">>>休闲级别<<<"
+    "translation": ">>>休闲级别<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> キュートなレベル <<<",
+      "CN": ">>>休闲模式<<<",
+      "KR": "캐주얼 레벨",
+      "TW": ">>>休閒關卡<<<"
+    }
   },
   "\">>>Defend 30 Seconds<<<\"": {
-    "translation": ">>>防守 30 秒<<<"
+    "translation": ">>>防守 30 秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒間防衛 <<<",
+      "CN": ">>>防守30秒<<<",
+      "KR": "30초간 방어",
+      "TW": ">>>防禦30秒<<<"
+    }
   },
   "\">>>3<<<\"": {
-    "translation": ">>>3<<<"
+    "translation": ">>>3<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>>3<<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   "\">>>2<<<\"": {
-    "translation": ">>>2<<<"
+    "translation": ">>>2<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>>2<<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   "\">>>1<<<\"": {
-    "translation": ">>>1<<<"
+    "translation": ">>>1<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>>1<<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   "\">>>Serious Level<<<\"": {
-    "translation": ">>>正常等级<<<"
+    "translation": ">>>正常等级<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> シリアスなレベル <<<",
+      "CN": ">>>硬核模式<<<",
+      "KR": "하드코어 레벨",
+      "TW": ">>>嚴肅關卡<<<"
+    }
   },
   "\">>>Zombie Teleport<<<\"": {
-    "translation": ">>>僵尸传送<<<"
+    "translation": ">>>僵尸传送<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゾンビテレポーテーション <<<",
+      "CN": ">>>僵尸传送<<<",
+      "KR": "좀비 텔레포트",
+      "TW": ">>>瞬間移動的殭屍<<<"
+    }
   },
   "\">>>Defend 50 Seconds<<<\"": {
-    "translation": ">>>防守50秒<<<"
+    "translation": ">>>防守50秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>50秒間防衛せよ<<<",
+      "CN": ">>>坚守50秒<<<",
+      "KR": ">>>50초간 방어<<<",
+      "TW": ">>>防守50秒<<<"
+    }
   },
   "\">>>Decisive Level<<<\"": {
-    "translation": ">>>困难等级<<<"
+    "translation": ">>>困难等级<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>決定的なレベル<<<",
+      "CN": ">>>决胜关卡<<<",
+      "KR": ">>>결정적 레벨<<<",
+      "TW": ">>>決戰等級<<<"
+    }
   },
   "\">>>Defend 60 Seconds<<<\"": {
-    "translation": ">>>防守60秒<<<"
+    "translation": ">>>防守60秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>60秒間防衛せよ<<<",
+      "CN": ">>>坚守60秒<<<",
+      "KR": ">>>60초간 방어<<<",
+      "TW": ">>>防守60秒<<<"
+    }
   },
   "\">>>Lethality Level<<<\"": {
-    "translation": ">>>致死等级<<<"
+    "translation": ">>>致死等级<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>致命的なレベル<<<",
+      "CN": ">>>致命关卡<<<",
+      "KR": ">>>치명적 레벨<<<",
+      "TW": ">>>致命等級<<<"
+    }
   },
   "\">>>Defend Until We Finish The Test<<<\"": {
-    "translation": ">>>防守直到我们通过测试<<<"
+    "translation": ">>>防守直到我们通过测试<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>テスト終了まで防衛せよ<<<",
+      "CN": ">>>坚持到测试结束<<<",
+      "KR": ">>>테스트를 마칠 때까지 방어<<<",
+      "TW": ">>>防守至測試結束<<<"
+    }
   },
   "\">>>Congratulation. You Complete The Test.<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>おめでとう。テストを完了しました。<<<",
+      "CN": ">>>恭喜。你完成了测试。<<<",
+      "KR": ">>>축하합니다. 테스트에 성공했습니다.<<<",
+      "TW": ">>>恭喜。您已完成測試。<<<"
+    }
   },
   "\">>>Human Win<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>人間の勝利<<<",
+      "CN": ">>>人类胜利<<<",
+      "KR": ">>>인간 승리<<<",
+      "TW": ">>>人類獲勝<<<"
+    }
   }
 }

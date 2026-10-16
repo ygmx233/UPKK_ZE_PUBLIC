@@ -1,413 +1,1372 @@
 {
   "*** 禁地斯狄科 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Forbidden Land Stidico ***",
+      "JP": "禁地スディコ",
+      "CN": "",
+      "KR": "*** 금지의 땅 스디코 ***",
+      "TW": "*** 禁地斯狄科 ***"
+    }
   },
   "*** 本地图处于公开测试阶段,可能存在部分BUG,欢迎前往steam创意工坊留言反馈 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** This map is in the open testing phase and may have some bugs. Please leave feedback in the Steam Workshop. ***",
+      "JP": "*** このマップは公開テスト段階にあり、一部のバグが存在する可能性があります。Steamクリエイターワークショップでフィードバックをお送りください。***",
+      "CN": "",
+      "KR": "*** 이 지도는 공개 테스트 단계에 있으며, 일부 버그가 발생할 수 있습니다. 스팀 크리에이티브 워크숍에서 피드백을 남겨주세요. ***",
+      "TW": "*** 本地圖目前處於公開測試階段，可能部分存在錯誤，歡迎前往 Steam 創意工坊留言反饋 ***"
+    }
   },
   "--地图作者:黑岩,Fong|感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩--": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "--Map Author: Hei Yan, Fong | Thanks to tenshi., mdxzl, lemon, tianli, and Qi Liu for their help with the map creation and porting. Porter: lopb. This map requires the cs2fix plugin and Lua unlock to play normally--",
+      "JP": "--マップ制作者：黒岩、Fong | tenshi.、mdxzl、lemon、tianli、気流の皆にマップ制作および移植の協力を感謝します。移植者：lop。このマップは正常にプレイするために「cs2fix」プラグインとLuaのアンロックが必要です。--",
+      "CN": "",
+      "KR": "--지도 제작자: 흑암, Fong|tenshi., mdxzl, lemon, tianli, 기류에게 지도 제작 및 이식 협력을 감사드립니다. 이식자: lopb-- 본 지도는 정상적인 플레이를 위해 cs2fix 플러그인과 lua 해제가 필요합니다.",
+      "TW": "--地圖作者：黑岩、Fong|感謝 tenshi.、mdxzl、lemon、tianli、氣流 對地圖製作及移植提供的幫助，移植者：lopb，本地圖需安裝 cs2fix 外掛及啟用 Lua 解除限制才能正常遊玩--"
+    }
   },
   "** 拉法库巴封印了石碑的魔力,我们必须找到他! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Llafuba sealed the magic of the stele. We must find him! **",
+      "JP": "** ラファクバが碑文の魔力を封印した。彼を見つけなければならない！**",
+      "CN": "",
+      "KR": "** 라파쿠바가 비석의 마력을 봉인했습니다. 반드시 그를 찾아야 합니다! **",
+      "TW": "** 拉法庫巴封印了石碑的魔力，我們必須找到他！**"
+    }
   },
   "**传送25秒后将被打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The portal will open in 25 seconds. **",
+      "JP": "** 25秒後に転送が開始されます**",
+      "CN": "",
+      "KR": "** 25초 후 텔레포트가 활성화됩니다 **",
+      "TW": "** 傳送門將於 25 秒後開啟 **"
+    }
   },
   "**一名玩家拾取了【圣盾】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** A player has picked up the [Holy Shield] **",
+      "JP": "** プレーヤーが【聖盾】を拾いました**",
+      "CN": "一名玩家拾取了",
+      "KR": "** 플레이어가 [성스러운 방패]를 획득했습니다 **",
+      "TW": "** 一名玩家拾取了【聖盾】**"
+    }
   },
   "**圣盾消失了**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The Holy Shield has vanished. **",
+      "JP": "** 聖盾が消滅しました**",
+      "CN": "",
+      "KR": "** 성스러운 방패가 소멸했습니다 **",
+      "TW": "** 聖盾已消失**"
+    }
   },
   "**僵尸已经拾取了【冰环】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** A zombie has picked up the [Ice Ring] **",
+      "JP": "** ゾンビが【アイスリング】を拾いました**",
+      "CN": "***僵尸已经拾取了***",
+      "KR": "** 좀비가 [얼음 고리]를 획득했습니다 **",
+      "TW": "** 殭屍已拾取【冰環】**"
+    }
   },
   "**一名玩家拾取了【冰垒】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "One player picked up [Ice Block]",
+      "JP": "あるプレイヤーが【氷の壁】を拾いました",
+      "CN": "一名玩家拾取了",
+      "KR": "한 명의 플레이어가 【얼음 성채】을(를) 획득했습니다",
+      "TW": "**一名玩家已拾取【冰壘】**"
+    }
   },
   "**斯狄科雪域大门将在60秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The Stisko Snow Gate will open in 60 seconds",
+      "JP": "スディコの雪域の扉は60秒後に開きます",
+      "CN": "",
+      "KR": "스디코 눈 덮인 땅의 대문이 60초 후에 열립니다",
+      "TW": "**史迪科雪域大門將於60秒後開啟**"
+    }
   },
   "**【雷沃尔熊人】已经苏醒了**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[Ravol Yeti] has awakened",
+      "JP": "【レヴォル熊人】が覚醒しました",
+      "CN": "已经觉醒了***",
+      "KR": "[레볼우 인간형生物]이(가) 깨어났습니다",
+      "TW": "**【雷沃爾熊人】已甦醒**"
+    }
   },
   "**我们需要摧毁岩石**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to destroy the rocks",
+      "JP": "岩を破壊する必要があります",
+      "CN": "",
+      "KR": "우리는 바위를 파괴해야 합니다",
+      "TW": "我們需要摧毀岩石**"
+    }
   },
   "**僵尸已经拾取了【生命分离】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The zombie picked up [Life Separation]",
+      "JP": "ゾンビが【命の分離】を拾いました",
+      "CN": "***丧尸已经拾取了***",
+      "KR": "좀비가 【생명 분리】을(를) 획득했습니다",
+      "TW": "**殭屍已拾取【生命分離】**"
+    }
   },
   "**也许冰磊可以帮助我们**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Perhaps Ice Block can help us",
+      "JP": "氷の壁が助けてくれるかもしれない",
+      "CN": "",
+      "KR": "아마도 얼음 성채가 우리를 도와줄지도 모릅니다",
+      "TW": "**也許冰壘可以幫助我們**"
+    }
   },
   "**斯狄科雪域大门将在5秒后关闭**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The Stisko Snow Gate will close in 5 seconds",
+      "JP": "スディコの雪域の扉は5秒後に閉じます",
+      "CN": "",
+      "KR": "스디코 눈 덮인 땅의 대문이 5초 후에 닫힙니다",
+      "TW": "**史迪科雪域大門將於5秒後關閉**"
+    }
   },
   "**20秒后打开石门**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Stone door opens in 20 seconds",
+      "JP": "20秒後に石の門が開きます",
+      "CN": "20秒后开启石门",
+      "KR": "20초 후 돌문 개방",
+      "TW": "**20秒後開啟石門**"
+    }
   },
   "**等待封锁解除**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Waiting for lockdown to lift...",
+      "JP": "封鎖解除を待機",
+      "CN": "",
+      "KR": "** 봉쇄 해제 대기 중**",
+      "TW": "等待解封中"
+    }
   },
   "**封锁已解除，我们继续前进!**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Lockdown lifted! Let's move on!",
+      "JP": "封鎖が解除されました。先に進もう！",
+      "CN": "",
+      "KR": "** 봉쇄가 해제되었습니다. 계속 진행합니다!**",
+      "TW": "已解封，我們繼續前進！"
+    }
   },
   "**一名玩家拾取了【治疗法杖】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "A player has picked up the [Healing Staff].",
+      "JP": "プレイヤーが【治療の杖】を拾いました",
+      "CN": "一名玩家拾取了",
+      "KR": "** 한 플레이어가 【치료 지팡이】를 pickups 했습니다.**",
+      "TW": "玩家撿取了【治療法杖】"
+    }
   },
   "**大门将在40秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will open in 40 seconds.",
+      "JP": "大門は40秒後に開きます",
+      "CN": "",
+      "KR": "** 문이 40초 후에 열립니다.",
+      "TW": "大門口将在40秒後打開"
+    }
   },
   "** 狩猎!开始了! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hunting has begun!",
+      "JP": "狩り、開始！",
+      "CN": "*** ! 开始了! ***",
+      "KR": "** 사냥! 시작! **",
+      "TW": "狩獵開始！"
+    }
   },
   "**右侧门已开放**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The right door has opened.",
+      "JP": "右側の扉が解放されました",
+      "CN": "右侧门已开启>>",
+      "KR": "** 우측 문이 열렸습니다.**",
+      "TW": "右側門已開放"
+    }
   },
   "": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**炸弹将在20秒后爆炸**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The bomb will explode in 20 seconds.",
+      "JP": "爆弾は20秒後に炸裂します",
+      "CN": "",
+      "KR": "** 폭탄이 20초 후에 폭발합니다.",
+      "TW": "炸彈将在20秒後爆炸"
+    }
   },
   "大门将在30秒后被摧毁**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will be destroyed in 30 seconds.",
+      "JP": "大門は30秒後に破壊されます",
+      "CN": "",
+      "KR": "문이 30초 후에 파괴됩니다.**",
+      "TW": "大門口将於30秒後被摧毀"
+    }
   },
   "**大门将在30秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The gate will open in 30 seconds **",
+      "JP": "メインゲートは30秒後に開放されます",
+      "CN": "",
+      "KR": "메인 게이트가 30초 후 열립니다",
+      "TW": "**大門將在30秒後打開**"
+    }
   },
   "**传送将在20秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Teleportation opens in 20 seconds **",
+      "JP": "ポータルは20秒後に開きます",
+      "CN": "",
+      "KR": "점프포인트가 20초 후 활성화됩니다",
+      "TW": "**傳送將在20秒後打開**"
+    }
   },
   "**晶体被破坏,周围的空气变得猛烈**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The crystal is destroyed, and the surrounding air becomes intense.",
+      "JP": "クリスタルが破壊され、周囲の空気が激しくなっています",
+      "CN": "",
+      "KR": "결정이 파괴되고 주변의 공기가 격렬해집니다",
+      "TW": "**晶體被破壞，周圍的空氣變得猛烈**"
+    }
   },
   "** 凡人!止步于此! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Mortals! Stop here!",
+      "JP": "凡人よ！これ以上進むな！",
+      "CN": "** 凡人！止步于此！ **",
+      "KR": "번인! 여기서 물러서!",
+      "TW": "**凡人！止步於此！**"
+    }
   },
   "**40秒后炸毁岩石**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Blast the rocks in 40 seconds",
+      "JP": "40秒後に岩山を爆破",
+      "CN": "",
+      "KR": "40초 후 바위 폭발",
+      "TW": "**40秒後炸毀岩石**"
+    }
   },
   "**瞭望塔的玻璃会在10秒后破碎**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The watchtower's glass will shatter in 10 seconds",
+      "JP": "見張りの塔の窓は10秒後に割れます",
+      "CN": "",
+      "KR": "감시탑의 유리가 10초 후 깨집니다",
+      "TW": "**瞭望塔的玻璃會在10秒後破碎**"
+    }
   },
   "** 这将是最后一次警告! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This will be the final warning!",
+      "JP": "これは最後の警告だ！",
+      "CN": "",
+      "KR": "마지막 경고입니다!",
+      "TW": "**這將是最後一次警告！**"
+    }
   },
   "**45秒后进入埃洛斯宫殿**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Enter the Palace of Aelos in 45 seconds",
+      "JP": "45秒後にエロス宮殿へ入室",
+      "CN": "",
+      "KR": "45초 후 에로스 궁전 입장",
+      "TW": "**45秒後進入埃洛斯宮殿**"
+    }
   },
   "**捷径路开放**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Shortcut Unlocked",
+      "JP": "ショートカット路開放",
+      "CN": "**捷径已开通**",
+      "KR": "**지름길 개통**",
+      "TW": "捷徑已開啟"
+    }
   },
   "**35秒后门打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Exit Opens in 35 Seconds",
+      "JP": "35秒後に後ろの扉が開く",
+      "CN": "",
+      "KR": "**35초 후 뒷문 개방**",
+      "TW": "後門將在35秒後開啟"
+    }
   },
   "**发生了意料之外的事情，水开始上涨了！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Something unexpected happened. The water is rising!",
+      "JP": "想定外の出来事が起き、水が上昇し始めた！",
+      "CN": "**发生意外事情，水开始上涨了！**",
+      "KR": "**예상치 못한 일이 발생했습니다. 물이 차오르기 시작합니다!**",
+      "TW": "發生了意料之外的事情，水位開始上漲！"
+    }
   },
   "**25秒后门打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Exit Opens in 25 Seconds",
+      "JP": "25秒後に後ろの扉が開く",
+      "CN": "",
+      "KR": "**25초 후 뒷문 개방**",
+      "TW": "後門將在25秒後開啟"
+    }
   },
   "**40秒后门打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Exit Opens in 40 Seconds",
+      "JP": "40秒後に後ろの扉が開く",
+      "CN": "",
+      "KR": "**40초 후 뒷문 개방**",
+      "TW": "後門將在40秒後開啟"
+    }
   },
   "**20秒后门打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Exit Opens in 20 Seconds",
+      "JP": "20秒後に後ろの扉が開く",
+      "CN": "",
+      "KR": "**20초 후 뒷문 개방**",
+      "TW": "後門將在20秒後開啟"
+    }
   },
   "**50秒后门打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Exit Opens in 50 Seconds",
+      "JP": "50秒後に後ろの扉が開く",
+      "CN": "",
+      "KR": "**50초 후 뒷문 개방**",
+      "TW": "後門將在50秒後開啟"
+    }
   },
   "**也许还需要防守最多10秒 :3 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "You might have to defend for up to 10 more seconds. :3",
+      "JP": "もしかしたらあと最大10秒防衛が必要かも :3",
+      "CN": "",
+      "KR": "**아마도 최대 10초 동안 방어만 하면 될지도요 :3 **",
+      "TW": "也許還需要最多防守10秒 :3"
+    }
   },
   "**15秒后门打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The backdoor opens in 15 seconds",
+      "JP": "**15秒後に扉が開く**",
+      "CN": "",
+      "KR": "15초 뒤 백도어 개방",
+      "TW": "15秒後開啟後門"
+    }
   },
   "**传送20秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleportation opens in 20 seconds",
+      "JP": "**テレポーターは20秒後から使用可能**",
+      "CN": "***20秒后开启***",
+      "KR": "teleport 후 20초 뒤 개방",
+      "TW": "傳送門20秒後開啟"
+    }
   },
   "**净化水晶已经解封**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The purification crystal has been unsealed",
+      "JP": "浄化クリスタルの封印はすでに解除された**。",
+      "CN": "",
+      "KR": "정화 수정解封됨",
+      "TW": "淨化水晶已解封"
+    }
   },
   "**有一名玩家化身成为了【精灵法师】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "A player has transformed into a [Sylph Mage]",
+      "JP": "**プレイヤーの一人が【エルフ・マジシャン】に化身しました。**",
+      "CN": "**有一名玩家化身成为了**",
+      "KR": "플레이어 한 명이 【정령 마법사】로 변신함",
+      "TW": "有玩家化身為【精靈法師】"
+    }
   },
   "**一名玩家拾取了【暴风雪】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "A player has acquired [Blizzard]",
+      "JP": "**プレイヤーの一人が【ストームブレイズ】を拾いました。**",
+      "CN": "一名玩家拾取了***",
+      "KR": "플레이어 한 명이 【폭풍 눈보라】를 획득함",
+      "TW": "一名玩家拾取了【暴風雪】"
+    }
   },
   "** 人类!别碰我! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Humans! Do not touch me!",
+      "JP": "**人間のくせに！近寄るな！**",
+      "CN": "*** 人类！别碰我！***",
+      "KR": "인간! 내게 만지지 마!",
+      "TW": "人類！別碰我！"
+    }
   },
   "**斯狄科雪域大门将在10秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The Spetico Snow Domain gate will open in 10 seconds",
+      "JP": "**スディコ雪域の大门は10秒後に開く**",
+      "CN": "",
+      "KR": "스티코 눈의 나라 대문이 10초 뒤 개방됨",
+      "TW": "斯狄科雪域大門將在10秒後開啟"
+    }
   },
   "**攻击岩石的脆弱部分!**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Attack the rock's weak point!",
+      "JP": "**岩の弱点を攻撃しろ！**",
+      "CN": "",
+      "KR": "바위의 취약 부분을 공격하라!",
+      "TW": "攻擊岩石的脆弱部分！"
+    }
   },
   "**精灵法师被击败!**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Elf Mage defeated!",
+      "JP": "精霊魔法師が撃破された！",
+      "CN": "**精灵法师职业失败!**",
+      "KR": "**정령 마법사가 격파됨!**",
+      "TW": "精靈法師已被擊敗！"
+    }
   },
   "**一名玩家拾取了【寒霜剑】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up [Frost Blade]",
+      "JP": "プレイヤーが【霜牙剣】を拾いました",
+      "CN": "一名玩家拾取了",
+      "KR": "**플레이어가 【냉혹의 검】을 획득했습니다**",
+      "TW": "一名玩家拾取了【寒霜劍】"
+    }
   },
   "**等待5秒封锁解除**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Block lift in 5 seconds",
+      "JP": "5秒後に封鎖が解除されます",
+      "CN": "",
+      "KR": "5초 후 봉쇄 해제",
+      "TW": "等待5秒後解除封鎖"
+    }
   },
   "** 20秒后升起石柱 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Stone pillar raises in 20 seconds",
+      "JP": "20秒後に石柱が登場します",
+      "CN": "",
+      "KR": "20초 후 기둥 출현",
+      "TW": "20秒後石柱升起"
+    }
   },
   "**大门将在10秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate opens in 10 seconds",
+      "JP": "門が10秒後に開きます",
+      "CN": "",
+      "KR": "10초 후 문 열림",
+      "TW": "大門將在10秒後打開"
+    }
   },
   "**右侧拉杆已拉动**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Right lever pulled",
+      "JP": "右側のレバーを引きました",
+      "CN": "",
+      "KR": "오른쪽 레버를 당겼습니다.",
+      "TW": "右側拉杆已拉動"
+    }
   },
   "** 10秒后僵尸传送 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies teleport in 10 seconds",
+      "JP": "10秒後にゾンビが転送されます",
+      "CN": "10秒后丧尸传送***",
+      "KR": "10초 후 좀비 소환",
+      "TW": "10秒後殭屍傳送"
+    }
   },
   "**5秒后右侧门开放**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Right door opens in 5 seconds",
+      "JP": "5秒後に右の門が開きます",
+      "CN": "",
+      "KR": "5초 후 오른쪽 문 개방",
+      "TW": "5秒後右側門開放"
+    }
   },
   "**左侧拉杆已拉动**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The left lever has been pulled.",
+      "JP": "左側のレバーが引かれました",
+      "CN": "左侧摇杆已拉动",
+      "KR": "**왼쪽 레버 조작 완료**",
+      "TW": "左側拉桿已拉动"
+    }
   },
   "**大门将在50秒后被摧毁**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will be destroyed in 50 seconds.",
+      "JP": "50秒後に大门が破壊されます",
+      "CN": "",
+      "KR": "**대문이 50초 후에 파괴됩니다**",
+      "TW": "大門將在50秒後被摧毀"
+    }
   },
   "**5秒后左侧门开放**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The left door will open in 5 seconds.",
+      "JP": "5秒後左側の門が開きます",
+      "CN": "",
+      "KR": "**5초 후 왼쪽 문 개방**",
+      "TW": "5秒後左側門開啟"
+    }
   },
   "**大门将在10秒后被摧毁**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will be destroyed in 10 seconds.",
+      "JP": "10秒後に大门が破壊されます",
+      "CN": "",
+      "KR": "**대문이 10초 후에 파괴됩니다**",
+      "TW": "大門將在10秒後被摧毀"
+    }
   },
   "大门将在5秒后被摧毁**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will be destroyed in 5 seconds.",
+      "JP": "5秒後に大门が破壊されます",
+      "CN": "",
+      "KR": "대문이 5초 후에 파괴됩니다**",
+      "TW": "大門將在5秒後被摧毀"
+    }
   },
   "**大门将在5秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will open in 5 seconds.",
+      "JP": "5秒後的大门が開きます",
+      "CN": "",
+      "KR": "**대문이 5초 후 개방**",
+      "TW": "大門將在5秒後開啟"
+    }
   },
   "**一名玩家拾取了【寒风】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up 【Cold Wind】.",
+      "JP": "プレイヤーが「寒風」を拾いました",
+      "CN": "一名玩家拾取了",
+      "KR": "**플레이어가 【寒风】을 획득했습니다**",
+      "TW": "一名玩家拾取了【寒風】"
+    }
   },
   "**晶体被破坏，周围的空气开始凝结**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The crystal has been destroyed, and the surrounding air begins to condense.",
+      "JP": "クリスタルが破壊され、周囲の空気が凝結し始めます",
+      "CN": "",
+      "KR": "**결정이 파괴되며 주변 공기가 응결됩니다**",
+      "TW": "晶體被破壞，周圍的空氣開始凝結"
+    }
   },
   "**传送将在5秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The portal will open in 5 seconds",
+      "JP": "ポータルは5秒後に開きます",
+      "CN": "",
+      "KR": "포트가 5초 후에 열립니다",
+      "TW": "**傳送門將在5秒後開啟**"
+    }
   },
   "**当心!阿拉斯的幻影摧毁了桥梁!**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Careful! Alas's phantom has destroyed the bridge!",
+      "JP": "注意！アラスの幻影が橋を破壊しました！",
+      "CN": "",
+      "KR": "주의! 아라스의 환영이 다리를 부숴 놓았습니다!",
+      "TW": "**小心！阿拉斯的幻影摧毀了橋樑！**"
+    }
   },
   "**5秒后炸毁岩石**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Rocks will be blown up in 5 seconds",
+      "JP": "岩は5秒後に爆破されます",
+      "CN": "",
+      "KR": "5초 후에 암석을爆破합니다",
+      "TW": "**5秒後炸毀岩石**"
+    }
   },
   "**5秒后进入埃洛斯宫殿**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entering Eros Palace in 5 seconds",
+      "JP": "エロス宮殿への入場は5秒後です",
+      "CN": "",
+      "KR": "5초 후에 에로스 궁전으로 진입합니다",
+      "TW": "**5秒後進入埃洛斯宮殿**"
+    }
   },
   "**5秒后捷径路开放**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Shortcut opens in 5 seconds",
+      "JP": "近道ルートは5秒後に開放されます",
+      "CN": "5秒后捷径开启",
+      "KR": "5초 후에 지름길이 열립니다",
+      "TW": "**5秒後開通捷徑**"
+    }
   },
   "**5秒后门打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Door will open in 5 seconds",
+      "JP": "扉は5秒後に開きます",
+      "CN": "",
+      "KR": "5초 후에 문이 열립니다",
+      "TW": "**5秒後打開大門**"
+    }
   },
   "**门将在20秒后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 20 seconds",
+      "JP": "扉は20秒後に開きます",
+      "CN": "",
+      "KR": "20초 후에 문이 열립니다",
+      "TW": "**門將在20秒後開啟**"
+    }
   },
   "**剩余20秒**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "20 seconds remaining",
+      "JP": "残り20秒",
+      "CN": "",
+      "KR": "남은 시간 20초",
+      "TW": "**剩餘20秒**"
+    }
   },
   "**剩余15秒**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** 15 seconds remaining **",
+      "JP": "**残り15秒**",
+      "CN": "",
+      "KR": "나머지 15초",
+      "TW": "剩餘15秒"
+    }
   },
   "** 你们犯下了弥天之罪,回来迎接你们的审判吧! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** You have committed a heinous crime. Come and face your judgment! **",
+      "JP": "**汝らは天罰たる罪を犯した。その裁きを受けよ！**",
+      "CN": "",
+      "KR": "너희는 지옥의 죄를 저질렀다, 돌아가서 심판을 받아라!",
+      "TW": "你們犯下了彌天之罪，回來迎接你們的審判吧！"
+    }
   },
   "** 阿拉斯正在注视着你! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Aras is watching you! **",
+      "JP": "**アラスが貴方を注視している！**",
+      "CN": "",
+      "KR": "아라스가 너를 지켜보고 있다!",
+      "TW": "阿拉斯正在注視著你！"
+    }
   },
   "**70秒后关闭斯狄科雪域大门**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Sticke Snowfield gates close in 70 seconds **",
+      "JP": "**70秒後にスディコ雪域の扉が閉じます**",
+      "CN": "",
+      "KR": "70초 후 스티코 눈의 땅 문 닫힘",
+      "TW": "70秒後關閉斯狄科雪域大門"
+    }
   },
   "**20秒后迎接最终决战**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Final battle begins in 20 seconds **",
+      "JP": "**20秒後に最終決戦へ突入**",
+      "CN": "",
+      "KR": "20초 후 최종 전투 시작",
+      "TW": "20秒後迎接最終決戰"
+    }
   },
   "**星落风暴**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Starfall Storm",
+      "JP": "星落ストーム",
+      "CN": "",
+      "KR": "별폭풍",
+      "TW": "星落風暴"
+    }
   },
   "**尾部扫击**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Tail Sweep",
+      "JP": "尾部スウィープ",
+      "CN": "",
+      "KR": "꼬리横扫",
+      "TW": "尾部掃擊"
+    }
   },
   "**飞龙吐息**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Dragon's Breath",
+      "JP": "飛竜の吐息",
+      "CN": "***翔龙 breath***",
+      "KR": "용의 불꽃吐息",
+      "TW": "飛龍吐息"
+    }
   },
   "**大暴雪**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Major Blizzard",
+      "JP": "**大暴雪**",
+      "CN": "",
+      "KR": "**대폭설**",
+      "TW": "**大暴雪**"
+    }
   },
   "**幻影龙车**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Phantom Dragon Charge",
+      "JP": "**幻影龍車**",
+      "CN": "",
+      "KR": "**환영 전차**",
+      "TW": "**幻影龍車**"
+    }
   },
   "**寒流**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Cold Wave",
+      "JP": "**寒流**",
+      "CN": "",
+      "KR": "**한파**",
+      "TW": "**寒流**"
+    }
   },
   "**龙刀**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Dragon Blade",
+      "JP": "**龍刀**",
+      "CN": "",
+      "KR": "**용의 검**",
+      "TW": "**龍刀**"
+    }
   },
   "**龙息**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Dragon Breath",
+      "JP": "**竜息**",
+      "CN": "",
+      "KR": "**용의 숨결**",
+      "TW": "**龍息**"
+    }
   },
   "**僵尸10秒后到来**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies arrive in 10 seconds",
+      "JP": "**ゾンビ10秒後に到着**",
+      "CN": "",
+      "KR": "**좀비가 10초 후에 도착합니다**",
+      "TW": "**殭屍10秒後到來**"
+    }
   },
   "**由于魔力流失，精灵耗尽最后的魔力,变为普通人,最后仅剩的魔力传输给了[随机]神器**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Due to mana depletion, elves exhaust their final magic power and revert to ordinary people. The last remaining mana is transmitted to the [Random] Divine Artifact.",
+      "JP": "**魔力流失により、精霊は最後の魔力を失って普通人となり、残されたわずかな魔力が[ランダム]神器に伝送されました**",
+      "CN": "***因魔力流失，精灵耗尽最后一丝魔力，变成普通人，最终仅剩的魔力传给了***[随机]***神器***",
+      "KR": "**마력의 손실로 인해 정령은 마지막 마력을 다 써버려 평범한 사람이 되었고, 마지막으로 남은 마력은 [무작위] 신기의에게 전달되었습니다**",
+      "TW": "**由於魔力流失，精靈耗盡最後的魔力，變為普通人，最後僅剩的魔力傳輸給了[隨機]神器**"
+    }
   },
   "**僵尸神器：冰环**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie Divine Artifact: Ice Ring",
+      "JP": "**ゾンビ神器：氷の輪**",
+      "CN": "",
+      "KR": "**좀비 신기: 아이싱 링**",
+      "TW": "**殭屍神器：冰環**"
+    }
   },
   "**人类神器：冰垒**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Human Artifact: Ice Fortress",
+      "JP": "人類の神器：氷の砦",
+      "CN": "人类神器：冰墙",
+      "KR": "** 인간 전설: 얼음 벽 **",
+      "TW": "**人類神器：冰壘**"
+    }
   },
   "** 法阵正在积蓄魔力,再争取一点时间! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The magic array is charging. Please hold out just a little longer!",
+      "JP": "魔法陣が魔力を蓄えています。もう少し時間稼ぎましょう！",
+      "CN": "",
+      "KR": "** 매직 서클이 마력을 충전 중입니다! 잠시만 더 버텨주세요! **",
+      "TW": "**法陣正在累積魔力，再爭取一點時間！**"
+    }
   },
   "** 我们马上就要离开这里了!坚持住! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We are about to leave this place! Stay strong!",
+      "JP": "もうすぐここを離れられます！耐えてください！",
+      "CN": "",
+      "KR": "** 우리가 여기서 곧 떠납니다! 참아주세요! **",
+      "TW": "**我們馬上就要離開這裡了！堅持住！**"
+    }
   },
   "** 传送门已开启,快离开这里! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The portal is open. Quickly, get out of here!",
+      "JP": "転送門が開きました。すぐにここを離れてください！",
+      "CN": "",
+      "KR": "** 포탈이 열렸습니다, 빨리 이곳을 떠나세요! **",
+      "TW": "**傳送門已開啟，快離開這裡！**"
+    }
   },
   "** 传送门正在瓦解,离开这里! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The portal is collapsing! Leave immediately!",
+      "JP": "転送門が崩壊しています。ここを離れてください！",
+      "CN": "",
+      "KR": "** 포탈이 무너지고 있습니다, 빨리 이곳을 벗어나세요! **",
+      "TW": "**傳送門正在瓦解，離開這裡！**"
+    }
   },
   "** 这不是斯狄科,这是哪里? **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This is not Stiko. Where are we?",
+      "JP": "スディコではない、ここはどこだ？",
+      "CN": "",
+      "KR": "** 여기는 스티코가 아닙니다, 이곳은 어디죠? **",
+      "TW": "**這不是斯狄科，這是哪裡？**"
+    }
   },
   "** 无人涉足之地,好在我们已经脱离了危险! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "A land never before trodden. Fortunately, we have escaped danger!",
+      "JP": "未踏の地。幸い、私たちは無事に安全地带に到着しました！",
+      "CN": "",
+      "KR": "** 미지의 땅, 다행히 우리는 위기를 벗어나았습니다! **",
+      "TW": "**無人涉足之地，好在我们已經脫離了危險！**"
+    }
   },
   "** 敬请期待!感谢您的游玩! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "To be continued! Thank you for playing!",
+      "JP": "ご期待ください！ご購入・プレイありがとうございました！",
+      "CN": "",
+      "KR": "** 계속 업데이트 부탁드립니다! 플레이해 주셔서 감사합니다! **",
+      "TW": "**敬請期待！感謝您的遊玩！**"
+    }
   },
   "**晶体被破坏，周围的空气变得异常**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The crystal has been destroyed, and the surrounding air becomes abnormal.",
+      "JP": "結晶が破壊され、周囲の空気が異様になった",
+      "CN": "",
+      "KR": "결정이 파괴되고 주변 공기가 극도로 불안정해졌다",
+      "TW": "水晶已破壞，周圍的空氣變得異常"
+    }
   },
   "**僵尸神器：生命分离**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie Artifact: Life Separation",
+      "JP": "ゾンビ神器：生命分離",
+      "CN": "",
+      "KR": "좀비神器: 생명 분리",
+      "TW": "殭屍神器：生命分離"
+    }
   },
   "**剑上的冰已经融化了**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The ice on the sword has melted.",
+      "JP": "剣の氷が溶けた",
+      "CN": "",
+      "KR": "검의 얼음이 녹아내렸다",
+      "TW": "劍上的冰已經融化"
+    }
   },
   "**尸体中隐藏的秘密（x2）**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Secrets Hidden in the Corpses (x2)",
+      "JP": "遺体に隠された秘密（x2）",
+      "CN": "",
+      "KR": "시체에 숨겨진 비밀 (x2)",
+      "TW": "屍體中的隱藏秘密（x2）"
+    }
   },
   "**【雷沃尔熊人】已被消灭 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[Levol Werebear] has been eliminated.",
+      "JP": "[レボル ベアラマン]を倒した",
+      "CN": "已被消灭",
+      "KR": "[레이볼 곰인간] 제거 완료",
+      "TW": "[雷沃尔熊人]已被消滅"
+    }
   },
   "**尸体中隐藏的秘密(x1)**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Secrets Hidden in the Corpses (x1)",
+      "JP": "遺体に隠された秘密(x1)",
+      "CN": "",
+      "KR": "시체에 숨겨진 비밀 (x1)",
+      "TW": "屍體中的隱藏秘密(x1)"
+    }
   },
   "**尸体中隐藏的秘密（x3）**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Secrets Hidden in the Corpses (x3)",
+      "JP": "遺体に隠された秘密（x3）",
+      "CN": "",
+      "KR": "시체에 숨겨진 비밀 (x3)",
+      "TW": "屍體中的隱藏秘密（x3）"
+    }
   },
   "**找到部分神奇的水晶**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Found Partial Magic Crystals",
+      "JP": "一部の名古屋しい水晶を見つけた",
+      "CN": "",
+      "KR": "마법 수정편을 모두 수집함",
+      "TW": "找到部分神奇水晶"
+    }
   },
   "**尸体中隐藏的秘密（x4）**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Secret Hidden in the Corpse (x4) **",
+      "JP": "**屍体に隠された秘密（x4）**",
+      "CN": "",
+      "KR": "** 시체에 숨겨진 비밀 (x4) **",
+      "TW": "屍體中隱藏的秘密（x4）"
+    }
   },
   "**一名玩家拾取了【恶魔契约】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** A player has picked up [Demon Contract] **",
+      "JP": "**プレイヤーが【悪魔との契約】を拾いました**",
+      "CN": "一名玩家拾取了",
+      "KR": "** 한 명의 플레이어가 [악마의 계약]을 획득했습니다 **",
+      "TW": "一名玩家拾取了【惡魔契約】"
+    }
   },
   "**一名玩家与恶魔签订了契约**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** A player has made a pact with the demon **",
+      "JP": "**プレイヤーが悪魔と契約を結びました**",
+      "CN": "",
+      "KR": "** 한 명의 플레이어가 악마와 계약을 체결했습니다 **",
+      "TW": "一名玩家與惡魔簽訂了契約"
+    }
   },
   "*** 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** The glass of the watchtower and the stones of the cliff will shatter in 7 seconds ***",
+      "JP": "*** 望遠鏡のガラスと崖の石が7秒後に割れます ***",
+      "CN": "",
+      "KR": "*** 망루의 유리 및 절벽의 바위가 7초 후에 파쇄됩니다 ***",
+      "TW": "*** 瞭望塔的玻璃以及懸崖的石頭7秒後碎開 ***"
+    }
   },
   "*** 瞭望塔玻璃以及悬崖的石头碎开! ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** The glass of the watchtower and the stones of the cliff shatter! ***",
+      "JP": "*** 望遠鏡のガラスと崖の石が割れました！ ***",
+      "CN": "",
+      "KR": "*** 망루의 유리 및 절벽의 바위가 파쇄되었습니다! ***",
+      "TW": "*** 瞭望塔玻璃以及懸崖的石頭碎開! ***"
+    }
   },
   "**僵尸神器：冰刺**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Zombie Artifact: Ice Spike **",
+      "JP": "**ゾンビ神器：氷の棘**",
+      "CN": "",
+      "KR": "** 좀비의 신기: 얼음 가시 **",
+      "TW": "殭屍神器：冰刺"
+    }
   },
   "**人类神器：寒风**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Human Artifact: Cold Wind **",
+      "JP": "**人類神器：冷たい風**",
+      "CN": "",
+      "KR": "** 인류의 신기: 찬바람 **",
+      "TW": "人類神器：寒風"
+    }
   },
   "**人类神器：寒霜剑**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Human Artifact: Frost Sword **",
+      "JP": "**人類神器：霜の剣**",
+      "CN": "人类神器：冰霜剑",
+      "KR": "** 인류의 신기: 서리검 **",
+      "TW": "人類神器：寒霜劍"
+    }
   },
   "**人类神器：精灵法师**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Human Artifact: Elf Mage**",
+      "JP": "**人類の神器：エルフの魔術師**",
+      "CN": "",
+      "KR": "**인류의神器: 엘프 마법사**",
+      "TW": "**人類神器：精靈法師**"
+    }
   },
   "**找到部分暗淡的水晶**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Found partial dimmed crystals",
+      "JP": "一部の色あせた水晶を見つけました",
+      "CN": "",
+      "KR": "어두워진 크리스탈 일부 발견",
+      "TW": "找到部分暗淡的水晶"
+    }
   },
   "起暴雪了!我们要多加小心!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Blizzard incoming! Stay alert!",
+      "JP": "吹雪だ！気をつけて行動しよう！",
+      "CN": "起暴雪了！我们得多加小心！",
+      "KR": "폭설이 내리고 있습니다! 주의하십시오!",
+      "TW": "起暴雪了！我們要多加小心！"
+    }
   },
   "找到隐藏的净化水晶!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Found hidden purification crystals!",
+      "JP": "隠れた浄化の水晶を見つけよ！",
+      "CN": "",
+      "KR": "숨겨진 정화 크리스탈 발견!",
+      "TW": "找到隱藏的淨化水晶！"
+    }
   },
   "**一名玩家拾取了【寒霜剑2】**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**A player picked up [Frost Sword 2]**",
+      "JP": "**プレイヤーが【フロストソード2】を拾いました**",
+      "CN": "***一名玩家拾取了***",
+      "KR": "**플레이어가 【허시드 블레이드 2】을 획득했습니다**",
+      "TW": "**一名玩家拾取了【寒霜劍2】**"
+    }
   },
   "阿拉斯已被击败,我们需要尽快去净化精灵身上的诅咒!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Aras has been defeated. We must purify the elves' curse as soon as possible!",
+      "JP": "アラスクが倒されました。エルフ身上的な呪いを浄化するために、急ぎ向かいます！",
+      "CN": "阿拉斯已遭击败,我们需尽快去解除精灵身上的诅咒!",
+      "KR": "알라스가 격파되었습니다. 엘프身上的 저주를 조속히 정화해야 합니다!",
+      "TW": "阿拉斯已被擊敗，我們需要盡快去淨化精靈身上的詛咒！"
+    }
   },
   "正在净化祭坛[20]": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Purifying altar [20]",
+      "JP": "祭壇を浄化中[20]",
+      "CN": "",
+      "KR": "제단 [20] 정화 중",
+      "TW": "正在淨化祭壇[20]"
+    }
   },
   "净化水晶已准备就绪!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Purification crystals ready!",
+      "JP": "浄化水晶の準備完了！",
+      "CN": "",
+      "KR": "정화 크리스탈 준비 완료!",
+      "TW": "淨化水晶已準備就緒！"
+    }
   },
   "僵尸传送点10秒后移动!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie teleport point moves in 10 seconds!",
+      "JP": "ゾンビの転送地点が10秒後に移動します！",
+      "CN": "",
+      "KR": "좀비 전송지점이 10초 후에 이동합니다!",
+      "TW": "殭屍傳送點10秒後移動！"
+    }
   },
   "getin!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "乗ってこい！",
+      "CN": "上车！",
+      "KR": "탑승하세요!",
+      "TW": "getin!"
+    }
   },
   "剑指权力顶峰,不死不朽!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Aim for the pinnacle of power, undying and immortal!",
+      "JP": "権力の頂点へ剑を指し、不死不滅を目指せ！",
+      "CN": "",
+      "KR": "권력의 정점을 향해 다가가고, 불멸이 되라!",
+      "TW": "劍指權力頂峰，不死不朽！"
+    }
   },
   "开始突袭!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Start raid!",
+      "JP": "襲撃開始！",
+      "CN": "",
+      "KR": "습격 개시!",
+      "TW": "開始突襲！"
+    }
   },
   "我不擅长捉弄人,但这次,祝你好运!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "I'm not good at pulling pranks, but this time, good luck!",
+      "JP": "悪戯は得意じゃないけど、今回はお前を助けてやるから、幸運を祈るよ！",
+      "CN": "",
+      "KR": "장난치는 것은 서툴지만, 이번에는 운을 빕니다!",
+      "TW": "我不擅長捉弄人，但這次，祝你好運！"
+    }
   },
   "我接受挑战，来吧，稍后我会追逐你!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "I accept the challenge. Come on, I'll chase you later!",
+      "JP": "挑戦を受けよう。さあ来い、後で追跡してやる！",
+      "CN": "",
+      "KR": "도전을 받아들이겠습니다. 어서 오십시오, 곧 저를 쫓으실 테죠!",
+      "TW": "我接受挑戰，來吧，稍後我會追逐你！"
+    }
   },
   "魔王会迎难而上，我亦是如此!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The Demon King will face difficulties head-on, and so will I!",
+      "JP": "魔王は難局に立ち向かう。私も同様だ！",
+      "CN": "",
+      "KR": "마왕은 역경을 딛고 일어나고, 나도 마찬가집니다!",
+      "TW": "魔王會迎難而上，我亦是如此！"
+    }
   },
   "臣服于我!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Submit to me!",
+      "JP": "我が下に加われ！",
+      "CN": "",
+      "KR": "복종하십시오!",
+      "TW": "臣服於我！"
+    }
   },
   "不再是不死之身了，为什么是我": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "No longer immortal, why is it me?",
+      "JP": "不死の身ではなくなった。なぜ私が？",
+      "CN": "不再拥有不死之身，为什么是我",
+      "KR": "이제 불사신이 아니다, 왜 내가?",
+      "TW": "不再是不死之身，為何是我？"
+    }
   },
   "**僵尸神器：雷沃尔熊人**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie Artifact: Revolt Bearman",
+      "JP": "**ゾンビ神器：レヴォルのクマ人間**",
+      "CN": "",
+      "KR": "**좀비 장비: 레볼 브루트**",
+      "TW": "**殭屍神器：雷沃爾熊人**"
+    }
   },
   "我们来到了什么地方?": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Where have we arrived?",
+      "JP": "ここはどこだ？",
+      "CN": "",
+      "KR": "우리는 어디에 있는가?",
+      "TW": "我們置身何處？"
+    }
   },
   "这里看上去一片死寂": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "It seems like a dead zone here.",
+      "JP": "ここは死の寂静に包まれているようだ",
+      "CN": "这里看似1片寂静",
+      "KR": "여기는 죽음의 침묵으로 가득 차 있다.",
+      "TW": "此地死氣沉沉。"
+    }
   },
   "亡城的屏障将在55秒后升起": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The barrier of the Dead City will rise in 55 seconds.",
+      "JP": "亡都のバリアが55秒後に展開します",
+      "CN": "",
+      "KR": "죽은 도시의 보호막이 55초 후에 생성됩니다.",
+      "TW": "亡城之屏障將於55秒後升起。"
+    }
   },
   "我们再坚持一会,屏障将于10秒后形成!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on a little longer! The barrier will form in 10 seconds!",
+      "JP": "もう少し辛抱だ！バリアが10秒以内に形成される！",
+      "CN": "",
+      "KR": "잠시만 더 버티자! 보호막이 10초 후에 생성됩니다!",
+      "TW": "再撐一會兒，屏障即將於10秒後形成！"
+    }
   },
   "在天罚面前,跪下!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Prostrate before the Divine Wrath!",
+      "JP": "天罰の前にな、膝をつけ！",
+      "CN": "在天罚面前，跪下！",
+      "KR": "천벌 앞에서 엎드려라!",
+      "TW": "在天罰面前，跪下！"
+    }
   },
   "命定之死前的苟延残喘罢了!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This is merely a desperate struggle before destiny's final blow!",
+      "JP": "定められた死を前にした、ひ弱な抵抗にすぎない！",
+      "CN": "",
+      "KR": "정해진 죽음 앞에서의 간신한 부활이로군!",
+      "TW": "不過是命定之死前的苟延殘喘！"
+    }
   }
 }

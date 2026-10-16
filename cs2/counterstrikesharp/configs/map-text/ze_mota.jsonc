@@ -1,0 +1,1352 @@
+{
+  "仙子:他们占领了这座塔，如果可以，请帮我尽量驱逐路上的魔物。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: They have taken over this tower. If possible, please help drive away the monsters along the way.",
+      "JP": "仙子:彼らはこの塔を占拠した。可能であれば、道中の魔物を追放してくれると助かる。",
+      "CN": "",
+      "KR": "요정: 그들이 이 탑을 점령했소. 가능하다면, 길의 마물을 최대한 내쫒아 주시오.",
+      "TW": "仙子：他們佔領了這座塔，如果可以的話，請幫我盡力驅散路上的魔物。"
+    }
+  },
+  "初入魔塔": {
+    "translation": "",
+    "MultiLang": {
+      "US": "First Visit to the Magic Tower",
+      "JP": "魔塔への初入り",
+      "CN": "",
+      "KR": "마탑 초입",
+      "TW": "初入魔塔"
+    }
+  },
+  "红钥匙：0": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Red Keys: 0",
+      "JP": "赤の鍵：0",
+      "CN": "",
+      "KR": "빨간 열쇠: 0",
+      "TW": "紅鑰匙：0"
+    }
+  },
+  "蓝钥匙：0": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Blue Keys: 0",
+      "JP": "青の鍵：0",
+      "CN": "",
+      "KR": "파란 열쇠: 0",
+      "TW": "藍鑰匙：0"
+    }
+  },
+  "黄钥匙：0": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Keys: 0",
+      "JP": "黄の鍵：0",
+      "CN": "",
+      "KR": "노란 열쇠: 0",
+      "TW": "黃鑰匙：0"
+    }
+  },
+  "仙子:你醒了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: You're awake!",
+      "JP": "仙子:目が覚めたわ！",
+      "CN": "",
+      "KR": "요정: 깨어났소!",
+      "TW": "仙子：你醒來了！"
+    }
+  },
+  "勇者:……": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: ...",
+      "JP": "勇者:……",
+      "CN": "",
+      "KR": "용사: ……",
+      "TW": "勇者：……"
+    }
+  },
+  "勇者:你是谁，我在哪里？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Who are you? Where am I?",
+      "JP": "勇者:あなたは誰ですか？私はここがどこか知りません。",
+      "CN": "",
+      "KR": "용사: 당신은 누구고, 나는 여기 어디에 있는 거죠?",
+      "TW": "勇者：你是誰，我在哪裡？"
+    }
+  },
+  "仙子:我是这里的仙子，刚才你被这里的小怪打昏了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: I am the fairy of this place. You were knocked unconscious by the monsters here just now.",
+      "JP": "仙子:私はここに住む仙女です。先ほどあなたはこの場所の雑魚に倒されました。",
+      "CN": "",
+      "KR": "선녀: 나는 이곳의 선녀요, 방금あなたが 이곳의 작은 몬스터에게 기절했어요.",
+      "TW": "仙子：我是這裡的仙子，剛才你被這裡的小怪打昏了。"
+    }
+  },
+  "勇者:剑，剑，我的剑呢？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: My sword, where is my sword?",
+      "JP": "勇者:剣、剣、私の剣はどこ？",
+      "CN": "",
+      "KR": "용사: 검, 내 검은 어디에?",
+      "TW": "勇者：劍，劍，我的劍呢？"
+    }
+  },
+  "仙子:你的剑被他们抢走了，我只来得及将你救出来。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: They took your sword. I could only save you.",
+      "JP": "仙子:あなたの剣は彼らに奪われました。私は無理をしてあなたを救出しただけです。",
+      "CN": "",
+      "KR": "선녀: 당신의 검은 그들이 가져갔어요. 저는 당신을 구조하는 것 외에는 할 수 없었어요.",
+      "TW": "仙子：你的劍被他們搶走了，我只來得及將你救出來。"
+    }
+  },
+  "勇者:那，公主呢？我是来救公主的。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: What about the princess? I came here to rescue her.",
+      "JP": "勇者:それなら、王女はどうなった？私は王女を救うために来たのです。",
+      "CN": "",
+      "KR": "용사: 그럼 공주는요? 저는 공주를 구하러 왔는데.",
+      "TW": "勇者：那，公主呢？我是來救公主的。"
+    }
+  },
+  "仙子:公主还在里面，你这样进去是打不过里面的小怪的。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: The princess is still inside. You cannot defeat the monsters there in your current state.",
+      "JP": "仙子:王女は今も中にいます。そのまま行っても、中の雑魚には勝てませんよ。",
+      "CN": "",
+      "KR": "선녀: 공주는 여전히 안에 있어요. 그렇게 들어가면 안쪽의 작은 몬스터들을 이길 수 없어요.",
+      "TW": "仙子：公主還在裡面，你這樣進去是打不過裡面的小怪的。"
+    }
+  },
+  "勇者:那我怎么办，我答应了国王一定要把公主救出来的。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: What should I do? I promised the king I would bring her back safely.",
+      "JP": "勇者:では、どうすればいい？私は王様に王女を必ず救出すると言い渡しました。",
+      "CN": "",
+      "KR": "용사: 그럼 제가 뭘 해야 하나요? 저는 국왕께 공주를 구해오겠다고 약속했어요.",
+      "TW": "勇者：那我怎麼辦，我答應了國王一定要把公主救出來的。"
+    }
+  },
+  "仙子:放心吧，我把我的力量借给你，你就可以打赢那些小怪了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Rest assured. I will lend you my power, and you will be able to defeat them.",
+      "JP": "仙子:安心してください。私の力をあなたに貸すので、あの雑魚たちには勝てます。",
+      "CN": "",
+      "KR": "선녀: 걱정 마세요. 제 힘을 빌려줄 테니, 당신은那些 작은 몬스터들을 이길 수 있을 거예요.",
+      "TW": "仙子：放心吧，我把我的力量借給你，你就可以打贏那些小怪了。"
+    }
+  },
+  "fairy:我本是这座塔的守护者，可不久前，从北方来了一批恶魔。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: I was the guardian of this tower, but recently, demons came from the north.",
+      "JP": "fairy:私は元々この塔の守護者でしたが、数日前から北方から一群の悪魔が来ました。",
+      "CN": "",
+      "KR": "선녀: 저는 본래这座塔의 수호자였지만, 얼마 전 북쪽에서一批의 악마들이 나타났어요.",
+      "TW": "fairy：我本是這座塔的守護者，可不久前，從北方來了一批惡魔。"
+    }
+  },
+  "勇者:好吧，我试试看。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Alright, I'll give it a try.",
+      "JP": "勇者：まあ、試してみよう。",
+      "CN": "",
+      "KR": "용자: 알겠어, 한번 해볼게.",
+      "TW": "勇者：好吧，我試試看。"
+    }
+  },
+  "fairy:刚才我去看过了，你的剑被放在五楼，你的盾在九楼上。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "fairy: I just checked for you. Your sword is on the fifth floor, and your shield is on the ninth floor.",
+      "JP": "妖精：先ほど確認したが、あなたの剣は5階に、盾は9階にある。",
+      "CN": "",
+      "KR": "요정: 방금 확인해 봤는데, 당신의 검이 5층에 있고 방패는 9층에 있대.",
+      "TW": "fairy：剛才我去看過了，你的劍被放在五樓，你的盾在九樓上。"
+    }
+  },
+  "仙子:另外，在塔里的其他楼层上，还有一些存放了好几百年的宝剑和宝物，如果得到它们，对于你对付这里面的怪物将有很大的帮助。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Also, there are some swords and treasures stored for hundreds of years on other floors in the tower. Obtaining them will be of great help to you in fighting the monsters here.",
+      "JP": "妖精：また、塔の他の階には数百年もの間保管されてきた多くの剣や宝物があり、それらを手に入れたなら、塔内のモンスターと戦う際に大きな助けになるだろう。",
+      "CN": "",
+      "KR": "요정: 덧붙여, 탑의 다른 층에는 수백 년 된 보검과 유물들이 많으니,它們을 입수한다면 이곳의 몬스터들을 상대하는 데 큰 도움이 될 거야.",
+      "TW": "仙子：另外，在塔裡的其它樓層上，還有一些存放了好幾百年的寶劍和寶物，如果得到它們，對於你對付這裡面的怪物將有極大的幫助。"
+    }
+  },
+  "勇者:可是，我怎么进去呢？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: But how do I get in?",
+      "JP": "勇者：では、どうやって中に入ればいいんだ？",
+      "CN": "",
+      "KR": "용자: 하지만, 어떻게 들어가지?",
+      "TW": "勇者：可是，我怎麼進去呢？"
+    }
+  },
+  "仙子:我这里有一把钥匙，你先拿去，在塔里面还有很多这样的钥匙。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Here, take this key for now. There are many such keys inside the tower.",
+      "JP": "妖精：これを持っている鍵を渡す。まずこれで、塔の中には他にも同種の鍵がたくさんあるはずだ。",
+      "CN": "",
+      "KR": "요정:我这里有一把钥匙，你先拿去，在塔里面还有很多这样的钥匙。",
+      "TW": "仙子：這裡有一把鑰匙，你先拿去，在塔裡面還有很多這樣的鑰匙。"
+    }
+  },
+  "仙子:我已经把大部分的力量给你了，后面我需要很长时间来恢复。勇敢地去吧，勇士！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: I have already given you most of my power, and I will need a long time to recover. Go bravely, warrior!",
+      "JP": "妖精：すでに大半の力を与えたので、私はこれから長い間回復に時間がかかる。勇気を持って進んでくれ、勇者よ！",
+      "CN": "",
+      "KR": "요정: 이미 대부분의 힘을 네게 전달했어. 나는 앞으로 오랜 시간이 필요할 거야. 용감하게 나아가라, 용사여!",
+      "TW": "仙子：我已經把大部分的力量給你了，後面我需要很長時間來恢復。勇敢地去吧，勇士！"
+    }
+  },
+  "黄钥匙：1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 1",
+      "JP": "黄色の鍵：1",
+      "CN": "",
+      "KR": "노란 열쇠：1",
+      "TW": "黃鑰匙：1"
+    }
+  },
+  "The door is opening": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開く",
+      "CN": "门正在打开",
+      "KR": "The door is opening",
+      "TW": "The door is opening"
+    }
+  },
+  "strength up!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "パワーアップ！",
+      "CN": "力量提升！",
+      "KR": "힘 업!",
+      "TW": "力量提升！"
+    }
+  },
+  "黄钥匙：2": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 2",
+      "JP": "黄色の鍵：2",
+      "CN": "",
+      "KR": "노란 열쇠: 2",
+      "TW": "黃鑰匙：2"
+    }
+  },
+  "仙子：怎么不继续前进了，是没有钥匙了吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Why have you stopped? Have you run out of keys?",
+      "JP": "妖精：なぜ、これ以上進まないのですか？鍵がないのですか？",
+      "CN": "",
+      "KR": "요정: 왜 더 이상 전진하지 않아요? 열쇠가 다 떨어졌나요?",
+      "TW": "仙子：怎麼不繼續前进了，是沒有鑰匙了吗？"
+    }
+  },
+  "仙子：我的力量还没有恢复，我会用我最后的力量帮你们一次。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: My power has not yet recovered, but I will use my last bit of strength to help you one more time.",
+      "JP": "妖精：私の力はまだ回復していませんが、最後の力で皆を助けてあげます。",
+      "CN": "",
+      "KR": "요정: 내 힘은 아직 완전히 회복되지 않았어. 마지막 힘을 써서 너희를 도와주마.",
+      "TW": "仙子：我的力量還沒有恢復，我會用我最後的力量幫你們一次。"
+    }
+  },
+  "仙子：我需要很长的时间才能恢复过来，后面只能靠你自己了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: It will take me a long time to recover. From now on, you must rely on yourself.",
+      "JP": "妖精：私の回復には長い時間がかかりますので、その後は自分自身で対処してください。",
+      "CN": "",
+      "KR": "요정: 내가 완전히 회복되는 데는 꽤 오랜 시간이 걸릴 거야. 앞으로는 네가 스스로 해결해야 해.",
+      "TW": "仙子：我需要很長的時間才能恢復過來，後面只能靠自己了。"
+    }
+  },
+  "门将在20秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will open in 20 seconds.",
+      "JP": "20秒後、扉が開きます",
+      "CN": "",
+      "KR": "문이 20초 후에 열립니다",
+      "TW": "門將在20秒後開啟"
+    }
+  },
+  "The door will open in 20s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "The door will open in 20s",
+      "CN": "门将在20秒后打开",
+      "KR": "문이 20초 후에 열립니다",
+      "TW": "The door will open in 20s"
+    }
+  },
+  "史莱姆？这只看起来好像没有攻击性。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Slime? This one appears to be non-aggressive.",
+      "JP": "スライム？この子はどうやら攻撃的ではないようだ。",
+      "CN": "",
+      "KR": "슬라임? 이건 공격적으로 보이지 않는데.",
+      "TW": "史萊姆？這隻看起來似乎沒有攻擊性。"
+    }
+  },
+  "红衣魔王:欢迎来到魔塔。你是第100位挑战者。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Red-Haired Demon King: Welcome to the Magic Tower. You are the 100th challenger.",
+      "JP": "紅衣の魔王：魔塔へようこそ。あなたは第100位の挑戦者です。",
+      "CN": "",
+      "KR": "홍의 마왕: 마탑에 오신 것을 환영합니다. 당신은 100번째 도전자입니다.",
+      "TW": "紅衣魔王：歡迎來到魔塔。你是第100位挑戰者。"
+    }
+  },
+  "红衣魔王:如果你能打败我所有的下属，我就和你一对一决斗。现在你必须接受我的安排。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Red-Haired Demon King: If you can defeat all my subordinates, I will duel you one-on-one. For now, you must accept my arrangements.",
+      "JP": "紅衣の魔王：もしあなたが私の配下すべてを倒せたら、最後に君と一騎打ちをやろう。でもまずは、私の定められた順序を守りなさい。",
+      "CN": "",
+      "KR": "홍의 마왕: 나의 모든 부하를 물리치면 개인 duel을 하겠소. 하지만 지금 당신은 나의 계획을 따르셔야 합니다.",
+      "TW": "紅衣魔王：如果你能擊敗我所有的部下，我就與你一對一決鬥。現在你必須接受我的安排。"
+    }
+  },
+  "盗贼:你醒了吗？你到达监狱时，一直在昏迷。魔法守卫把你扔进了我的房间，但你很幸运。我刚完成逃生隧道，你就醒了。我们一起逃跑吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thief: Are you awake? You were unconscious when you arrived at the prison. The Magic Guards threw you into my cell, but you were lucky. I had just completed the escape tunnel when you woke up. Let's escape together.",
+      "JP": "盗賊：目を覚ましましたか？あなたは刑務所に送られた際、ずっと意識を失っていました。魔法の番人があなたを私の部屋へ投げ込んだのですが、あなたは幸運です。私が脱出トンネルを完成させた直後に目覚めたのです。一緒に逃げましょう。",
+      "CN": "",
+      "KR": "도적: 일어나셨나요? 감옥에 도착하실 때까지 의식을 잃고 계셨어요. 마법 수호자가 나를 방에 넣었지만 운이 좋네요.我刚完成了脱출 터널, 깨어나셨으니 함께 도망가자고.",
+      "TW": "盜賊：你醒了嗎？當你到達監獄時一直在昏迷。魔法衛士把你丟進了我的房間，但你很幸運。我剛剛完成逃生隧道，你就醒了。我們一起逃吧。"
+    }
+  },
+  "盗贼:我们终于出来，你必须先找到武器。但我现在有事要做，帮不了你，回头见。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thief: We're finally out. You need to find weapons first. But I have things to do right now and can't help you. See you later.",
+      "JP": "盗賊：やっと外に出れましたね。まず武器を見つける必要があります。でも私は今、やるべきことがあるので手助けできません。後ほど会いましょう。",
+      "CN": "",
+      "KR": "도적: 드디어 나왔네. 당신은 무기를 찾아야 해. 하지만 지금은 할 일이 있어서 도와줄 수 없어, 나중에 봐.",
+      "TW": "盜賊：我們終於出來了，你必須先找到武器。但我現在有事要做，幫不了你，回頭見。"
+    }
+  },
+  "Zombie will tp after 10s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビは10秒後にテレポートします",
+      "CN": "僵尸将在10秒后传送",
+      "KR": "좀비는 10초 후 텔레포트합니다.",
+      "TW": "殭屍將在 10 秒後傳送"
+    }
+  },
+  "黄钥匙：3": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 3",
+      "JP": "黄色の鍵：3",
+      "CN": "",
+      "KR": "노란 열쇠: 3",
+      "TW": "黃鑰匙：3"
+    }
+  },
+  "蓝钥匙：1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Blue Key: 1",
+      "JP": "青色の鍵：1",
+      "CN": "",
+      "KR": "파란 열쇠: 1",
+      "TW": "藍鑰匙：1"
+    }
+  },
+  "勇者:你是谁？你为什么在这里？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Who are you? Why are you here?",
+      "JP": "勇者：お前は何者だ？なぜここにいる？",
+      "CN": "",
+      "KR": "용자: 당신은 누구입니까? 왜 여기에 있나요?",
+      "TW": "勇者：你是誰？你為什麼在這裡？"
+    }
+  },
+  "神秘老人:我是谁并不重要，我是来帮助你的。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Old Man: It doesn't matter who I am. I'm here to help you.",
+      "JP": "神秘老人：私が誰であるかはどうでもよいことです。私はあなたを手助けするために来ました。",
+      "CN": "",
+      "KR": "신비한 노인: 내가 누구인지 중요하지 않아. 네 곁에 있기 위해 왔지.",
+      "TW": "神秘老人：我是誰並不重要，我是來幫助你的。"
+    }
+  },
+  "神秘老人:你必须收集更多的红宝石和蓝宝石。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Old Man: You must collect more red and blue gemstones.",
+      "JP": "神秘老人：より多くのルビーとサファイアを集めなければなりません。",
+      "CN": "",
+      "KR": "신비한 노인: 더 많은 루비와 사파이어를 모아야 해.",
+      "TW": "神秘老人：你必須收集更多的紅寶石和藍寶石。"
+    }
+  },
+  "勇者:我现在的力量已经足够击败这些怪物了,为什么还要继续收集红蓝宝石？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: My current power is enough to defeat these monsters. Why do I still need to collect red and blue gemstones?",
+      "JP": "勇者：今の私の力ならこれらのモンスターを撃破できるはずですが、なぜまだルビーやサファイアを集め続けなければならないのですか？",
+      "CN": "",
+      "KR": "용사: 지금 내 힘으로 이미 이 몬스터들을 상대할 수 있는데, 왜 계속 루비와 사파이어를 모아야 하는 거지?",
+      "TW": "勇者：我現在的實力已經足以擊敗這些怪物了，為什麼還要繼續收集紅藍寶石？"
+    }
+  },
+  "神秘老人:你爬的越高，面对的挑战就会越困难。如果你的能力不足，将会很难继续前进。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Old Man: The higher you climb, the more difficult the challenges become. If your abilities are insufficient, it will be very hard to move forward.",
+      "JP": "神秘老人：あなたがより高い場所へ登るほど、向かい合う挑戦は困難になります。もし能力が不足していれば、先へ進むことは難しくなるでしょう。",
+      "CN": "",
+      "KR": "신비한 노인: 네가 더 높은 곳으로 올라갈수록 맞닥뜨릴 시련은 더욱 거세질 것이야. 만약 네 실력이 부족하다면 앞으로 나아가기 어려울 거다.",
+      "TW": "神秘老人：你爬得越高，面臨的挑戰就會越困難。如果你的實力不足，將很難繼續前進。"
+    }
+  },
+  "神秘老人:记住，尽你所能收集更多的宝石。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Old Man: Remember, collect as many gems as you can.",
+      "JP": "神秘老人：覚えておいてください。できる限り多くの宝石を集めてください。",
+      "CN": "",
+      "KR": "신비한 노인: 기억해, 네가 할 수 있는 한 더 많은 보석을 모아야 해.",
+      "TW": "神秘老人：記住，盡你所能收集更多的寶石。"
+    }
+  },
+  "神秘老人说完后突然就消失了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "After finishing his words, the mysterious old man suddenly disappeared.",
+      "JP": "神秘老人は言葉を終わらせると、 suddenly 姿を消した。",
+      "CN": "",
+      "KR": "신비한 노인이 말하자마자 갑자기 사라졌다.",
+      "TW": "神秘老人說完後突然就消失了。"
+    }
+  },
+  "defense up!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "防御力アップ！",
+      "CN": "防御提升！",
+      "KR": "방어력 상승!",
+      "TW": "防禦力提升！"
+    }
+  },
+  "门有点生锈了，需要多花一点时间才能打开。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door is a bit rusty and will take a little longer to open.",
+      "JP": "扉は少し錆びており、開けるのに時間がかかります。",
+      "CN": "",
+      "KR": "문이 약간 녹슬어서 열 리 조금 더 걸릴 것 같아.",
+      "TW": "門有點生鏽了，需要多花一點時間才能打開。"
+    }
+  },
+  "你好像感觉自己多了点什么。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You feel like you've gained something.",
+      "JP": "何か変わったような気がします。",
+      "CN": "",
+      "KR": "뭔가 추가된 느낌이 드시네요.",
+      "TW": "你感覺自己似乎多了些什麼。"
+    }
+  },
+  "神秘老人:这座魔塔充满了机关和陷阱，要多留意路上的信息，多和这里的人对话。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Old Man: This Magic Tower is full of mechanisms and traps. Pay attention to the clues on your path and talk to the people here as much as possible.",
+      "JP": "謎の老人：この魔塔は罠や仕掛けに満ちています。道中の情報に気を付け、ここで人々と話を 많이してください。",
+      "CN": "",
+      "KR": "신비한 노인: 이 마탑은 함정과 트랩으로 가득 차 있습니다. 길가의 정보를 주의 깊게 확인하고, 이곳的人们과 더 많이 대화하세요.",
+      "TW": "神秘老人:這座魔塔充滿了機關和陷阱，請多留意路上的線索，並與這裡的人多交流。"
+    }
+  },
+  "防御提升!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Defense increased!",
+      "JP": "防御力アップ！",
+      "CN": "",
+      "KR": "방어력 상승!",
+      "TW": "防禦力提升!"
+    }
+  },
+  "仙女:怎么回事？我记得有商店在这扇门后。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: What's going on? I remember there was a shop behind this door.",
+      "JP": "妖精：あら？ここには以前、扉の後ろに店があったはずですが。",
+      "CN": "",
+      "KR": "요정:什么情况? 여긴 문 뒤에 상점이 있었는데...",
+      "TW": "仙女:怎麼回事？我記得這扇門後有一家商店。"
+    }
+  },
+  "仙女:勇者，如果可以去调查一下商店的位置，看看有什么信息。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Hero, if you can go investigate the location of the shop to see what information is there.",
+      "JP": "妖精：勇者よ、もし可能なら店の場所を調べて、何か手がかりがないか確認してください。",
+      "CN": "",
+      "KR": "요정: 용사여, 매장 위치를 조사해 보세요. 아마도 단서가 될지도 모릅니다.",
+      "TW": "仙女:勇者，如果你能去調查一下商店的位置，看看有什麼線索就好了。"
+    }
+  },
+  "力量提升!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Power increased!",
+      "JP": "攻撃力アップ！",
+      "CN": "",
+      "KR": "공격력 상승!",
+      "TW": "力量提升!"
+    }
+  },
+  "你按动这个雕像时，感觉到有一股能量从手中进入了雕像内部。但是你的力量太弱了，雕像晃动了几下，无事发生。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "When you pressed the statue, you felt energy flowing into it from your hand. However, your power was too weak, and the statue merely swayed a few times before nothing happened.",
+      "JP": "像を押したとき、エネルギーが手から像の内部に入ったような感覚がありました。しかし、あなたの力は弱すぎたようで、像が揺れただけで何も起こりませんでした。",
+      "CN": "",
+      "KR": "상자를 누르자, 손에서 에너지가 상자 안으로 흘러드는 것을 느꼈습니다. 하지만 당신의 힘은 너무 약해서, 조각상이 잠시 흔들릴 뿐 아무 일도 일어나지 않았습니다.",
+      "TW": "當你按下這座雕像時，感覺有一股能量從手中流入雕像內部。但你的力量太微弱了，雕像只是搖晃了幾下，沒有發生任何事。"
+    }
+  },
+  "黄钥匙：4": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 4",
+      "JP": "黄色の鍵：4",
+      "CN": "",
+      "KR": "노란 열쇠: 4",
+      "TW": "黃鑰匙：4"
+    }
+  },
+  "终于拿回我的宝剑了!有了它我就能挑战一些更强的怪物了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "At last, I've got my sword back! With it, I can challenge stronger monsters.",
+      "JP": "やっと剣を取り戻した！これでより強力なモンスターに挑戦できる。",
+      "CN": "",
+      "KR": "드디어 내 청룡검을 되찾았다! 이 검으로 좀 더 강한 몬스터들과 싸워볼 수 있겠다.",
+      "TW": "終於拿回我的寶劍了！有了它我就能挑戰一些更強的怪物了。"
+    }
+  },
+  "勇者:不好，这里是陷阱，快退！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Oh no, this is a trap! Retreat quickly!",
+      "JP": "勇者：まずい、ここは罧だ！すぐに撤退しろ！",
+      "CN": "",
+      "KR": "용사: 위험해, 이건 함정이야!赶紧 후퇴!",
+      "TW": "勇者：不好，這裡是陷阱，快退！"
+    }
+  },
+  "你一进屋子就发现有个穿着红色衣服的商人正注视着你。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "As soon as you entered the room, you noticed a merchant in red robes watching you.",
+      "JP": "部屋に入ると、赤い服を着た商人があなたをじっと見つめていた。",
+      "CN": "",
+      "KR": "방에 들어서는 순간, 붉은 옷을 입은 상인이 너를 주시하고 있는 것을 발견했다.",
+      "TW": "你一進屋子就發現有個穿著紅色衣服的商人正注視著你。"
+    }
+  },
+  "红袍商人:只有经历磨炼，经历牺牲才能成为真正的勇者！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Merchant in Red: Only through trials and sacrifices can one become a true hero!",
+      "JP": "紅衣の商人：真の勇者となるには、試練を受け、犠牲を払わねばならん！",
+      "CN": "",
+      "KR": "붉은 옷 상인: 진정한 영웅이 되기 위해서는 시련과 희생이 반드시 필요해!",
+      "TW": "紅袍商人：只有經歷磨練，經歷犧牲才能成為真正的勇者！"
+    }
+  },
+  "虽然他说完便消失了，但你好像领悟了什么。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Although he disappeared after speaking, you seemed to have grasped something.",
+      "JP": "彼はそれ说完と消え去ったが、あなたは何かを悟ったような気がする。",
+      "CN": "",
+      "KR": "그는 말을 마치며 사라졌지만, 너는 무엇인가를 깨달은 듯했다.",
+      "TW": "雖然他說完便消失了，但你好像領悟了什麼。"
+    }
+  },
+  "仙子：千万不要进入转角，我感觉有一股无形的强大力量笼罩在这里。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Do not enter the corner. I sense a powerful, invisible force surrounding this area.",
+      "JP": "妖精：絶対に曲がり角に入らないで。どこか見えない強大な力が漂っている気がするわ。",
+      "CN": "",
+      "KR": "요정: 절대 저 코너로 들어가지 마. 여기에 보이지 않는 거대한 기운이 감돌고 있어.",
+      "TW": "仙子：千萬不要進入轉角，我感覺有一股無形的強大力量籠罩在這裡。"
+    }
+  },
+  "仙子：我们要尽快通过这一层，已经没时间开黄门了，但是蓝门应该可以尝试。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: We must pass through this floor as quickly as possible. There's no time for the Yellow Gate, but we can try the Blue Gate.",
+      "JP": "妖精：この階を早めに通過する必要があるわ。黄門を開く時間なんてないけど、青門なら試してみられそう。",
+      "CN": "",
+      "KR": "요정: 우리는 이 층을 최대한 빨리 통과해야 해. 황문(黃門)은 열 시간이 없으니, 청문(藍門)이라면 시도해 볼 수 있을 것 같아.",
+      "TW": "仙子：我們要盡快通過這一層，已經沒時間開黃門了，但是藍門應該可以嘗試。"
+    }
+  },
+  "仙子：力量正在消散！我们应该很快就能通过了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: The force is dissipating! We should be able to pass through shortly.",
+      "JP": "妖精：力が消えつつある！すぐに通過できるはずよ。",
+      "CN": "",
+      "KR": "요정: 힘이 약해지고 있어! 금방 통과할 수 있을 거야.",
+      "TW": "仙子：力量正在消散！我們應該很快就能通過了。"
+    }
+  },
+  "仙子：力量消散了，快跑。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: The force has dissipated. Run!",
+      "JP": "仙子：力が失われた、すぐに逃げろ。",
+      "CN": "",
+      "KR": "선인: 힘이 사라졌어. 얼른 도망쳐.",
+      "TW": "仙子：力量消散了，快跑。"
+    }
+  },
+  "时间紧迫，你发现门在外面能量的压迫下出现了一点裂纹，你用尽全力撞向大门，大门毫无反应。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Time is short. You notice a crack appearing in the door due to the external pressure of the energy. You throw your entire body weight against it, but the door does not budge.",
+      "JP": "時間は限られている。外からのエネルギーの圧力により、門にわずかなひび割れが生じたことを悟った。必死の力で門へ突進したが、扉は微動だにしない。",
+      "CN": "",
+      "KR": "시간이 촉박했다. 너는 밖에서 에너지의 압력으로문에 금이 가는 것을 발견했다. 힘을 모아 문을 향해 들이받았지만, 문은 아무런 반응을 보이지 않았다.",
+      "TW": "時間緊迫，你發現門在外圍壓力的作用下出現了一點裂紋，你用盡全力撞向大門，門毫無反應。"
+    }
+  },
+  "仙子：我们必须要坚持到能量消失。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: We must endure until the energy dissipates.",
+      "JP": "仙子：エネルギーが消え去るまで、踏ん張らなければならない。",
+      "CN": "",
+      "KR": "선인: 에너지가 사라질 때까지 버텨야 해.",
+      "TW": "仙子：我們必須堅持到能量消失。"
+    }
+  },
+  "仙子：快走。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Go!",
+      "JP": "仙子：急いで。",
+      "CN": "",
+      "KR": "선인: 얼른 가!",
+      "TW": "仙子：快走。"
+    }
+  },
+  "仙子：钥匙用完了？我已经恢复了一点魔力，我帮你从别的地方传送一些过来。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: The key is used up? I've regained a bit of magical power. Let me teleport some from elsewhere to help you.",
+      "JP": "仙子：キーを使い果たした？私は魔力を少し回復させたから、別の場所からいくつか持ってくるよう転送してあげよう。",
+      "CN": "",
+      "KR": "선인: 열쇠를 모두 썼니? 내가 마력을 조금 회복했어. 다른 곳에서 몇 개 가져다줄게.",
+      "TW": "仙子：鑰匙用完了？我已經恢復了一點魔力，我幫你從別的地方傳送一些過來。"
+    }
+  },
+  "获得两把黄钥匙": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Obtained two golden keys",
+      "JP": "黄のキーを2つ入手した",
+      "CN": "",
+      "KR": "옐로우 키 2개를 획득함",
+      "TW": "獲得兩把黃鑰匙"
+    }
+  },
+  "仙子：以我现在的能力强行传送还是太勉强了，我要继续恢复了，后面只能靠你自己了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Even with my current abilities, forced teleportation is too strenuous. I need to continue recovering, and the rest will be up to you.",
+      "JP": "仙子：今の私では無理やり転送するのは難しい。回復を続けるから、その先はあなた次第だ。",
+      "CN": "",
+      "KR": "선인: 현재 내 능력으로 무리하게 텔레포트하기엔 아직 미흡해. 계속 회복 중이니, 이후에는 네 힘에 의존해야 할 거야.",
+      "TW": "仙子：以我現在的能力強行傳送還是太勉強了，我要繼續恢復了，後面只能靠你自己了。"
+    }
+  },
+  "你按动这个雕像时，感觉到有一股能量从手中进入了雕像内部。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "When you pressed the statue, you felt energy flowing from your hand into the statue.",
+      "JP": "その像を操作すると、手のひらからエネルギーが像の内部へと流れ込む感触を得た。",
+      "CN": "",
+      "KR": "너는 조각상을 누르면서 손에서 에너지가 조각상 내부로 들어가는 것을 느꼈다.",
+      "TW": "你按動這個雕像時，感覺到有一股能量從手中進入了雕像內部。"
+    }
+  },
+  "勇者：什么情况？我这是到哪里了？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: What's going on? Where am I?",
+      "JP": "勇者：什么情况？僕はどこに？",
+      "CN": "",
+      "KR": "용자:什么情况？我这是到哪里了？",
+      "TW": "勇者：發生什麼事了？我現在身處何地？"
+    }
+  },
+  "勇者：仙子！仙子！你还在吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Fairy! Fairy! Are you still there?",
+      "JP": "勇者：妖精さん！妖精さん！まだいる？",
+      "CN": "",
+      "KR": "용자:仙子！仙子！你还在吗？",
+      "TW": "勇者：仙子！仙子！你還在嗎？"
+    }
+  },
+  "勇者：怎么没有传送？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Why didn't I teleport?",
+      "JP": "勇者：なぜテレポートしない？",
+      "CN": "",
+      "KR": "용자:怎么没有传送？",
+      "TW": "勇者：為什麼沒有進行傳送？"
+    }
+  },
+  "仙子：好像有点不对劲，这好像不是上楼的传送。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Something seems off. This doesn't seem to be the teleporter for going upstairs.",
+      "JP": "妖精：なんか変だ、階段を上るテレポートじゃないみたい。",
+      "CN": "",
+      "KR": "요정:好像有点不对劲，这好像不是上楼的传送。",
+      "TW": "仙子：感覺有點不對勁，這似乎不是通往上樓的傳送陣。"
+    }
+  },
+  "勇者：为什么我突然动不了了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Why can't I move suddenly?",
+      "JP": "勇者：なぜ動けなくなってしまう？",
+      "CN": "",
+      "KR": "용자:为什么我突然动不了了",
+      "TW": "勇者：為什麼我突然無法行動了？"
+    }
+  },
+  "仙子：小心，我们要被传送到未知的地方了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Careful, we're being transported to an unknown place!",
+      "JP": "妖精：気をつけて、未知の場所へテレポートされるよ！",
+      "CN": "",
+      "KR": "요정:小心，我们要被传送到未知的地方了！",
+      "TW": "仙子：小心，我們即將被傳送到未知的地方！"
+    }
+  },
+  "仙子：这是哪里？不要担心，我感觉我们很快就会回去。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Where are we? Don't worry, I feel like we'll be back soon.",
+      "JP": "妖精：ここはどこ？心配しないで、すぐに戻れる気がする。",
+      "CN": "",
+      "KR": "요정:这是哪里？不要担心，我感觉我们很快就会回去。",
+      "TW": "仙子：這裡是哪裡？別擔心，我感覺我們很快就會回去。"
+    }
+  },
+  "勇者：这里好像是遗弃的试炼之地，我觉得可以去看看有没有剩下的宝物。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: This seems to be an abandoned trial ground. I think we should check if there are any remaining treasures.",
+      "JP": "勇者：ここは捨てられた試練の場のようだ、残っている宝物がないか探してみる。",
+      "CN": "",
+      "KR": "용자:这里好像是遗弃的试炼之地，我觉得可以去看看有没有剩下的宝物。",
+      "TW": "勇者：這裡似乎是已被遺棄的试炼場，我想去看看還有沒有剩餘的寶物。"
+    }
+  },
+  "勇者：找到盾牌了，我可以挑战更强大的怪物了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Found the shield. I can now challenge stronger monsters.",
+      "JP": "勇者：盾が見つかった。もっと強いモンスターに挑戦できるぞ。",
+      "CN": "",
+      "KR": "용사: 방패를 찾았군. 이제 더 강한 몬스터에게 도전할 수 있어.",
+      "TW": "勇者：找到盾牌了，我可以挑戰更強大的怪獸了。"
+    }
+  },
+  "黄钥匙：5": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 5",
+      "JP": "黄色の鍵：5",
+      "CN": "",
+      "KR": "노란 열쇠: 5",
+      "TW": "黃鑰匙：5"
+    }
+  },
+  "黄钥匙：6": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 6",
+      "JP": "黄色の鍵：6",
+      "CN": "",
+      "KR": "노란 열쇠: 6",
+      "TW": "黃鑰匙：6"
+    }
+  },
+  "仙子：完了，怎么忘记拿8楼的红钥匙了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Oh no, how did I forget to take the red key from the 8th floor?",
+      "JP": "妖精：やった、8階の赤い鍵を持ち歩くのを忘れていたよ。",
+      "CN": "",
+      "KR": "요정: 어휴, 8층의 빨간 열쇠를 들고 오는 걸 깜빡했네.",
+      "TW": "仙子：完了，怎麼忘記拿8樓的紅鑰匙了。"
+    }
+  },
+  "仙子：我记得前面有个女神的雕像，我们可以用雕像的魔力开启一个一次性的传送阵，回去拿钥匙。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: I remember there's a statue of a goddess ahead. We can use its magic to activate a one-time teleportation array and go back for the key.",
+      "JP": "妖精：前に女神の像があったはずだ。その魔力を使って、一度限りの転送陣を開き、鍵を取りに戻ろう。",
+      "CN": "",
+      "KR": "요정: 앞에 여신의 동상이 있던데, 그 마력으로 일회성 텔레포테이션 매트를 활성화해 열쇠를 가지고 올 수 있겠어.",
+      "TW": "仙子：我記得前面有個女神的雕像，我們可以用人像的魔力開啟一個一次性的傳送陣，回去拿鑰匙。"
+    }
+  },
+  "红钥匙：1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Red Key: 1",
+      "JP": "赤い鍵：1",
+      "CN": "",
+      "KR": "빨간 열쇠: 1",
+      "TW": "紅鑰匙：1"
+    }
+  },
+  "门将在5秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 5 seconds.",
+      "JP": "5秒後に扉が開きます。",
+      "CN": "",
+      "KR": "문이 5초 후에 열립니다",
+      "TW": "門將在5秒後打開"
+    }
+  },
+  "注意前方": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Watch your step ahead.",
+      "JP": "前方に注意",
+      "CN": "",
+      "KR": "전방 주시",
+      "TW": "注意前方"
+    }
+  },
+  "怪物来袭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Monsters incoming!",
+      "JP": "怪物襲来",
+      "CN": "",
+      "KR": "몬스트 어택",
+      "TW": "怪物襲擊"
+    }
+  },
+  "剧毒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Extreme Poison",
+      "JP": "猛毒",
+      "CN": "",
+      "KR": "극독",
+      "TW": "劇毒"
+    }
+  },
+  "勇者:什么情况？为什么这扇门打不开？感觉好像门后有什么东西挡住了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: What's going on? Why won't this door open? It feels like something is blocking it from the other side.",
+      "JP": "勇者:どういう状況だ？なぜこの扉が開かない？まるで扉の向こう側で何か物が邪魔をしているみたいだ。",
+      "CN": "",
+      "KR": "용사: 무슨 일이지? 왜 이 문이 열리지 않아? 문 뒤에서 무언가가 막아 서 있는 것 같아.",
+      "TW": "勇者：什麼情況？為什麼這扇門打不開？感覺好像門後有東西擋住了。"
+    }
+  },
+  "你感觉这个雕像有点奇怪，但是没有发现其他信息。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You feel this statue is a bit strange, but you haven't found any other clues.",
+      "JP": "この像は少し奇妙に感じるが、他に気づくべき情報はない。",
+      "CN": "",
+      "KR": "그 조각상은 좀 이상해 보이지만, 다른 정보는 발견하지 못했습니다.",
+      "TW": "你覺得這座雕像有點奇怪，但沒有發現其他資訊。"
+    }
+  },
+  "勇者:怎么突然又回来了？我刚去哪里了？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: Why did it just come back? Where was I just now?",
+      "JP": "勇者:なぜ突然戻ってきた？さっきはどこに行ってたんだ？",
+      "CN": "",
+      "KR": "용사: 왜 갑자기 다시 돌아온 거지?我刚去了哪里?",
+      "TW": "勇者：怎麼突然又回來了？我剛才去哪裡了？"
+    }
+  },
+  "仙子:你终于回来了，你刚才进入了伊泽洛的试炼之地！！也叫勇者的试炼。它隐藏塔中，这是我第一次见到。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: You're finally back. You just entered Izelo's Trial Ground!! Also known as the Hero's Trial. It is hidden within the tower, and it is the first time I have seen it.",
+      "JP": "妖精:ようやく帰ってきたね、さっきはイゼロの試練の場所に入っちゃったよ！『勇者の試練』とも呼ばれるその場所は塔の中に隠されているんだ。私が目撃したのは初めてだよ。",
+      "CN": "",
+      "KR": "요정: 드디어 돌아왔군요. 방금 당신은 이젤로의 시련의 땅에 들어갔습니다!! 바로 용사의 시련이라고도 불리는 곳입니다. 그건 은둔된 탑에 숨겨져 있으며, 저조차 처음 보았습니다.",
+      "TW": "仙子：你終於回來了，你剛才進入了伊澤洛的試煉之地！！也稱為勇者的試煉。它隱藏在塔中，這是我第一次見識到。"
+    }
+  },
+  "仙子:在伊泽洛的试炼之地会接受来自正义女神的各种考验，亲身通过的人会得到女神的加持。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: In Izelo's Trial Ground, you will face various trials from the Goddess of Justice. Those who pass through them firsthand will receive the goddess's blessing.",
+      "JP": "妖精:イゼロの試練の場所では、正義の女神からの様々な試練を受けることになる。それを亲身で突破した者には女神の祝福が下るのだ。",
+      "CN": "",
+      "KR": "요정: 이젤로의 시련의 땅에서는 정의여신의 다양한 시험을 받게 됩니다. 직접 통과한 자는 여신의 축복을 받습니다.",
+      "TW": "仙子：在伊澤洛的試煉之地會接受來自正義女神的各種考驗，親身通過的人會得到女神的加持。"
+    }
+  },
+  "勇者:这个试炼也太简单了，而且我也没有感受到你所说的加持啊？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: This trial is too simple. Moreover, I haven't felt any blessing as you described.",
+      "JP": "勇者:この試練、とても簡単じゃねえか？それに、お前が言う神からの加護みたいなものは感じられないけどな？",
+      "CN": "",
+      "KR": "용사: 이 시련은 너무 쉬운데, 여신이 말씀하시던 축복은 전혀 느껴지지 않는데요?",
+      "TW": "勇者：這個試煉也太簡單了吧，而且我也沒感受到你說的加持啊？"
+    }
+  },
+  "仙子:你刚在进入的应该是速度的考验，后续还有其他的考验，据说在楼上隐藏着有女神的祭坛。只有通过足够多考验的人才能进入。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: The entrance you just experienced was likely the Speed Trial. There are other trials to come afterwards. It is said that an altar to the goddess is hidden on the upper floors. Only those who pass enough trials can enter.",
+      "JP": "仙子: 剛入ったところはおそらく速度の試練ですね。その後も様々な試練が続きます。 upstairs には女神の祭坛があると言われており、十分に多くの試練をクリアした者だけが入れるようです。",
+      "CN": "",
+      "KR": "선녀: 방금 들어온 것은 아마도 속도 시험일 거야. 그 뒤로 다른 시험들이 기다리고 있어.据说 위층에는 여신의 제단이 숨겨져 있다고 해. 충분히 많은 시험을 통과한 자만이 그 곳에 들어갈 수 있지.",
+      "TW": "仙子：你剛才進入的應該是速度考驗，後續還有其他考驗。據說樓上隱藏著女神祭壇，只有通過足夠多考驗的人才能進入。"
+    }
+  },
+  "商人：只有一直接受历练，才会变得更强，如果一味地逃避，很快将无法前进。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Merchant: Only through continuous trials and experiences do you become stronger. If you keep avoiding them, you will soon be unable to move forward.",
+      "JP": "商人: 不断に鍛錬を受け続けることでしか強くなれません。一味に逃避を続ければ、やがて先へ進めなくなるでしょう。",
+      "CN": "",
+      "KR": "상인: 오로지 계속 연마를 이어갈 때만 강해질 수 있어. 만약 계속해서 도피하기만 한다면, 곧 더 이상 전진할 수 없게 될 거야.",
+      "TW": "商人：只有持續接受鍛鍊，才能變得更強；如果一味逃避，很快將無法前進。"
+    }
+  },
+  "商人：如果你的能力不足，你将会做过这座塔中的许多机遇。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Merchant: If your abilities are insufficient, you will miss many opportunities within this tower.",
+      "JP": "商人: もし実力が不足していれば、塔の中での数々のチャンスを逃してしまうことになります。",
+      "CN": "",
+      "KR": "상인: 만약 네 능력이 부족하다면, 이 탑에서 마주하는 수많은 기회를 놓치게 될 거야.",
+      "TW": "商人：如果你的能力不足，你將會錯過這座塔中的許多機遇。"
+    }
+  },
+  "仙子：我感受到了一阵空间的波动，小心周围！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: I sense a spatial fluctuation. Watch out!",
+      "JP": "仙子: 空間の揺れを感じました！周囲に注意してください！",
+      "CN": "",
+      "KR": "선녀: 공간의 파동을 느꼈어. 주의를 기울여!",
+      "TW": "仙子：我感受到一陣空間波動，小心周圍！"
+    }
+  },
+  "黄钥匙：7": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 7",
+      "JP": "黄色の鍵：7",
+      "CN": "",
+      "KR": "황금 열쇠: 7",
+      "TW": "黃鑰匙：7"
+    }
+  },
+  "黄钥匙：8": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 8",
+      "JP": "黄色の鍵：8",
+      "CN": "",
+      "KR": "황금 열쇠: 8",
+      "TW": "黃鑰匙：8"
+    }
+  },
+  "门将在30秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 30 seconds.",
+      "JP": "扉は30秒後に開きます",
+      "CN": "",
+      "KR": "문이 30초 후에 열린다.",
+      "TW": "門將在30秒後打開"
+    }
+  },
+  "黑洞": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Black Hole",
+      "JP": "ブラックホール",
+      "CN": "",
+      "KR": "블랙홀",
+      "TW": "黑洞"
+    }
+  },
+  "黄钥匙：9": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 9",
+      "JP": "黄色の鍵：9",
+      "CN": "",
+      "KR": "황금 열쇠: 9",
+      "TW": "黃鑰匙：9"
+    }
+  },
+  "**ze_mota       作者：沉默中的羔羊**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**ze_mota       Author: Silence in the Flock**",
+      "JP": "**ze_mota 作者：沈黙の中の羔羊**",
+      "CN": "",
+      "KR": "**ze_mota       작성자: 침묵 속의 어린 양**",
+      "TW": "**ze_mota       作者：沉默中的羔羊**"
+    }
+  },
+  "**特别感谢：秋刀鱼**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**Special Thanks: Sanma Yu**",
+      "JP": "**特別感謝：秋刀魚**",
+      "CN": "",
+      "KR": "**특별 감사: 광어**",
+      "TW": "**特別感謝：秋刀魚**"
+    }
+  },
+  "有一处隐藏墙被锁定了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "One hidden wall has been locked.",
+      "JP": "隠し壁がロックされています",
+      "CN": "",
+      "KR": "숨겨진 벽 중 하나가 잠겨 있습니다",
+      "TW": "有一處隱藏牆被鎖定了"
+    }
+  },
+  "门将在20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 20s.",
+      "JP": "ドアは20秒後に開きます",
+      "CN": "",
+      "KR": "문이 20초 후에 열립니다",
+      "TW": "門將在20s後打開"
+    }
+  },
+  "未完待续": {
+    "translation": "",
+    "MultiLang": {
+      "US": "To be continued",
+      "JP": "続く",
+      "CN": "",
+      "KR": "계속됨",
+      "TW": "未竟..."
+    }
+  },
+  "感谢望 永远滴的神、Collective4-60指挥、 帮助测试地图": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Special thanks to Wang, the eternal god, Collective4-60 Commander, for helping test the map.",
+      "JP": "望、永遠の神、Collective4-60指揮に感謝します。マップテストにご協力ください",
+      "CN": "",
+      "KR": "望님께 감사드리며, 영원한 신, Collective4-60 지휘관, 그리고 맵 테스트에 도움을 주신 분들께 감사드립니다",
+      "TW": "感謝望 永遠滴的神、Collective4-60指揮、 幫助測試地圖"
+    }
+  },
+  "仙子：就是这里了。等我一下，马上启动传送。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: This is the place. Wait a moment, teleportation will be initiated shortly.",
+      "JP": "妖精：ここですよ。少し待って、すぐにテレポートを起動します。",
+      "CN": "",
+      "KR": "요정: 바로 여기입니다. 잠시만 기다려 주세요, 곧 전송을 시작합니다.",
+      "TW": "仙子：就是這裡了。等我一下，馬上啟動傳送。"
+    }
+  },
+  "仙子：小心怪物也跟着下来了，记得站住上楼的传送器。60s后上楼传送器会再次开启。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Be careful, monsters might follow. Remember to stand on the teleporter going up. The teleporter will reopen in 60 seconds.",
+      "JP": "妖精：怪物も一緒に降りてきたよ。階層間テレポーターで止まることを忘れないでね。60秒後にまた開きますよ。",
+      "CN": "",
+      "KR": "요정:小心怪物也跟着下来了，记得站住上楼的传送器。60s后上楼传送器会再次开启。",
+      "TW": "仙子：小心怪物也跟着下来了，记得站在上樓的傳送器上。60秒後上樓傳送器會再次開啟。"
+    }
+  },
+  "仙子:刚才我去看过了，你的剑被放在五楼，你的盾在九楼上。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: I just checked. Your sword is on the fifth floor, and your shield is on the ninth floor.",
+      "JP": "妖精：先ほど確認しましたか。あなたの剣は5階に、盾は9階にありますよ。",
+      "CN": "",
+      "KR": "요정:刚才我去看过了，你的剑被放在五楼，你的盾在九楼上。",
+      "TW": "仙子：剛才我去看過了，你的劍被放在五樓，你的盾在九樓上。"
+    }
+  },
+  "**ze_mota** ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ze_mota**",
+      "CN": "**ze_mota**",
+      "KR": "**ze_mota**",
+      "TW": "**ze_mota**"
+    }
+  },
+  "**作者：沉默中的羔羊**       ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**Author: Lamb in Silence**",
+      "JP": "**作者：沈黙の羊達**",
+      "CN": "",
+      "KR": "**作者：沉默中的羔羊**",
+      "TW": "**作者：沉默中的羔羊**"
+    }
+  },
+  "仙子:我本是这座塔的守护者，可不久前，从北方来了一批恶魔。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: I was originally the guardian of this tower, but recently, a group of demons came from the north.",
+      "JP": "妖精：私は元々、この塔の守護者でした。でも少し前、北方から悪魔の群れが襲ってきました。",
+      "CN": "",
+      "KR": "요정:我本是这座塔的守护者，可不久前，从北方来了一批恶魔。",
+      "TW": "仙子：我本是这座塔的守护者，可不久前，从北方来了一批恶魔。"
+    }
+  },
+  "门将在10秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 10 seconds",
+      "JP": "门将在10秒后打开",
+      "CN": "",
+      "KR": "门将在10秒后打开",
+      "TW": "門將在10秒後打開"
+    }
+  },
+  "门将在10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 10s",
+      "JP": "门将在10s后打开",
+      "CN": "",
+      "KR": "门将在10s后打开",
+      "TW": "門將在10秒後打開"
+    }
+  },
+  "蓝钥匙：2": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Blue Key: 2",
+      "JP": "蓝钥匙：2",
+      "CN": "",
+      "KR": "蓝钥匙：2",
+      "TW": "藍鑰匙：2"
+    }
+  },
+  "计时器已重置为 0:0:0": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Timer reset to 0:0:0",
+      "JP": "タイマーが0:0:0にリセットされました",
+      "CN": "",
+      "KR": "타이머가 0:0:0으로 재설정되었습니다",
+      "TW": "計時器已重置為 0:0:0"
+    }
+  },
+  "黄钥匙：10": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yellow Key: 10",
+      "JP": "黄キー：10",
+      "CN": "",
+      "KR": "노란 열쇠: 10",
+      "TW": "黃鑰匙：10"
+    }
+  },
+  "时间紧迫，你发现门在外面能量的压迫下出现了一点裂纹，你用尽全力撞向大门，门勉强打开了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Time is running out. You notice a crack forming on the door under the pressure of external forces. With all your strength, you crash into it, and the door barely opens.",
+      "JP": "時間は限られています。外からのエネルギーの圧力によって扉にわずかなひび割れが生じたのを見つけ、全力で扉を押し当てて何とか開けた。",
+      "CN": "",
+      "KR": "시간이 촉박합니다, 문이 외부 에너지의 압력으로 인해 약간 갈라진 것을 발견했습니다. 간신히 문을 밀어 열었습니다.",
+      "TW": "時間緊迫，你發現門在外圍能量的壓迫下出現了一點裂紋，你用盡全力撞向大門，門勉強被打開。"
+    }
+  },
+  "有人完成了挑战！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has completed the challenge!!!",
+      "JP": "誰かが挑戦を完了した！！！",
+      "CN": "",
+      "KR": "누군가가 도전을 완료했습니다!!!",
+      "TW": "有人完成了挑戰！！！"
+    }
+  },
+  "完成时间为 0:31:50 目前暂无最快完成时间，请联系我更改记录": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Completion time: 0:31:50. No fastest completion time recorded yet. Please contact me to update the record.",
+      "JP": "完走時間は0:31:50です。現時点で最速タイムは未登録のため、記録更新のご要望はお問い合わせください。",
+      "CN": "",
+      "KR": "완료 시간: 0:31:50 현재 가장 빠른 기록이 없습니다. 기록을 업데이트하려면联系我하십시오.",
+      "TW": "完成時間為 0:31:50，目前暫無最快完成時間，請聯繫我更改記錄"
+    }
+  },
+  "仙子：我感觉怪物已经提前埋伏在这一层了。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: I feel like the monsters have already laid an ambush on this floor.",
+      "JP": "妖精：モンスターはこの階層に事前に待ち構えていると感じます。",
+      "CN": "",
+      "KR": "요정: 괴물이 이미 이 층에 미리 매복한 것 같아요.",
+      "TW": "仙子：我感覺怪物已經提前埋伏在這一層了。"
+    }
+  },
+  "仙子：小心前进！我正在尝试关闭上楼的传送阵。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: Proceed with caution! I'm trying to deactivate the teleportation array leading upstairs.",
+      "JP": "妖精：注意して進んで！登るための転送結界を無効にしようとしています。",
+      "CN": "",
+      "KR": "요성: 조심해서 이동하세요! 올라가는 텔레포트 장치를 끄려고 노력 중입니다.",
+      "TW": "仙子：小心前進！我正在嘗試關閉上樓的傳送陣。"
+    }
+  },
+  "仙子：预计其余怪物在45秒后才能传送过来。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: The remaining monsters are estimated to arrive via teleportation in 45 seconds.",
+      "JP": "妖精：残りのモンスターが転送されるまで、あと45秒ほどかかります。",
+      "CN": "",
+      "KR": "요성: 나머지 괴물이 텔레포트하여 오는 데 45초가 더 걸릴 것으로 예상됩니다.",
+      "TW": "仙子：預計其餘怪物在 45 秒後才能傳送過來。"
+    }
+  },
+  "感谢望 永远滴的神、Collective4-60指挥、炒饭帮助测试地图。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thanks to Wang, 'Yongyuan Di De Shen', Collective4-60 Command, and Fried Rice for helping test the map.",
+      "JP": "望、永遠の神様、Collective4-60指揮、炒飯によるマップテストのお手伝いを感謝します。",
+      "CN": "",
+      "KR": "망원정, 영원한 신, Collective4-60 지휘관, 볶음밥의 테스트 지도 지원에 감사드립니다.",
+      "TW": "感謝望、永遠滴的神、Collective4-60指揮、炒飯協助測試地圖。"
+    }
+  },
+  "怪物发现根本无法前进，他们启用了传送魔法。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The monsters found it impossible to advance and activated teleportation magic.",
+      "JP": "怪物はこれ以上前進できないことを発見し、転送魔法を発動させた。",
+      "CN": "",
+      "KR": "몬스터가 전진을 불가능하다고 판단하여 전송 마법을 발동시켰습니다.",
+      "TW": "怪物發現根本無法前進，他們啟用了傳送魔法。"
+    }
+  },
+  "有一处隐藏墙被启用了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A hidden wall has been activated.",
+      "JP": "隠し壁が一つ解放された。",
+      "CN": "",
+      "KR": "숨겨진 벽이 활성화되었습니다.",
+      "TW": "有一處隱藏牆被啟用。"
+    }
+  },
+  "勇者:我好像忘了我该怎么杀死怪物了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hero: I seem to have forgotten how to kill the monsters!",
+      "JP": "勇者：怪物を倒す方法を忘れてしまったようだ！",
+      "CN": "",
+      "KR": "용사: 몬스터를 처치하는 방법을 잊어버린 것 같군!",
+      "TW": "勇者：我好像忘記了殺死怪物該怎么做！"
+    }
+  },
+  "仙子:处于怪物的一个范围内，点击鼠标右键即可。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fairy: While within the monster's range, right-click your mouse.",
+      "JP": "仙子：モンスターがいる範囲内にて、マウスの右クリックをクリックする。",
+      "CN": "",
+      "KR": "요정: 몬스터의 범위 내에 있을 때, 마우스 우클릭을 누르시면 됩니다.",
+      "TW": "仙子：處於怪物的範圍內，點擊滑鼠右鍵即可。"
+    }
+  },
+  "你发现，当大量的献血撒入地下时，面前似乎出现一条无形的道路。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You discover that when a large amount of donated blood is sprinkled onto the ground, an invisible path seems to appear before you.",
+      "JP": "大量の献血が地面に撒かれると、目の前に見えない道路が現れることに気づいた。",
+      "CN": "",
+      "KR": "당신은 대량의 헌혈이 지하에 뿌려질 때, 눈앞에 보이지 않는 길이 나타나는 것을 발견합니다.",
+      "TW": "你發現，當大量的獻血撒入地下時，面前似乎出現一條無形的道路。"
+    }
+  },
+  "你感觉这条道路的状态很不稳定，随时可能会关闭。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You feel that the state of this path is very unstable, and it could close at any moment.",
+      "JP": "この道路の状態は非常に不安定で、いつ閉じてもおかしくないと感じた。",
+      "CN": "",
+      "KR": "이 길의 상태가 매우 불안정하여 언제든 닫힐 수 있음을 느낍니다.",
+      "TW": "你感覺這條道路的狀態很不穩定，隨時可能會關閉。"
+    }
+  }
+}

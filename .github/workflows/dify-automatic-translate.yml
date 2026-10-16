@@ -1,0 +1,75 @@
+name: dify - Automatic Translate and Create PR
+
+env:
+  PYTHONUTF8: 1
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master  # Only run on pushes to the master branch
+    paths:
+      - 'cs2/counterstrikesharp/configs/map-text/**/*.jsonc'
+
+jobs:
+  translate_and_pr:
+    runs-on: self-hosted
+    timeout-minutes: 240
+    # Only run for direct pushes, not PR merges, and skip commits with specific message
+    if: github.event_name == 'push' && github.event.pull_request == null && !contains(github.event.head_commit.message, 'Automated translation update')
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history for branch creation
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install required Python packages
+        shell: bash
+        run: |
+          pip install requests tqdm
+
+      - name: Run translation for modified files
+        id: run_translation
+        shell: bash
+        run: |
+          echo "Finding changed .jsonc files..."
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '^cs2/counterstrikesharp/configs/map-text/.*\.jsonc$' || true)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No changed .jsonc files. Exiting."
+            echo "files_changed=false" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          echo "Files to process:"
+          echo "$CHANGED_FILES"
+          for file in $CHANGED_FILES; do
+            echo "Processing: $file"
+            python scripts/dify_translation_maptext.py --file "$file"
+          done
+
+          # Get the first changed file's basename
+          FIRST_FILE=$(echo "$CHANGED_FILES" | head -n 1)
+          BASE_FILENAME=$(basename "$FIRST_FILE")
+
+          echo "First changed file: $BASE_FILENAME"
+          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型-dify 自动化翻译" >> $GITHUB_ENV
+          echo "files_changed=true" >> $GITHUB_ENV
+
+      - name: Create Pull Request
+        if: env.files_changed == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: 'Automated translation update'
+          title: '${{ env.pr_title }}'
+          body: |
+            This PR contains automated translation updates.
+            Please review and confirm the changes.
+          branch: 'auto-translate-${{ github.run_id }}'
+          base: master
+          delete-branch: true

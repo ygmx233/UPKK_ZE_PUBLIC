@@ -1,0 +1,212 @@
+{
+  "***>>>>MAP By thegregster101<<<<***": {
+    "translation": "***>>>>地图作者：thegregster101 翻译：Asteri3m<<<<***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***マップ制作：thegregster101***",
+      "CN": "***>>>>地图作者：thegregster101<<<<***",
+      "KR": "***MAP 제작자: thegregster101***",
+      "TW": "***>>>>地圖製作者：thegregster101<<<<***"
+    }
+  },
+  "***BUTTON OVERIDE ACTIVATED***": {
+    "translation": "***激活按钮***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ボタンの上書きを有効化***",
+      "CN": "***按钮覆盖已激活***",
+      "KR": "***버튼 오버라이드 활성화***",
+      "TW": "***超控按鍵已啟用***"
+    }
+  },
+  "***C4 EXPLODING IN 5 SECONDS***": {
+    "translation": "***C4在5秒后爆炸***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***C4爆発まで5秒***",
+      "CN": "***C4炸药5秒后爆炸***",
+      "KR": "***C4 폭발 5초 전***",
+      "TW": "***C4炸藥於5秒後爆炸***"
+    }
+  },
+  "***C4 EXPLOING IN 10 SECONDS***": {
+    "translation": "***C4在10秒后爆炸***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***C4爆発まで10秒***",
+      "CN": "***C4炸药10秒后爆炸***",
+      "KR": "***C4 폭발 10초 전***",
+      "TW": "***C4炸藥於10秒後爆炸***"
+    }
+  },
+  "***CALL THE MAIN LAND...... TELL THEM TO SEND THE DAMN HELICOPTERS***": {
+    "translation": "***呼叫本土……告诉他们派出该死的直升机***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***本部に電話しろ……運の悪いヘリコプターを送らせろ***",
+      "CN": "***呼叫地面指挥部……告诉他们把那该死的直升机派过来***",
+      "KR": "***본토에 연락해... 그 무시무시한 헬리콥터들을 보내라고 해***",
+      "TW": "***呼叫主陸地......告訴他們派該死的直升機來***"
+    }
+  },
+  "***DEFEND THE HELI PAD***": {
+    "translation": "***防守直升机停机坪***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ヘリパッドを防衛せよ***",
+      "CN": "***防守停机坪***",
+      "KR": "***헬기장 방어***",
+      "TW": "***防守直升機停機坪***"
+    }
+  },
+  "***DEFEND THE LOADING BAY 40 SECONDS***": {
+    "translation": "***防守装载区40秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***積載ベイ40秒間を確保せよ***",
+      "CN": "***防守装卸货舱40秒***",
+      "KR": "***적재함 40초 동안 방어***",
+      "TW": "***防守裝載艙40秒***"
+    }
+  },
+  "***DINO TRANSPORTER LEAVING IN 10 SECONDS***": {
+    "translation": "***恐龙运输车将在10秒后离开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***恐竜輸送車両まで10秒***",
+      "CN": "恐龙运输机10秒后起飞***",
+      "KR": "***공룡 수송기 10초 후 이륙***",
+      "TW": "***恐龍運輸機於10秒後啟航***"
+    }
+  },
+  "***GO GO! GATE IS NOW OPEN!!***": {
+    "translation": "***快走！大门现在打开！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゴーゴー！ゲートは現在オープン！！***",
+      "CN": "***GO GO! GATE IS NOW OPEN!!***",
+      "KR": "***GO GO! 게이트 오픈!!!***",
+      "TW": "***衝啊！傳送門已開啟！！！***"
+    }
+  },
+  "***HATCHING CENTRE HAS BEEN BROKEN INTO***": {
+    "translation": "***孵化中心已被突破***",
+    "MultiLang": {
+      "US": "***HATCHING CENTRE HAS BEEN BREACHED***",
+      "JP": "***孵化施設に強盗が入った***",
+      "CN": "***HATCHING CENTRE HAS BEEN BROKEN INTO***",
+      "KR": "***부화 시설 강탈됨***",
+      "TW": "***孵化中心遭到入侵***"
+    }
+  },
+  "***HELI INBOUND 15 SECONDS***": {
+    "translation": "***直升机将在15秒后抵达***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ヘリコプター15秒後到着***",
+      "CN": "***HELI INBOUND 15 SECONDS***",
+      "KR": "헬리 15초 후 도착***",
+      "TW": "***直升機預計15秒後抵達***"
+    }
+  },
+  "***HELI INBOUND 30 SECONDS***": {
+    "translation": "***直升机将在30秒后抵达***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ヘリコプター30秒後到着***",
+      "CN": "***HELI INBOUND 30 SECONDS***",
+      "KR": "***헬리 30초 후 도착***",
+      "TW": "***直升機預計30秒後抵達***"
+    }
+  },
+  "***HELI INBOUND 60 SECONDS***": {
+    "translation": "***直升机将在60秒后抵达***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ヘリコプター60秒後到着***",
+      "CN": "***HELI INBOUND 60 SECONDS***",
+      "KR": "***헬리 60초 후 도착***",
+      "TW": "***直升機預計60秒後抵達***"
+    }
+  },
+  "***HELI INBOUND***": {
+    "translation": "***直升机抵达中***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ヘリコプター到着***",
+      "CN": "***HELI INBOUND***",
+      "KR": "***헬리 도착 예정***",
+      "TW": "***直升機即將抵達***"
+    }
+  },
+  "***LAST GATES CLOSED!***": {
+    "translation": "***最后的大门关闭！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***最後のゲートが閉鎖された！***",
+      "CN": "***LAST GATES CLOSED!***",
+      "KR": "***마지막 게이트 폐쇄!***",
+      "TW": "最後一扇門關閉！***"
+    }
+  },
+  "***LOADING BAY GATE CLOSING IN 20 SECONDS***": {
+    "translation": "***装载区大门将在20秒后关闭***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ローディングベイのゲートが20秒後に閉鎖されます***",
+      "CN": "***LOADING BAY GATE CLOSING IN 20 SECONDS***",
+      "KR": "***적재 게이트 20초 후 닫힘***",
+      "TW": "***裝載區門20秒後關閉***"
+    }
+  },
+  "***MAKE YOUR WAY TO THE EXTRACTION POINT***": {
+    "translation": "***前往提取点***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***抽出ポイントへ向かう***",
+      "CN": "***前往撤离点***",
+      "KR": "***추출 지점까지 이동하세요***",
+      "TW": "***前往撤離點***"
+    }
+  },
+  "***THE LAST GATES ARE NOW OPEN***": {
+    "translation": "***最后的大门现在打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***最後のゲートが開いた***",
+      "CN": "***最后的入口已开启***",
+      "KR": "***마지막 게이트가 열렸습니다***",
+      "TW": "***最後一道門已開啟***"
+    }
+  },
+  "***TRUCK LEAVING 8 SECONDS***": {
+    "translation": "***卡车将在8秒后离开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***8秒後にトラックが発車します***",
+      "CN": "***卡车8秒后离开***",
+      "KR": "***트럭 8초 후 출발***",
+      "TW": "***載具8秒後離去***"
+    }
+  },
+  "***WIPE OUT GAS INBOUND!***": {
+    "translation": "***清除进入的气体！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ガスの掃討準備OK!***",
+      "CN": "毒气即将注入！***",
+      "KR": "***가스 확산 imminent!***",
+      "TW": "***瓦斯清除器即將到襲！***"
+    }
+  },
+  "***YOU MUST NOW DEFEND THE BOXES***": {
+    "translation": "***你现在必须防守箱子***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***今から箱を守れ***",
+      "CN": "***你必须保护箱子***",
+      "KR": "***지금 상자들을 방어해야 합니다***",
+      "TW": "***你現在必須守護箱子***"
+    }
+  }
+}

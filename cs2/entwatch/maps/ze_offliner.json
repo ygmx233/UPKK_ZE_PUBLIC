@@ -1,28 +1,28 @@
 [
-	{
-		"Name": "shockwave_item_elite",
-		"ShortName": "shockwave_item_elite",
-		"Color": "{default}",
-		"HammerID": "3979",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "冲击波",
+    "ShortName": "冲击波",
+    "Color": "{default}",
+    "HammerID": 3979,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "shockwave_item_button",
+        "ButtonID": 3970,
+        "ButtonClass": "func_button",
+        "Filter": "item_shockwave:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 15
+      }
+    ]
+  }
 ]

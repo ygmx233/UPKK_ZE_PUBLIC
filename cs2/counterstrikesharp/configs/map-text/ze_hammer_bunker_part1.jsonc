@@ -1,59 +1,192 @@
 {
   ">>>*10 seconds to closing the door*<<<": {
-    "translation": "10秒后关门"
+    "translation": "10秒后关门",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>*ドア閉鎖まで10秒*<<<",
+      "CN": ">>>*关门倒计时10秒*<<<",
+      "KR": ">>>*문 닫기 10초 전*<<<",
+      "TW": ">>>*距離關門剩10秒*<<<"
+    }
   },
   "!!!5!!!": {
-    "translation": "!!!5!!!"
+    "translation": "!!!5!!!",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "!!!4!!!": {
-    "translation": "!!!4!!!"
+    "translation": "!!!4!!!",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "!!!3!!!": {
-    "translation": "!!!3!!!"
+    "translation": "!!!3!!!",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "!!!2!!!": {
-    "translation": "!!!2!!!"
+    "translation": "!!!2!!!",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "!!!1!!!": {
-    "translation": "!!!1!!!"
+    "translation": "!!!1!!!",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "!!!GO!!!": {
-    "translation": "!!!GO!!!"
+    "translation": "!!!GO!!!",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!!始める!!!",
+      "CN": "!!!启动!!!",
+      "KR": "!!!GO!!!",
+      "TW": "!!!GO!!!"
+    }
   },
   ">>>*DESTROY wire for start nuke!!!*<<<": {
-    "translation": ">>*摧毁电线启动核弹!!!*<<<"
+    "translation": ">>*摧毁电线启动核弹!!!*<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>*スロットル開始用のワイヤーを破壊せよ!!!*<<<",
+      "CN": ">>>*切断线路以启动核武!!!\"<<<",
+      "KR": ">>>*핵실토동 작전 개시를 위한 전원 차단!!!*<<<",
+      "TW": ">>>*切斷電線以啟動核彈！*<<<"
+    }
   },
   " >>>*60 seconds to opening the door*<<<": {
-    "translation": " >>60秒后开门<<<"
+    "translation": ">>60秒后开门<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>*ドア開閉まで60秒*<<<",
+      "CN": ">>>*开门倒计时60秒*<<<",
+      "KR": ">>>*문 열기 60초 전*<<<",
+      "TW": ">>>*距離開門剩60秒*<<<"
+    }
   },
   " >>>*15 seconds to opening the door*<<<": {
-    "translation": " >>*15秒后开门*<<<"
+    "translation": ">>*15秒后开门*<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>*ドア開閉まで15秒*<<<",
+      "CN": ">>>*开门倒计时15秒*<<<",
+      "KR": ">>>*문 열기 15초 전*<<<",
+      "TW": ">>>*距離開門剩15秒*<<<"
+    }
   },
   ">>>*Elevator going up through 35 seconds*<<<": {
-    "translation": ">>*35秒后电梯上升*<<<"
+    "translation": ">>*35秒后电梯上升*<<<",
+    "MultiLang": {
+      "US": ">>>*Elevator going up in 35 seconds*<<<",
+      "JP": ">>>*エレベーター35秒上昇中*<<<",
+      "CN": ">>>*电梯将在35秒后上行*<<<",
+      "KR": ">>>*엘리베이터 35초간 상승 중*<<<",
+      "TW": ">>>*電梯將於35秒後到達頂層*<<<"
+    }
   },
   " >>>*35 seconds to opening the door*<<<": {
-    "translation": " >>*35秒后开门*<<<"
+    "translation": ">>*35秒后开门*<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>*ドア開閉まで35秒*<<<",
+      "CN": ">>>*开门倒计时35秒*<<<",
+      "KR": ">>>*문 열기 35초 전*<<<",
+      "TW": ">>>*距離開門剩35秒*<<<"
+    }
   },
   ">>>*Elevator will leave after 30 seconds*<<<": {
-    "translation": ">>*电梯30秒后离开*<<<"
+    "translation": ">>*电梯30秒后离开*<<<",
+    "MultiLang": {
+      "US": ">>>*Elevator leaves in 30 seconds*<<<",
+      "JP": ">>>*エレベーター30秒後に離れる*<<<",
+      "CN": ">>>*电梯将在30秒后离开*<<<",
+      "KR": ">>>*엘리베이터 30초 후 이동*<<<",
+      "TW": ">>>*電梯將於30秒後離去*<<<"
+    }
   },
   ">>>*Elevator going down through 40 seconds*<<<": {
-    "translation": ">>*电梯40秒后下行*<<<"
+    "translation": ">>*电梯40秒后下行*<<<",
+    "MultiLang": {
+      "US": ">>>*Elevator going down in 40 seconds*<<<",
+      "JP": ">>>エレベーターが40秒後に停止<<<",
+      "CN": ">>>*电梯运行40秒后下行*<<<",
+      "KR": "*엘리베이터 40초 뒤 하행*<<<",
+      "TW": "電梯正下降至第40層，倒數30秒"
+    }
   },
   ">>>*Elevator going down through 35 seconds*<<<": {
-    "translation": ">>*电梯35秒后下行*<<<"
+    "translation": ">>*电梯35秒后下行*<<<",
+    "MultiLang": {
+      "US": ">>>*Elevator going down in 35 seconds*<<<",
+      "JP": ">>>エレベーターが35秒後に停止<<<",
+      "CN": ">>>*电梯运行35秒后下行*<<<",
+      "KR": "*엘리베이터 35초 뒤 하행*<<<",
+      "TW": "電梯正下降至第35層，倒數25秒"
+    }
   },
   ">>>*Prior to the explosion c4 25 seconds*<<<": {
-    "translation": ">>*C4将在25秒后爆炸*<<<"
+    "translation": ">>*C4将在25秒后爆炸*<<<",
+    "MultiLang": {
+      "US": ">>>*Before the explosion c4 25 seconds*<<<",
+      "JP": ">>>爆発の25秒前<<<",
+      "CN": ">>>*爆炸前25秒C4**<<<",
+      "KR": "*C4 폭발 25초 전*<<<",
+      "TW": "C4炸彈爆炸前25秒"
+    }
   },
   ">>>*35 seconds to opening the door*<<<": {
-    "translation": ">>>*35秒后开门*<<<"
+    "translation": ">>>*35秒后开门*<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドアが開くまで35秒<<<",
+      "CN": ">>>*35秒后开门*<<<",
+      "KR": "*문 열림 35초 전*<<<",
+      "TW": "距打開車門還有35秒"
+    }
   },
   ">>>*15 seconds to opening the door*<<<": {
-    "translation": ">>>*15秒后开门*<<<"
+    "translation": ">>>*15秒后开门*<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドアが開くまで15秒<<<",
+      "CN": ">>>*15秒后开门*<<<",
+      "KR": "*문 열림 15초 전*<<<",
+      "TW": "距打開車門還有15秒"
+    }
   },
   ">>>*60 seconds to opening the door*<<<": {
-    "translation": ">>>*60秒后开门*<<<"
+    "translation": ">>>*60秒后开门*<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドアが開くまで60秒<<<",
+      "CN": ">>>*60秒后开门*<<<",
+      "KR": "*문 열림 60초 전*<<<",
+      "TW": "距打開車門還有60秒"
+    }
   }
 }

@@ -1,0 +1,62 @@
+{
+  "Map by Posi,special thanks Nyafi": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Posi作成、特別感謝：Nyafi",
+      "CN": "地图制作：Posi，特别感谢 Nyafi",
+      "KR": "Posi 작도, Nyafi 특별 감사",
+      "TW": "地圖由 Posi 製作，特別感謝 Nyafi"
+    }
+  },
+  "1st floor 10s door open": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "1階 10秒でドア開く",
+      "CN": "一楼门10秒后开启",
+      "KR": "1층 문 10초 후 개방",
+      "TW": "一樓十分鐘後門開啟"
+    }
+  },
+  "2st floor 10s door open": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "2階 10秒でドア開く",
+      "CN": "二楼门10秒后开启",
+      "KR": "2층 문 10초 후 개방",
+      "TW": "二樓十分鐘後門開啟"
+    }
+  },
+  "fly away after 50seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "50秒後に飛び去る",
+      "CN": "50秒后飞走",
+      "KR": "50초 후 비행 시작",
+      "TW": "50秒後飛離"
+    }
+  },
+  "fly away after 10seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に飛び去る",
+      "CN": "10秒后飞走",
+      "KR": "10초 후 비행 시작",
+      "TW": "10秒後飛離"
+    }
+  },
+  "fly away after 5seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後に飛び去る",
+      "CN": "5秒后飞走",
+      "KR": "5초 후 비행 시작",
+      "TW": "5秒後飛離"
+    }
+  }
+}

@@ -1,371 +1,1332 @@
 {
   "**A Player has picked up <Crystal>**": {
-    "translation": "**一位玩家捡起了<水晶>**"
+    "translation": "**一位玩家捡起了<水晶>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Crystal>を<playerName>が pickup",
+      "CN": "一名玩家拾取了<水晶>",
+      "KR": "**플레이어가 <크리스탈>을(를)拾었습니다**",
+      "TW": "一名玩家拾取了<水晶>"
+    }
   },
   "**A player has picked up <Earth Magic>**": {
-    "translation": "**一位玩家捡起了<土>**"
+    "translation": "**一位玩家捡起了<土>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Earth Magic>を<playerName>が pickup",
+      "CN": "一名玩家拾取了<大地魔法>",
+      "KR": "**플레이어가 <지속의 마법>을(를)拾었습니다**",
+      "TW": "一名玩家拾取了<土魔法>"
+    }
   },
   "**A player has picked up <Gravity Magic>**": {
-    "translation": "**一位玩家捡起了<黑洞>**"
+    "translation": "**一位玩家捡起了<黑洞>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Gravity Magic>を<playerName>が pickup",
+      "CN": "一名玩家拾取了<重力魔法>",
+      "KR": "**플레이어가 <중력의 마법>을(를)拾었습니다**",
+      "TW": "一名玩家拾取了<重力魔法>"
+    }
   },
   "**A player has picked up <Lightning Magic>**": {
-    "translation": "**一位玩家捡起了<电环>**"
+    "translation": "**一位玩家捡起了<电环>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Lightning Magic>を<playerName>が pickup",
+      "CN": "一名玩家拾取了<雷电魔法>",
+      "KR": "**플레이어가 <번개의 마법>을(를)拾었습니다**",
+      "TW": "一名玩家拾取了<雷擊魔法>"
+    }
   },
   "**A player has picked up <Tornado Magic>**": {
-    "translation": "**一位玩家捡起了<风>**"
+    "translation": "**一位玩家捡起了<风>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Tornado Magic>を<playerName>が pickup",
+      "CN": "一名玩家拾取了<风暴魔法>",
+      "KR": "**플레이어가 <태풍의 마법>을(를)拾었습니다**",
+      "TW": "一名玩家拾取了<龍捲風魔法>"
+    }
   },
   "**A player has picked up <Trace Magic>**": {
-    "translation": "**一位玩家捡起了<复制>**"
+    "translation": "**一位玩家捡起了<复制>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Trace Magic>を<playerName>が pickup",
+      "CN": "一名玩家拾取了<轨迹魔法>",
+      "KR": "**플레이어가 <잔상의 마법>을(를)拾었습니다**",
+      "TW": "一名玩家拾取了<追蹤魔法>"
+    }
   },
   "**A player has picked up <Ultima Magic>**": {
-    "translation": "**一位玩家捡起了<终极>**"
+    "translation": "**一位玩家捡起了<终极>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Ultima Magic>を<playerName>が pickup",
+      "CN": "一名玩家拾取了<终极魔法>",
+      "KR": "**플레이어가 <울티마의 마법>을(를)拾었습니다**",
+      "TW": "一名玩家拾取了<終極魔法>"
+    }
   },
   "**A player has picked up <Water Magic>**": {
-    "translation": "**一位玩家捡起了<泡泡>**"
+    "translation": "**一位玩家捡起了<泡泡>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Water Magic>を<playerName>が pickup",
+      "CN": "一名玩家拾取了<水系魔法>",
+      "KR": "**플레이어가 <수속의 마법>을(를)拾었습니다**",
+      "TW": "一名玩家拾取了<水魔法>"
+    }
   },
   "**A player has picked up [ZM]<Gravity>**": {
-    "translation": "**一位玩家捡起了[僵尸]<黑洞>**"
+    "translation": "**一位玩家捡起了[僵尸]<黑洞>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが[ZM]<重力>を取得しました",
+      "CN": "[ZM]玩家已拾取<重力>",
+      "KR": "플레이어가 [ZM]<중력>을 획득했습니다",
+      "TW": "玩家拾取了 [ZM]<重力>"
+    }
   },
   "**A player has picked up [ZM]<Ice>**": {
-    "translation": "**一位玩家捡起了[僵尸]<冰>**"
+    "translation": "**一位玩家捡起了[僵尸]<冰>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが[ZM]<氷>を取得しました",
+      "CN": "[ZM]玩家已拾取<冰冻>",
+      "KR": "플레이어가 [ZM]<얼음>을 획득했습니다",
+      "TW": "玩家拾取了 [ZM]<冰>"
+    }
   },
   "**A player has picked up [ZM]<Shield>**": {
-    "translation": "**一位玩家捡起了[僵尸]<护盾>**"
+    "translation": "**一位玩家捡起了[僵尸]<护盾>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが[ZM]<シールド>を取得しました",
+      "CN": "[ZM]玩家已拾取<护盾>",
+      "KR": "플레이어가 [ZM]<방패>을 획득했습니다",
+      "TW": "玩家拾取了 [ZM]<盾牌>"
+    }
   },
   "**A player has picked up [ZM]<Stealth>**": {
-    "translation": "**一位玩家捡起了[僵尸]<隐身>**"
+    "translation": "**一位玩家捡起了[僵尸]<隐身>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが[ZM]<ステルス>を取得しました",
+      "CN": "[ZM]玩家已拾取<隐身>",
+      "KR": "플레이어가 [ZM]<은신>을 획득했습니다",
+      "TW": "玩家拾取了 [ZM]<隱形>"
+    }
   },
   "**Player has picked up <Heal Magic>**": {
-    "translation": "**一位玩家捡起了<治疗>**"
+    "translation": "**一位玩家捡起了<治疗>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが<回復魔法>を取得しました",
+      "CN": "玩家已拾取<治疗魔法>",
+      "KR": "플레이어가 <치유 마법>을 획득했습니다",
+      "TW": "玩家拾取了 <治療魔法>"
+    }
   },
   "**Stage 1 has been chosen**": {
-    "translation": "**第1关已被选择**"
+    "translation": "**第1关已被选择**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1が選択されました",
+      "CN": "已选择关卡1",
+      "KR": "스테이지 1이 선택되었습니다",
+      "TW": "已選擇第一關"
+    }
   },
   "**Stage 2 has been chosen**": {
-    "translation": "**第2关已被选择**"
+    "translation": "**第2关已被选择**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2が選択されました",
+      "CN": "已选择关卡2",
+      "KR": "스테이지 2가 선택되었습니다",
+      "TW": "已選擇第二關"
+    }
   },
   "**Stage 3 has been chosen**": {
-    "translation": "**第3关已被选择**"
+    "translation": "**第3关已被选择**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3が選択されました",
+      "CN": "已选择关卡3",
+      "KR": "스테이지 3이 선택되었습니다",
+      "TW": "已選擇第三關"
+    }
   },
   "**Stage 4 has been chosen**": {
-    "translation": "**第4关已被选择**"
+    "translation": "**第4关已被选择**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ステージ4が選択されました**",
+      "CN": "**已选择第4阶段**",
+      "KR": "**레벨 4이(가) 선택되었습니다**",
+      "TW": "已選擇第 4 階段"
+    }
   },
   "**Stage 5 has been chosen**": {
-    "translation": "**第5关已被选择**"
+    "translation": "**第5关已被选择**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ステージ5が選択されました**",
+      "CN": "**已选择第5阶段**",
+      "KR": "**레벨 5이(가) 선택되었습니다**",
+      "TW": "已選擇第 5 階段"
+    }
   },
   "**ZM has been chosen**": {
-    "translation": "**ZM关已被选择**"
+    "translation": "**ZM关已被选择**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ZMが選択されました**",
+      "CN": "**已选择ZM**",
+      "KR": "**ZM이(가) 선택되었습니다**",
+      "TW": "已選擇 ZM"
+    }
   },
   "<<ANGER SHIELD>>": {
-    "translation": "<<愤怒之盾>>"
+    "translation": "<<愤怒之盾>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<アンスガード>>",
+      "CN": "<<愤怒护盾>>",
+      "KR": "<<앵거 실드>>",
+      "TW": "<<憤怒護盾>>"
+    }
   },
   "<<BLUE MARKER>>": {
-    "translation": "<<蓝色标记>>"
+    "translation": "<<蓝色标记>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ブルーマーカー>>",
+      "CN": "<<蓝色标记>>",
+      "KR": "<<블루 마커>>",
+      "TW": "<<藍色標記>>"
+    }
   },
   "<<CHAOSTORM>>": {
-    "translation": "<<混沌风暴>>"
+    "translation": "<<混沌风暴>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<カオストルネード>>",
+      "CN": "<<混沌风暴>>",
+      "KR": "<<카오스 스톰>>",
+      "TW": "<<混沌風暴>>"
+    }
   },
   "<<COLLAPSAR>>": {
-    "translation": "<<坍塌星>>"
+    "translation": "<<坍塌星>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<コラプサ>>",
+      "CN": "<<崩塌者>>",
+      "KR": "<<콜라프사>>",
+      "TW": "<< collapsesar >>"
+    }
   },
   "<<COLLAPSE>>": {
-    "translation": "<<坍塌>>"
+    "translation": "<<坍塌>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<コラプス>>",
+      "CN": "<<崩溃>>",
+      "KR": "<<콜랩스>>",
+      "TW": "<<坍塌>>"
+    }
   },
   "<<CRUSH>>": {
-    "translation": "<<粉碎>>"
+    "translation": "<<粉碎>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<CRUSH>>",
+      "CN": "<<碾压>>",
+      "KR": "<<분쇄>>",
+      "TW": "粉碎"
+    }
   },
   "<<CURSE>>": {
-    "translation": "<<诅咒>>"
+    "translation": "<<诅咒>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<CURSE>>",
+      "CN": "<<诅咒>>",
+      "KR": "<<저주>>",
+      "TW": "詛咒"
+    }
   },
   "<<DRAW>>": {
-    "translation": "<<抽取>>"
+    "translation": "<<抽取>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<DRAW>>",
+      "CN": "<<平局>>",
+      "KR": "<<견제>>",
+      "TW": "抽牌"
+    }
   },
   "<<EVIL>>": {
-    "translation": "<<邪恶>>"
+    "translation": "<<邪恶>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<EVIL>>",
+      "CN": "<<邪恶>>",
+      "KR": "<<악행>>",
+      "TW": "邪惡"
+    }
   },
   "<<FLARE>>": {
-    "translation": "<<闪光>>"
+    "translation": "<<闪光>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<FLARE>>",
+      "CN": "<<耀斑>>",
+      "KR": "<<발화>>",
+      "TW": "火焰爆發"
+    }
   },
   "<<HEALTH GRABBING>>": {
-    "translation": "<<生命掠夺>>"
+    "translation": "<<生命掠夺>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<HEALTH GRABBING>>",
+      "CN": "<<汲取生命>>",
+      "KR": "<<체력 흡수>>",
+      "TW": "生命吸取"
+    }
   },
   "<<MEGALITH>>": {
-    "translation": "<<巨石>>"
+    "translation": "<<巨石>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<MEGALITH>>",
+      "CN": "<<巨石>>",
+      "KR": "<<대석>>",
+      "TW": "巨碑"
+    }
   },
   "<<ORANGE MARKER>>": {
-    "translation": "<<橙色标记>>"
+    "translation": "<<橙色标记>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ORANGE MARKER>>",
+      "CN": "<<橙色标记>>",
+      "KR": "<<오렌지 마커>>",
+      "TW": "橙色標記"
+    }
   },
   "<<QUAKE>>": {
-    "translation": "<<地震>>"
+    "translation": "<<地震>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<クエーク>>",
+      "CN": "<<震动>>",
+      "KR": "<<quake>>",
+      "TW": "<<震動>>"
+    }
   },
   "<<SHADOW BLADE>>": {
-    "translation": "<<影刃>>"
+    "translation": "<<影刃>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<シャドブレード>>",
+      "CN": "<<暗影之刃>>",
+      "KR": "<<그림자 검>>",
+      "TW": "<<影刃>>"
+    }
   },
   "<<SHAKE WAVE WORLD>>": {
-    "translation": "<<震波世界>>"
+    "translation": "<<震波世界>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<シェイクウェーブワールド>>",
+      "CN": "<<震波世界>>",
+      "KR": "<<진동 파동 세계>>",
+      "TW": "<<撼世波>>"
+    }
   },
   "<<SHAKE WAVE>>": {
-    "translation": "<<震波>>"
+    "translation": "<<震波>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<シェイクウェーブ>>",
+      "CN": "<<震波>>",
+      "KR": "<<진동 파동>>",
+      "TW": "<<震波>>"
+    }
   },
   "<<SPURT>>": {
-    "translation": "<<喷发>>"
+    "translation": "<<喷发>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<スパート>>",
+      "CN": "<<喷射>>",
+      "KR": "<<분사>>",
+      "TW": "<<噴射>>"
+    }
   },
   "<<TORRENT>>": {
-    "translation": "<<急流>>"
+    "translation": "<<急流>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<トレンチ>>",
+      "CN": "<<洪流>>",
+      "KR": "<<폭포>>",
+      "TW": "<<洪流>>"
+    }
   },
   "<<TRAMPLE>>": {
-    "translation": "<<践踏>>"
+    "translation": "<<践踏>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<トラムプル>>",
+      "CN": "<<践踏>>",
+      "KR": "<<踏み付け>>",
+      "TW": "<<踐踏>>"
+    }
   },
   "<COAGULATION>": {
-    "translation": "<凝结>"
+    "translation": "<凝结>",
+    "MultiLang": {
+      "US": "",
+      "JP": "凝固",
+      "CN": "<凝结>",
+      "KR": "<전유 реакция>",
+      "TW": "凝結"
+    }
   },
   "<ICE SHIELD>": {
-    "translation": "<冰盾>"
+    "translation": "<冰盾>",
+    "MultiLang": {
+      "US": "",
+      "JP": "アイスシェルブ",
+      "CN": "<冰盾>",
+      "KR": "<얼음 보호막>",
+      "TW": "結晶Shield"
+    }
   },
   "<ICE STORM>": {
-    "translation": "<冰暴>"
+    "translation": "<冰暴>",
+    "MultiLang": {
+      "US": "",
+      "JP": "アイスストーム",
+      "CN": "<冰暴>",
+      "KR": "<얼음 폭풍>",
+      "TW": "<凍結暴風>"
+    }
   },
   "<WRATH OF WINTER>": {
-    "translation": "<冬日之怒>"
+    "translation": "<冬日之怒>",
+    "MultiLang": {
+      "US": "<Wrath of Winter>",
+      "JP": "<冬の怒り>",
+      "CN": "<冬日之怒>",
+      "KR": "<겨울의 분노>",
+      "TW": "冬季怒火"
+    }
   },
   ">>10 seconds remaining<<": {
-    "translation": ">>剩余10秒<<"
+    "translation": ">>剩余10秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>残り10秒<<",
+      "CN": ">>剩余10秒<<”",
+      "KR": ">>남은 시간 10초<<",
+      "TW": ">>剩餘10秒<<"
+    }
   },
   ">>120 seconds remaining<<": {
-    "translation": ">>剩余120秒<<"
+    "translation": ">>剩余120秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残120秒",
+      "CN": "剩余时间超过120秒",
+      "KR": "남은 시간 >>120초<<",
+      "TW": "剩餘 120 秒"
+    }
   },
   ">>180 seconds remaining<<": {
-    "translation": ">>剩余180秒<<"
+    "translation": ">>剩余180秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残180秒",
+      "CN": "剩余时间超过180秒",
+      "KR": "남은 시간 >>180초<<",
+      "TW": "剩餘 180 秒"
+    }
   },
   ">>20 seconds remaining<<": {
-    "translation": ">>剩余20秒<<"
+    "translation": ">>剩余20秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残20秒",
+      "CN": "剩余时间超过20秒",
+      "KR": "남은 시간 >>20초<<",
+      "TW": "剩餘 20 秒"
+    }
   },
   ">>60 seconds remaining<<": {
-    "translation": ">>剩余60秒<<"
+    "translation": ">>剩余60秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残60秒",
+      "CN": "剩余时间超过60秒",
+      "KR": "남은 시간 >>60초<<",
+      "TW": "剩餘 60 秒"
+    }
   },
   ">>Activate crystal tower<<": {
-    "translation": ">>激活水晶塔<<"
+    "translation": ">>激活水晶塔<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "クリスタルタワーを起動",
+      "CN": "激活水晶塔",
+      "KR": "수정 타워 활성화",
+      "TW": "啟動水晶塔"
+    }
   },
   ">>Activate two buttons<<": {
-    "translation": ">>激活两个按钮<<"
+    "translation": ">>激活两个按钮<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "2つのボタンを押す",
+      "CN": "激活两个按钮",
+      "KR": "버튼 두 개 활성화",
+      "TW": "啟動兩個按鈕"
+    }
   },
   ">>Balrog is casting Flame Nova,  use <Lightning> to resist it<<": {
-    "translation": ">>炎魔正在施放烈焰新星，使用<电环>来抵抗它<<"
+    "translation": ">>炎魔正在施放烈焰新星，使用<电环>来抵抗它<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "バルログがフレームノヴァを唱えています。 <雷撃> で防御してください",
+      "CN": "巴瑞尔正在施展火焰新星，请使用<闪电>进行抵抗",
+      "KR": "발록이 플라임 노바를 시전합니다. 저항하려면 <번개> 스킬을 사용하세요.",
+      "TW": "巴爾羅格正在施放「火焰新星」，請使用<閃電>來抵抗"
+    }
   },
   ">>Breaking crystals<<": {
-    "translation": ">>破坏水晶<<"
+    "translation": ">>破坏水晶<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "クリスタルを破壊する",
+      "CN": "破坏水晶",
+      "KR": "수정 파괴",
+      "TW": "破壞水晶"
+    }
   },
   ">>CRYSTAL IS INJECTING ENERGY<<": {
-    "translation": ">>水晶正在注入能量<<"
+    "translation": ">>水晶正在注入能量<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>クリスタルがエネルギーを注入中<<",
+      "CN": "<<水晶正在注入能量>>",
+      "KR": ">>결정이 에너지를 주입 중<<",
+      "TW": "水晶正在注入能量"
+    }
   },
   ">>Come out of the Palace and defend the zombies<<": {
-    "translation": ">>走出宫殿并防守僵尸<<"
+    "translation": ">>走出宫殿并防守僵尸<<",
+    "MultiLang": {
+      "US": ">>Leave the Palace and fend off the zombies<<",
+      "JP": ">>宮殿から出てゾンビを守れ<<",
+      "CN": "<<走出皇宫，防御僵尸>>",
+      "KR": ">>궁전에서 나와 좀비를 방어하세요<<",
+      "TW": "離開宮殿並防禦殭屍"
+    }
   },
   ">>Crystal not placed<<": {
-    "translation": ">>水晶未放置<<"
+    "translation": ">>水晶未放置<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>クリスタルが配置されていません<<",
+      "CN": "<<未放置水晶>>",
+      "KR": ">>결정이 배치되지 않음<<",
+      "TW": "尚未放置水晶"
+    }
   },
   ">>Defence for 20 seconds<<": {
-    "translation": ">>防守20秒<<"
+    "translation": ">>防守20秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>20秒間防衛<<",
+      "CN": "<<防御持续20秒>>",
+      "KR": ">>20초간 방어 중<<",
+      "TW": "防禦持續 20 秒"
+    }
   },
   ">>Defence for 30 seconds<<": {
-    "translation": ">>防守30秒<<"
+    "translation": ">>防守30秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>30秒間防衛<<",
+      "CN": "<<防御持续30秒>>",
+      "KR": ">>30초간 방어 중<<",
+      "TW": "防禦持續 30 秒"
+    }
   },
   ">>ESCAPE HERE!!!RUN BACK!!!<<": {
-    "translation": ">>从这里逃跑！！！往回跑！！！<<"
+    "translation": ">>从这里逃跑！！！往回跑！！！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ここから逃げろ！！！戻れ！！！<<",
+      "CN": "<<这里突围！！！快跑回去！！！",
+      "KR": ">>여기서 탈출!!! 되돌아오세요!!!<<",
+      "TW": "從這裡逃離！！！快回來！！！"
+    }
   },
   ">>Finding the Crystal<<": {
-    "translation": ">>寻找水晶<<"
+    "translation": ">>寻找水晶<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>クリスタルを発見<<",
+      "CN": "<<寻找水晶>>",
+      "KR": ">>결정 찾는 중<<",
+      "TW": "尋找水晶"
+    }
   },
   ">>Flame Nova cast will succeed in 10 seconds<<": {
-    "translation": ">>烈焰新星将在10秒内施放成功<<"
+    "translation": ">>烈焰新星将在10秒内施放成功<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>フレイムノヴァの詠唱が10秒後に成功します<<",
+      "CN": "<<火焰新星施法将在10秒内成功>>",
+      "KR": ">>플레임 노바 시전이 10초 후에 성공합니다<<",
+      "TW": "烈焰新星技能将在 10 秒后施放成功"
+    }
   },
   ">>GET ON THE AIRSHIP!!!<<": {
-    "translation": ">>上飞船！！！<<"
+    "translation": ">>上飞船！！！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>飛行船に搭乗せよ！<<",
+      "CN": ">>登上飞空艇！！！<<",
+      "KR": ">>기구에 탑승하라!!!<<",
+      "TW": ">>登上飛空艇！<<"
+    }
   },
   ">>Go to the Palace<<": {
-    "translation": ">>前往宫殿<<"
+    "translation": ">>前往宫殿<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>王宮へ移動する<<",
+      "CN": ">>前往宫殿<<",
+      "KR": ">>궁전으로 이동<<",
+      "TW": ">>前往皇宮<<"
+    }
   },
   ">>Go to the Stela<<": {
-    "translation": ">>前往石碑<<"
+    "translation": ">>前往石碑<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>石碑へ移動する<<",
+      "CN": ">>前往石碑<<",
+      "KR": ">>비석으로 이동<<",
+      "TW": ">>前往石碑<<"
+    }
   },
   ">>HE ESCAPED!!!VOID GATE HAS OPENED NOW!!!CATCH UP!!!<<": {
-    "translation": ">>他逃跑了！！！虚空之门现在已经打开！！！追上去！！！<<"
+    "translation": ">>他逃跑了！！！虚空之门现在已经打开！！！追上去！！！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>彼が逃亡した！虚空の門が開いた！追え！！<<",
+      "CN": ">>他逃跑了！！！虚空之门已开启！！！追上去！！！<<",
+      "KR": ">>그가 탈출했다!!! 공백의 문이 열렸다!!! 추격하라!!!<<",
+      "TW": ">>他逃走了！虛空之門已開啟！快追！！<<"
+    }
   },
   ">>He is casting <Shadow Bringer><<": {
-    "translation": ">>他正在施放 <暗影使者> <<"
+    "translation": ">>他正在施放 <暗影使者> <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>彼は『影の召喚者』を唱えています<<",
+      "CN": ">>他正在施放<阴影使者>技能<<",
+      "KR": ">>그가 <섀도 브링어>를 시전 중입니다<<",
+      "TW": ">>他正在施放<Shadow Bringer><<"
+    }
   },
   ">>Hold for 20 seconds<<": {
-    "translation": ">>防守20秒<<"
+    "translation": ">>防守20秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>20秒間待機する<<",
+      "CN": ">>坚持20秒<<",
+      "KR": ">>20초간 유지<<",
+      "TW": ">>持續20秒<<"
+    }
   },
   ">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<": {
-    "translation": ">>似乎有人在阻挡道路<<"
+    "translation": ">>似乎有人在阻挡道路<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>誰かが道を塞いでいるようです<<",
+      "CN": ">>似乎有人挡住了去路<<",
+      "KR": ">>누군가 길을 막고 있다<<",
+      "TW": ">>似乎有人阻擋了去路<<"
+    }
   },
   ">>Its ice dragon<<": {
-    "translation": ">>它是冰龙<<"
+    "translation": ">>它是冰龙<<",
+    "MultiLang": {
+      "US": ">>Its Ice Dragon<<",
+      "JP": ">>冰龍です<<",
+      "CN": ">>它是冰龙<<",
+      "KR": ">>얼음 용이다<<",
+      "TW": ">>它是冰龍<<\""
+    }
   },
   ">>KEEP DEFENCE<<": {
-    "translation": ">>继续防守<<"
+    "translation": ">>继续防守<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "防衛を維持せよ",
+      "CN": ">>坚守阵地<<",
+      "KR": ">>방어 유지<<",
+      "TW": "保持防禦！"
+    }
   },
   ">>KILL HIM!!!<<": {
-    "translation": ">>杀了他！！！<<"
+    "translation": ">>杀了他！！！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼を撃ち殺せ！！！",
+      "CN": ">>干掉他！！！<<",
+      "KR": ">>그 놈을 처치해!!!",
+      "TW": "殺了他！"
+    }
   },
   ">>Map by Tenshi.<<": {
-    "translation": ">>地图作者：Tenshi. 翻译：Asteri3m<<"
+    "translation": ">>地图作者：Tenshi. 翻译：Asteri3m<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：天竺",
+      "CN": ">>地图由 Tenshi 制作。<<",
+      "KR": ">>맵 제작: Tenshi.",
+      "TW": "地圖製作：Tenshi"
+    }
   },
   ">>OH!IT'S SHADOW GUARD<<": {
-    "translation": ">>哦！是影子守卫<<"
+    "translation": ">>哦！是影子守卫<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "オッ！シャドールガードだ",
+      "CN": ">>OH！是暗影守卫<<",
+      "KR": ">>오! 섀도 가드다!",
+      "TW": "哦！是暗影守卫！"
+    }
   },
   ">>RUN OUT OF HERE!!!<<": {
-    "translation": ">>从这里逃出去！！！<<"
+    "translation": ">>从这里逃出去！！！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここから逃げろ！！！",
+      "CN": ">>快从这里逃走！！！<<",
+      "KR": ">>여기서 도망쳐!!!",
+      "TW": "快逃離這裡！"
+    }
   },
   ">>SHOOT IT!!!<<": {
-    "translation": ">>射击它！！！<<"
+    "translation": ">>射击它！！！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "撃て！！！",
+      "CN": ">>射击它！！！<<",
+      "KR": ">>사격!!!",
+      "TW": "射擊它！"
+    }
   },
   ">>Something forthcoming<<": {
-    "translation": ">>即将来临<<"
+    "translation": ">>即将来临<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>近々公開<<",
+      "CN": ">>即将发生的某事<<",
+      "KR": ">>언젠가 오게 될 것<<",
+      "TW": "即將推出的內容"
+    }
   },
   ">>Special Thanks: Lopb, @Seth, Kxnrl<<": {
-    "translation": ">>特别感谢：Lopb, @Seth, Kxnrl<<"
+    "translation": ">>特别感谢：Lopb, @Seth, Kxnrl<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>特別感謝：Lopb、@Seth、Kxnrl<<",
+      "CN": ">>特别感谢：Lopb, @Seth, Kxnrl<<",
+      "KR": ">>특별 감사: Lopb, @Seth, Kxnrl<<",
+      "TW": "特別感謝：Lopb, @Seth, Kxnrl"
+    }
   },
   ">>Stage 1<<": {
-    "translation": ">>第1关<<"
+    "translation": ">>第1关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>第1ステージ<<",
+      "CN": ">>关卡 1<<",
+      "KR": ">>Stage 1<<",
+      "TW": ">>關卡 1<<"
+    }
   },
   ">>Stage 2<<": {
-    "translation": ">>第2关<<"
+    "translation": ">>第2关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>第2ステージ<<",
+      "CN": ">>关卡 2<<",
+      "KR": ">>Stage 2<<",
+      "TW": ">>關卡 2<<"
+    }
   },
   ">>Stage 3<<": {
-    "translation": ">>第3关<<"
+    "translation": ">>第3关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>第3ステージ<<",
+      "CN": ">>关卡 3<<",
+      "KR": ">>Stage 3<<",
+      "TW": ">>關卡 3<<"
+    }
   },
   ">>Stage 4<<": {
-    "translation": ">>第4关<<"
+    "translation": ">>第4关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>第4ステージ<<",
+      "CN": ">>关卡 4<<",
+      "KR": ">>Stage 4<<",
+      "TW": ">>關卡 4<<"
+    }
   },
   ">>Stage 5<<": {
-    "translation": ">>第5关<<"
+    "translation": ">>第5关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>第5ステージ<<",
+      "CN": ">>关卡 5<<",
+      "KR": ">>Stage 5<<",
+      "TW": ">>關卡 5<<"
+    }
   },
   ">>Stage Failed<<": {
-    "translation": ">>你失败了<<"
+    "translation": ">>你失败了<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ステージ失敗<<",
+      "CN": ">>关卡失败<<",
+      "KR": ">>Stage Failed<<",
+      "TW": ">>關卡失敗<<"
+    }
   },
   ">>THE AIRSHIP LEAVING IN 15 SEC<<": {
-    "translation": ">>飞船将在15秒内离开<<"
+    "translation": ">>飞船将在15秒内离开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>15秒後に飛行船が発進します<<",
+      "CN": "飞艇将于 15 秒后离开",
+      "KR": ">>THE AIRSHIP LEAVING IN 15 SEC<<",
+      "TW": ">>空中飛船將在 15 秒後起飛<<"
+    }
   },
   ">>The Flame Domain Gate will open in 30 seconds<<": {
-    "translation": ">>烈焰领域之门将在30秒内打开<<"
+    "translation": ">>烈焰领域之门将在30秒内打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>30秒後に炎の領域の門が開きます<<",
+      "CN": "火焰领域之门将在 30 秒后开启",
+      "KR": ">>The Flame Domain Gate will open in 30 seconds<<",
+      "TW": ">>烈焰領域門戶將於 30 秒後開啟<<"
+    }
   },
   ">>The Gate will close in 70 seconds<<": {
-    "translation": ">>大门将在70秒内关闭<<"
+    "translation": ">>大门将在70秒内关闭<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>70秒以内にゲートが閉じます<<",
+      "CN": ">>70秒后大门关闭<<",
+      "KR": ">>70초 이내에 게이트가 닫힙니다<<",
+      "TW": "大門將在 70 秒後關閉"
+    }
   },
   ">>The Stela will activate in 15 seconds<<": {
-    "translation": ">>石碑将在15秒内激活<<"
+    "translation": ">>石碑将在15秒内激活<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>15秒後に石塔が起動します<<",
+      "CN": ">>15秒后石碑激活<<",
+      "KR": ">>15초 이내로 석비가 활성화됩니다<<",
+      "TW": "石碑將在 15 秒後啟動"
+    }
   },
   ">>The Void Gate will open in 30 seconds<<": {
-    "translation": ">>虚空之门将在30秒内打开<<"
+    "translation": ">>虚空之门将在30秒内打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>30秒以内に虚空のゲートが開きます<<",
+      "CN": ">>30秒后虚空之门开启<<",
+      "KR": ">>30초 이내에 공허의 게이트가 열립니다<<",
+      "TW": "虛空之門將在 30 秒後開啟"
+    }
   },
   ">>The crystal has been placed<<": {
-    "translation": ">>水晶已放置<<"
+    "translation": ">>水晶已放置<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>クリスタルが設置されました<<",
+      "CN": ">>水晶已放置<<",
+      "KR": ">>결정이 설치되었습니다<<",
+      "TW": "水晶已放置完畢"
+    }
   },
   ">>The door on the left has opened<<": {
-    "translation": ">>左边的门已打开<<"
+    "translation": ">>左边的门已打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>左側のドアが開きました<<",
+      "CN": ">>左侧门已开启<<",
+      "KR": ">>왼쪽 문이 열렸습니다<<",
+      "TW": "左側的大門已經開啟"
+    }
   },
   ">>The door on the right has opened<<": {
-    "translation": ">>右边的门已打开<<"
+    "translation": ">>右边的门已打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>右側のドアが開きました<<",
+      "CN": ">>右侧门已开启<<",
+      "KR": ">>오른쪽 문이 열렸습니다<<",
+      "TW": "右側的大門已經開啟"
+    }
   },
   ">>The door will close in 20 seconds<<": {
-    "translation": ">>门将在20秒内关闭<<"
+    "translation": ">>门将在20秒内关闭<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>20秒以内にドアが閉じます<<",
+      "CN": ">>20秒后门将关闭<<",
+      "KR": ">>20초 이내에문이 닫힙니다<<",
+      "TW": "大門將在 20 秒後關閉"
+    }
   },
   ">>The door will open in 20 seconds<<": {
-    "translation": ">>门将在20秒内打开<<"
+    "translation": ">>门将在20秒内打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>20秒以内にドアが開きます<<",
+      "CN": ">>20秒后门将开启<<",
+      "KR": ">>20초 이내로 문이 열립니다<<",
+      "TW": "大門將在 20 秒後開啟"
+    }
   },
   ">>The door will open in 25 seconds<<": {
-    "translation": ">>门将在25秒内打开<<"
+    "translation": ">>门将在25秒内打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ドアが25秒後に開きます<<",
+      "CN": ">>门将在25秒后开启<<",
+      "KR": ">>문이 25초 후 열립니다<<",
+      "TW": "門將在 25 秒後開啟"
+    }
   },
   ">>The door will open in 30 seconds<<": {
-    "translation": ">>门将在30秒内打开<<"
+    "translation": ">>门将在30秒内打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ドアが30秒後に開きます<<",
+      "CN": ">>门将在30秒后开启<<",
+      "KR": ">>문이 30초 후 열립니다<<",
+      "TW": "門將在 30 秒後開啟"
+    }
   },
   ">>The elevator will leave in 15 seconds<<": {
-    "translation": ">>电梯将在15秒内离开<<"
+    "translation": ">>电梯将在15秒内离开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>エレベーターが15秒後に出発します<<",
+      "CN": ">>电梯将在15秒后离开<<",
+      "KR": ">>엘리베이터가 15초 후 출발합니다<<",
+      "TW": "電梯將在 15 秒後離開"
+    }
   },
   ">>The elevator will rise in 30 seconds<<": {
-    "translation": ">>电梯将在30秒内上升<<"
+    "translation": ">>电梯将在30秒内上升<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>エレベーターが30秒後に上昇します<<",
+      "CN": ">>电梯将在30秒后上升<<",
+      "KR": ">>엘리베이터가 30초 후 상승합니다<<",
+      "TW": "電梯將在 30 秒後上升"
+    }
   },
   ">>The rock will break in 15 seconds<<": {
-    "translation": ">>岩石将在15秒内破裂<<"
+    "translation": ">>岩石将在15秒内破裂<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>岩が15秒後に壊れます<<",
+      "CN": ">>岩石将在15秒后破裂<<",
+      "KR": ">>돌이 15초 후 부수어집니다<<",
+      "TW": "岩石將在 15 秒後破裂"
+    }
   },
   ">>The rock will break in 25 seconds<<": {
-    "translation": ">>岩石将在25秒内破裂<<"
+    "translation": ">>岩石将在25秒内破裂<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>岩が25秒後に壊れます<<",
+      "CN": ">>岩石将在25秒后破裂<<",
+      "KR": ">>돌이 25초 후 부수어집니다<<",
+      "TW": "岩石將在 25 秒後破裂"
+    }
   },
   ">>The rock will break in 30 seconds<<": {
-    "translation": ">>岩石将在30秒内破裂<<"
+    "translation": ">>岩石将在30秒内破裂<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>岩が30秒後に壊れます<<",
+      "CN": ">>岩石将在30秒后破裂<<",
+      "KR": ">>돌이 30초 후 부수어집니다<<",
+      "TW": "岩石將在 30 秒後破裂"
+    }
   },
   ">>The rock will break in 40 seconds<<": {
-    "translation": ">>岩石将在40秒内破裂<<"
+    "translation": ">>岩石将在40秒内破裂<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>岩が40秒後に壊れます<<",
+      "CN": ">>岩石将在40秒后破裂<<",
+      "KR": ">>돌이 40초 후 부수어집니다<<",
+      "TW": "岩石將在 40 秒後破裂"
+    }
   },
   ">>The side door will open in 10 seconds<<": {
-    "translation": ">>侧门将在10秒内打开<<"
+    "translation": ">>侧门将在10秒内打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>側面ドアが10秒後に開きます<<",
+      "CN": "侧门将在10秒后打开",
+      "KR": "<<측면문이 10초 후에 열립니다>>",
+      "TW": "<<側門將在 10 秒後開啟>>"
+    }
   },
   ">>The teleporter will be ready in 15 seconds<<": {
-    "translation": ">>传送门将在15秒内就绪<<"
+    "translation": ">>传送门将在15秒内就绪<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>テレポート準備まであと15秒<<",
+      "CN": "传送器将在15秒后就绪",
+      "KR": "<<텔레포터가 15초 후에 준비됩니다>>",
+      "TW": "<<瞬間轉移裝置將在 15 秒後就緒>>"
+    }
   },
   ">>The teleporter will be ready in 20 seconds<<": {
-    "translation": ">>传送门将在20秒内就绪<<"
+    "translation": ">>传送门将在20秒内就绪<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>テレポート準備まであと20秒<<",
+      "CN": "传送器将在20秒后就绪",
+      "KR": "<<텔레포터가 20초 후에 준비됩니다>>",
+      "TW": "<<瞬間轉移裝置將在 20 秒後就緒>>"
+    }
   },
   ">>The town gate will open in 15 seconds<<": {
-    "translation": ">>城门将在15秒内打开<<"
+    "translation": ">>城门将在15秒内打开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>町門が15秒後に開きます<<",
+      "CN": "城镇大门将在15秒后打开",
+      "KR": "<<도시 성문이 15초 후에 열립니다>>",
+      "TW": "<<城鎮大門將在 15 秒後開啟>>"
+    }
   },
   ">>WE DEFEAT HIM<<": {
-    "translation": ">>我们打败了他<<"
+    "translation": ">>我们打败了他<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>我らは彼を倒した<<",
+      "CN": "我们击败了他",
+      "KR": "<<우리가 그를 꺾는다>>",
+      "TW": "我們將擊敗他>>"
+    }
   },
   ">>WE HAVE DESTROYED IT<<": {
-    "translation": ">>我们摧毁了它<<"
+    "translation": ">>我们摧毁了它<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>我らはそれを破壊した<<",
+      "CN": "我们摧毁了它",
+      "KR": "<<우리가 그것을 파괴했다>>",
+      "TW": "我們摧毀了它>>"
+    }
   },
   ">>WE WILL BE ABLE TO LEAVE SOON<<": {
-    "translation": ">>我们很快就能离开<<"
+    "translation": ">>我们很快就能离开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>間もなく脱出可能になる<<",
+      "CN": "我们很快就能离开",
+      "KR": "<<우리는 곧 떠날 수 있을 것입니다>>",
+      "TW": "<<我們將很快離開>>"
+    }
   },
   ">>Wait for 20 seconds<<": {
-    "translation": ">>等待20秒<<"
+    "translation": ">>等待20秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>20秒待つ<<",
+      "CN": "等待20秒",
+      "KR": "<<20초 동안 기다립니다>>",
+      "TW": "<<等待 20 秒>>"
+    }
   },
   ">>Wait for 6 seconds<<": {
-    "translation": ">>等待6秒<<"
+    "translation": ">>等待6秒<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>6秒間待機<<",
+      "CN": "等待6秒",
+      "KR": "<<6초 대기>>",
+      "TW": ">>等待6秒<<"
+    }
   },
   ">>ZM<<": {
-    "translation": ">>ZM关<<"
+    "translation": ">>ZM关<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ZM<<",
+      "CN": "ZM",
+      "KR": "<<ZM>>",
+      "TW": ">>ZM<<"
+    }
   },
   ">>Zombies get in<<": {
-    "translation": ">>僵尸进来<<"
+    "translation": ">>僵尸进来<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ゾンビが侵入<<",
+      "CN": "丧尸进入",
+      "KR": "<<좀비가 안으로 들어옴>>",
+      "TW": ">>殭屍進入<<"
+    }
   },
   ">>Zombies get on<<": {
-    "translation": ">>僵尸上船<<"
+    "translation": ">>僵尸上船<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ゾンビが搭乗<<",
+      "CN": "丧尸跳上",
+      "KR": "<<좀비가 올라옴>>",
+      "TW": ">>殭屍登上<<"
+    }
   },
   ">>Zombies get out<<": {
-    "translation": ">>僵尸出去<<"
+    "translation": ">>僵尸出去<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ゾンビが降車<<",
+      "CN": "丧尸跳出",
+      "KR": "<<좀비가 밖으로 나감>>",
+      "TW": ">>殭屍離開<<"
+    }
   },
   ">>ze_S_A_M ver:2.2.7<<": {
-    "translation": ">>ze_S_A_M 版本：2.2.7<<"
+    "translation": ">>ze_S_A_M 版本：2.2.7<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ze_S_A_M ver:2.2.7<<",
+      "CN": "ze_S_A_M 版本：2.2.7",
+      "KR": "<<ze_S_A_M ver:2.2.7>>",
+      "TW": ">>ze_S_A_M 版本:2.2.7<<"
+    }
   },
   ">> Current shared damage: 500 <<": {
-    "translation": ">>当前共享伤害：500<<"
+    "translation": ">>当前共享伤害：500<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 現在の共有ダメージ: 500 <<",
+      "CN": "当前共享伤害：500",
+      "KR": "<<현재 공유 피해량: 500>>",
+      "TW": ">>當前共享傷害：500 <<"
+    }
   },
   ">> Current shared damage: 200 <<": {
-    "translation": ">>当前共享伤害：200<<"
+    "translation": ">>当前共享伤害：200<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 現在の共有ダメージ: 200 <<",
+      "CN": "当前共享伤害：200",
+      "KR": "<<현재 공유 피해량: 200>>",
+      "TW": ">>當前共享傷害：200 <<"
+    }
   },
   ">> Current shared damage: 150 <<": {
-    "translation": ">>当前共享伤害：150<<"
+    "translation": ">>当前共享伤害：150<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 現在の共有ダメージ: 150 <<",
+      "CN": ">> 当前共享伤害：150 <<",
+      "KR": ">> 현재 공유 피해량: 150 <<",
+      "TW": ">> 目前共享傷害：150 <<"
+    }
   },
   ">>Looks like this is a small path, break the metalfence<<": {
-    "translation": ">>这里看起来是一条小路，打破金属栅栏<<"
+    "translation": ">>这里看起来是一条小路，打破金属栅栏<<",
+    "MultiLang": {
+      "US": ">>Seems like this is a narrow path, break the metal fence<<",
+      "JP": ">> よさそうな小道です、金属フェンスを壊してください <<",
+      "CN": ">> 看来这是一条小路，打破金属栅栏 <<",
+      "KR": ">> 작은 길로 보이는군, 메탈파스를 부수자 <<",
+      "TW": ">> 這看來是一條小路，擊破金屬柵欄 <<"
+    }
   },
   ">>The elevator will leave in 5 seconds<<": {
-    "translation": ">>电梯将在5秒后离开<<"
+    "translation": ">>电梯将在5秒后离开<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 5秒後にエレベーターが発車します <<",
+      "CN": ">> 电梯将在5秒后离开 <<",
+      "KR": ">> 엘리베이터가 5초 후에 떠납니다 <<",
+      "TW": ">> 電梯將在 5 秒後離去 <<"
+    }
   },
   ">>The library door will open in 30 seconds<<": {
-    "translation": ">>图书馆门将在30秒后开启<<"
+    "translation": ">>图书馆门将在30秒后开启<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒後に図書館のドアが開きます <<",
+      "CN": ">> 图书馆门将在30秒后打开 <<",
+      "KR": ">> 도서관문이 30초 후에 열립니다 <<",
+      "TW": ">> 圖書館門将在 30 秒後開啟 <<"
+    }
   },
   ">>The door will open in 15 seconds<<": {
-    "translation": ">>门将在15秒后开启<<"
+    "translation": ">>门将在15秒后开启<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 15秒後にドアが開きます <<",
+      "CN": ">> 门将在15秒后打开 <<",
+      "KR": ">> 문이 15초 후에 열립니다 <<",
+      "TW": ">> 門将在 15 秒後開啟 <<"
+    }
   },
   ">>ze_S_A_M ver:2.2.8<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ze_S_A_M ver:2.2.8<<",
+      "CN": ">> ze_S_A_M ver:2.2.8 <<",
+      "KR": ">> ze_S_A_M ver:2.2.8 <<",
+      "TW": ">> ze_S_A_M 版本：2.2.8 <<"
+    }
   },
   ">> Current shared damage: 40 <<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 現在の共有ダメージ: 40 <<",
+      "CN": ">> 当前共享伤害：40 <<",
+      "KR": ">> 현재 공유 피해량: 40 <<",
+      "TW": ">> 目前共享傷害：40 <<"
+    }
+  },
+  ">> Current shared damage: 175 <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 現在の共有ダメージ: 175 <<",
+      "CN": ">> 当前共享伤害：175 <<",
+      "KR": ">> 현재 공유 피해량: 175 <<",
+      "TW": ">> 目前共享傷害：175 <<"
+    }
+  },
+  ">>ze_S_A_M ver:2.2.9<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ze_S_A_M ver:2.2.9<<",
+      "CN": ">>ze_S_A_M 版本:2.2.9<<",
+      "KR": ">>ze_S_A_M ver:2.2.9<<",
+      "TW": ">>ze_S_A_M 版本:2.2.9<<"
+    }
+  },
+  ">>ze_S_A_M ver:2.3.1<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ze_S_A_M ver:2.3.1<<",
+      "CN": ">>ze_S_A_M 版本:2.3.1<<",
+      "KR": ">>ze_S_A_M ver:2.3.1<<",
+      "TW": ">>ze_S_A_M 版本:2.3.1<<"
+    }
+  },
+  ">>ze_S_A_M ver:2.3.4<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ze_S_A_M ver:2.3.4<<",
+      "CN": ">>ze_S_A_M 版本:2.3.4<<",
+      "KR": ">>ze_S_A_M ver:2.3.4<<",
+      "TW": ">>ze_S_A_M 版本:2.3.4<<"
+    }
+  },
+  ">>Wait for 10 seconds<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒お待ちください",
+      "CN": ">>等待10秒<<",
+      "KR": "10초간 대기하세요",
+      "TW": "等待10秒"
+    }
+  },
+  "**A Player has picked up <Dragon Ore>**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが<ドラゴンの鉱石>を拾いました",
+      "CN": "**一名玩家拾取了<龙矿石>**",
+      "KR": "**플레이어가 용석 채취**",
+      "TW": "**一名玩家撿取了<龍之礦石>**"
+    }
+  },
+  ">>You found the <Dragon Ore>, Kirito will unlock new skill<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ドラゴンの鉱石>>を発見しました。キリトが新しいスキルを解放します",
+      "CN": ">>你发现了<龙矿石>，桐人将解锁新技能<<",
+      "KR": ">>용석을 발견하셨습니다. 키리토가 새로운 스킬을 습득합니다.**<<",
+      "TW": ">>您找到了<龍之礦石>，Kirito將解鎖新技能<<"
+    }
+  },
+  ">>ze_S_A_M ver:2.3.5<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ze_S_A_M ver:2.3.5<<",
+      "CN": ">>ze_S_A_M 版本:2.3.5<<",
+      "KR": ">>ze_S_A_M ver:2.3.5<<",
+      "TW": ">>ze_S_A_M 版本:2.3.5<<"
+    }
+  },
+  ">>ze_S_A_M ver:2.3.6<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ze_S_A_M ver:2.3.6<<",
+      "CN": ">>ze_S_A_M 版本:2.3.6<<",
+      "KR": ">>ze_S_A_M ver:2.3.6<<",
+      "TW": ">>ze_S_A_M 版本:2.3.6<<"
+    }
+  },
+  ">>ze_S_A_M ver:2.3.7<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ze_S_A_M ver:2.3.7<<",
+      "CN": ">>ze_S_A_M ver:2.3.7<<",
+      "KR": ">>ze_S_A_M ver:2.3.7<<",
+      "TW": ">>ze_S_A_M ver:2.3.7<<"
+    }
   }
 }

@@ -1,158 +1,692 @@
 {
   "-- STAGE I - EASY MODE --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- ステージ I - イージーモード --",
+      "CN": "-- 第一阶段 - 简单模式 --",
+      "KR": "-- 스테이지 I - 쉬움 모드 --",
+      "TW": "-- 第一關 - 簡單模式 --"
+    }
   },
   "-- 15 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "--- ze_sky_fantasy_v2 ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- ze_sky_fantasy_v2 ---",
+      "CN": "--- ze_sky_fantasy_v2 ---",
+      "KR": "--- ze_sky_fantasy_v2 ---",
+      "TW": "--- ze_sky_fantasy_v2 ---"
+    }
   },
   "--- Map by Misaka ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- Map by Misaka ---",
+      "CN": "--- 地图作者：Misaka ---",
+      "KR": "--- 맵 제작: Misaka ---",
+      "TW": "--- 地圖由 Misaka 設計 ---"
+    }
   },
   "--- Rework by K.KID ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- Rework by K.KID ---",
+      "CN": "--- 重制：K.KID ---",
+      "KR": "--- 리워크: K.KID ---",
+      "TW": "--- 重製由 K.KID 完成 ---"
+    }
   },
   "<< A player has picked up heal magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが回復魔法を獲得しました >>",
+      "CN": "<< 玩家拾取了治疗魔法 >>",
+      "KR": "<< 플레이어가 치유 마법을 집어들었습니다 >>",
+      "TW": "<< 一名玩家拾取了治療魔法 >>"
+    }
   },
   "-- 20 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "--25 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "-- 25 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "-- 10 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "-- 85 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "-- 33 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<< STAGE COMPLETE >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ステージクリア >>",
+      "CN": "<< 关卡完成 >>",
+      "KR": "<< 스테이지 완료 >>",
+      "TW": "<< 關卡通過 >>"
+    }
   },
   "-- STAGE II - NORMAL MODE --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- ステージ II - ノーマルモード --",
+      "CN": "-- 第二阶段 - 普通模式 --",
+      "KR": "-- 스테이지 II - 보통 모드 --",
+      "TW": "-- 第二關 - 普通模式 --"
+    }
   },
   "<< A zombie has picked up gravity magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビーが重力魔法を獲得しました >>",
+      "CN": "<< 僵尸拾取了重力魔法 >>",
+      "KR": "<< 좀비가 중력 마법을 집어들었습니다 >>",
+      "TW": "<< 一名殭屍拾取了重力魔法 >>"
+    }
   },
   "-- STAGE III - HARD MODE --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "—— 第IIIステージ・ハードモード ——",
+      "CN": "—— 第三阶段 - 困难模式 ——",
+      "KR": "-- 스테이지 III - 하드 모드 --",
+      "TW": "-- 第三階段 - 困難模式 --"
+    }
   },
   "<< A player has picked up water magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが水属性魔法を取得しました >>",
+      "CN": "<< 一名玩家拾取了水之魔法 >>",
+      "KR": "<< 한 명의 플레이어가 물 마법을 습득했습니다 >>",
+      "TW": "<< 一名玩家已取得水之魔法 >>"
+    }
   },
   "- MISAKA is blocking our way!!! -": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ミサカが進路を阻んでいる!!! -",
+      "CN": "- 御坂美琴挡住了我们的去路！！！ -",
+      "KR": "- 미사카가 우리의 길을 가로막습니다!!! -",
+      "TW": "- 御坂美琴擋住了我們的去路！！！ -"
+    }
   },
   "--- Creation Shield ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- クリエイションシールド ---",
+      "CN": "--- 创界神盾 ---",
+      "KR": "--- 창조 방패 ---",
+      "TW": "--- 創生之盾 ---"
+    }
   },
   "--- Flash Cannon ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- フラッシュキャノン ---",
+      "CN": "--- 光波强击 ---",
+      "KR": "--- 플래시 캐논 ---",
+      "TW": "--- 閃光炮 ---"
+    }
   },
   "--- Pure Fury ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- ピュアフューリー ---",
+      "CN": "--- 纯白狂怒 ---",
+      "KR": "--- 순수한 분노 ---",
+      "TW": "--- 純真狂怒 ---"
+    }
   },
   "--- Rainbow Cage ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- レインボウケージ ---",
+      "CN": "--- 彩虹牢笼 ---",
+      "KR": "--- 레인보우 케이지 ---",
+      "TW": "--- 彩虹牢籠 ---"
+    }
   },
   "--- Rotating Blade ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- ローティングブレード ---",
+      "CN": "--- 旋转利刃 ---",
+      "KR": "--- 회전 검날 ---",
+      "TW": "--- 旋轉刀刃 ---"
+    }
   },
   "--- Ominous Wind ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 不気味な風 ---",
+      "CN": "--- 不祥之风 ---",
+      "KR": "--- 불길한 바람 ---",
+      "TW": "--- 預兆之風 ---"
+    }
   },
   "--- Tesla dead...... ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- テスラ死亡...... ---",
+      "CN": "--- 特斯拉已死...... ---",
+      "KR": "--- 테슬라 사망...... ---",
+      "TW": "--- Tesla 死亡…… ---"
+    }
   },
   "-- 50 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "-- STAGE IV - LUNATIC MODE --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- ステージ IV - 狂気モード --",
+      "CN": "-- 第四阶段 - 狂气模式 --",
+      "KR": "-- STAGE IV - LUNATIC MODE --",
+      "TW": "-- 第四關目 - 瘋狂模式 --"
+    }
   },
   "--- Fallen Star ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 堕ちた星 ---",
+      "CN": "--- 陨星 ---",
+      "KR": "--- 낙하하는 별 ---",
+      "TW": "--- 墜落之星 ---"
+    }
   },
   "--- Aurora Veil ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- オーロラの幕 ---",
+      "CN": "--- 极光幕 -- -",
+      "KR": "--- 오로라 베일 ---",
+      "TW": "--- 極光帷幕 ---"
+    }
   },
   "--- Pressure ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 圧力 ---",
+      "CN": "--- 压迫感 ---",
+      "KR": "--- 압력 ---",
+      "TW": "--- 壓迫感 ---"
+    }
   },
   "--- Sinister Omen ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 不吉な兆候 ---",
+      "CN": "--- 邪恶预兆 ---",
+      "KR": "--- 흉조 ---",
+      "TW": "--- 邪惡徵兆 ---"
+    }
   },
   "--- Earth Power ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 大地の力 ---",
+      "CN": "--- 大地之力 ---",
+      "KR": "--- 지구의 힘 ---",
+      "TW": "--- 大地之力 ---"
+    }
   },
   "-- 90 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "STAGE V - NIGHTMARE MODE": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージV - ナイトメアモード",
+      "CN": "第五章 - 噩梦模式",
+      "KR": "STAGE V - NIGHTMARE MODE",
+      "TW": "關卡五 - 夢魘模式"
+    }
   },
   "<< TESLA COMING >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< テスラ接近 >>",
+      "CN": "<< 特斯拉即将登场 >>",
+      "KR": "<< TESLA COMING >>",
+      "TW": "<< 特斯拉來襲 >>"
+    }
   },
   "-- 30 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "-- 40 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "--- Prepare to face the real FANTASY ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 本当のファンタジーと対峙する準備をせよ ---",
+      "CN": "--- 准备面对真正的幻想 ---",
+      "KR": "--- Prepare to face the real FANTASY ---",
+      "TW": "--- 準備好面對真正的奇幻世界 ---"
+    }
   },
   "--- Boss is using ULTIMATE FIRE!!! Use Water or Heal to reduce the damage!!! ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- ボスが究極技ファイヤーを使用!!! 攻撃ダメージを軽減するため、水魔法または回復魔法を使用せよ!!! ---",
+      "CN": "--- Boss正在使用终极火焰！！！请用水系魔法或治疗来减轻伤害！！！---",
+      "KR": "--- Boss is using ULTIMATE FIRE!!! Use Water or Heal to reduce the damage!!! ---",
+      "TW": "--- Boss正在使用極限火術！！！請使用水系或治療技能來減少傷害！！！ ---"
+    }
   },
   "<< A player has picked up earth magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレーヤーがアースの魔法を取得 >>",
+      "CN": "<< 一名玩家获得了大地魔法 >>",
+      "KR": "<< A player has picked up earth magic >>",
+      "TW": "<< 一名玩家已拾取大地魔法 >>"
+    }
   },
   "<< A player has picked up fantasy crystal >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレーヤーがファンタジークリスタルを取得 >>",
+      "CN": "<< 一名玩家获得了幻想水晶 >>",
+      "KR": "<< A player has picked up fantasy crystal >>",
+      "TW": "<< 一名玩家已拾取奇幻水晶 >>"
+    }
   },
   "<< A player has picked up electro magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレーヤーがエレクトロの魔法を取得 >>",
+      "CN": "<< 一名玩家获得了雷电魔法 >>",
+      "KR": "<< A player has picked up electro magic >>",
+      "TW": "<< 一名玩家已拾取電擊魔法 >>"
+    }
   },
   "<< A player has picked up wind magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレーヤーがウィンドの魔法を取得 >>",
+      "CN": "<< 一名玩家获得了风系魔法 >>",
+      "KR": "<< A player has picked up wind magic >>",
+      "TW": "<< 一名玩家已拾取風之魔法 >>"
+    }
   },
   "<< A player has picked up holy magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あるプレイヤーが聖魔法を獲得しました >>",
+      "CN": "<<一名玩家拾取了神圣魔法>>",
+      "KR": "<< 한 플레이어가 신성한 마법을 획득했습니다 >>",
+      "TW": "<< 一名玩家獲得了神聖魔法 >>"
+    }
   },
   "<< Zombie ESCAPE!!! >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビー脱出!!! >>",
+      "CN": "<<僵尸逃脱！！！！>>",
+      "KR": "<< 좀비 도주 중!!! >>",
+      "TW": "<< 殭屍逃跑了！！！>>"
+    }
   },
   "<< A zombie has picked up nuke magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あるゾンビーが核魔法を獲得しました >>",
+      "CN": "<<一名僵尸拾取了核弹魔法>>",
+      "KR": "<< 좀비가 핵 마법을 획득했습니다 >>",
+      "TW": "<< 一名殭屍獲得了核彈魔法 >>"
+    }
   },
   "<< A zombie has picked up heal magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あるゾンビーが回復魔法を獲得しました >>",
+      "CN": "<<一名僵尸拾取了治疗魔法>>",
+      "KR": "<< 좀치가 치유 마법을 획득했습니다 >>",
+      "TW": "<< 一名殭屍獲得了治療魔法 >>"
+    }
   },
   "<< A zombie has picked up ice magic >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あるゾンビーが氷魔法を獲得しました >>",
+      "CN": "<<一名僵尸拾取了冰霜魔法>>",
+      "KR": "<< 좀비가 빙결 마법을 획득했습니다 >>",
+      "TW": "<< 一名殭屍獲得了寒冰魔法 >>"
+    }
   },
   "<< STAGE Fail...... >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ失敗...... >>",
+      "CN": "<<关卡失败……>>",
+      "KR": "<< 스테이지 실패...... >>",
+      "TW": "<< 關卡失敗...... >>"
+    }
   },
   "-- God --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 神 --",
+      "CN": "--上帝--",
+      "KR": "-- 신 --",
+      "TW": "-- 上帝 --"
+    }
   },
   "-- 终极将在10秒后爆炸 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "-- Ultimate will explode in 10 seconds --",
+      "JP": "-- 究極は10秒後に爆発します --",
+      "CN": "",
+      "KR": "-- 최종 폭발까지 10초 남음 --",
+      "TW": "-- 最終物品將在10秒後爆炸 --"
+    }
   },
   "--- Purple Core Recover 500 HP ---": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "---パープコア HP500回復---",
+      "CN": "---紫色核心回复500HP---",
+      "KR": "--- 퍼플 코어 500 HP 회복 ---",
+      "TW": "--- 紫核回復500HP ---"
+    }
+  },
+  "--- Admin select NIGHTMARE Mode ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "---管理者がナイトメアモードを選択---",
+      "CN": "--- 管理员选择梦魇模式 ---",
+      "KR": "--- 관리자 NIGHTMARE 모드 선택 ---",
+      "TW": "--- 管理員選擇噩夢模式 ---"
+    }
+  },
+  "--- Misaka Ending ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "---みさかエンド---",
+      "CN": "--- 御坂结局 ---",
+      "KR": "--- 미사카 엔딩 ---",
+      "TW": "--- 御坂結局 ---"
+    }
+  },
+  "--- Do not trust the black laser!!! ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "---黒いレーザーを信じるな!!!",
+      "CN": "--- 不要相信黑色激光!!! ---",
+      "KR": "--- 검은 레이저를 신뢰하지 마라!!! ---",
+      "TW": "--- 不要相信黑色雷射!!! ---"
+    }
+  },
+  "--- Zombie ESCAPE!!! ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "---ゾンビ脱出!!!",
+      "CN": "--- 僵尸逃脱!!! ---",
+      "KR": "--- 좀비 탈출!!! ---",
+      "TW": "--- 殭屍逃脫!!! ---"
+    }
+  },
+  "--- Fail...... ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "---失敗……---",
+      "CN": "--- 失败...... ---",
+      "KR": "--- 실패...... ---",
+      "TW": "--- 失敗...... ---"
+    }
+  },
+  "--- Congratulations!!! ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "---おめでとうございます!!!",
+      "CN": "--- 恭喜!!! ---",
+      "KR": "--- 축하합니다!!! ---",
+      "TW": "--- 恭喜!!! ---"
+    }
+  },
+  "--- You are the King of the FANTASY ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "---あなたはファンタジーの王です---",
+      "CN": "--- 你是奇幻之王 ---",
+      "KR": "--- 당신은 판타지의 왕입니다 ---",
+      "TW": "--- 你是奇幻之王 ---"
+    }
+  },
+  "--- Map by Misaka, Rework by K.KID ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- Map by Misaka, Rework by K.KID ---",
+      "CN": "--- 地图由御坂制作，重构由K.KID完成 ---",
+      "KR": "지도 제작: Misaka, 재작업: K.KID",
+      "TW": "--- 地圖作者：Misaka，重製者：K.KID ---"
+    }
+  },
+  "-- STAGE EX - ZM --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- STAGE EX - ZM --",
+      "CN": "-- 关卡 EX - ZM --",
+      "KR": "-- STAGE EX - ZM --",
+      "TW": "-- STAGE EX - ZM --"
+    }
+  },
+  "--- Survive for 180 seconds ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 180秒間生き延ぎなさい ---",
+      "CN": "--- 存活 180 秒 ---",
+      "KR": "180초 동안 생존하십시오",
+      "TW": "--- 生存 180 秒 ---"
+    }
+  },
+  "--- 5 seconds ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 5秒後 ---",
+      "CN": "--- 剩余 5 秒 ---",
+      "KR": "--- 5초 ---",
+      "TW": "--- 5 秒後 ---"
+    }
+  },
+  "--- zombie can go in 7 seconds ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- ゾンビは7秒後に侵入可能 ---",
+      "CN": "--- 僵尸将在 7 秒后出现 ---",
+      "KR": "--- 좀비가 진입하는 데 7초 걸립니다 ---",
+      "TW": "--- 殭屍 7 秒後可進入 ---"
+    }
+  },
+  "--- Round will fail if no one complete in 30 seconds ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 30秒以内に誰かが完了しない場合、ラウンドは失敗 ---",
+      "CN": "--- 若在 30 秒内无人完成，则回合失败 ---",
+      "KR": "--- 30초 이내에 누구도 달성하지 못하면 라운드가 실패합니다 ---",
+      "TW": "--- 30 秒內無人完成則回合失敗 ---"
+    }
+  },
+  "--- Its a SOLO WIN !!! ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- ソロ勝利！！！ ---",
+      "CN": "--- 这是单人胜利 !!! ---",
+      "KR": "--- 솔로 승!!! ---",
+      "TW": "--- 這是單人勝利！！！ ---"
+    }
+  },
+  "--- Its a TEAM WIN !!! ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- チーム勝利！！！ ---",
+      "CN": "--- 这是团队胜利 !!! ---",
+      "KR": "--- 팀 승리!!! ---",
+      "TW": "--- 這是團隊勝利！！！ ---"
+    }
+  },
+  "--- Normal Ending ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--- 通常エンディング ---",
+      "CN": "--- 普通结局 ---",
+      "KR": "--- 엔딩 (Normal Ending) ---",
+      "TW": "--- 普通結局 ---"
+    }
+  },
+  "--- Admin select EASY Mode ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   }
 }

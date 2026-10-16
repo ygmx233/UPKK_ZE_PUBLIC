@@ -1,35 +1,112 @@
 {
   "error": {
-    "translation": "错误"
+    "translation": "错误",
+    "MultiLang": {
+      "US": "",
+      "JP": "エラー",
+      "CN": "错误",
+      "KR": "오류",
+      "TW": "錯誤"
+    }
   },
   "Luckybox_1": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキーボックス_1",
+      "CN": "幸运盒子_1",
+      "KR": "행운의 상자_1",
+      "TW": "幸運盒_1"
+    }
   },
   "Luckybox_2": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキーボックス_2",
+      "CN": "幸运盒子_2",
+      "KR": "럭키박스_2",
+      "TW": "幸運盒_2"
+    }
   },
   "Luckybox_3": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキーボックス_3",
+      "CN": "幸运盒子_3",
+      "KR": "럭키박스 3",
+      "TW": "幸運盒_3"
+    }
   },
   "Luckybox_4": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキーボックス_4",
+      "CN": "幸运盒子_4",
+      "KR": "행운의 상자 4",
+      "TW": "幸運盒_4"
+    }
   },
   "Luckybox_5": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキーボックス_5",
+      "CN": "幸运盒子_5",
+      "KR": "럭키 박스 5",
+      "TW": "幸運盒_5"
+    }
   },
   "Luckybox_6": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキーボックス_6",
+      "CN": "幸运盒子_6",
+      "KR": "럭키박스_6",
+      "TW": "幸運盒_6"
+    }
   },
   "Luckybox_7": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキーボックス_7",
+      "CN": "幸运盒子_7",
+      "KR": "럭키박스_7",
+      "TW": "幸運盒_7"
+    }
   },
   "Luckybox_8": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキボックス_8",
+      "CN": "幸运箱_8",
+      "KR": "럭키박스_8",
+      "TW": "幸運盒子_8"
+    }
   },
   "Luckybox_9": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキボックス_9",
+      "CN": "幸运箱_9",
+      "KR": "럭키박스_9",
+      "TW": "幸運盒子_9"
+    }
   },
   "Luckybox_10": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッキボックス_10",
+      "CN": "幸运箱_10",
+      "KR": "럭키박스_10",
+      "TW": "幸運盒子_10"
+    }
   }
 }

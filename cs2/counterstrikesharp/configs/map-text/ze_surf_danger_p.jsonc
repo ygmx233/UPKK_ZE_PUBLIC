@@ -1,83 +1,272 @@
 {
   ">>>OK Final door is open : 1 player must go to control room and launch nuke<<< ": {
-    "translation": "最终门已打开：1 名玩家必须前往控制室并发射核弹 "
+    "translation": "最终门已打开：1 名玩家必须前往控制室并发射核弹",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>最終ドア開放：プレイヤー1名が管理室へ行き、核ミサイルを発射してください<<<",
+      "CN": ">>>最终大门已开启：必须有一名玩家前往控制室发射核弹<<<",
+      "KR": ">>>OK 마지막 문이 열렸습니다 : 1명의 플레이어가 제어실로 이동하여 핵을 발사해야 합니다<<<",
+      "TW": "最終門已開啟：1名玩家需前往控制室並啟動核武器"
+    }
   },
   ">>>Final Door open in 20 sec<<<": {
-    "translation": "最终门在 20 秒后打开"
+    "translation": "最终门在 20 秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>最終ドア 20秒後開放<<<",
+      "CN": ">>>最终大门将在20秒后开启<<<",
+      "KR": ">>>최종 문 20초 후 개문<<<",
+      "TW": "最終門將於20秒後開啟"
+    }
   },
   ">>>This song is Two step from hell Dragon Rider<<<": {
-    "translation": "这首歌是Two step from hell Dragon Rider"
+    "translation": "这首歌是Two step from hell Dragon Rider",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>この曲はTwo Step From Hellの『Dragon Rider』です<<<",
+      "CN": ">>>背景音乐为‘Two Steps from Hell’的《Dragon Rider》<<<",
+      "KR": ">>>이 노래는 Two Steps from Hell의 'Dragon Rider'입니다<<<",
+      "TW": "此歌曲為 Two Step from Hell 的《龍騎士》"
+    }
   },
   ">>>Door will open in 30 sec<<<": {
-    "translation": "30 秒后开门"
+    "translation": "30 秒后开门",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア 30秒後開放<<<",
+      "CN": ">>>大门将在30秒后开启<<<",
+      "KR": ">>>문 30초 후 개문<<<",
+      "TW": "門將於30秒後開啟"
+    }
   },
   ">>>Teleporting all humans...<<<": {
-    "translation": "传送所有人类..."
+    "translation": "传送所有人类...",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>全ヒューマンをテレポート中...<<<",
+      "CN": ">>>正在传送所有人类玩家...<<<",
+      "KR": ">>>모든 인간 텔레포팅 중...<<<",
+      "TW": "傳送所有人類中..."
+    }
   },
   ">>>Teleporting all Zombies...<<<": {
-    "translation": "传送所有僵尸..."
+    "translation": "传送所有僵尸...",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>全ゾンビをテレポート中...<<<",
+      "CN": ">>>正在传送所有僵尸...<<<",
+      "KR": ">>>모든 좀비 텔레포팅 중...<<<",
+      "TW": "傳送所有殭屍中..."
+    }
   },
   ">>>Door will Open in 3 sec. PREPARE TO RUN<<<": {
-    "translation": "3 秒后开门 准备逃跑"
+    "translation": "3 秒后开门 准备逃跑",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ドア 3秒後開放。すぐに逃げる準備をしてください<<<",
+      "CN": ">>>大门将在3秒后开启。准备冲刺！<<<",
+      "KR": ">>>문 3초 후 개문. 도망칠 준비를 하십시오<<<",
+      "TW": "門將於3秒後開啟。準備奔跑！"
+    }
   },
   ">>>Respawn wall break in 20 sec<<<": {
-    "translation": "20 秒后墙碎"
+    "translation": "20 秒后墙碎",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>リスポーン壁の破壊 20秒後<<<",
+      "CN": ">>>重生墙将在20秒后破坏<<<",
+      "KR": ">>>생성 벽 파괴 20초 후...<<<",
+      "TW": "重生牆破損需20秒"
+    }
   },
   ">>>Map by Explay<<<": {
-    "translation": "地图作者：Explay 翻译：秋刀鱼"
+    "translation": "地图作者：Explay 翻译：秋刀鱼",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>Map by Explay<<<",
+      "CN": ">>>地图作者：Explay<<<",
+      "KR": ">>>Explay 작<<<",
+      "TW": ">>>地圖製作：Explay<<<"
+    }
   },
   ">>>Visit www.nextwin.ru<<<": {
-    "translation": "访问 www.nextwin.ru"
+    "translation": "访问 www.nextwin.ru",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>Visit www.nextwin.ru<<<",
+      "CN": ">>>访问 www.nextwin.ru<<<",
+      "KR": ">>>www.nextwin.ru 방문<<<",
+      "TW": ">>>造訪 www.nextwin.ru<<<"
+    }
   },
   ">>>Door open in 5 sec<<<": {
-    "translation": "门在 5 秒后打开"
+    "translation": "门在 5 秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>5秒以内にドアが開く<<<",
+      "CN": ">>>门将在5秒后开启<<<",
+      "KR": ">>>문 5초 후 열림<<<",
+      "TW": ">>>門將在 5 秒後開啟<<<"
+    }
   },
   ">>>Defend this place 1 min 15 sec<<<": {
-    "translation": "保卫此地 1 分 15 秒"
+    "translation": "保卫此地 1 分 15 秒",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ここを1分15秒守れ<<<",
+      "CN": ">>>在此坚守1分15秒<<<",
+      "KR": ">>>이곳 1분 15초간 방어<<<",
+      "TW": ">>>守住這裡 1 分 15 秒<<<"
+    }
   },
   ">>>This song is Immediate Music Imperativa<<<": {
-    "translation": "这首歌是 Immediate Music Imperativa"
+    "translation": "这首歌是 Immediate Music Imperativa",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>この曲はImmediate MusicのImperativaです<<<",
+      "CN": ">>>本曲为Immediate Music的Imperativa<<<",
+      "KR": ">>>이 곡은 Immediate Music의 Imperativa입니다<<<",
+      "TW": ">>>此音樂來自 Immediate Music 的《Imperativa》<<<"
+    }
   },
   ">>>Teleporting all humans to ZM defend...<<<": {
-    "translation": "将所有人类传送到 ZM 防守..."
+    "translation": "将所有人类传送到 ZM 防守...",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>すべての人間をZM防衛にテレポート中...<<<",
+      "CN": ">>>正在将所有人类传送至ZM防线...<<<",
+      "KR": ">>>모든 인간을 ZM 방어 지역으로 텔레포트 중...<<<",
+      "TW": ">>>正在將所有人類傳送至 ZM 防禦區...<<<"
+    }
   },
   ">>>Teleporting all Zombies<<<": {
-    "translation": "传送所有僵尸"
+    "translation": "传送所有僵尸",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>すべてのゾンビをテレポート中<<<",
+      "CN": ">>>正在传送所有僵尸<<<",
+      "KR": ">>>모든 좀비 텔레포트 중<<<",
+      "TW": ">>>正在傳送所有殭屍<<<"
+    }
   },
   ">>>Teleporting everyone in 30 sec<<<": {
-    "translation": "在 30 秒内传送所有人"
+    "translation": "在 30 秒内传送所有人",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>30秒以内に全員をテレポート中<<<",
+      "CN": ">>>30秒后传送所有人<<<",
+      "KR": ">>>30초 후 모든 사람 텔레포트<<<",
+      "TW": ">>>所有人將在 30 秒後傳送<<<"
+    }
   },
   ">>>Teleporting everyone in 5 sec<<<": {
-    "translation": "在 5 秒内传送所有人"
+    "translation": "在 5 秒内传送所有人",
+    "MultiLang": {
+      "US": "",
+      "JP": "全プレイヤーを5秒後にテレポート",
+      "CN": "5秒后传送所有玩家",
+      "KR": "5초 후 모든 장소 이동",
+      "TW": "5秒後傳送所有人"
+    }
   },
   ">>>If you cant pass SURF try to pass XC level<<<": {
-    "translation": "如果您无法通过 SURF，请尝试通过 XC 关卡"
+    "translation": "如果您无法通过 SURF，请尝试通过 XC 关卡",
+    "MultiLang": {
+      "US": "",
+      "JP": "SURFステージがクリアできない場合、XCレベルのクリアを試みてください",
+      "CN": "如果你无法通过SURF关卡，请尝试XC关卡",
+      "KR": "서핑을 통과하지 못했다면 XC 레벨을 시도하세요",
+      "TW": "如果無法通過SURF，請嘗試通過XC關卡"
+    }
   },
   ">>>TIP: If you will pass XC level You receive 5 frags<<<": {
-    "translation": "提示：如果您通过了 XC 关卡，您将获得 5 分"
+    "translation": "提示：如果您通过了 XC 关卡，您将获得 5 分",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒント：XCレベルをクリアすると、フラグ5個が得られます",
+      "CN": "提示：如果你通过XC关卡，你将获得5个击杀数",
+      "KR": "팁: XC 레벨을 통과하면 프래그 5개를 획득합니다",
+      "TW": "提示：若成功通過XC關卡，將獲得5個擊殺分"
+    }
   },
   ">>>TIP: If you will pass SURF level You receive 10 frags<<<": {
-    "translation": "提示：如果您通过了 SURF 关卡，您将获得 10 分"
+    "translation": "提示：如果您通过了 SURF 关卡，您将获得 10 分",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒント：SURFレベルをクリアすると、フラグ10個が得られます",
+      "CN": "提示：如果你通过SURF关卡，你将获得10个击杀数",
+      "KR": "팁: 서핑 레벨을 통과하면 프래그 10개를 획득합니다",
+      "TW": "提示：若成功通過SURF關卡，將獲得10個擊殺分"
+    }
   },
   ">>>Teleport enable in 20 sec<<<": {
-    "translation": "20 秒后启用传送"
+    "translation": "20 秒后启用传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後にテレポート有効化",
+      "CN": "20秒后启用传送功能",
+      "KR": "20초 후 이동 활성화",
+      "TW": "20秒後開啟傳送功能"
+    }
   },
   ">>>If you can pass final SURF level you receive 10 of frags<<<": {
-    "translation": "如果你能通过最后的SURF关卡，你将获得10分"
+    "translation": "如果你能通过最后的SURF关卡，你将获得10分",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終SURFステージをクリアすると、フラグ10個が得られます",
+      "CN": "如果你通过最终的SURF关卡，你将获得10个击杀数",
+      "KR": "최종 서핑 레벨을 통과하면 프래그 10개를 획득합니다",
+      "TW": "若成功通過最終SURF關卡，將獲得10個擊殺分"
+    }
   },
   ">>>Self Destruction Actived<<<": {
-    "translation": "自我毁灭启动"
+    "translation": "自我毁灭启动",
+    "MultiLang": {
+      "US": "",
+      "JP": "自爆アクティブ化",
+      "CN": "自毁功能已激活",
+      "KR": "자폭 활성화됨",
+      "TW": "自毀程序已啟動"
+    }
   },
   ">>>Helidoor is opening<<<": {
-    "translation": "直升機門打開"
+    "translation": "直升機門打開",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリドアオープン",
+      "CN": "Helidoor正在开启",
+      "KR": "헬리도어 열림",
+      "TW": "隱形門正在開啟"
+    }
   },
   ">>>TIP:Cargo is open : you can defend in the helicopter": {
-    "translation": "提示：货物已打开：您可以在直升机上进行防御"
+    "translation": "提示：货物已打开：您可以在直升机上进行防御",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ヒント:貨物エリア開放中・ヘリコプターで防御可能<<<",
+      "CN": ">>>提示：货舱已开放，你可以在直升机内防守",
+      "KR": ">>> TIP: 화물 창고 개방 중 : 헬리콥터 안에서 방어 가능합니다 <<<",
+      "TW": "提示：貨運已開放，您可在直升機中進行防禦"
+    }
   },
   ">>>Heli Leaving in 12 sec. Hurry!!!<<<": {
-    "translation": "直升机将在 12 秒后离开。快点"
+    "translation": "直升机将在 12 秒后离开。快点",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>ヘリ離陸まで12秒！急げ！！！<<<",
+      "CN": ">>>直升机将在12秒后离开。快！！！<<<",
+      "KR": ">>> 헬기 이륙 12초 전! 서두르세요!!! <<<",
+      "TW": "直升機即將在12秒後離開！快！！！"
+    }
   },
   ">>>Oh NO! Barrels with explosive is BURN! Its Will blow up it is Some seconds!<<<": {
-    "translation": "哦，不！装有炸药的桶正在燃烧！它将在几秒钟后爆炸！"
+    "translation": "哦，不！装有炸药的桶正在燃烧！它将在几秒钟后爆炸！",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>おっと、爆発物が入ったバレルが燃えている！数秒後に爆発するぞ！<<<",
+      "CN": ">>>不好了！装有炸药的桶正在燃烧，几秒后就会爆炸！<<<",
+      "KR": ">>> 으악! 폭발물 통이 타버리고 있습니다! 몇 초 안에 폭발할 것입니다!!! <<<",
+      "TW": "糟了！油桶著火了！幾秒後就會爆炸！"
+    }
   }
 }

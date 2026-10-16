@@ -1,0 +1,92 @@
+{
+  "Seekers will be released in 60 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "追手の解放まで60秒！",
+      "CN": "追踪者将在60秒后出现！",
+      "KR": "추적자가 60초 후에 출격합니다!",
+      "TW": "搜尋者將在 60 秒後釋放！"
+    }
+  },
+  "Seekers will be released in 30 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "追手の解放まで30秒！",
+      "CN": "追踪者将在30秒后出现！",
+      "KR": "추적자가 30초 후에 출격합니다!",
+      "TW": "搜尋者將在 30 秒後釋放！"
+    }
+  },
+  "Seekers will be released in 10 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "追手の解放まで10秒！",
+      "CN": "追踪者将在10秒后出现！",
+      "KR": "추적자가 10초 후에 출격합니다!",
+      "TW": "搜尋者將在 10 秒後釋放！"
+    }
+  },
+  "Seekers will be released in 5 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "追手の解放まで5秒！",
+      "CN": "追踪者将在5秒后出现！",
+      "KR": "추적자가 5초 후에 출격합니다!",
+      "TW": "搜尋者將在 5 秒後釋放！"
+    }
+  },
+  "Seekers will be released in 4 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "追手の解放まで4秒！",
+      "CN": "追踪者将在4秒后出现！",
+      "KR": "추적자가 4초 후에 출격합니다!",
+      "TW": "搜尋者將在 4 秒後釋放！"
+    }
+  },
+  "Seekers will be released in 3 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "追手の解放まで3秒！",
+      "CN": "追踪者将在3秒后出现！",
+      "KR": "추적자가 3초 후에 출격합니다!",
+      "TW": "搜尋者將在 3 秒後釋放！"
+    }
+  },
+  "Seekers will be released in 2 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "追手の解放まで2秒！",
+      "CN": "追踪者将在2秒后出现！",
+      "KR": "추적자가 2초 후에 출격합니다!",
+      "TW": "搜尋者將在 2 秒後釋放！"
+    }
+  },
+  "Seekers will be released in 1 second!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "追手の解放まで1秒！",
+      "CN": "追踪者将在1秒后出现！",
+      "KR": "추적자가 1초 후에 출격합니다!",
+      "TW": "搜尋者將在 1 秒後釋放！"
+    }
+  },
+  "The seekers have been released!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "探索者が解放された！",
+      "CN": "追猎者已被释放！",
+      "KR": "수행자가 자유롭게 풀려났다!",
+      "TW": "追尋者們已獲釋！"
+    }
+  }
+}

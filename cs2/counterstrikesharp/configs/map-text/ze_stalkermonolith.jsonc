@@ -1,275 +1,912 @@
 {
   "** Grenades do more damage. **": {
-    "translation": "** 手榴弹造成更多伤害。**"
+    "translation": "** 手榴弹造成更多伤害。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 手榴弾のダメージが増加。**",
+      "CN": "** 手榴弹伤害增加。 **",
+      "KR": "**grenade** 추가 피해량 **",
+      "TW": "手榴彈傷害提升。"
+    }
   },
   "*** CONTROLLER Uses electric field WARNING ***": {
-    "translation": "*** 警告，控制者使用电场 ***"
+    "translation": "*** 警告，控制者使用电场 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** コントローラー電場警告 ***",
+      "CN": "*** 控制器使用电场警告 ***",
+      "KR": "*** 컨트롤러 전계 경고 ***",
+      "TW": "*** 手柄 使用電場 警告 ***"
+    }
   },
   "*** Defend 20 sec ***": {
-    "translation": "*** 防守20秒 ***"
+    "translation": "*** 防守20秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒間防御 ***",
+      "CN": "*** 防御 20 秒 ***",
+      "KR": "*** 20초 방어해야 함 ***",
+      "TW": "*** 防禦 20 秒 ***"
+    }
   },
   "*** Defend 25 sec ***": {
-    "translation": "*** 防守25秒 ***"
+    "translation": "*** 防守25秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒間防御 ***",
+      "CN": "*** 防御 25 秒 ***",
+      "KR": "*** 25초 방어해야 함 ***",
+      "TW": "*** 防禦 25 秒 ***"
+    }
   },
   "*** FOUND THE PASSWORD IN LABORATORY ***": {
-    "translation": "*** 在实验室找到密码 ***"
+    "translation": "*** 在实验室找到密码 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ラボでパスワード発見 ***",
+      "CN": "*** 在实验室找到密码 ***",
+      "KR": "*** 연구실에서 비밀번호 발견 ***",
+      "TW": "*** 在實驗室找到密碼 ***"
+    }
   },
   "*** LEVEL 1 WIN ***": {
-    "translation": "*** 第1关胜利 ***"
+    "translation": "*** 第1关胜利 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レベル1クリア ***",
+      "CN": "*** 第 1 关胜利 ***",
+      "KR": "*** 레벨 1 클리어 ***",
+      "TW": "*** 第一關通關 ***"
+    }
   },
   "*** LEVEL 2 WIN ***": {
-    "translation": "*** 第2关胜利 ***"
+    "translation": "*** 第2关胜利 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レベル2クリア ***",
+      "CN": "*** 第 2 关胜利 ***",
+      "KR": "*** 레벨 2 클리어 ***",
+      "TW": "*** 第二關通關 ***"
+    }
   },
   "*** LEVEL 3 WIN ***": {
-    "translation": "*** 第3关胜利 ***"
+    "translation": "*** 第3关胜利 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レベル3クリア ***",
+      "CN": "*** 第 3 关胜利 ***",
+      "KR": "*** 레벨 3 클리어 ***",
+      "TW": "*** 第三關通關 ***"
+    }
   },
   "*** ZM INSIDE KILL HIM ***": {
-    "translation": "*** 僵尸在里面，杀了他 ***"
+    "translation": "*** 僵尸在里面，杀了他 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ZM 内殺せ ***",
+      "CN": "*** ZM 在内击杀他 ***",
+      "KR": "*** ZM 내부에서him을 처치 ***",
+      "TW": "*** ZM 在室內擊殺他 ***"
+    }
   },
   "*** lets go ***": {
-    "translation": "*** 走吧 ***"
+    "translation": "*** 走吧 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 行こう ***",
+      "CN": "*** 我们走吧 ***",
+      "KR": "*** 출발하자 ***",
+      "TW": "*** 走吧 ***"
+    }
   },
   "**1 generator was destroyed**": {
-    "translation": "**1个发电机被摧毁**"
+    "translation": "**1个发电机被摧毁**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**1つ目のジェネレーターが破壊された**",
+      "CN": "**已摧毁1个发电机**",
+      "KR": "**1개의 발전기가 파괴됨**",
+      "TW": "**1 個發電機被摧毀**"
+    }
   },
   "**2 buttons were pressed**": {
-    "translation": "**2个按钮被按下**"
+    "translation": "**2个按钮被按下**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**2つのボタンが押された**",
+      "CN": "**已按下2个按钮**",
+      "KR": "**2개의 버튼이 눌러짐**",
+      "TW": "**2 個按鈕被按下**"
+    }
   },
   "**2 generator was destroyed**": {
-    "translation": "**2个发电机被摧毁**"
+    "translation": "**2个发电机被摧毁**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**2つ目のジェネレーターが破壊された**",
+      "CN": "**已摧毁2台发电机**",
+      "KR": "**2개의 발전기가 파괴됨**",
+      "TW": "**2 個發電機被摧毀**"
+    }
   },
   "**3 generator was destroyed**": {
-    "translation": "**3个发电机被摧毁**"
+    "translation": "**3个发电机被摧毁**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**3つ目のジェネレーターが破壊された**",
+      "CN": "**已摧毁3台发电机**",
+      "KR": "**3개의 발전기가 파괴됨**",
+      "TW": "**3 個發電機被摧毀**"
+    }
   },
   "**4 generator was destroyed**": {
-    "translation": "**4个发电机被摧毁**"
+    "translation": "**4个发电机被摧毁**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**4つ目のジェネレーターが破壊された**",
+      "CN": "**已摧毁4台发电机**",
+      "KR": "**4개의 발전기가 파괴됨**",
+      "TW": "**4 個發電機被摧毀**"
+    }
   },
   "**A player picked up firegun**": {
-    "translation": "**一名玩家捡起了火枪**"
+    "translation": "**一名玩家捡起了火枪**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがファイアガンを拾った**",
+      "CN": "**玩家拾取了火焰枪**",
+      "KR": "**한 플레이어가 화승총을 획득함**",
+      "TW": "**一名玩家拾取了消防斧**"
+    }
   },
   "**A player picked up freez**": {
-    "translation": "**一名玩家捡起了冰冻**"
+    "translation": "**一名玩家捡起了冰冻**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがフリーザを集めた",
+      "CN": "一名玩家拾取了冰冻",
+      "KR": "플레이어가 프리저를 수집했습니다",
+      "TW": "一名玩家拾取了凍原"
+    }
   },
   "**A player picked up spikeball**": {
-    "translation": "**一名玩家捡起了尖刺球**"
+    "translation": "**一名玩家捡起了尖刺球**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがスパイカーボールを集めた",
+      "CN": "一名玩家拾取了尖刺球",
+      "KR": "플레이어가 스파이크볼을 수집했습니다",
+      "TW": "一名玩家拾取了棘刺球"
+    }
   },
   "**Anomaly is open**": {
-    "translation": "**异象已开放**"
+    "translation": "**异象已开放**",
+    "MultiLang": {
+      "US": "",
+      "JP": "異常が発生中",
+      "CN": "异常已开启",
+      "KR": "테이프가 개방됨",
+      "TW": "異常開啟"
+    }
   },
   "**BTR will leave in 20sec**": {
-    "translation": "**BTR将在20秒内离开**"
+    "translation": "**BTR将在20秒内离开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "BTRは20秒後に離脱",
+      "CN": "BTR将在20秒后离开",
+      "KR": "BTR 20초 후 출발",
+      "TW": "BTR 將在 20 秒後離開"
+    }
   },
   "**Burer Nearby**": {
-    "translation": "**Burer在附近**"
+    "translation": "**Burer在附近**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブーリエ近辺",
+      "CN": "附近出现捕鼠人",
+      "KR": "블러너 근처",
+      "TW": "附近有布爾人"
+    }
   },
   "**Defend 15 second**": {
-    "translation": "**防守15秒**"
+    "translation": "**防守15秒**",
+    "MultiLang": {
+      "US": "Defend for 15 seconds",
+      "JP": "15秒間防衛",
+      "CN": "防守15秒",
+      "KR": "15초간 방어",
+      "TW": "防禦 15 秒"
+    }
   },
   "**Defend 15sec**": {
-    "translation": "**防守15秒**"
+    "translation": "**防守15秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間防衛",
+      "CN": "防守15秒",
+      "KR": "15초간 방어",
+      "TW": "防禦 15 秒"
+    }
   },
   "**Defend 20 second**": {
-    "translation": "**防守20秒**"
+    "translation": "**防守20秒**",
+    "MultiLang": {
+      "US": "Defend for 20 seconds",
+      "JP": "20秒間防衛",
+      "CN": "防守20秒",
+      "KR": "20초간 방어",
+      "TW": "防禦 20 秒"
+    }
   },
   "**Defend 20sec**": {
-    "translation": "**防守20秒**"
+    "translation": "**防守20秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間防衛",
+      "CN": "坚守 20 秒",
+      "KR": "20초 방어",
+      "TW": "防守 20秒"
+    }
   },
   "**Defend 25sec**": {
-    "translation": "**防守25秒**"
+    "translation": "**防守25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間防衛",
+      "CN": "坚守 25 秒",
+      "KR": "25초 방어",
+      "TW": "防守 25秒"
+    }
   },
   "**Defend 26 second**": {
-    "translation": "**防守26秒**"
+    "translation": "**防守26秒**",
+    "MultiLang": {
+      "US": "Defend for 26 seconds",
+      "JP": "26秒間防衛",
+      "CN": "坚守 26 秒",
+      "KR": "26초 동안 방어",
+      "TW": "防守 26秒"
+    }
   },
   "**Defend 30sec**": {
-    "translation": "**防守30秒**"
+    "translation": "**防守30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間防衛",
+      "CN": "坚守 30 秒",
+      "KR": "30초 방어",
+      "TW": "防守 30秒"
+    }
   },
   "**Destroy them first**": {
-    "translation": "**先摧毁他们**"
+    "translation": "**先摧毁他们**",
+    "MultiLang": {
+      "US": "",
+      "JP": "まず彼らを破壊せよ",
+      "CN": "优先摧毁它们",
+      "KR": "먼저 파괴하세요",
+      "TW": "先消滅他們"
+    }
   },
   "**Door Close**": {
-    "translation": "**门关闭**"
+    "translation": "**门关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "閉門",
+      "CN": "门即将关闭",
+      "KR": "문 닫힘",
+      "TW": "門關閉"
+    }
   },
   "**Door will Close 15 second**": {
-    "translation": "**门将在15秒内关闭**"
+    "translation": "**门将在15秒内关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に門が閉まります",
+      "CN": "15 秒后关门",
+      "KR": "15초 후 문 닫힘",
+      "TW": "門將在 15秒後關閉"
+    }
   },
   "**Door will Close 15sec**": {
-    "translation": "**门将在15秒内关闭**"
+    "translation": "**门将在15秒内关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に門が閉まります",
+      "CN": "15 秒后门将关闭",
+      "KR": "15초 후 문 닫힘",
+      "TW": "門將在 15秒後關閉"
+    }
   },
   "**Door will Close 55 sec**": {
-    "translation": "**门将在55秒内关闭**"
+    "translation": "**门将在55秒内关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドア、55秒後に閉まります**",
+      "CN": "门将在55秒后关闭",
+      "KR": "**문 55초 후 닫힘**",
+      "TW": "門將於55秒後關閉"
+    }
   },
   "**Door will Close in 15 sec**": {
-    "translation": "**门将在15秒内关闭**"
+    "translation": "**门将在15秒内关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドア、15秒後に閉まります**",
+      "CN": "门将在15秒后关闭",
+      "KR": "**문 15초 후 닫힘**",
+      "TW": "門將在15秒後關閉"
+    }
   },
   "**Door will Open 15sec**": {
-    "translation": "**门将在15秒内打开**"
+    "translation": "**门将在15秒内打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドア、15秒後に開きます**",
+      "CN": "门将在15秒后打开",
+      "KR": "**문 15초 후 열림**",
+      "TW": "門將於15秒後開啟"
+    }
   },
   "**Door will Open 25sec**": {
-    "translation": "**门将在25秒内打开**"
+    "translation": "**门将在25秒内打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ドア、25秒後に開きます**",
+      "CN": "门将在25秒后打开",
+      "KR": "**문 25초 후 열림**",
+      "TW": "門將於25秒後開啟"
+    }
   },
   "**Elevator 10 second**": {
-    "translation": "**电梯10秒**"
+    "translation": "**电梯10秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター10秒**",
+      "CN": "电梯10秒",
+      "KR": "**엘리베이터 10초**",
+      "TW": "電梯10秒後到達"
+    }
   },
   "**Elevator activated**": {
-    "translation": "**电梯已激活**"
+    "translation": "**电梯已激活**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**エレベーター稼働**",
+      "CN": "电梯已激活",
+      "KR": "**엘리베이터 가동 시작**",
+      "TW": "電梯已啟動"
+    }
   },
   "**Helicopter**": {
-    "translation": "**直升机**"
+    "translation": "**直升机**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプター**",
+      "CN": "直升机",
+      "KR": "헬리콥터**",
+      "TW": "直升機"
+    }
   },
   "**Kill the controller**": {
-    "translation": "**杀死控制者**"
+    "translation": "**杀死控制者**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**コントローラーを倒す**",
+      "CN": "消灭控制器",
+      "KR": "**컨트롤러 제거**",
+      "TW": "殺死控制器"
+    }
   },
   "**Laser Monolit**": {
-    "translation": "**激光Monolit**"
+    "translation": "**激光Monolit**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザーモノリス",
+      "CN": "**激光单色器**",
+      "KR": "레이저 모노리스",
+      "TW": "**雷射單體**"
+    }
   },
   "**Level 1**": {
-    "translation": "**第1关**"
+    "translation": "**第1关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 1",
+      "CN": "**第 1 关**",
+      "KR": "레벨 1",
+      "TW": "**第 1 關**"
+    }
   },
   "**Level 2**": {
-    "translation": "**第2关**"
+    "translation": "**第2关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 2",
+      "CN": "**第 2 关**",
+      "KR": "레벨 2",
+      "TW": "**第 2 關**"
+    }
   },
   "**Level 3**": {
-    "translation": "**第3关**"
+    "translation": "**第3关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 3",
+      "CN": "**第 3 关**",
+      "KR": "레벨 3",
+      "TW": "**第 3 關**"
+    }
   },
   "**Level 4 Win**": {
-    "translation": "**第4关胜利**"
+    "translation": "**第4关胜利**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 4 クリア",
+      "CN": "**通关第 4 关**",
+      "KR": "레벨 4 클리어",
+      "TW": "**第 4 關獲勝**"
+    }
   },
   "**Level 4**": {
-    "translation": "**第4关**"
+    "translation": "**第4关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 4",
+      "CN": "**第 4 关**",
+      "KR": "레벨 4",
+      "TW": "**第 4 關**"
+    }
   },
   "**Map By Batnik_Reference.smd and Microsoft Edge**": {
-    "translation": "**地图由Batnik_Reference.smd和Microsoft Edge制作 翻译：Asteri3m**"
+    "translation": "**地图由Batnik_Reference.smd和Microsoft Edge制作 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "作成者：Batnik_Reference.smd および Microsoft Edge",
+      "CN": "**地图由 Batnik_Reference.smd 和 Microsoft Edge 制作**",
+      "KR": "맵: Batnik_Reference.smd 및 Microsoft Edge 기준",
+      "TW": "**由 Batnik_Reference.smd 與 Microsoft Edge 製作的地圖**"
+    }
   },
   "**Run Run**": {
-    "translation": "**快跑**"
+    "translation": "**快跑**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ランラン",
+      "CN": "**跑跑看看**",
+      "KR": "런 런",
+      "TW": "**奔跑**"
+    }
   },
   "**Shoot Controler**": {
-    "translation": "**射击控制者**"
+    "translation": "**射击控制者**",
+    "MultiLang": {
+      "US": "",
+      "JP": "射撃コントロール",
+      "CN": "**射击控制器**",
+      "KR": "사격 컨트롤러",
+      "TW": "**射擊控制器**"
+    }
   },
   "**Teleporting Zombies  in 5 sec**": {
-    "translation": "**僵尸将在5秒内传送**"
+    "translation": "**僵尸将在5秒内传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "Teleporting Zombies  in 5 sec",
+      "CN": "丧尸将在 5 秒内传送",
+      "KR": "5초 후 텔레포트 좀비 발생",
+      "TW": "**殭屍將在 5 秒內傳送**"
+    }
   },
   "**The door will open in 15 seconds**": {
-    "translation": "**门将在15秒内打开**"
+    "translation": "**门将在15秒内打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "The door will open in 15 seconds",
+      "CN": "门将在 15 秒后打开",
+      "KR": "15초 후 문이 열립니다",
+      "TW": "**門将在 15 秒後開啟**"
+    }
   },
   "**The door will open in 20 seconds**": {
-    "translation": "**门将在20秒内打开**"
+    "translation": "**门将在20秒内打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "The door will open in 20 seconds",
+      "CN": "门将在 20 秒后打开",
+      "KR": "20초 후 문이 열립니다",
+      "TW": "**門将在 20 秒後開啟**"
+    }
   },
   "**The door will open in 25 seconds**": {
-    "translation": "**门将在25秒内打开**"
+    "translation": "**门将在25秒内打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "The door will open in 25 seconds",
+      "CN": "门将在 25 秒后打开",
+      "KR": "25초 후 문이 열립니다",
+      "TW": "**門将在 25 秒後開啟**"
+    }
   },
   "**This is a map based on the game STALKER**": {
-    "translation": "**这是基于游戏《潜行者》的地图**"
+    "translation": "**这是基于游戏《潜行者》的地图**",
+    "MultiLang": {
+      "US": "",
+      "JP": "This is a map based on the game STALKER",
+      "CN": "这是基于游戏《潜行者》的地图",
+      "KR": "이 지도는 게임 스토커를 기반으로 합니다",
+      "TW": "**這是以遊戲《戰慄深潭：流亡》為基礎的地圖**"
+    }
   },
   "**WTF NEW MUTANT. KILL HIM**": {
-    "translation": "**什么鬼，新变种。杀了他**"
+    "translation": "**什么鬼，新变种。杀了他**",
+    "MultiLang": {
+      "US": "",
+      "JP": "WTF NEW MUTANT. KILL HIM",
+      "CN": "WTF 新的变异体，杀了他",
+      "KR": "WTF 새로운变异체. 그를 처치해!",
+      "TW": "**WTF 這是新變種。消滅它！**"
+    }
   },
   "**ZM Teleport 5s**": {
-    "translation": "**僵尸传送5秒**"
+    "translation": "**僵尸传送5秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZM Teleport 5s",
+      "CN": "ZM 传送 5秒",
+      "KR": "좀비 텔레포트 5초",
+      "TW": "**殭屍傳送 5秒**"
+    }
   },
   "**ZM Teleport 9s**": {
-    "translation": "**僵尸传送9秒**"
+    "translation": "**僵尸传送9秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZMテレポート9秒後",
+      "CN": "**ZM传送剩余9秒**",
+      "KR": "ZM 텔레포트 9초 후",
+      "TW": "**ZM傳送倒數9秒**"
+    }
   },
   "**ZM Teleport in 6 second**": {
-    "translation": "**僵尸将在6秒内传送**"
+    "translation": "**僵尸将在6秒内传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZMテレポート6秒後",
+      "CN": "**ZM传送将在6秒后执行**",
+      "KR": "ZM 텔레포트 6초 후",
+      "TW": "**ZM傳送倒數6秒**"
+    }
   },
   "**ZM Teleport**": {
-    "translation": "**僵尸传送**"
+    "translation": "**僵尸传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZMテレポート",
+      "CN": "**ZM传送**",
+      "KR": "ZM 텔레포트",
+      "TW": "**ZM傳送**"
+    }
   },
   "**Zm Teleport 5sec**": {
-    "translation": "**僵尸传送5秒**"
+    "translation": "**僵尸传送5秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "Zmテレポート5秒後",
+      "CN": "**ZM传送5秒后执行**",
+      "KR": "Zm 텔레포트 5초 후",
+      "TW": "**Zm傳送倒數5秒**"
+    }
   },
   "**Zm Teleport 6sec**": {
-    "translation": "**僵尸传送6秒**"
+    "translation": "**僵尸传送6秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "Zmテレポート6秒後",
+      "CN": "**ZM传送6秒后执行**",
+      "KR": "Zm 텔레포트 6초 후",
+      "TW": "**Zm傳送倒數6秒**"
+    }
   },
   "**Zm Teleport**": {
-    "translation": "**僵尸传送**"
+    "translation": "**僵尸传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "Zmテレポート",
+      "CN": "**ZM传送**",
+      "KR": "Zm 텔레포트",
+      "TW": "**Zm傳送**"
+    }
   },
   "**controller ran away**": {
-    "translation": "**控制者逃跑了**"
+    "translation": "**控制者逃跑了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "コントローラーが逃げ出した",
+      "CN": "**控制器已撤离**",
+      "KR": "조종사가 도망감",
+      "TW": "**控制器逃跑了**"
+    }
   },
   "**defend 15sec**": {
-    "translation": "**防守15秒**"
+    "translation": "**防守15秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間防衛",
+      "CN": "**坚守15秒**",
+      "KR": "15초 동안 방어",
+      "TW": "**防禦15秒**"
+    }
   },
   "**defend 20sec**": {
-    "translation": "**防守20秒**"
+    "translation": "**防守20秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間防御",
+      "CN": "防守20秒",
+      "KR": "**20초 방어**",
+      "TW": "防禦 20 秒"
+    }
   },
   "**defend 25 sec**": {
-    "translation": "**防守25秒**"
+    "translation": "**防守25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間防御",
+      "CN": "防守25秒",
+      "KR": "**25초 방어**",
+      "TW": "防禦 25 秒"
+    }
   },
   "**defend 25sec**": {
-    "translation": "**防守25秒**"
+    "translation": "**防守25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間防御",
+      "CN": "防守25秒",
+      "KR": "**25초 방어**",
+      "TW": "防禦 25 秒"
+    }
   },
   "**defend 30sec**": {
-    "translation": "**防守30秒**"
+    "translation": "**防守30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間防御",
+      "CN": "防守30秒",
+      "KR": "**30초 방어**",
+      "TW": "防禦 30 秒"
+    }
   },
   "**defend 40sec**": {
-    "translation": "**防守40秒**"
+    "translation": "**防守40秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒間防御",
+      "CN": "防守40秒",
+      "KR": "**40초 방어**",
+      "TW": "防禦 40 秒"
+    }
   },
   "**defend 7 sec**": {
-    "translation": "**防守7秒**"
+    "translation": "**防守7秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "7秒間防御",
+      "CN": "防守7秒",
+      "KR": "**7초 방어**",
+      "TW": "防禦 7 秒"
+    }
   },
   "**doors are closing**": {
-    "translation": "**门正在关闭**"
+    "translation": "**门正在关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが閉まります",
+      "CN": "大门正在关闭",
+      "KR": "**문이 닫힙니다**",
+      "TW": "門即將關閉"
+    }
   },
   "**doors will close in 10sec**": {
-    "translation": "**门将在10秒内关闭**"
+    "translation": "**门将在10秒内关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にドアが閉じます",
+      "CN": "大门将在10秒后关闭",
+      "KR": "**10초 후 문이 닫힙니다**",
+      "TW": "門將在 10 秒後關閉"
+    }
   },
   "**doors will close in 20sec**": {
-    "translation": "**门将在20秒内关闭**"
+    "translation": "**门将在20秒内关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後にドアが閉まります",
+      "CN": "门将在20秒后关闭",
+      "KR": "문 20초 후에 닫힘",
+      "TW": "**門將在20秒後關閉**"
+    }
   },
   "**doors will close in 50sec**": {
-    "translation": "**门将在50秒内关闭**"
+    "translation": "**门将在50秒内关闭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "50秒後にドアが閉じます",
+      "CN": "门将在50秒后关闭",
+      "KR": "문 50초 후에 닫힘",
+      "TW": "**門將在50秒後關閉**"
+    }
   },
   "**elevator will leave in 10 seconds**": {
-    "translation": "**电梯将在10秒内离开**"
+    "translation": "**电梯将在10秒内离开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にエレベーターが発車します",
+      "CN": "电梯将在10秒后离开",
+      "KR": "엘리베이터 10초 후 출발",
+      "TW": "**電梯即將在10秒後離開**"
+    }
   },
   "**elevator will leave in 11 seconds**": {
-    "translation": "**电梯将在11秒内离开**"
+    "translation": "**电梯将在11秒内离开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "11秒後にエレベーターが発車します",
+      "CN": "电梯将在11秒后离开",
+      "KR": "엘리베이터 11초 후 출발",
+      "TW": "**電梯即將在11秒後離開**"
+    }
   },
   "**he uses an energy shield.  Destroy 4 generators**": {
-    "translation": "**他使用了能量护盾。摧毁4个发电机**"
+    "translation": "**他使用了能量护盾。摧毁4个发电机**",
+    "MultiLang": {
+      "US": "",
+      "JP": "エネルギーシールドを使用しています。ジェネレーター4つを破壊してください",
+      "CN": "他使用了能量护盾。摧毁4个发电机",
+      "KR": "에너지 실드를 사용합니다. 발전기 4기를 파괴하세요.",
+      "TW": "**他使用能量護盾。摧毀4個發電機。**"
+    }
   },
   "**hold the train for 30 sec**": {
-    "translation": "**防守火车30秒**"
+    "translation": "**防守火车30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "電車に乗ってください30秒間離脱防止モードになります",
+      "CN": "挽留列车30秒",
+      "KR": "열차 30초간 유지",
+      "TW": "**攔住火車30秒**"
+    }
   },
   "**it seems there is something wrong here**": {
-    "translation": "**这里似乎有些不对劲**"
+    "translation": "**这里似乎有些不对劲**",
+    "MultiLang": {
+      "US": "***seems something is wrong here***",
+      "JP": "ここには何か問題があるようです",
+      "CN": "这里似乎出了点问题",
+      "KR": "여기서 뭔가 잘못된 것 같습니다.",
+      "TW": "**這裡似乎出了點問題。**"
+    }
   },
   "**jump on the train**": {
-    "translation": "**跳上火车**"
+    "translation": "**跳上火车**",
+    "MultiLang": {
+      "US": "",
+      "JP": "電車に乗車する",
+      "CN": "跳上列车",
+      "KR": "열차에 점프",
+      "TW": "**跳上火車**"
+    }
   },
   "**kill the controller**": {
-    "translation": "**杀死控制者**"
+    "translation": "**杀死控制者**",
+    "MultiLang": {
+      "US": "",
+      "JP": "コントローラーを倒す",
+      "CN": "消灭控制器",
+      "KR": "컨트롤러 제거",
+      "TW": "殺死操控者"
+    }
   },
   "**lets move**": {
-    "translation": "**动起来**"
+    "translation": "**动起来**",
+    "MultiLang": {
+      "US": "",
+      "JP": "行こう",
+      "CN": "我们出发吧",
+      "KR": "이동하자",
+      "TW": "我們行動吧"
+    }
   },
   "**level 1**": {
-    "translation": "**第1关**"
+    "translation": "**第1关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 1",
+      "CN": "关卡 1",
+      "KR": "레벨 1",
+      "TW": "第 1 關"
+    }
   },
   "**level 2**": {
-    "translation": "**第2关**"
+    "translation": "**第2关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 2",
+      "CN": "关卡 2",
+      "KR": "레벨 2",
+      "TW": "第 2 關"
+    }
   },
   "**level 3**": {
-    "translation": "**第3关**"
+    "translation": "**第3关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 3",
+      "CN": "关卡 3",
+      "KR": "레벨 3",
+      "TW": "第 3 關"
+    }
   },
   "**level 4**": {
-    "translation": "**第4关**"
+    "translation": "**第4关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 4",
+      "CN": "关卡 4",
+      "KR": "레벨 4",
+      "TW": "第 4 關"
+    }
   },
   "**models and textures Zombie**": {
-    "translation": "**僵尸的模型和纹理**"
+    "translation": "**僵尸的模型和纹理**",
+    "MultiLang": {
+      "US": "",
+      "JP": "モデルとテクスチャ ゾンビ",
+      "CN": "僵尸模型与贴图",
+      "KR": "모델 및 텍스처 좀비",
+      "TW": "殭屍的角色模型與材質貼圖"
+    }
   },
   "**psevdogigant IS DEAD**": {
-    "translation": "**伪巨人已死**"
+    "translation": "**伪巨人已死**",
+    "MultiLang": {
+      "US": "***PSEVDOGIGANT IS DEAD***",
+      "JP": "プセイドギガントは死んだ",
+      "CN": "伪巨型僵尸已死亡",
+      "KR": "프로타고자트는 사멸",
+      "TW": "偽巨人是死的"
+    }
   },
   "**shoot the helicopter**": {
-    "translation": "**射击直升机**"
+    "translation": "**射击直升机**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターを撃て",
+      "CN": "击落直升机",
+      "KR": "헬리콥터에게 발사하세요",
+      "TW": "射擊直升機"
+    }
   },
   "**the door is open**": {
-    "translation": "**门已打开**"
+    "translation": "**门已打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開いている",
+      "CN": "门是开着的",
+      "KR": "문이 열려 있습니다",
+      "TW": "門是開著的"
+    }
   },
   "**the helicopter is destroyed.  run*": {
-    "translation": "**直升机被摧毁。快跑***"
+    "translation": "**直升机被摧毁。快跑***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターが破壊された。逃げるんだ！",
+      "CN": "直升机被摧毁了。快跑*",
+      "KR": "헬리콥터가 파괴되었습니다. 달아나세요*",
+      "TW": "直升機已擊毀。快跑！"
+    }
   }
 }

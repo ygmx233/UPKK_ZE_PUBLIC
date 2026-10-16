@@ -1,149 +1,512 @@
 {
   "*** Hold 20 seconds ***": {
-    "translation": "请等待20秒"
+    "translation": "请等待20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒間押し続けてください ***",
+      "CN": "*** 持续按住20秒 ***",
+      "KR": "*** 20초 동안 계속 누르세요 ***",
+      "TW": "*** 持續按住20秒 ***"
+    }
   },
   "*** QUAKE ***": {
-    "translation": "地震"
+    "translation": "地震",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 大地震 ***",
+      "CN": "*** 地震 ***",
+      "KR": "*** 지진(화산) ***",
+      "TW": "*** 巨震 ***"
+    }
   },
   "*** EARTH SHOCK ***": {
-    "translation": "大地践踏（地图左右两边出现刀波，先选择一边跳过去然后再跳另一边的刀）"
+    "translation": "大地践踏（地图左右两边出现刀波，先选择一边跳过去然后再跳另一边的刀）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 地響き ***",
+      "CN": "*** 大地震动 ***",
+      "KR": "*** 지면 강타 ***",
+      "TW": "*** 大地搖晃 ***"
+    }
   },
   "*** LAND SUBSIDENCE ***": {
-    "translation": "地面沉降（地面随机下降，跑到没有下降的地面）"
+    "translation": "地面沉降（地面随机下降，跑到没有下降的地面）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 地盤沈下 ***",
+      "CN": "*** 地面沉降 ***",
+      "KR": "*** 지하 침강 ***",
+      "TW": "*** 地面塌陷 ***"
+    }
   },
   "*** EARTH STOMP ***": {
-    "translation": "大地震击（看头顶躲避石柱）"
+    "translation": "大地震击（看头顶躲避石柱）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 大地踏み付け ***",
+      "CN": "*** 踏地击 ***",
+      "KR": "*** 땅굴 ***",
+      "TW": "*** 震地踏步 ***"
+    }
   },
   "*** EARTHEN SHIELD ***": {
-    "translation": "大地之盾"
+    "translation": "大地之盾",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 岩の盾 ***",
+      "CN": "*** 大地护盾 ***",
+      "KR": "*** 성스러운 방패 ***",
+      "TW": "*** 岩石護盾 ***"
+    }
   },
   "*** EARTHQUAKE ***": {
-    "translation": "地震"
+    "translation": "地震",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 地震 ***",
+      "CN": "*** 地震 ***",
+      "KR": "*** 지진 ***",
+      "TW": "*** 地震 ***"
+    }
   },
   "*** Map by Airvulpes ***": {
-    "translation": "地图由Airvulpes制作"
+    "translation": "地图由Airvulpes制作",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マップ作成: Airvulpes ***",
+      "CN": "*** 地图由 Airvulpes 制作 ***",
+      "KR": "*** 맵 제작자: Airvulpes ***",
+      "TW": "*** 地圖作者：Airvulpes ***"
+    }
   },
   "*** Hold 30 seconds ***": {
-    "translation": "请等待30秒"
+    "translation": "请等待30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒間押し続けてください ***",
+      "CN": "*** 持续按住30秒 ***",
+      "KR": "*** 30초간 누르세요 ***",
+      "TW": "*** 保持30秒 ***"
+    }
   },
   "*** 10 seconds left ***": {
-    "translation": "还剩10秒"
+    "translation": "还剩10秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** あと10秒です ***",
+      "CN": "*** 剩余10秒 ***",
+      "KR": "*** 10초 남음 ***",
+      "TW": "*** 剩餘10秒 ***"
+    }
   },
   "*** 5 seconds left ***": {
-    "translation": "还剩5秒"
+    "translation": "还剩5秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** あと5秒です ***",
+      "CN": "*** 剩余5秒 ***",
+      "KR": "*** 5초 남음 ***",
+      "TW": "*** 剩餘5秒 ***"
+    }
   },
   "*** Hold 25 seconds ***": {
-    "translation": "请等待25秒"
+    "translation": "请等待25秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒間押し続けてください ***",
+      "CN": "*** 持续按住25秒 ***",
+      "KR": "*** 25초간 누르세요 ***",
+      "TW": "*** 保持25秒 ***"
+    }
   },
   "*** Doors open in 10 seconds ***": {
-    "translation": "门将在10秒后打开"
+    "translation": "门将在10秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが10秒後に開きます ***",
+      "CN": "*** 大门将在10秒后打开 ***",
+      "KR": "*** 문이 10초 후에 열립니다 ***",
+      "TW": "*** 門將在10秒後開啟 ***"
+    }
   },
   "*** Door opens in 25 seconds ***": {
-    "translation": "门将在25秒后打开"
+    "translation": "门将在25秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが25秒後に開きます ***",
+      "CN": "*** 门将在25秒后打开 ***",
+      "KR": "*** 문이 25초 후에 열립니다 ***",
+      "TW": "*** 門將在25秒後開啟 ***"
+    }
   },
   "*** Door opens in 35 seconds ***": {
-    "translation": "门将在35秒后打开"
+    "translation": "门将在35秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが35秒後に開きます ***",
+      "CN": "*** 门将在35秒后打开 ***",
+      "KR": "*** 문이 35초 후에 열립니다 ***",
+      "TW": "*** 門將在35秒後開啟 ***"
+    }
   },
   "*** ICICLE FALL ***": {
-    "translation": "冰瀑（看头顶找缝隙躲过3次攻击）"
+    "translation": "冰瀑（看头顶找缝隙躲过3次攻击）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 氷柱落下 ***",
+      "CN": "*** 冰锥坠落 ***",
+      "KR": "*** 고꾸라기 낙하 ***",
+      "TW": "*** 冰柱掉落 ***"
+    }
   },
   "*** BLIZZARD ***": {
-    "translation": "暴风雪（使用奶神器）"
+    "translation": "暴风雪（使用奶神器）",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ブリザード***",
+      "CN": "***暴雪***",
+      "KR": "*** 블리자드 ***",
+      "TW": "*** 暴雪 ***"
+    }
   },
   "*** FREEZING COFFIN ***": {
-    "translation": "冰之柩（站到平台中间圆盘位置躲避攻击）"
+    "translation": "冰之柩（站到平台中间圆盘位置躲避攻击）",
+    "MultiLang": {
+      "US": "",
+      "JP": "***フリーズコフィン***",
+      "CN": "***冰冻棺材***",
+      "KR": "*** 얼어붙은 관 ***",
+      "TW": "*** 極凍棺槨 ***"
+    }
   },
   "*** FROZEN WATER ***": {
-    "translation": "千里冰封（倒计时结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管）"
+    "translation": "千里冰封（倒计时结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管）",
+    "MultiLang": {
+      "US": "",
+      "JP": "***フローズンウォーター***",
+      "CN": "***冰封之水***",
+      "KR": "*** 얼어붙은 물 ***",
+      "TW": "*** 凝結之水 ***"
+    }
   },
   "*** RISING WATER ***": {
-    "translation": "水面上升（不用管）"
+    "translation": "水面上升（不用管）",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ライジングウォーター***",
+      "CN": "涨水***",
+      "KR": "*** 상승하는 물 ***",
+      "TW": "*** 漲水 ***"
+    }
   },
   "*** DIAMOND DUST ***": {
-    "translation": "钻石星尘（跑到四周水下躲避攻击）"
+    "translation": "钻石星尘（跑到四周水下躲避攻击）",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ダイヤモンドダスト***",
+      "CN": "***碎钻***",
+      "KR": "*** 다이아먼드 더스트 ***",
+      "TW": "*** 鑽石塵埃 ***"
+    }
   },
   "*** AERIAL BLAST ***": {
-    "translation": "大气爆发(看清天上出现的刀的位置躲避）"
+    "translation": "大气爆发(看清天上出现的刀的位置躲避）",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エアリアルブラスト***",
+      "CN": "***空袭***",
+      "KR": "*** 공중 폭발 ***",
+      "TW": "*** 空中衝擊 ***"
+    }
   },
   "*** Hold 50 seconds ***": {
-    "translation": "请等待50秒"
+    "translation": "请等待50秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "***50秒間押す***",
+      "CN": "***持续50秒***",
+      "KR": "*** 50초 동안 유지 ***",
+      "TW": "*** 持續50秒 ***"
+    }
   },
   "*** GUST ***": {
-    "translation": "狂风（面对绿色的光球按住W键）"
+    "translation": "狂风（面对绿色的光球按住W键）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Gust ***",
+      "CN": "***阵风***",
+      "KR": "*** 돌풍 ***",
+      "TW": "*** 強風 ***"
+    }
   },
   "*** UPDRAFT ***": {
-    "translation": "上升气流（上升后看着下面的位置落地）"
+    "translation": "上升气流（上升后看着下面的位置落地）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 上昇気流 ***",
+      "CN": "*** 上升气流 ***",
+      "KR": "*** 상승 기류 ***",
+      "TW": "***上升氣流***"
+    }
   },
   "*** EYE OF THE STORM ***": {
-    "translation": "风暴之眼"
+    "translation": "风暴之眼",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 嵐の目 ***",
+      "CN": "*** 暴风眼 ***",
+      "KR": "*** 눈의 성 ***",
+      "TW": "***風暴之眼***"
+    }
   },
   "*** DOWNBURST ***": {
-    "translation": "下爆气流（倒计时结束按住W）"
+    "translation": "下爆气流（倒计时结束按住W）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ダウバースト ***",
+      "CN": "*** 下击暴流 ***",
+      "KR": "*** 다운버스트 ***",
+      "TW": "***下擊暴流***"
+    }
   },
   "*** TORNADO ***": {
-    "translation": "龙卷风"
+    "translation": "龙卷风",
+    "MultiLang": {
+      "US": "",
+      "JP": "***  tornado ***",
+      "CN": "*** 龙卷风 ***",
+      "KR": "*** 토네이도 ***",
+      "TW": "***龍捲風***"
+    }
   },
   "*** Hold 10 seconds ***": {
-    "translation": "请等待10秒"
+    "translation": "请等待10秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒間ホールド ***",
+      "CN": "*** 保持10秒 ***",
+      "KR": "*** 10초간 유지 ***",
+      "TW": "***持續按住10秒***"
+    }
   },
   "*** LIFT IS LEAVING IN 5 SECONDS ***": {
-    "translation": "电梯将在5秒后离开"
+    "translation": "电梯将在5秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 離陸まで残り5秒です ***",
+      "CN": "*** 升空装置将在5秒后撤离 ***",
+      "KR": "*** 리프트가 5초 내에 떠납니다 ***",
+      "TW": "***升空裝置將於5秒後離開***"
+    }
   },
   "*** FLAME RADIATION ***": {
-    "translation": "火焰辐射"
+    "translation": "火焰辐射",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 火炎放射 ***",
+      "CN": "*** 火焰辐射 ***",
+      "KR": "*** 화염 복사 ***",
+      "TW": "***火焰輻射***"
+    }
   },
   "*** SUN STRIKE ***": {
-    "translation": "哈雷克之火葬魔咒(天火天火）!"
+    "translation": "哈雷克之火葬魔咒(天火天火）!",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** サンストライク ***",
+      "CN": "*** 太阳打击 ***",
+      "KR": "*** 태양 타격 ***",
+      "TW": "***太陽神擊***"
+    }
   },
   "*** FLASH OVER ***": {
-    "translation": "闪燃"
+    "translation": "闪燃",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** フラッシュオーバー ***",
+      "CN": "*** 闪光结束 ***",
+      "KR": "*** 플래시 오버 ***",
+      "TW": "*** 閃爍過載 ***"
+    }
   },
   "*** MEGA FLARE ***": {
-    "translation": "**百万耀斑（不要靠近BOSS***"
+    "translation": "**百万耀斑（不要靠近BOSS***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** メガフレア ***",
+      "CN": "*** 极炎***",
+      "KR": "*** 메가 플레어 ***",
+      "TW": "*** 巨大耀斑 ***"
+    }
   },
   "*** FORGE SPIRITS ***": {
-    "translation": "熔炉精灵(看清地上的小火球躲避）"
+    "translation": "熔炉精灵(看清地上的小火球躲避）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** フォージスピリッツ ***",
+      "CN": "*** 铸魂 ***",
+      "KR": "*** 포지 스피릿 ***",
+      "TW": "*** 熔爐精靈 ***"
+    }
   },
   "*** FLAMBERGE ***": {
-    "translation": "焰形剑（不要被天上的刀刮到）"
+    "translation": "焰形剑（不要被天上的刀刮到）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** フランバージュ ***",
+      "CN": "*** 焰刃***",
+      "KR": "*** 플라مبر지 ***",
+      "TW": "*** 熾焰劍 ***"
+    }
   },
   "*** FIREBALL ***": {
-    "translation": "大火球(远离BOSS)"
+    "translation": "大火球(远离BOSS)",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ファイアボール ***",
+      "CN": "*** 火球***",
+      "KR": "*** 파이어볼 ***",
+      "TW": "*** 火球 ***"
+    }
   },
   "*** GIGA FLARE ***": {
-    "translation": "十亿耀斑（远离BOSS"
+    "translation": "十亿耀斑（远离BOSS",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ギガフレア ***",
+      "CN": "*** 巨极炎***",
+      "KR": "*** 기가 플레어 ***",
+      "TW": "*** 極大耀斑 ***"
+    }
   },
   "*** TERA FLARE ***": {
-    "translation": "兆亿耀斑（BOSS死亡）**"
+    "translation": "兆亿耀斑（BOSS死亡）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** テラフレア ***",
+      "CN": "*** 天极炎***",
+      "KR": "*** 테라 플레어 ***",
+      "TW": "*** 泰拉耀斑 ***"
+    }
   },
   "*** EXA FLARE ***": {
-    "translation": "**千兆亿耀斑(准备使用奶神器）**"
+    "translation": "**千兆亿耀斑(准备使用奶神器）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エクサフレア ***",
+      "CN": "*** 限极炎***",
+      "KR": "*** 엑사 플레어 ***",
+      "TW": "*** 艾萨耀斑 ***"
+    }
   },
   "*** CURAGA ***": {
-    "translation": "超级治疗"
+    "translation": "超级治疗",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** クラガ ***",
+      "CN": "*** 治愈***",
+      "KR": "*** 쉐리가 ***",
+      "TW": "*** CURAGA ***"
+    }
   },
   "*** HOLY ***": {
-    "translation": "神圣"
+    "translation": "神圣",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ホーリー ***",
+      "CN": "*** 神圣***",
+      "KR": "*** 호리블 ***",
+      "TW": "*** HOLY ***"
+    }
   },
   "*** ZOMBIE KILLED PHILIA ***": {
-    "translation": "丧尸杀死了Philia"
+    "translation": "丧尸杀死了Philia",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビがフィリアを倒した ***",
+      "CN": "*** 被僵尸杀害PHILIA ***",
+      "KR": "*** 좀비 필리아 저격 ***",
+      "TW": "*** 殭屍殺害菲利亞 ***"
+    }
   },
   "*** STAGE FAILED ***": {
-    "translation": "关卡失败"
+    "translation": "关卡失败",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ステージクリア失敗 ***",
+      "CN": "*** 关卡失败***",
+      "KR": "*** 스테이지 실패 ***",
+      "TW": "*** 關卡失敗 ***"
+    }
   },
   "*** ZOMBIE GOT INSIDE THE LIFT ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビがエレベーターに入ってきた ***",
+      "CN": "*** 僵尸进入了电梯***",
+      "KR": "*** 좀비 엘리베이터 침입 ***",
+      "TW": "*** 殭屍進入電梯 ***"
+    }
   },
   "*** TIDAL WAVE ***": {
-    "translation": "海啸（按住W穿过海啸两次，不要按A,D）"
+    "translation": "海啸（按住W穿过海啸两次，不要按A,D）",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 津波 ***",
+      "CN": "*** 海啸***",
+      "KR": "*** 쓰나미 ***",
+      "TW": "*** 海嘯 ***"
+    }
   },
   "Level 2 set": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル2セット",
+      "CN": "第二套关卡",
+      "KR": "레벨 2 세트",
+      "TW": "等級 2 套裝"
+    }
   },
   "Level 4 set": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル4セット",
+      "CN": "第四套关卡",
+      "KR": "레벨 4 세트",
+      "TW": "等級 4 套裝"
+    }
   },
   "** 重置重力 reset gravity**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**  Reset Gravity reset gravity",
+      "JP": "** 重力をリセットする **",
+      "CN": "重置重力",
+      "KR": "** 중력 재설정 gravity reset",
+      "TW": "** 重置重力 reset gravity **"
+    }
+  },
+  "Level 3 set": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル3セット",
+      "CN": "三级套装",
+      "KR": "레벨 3 설정",
+      "TW": "第三層設定"
+    }
+  },
+  "** 重置重力 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**  Reset Gravity **",
+      "JP": "** 重力をリセットする **",
+      "CN": "",
+      "KR": "** 중력 재설정 **",
+      "TW": "** 重置重力 **"
+    }
   }
 }

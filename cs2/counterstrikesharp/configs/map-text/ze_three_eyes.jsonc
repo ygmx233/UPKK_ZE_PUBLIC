@@ -1,0 +1,302 @@
+{
+  "**Thanks to Airvulpes for the textures**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Airvulpesによるテクスチャの提供に感謝します**",
+      "CN": "感谢 Airvulpes 提供贴图",
+      "KR": "**텍스처 제작: Airvulpes**",
+      "TW": "感謝 Airvulpes 提供貼圖"
+    }
+  },
+  "**Special thanks to Jewdice for particles work**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Jewdiceによるパーティクル作業に特殊な感謝を捧げます**",
+      "CN": "特别感谢 Jewdice 的粒子特效工作",
+      "KR": "**파티클 작업: Jewdice**",
+      "TW": "特別感謝 Jewdice 的粒子特效設計"
+    }
+  },
+  "**Special thanks to Moltard and Soft Serve**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**MoltardおよびSoft Serveに特殊な感謝を捧げます**",
+      "CN": "特别感谢 Moltard 和 Soft Serve",
+      "KR": "**도움 주신 분: Moltard, Soft Serve**",
+      "TW": "特別感謝 Moltard 和 Soft Serve"
+    }
+  },
+  "- Map LastUpdate:2025.9.28 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- Map LastUpdate:2025.9.28 -",
+      "CN": "- 地图最后更新时间：2025.9.28 -",
+      "KR": "- 지도 마지막 업데이트: 2025.9.28 -",
+      "TW": "- 地圖最後更新時間：2025.9.28 -"
+    }
+  },
+  "40 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒",
+      "CN": "40 秒",
+      "KR": "40초",
+      "TW": "40 秒"
+    }
+  },
+  "**Wait here for the moving platform**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**移動プラットフォームをここで待機**",
+      "CN": "在此等待移动平台",
+      "KR": "**이동 플랫폼을 기다리세요**",
+      "TW": "在此等候移動平台"
+    }
+  },
+  "30 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒",
+      "CN": "30 秒",
+      "KR": "30초",
+      "TW": "30 秒"
+    }
+  },
+  "20 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒",
+      "CN": "20 秒",
+      "KR": "20초",
+      "TW": "20 秒"
+    }
+  },
+  "10 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒",
+      "CN": "10秒",
+      "KR": "10초",
+      "TW": "10 秒"
+    }
+  },
+  "45 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "45秒",
+      "CN": "45秒",
+      "KR": "45초",
+      "TW": "45 秒"
+    }
+  },
+  "35 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒",
+      "CN": "35秒",
+      "KR": "35초",
+      "TW": "35 秒"
+    }
+  },
+  "25 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒",
+      "CN": "25秒",
+      "KR": "25초",
+      "TW": "25 秒"
+    }
+  },
+  "15 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒",
+      "CN": "15秒",
+      "KR": "15초",
+      "TW": "15 秒"
+    }
+  },
+  "5 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒",
+      "CN": "5秒",
+      "KR": "5초",
+      "TW": "5 秒"
+    }
+  },
+  "50 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "50秒",
+      "CN": "50秒",
+      "KR": "50초",
+      "TW": "50 秒"
+    }
+  },
+  "**Stay on the Cube**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**キューブに留まれ**",
+      "CN": "**停留在方块上**",
+      "KR": "**큐브 위에 머물기**",
+      "TW": "**留在方塊上**"
+    }
+  },
+  "**Pick a platform**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プラットフォームを選択**",
+      "CN": "选择平台",
+      "KR": "**플랫폼 선택**",
+      "TW": "**選擇一個平台**"
+    }
+  },
+  "**Zombies are comming**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ゾンビーが近づいている**",
+      "CN": "僵尸来袭",
+      "KR": "**저스성이 오고 있습니다**",
+      "TW": "**殭屍即將到來**"
+    }
+  },
+  "60 Seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒",
+      "CN": "60秒",
+      "KR": "60초",
+      "TW": "60 秒"
+    }
+  },
+  "- Map LastUpdate:2025.10.14 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- マップ最終更新日:2025.10.14 -",
+      "CN": "- 地图最后更新时间：2025.10.14 -",
+      "KR": "- 지도 마지막 업데이트: 2025.10.14 -",
+      "TW": "- 地圖最後更新：2025.10.14 -"
+    }
+  },
+  "- Map LastUpdate:2025.11.16 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- マップ最終更新日:2025.11.16 -",
+      "CN": "- 地图最后更新时间：2025.11.16 -",
+      "KR": "- 지도 마지막 업데이트: 2025.11.16 -",
+      "TW": "- 地圖最後更新：2025.11.16 -"
+    }
+  },
+  "**Wait until the teleport activates**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**テレポートが作動するのを待ってください**",
+      "CN": "等待传送激活",
+      "KR": "**텔레포트가 활성화될 때까지 기다리세요**",
+      "TW": "**等待傳送激活**"
+    }
+  },
+  "- Map LastUpdate:2026.4.10 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- マップ最終更新日:2026.4.10 -",
+      "CN": "- 地图最后更新时间：2026.4.10 -",
+      "KR": "- 지도 마지막 업데이트: 2026.4.10 -",
+      "TW": "- 地圖最後更新：2026.4.10 -"
+    }
+  },
+  "SIHanatsuka - REmorse": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "SIHanatsuka - REmorse",
+      "CN": "SIHanatsuka - REmorse",
+      "KR": "SIHanatsuka - REmorse",
+      "TW": "SIHanatsuka - REmorse"
+    }
+  },
+  "Neutral Moon - Dead Point": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "中立の月 - デッドポイント",
+      "CN": "中立月球 - 死亡点",
+      "KR": "중립의 달 - 사지 (Dead Point)",
+      "TW": "中立之月－死寂點"
+    }
+  },
+  "lixound - Break Through The Barrier": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リサウンド - 障壁を突き破れ",
+      "CN": "利桑德 - 突破屏障",
+      "KR": "lixound - 장벽 돌파",
+      "TW": "lixound - 突破障礙"
+    }
+  },
+  "James Landino - Stranger": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジェームズ・ランディーノ - 見知らぬ人",
+      "CN": "詹姆斯·兰迪诺 - 陌生人",
+      "KR": "James Landino - 낯선 자",
+      "TW": "James Landino - 異客"
+    }
+  },
+  "- Map LastUpdate:2026.4.22 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- Map LastUpdate:2026.4.22 -",
+      "CN": "-地图最后更新:2026.4.22-",
+      "KR": "- 맵 최종 업데이트: 2026.4.22 -",
+      "TW": "- 地圖最後更新：2026.4.22 -"
+    }
+  },
+  "- Map LastUpdate:2026.9.1 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- Map LastUpdate:2026.10.13 -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

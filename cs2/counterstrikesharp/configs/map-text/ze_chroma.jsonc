@@ -1,0 +1,152 @@
+{
+  "*** Map by Soft Serve ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Soft Serve 作成のマップ ***",
+      "CN": "*** 地图制作：Soft Serve ***",
+      "KR": "*** Soft Serve 작품 ***",
+      "TW": "*** Soft Serve 製圖 ***"
+    }
+  },
+  "*** 45 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 45 秒 ***",
+      "CN": "*** 45秒 ***",
+      "KR": "*** 45초 ***",
+      "TW": "*** 45 秒 ***"
+    }
+  },
+  "*** 15 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15 秒 ***",
+      "CN": "*** 15秒 ***",
+      "KR": "*** 15초 ***",
+      "TW": "*** 15 秒 ***"
+    }
+  },
+  "*** 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5 秒 ***",
+      "CN": "*** 5秒 ***",
+      "KR": "*** 5초 ***",
+      "TW": "*** 5 秒 ***"
+    }
+  },
+  "*** Blue-Yellow has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ブルー・イエローを入手しました ***",
+      "CN": "*** 已获取技能：蓝黄相克 ***",
+      "KR": "*** 블루-옐로우 획득 ***",
+      "TW": "*** 已取得藍黃配色 ***"
+    }
+  },
+  "*** Chromatic Heal has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 彩度回復を入手しました ***",
+      "CN": "*** 已获取技能：光谱治疗 ***",
+      "KR": "*** 크로마틱 힐 획득 ***",
+      "TW": "*** 已取得色彩治療 ***"
+    }
+  },
+  "** You have 400 seconds to kill the boss **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボスを倒すまでに 400 秒あります **",
+      "CN": "** 你只有400秒来击杀Boss **",
+      "KR": "** 보스를 처치하기까지 400초가 주어집니다 **",
+      "TW": "** 你有 400 秒的時間擊敗Boss **"
+    }
+  },
+  "*** 3 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 2 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 1 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** TBC ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** TBC ***",
+      "CN": "*** 待添加 ***",
+      "KR": "*** TBC ***",
+      "TW": "*** TBC ***"
+    }
+  },
+  "*** Green-Magenta has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** グリーン-マゼンタを獲得しました ***",
+      "CN": "已夺取 *** 品红-绿色 ***",
+      "KR": "*** 그린-마젠타 획득 ***",
+      "TW": "*** 已獲得藍綠色-品紅色 ***"
+    }
+  },
+  "*** Red-Cyan has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レッド-シアンを獲得しました ***",
+      "CN": "已夺取 *** 青色-红色 ***",
+      "KR": "*** 레드-시안 획득 ***",
+      "TW": "*** 已獲得紅青***"
+    }
+  },
+  "*** Round failed! Zombies have reached the objective! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ラウンド失敗！ ゾンビが目標地点に到達しました！ ***",
+      "CN": "*** 回合失败！僵尸已到达目标点！***",
+      "KR": "*** 라운드 실패! 좀비가 목표 지점에 도달했습니다! ***",
+      "TW": "*** 回合失敗！殭屍已到達目標點！ ***"
+    }
+  },
+  "** You have 60 seconds left to kill the boss **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボスを倒すまで60秒が残っています **",
+      "CN": "** 距离击杀Boss仅剩60秒 **",
+      "KR": "** 보스 처치까지 60초 남았습니다 **",
+      "TW": "** 您只剩 60 秒可用以擊殺Boss **"
+    }
+  }
+}

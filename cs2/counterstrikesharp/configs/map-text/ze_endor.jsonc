@@ -1,0 +1,602 @@
+{
+  "***stage1***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1",
+      "CN": "***stage1***",
+      "KR": "***stage1***",
+      "TW": "***第一關***"
+    }
+  },
+  "***20***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***30***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***35***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***stage2***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2",
+      "CN": "***stage2***",
+      "KR": "***stage2***",
+      "TW": "***第二關***"
+    }
+  },
+  "***15***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***25***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Mapper 蓝色水母": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mapper Blue Jellyfish",
+      "JP": "地図製作者：青いクラゲ",
+      "CN": "",
+      "KR": "Mapper 파란 해파리",
+      "TW": "地圖作者：藍色水母"
+    }
+  },
+  "技术支援:Tenshi/Ēxter": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technical Support: Tenshi/Exter",
+      "JP": "技術サポート：天司／エクスティーア",
+      "CN": "",
+      "KR": "기술 지원: Tenshi/Ēxter",
+      "TW": "技術支援：Tenshi/Ēxter"
+    }
+  },
+  "特别感谢:花澪墨音": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Special Thanks: Hana Rei Mone",
+      "JP": "特別感謝：花澪墨音",
+      "CN": "",
+      "KR": "특별 감사: 화령묵음",
+      "TW": "特別感謝：花澪墨音"
+    }
+  },
+  "该地图为neron的外传，此版本目前还未完工，最后一关以及剧情将在后续补上": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This map is a side story by Neron. This version is currently incomplete; the final stage and storyline will be added later.",
+      "JP": "この地図はneronの外伝です。このバージョンはまだ未完成で、最終ステージとストーリーは今後追加されます。",
+      "CN": "",
+      "KR": "이 지도는 neron의 외전이며, 현재 버전은 완공되지 않았습니다. 마지막 관과 스토리는 이후에 보완될 예정입니다.",
+      "TW": "此地圖為 neron 的外傳作品，目前版本尚未完成，最終關卡及劇情將於後續補上。"
+    }
+  },
+  "Kiacy:呐，醒醒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Hey, wake up.",
+      "JP": "キアシー：ねえ、起きて",
+      "CN": "",
+      "KR": "Kiacy: 저기, 깰래?",
+      "TW": "Kiacy：吶，醒醒"
+    }
+  },
+  "Kiacy:有听到吗?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Can you hear me?",
+      "JP": "キアシー：聞こえますか？",
+      "CN": "",
+      "KR": "Kiacy: 들려?",
+      "TW": "Kiacy：有聽到嗎？"
+    }
+  },
+  "Kiacy:真是的，我们现在可是在逃跑中呢，你是怎么睡的这么安稳的?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Seriously, we're in the middle of an escape. How can you sleep so peacefully?",
+      "JP": "きあし:本当に、今私たちは逃亡中なのに、どうやってそんなに穏やかに眠れるの?",
+      "CN": "",
+      "KR": "Kiacy: 정말로, 지금 우리는 도주 중인데 어떻게 그렇게 평화롭게 잘 수 있어요?",
+      "TW": "Kiacy：真是的，我們現在可是在逃跑中呢，你是怎麼睡得這麼安穩的？"
+    }
+  },
+  "Kiacy:列车停下来了，我想我们得从这里开始步行了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: The train has stopped. I think we'll have to walk from here.",
+      "JP": "きあし:列車が止まったわ。ここからは歩くしかないみたいね",
+      "CN": "",
+      "KR": "Kiacy: 열차가 멈췌네요. 여기부터는 걸어서 이동해야 할 것 같아요.",
+      "TW": "Kiacy：列車停下来了，我想我們得從這裡開始步行了。"
+    }
+  },
+  "Kiacy:希望他们没发现我们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: I hope they didn't catch us.",
+      "JP": "きあし:見つかっていないといいんだけど",
+      "CN": "",
+      "KR": "Kiacy: 그들이 우리를 발견하지 못했기를 바래요.",
+      "TW": "Kiacy：希望他們沒發現我們。"
+    }
+  },
+  "Kiacy:这里地下好像有路，等我一下我来想办法打开他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: There seems to be a tunnel underground. Give me a moment to figure out how to open it.",
+      "JP": "きあし:ここ地下に道があるみたい。ちょっと待って、開ける方法を探すね",
+      "CN": "",
+      "KR": "Kiacy: 여기 지하에 도로가 있는 것 같아요. 잠시만 기다려주세요. 열어볼게요.",
+      "TW": "Kiacy：這裡地下好像有路，等我一下，我來想辦法打開它。"
+    }
+  },
+  "Kiacy:好了!快跟我站在一起": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Got it! Quick, stand with me.",
+      "JP": "きあし:わかった!一緒に並んでて",
+      "CN": "",
+      "KR": "Kiacy: 됐어요! 빨리 저기서 제 곁에 서있으세요.",
+      "TW": "Kiacy：好了！快跟我站在一起。"
+    }
+  },
+  "Kiacy:呀!!!怎么是这样的开门方式阿?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Yikes!!! Is this how doors are supposed to open?",
+      "JP": "きあし:やった!!どうしてこんな開け方なの?",
+      "CN": "",
+      "KR": "Kiacy: 야!!! 어떻게 이런 식으로 문을 여는지요?",
+      "TW": "Kiacy：呀！！！為什麼是這樣的開門方式啊？"
+    }
+  },
+  "Kiacy:开启这扇门需要点时间，你在旁边等我一下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: It'll take a little time to open this door. Please wait here for a moment.",
+      "JP": "きあし:このドアを開けるのに時間がかかるわ。そばで待ってて",
+      "CN": "",
+      "KR": "Kiacy: 이 문을 열려면 시간이 좀 걸릴 것 같아요. 잠시 옆에서 기다려주세요.",
+      "TW": "Kiacy：開啟這扇門需要點時間，你在旁邊等我一下。"
+    }
+  },
+  "Kiacy:怎么没路了?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: What? There's no path anymore?",
+      "JP": "きあし:どうして道がないの?",
+      "CN": "",
+      "KR": "Kiacy: 왜 길이 없나요?",
+      "TW": "Kiacy：怎麼沒路了？"
+    }
+  },
+  "Kiacy:怎么还来呀!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Not again!!!",
+      "JP": "キアシー:また来たの!!!",
+      "CN": "",
+      "KR": "키아시: 왜 또 여기로 온 거야!!!",
+      "TW": "Kiacy：怎麼又來啦！！！"
+    }
+  },
+  "Kiacy:呐,???从这里逃出去后，你有特别想做的事情吗?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Hey, ??? After we escape from here, is there anything you really want to do?",
+      "JP": "キアシー:ねえ、???ここを脱出した後、特别にやりたいことはある?",
+      "CN": "",
+      "KR": "키아시: 네, ??? 여기서 탈출한 후 특별히 하고 싶은 일이 있나요?",
+      "TW": "Kiacy：嘿，???從這裡逃出去之後，你有特別想做的事嗎？"
+    }
+  },
+  "Kiacy:我呢，想当个导游": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: As for me, I want to be a tour guide.",
+      "JP": "キアシー:私は、ガイドになりたいの",
+      "CN": "",
+      "KR": "키아시: 전_guide_이 되고 싶어요.",
+      "TW": "Kiacy：我的話，想當一名導遊"
+    }
+  },
+  "Kiacy:一直被关在这里，只能透过书籍来认识外面的世界": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: I've been locked up here all this time, able to know the outside world only through books.",
+      "JP": "キアシー:ここにとじこめられて、本を通してだけ外の世界を知るなんて",
+      "CN": "",
+      "KR": "키아시: 항상 여기 갇혀 있어서 책 속으로만 밖의 세상을 알았거든요.",
+      "TW": "Kiacy：一直被困在這裡，只能透過書籍來認識外面的世界"
+    }
+  },
+  "Kiacy:我想作为一名导游，到世界各地去，实际到书上展示的那些地方去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: I want to travel the world as a tour guide, actually visiting the places shown in those books.",
+      "JP": "キアシー:ガイドとして世界中をめぐり、本で示された場所を実際に行きたいの",
+      "CN": "",
+      "KR": "키아시: 저는 가이드로 전 세계를 돌아다니면서, 책에 나와 있던 곳들을 실제로 방문하고 싶어요.",
+      "TW": "Kiacy：我想作為一名導遊，去世界各地，實際到書上展示的那些地方走走看看"
+    }
+  },
+  "Kiacy:你呢,???你想做些什么?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: What about you, ??? What do you want to do?",
+      "JP": "キアシー:あなたはどう?、???何かにやりたいことはある?",
+      "CN": "",
+      "KR": "키아시: 당신은요, ??? 뭘 하고 싶나요?",
+      "TW": "Kiacy：你呢，???你想做什麼？"
+    }
+  },
+  "???:我...我不知道...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "???：I... I don't know...",
+      "JP": "???:私...わからない...",
+      "CN": "",
+      "KR": "???: 나... 잘 모르겠어요...",
+      "TW": "???:我……我不知道……"
+    }
+  },
+  "Kiacy:这样阿...，如果你一直都不知道要做什么的话": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Is that so... If you still don't know what to do...",
+      "JP": "キアシー:そうね...もしあなたが何をしたいのかずっとわからなかったら",
+      "CN": "",
+      "KR": "키아시: 그렇군요... 만약 계속 무엇을 해야 할지 모른다면,",
+      "TW": "Kiacy：這樣啊……，如果你一直都不知道要做什麼的話"
+    }
+  },
+  "Kiacy:就来跟我一起当导游吧!一起去旅行~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Then come be a tour guide with me! Let's travel together~",
+      "JP": "キアシー:さあ、私と一緒にガイド業を始めよう！一緒に旅行へ出かけよう～",
+      "CN": "",
+      "KR": "키아시: 나랑 함께 가이드 해볼까? 여행을 떠나보자~",
+      "TW": "Kiacy：快來跟我一起當導遊吧！一起去旅行～"
+    }
+  },
+  "Kiacy:门开了,可是为什么又没路了？难道又在底下?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: The door is open, but why is there no path? Could it be underneath again?",
+      "JP": "キアシー:扉は開いたけど、なぜか道がない？もしかして下の方にあるの？",
+      "CN": "",
+      "KR": "키아시: 문이 열렸는데, 왜 길이 없지? 역시 밑바닥인가?",
+      "TW": "Kiacy：門開了，可是為什麼又沒路了？難道又在下面嗎？"
+    }
+  },
+  "Kiacy:遭了!这次不是在底下，我们中陷阱了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Oh no! This time it's not on the bottom, we fell into a trap!",
+      "JP": "キアシー:まずい！今回は下ではなくて、私たちのところに罠があったんだ。",
+      "CN": "",
+      "KR": "키아시: 아! 이번엔 밑바닥이 아니라 우리를 함정에 빠뜨렸어",
+      "TW": "Kiacy：糟糕！這次不是在底下，我們中陷阱了！"
+    }
+  },
+  "???:这里是...？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "???:: Is this...?",
+      "JP": "？？？：ここは…？",
+      "CN": "",
+      "KR": "???: 여기가...?",
+      "TW": "？？？：這裡是……？"
+    }
+  },
+  "Kiacy:不清楚，看起来像是宿舍一样": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: I'm not sure, but it looks like a dormitory.",
+      "JP": "キアシー：よく分からない。寄宿舎のようになっている気がする。",
+      "CN": "",
+      "KR": "키아시: 잘 모르겠어, Dormitory처럼 보이네",
+      "TW": "Kiacy：不清楚，看起來像是宿舍一樣。"
+    }
+  },
+  "Kiacy:我们被迷晕后给带到了这里": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: They brought us here after knocking us out.",
+      "JP": "キアシー：私たちは麻酔をかけられ、ここに連れてこられた。",
+      "CN": "",
+      "KR": "키아시: 우리가 의식 잃은 채로 여기로 옮겨졌어",
+      "TW": "Kiacy：我們被迷暈後給帶到這裡。"
+    }
+  },
+  "Kiacy:你动的起来吗?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Can you move?",
+      "JP": "キアシー：あなたは動ける？",
+      "CN": "",
+      "KR": "키아시: 움직일 수 있어?",
+      "TW": "Kiacy：你動得起來嗎？"
+    }
+  },
+  "???:可以": {
+    "translation": "",
+    "MultiLang": {
+      "US": "???:: Yes, I can.",
+      "JP": "？？？：うん。",
+      "CN": "",
+      "KR": "???: 응",
+      "TW": "？？？：可以。"
+    }
+  },
+  "Kiacy:把我们关到这里后却没人看守": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: They locked us in here but left no guards.",
+      "JP": "キアシー：私をここに入れて放り出したのに、見張りなんていないのよ",
+      "CN": "",
+      "KR": "키아시: 우리를 여기 가두놓고선 아무도 감시하지 않네",
+      "TW": "Kiacy：把我們關在這裡卻沒人看守"
+    }
+  },
+  "Kiacy:我不清楚他们究竟想做些什么": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: I don't know what they're planning.",
+      "JP": "キアシー：彼らがいったい何をしたいのか、私は知らないわ",
+      "CN": "",
+      "KR": "키아시: 도대체 mereka가 무슨打算을 가지고 있는지 알 수가 없어",
+      "TW": "Kiacy：我不清楚他們究竟想做什麼"
+    }
+  },
+  "Kiacy:我说阿，我们都相处五年了，你为什么从来没叫过我的名字?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Hey, we’ve been hanging out for five years now, and you’ve never once called me by my name?",
+      "JP": "キアシー：ねえ、私たちは五年も一緒にいたのに、なぜ一度も私の名前を呼んでくれないの?",
+      "CN": "",
+      "KR": "키아시: 듣게, 우리 서로 5년이나 함께 지냈는데 네가 내 이름을 부른 적이 단 한 번도 없더라",
+      "TW": "Kiacy：我說啊，我們都相處五年了，你為什麼從來沒叫過我的名字？"
+    }
+  },
+  "Kiacy:我最多只听过你叫过我姐姐而已": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: The most I’ve ever heard you call me is ‘Sis.’",
+      "JP": "キアシー：私が聞いたことのあるのは、お姉ちゃんって呼ばれたことくらいよ",
+      "CN": "",
+      "KR": "키아시: 그대가 부른 건 ‘언니’밖에 들은 적이 없는데",
+      "TW": "Kiacy：我最多只聽過你叫過我姐姐而已"
+    }
+  },
+  "???:....": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Kiacy:来麻，叫一次我的名字听听": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Come on, just say my name once—let’s hear it.",
+      "JP": "キアシー：ほら、私の名前を呼んでみて",
+      "CN": "",
+      "KR": "키아시: 와, 한 번 불러봐. 내 이름을.",
+      "TW": "Kiacy：來嘛，叫一次我的名字聽聽"
+    }
+  },
+  "???:Ki....Kiacy": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "???：キ....キアシー",
+      "CN": "???:Ki....Kiacy",
+      "KR": "???: 키.... 키아시",
+      "TW": "？？？：Ki...Kiacy"
+    }
+  },
+  "Kiacy:这不是能很正常的说出来吗?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: It’s not like that’s something hard to say, is it?",
+      "JP": "キアシー：そんなこと、普通に言えるじゃないの?",
+      "CN": "",
+      "KR": "키아시: 그렇게 정상적으로 말할 수 있는 거 아니야?",
+      "TW": "Kiacy：這不是能很自然地說出來嗎？"
+    }
+  },
+  "Kiacy:为什么以前都没叫过一次我的名字?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: So why have you never called me by my name before?",
+      "JP": "キアシー：なのに、なぜ今まで一度も私の名前を呼んでくれなかったの?",
+      "CN": "",
+      "KR": "키아시: 왜 처음부터 내 이름을 부르지 않았어?",
+      "TW": "Kiacy：為什麼以前都沒叫過我的名字？"
+    }
+  },
+  "???:我...我有点害羞": {
+    "translation": "",
+    "MultiLang": {
+      "US": "???: I... I’m a little shy.",
+      "JP": "？？？：私……ちょっと照れくさいな",
+      "CN": "",
+      "KR": "...나는... 조금 부끄럽다",
+      "TW": "???:我……我有点害羞"
+    }
+  },
+  "Kiacy:只是叫名字而已，有什么好害羞的?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: It’s just saying my name—what’s there to be shy about?",
+      "JP": "Kiacy:ただ名前を呼ぶだけでしょう。何が恥ずかしいの？",
+      "CN": "",
+      "KR": "키아시: 그냥 이름을 부르는 건데, 뭐가 어때서 부끄럽니?",
+      "TW": "Kiacy:只是叫名字而已，有什麼好害羞的?"
+    }
+  },
+  "Kiacy:我想起来这里了，以前他们单独带过我来这里": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: I remember now—they once brought me here by myself.",
+      "JP": "Kiacy:ここだということは分かったわ。以前、彼らにここまで連れてきてもらったことがあるわ",
+      "CN": "",
+      "KR": "키아시: 여기가 어디인지 기억났다. 예전에 그들이 저를 여기에 데려온 적이 있어.",
+      "TW": "Kiacy:我想起來這裡了，以前他們單獨帶過我來這裡"
+    }
+  },
+  "Kiacy:我记得前面有座大电梯，那也是唯一的出入口": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: I remember there's a large elevator up ahead. It's our only way in and out.",
+      "JP": "Kiacy:手前に大きなエスカレーターがあるはずよ。そこが唯一の出入り口ね",
+      "CN": "",
+      "KR": "키아시: 앞쪽에 큰 엘리베이터가 있던 걸로 기억나. 거기가 유일한 출입구였어.",
+      "TW": "Kiacy:我記得前面有座大電梯，那也是唯一的出入口"
+    }
+  },
+  "Kiacy:看来只能从那里离开了...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Looks like that's our only way out...",
+      "JP": "Kiacy:そこから脱出すしかないわ…",
+      "CN": "",
+      "KR": "키아시: 거기서 나가야 할 것 같군...",
+      "TW": "Kiacy:看來只能從那裡離開了..."
+    }
+  },
+  "Kiacy:我们走吧!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Let's go!",
+      "JP": "Kiacy:さあ、行こう！",
+      "CN": "",
+      "KR": "키아시: 가자!",
+      "TW": "Kiacy:我們走吧!"
+    }
+  },
+  "???:嗯": {
+    "translation": "",
+    "MultiLang": {
+      "US": "????: Mhm.",
+      "JP": "？？？：うん",
+      "CN": "",
+      "KR": "... 응",
+      "TW": "???:嗯"
+    }
+  },
+  "Kiacy:怎么回事？电梯自己启动了？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: What's going on? The elevator started on its own?",
+      "JP": "Kiacy:どういうこと？エスカレーターが勝手に動き出したの？",
+      "CN": "",
+      "KR": "키아시: 이게 뭐야? 엘리베이터가 혼자 작동하고 있어?",
+      "TW": "Kiacy:怎麼回事？電梯自己啟動了？"
+    }
+  },
+  "Kiacy:???我们快走!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: ??? Hurry up and go!",
+      "JP": "キァシー：早く行こう！",
+      "CN": "",
+      "KR": "키아시:??? 빨리 가자!",
+      "TW": "Kiacy:???我們快走!"
+    }
+  },
+  "Kiacy:有点不对劲...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Something feels off...",
+      "JP": "キァシー：何か変だ…",
+      "CN": "",
+      "KR": "키아시: 뭔가 좀 수상해...",
+      "TW": "Kiacy:有點不對勁..."
+    }
+  },
+  "Kiacy:小心!!!别碰到那些激光!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Careful!!! Don't touch those lasers!!",
+      "JP": "キァシー：気をつけて！そのレーザーに触れないで！",
+      "CN": "",
+      "KR": "키아시: 조심!!! 레이저에 절대触碰하지 마!",
+      "TW": "Kiacy:小心!!!別碰到那些激光!!"
+    }
+  },
+  "Kiacy:当初我到这里来的时候，是没有这些陷阱的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: When I first arrived here, there were no such traps.",
+      "JP": "キァシー：私がここに来た時は、こんな罠はなかったんだけど",
+      "CN": "",
+      "KR": "키아시: 내가 처음 여기에 왔을 때는 이런 함정이 없었어.",
+      "TW": "Kiacy:當初我到这里来的时候，是沒有這些陷阱的"
+    }
+  },
+  "Kiacy:究竟是谁启动了这些机关的....": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiacy: Who could have activated these mechanisms...",
+      "JP": "キァシー：いったい誰がこれを起動させたのだ……",
+      "CN": "",
+      "KR": "키아시: 대체 누가 이機關을 가동한 거야...",
+      "TW": "Kiacy:究竟是誰啟動了這些機關的...."
+    }
+  },
+  "关注藍月なくる喵~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Follow Blue Moon Nekuru Meow~",
+      "JP": "",
+      "CN": "关注蓝月不来喵~",
+      "KR": "란슈에 눈독을 들이는 냥이~",
+      "TW": "關注藍月無CURU喵~"
+    }
+  }
+}

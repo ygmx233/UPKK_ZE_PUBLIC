@@ -1,23 +1,82 @@
 {
   "<-40->": {
-    "translation": "40s"
+    "translation": "40s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<-30->": {
-    "translation": "30s"
+    "translation": "30s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<-20->": {
-    "translation": "20s"
+    "translation": "20s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<-10->": {
-    "translation": "10s"
+    "translation": "10s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<-5->": {
-    "translation": "5s"
+    "translation": "5s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<-50->": {
-    "translation": "50s"
+    "translation": "50s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<-Wait for 30 seconds->": {
-    "translation": "等待30秒"
+    "translation": "等待30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "<-30秒待機->",
+      "CN": "等待30秒",
+      "KR": "<-30초 기다리기->",
+      "TW": "<-等待30秒->"
+    }
+  },
+  "扁担模型脚本实体支持作者；PokieeAkuno": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   }
 }

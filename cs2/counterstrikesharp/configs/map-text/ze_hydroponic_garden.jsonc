@@ -1,71 +1,232 @@
 {
   "> 10 <": {
-    "translation": "> 10s <"
+    "translation": "> 10s <",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> 15 <": {
-    "translation": "> 15s <"
+    "translation": "> 15s <",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> 20 <": {
-    "translation": "> 20s <"
+    "translation": "> 20s <",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> 5 <": {
-    "translation": "> 5s <"
+    "translation": "> 5s <",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 10 |": {
-    "translation": "| 10s |"
+    "translation": "| 10s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 120 SECONDS LEFT |": {
-    "translation": "| 120s |"
+    "translation": "| 120s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り120秒",
+      "CN": "剩余 120 秒",
+      "KR": "남은 시간 120초",
+      "TW": "剩餘 120 秒"
+    }
   },
   "| 15 |": {
-    "translation": "| 15s |"
+    "translation": "| 15s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 20 |": {
-    "translation": "| 20s |"
+    "translation": "| 20s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 25 |": {
-    "translation": "| 25s |"
+    "translation": "| 25s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 30 |": {
-    "translation": "| 30s |"
+    "translation": "| 30s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 5 |": {
-    "translation": "| 5s |"
+    "translation": "| 5s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| BEAM |": {
-    "translation": "| 激光 |"
+    "translation": "| 激光 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ビーム",
+      "CN": "光束",
+      "KR": "빔",
+      "TW": "光束"
+    }
   },
   "| CUBE |": {
-    "translation": "| 魔方 |"
+    "translation": "| 魔方 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "キューブ",
+      "CN": "方块",
+      "KR": "큐브",
+      "TW": "立方體"
+    }
   },
   "| SHIELD |": {
-    "translation": "| 护盾 |"
+    "translation": "| 护盾 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "シールド",
+      "CN": "护盾",
+      "KR": "방패",
+      "TW": "護盾"
+    }
   },
   "| STAGE 1 SET AS NEXT STAGE |": {
-    "translation": "| 第1关设为下一关 |"
+    "translation": "| 第1关设为下一关 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1を次のステージに設定",
+      "CN": "已设定第 1 关为下一关",
+      "KR": "다음 스테이지로 1스테이지 설정",
+      "TW": "第 1 關設為下一關"
+    }
   },
   "| STAGE 2 SET AS NEXT STAGE |": {
-    "translation": "| 第2关设为下一关 |"
+    "translation": "| 第2关设为下一关 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2を次のステージに設定",
+      "CN": "已设定第 2 关为下一关",
+      "KR": "다음 스테이지로 2스테이지 설정",
+      "TW": "第 2 關設為下一關"
+    }
   },
   "| STAGE 3 SET AS NEXT STAGE |": {
-    "translation": "| 第3关设为下一关 |"
+    "translation": "| 第3关设为下一关 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3を次のステージに設定",
+      "CN": "已设定第 3 关为下一关",
+      "KR": "다음 스테이지로 3스테이지 설정",
+      "TW": "第 3 關設為下一關"
+    }
   },
   "| STAGE 4 SET AS NEXT STAGE |": {
-    "translation": "| 第4关设为下一关 |"
+    "translation": "| 第4关设为下一关 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ4を次のステージに設定",
+      "CN": "已设定第 4 关为下一关",
+      "KR": "다음 스테이지로 4스테이지 설정",
+      "TW": "第 4 關設為下一關"
+    }
   },
   "| SURVIVE FOR 40 SECONDS |": {
-    "translation": "| 生存40s |"
+    "translation": "| 生存40s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒間生存せよ",
+      "CN": "存活40秒",
+      "KR": "40초 동안 생존하기",
+      "TW": "存活 40 秒"
+    }
   },
   "| Zombie beam |": {
-    "translation": "| 僵尸激光 |"
+    "translation": "| 僵尸激光 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ザンビ ビーム",
+      "CN": "僵尸光束",
+      "KR": "좀비 빔",
+      "TW": "殭屍光束"
+    }
   },
   "| Zombie gravity |": {
-    "translation": "| 僵尸黑洞 |"
+    "translation": "| 僵尸黑洞 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ザンビ 重力",
+      "CN": "僵尸重力",
+      "KR": "좀비 중력",
+      "TW": "殭屍重力"
+    }
   },
   "| Zombie heal |": {
-    "translation": "| 僵尸治疗 |"
+    "translation": "| 僵尸治疗 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ザンビ 回復",
+      "CN": "僵尸治疗",
+      "KR": "좀비 회복",
+      "TW": "殭屍治療"
+    }
   },
   "| Zombie stars |": {
-    "translation": "| 僵尸秒杀 |"
+    "translation": "| 僵尸秒杀 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ザンビ スター",
+      "CN": "僵尸星星",
+      "KR": "좀비별",
+      "TW": "殭屍星星"
+    }
   }
 }

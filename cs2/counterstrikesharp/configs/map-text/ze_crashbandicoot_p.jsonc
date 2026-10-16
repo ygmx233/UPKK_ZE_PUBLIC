@@ -1,107 +1,352 @@
 {
   "*** Defend both sides***": {
-    "translation": "***防守两侧***"
+    "translation": "***防守两侧***",
+    "MultiLang": {
+      "US": "",
+      "JP": "両側を護衛しろ",
+      "CN": "*** 同时守卫两侧***",
+      "KR": "*** 좌측과 우측 모두 방어하세요 ***",
+      "TW": "*** 守衛兩側***"
+    }
   },
   "*** GET OFF THE ELEVATOR!!!***": {
-    "translation": "***快下电梯！！！***"
+    "translation": "***快下电梯！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターから降りろ！！！！",
+      "CN": "*** 立即离开电梯!!!***",
+      "KR": "*** 엘리베이터에서 내려요!!!***",
+      "TW": "*** 離開電梯！！！***"
+    }
   },
   "*** KILL IT BEFORE IT DOES SOMETHING***": {
-    "translation": "***在它做出反应之前杀了它***"
+    "translation": "***在它做出反应之前杀了它***",
+    "MultiLang": {
+      "US": "",
+      "JP": "何かをする前に殺せ",
+      "CN": "*** 在它做出任何行动前击杀它***",
+      "KR": "*** 뭔가를 하기 전에 죽이세요***",
+      "TW": "*** 在它採取行動前消滅它***"
+    }
   },
   "*** OH NO! ITS UKA UKA!!!***": {
-    "translation": "***哦不！是UKA UKA！！！***"
+    "translation": "***哦不！是UKA UKA！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "おや！ウカウカだ！！！",
+      "CN": "*** 哦不！是乌卡乌卡!!!***",
+      "KR": "*** 오_no! 우카 우카예요!!!***",
+      "TW": "*** 噢不！是烏卡烏卡！！！***"
+    }
   },
   "*** SHOOT THE WALL ***": {
-    "translation": "***射击墙壁***"
+    "translation": "***射击墙壁***",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁を撃て",
+      "CN": "*** 射击墙壁 ***",
+      "KR": "*** 벽을 쏘세요 ***",
+      "TW": "*** 射擊牆壁 ***"
+    }
   },
   "*** UKA UKA IS DEFEATED! RUN TO SAFETY!***": {
-    "translation": "***UKA UKA被击败了！快跑去安全地方！***"
+    "translation": "***UKA UKA被击败了！快跑去安全地方！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウカウカは撃破された！安全地帯へ逃げろ！",
+      "CN": "*** 乌卡乌卡已被击败！逃向安全地带！***",
+      "KR": "*** 우카 우카가 무찌러졌습니다! 안전하게 도주하세요!***",
+      "TW": "*** 已擊敗烏卡烏卡！逃離至安全處！***"
+    }
   },
   "***--- YOU WILL DIE WHEN BALLOON STARTS MOVING***": {
-    "translation": "***---当气球开始移动时你会死***"
+    "translation": "***---当气球开始移动时你会死***",
+    "MultiLang": {
+      "US": "",
+      "JP": "---バルーンの移動開始時、あなたはお死亡します",
+      "CN": "*** 当气球开始移动时，你将会死亡***",
+      "KR": "***--- 풍선이 움직이면 죽습니다***",
+      "TW": "*** 當氣球開始移動時，你將死亡***"
+    }
   },
   "***APPLE-CANNON UNLOCKED FOR NEXT ROUNDS***": {
-    "translation": "***苹果大炮在下回合解锁***"
+    "translation": "***苹果大炮在下回合解锁***",
+    "MultiLang": {
+      "US": "",
+      "JP": "次回ラウンドよりアップルカノンが使用可能",
+      "CN": "*** 苹果加农炮将在后续轮次解锁***",
+      "KR": "*** 다음 라운드부터 애플 캐논 사용 가능***",
+      "TW": "*** 下輪次解鎖蘋果大炮 ***"
+    }
   },
   "***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***": {
-    "translation": "***CORTEX不受子弹伤害***"
+    "translation": "***CORTEX不受子弹伤害***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***",
+      "CN": "***柯尔特不受子弹伤害***",
+      "KR": "*** Cortex는 총알로부터 피해를 입지 않습니다 ***",
+      "TW": "***柯特茲子彈無法造成傷害***"
+    }
   },
   "***DEFEND FOR 10 SECONDS!!***": {
-    "translation": "***防守10秒！！***"
+    "translation": "***防守10秒！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***DEFEND FOR 10 SECONDS!!***",
+      "CN": "***坚持10秒！***",
+      "KR": "*** 10초간 방어하세요!! ***",
+      "TW": "***抵禦10秒!!***"
+    }
   },
   "***GO!***": {
-    "translation": "***开始！***"
+    "translation": "***开始！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***GO!***",
+      "CN": "***出发！***",
+      "KR": "*** 가거라! ***",
+      "TW": "GO!***"
+    }
   },
   "***GO!GO!GO!***": {
-    "translation": "***跑！跑！跑！***"
+    "translation": "***跑！跑！跑！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***GO!GO!GO!***",
+      "CN": "***快！快！快！***",
+      "KR": "*** 가거라! 가거라! 가거라! ***",
+      "TW": "GO!GO!GO!***"
+    }
   },
   "***HOLD FOR 10 seconds***": {
-    "translation": "***防守10秒***"
+    "translation": "***防守10秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***HOLD FOR 10 seconds***",
+      "CN": "***坚持10秒***",
+      "KR": "*** 10초간 유지하세요***",
+      "TW": "***持續10秒***"
+    }
   },
   "***HOLD FOR 20 seconds***": {
-    "translation": "***防守20秒***"
+    "translation": "***防守20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***HOLD FOR 20 seconds***",
+      "CN": "***坚持20秒***",
+      "KR": "*** 20초간 유지하세요***",
+      "TW": "***持續20秒***"
+    }
   },
   "***HOLD FOR 30 seconds***": {
-    "translation": "***防守30秒***"
+    "translation": "***防守30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***HOLD FOR 30 seconds***",
+      "CN": "***坚持30秒***",
+      "KR": "*** 30초간 유지하세요***",
+      "TW": "***持續30秒***"
+    }
   },
   "***Hold for 10 seconds***": {
-    "translation": "***防守10秒***"
+    "translation": "***防守10秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***Hold for 10 seconds***",
+      "CN": "***坚持10秒***",
+      "KR": "*** 10초간 유지하세요***",
+      "TW": "持續10秒***"
+    }
   },
   "***NOW FINISH THE LEVEL TO UNLOCK APPLE-CANNON***": {
-    "translation": "***通关以解锁苹果大炮***"
+    "translation": "***通关以解锁苹果大炮***",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベルをクリアしてアップルキャノンを解除しよう",
+      "CN": "***立即完成关卡以解锁苹果加农炮***",
+      "KR": "***지금 레벨을 완료하여 사과 대포 해제***",
+      "TW": "***現在請完成關卡以解鎖蘋果炮***"
+    }
   },
   "***STAY ON GLOWING AREA OR...***": {
-    "translation": "***待在发光区域内，否则...***"
+    "translation": "***待在发光区域内，否则...***",
+    "MultiLang": {
+      "US": "",
+      "JP": "発光区域内に留まれ、さもないと……",
+      "CN": "***停留在发光区域，否则……***",
+      "KR": "*** glowing 영역에 남아 있지 않으면...***",
+      "TW": "***待在發光區域內，否則...***"
+    }
   },
   "***TRY TO KILL IT WITH SOMETHING ELSE***": {
-    "translation": "***尝试用其他东西杀了它***"
+    "translation": "***尝试用其他东西杀了它***",
+    "MultiLang": {
+      "US": "",
+      "JP": "別の何かでそれを倒してみよう",
+      "CN": "***尝试用其他手段消灭它***",
+      "KR": "***다른 무기로 죽이세요***",
+      "TW": "試著用其他東西殺死它***"
+    }
   },
   "***ZOMBIES INSIDE!!!***": {
-    "translation": "***有僵尸进来了！！！***"
+    "translation": "***有僵尸进来了！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "中にゾンビがいる！！！",
+      "CN": "***僵尸出没！！！***",
+      "KR": "***좀비가 안쪽에 있습니다!!!***",
+      "TW": "***內部有殭屍！！！***"
+    }
   },
   ">> NUKE LAUNCHED<<": {
-    "translation": ">>核弹发射<<"
+    "translation": ">>核弹发射<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>核ミサイル発射<<",
+      "CN": ">> 已发射核弹 <<",
+      "KR": ">> 핵미사일 발사 완료<<",
+      "TW": ">> 核彈已發射<<"
+    }
   },
   ">> PLAYER HAS CHOSEN LEVEL 1<<": {
-    "translation": ">>玩家选择了普通关卡1<<"
+    "translation": ">>玩家选择了普通关卡1<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーはレベル1を選択 <<",
+      "CN": ">> 玩家选择了第1关 <<",
+      "KR": ">> 플레이어가 레벨 1을 선택했습니다<<",
+      "TW": ">> 玩家已選擇第 1 關 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN LEVEL 2<<": {
-    "translation": ">>玩家选择了普通关卡2<<"
+    "translation": ">>玩家选择了普通关卡2<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーはレベル2を選択 <<",
+      "CN": ">> 玩家选择了第2关 <<",
+      "KR": ">> 플레이어가 레벨 2를 선택했습니다<<",
+      "TW": ">> 玩家已選擇第 2 關 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN LEVEL 3<<": {
-    "translation": ">>玩家选择了普通关卡3<<"
+    "translation": ">>玩家选择了普通关卡3<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーはレベル3を選択 <<",
+      "CN": ">> 玩家选择了第3关 <<",
+      "KR": ">> 플레이어가 레벨 3을 선택했습니다<<",
+      "TW": ">> 玩家已選擇第 3 關 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN LEVEL EXTREME 1<<": {
-    "translation": ">>玩家选择了极限关卡1<<"
+    "translation": ">>玩家选择了极限关卡1<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはレベル『エクスートリーム 1』を選択しました",
+      "CN": ">> 玩家已选择关卡极端难度 1<<",
+      "KR": ">> 플레이어가 레벨 익스트림 1을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇難度極限 1 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN LEVEL EXTREME 2<<": {
-    "translation": ">>玩家选择了极限关卡2<<"
+    "translation": ">>玩家选择了极限关卡2<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはレベル『エクスートリーム 2』を選択しました",
+      "CN": ">> 玩家已选择关卡极端难度 2<<",
+      "KR": ">> 플레이어가 레벨 익스트림 2을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇難度極限 2 <<"
+    }
   },
   ">> PLAYER HAS CHOSEN LEVEL EXTREME 3<<": {
-    "translation": ">>玩家选择了极限关卡3<<"
+    "translation": ">>玩家选择了极限关卡3<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはレベル『エクスートリーム 3』を選択しました",
+      "CN": ">> 玩家已选择关卡极端难度 3<<",
+      "KR": ">> 플레이어가 레벨 익스트림 3을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇難度極限 3 <<"
+    }
   },
   ">>LEVEL 1 Extreme<<": {
-    "translation": ">>极限关卡1<<"
+    "translation": ">>极限关卡1<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>LEVEL 1 エクストリーム<<",
+      "CN": ">>关卡 1 极端难度<<",
+      "KR": ">>LEVEL 1 익스트림<<",
+      "TW": "LEVEL 1 極限模式"
+    }
   },
   ">>LEVEL 1<<": {
-    "translation": ">>普通关卡1<<"
+    "translation": ">>普通关卡1<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>LEVEL 1<<",
+      "CN": ">>关卡 1<<",
+      "KR": ">>LEVEL 1<<",
+      "TW": "關卡 1"
+    }
   },
   ">>LEVEL 2 Extreme<<": {
-    "translation": ">>极限关卡2<<"
+    "translation": ">>极限关卡2<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>LEVEL 2 エクストリーム<<",
+      "CN": ">>关卡 2 极端难度<<",
+      "KR": ">>LEVEL 2 익스트림<<",
+      "TW": "LEVEL 2 極限模式"
+    }
   },
   ">>LEVEL 2<<": {
-    "translation": ">>普通关卡2<<"
+    "translation": ">>普通关卡2<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>LEVEL 2<<",
+      "CN": ">>关卡 2<<",
+      "KR": ">>LEVEL 2<<",
+      "TW": "關卡 2"
+    }
   },
   ">>LEVEL 3 Extreme<<": {
-    "translation": ">>极限关卡3<<"
+    "translation": ">>极限关卡3<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>LEVEL 3 エクストリーム<<",
+      "CN": ">>关卡 3 极端难度<<",
+      "KR": ">>LEVEL 3 익스트림<<",
+      "TW": "LEVEL 3 極限模式"
+    }
   },
   ">>LEVEL 3<<": {
-    "translation": ">>普通关卡3<<"
+    "translation": ">>普通关卡3<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 3",
+      "CN": ">>第三关<<",
+      "KR": ">>레벨 3<<",
+      "TW": ">>第 3 關<<"
+    }
   },
   ">>PLAYER HAS PICKED UP APPLE-CANNON<<": {
-    "translation": ">>玩家已拾起苹果大炮<<"
+    "translation": ">>玩家已拾起苹果大炮<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはリンゴキャノンを持っています",
+      "CN": ">>玩家已拾取苹果加农炮<<",
+      "KR": ">>플레이어가 사과 포를 집었습니다<<",
+      "TW": ">>玩家已拾取蘋果大炮<<"
+    }
   },
   "LEVEL COMPLETED!!": {
-    "translation": "关卡完成！！"
+    "translation": "关卡完成！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル完了!!",
+      "CN": "关卡完成！！",
+      "KR": "레벨 완료!!",
+      "TW": "關卡完成！！"
+    }
   }
 }

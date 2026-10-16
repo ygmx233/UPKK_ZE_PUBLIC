@@ -1,0 +1,662 @@
+{
+  "You have made it to Doomglaven just as the siege is starting": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "包囲戦が開始されるまさにその瞬間、あなたはドームグレイブンに辿り着いた",
+      "CN": "你抵达末日格兰文时，围攻战刚刚拉开序幕",
+      "KR": "공격이 시작된 막바지에 님모글레벤에 도달했습니다",
+      "TW": "你趕到末日格蘭時，攻城行動即將展開"
+    }
+  },
+  "Dont let the invaders get hold of Doomglaven library": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "侵略者がドームグレイブン図書館を手中に収めるのを許すな",
+      "CN": "别让入侵者占领末日格兰文的图书馆",
+      "KR": "침입자들이 님모글레벤 도서관을 점령하지 못하게 하세요",
+      "TW": "別讓入侵者佔領末日格蘭圖書館"
+    }
+  },
+  "Find your way there and start the ritual to destroy it": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "そこへ向かい、破壊するための儀式を開始せよ",
+      "CN": "找到前往那里的方式，并开始启动摧毁它的仪式",
+      "KR": "목표지로 이동하여 파괴 의식을 시작하세요",
+      "TW": "找到前往這裡的路，並啟動毀滅它的儀式"
+    }
+  },
+  "*DOCK GATEHOUSE OPENING IN 30 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*ドック門楼の開放まであと30秒*",
+      "CN": "*码头闸门将在30秒后开启*",
+      "KR": "*부두 성곽문 30초 후 개방*",
+      "TW": "*船塢城門將在 30 秒後開啟*"
+    }
+  },
+  "*DOCK GATEHOUSE OPENING IN 10 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*ドック門楼の開放まであと10秒*",
+      "CN": "*码头闸门将在10秒后开启*",
+      "KR": "*부두 성곽문 10초 후 개방*",
+      "TW": "*船塢城門將在 10 秒後開啟*"
+    }
+  },
+  "*DOCK GATEHOUSE OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*ドック門楼が開放されました*",
+      "CN": "*码头闸门已开启*",
+      "KR": "*부두 성곽문 개방*",
+      "TW": "*船塢城門已開啟*"
+    }
+  },
+  "*UPSTAIRS DOOR OPENING IN 20 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*上階ドアの開放まであと20秒*",
+      "CN": "*楼上房门将在20秒后开启*",
+      "KR": "*2층 문 20초 후 개방*",
+      "TW": "*樓上門戶將在 20 秒後開啟*"
+    }
+  },
+  "*ZM TP IN 10 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*ZMテレポート地点への移動まであと10秒*",
+      "CN": "*ZM传送门将在10秒后开启*",
+      "KR": "*ZM 텔레포트 10초 후 시작*",
+      "TW": "*隨機傳送門將在 10 秒後開啟*"
+    }
+  },
+  "*UPSTAIRS DOOR OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*上階のドアが開く*",
+      "CN": "*楼上开门*",
+      "KR": "*다리에 있는 문 열림*",
+      "TW": "*二樓門開啟*"
+    }
+  },
+  "*HOUSE DOOR OPENING IN 20 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*家への道があと20秒後に開放*",
+      "CN": "*房屋大门20秒后开启*",
+      "KR": "*집 문 20초 후 열림*",
+      "TW": "*房屋大門20秒後開啟*"
+    }
+  },
+  "*HOUSE DOOR OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*家への道が開く*",
+      "CN": "*房屋大门开启*",
+      "KR": "*집 문 열림*",
+      "TW": "*房屋大門開啟*"
+    }
+  },
+  "*CANAL DOOR OPENING IN 10 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*水路の扉があと10秒後に開放*",
+      "CN": "*运河大门10秒后开启*",
+      "KR": "*운하 문 10초 후 열림*",
+      "TW": "*運河門10秒後開啟*"
+    }
+  },
+  "*CANAL DOOR OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*水路の扉が開く*",
+      "CN": "*运河大门开启*",
+      "KR": "*운하 문 열림*",
+      "TW": "*運河門開啟*"
+    }
+  },
+  "*GATE OPENING IN 20 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ",*門があと20秒後に開放*",
+      "CN": "*大门20秒后开启*",
+      "KR": ".게이트 20초 후 열림*",
+      "TW": "*大門20秒後開啟*"
+    }
+  },
+  "*GATE OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*門が開く*",
+      "CN": "*大门开启*",
+      "KR": "*게이트 열림*",
+      "TW": "*大門開啟*"
+    }
+  },
+  "*PLAZA DOOR OPENING IN 30 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*広場の扉があと30秒後に開放*",
+      "CN": "*广场大门30秒后开启*",
+      "KR": "*광장 문 30초 후 열림*",
+      "TW": "*廣場門30秒後開啟*"
+    }
+  },
+  "*PLAZA DOOR OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*プラザの扉が開く*",
+      "CN": "*广场门开启*",
+      "KR": "*광장 문 열림*",
+      "TW": "*城鎮拱門開啟*"
+    }
+  },
+  "*HOLD AT THESE BOXES*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*これらの箱で待機*",
+      "CN": "*在这些箱子处防守*",
+      "KR": "*상자 뒤에서 대기*",
+      "TW": "*在此箱位駐防*"
+    }
+  },
+  "*SOMETHING IS BASHING DOWN THE GATE*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ", 門が叩き壊されている*",
+      "CN": "*有东西在撞击大门*",
+      "KR": "게이트가 부서지고 있습니다*",
+      "TW": "有什麼正在撞擊大門*"
+    }
+  },
+  "*IT'S NEARLY THROUGH*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*もうすぐ壊れる*",
+      "CN": "*几乎就穿透了*",
+      "KR": "이미 뚫렸습니다",
+      "TW": "快要突破了*"
+    }
+  },
+  "*IT'S A RAT OGRE*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*ネズミの Ogre だ*",
+      "CN": "*是鼠人巨魔*",
+      "KR": "*너구리 오거입니다*",
+      "TW": "是鼠精魔*"
+    }
+  },
+  "*SHOOT IT!*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*",
+      "CN": "*射击它！*",
+      "KR": "!!총을 쏴주세요",
+      "TW": "射擊它!"
+    }
+  },
+  "*SEWER GATE OPENING IN 45 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*下水道門45秒後開く*",
+      "CN": "*下水道大门将在45秒后开启*",
+      "KR": "*하수구문 개방 예정: 45초*",
+      "TW": "*下水道大門45秒後開啟*"
+    }
+  },
+  "*SEWER GATE OPENING IN 15 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*下水道門15秒後開く*",
+      "CN": "*下水道大门将在15秒后开启*",
+      "KR": "하수구문이 곧 열립니다.",
+      "TW": "*下水道大門15秒後開啟*"
+    }
+  },
+  "*SEWER GATE OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*下水道ゲート開*",
+      "CN": "*下水道闸门开启*",
+      "KR": "*하수구 문열림*",
+      "TW": "*下水道大閘開啟*"
+    }
+  },
+  "*HOLD THIS BRIDGE*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*この橋を確保せよ*",
+      "CN": "*坚守这座桥*",
+      "KR": "*이 다리를 방어하라*",
+      "TW": "*守住這座橋*"
+    }
+  },
+  "*THE RAT OGRE IS BACK*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*ラットオグスが戻ってきた*",
+      "CN": "*巨鼠兽人回来了*",
+      "KR": "*쥐 오거가 다시 나타났다*",
+      "TW": "*鼠人巨漢回來了*"
+    }
+  },
+  "*WATCH OUT*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*気をつけろ*",
+      "CN": "*小心*",
+      "KR": "*조심해*",
+      "TW": "*注意$"
+    }
+  },
+  "*GET TO THE SIDES*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "両側へ退け**.\n\"6\": \"*下水道ゲート20秒後に開*\".\n\"7\": \"*下水道ゲート開*\".\n\"8\":",
+      "CN": "*散开躲避到两侧*",
+      "KR": "*측면으로 이동하라*",
+      "TW": "*側身閃避*"
+    }
+  },
+  "*SECOND SEWER GATE OPENING IN 20 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*20秒以内に第2下水道ゲートが開きます*",
+      "CN": "*20秒后下水道闸门开启*",
+      "KR": "*20초 후 하수구 문 두 번째 열림*",
+      "TW": "*二十秒後第二次開啟下水道大閘*"
+    }
+  },
+  "*SECOND SEWER GATE OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*第2の下水道扉、開門*",
+      "CN": "*下水道闸门开启*",
+      "KR": "*하수구 문 두 번째 열림*",
+      "TW": "*第二次開啟下水道大閘*"
+    }
+  },
+  "*CAVE GATE OPENING IN 10 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "洞窟の扉が10秒後に開きます",
+      "CN": "*10秒后洞穴闸门开启*",
+      "KR": "*10초 후 동굴 문 열림*",
+      "TW": "*十秒後洞穴大閘開啟*"
+    }
+  },
+  "*CAVE GATE OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*洞窟の扉が開く*",
+      "CN": "*洞穴大门开启*",
+      "KR": "*동굴 문 열림*",
+      "TW": "*洞穴大門開啟*"
+    }
+  },
+  "*LIFT LEAVING IN 45 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*エレベーター出発まで45秒*",
+      "CN": "*电梯45秒后离开*",
+      "KR": "*엘리베이터 45초 후 출발*",
+      "TW": "*升降梯將於45秒後關閉*"
+    }
+  },
+  "*LIFT LEAVING IN 15 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*エレベーター出発まで15秒*",
+      "CN": "*电梯15秒后离开*",
+      "KR": "*엘리베이터 15초 후 출발*",
+      "TW": "*升降梯將於15秒後關閉*"
+    }
+  },
+  "*LIFT LEAVING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*エレベーター出発*",
+      "CN": "*电梯离开*",
+      "KR": "*엘리베이터 출발*",
+      "TW": "*升降梯關閉*"
+    }
+  },
+  "*FIND THE DOOR KEY IN THE SIDE CHAPEL*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*側面の礼拝堂で扉の鍵を探せ*",
+      "CN": "*在侧厅寻找门钥匙*",
+      "KR": "*측면 예배당에서 문 열쇠를 찾으세요*",
+      "TW": "*在側面禮拜堂尋找房門鑰匙*"
+    }
+  },
+  "*LIBRARY KEY FOUND*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*書庫の鍵を取得した*",
+      "CN": "*找到图书馆钥匙*",
+      "KR": "*도서관 열쇠 획득*",
+      "TW": "*已找到圖書館鑰匙*"
+    }
+  },
+  "*LARGE DOOR OPENING IN 15 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*大型扉開閉まで15秒*",
+      "CN": "*大门15秒后开启*",
+      "KR": "*큰 문 15초 후 개방*",
+      "TW": "*大型門將於15秒後開啟*"
+    }
+  },
+  "*LARGE DOOR OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*大型扉が開く*",
+      "CN": "*大门开启*",
+      "KR": "*큰 문 개방*",
+      "TW": "*大型門開啟*"
+    }
+  },
+  "*START THE RITUAL BY PLACING 3 CURSED GRIMOIRES ON THE TABLE*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*呪われた魔導書を3冊、テーブルに置きて儀式を開始す*",
+      "CN": "*将3册黑魔法书放置在桌上以启动仪式*",
+      "KR": "*테이블에 저주받은 마법서 3권을 배치하여 의식을 시작하세요*",
+      "TW": "*在桌上放置3本被詛咒的魔法書以啟動儀式*"
+    }
+  },
+  "*GRIMOIRE OF GNASHING PLACED*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*齧るの魔導書、配置完了*",
+      "CN": "*已放置【撕咬】之书*",
+      "KR": "*악연의 마법서가 배치됨*",
+      "TW": "*已放置撕咬之魔法書*"
+    }
+  },
+  "*1/3 GRIMOIRES PLACED*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "1/3 魔導書を配置*",
+      "CN": "*1/3 黑魔法书已放置*",
+      "KR": "마법서 3개 중 1개가 배치됨",
+      "TW": "*已放置 1/3 本魔法書*"
+    }
+  },
+  "*GRIMOIRE OF GLUTTONY PLACED*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*貪るの魔導書、配置完了*",
+      "CN": "*已放置【暴食】之书*",
+      "KR": "*호식의 마법서가 배치됨*",
+      "TW": "*已放置暴食之魔法書*"
+    }
+  },
+  "*2/3 GRIMOIRES PLACED*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "2/3 魔導書を配置*",
+      "CN": "*2/3 黑魔法书已放置*",
+      "KR": "마법서 3개 중 2개가 배치됨",
+      "TW": "*已放置 2/3 本魔法書*"
+    }
+  },
+  "*GRIMOIRE OF GASPING PLACED*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*喘ぐの魔導書、配置完了*",
+      "CN": "*已放置【喘息】之书*",
+      "KR": "*허공의 마법서가 배치됨*",
+      "TW": "*已放置喘息之魔法書*"
+    }
+  },
+  "*ENOUGH GRIMOIRES HAVE BEEN PLACED*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "十分な数の魔導書を配置しました",
+      "CN": "*黑魔法书已放置完毕*",
+      "KR": "마법서가 충분히 배치되었습니다",
+      "TW": "*已放置足夠數量的魔法書*"
+    }
+  },
+  "*3/3 GRIMOIRES PLACED*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "3/3 魔導書を配置*",
+      "CN": "*3/3 黑魔法书已放置*",
+      "KR": "마법서 3개 중 3개가 배치됨",
+      "TW": "*已放置 3/3 本魔法書*"
+    }
+  },
+  "*RITUAL STARTING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*儀式開始*",
+      "CN": "*仪式启动*",
+      "KR": "*의식 시작*",
+      "TW": "*儀式開始*"
+    }
+  },
+  "*HOLD UNTIL IT IS COMPLETE*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*完了するまで保持*",
+      "CN": "*保持状态直至完成*",
+      "KR": "*완료될 때까지 유지*",
+      "TW": "*堅持到完成*"
+    }
+  },
+  "*ESCAPE THROUGH THAT HOLE*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*あの穴から脱出せよ*",
+      "CN": "*从洞口逃离*",
+      "KR": "*구멍으로 탈출*",
+      "TW": "*從那個洞口逃出*"
+    }
+  },
+  "*RITUAL COMPLETE*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*儀式完了*",
+      "CN": "*仪式完成*",
+      "KR": "*의식 완료*",
+      "TW": "*儀式完成*"
+    }
+  },
+  "*THE STORM IS STARTING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*嵐が接近中*",
+      "CN": "*风暴来袭*",
+      "KR": "*폭풍 시작*",
+      "TW": "*風暴即將開始*"
+    }
+  },
+  "*STICK TO THE ROOF TO AVOID THE LIGHTNING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "雷を避けるため屋根に張り付け",
+      "CN": "*紧贴屋顶躲避闪电*",
+      "KR": "뇌피해를 피하려면 지붕에 달라붙으세요",
+      "TW": "緊緊貼在屋頂上以避開閃電"
+    }
+  },
+  "*ROOF DOOR OPENING IN 30 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*屋根の扉、30秒後に開く*",
+      "CN": "*屋顶门30秒后开启*",
+      "KR": "30초 후에 옥상 문 개방",
+      "TW": "*屋頂門將在30秒後開啟*"
+    }
+  },
+  "*ROOF DOOR OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*屋根の扉開く*",
+      "CN": "*屋顶门已开启*",
+      "KR": "옥상 문 개방",
+      "TW": "*屋頂門開啟*"
+    }
+  },
+  "*JUMP DOWN TO THE DOCK*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*ドックへジャンプ*",
+      "CN": "*跳至码头*",
+      "KR": "*아래의 부두로 하강*",
+      "TW": "*跳下船塢*"
+    }
+  },
+  "*DOCK DOOR OPENING IN 30 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドッグドアが30秒後に開きます",
+      "CN": "*码头大门将在30秒后开启*",
+      "KR": "부두 문 30초 후 개방",
+      "TW": "*船塢門30秒後開啟*"
+    }
+  },
+  "*DOCK DOOR OPENING*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドックドアが開いています",
+      "CN": "*码头大门正在开启*",
+      "KR": "부두 문 개방 중",
+      "TW": "*船塢門開啟中*"
+    }
+  },
+  "*WAYSTONE ACTIVATING IN 45 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウェイストーンが45秒後に作動します",
+      "CN": "*传送石将在45秒后激活*",
+      "KR": "석양돌 활성화까지 45초",
+      "TW": "*傳送石45秒後啟動*"
+    }
+  },
+  "*WAYSTONE ACTIVATING IN 30 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウェイストーンが30秒後に作動します",
+      "CN": "*传送石将在30秒后激活*",
+      "KR": "석양돌 활성화까지 30초",
+      "TW": "*傳送石30秒後啟動*"
+    }
+  },
+  "*WAYSTONE ACTIVATING IN 10 SECONDS*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウェイストーンが10秒後に作動します",
+      "CN": "*传送石将在10秒后激活*",
+      "KR": "석양돌 활성화까지 10초",
+      "TW": "*傳送石10秒後啟動*"
+    }
+  },
+  "*YOU SUCCESSFULLY DESTROYED THE LIBRARY AND ESCAPED DOOMGLAVEN*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "図書館を破壊し、ドームグランから脱出しました",
+      "CN": "*你已成功摧毁图书馆并逃离多姆格伦。*",
+      "KR": "도서관을 성공적으로 파괴하고 도움글라벤에서 탈출했습니다.",
+      "TW": "*您已成功摧毀圖書館並逃出末日統治區*"
+    }
+  },
+  "Created by Vynd": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Vynd 制作",
+      "CN": "由 Vynd 制作",
+      "KR": "Vynd 제작",
+      "TW": "由 Vynd 製作"
+    }
+  },
+  "*ZOMBIES REACHED THE TRIGGER*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*THE CITY IS OVERRUN*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

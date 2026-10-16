@@ -1,0 +1,112 @@
+{
+  "*20*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*30*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**30**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**20**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<管理员强制开启了训练关卡>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Admin has forcibly enabled the training level>>",
+      "JP": "<<管理者が強制的にトレーニングレベルを開放しました>>",
+      "CN": "",
+      "KR": "<<관리자가 훈련 레벨을 강제로 활성화함>>",
+      "TW": "<<管理員強制開啟了訓練關卡>>"
+    }
+  },
+  "<<三秒后结束当前回合>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Current turn ends in 3 seconds>>",
+      "JP": "<<3秒後に現在のターンが終了します>>",
+      "CN": "",
+      "KR": "<<3초 후에 현재 턴이 종료됩니다>>",
+      "TW": "<<三秒後結束當前回合>>"
+    }
+  },
+  "<<训练关卡>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Training Level>>",
+      "JP": "<<トレーニングレベル>>",
+      "CN": "",
+      "KR": "<<훈련 레벨>>",
+      "TW": "<<訓練關卡>>"
+    }
+  },
+  "**120**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**15**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**60**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**JUMP**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ジャンプ**",
+      "CN": "**跳跃**",
+      "KR": "**점프**",
+      "TW": "**JUMP**"
+    }
+  }
+}

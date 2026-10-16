@@ -1,425 +1,1522 @@
 {
   "10": {
-    "translation": "10秒"
+    "translation": "10秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "10秒",
+      "KR": "",
+      "TW": ""
+    }
   },
   "15": {
-    "translation": "15秒"
+    "translation": "15秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "15秒",
+      "KR": "",
+      "TW": ""
+    }
   },
   "20": {
-    "translation": "20秒"
+    "translation": "20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "20秒",
+      "KR": "",
+      "TW": ""
+    }
   },
   "25": {
-    "translation": "25秒"
+    "translation": "25秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "25秒",
+      "KR": "",
+      "TW": ""
+    }
   },
   "30": {
-    "translation": "30秒"
+    "translation": "30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "30秒",
+      "KR": "",
+      "TW": ""
+    }
   },
   "60 Seconds": {
-    "translation": "60秒"
+    "translation": "60秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒間",
+      "CN": "60秒",
+      "KR": "60초",
+      "TW": "60秒"
+    }
   },
   "????:Do you remember your name?": {
-    "translation": "????：你还记得你的名字吗？"
+    "translation": "????：你还记得你的名字吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "????:あなたの名前を覚えていますか？",
+      "CN": "????:你记得你的名字吗？",
+      "KR": "???:이름 기억나세요?",
+      "TW": "????: 你記得你的名字嗎？"
+    }
   },
   "????:Don't remember? It's ok, my name is Kiki": {
-    "translation": "????：不记得了？没关系，我叫Kiki"
+    "translation": "????：不记得了？没关系，我叫Kiki",
+    "MultiLang": {
+      "US": "",
+      "JP": "????:思い出せない？いいですよ。私の名前はキキです",
+      "CN": "????:不记得？没关系，我叫基奇",
+      "KR": "???:모르시더라도 괜찮아요. 제 이름은 키키예요.",
+      "TW": "????: 不記得？沒關係，我的名字是琪琪"
+    }
   },
   "????:wake up....": {
-    "translation": "????：醒醒……"
+    "translation": "????：醒醒……",
+    "MultiLang": {
+      "US": "",
+      "JP": "???*:目覚めて……",
+      "CN": "????:醒醒……",
+      "KR": "???:일어나요....",
+      "TW": "????: 醒來……"
+    }
   },
   "?????:KARL.............................................": {
-    "translation": "?????：KARL............................................."
+    "translation": "?????：KARL.............................................",
+    "MultiLang": {
+      "US": "",
+      "JP": "?????カール…………………………………",
+      "CN": "?????:卡尔.............................................",
+      "KR": "?????:카를.............................................",
+      "TW": "?????: 卡爾............................................."
+    }
   },
   "?????:Karllllllllllllllllllllllllllllllllllllllllllllllll": {
-    "translation": "?????：Karllllllllllllllllllllllllllllllllllllllllllllllll"
+    "translation": "?????：Karllllllllllllllllllllllllllllllllllllllllllllllll",
+    "MultiLang": {
+      "US": "",
+      "JP": "?????*カーーーーーール…………………",
+      "CN": "?????:卡aaaaa里iiiiiiiiillllllllllllllllll",
+      "KR": "?????:카롤LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
+      "TW": "?????: 卡爾!!!!!!!!!!!!!!!!!!!!!!!!!"
+    }
   },
   "All story Unlock": {
-    "translation": "全部剧情解锁"
+    "translation": "全部剧情解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "全ストーリー解锁",
+      "CN": "解锁全部剧情",
+      "KR": "스토리 전체 잠금 해제",
+      "TW": "解鎖所有故事"
+    }
   },
   "Brand:Despite having both my legs torn off by the creature inside and losing one hand to its bite.": {
-    "translation": "Brand：尽管我的双腿被里面的生物扯断，一只手也被它咬断了。"
+    "translation": "Brand：尽管我的双腿被里面的生物扯断，一只手也被它咬断了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：生き物に両脚を引き裂かれ、片手も噛みちぎられたにもかかわらず",
+      "CN": "品牌：尽管我的双腿被里面的生物撕断，一只手也被它咬掉。",
+      "KR": "브랜드:몸속 생물에게 양팔을 찢기고, 한쪽 손가락도 물려 잃은 끝에...",
+      "TW": "品牌：儘管我的雙腿被內部的生物撕下，一隻手也因它的咬傷而失去。"
+    }
   },
   "Brand:Go ahead and destroy the portal. I will assist you.": {
-    "translation": "Brand：去摧毁传送门吧。我会帮助你的。"
+    "translation": "Brand：去摧毁传送门吧。我会帮助你的。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：ポータルを破壊してください。私が支援します。",
+      "CN": "品牌：动手毁掉传送门吧。我会协助你。",
+      "KR": "브랜드: 포털을 파괴하십시오. 제가 도와드리겠습니다.",
+      "TW": "品牌：繼續摧毀傳送門。我會協助你。"
+    }
   },
   "Brand:I can still manipulate everything here as a consciousness entity.": {
-    "translation": "Brand：我仍然可以作为一个意识实体来操纵这里的一切。"
+    "translation": "Brand：我仍然可以作为一个意识实体来操纵这里的一切。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：私は意識体としてここでの操作を引き続き行えます。",
+      "CN": "品牌：即使作为意识体，我依然能掌控这里的一切。",
+      "KR": "브랜드: 저는 여전히 여기에서 의식체로 모든 것을 조종할 수 있습니다.",
+      "TW": "品牌：我仍能以意識體的形式操控這裡的一切。"
+    }
   },
   "Brand:I've successfully activated the teleportation portal.": {
-    "translation": "Brand：我成功启动了传送门。"
+    "translation": "Brand：我成功启动了传送门。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：瞬間移動ポータルの起動に成功しました。",
+      "CN": "品牌：我已成功激活传送门。",
+      "KR": "브랜드: 텔레포테이션 포털을 성공적으로 활성화했습니다.",
+      "TW": "品牌：我已成功啟動傳送門。"
+    }
   },
   "Brand:Karl, look at me. This is the teleportation project you vehemently denied at first.": {
-    "translation": "Brand：Karl，看着我。这是你一开始极力否认的传送计划。"
+    "translation": "Brand：Karl，看着我。这是你一开始极力否认的传送计划。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：カール、私を見て。これは当初猛烈に反対していた瞬間移動プロジェクトです。",
+      "CN": "品牌：卡尔，看着我。这就是你当初极力抵制的传送项目。",
+      "KR": "브랜드: 카를, 저를 바라보세요. 이것은 당신이 처음에 극력 반대했던 텔레포테이션 프로젝트입니다.",
+      "TW": "品牌：卡爾，看著我。這就是你當初極力反對的傳送計畫。"
+    }
   },
   "Brand:Karl....I wrongly blamed you.": {
-    "translation": "Brand：Karl……我错怪你了。"
+    "translation": "Brand：Karl……我错怪你了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：カール……私の誤解でした。あなたを責めませんでした。",
+      "CN": "品牌：卡尔……是我错怪了你。",
+      "KR": "브랜드: 카를... 제가 당신을 잘못 비난했습니다.",
+      "TW": "品牌：卡爾……我誤怪了你。"
+    }
   },
   "Brand:Luckily, I had a backup plan. I uploaded my consciousness to the network here.": {
-    "translation": "Brand：幸好我还有备用计划。我把我的意识上传到了这里的网络。"
+    "translation": "Brand：幸好我还有备用计划。我把我的意识上传到了这里的网络。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：幸いにもバックアッププランがありました。私の意識をネットワークにアップロードしました。",
+      "CN": "品牌：庆幸的是，我早有备用方案。我将意识上传到了这里的网络中。",
+      "KR": "브랜드: 다행히도 백업 계획이 있었습니다. 저는 제 의식을 이곳의 네트워크로 업로드했습니다.",
+      "TW": "品牌：幸好，我早有後手。我將意識上傳到這裡的網路中。"
+    }
   },
   "Brand:No!!!!!!!!! You can't destroy my research.": {
-    "translation": "Brand：不！！！！！！你不能毁掉我的研究。"
+    "translation": "Brand：不！！！！！！你不能毁掉我的研究。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：ダメです!!!!!!!!! 私の研究を破壊しないでください。",
+      "CN": "品牌：不！！！！！你不能销毁我的研究成果。",
+      "KR": "브랜드: 안 돼!!!!! 내 연구를 파괴할 수 없어!",
+      "TW": "品牌：不!!!!!!!!! 你不能摧毀我的研究。"
+    }
   },
   "Brand:Now, I will make you experience my power.": {
-    "translation": "Brand：现在，我会让你见识一下我的力量。"
+    "translation": "Brand：现在，我会让你见识一下我的力量。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド：今、私の力を体験させましょう。",
+      "CN": "品牌：现在，我会让你体验我的力量。",
+      "KR": "브랜드: 이제 내가 나의 힘을 경험하게 해주마.",
+      "TW": "品牌：現在，我將讓你體驗我的力量。"
+    }
   },
   "Brand:STOPPPPPPPPPPPPPPPPPPPP": {
-    "translation": "Brand：STOPPPPPPPPPPPPPPPPPPPPP"
+    "translation": "Brand：STOPPPPPPPPPPPPPPPPPPPPP",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブランド:止まれッッッッッッッッッッッッッッッ",
+      "CN": "品牌：STOPPPPPPPPPPPPPPPPPPPP",
+      "KR": "브랜드: STOPPPPPPPPPPPPPPPPPPPP",
+      "TW": "品牌：STOPPPPPPPPPPPPPPPPPPPP"
+    }
   },
   "Hint:There should be no more than two people on the wheel.": {
-    "translation": "提示：轮子上不能超过两个人。"
+    "translation": "提示：轮子上不能超过两个人。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒント:乗っている人数は2人までです。",
+      "CN": "提示：轮子上不应超过两个人。",
+      "KR": "힌트: 휠에는 두 명 이상의 사람이 있어서는 안 됩니다.",
+      "TW": "提示：輪子上不應該超過兩人。"
+    }
   },
   "K:Is this... my handwriting?": {
-    "translation": "K：这是……我的笔迹吗？"
+    "translation": "K：这是……我的笔迹吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "K:この字……私のもの？",
+      "CN": "K：这是……我的笔迹？",
+      "KR": "K: 이게... 내 손글씨야?",
+      "TW": "K：這是……我的筆跡？"
+    }
   },
   "K:It's alright, just wanted to remind you to be more cautious. I have a feeling something is off.": {
-    "translation": "K：没事，只是想提醒你要小心。我感觉有些不对劲。"
+    "translation": "K：没事，只是想提醒你要小心。我感觉有些不对劲。",
+    "MultiLang": {
+      "US": "K: It's fine, just wanted to remind you to be more cautious. I have a feeling something isn't right.",
+      "JP": "K:いいよ。念押ししただけさ。なんか落ち着かない気がするんだ。",
+      "CN": "K：没事，只是提醒你多加小心。我总觉得哪里不对劲。",
+      "KR": "K: 괜찮아. 그냥 좀 더 조심해 달라고 알려주려고 했어. 뭔가 이상한 느낌이 들어.",
+      "TW": "K：沒關係，只是想提醒你多加小心。我感覺有什麼不對勁。"
+    }
   },
   "K:Kiki....": {
-    "translation": "K：Kiki……"
+    "translation": "K：Kiki……",
+    "MultiLang": {
+      "US": "",
+      "JP": "K:キキ……",
+      "CN": "K：Kiki……",
+      "KR": "K: 키키....",
+      "TW": "K：Kiki...."
+    }
   },
   "K:Kiki..No...": {
-    "translation": "K：Kiki……不……"
+    "translation": "K：Kiki……不……",
+    "MultiLang": {
+      "US": "",
+      "JP": "K:キキ…いや、違う…",
+      "CN": "K：Kiki……不……",
+      "KR": "K: 키키.. 아니...",
+      "TW": "K：Kiki..不..."
+    }
   },
   "K:This is what I meant by something being off. Be cautious, we've been discovered.": {
-    "translation": "K：这就是我说的有些不对劲。小心点，我们被发现了。"
+    "translation": "K：这就是我说的有些不对劲。小心点，我们被发现了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "K:こういうことだって言っただろ。用心しろ。バレたらしい。",
+      "CN": "K：这就是我所说的‘哪里不对劲’。小心点，我们已经暴露了。",
+      "KR": "K: 내가 말한 그 이상한 느낌이지. 조심해, 우리가 발각된 것 같아.",
+      "TW": "K：這就是我所說的「不對勁」。小心點，我們被發現了。"
+    }
   },
   "K:Wake up": {
-    "translation": "K：醒醒"
+    "translation": "K：醒醒",
+    "MultiLang": {
+      "US": "",
+      "JP": "K:目を覚まして",
+      "CN": "K：醒醒",
+      "KR": "K: 눈을 떰",
+      "TW": "K：醒醒"
+    }
   },
   "K:We're home, Kiki.": {
-    "translation": "K：我们到家了，Kiki。"
+    "translation": "K：我们到家了，Kiki。",
+    "MultiLang": {
+      "US": "",
+      "JP": "帰ったよ、キキ。",
+      "CN": "我们到家了，琪琪。",
+      "KR": "집에 왔어, 키키.",
+      "TW": "K：我們到家了，Kiki。"
+    }
   },
   "K:familiar handwriting....": {
-    "translation": "K：熟悉的笔迹……"
+    "translation": "K：熟悉的笔迹……",
+    "MultiLang": {
+      "US": "",
+      "JP": "見覚えのある手書き……",
+      "CN": "熟悉的笔迹……",
+      "KR": "익숙한 필적....",
+      "TW": "K：熟悉的筆跡……"
+    }
   },
   "K:so": {
-    "translation": "K：所以"
+    "translation": "K：所以",
+    "MultiLang": {
+      "US": "",
+      "JP": "そんな",
+      "CN": "所以",
+      "KR": "그래서",
+      "TW": "K：所以"
+    }
   },
   "KIki:He escaped to the upper levels. Let's chase him. We must extract from him what has happened here.": {
-    "translation": "KIki：他逃到了楼上。我们去追他。我们必须从他那里得到这里发生的事情。"
+    "translation": "KIki：他逃到了楼上。我们去追他。我们必须从他那里得到这里发生的事情。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：上層部へ逃げた。追跡だ。ここで何があったのか、情報を引き出さねば。",
+      "CN": "他逃往上层区域了。快追上去，我们必须从他口中问出这里发生的一切。",
+      "KR": "키키: 그자는 상위 층으로 도망쳤어. 따라가자. 여기서 무슨 일이 있었는지 반드시 물어봐야 해.",
+      "TW": "KIki：他逃往上層去了。追上去吧，我們得從他口中問出這裡發生的一切。"
+    }
   },
   "Karl:Hold on to me, Kiki!": {
-    "translation": "Karl：抓紧我，Kiki！"
+    "translation": "Karl：抓紧我，Kiki！",
+    "MultiLang": {
+      "US": "",
+      "JP": "カール：手を離すな、キキ！",
+      "CN": "抓紧我，琪琪！",
+      "KR": "카를: 나 붙잡아, 키키!",
+      "TW": "Karl：抓紧我，Kiki！"
+    }
   },
   "Kiki:A note...?": {
-    "translation": "Kiki：一张纸条……？"
+    "translation": "Kiki：一张纸条……？",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：手紙……？",
+      "CN": "一封信……？",
+      "KR": "키키: 쪽지...?",
+      "TW": "Kiki：一封信……？"
+    }
   },
   "Kiki:After all, you are the last investigator I'm collaborating with.": {
-    "translation": "Kiki：毕竟，你是我合作的最后一位调查员。"
+    "translation": "Kiki：毕竟，你是我合作的最后一位调查员。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：結局、あなたは私が協力する最後の探偵よ。",
+      "CN": "毕竟，你是我合作的最后一位调查员。",
+      "KR": "키키: 결국, 넌 내가 마지막까지 협업한 조사관이지.",
+      "TW": "Kiki：畢竟，你是我合作的最後一位調查員。"
+    }
   },
   "Kiki:Ah, I forgot you can't even remember your own name": {
-    "translation": "Kiki：啊，我忘了你连自己的名字都记不住"
+    "translation": "Kiki：啊，我忘了你连自己的名字都记不住",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ああ、自分の名前さえ思い出せないのだったね",
+      "CN": "啊，忘了你连自己的名字都记不起来了。",
+      "KR": "키키: 아, 네가 자기 이름도 기억나지 않는 줄은 깜빡했어.",
+      "TW": "Kiki：啊，我忘了你連自己的名字都想不起來。"
+    }
   },
   "Kiki:Although the planet has stabilized now, it is still a very important building": {
-    "translation": "Kiki：虽然现在星球已经稳定了，但它还是一座非常重要的建筑"
+    "translation": "Kiki：虽然现在星球已经稳定了，但它还是一座非常重要的建筑",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：惑星は現在安定していますが、非常に重要な建物です",
+      "CN": "琪琪：虽然星球现在已经稳定了，但这仍然是一个非常重要的建筑。",
+      "KR": "키키: 행성이 안정화되었지만 여전히 매우 중요한 건물입니다",
+      "TW": "Kiki：雖然目前行星已經穩定，但這仍是一座非常重要的建築。"
+    }
   },
   "Kiki:An unknown accident happened here": {
-    "translation": "Kiki：这里发生了不为人知的事故"
+    "translation": "Kiki：这里发生了不为人知的事故",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ここで未知の事故が発生しました",
+      "CN": "琪琪：这里曾发生过一起未知的事故。",
+      "KR": "키키: 여기서 미지의 사고가 발생했습니다",
+      "TW": "Kiki：這裡曾發生過一起未知事故。"
+    }
   },
   "Kiki:And this facility was built to protect and study that plant": {
-    "translation": "Kiki：而这个设施就是为了保护和研究那株植物而建的"
+    "translation": "Kiki：而这个设施就是为了保护和研究那株植物而建的",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：そしてこの施設は、その植物を保護し研究するために建てられました",
+      "CN": "琪琪：这个设施正是为了保护和研究那株植物而建立的。",
+      "KR": "키키: 그리고 이 시설은 그 식물을 보호하고 연구하기 위해 건립되었습니다",
+      "TW": "Kiki：這項設施就是為了保護和研究該植物而建造的。"
+    }
   },
   "Kiki:Brand escaped.": {
-    "translation": "Kiki：Brand逃走了。"
+    "translation": "Kiki：Brand逃走了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ブランドは逃走した。",
+      "CN": "琪琪：布兰德逃跑了。",
+      "KR": "키키: 브랜드가 도주했습니다.",
+      "TW": "Kiki：布蘭德逃跑了。"
+    }
   },
   "Kiki:But there's bad news. The spaceship can't withstand the explosion and is going to crash.": {
-    "translation": "Kiki：但是有一个坏消息，飞船经不起爆炸，要坠毁了。"
+    "translation": "Kiki：但是有一个坏消息，飞船经不起爆炸，要坠毁了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：しかし、暗いニュースがあります。宇宙船は爆発に耐えられず、墜落します。",
+      "CN": "琪琪：但有个坏消息，宇宙飞船无法承受爆炸，即将坠毁。",
+      "KR": "키키: 하지만 나쁜 소식이 있습니다. 우주선은 폭발을 견디지 못하고 추락할 것입니다.",
+      "TW": "Kiki：但有個壞消息，飛船無法承受這次爆炸，即將墜毀。"
+    }
   },
   "Kiki:By the way, you've come this long, do you want a coffee? I just happened to be carrying": {
-    "translation": "Kiki：对了，你来了这么久，要喝咖啡吗？我正好带着"
+    "translation": "Kiki：对了，你来了这么久，要喝咖啡吗？我正好带着",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ところで、あなたはこれだけ長く来ましたね、コーヒーはいかがですか？ちょうど持ち合わせています",
+      "CN": "琪琪：顺便问一句，既然你一路走到这里，要不要喝杯咖啡？我刚好带了。",
+      "KR": "키키: 그런데 당신은 여기까지 오셨으니 커피 한 잔 하실래요? 운이 좋아 가지고 있었거든요",
+      "TW": "Kiki：對了，你走了這麼遠，要來杯咖啡嗎？我剛好有帶。"
+    }
   },
   "Kiki:Damn, it's that security system again, K destroy it quickly": {
-    "translation": "Kiki：该死，又是那个安保系统，K快点毁掉它"
+    "translation": "Kiki：该死，又是那个安保系统，K快点毁掉它",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：くそ、あのセキュリティシステムだ。キ、すぐに壊して",
+      "CN": "琪琪：该死，又是那个安全系统。快毁了它！",
+      "KR": "키키: 또 그 보안 시스템이 떠다! K 파괴해!",
+      "TW": "Kiki：該死，又是那個保安系統，K，快把它摧毀。"
+    }
   },
   "Kiki:Entering here is the inside of the facility...": {
-    "translation": "Kiki：进入这里是设施内部……"
+    "translation": "Kiki：进入这里是设施内部……",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ここに入ると、施設の内部...",
+      "CN": "琪琪：进入这里就是设施内部……",
+      "KR": "키키: 여기로 들어가는 것은 시설 내부입니다...",
+      "TW": "Kiki：進入這裡就是設施內部……"
+    }
   },
   "Kiki:Finally, in front of the second core reactor": {
-    "translation": "Kiki：终于到了第二座核心反应堆前"
+    "translation": "Kiki：终于到了第二座核心反应堆前",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ついに、二番目のコア反応炉の前だ",
+      "CN": "姬琪：终于，来到了第二个核心反应堆前",
+      "KR": "키키: 드디어, 두 번째 코어 격납고 앞으로.",
+      "TW": "Kiki：最後，在第二核心反應爐前方"
+    }
   },
   "Kiki:Great, we've destroyed the portal.": {
-    "translation": "Kiki：太好了，我们把传送门毁掉了。"
+    "translation": "Kiki：太好了，我们把传送门毁掉了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：やった！ポータルを破壊したよ。",
+      "CN": "姬琪：太好了，我们摧毁了传送门。",
+      "KR": "키키: 좋아, 포털을 파괴했어.",
+      "TW": "Kiki：太好了，我們摧毀了傳送門。"
+    }
   },
   "Kiki:Have you heard? 108 years ago, a search party found the last plant on a polluted planet": {
-    "translation": "Kiki：你听说了吗？108年前，一支搜索队在一个被污染的星球上发现了最后一株植物"
+    "translation": "Kiki：你听说了吗？108年前，一支搜索队在一个被污染的星球上发现了最后一株植物",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：知ってる？108年前、捜索隊が汚染された惑星で最後の植物を見つけたんだって",
+      "CN": "姬琪：你听说了吗？108年前，一支搜索队在污染的星球上发现了最后一株植物",
+      "KR": "키키: 들었어? 108년 전, 탐색대가 오염된 행성에서 마지막 식물을 발견했대.",
+      "TW": "Kiki：你聽說了嗎？108年前，一個搜索隊在污染星球上找到了最後一株植物"
+    }
   },
   "Kiki:He's trying to escape on an airship. Let's catch up quickly!": {
-    "translation": "Kiki：他正试图乘坐飞艇逃跑。我们快点追上去吧！"
+    "translation": "Kiki：他正试图乘坐飞艇逃跑。我们快点追上去吧！",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：彼が飛行船で逃げようとしているよ。追いつこう！",
+      "CN": "姬琪：他试图乘坐飞艇逃跑。我们要赶快追上去！",
+      "KR": "키키: 그가 비행을 포기하려 해. 빨리 쫓아가자!",
+      "TW": "Kiki：他正試圖搭乘飛艇逃跑。我們得趕緊追上去！"
+    }
   },
   "Kiki:Hey K, I found another one, praise me": {
-    "translation": "Kiki：嘿K，我又发现了一个，表扬我"
+    "translation": "Kiki：嘿K，我又发现了一个，表扬我",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：hey K、もう一つ見つけたから褒めてちょうだい",
+      "CN": "姬琪：嘿，K，我又发现了一个，夸夸我",
+      "KR": "키키: K, 또 찾았어, 나 칭찬해줘.",
+      "TW": "Kiki：嘿，K，我又找到一個了，誇讚我一下"
+    }
   },
   "Kiki:Hey K, look what I found, catch it": {
-    "translation": "Kiki：嘿K，看我发现了什么，抓住它"
+    "translation": "Kiki：嘿K，看我发现了什么，抓住它",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：hey K、これ見て捕まえて",
+      "CN": "姬琪：嘿，K，看我发现了什么，接住它",
+      "KR": "키키: K, 내 물건 봐, 잡아줘.",
+      "TW": "Kiki：嘿，K，看看我找到了什麼，抓住它"
+    }
   },
   "Kiki:Hey! You still can't remember your name?": {
-    "translation": "Kiki：嘿！你还是记不住你的名字吗？"
+    "translation": "Kiki：嘿！你还是记不住你的名字吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ねえ！まだ名前を思い出せないの？",
+      "CN": "姬琪：喂！你还想不起自己的名字吗？",
+      "KR": "키키: 야! 아직도 네 이름을 기억 못해?",
+      "TW": "Kiki：嘿！你還是記不住自己的名字嗎？"
+    }
   },
   "Kiki:Hey, that's my pistol...": {
-    "translation": "Kiki：嘿，那是我的手枪……"
+    "translation": "Kiki：嘿，那是我的手枪……",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：それ、私の拳銃でしょ…",
+      "CN": "姬琪：嘿，那可是我的手枪……",
+      "KR": "키키: 저기, 내 권총인데...",
+      "TW": "Kiki：嘿，那是我的手槍……"
+    }
   },
   "Kiki:Honestly, I'm a guide about to be eliminated": {
-    "translation": "Kiki：说实话，我是一个即将被淘汰的向导"
+    "translation": "Kiki：说实话，我是一个即将被淘汰的向导",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：正直、私はEliminateされかけるガイドです",
+      "CN": "Kiki：老实说，我是一名即将被淘汰的向导",
+      "KR": "키키: 솔직히 나는 축출될 예정인 가이드야",
+      "TW": "Kiki：老實說，我是個即將被淘汰的導覽員"
+    }
   },
   "Kiki:How did he end up like this?": {
-    "translation": "Kiki：他怎么会变成这样？"
+    "translation": "Kiki：他怎么会变成这样？",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：彼はどうやってこうなったの？",
+      "CN": "Kiki：他怎么会变成这样？",
+      "KR": "키키: 어떻게 저렇게 된 걸까?",
+      "TW": "Kiki：他怎麼變成這樣了？"
+    }
   },
   "Kiki:I hate how the designers of this facility like to make the door switches so hard to open": {
-    "translation": "Kiki：我讨厌这个设施的设计者喜欢把门开关做得很难打开"
+    "translation": "Kiki：我讨厌这个设施的设计者喜欢把门开关做得很难打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：この施設のデザイナーはドアのスイッチを開けるのがすごく難しいのが好きだ。私が嫌いな点です",
+      "CN": "Kiki：我讨厌这个设施的设计师把门开关做得这么难开",
+      "KR": "keyki: 이 시설의 디자이너들이 문을 열기 어렵게 만드는 게 싫어",
+      "TW": "Kiki：我討厭這個設施的設計師總是把門鎖做得這麼難開"
+    }
   },
   "Kiki:I remember now, that sound is from the head of this research institute, Brand.": {
-    "translation": "Kiki：我现在想起来，那个声音是这个研究所的负责人发出来的，他叫Brand。"
+    "translation": "Kiki：我现在想起来，那个声音是这个研究所的负责人发出来的，他叫Brand。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：思い出しました、あの音はこの研究所の所長、ブランドです",
+      "CN": "Kiki：我想起来了，那个声音来自这个研究机构的负责人Brand。",
+      "KR": "키키: 지금 들리는 소리는 이 연구소의 두목 브랜드의 발소리야",
+      "TW": "Kiki：我想起來了，那個聲音來自這個研究所所長 Brand。"
+    }
   },
   "Kiki:I saw an orange pipe on the way, and maybe we can get to the third core reactor from there": {
-    "translation": "Kiki：我在路上看到了一个橙色的管子，也许我们可以从那里到达第三个核心反应堆"
+    "translation": "Kiki：我在路上看到了一个橙色的管子，也许我们可以从那里到达第三个核心反应堆",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：道中にオレンジ色のパイプが見えました。もしかしたら、そこから第3の反応炉に行けるかも",
+      "CN": "Kiki：我在路上看到了一个橙色管道，也许我们可以从那里到达第三个核心反应堆。",
+      "KR": "키키: 가는 길에 주황색 파이프를 발견했어. 거기서 3호 원자로로 갈 수 있을 거야",
+      "TW": "Kiki：我路過時看到一條橘色管子，我們或許能從那裡進入第三核心反應爐"
+    }
   },
   "Kiki:I was sent here to be your guide.": {
-    "translation": "Kiki：我被派来当你的向导。"
+    "translation": "Kiki：我被派来当你的向导。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：私はあなたのガイドとしてここに送られました",
+      "CN": "Kiki：我被派到这里来做你的向导。",
+      "KR": "키키: 내가 너의 가이드로 온 줄 알지.",
+      "TW": "Kiki：我被派來擔任你的導覽員。"
+    }
   },
   "Kiki:I will, K.": {
-    "translation": "Kiki：我会的，K。"
+    "translation": "Kiki：我会的，K。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：はい、K",
+      "CN": "Kiki：我会的，K。",
+      "KR": "키키: 응해,케이",
+      "TW": "Kiki：我會的，K。"
+    }
   },
   "Kiki:I'm feeling a bit restless.": {
-    "translation": "Kiki：我有点不安。"
+    "translation": "Kiki：我有点不安。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：少し落ち着かない気分です",
+      "CN": "Kiki：我感到有些烦躁不安。",
+      "KR": "키키: 조금 초조해져.",
+      "TW": "Kiki：我覺得有點坐立不安。"
+    }
   },
   "Kiki:If you can take...": {
-    "translation": "Kiki：如果你能拿走……"
+    "translation": "Kiki：如果你能拿走……",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：もしあなたが…受け取れるなら",
+      "CN": "琪琪：如果你能……",
+      "KR": "키키: 만약 당신이… 할 수 있다면...",
+      "TW": "琪琪：如果你能帶著……"
+    }
   },
   "Kiki:If you take my pistol, you protect me in case of danger": {
-    "translation": "Kiki：如果你拿走我的手枪，你就能在危险时保护我"
+    "translation": "Kiki：如果你拿走我的手枪，你就能在危险时保护我",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：私のピストルを持ってくれたら、危険な時に私を守ってくれるわ",
+      "CN": "琪琪：如果你拿着我的左轮枪，遇到危险时保护我",
+      "KR": "키키: 내 권총을 받아주면, 위급할 때 내가 널 지켜줄게",
+      "TW": "琪琪：如果你拿了我的手槍，有危險時你就要保護我"
+    }
   },
   "Kiki:It appears that Brand was ultimately eager to make achievements": {
-    "translation": "Kiki：看来Brand最终还是急于立功"
+    "translation": "Kiki：看来Brand最终还是急于立功",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：どうやらブランドは最終的に功績を立てることに執着していたようですね",
+      "CN": "琪琪：看来布兰德最终是急于做出成就的",
+      "KR": "키키: 브랜드가 결국 성취를 이루기를 바랐던 것 같군",
+      "TW": "琪琪：看來布蘭德最終還是渴望建功立業"
+    }
   },
   "Kiki:It is too hard to call you without a name, so let's call you K for now": {
-    "translation": "Kiki：不叫你名字太难了，就先叫你K吧"
+    "translation": "Kiki：不叫你名字太难了，就先叫你K吧",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：名前なしであなたに呼びかけるのは難しいので、とりあえず『K』と呼びましょう",
+      "CN": "琪琪：没有名字很难叫你，所以我们先叫你K吧",
+      "KR": "키키: 이름도 없이 부르기엔 너무 어려우니, 당분간 K라고 부르자",
+      "TW": "琪琪：叫你名字太困難了，所以我們暫時叫你 K 吧"
+    }
   },
   "Kiki:It seems that he knows how to salvage this situation.": {
-    "translation": "Kiki：看来他知道该怎么挽救局面了。"
+    "translation": "Kiki：看来他知道该怎么挽救局面了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：彼がこの状況を打開する方法を知っているようです。",
+      "CN": "琪琪：看起来他知道如何处理这个局面。",
+      "KR": "키키: 그는 상황을 수습할 줄 아는 것 같아.",
+      "TW": "琪琪：看來他知道如何挽救這個局面。"
+    }
   },
   "Kiki:It seems that the assistant ended up being here in the end...": {
-    "translation": "Kiki：看来助理最后还是来了……"
+    "translation": "Kiki：看来助理最后还是来了……",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：どうやらアシスタントが最終的にここに残ることになったような気がします…",
+      "CN": "琪琪：看来助理最终还是在……",
+      "KR": "키키: 어쨌든 도우미가 여기 끝나는 것 같군…",
+      "TW": "琪琪：看來助手最終還是來到了這裡……"
+    }
   },
   "Kiki:It seems that we have to look for these energy balls": {
-    "translation": "Kiki：看来我们得去找这些能量球了"
+    "translation": "Kiki：看来我们得去找这些能量球了",
+    "MultiLang": {
+      "US": "Kiki: It seems we have to find these energy balls.",
+      "JP": "キキ：どうやらこれらのエネルギーボールを探す必要がありそうです",
+      "CN": "琪琪：看来我们得去寻找这些能量球了",
+      "KR": "키키: 우리는 이 에너지 구체들을 찾아야 할 것 같아",
+      "TW": "琪琪：看來我們得尋找這些能量球了"
+    }
   },
   "Kiki:It worked! Now just take the elevator up": {
-    "translation": "Kiki：成功了！现在就坐电梯上去吧"
+    "translation": "Kiki：成功了！现在就坐电梯上去吧",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：成功です！あとはエレベータで上に行きましょう",
+      "CN": "琪琪：成功了！现在只需乘电梯上去",
+      "KR": "키키: 됐어! 이제 엘리베이터를 타고 위로 올라가면 돼",
+      "TW": "琪奇：有效！現在只需乘電梯上去"
+    }
   },
   "Kiki:It's a high-tech facility and we're right at the entrance": {
-    "translation": "Kiki：这是高科技设施，我们就在入口处"
+    "translation": "Kiki：这是高科技设施，我们就在入口处",
+    "MultiLang": {
+      "US": "",
+      "JP": "きき：ハイテク施設で、私たちはまさに入り口にいます",
+      "CN": "基基：这是一个高科技设施，我们就在大门口",
+      "KR": "키키: 첨단 시설이네요.我们现在정문에 있어요",
+      "TW": "基琪：這是一處高科技設施，我們就在入口處。"
+    }
   },
   "Kiki:It's my K": {
-    "translation": "Kiki：这是我的K"
+    "translation": "Kiki：这是我的K",
+    "MultiLang": {
+      "US": "",
+      "JP": "きき：私の「Ｋ」よ",
+      "CN": "基基：这是我的K",
+      "KR": "키키: 내 K죠",
+      "TW": "基琪：它是我的 K。"
+    }
   },
   "Kiki:It??s so dark, did the designer forget to make a lamp?": {
-    "translation": "Kiki：好暗啊，设计师是不是忘了做灯了？"
+    "translation": "Kiki：好暗啊，设计师是不是忘了做灯了？",
+    "MultiLang": {
+      "US": "",
+      "JP": "きき：すごく暗いわ、デザイナーがランプを作るのを忘れたの？",
+      "CN": "基基：这怎么这么黑，设计师是不是忘了装灯？",
+      "KR": "키키: 진짜 어둡네요. 디자이너가 램프를 깜빡했나요?",
+      "TW": "基琪：這裡怎麼這麼暗？是設計師忘了裝燈嗎？"
+    }
   },
   "Kiki:Just thinking about what kind of consequences I might face after this mission is over... I'm uncertain.": {
-    "translation": "Kiki：想想这个任务结束后，我可能会面临什么样的后果……我不确定。"
+    "translation": "Kiki：想想这个任务结束后，我可能会面临什么样的后果……我不确定。",
+    "MultiLang": {
+      "US": "",
+      "JP": "きき：この任務が終わった後、どんな結果を受けるか考えるだけで…不安よ",
+      "CN": "基基：只是想想这任务结束后我会面临什么样的后果……我心里没底。",
+      "KR": "키키: 미션이 끝난 뒤 내가 직면하게 될 결과를 생각하면... 불안하네요.",
+      "TW": "基琪：光是想到這次任務結束後可能面臨的後果，我就感到迷茫。"
+    }
   },
   "Kiki:K!WATCH OUT!": {
-    "translation": "Kiki：K！小心！"
+    "translation": "Kiki：K！小心！",
+    "MultiLang": {
+      "US": "",
+      "JP": "きき：Ｋ！気をつけて！",
+      "CN": "基基：K！小心！",
+      "KR": "키키: K!주의하세요!",
+      "TW": "基琪：K！快躲開！"
+    }
   },
   "Kiki:K!watch out": {
-    "translation": "Kiki：K！小心"
+    "translation": "Kiki：K！小心",
+    "MultiLang": {
+      "US": "",
+      "JP": "きき：Ｋ、気をつけて",
+      "CN": "基基：K！看那边",
+      "KR": "키키: K!조심해요",
+      "TW": "基琪：K！小心！"
+    }
   },
   "Kiki:K, do you have any relatives or friends?": {
-    "translation": "Kiki：K，你有亲戚朋友吗？"
+    "translation": "Kiki：K，你有亲戚朋友吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "きき：Ｋ、親戚や友人はいるの？",
+      "CN": "基基：K，你有亲戚或朋友吗？",
+      "KR": "키키: K, 가족이나 친구가 있나요?",
+      "TW": "基琪：K，你有親戚或朋友嗎？"
+    }
   },
   "Kiki:K,The medical kit is on the left side's wheel.": {
-    "translation": "Kiki：K，医疗包在左边的轮子上。"
+    "translation": "Kiki：K，医疗包在左边的轮子上。",
+    "MultiLang": {
+      "US": "",
+      "JP": "きき：Ｋ、医疗キットは左側の車輪にあります",
+      "CN": "基基：K，医疗箱在左边的轮子上。",
+      "KR": "키키: K, 의료킷이 왼쪽 바퀴 쪽에 있어요.",
+      "TW": "基琪："
+    }
   },
   "Kiki:Karl, we did it.": {
-    "translation": "Kiki：Karl，我们成功了。"
+    "translation": "Kiki：Karl，我们成功了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：カール、やったわ",
+      "CN": "Kiki：卡尔，我们成功了。",
+      "KR": "키키: 카를, 우리가 해냈다.",
+      "TW": "Kiki：卡爾，我們成功了。"
+    }
   },
   "Kiki:Karl... No, it should be 'Dad, welcome back.'": {
-    "translation": "Kiki：Karl……不，应该是‘爸爸，欢迎回来。’"
+    "translation": "Kiki：Karl……不，应该是‘爸爸，欢迎回来。’",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：カール……いや、『おかえり、お父さん』だね",
+      "CN": "Kiki：卡尔……不对，应该说‘爸爸，欢迎回来’。",
+      "KR": "키키: 카를... 아니야. '다시 돌아온 아빠'라고 해야 해.",
+      "TW": "Kiki：卡爾……不，應該說『爸爸，歡迎回來。』"
+    }
   },
   "Kiki:Karl... Who is he? I feel like I know him somehow.": {
-    "translation": "Kiki：Karl……他是谁？我感觉我好像认识他。"
+    "translation": "Kiki：Karl……他是谁？我感觉我好像认识他。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：カール……彼は誰？なんだか知っているような気がするわ",
+      "CN": "Kiki：卡尔……他是谁？我怎么觉得有点眼熟。",
+      "KR": "키키: 카를... 저 사람은 누구지? 뭔가 알 같은 느낌이 들어.",
+      "TW": "Kiki：卡爾……他是誰？我感覺好像認識他。"
+    }
   },
   "Kiki:Look behind you, this core has a security system, pay attention to dodge": {
-    "translation": "Kiki：看看你身后，这个核心有安全系统，注意躲避"
+    "translation": "Kiki：看看你身后，这个核心有安全系统，注意躲避",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：背後を見て！このコアにはセキュリティシステムがあるから、避けるようにして",
+      "CN": "Kiki：看身后，这个核心有安保系统，注意躲避。",
+      "KR": "키키: 뒤를 봐, 이 코어에는 보안 시스템이 작동 중이야. 피할 준비를 해.",
+      "TW": "Kiki：看後方，這個核心有安全系統，注意閃避"
+    }
   },
   "Kiki:Look, I found a diary": {
-    "translation": "Kiki：看，我发现了一本日记"
+    "translation": "Kiki：看，我发现了一本日记",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ほら、日記を見つけたわ",
+      "CN": "Kiki：看，我发现了一本日记。",
+      "KR": "키키: 봐, 일기를 찾았어",
+      "TW": "Kiki：看，我找到一本日誌"
+    }
   },
   "Kiki:Looks like we have to jump up and touch 8 energy balls to open the door": {
-    "translation": "Kiki：看来我们要跳起来，触摸8个能量球才能打开门"
+    "translation": "Kiki：看来我们要跳起来，触摸8个能量球才能打开门",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：どうやら扉を開けるために跳び上がって、エネルギーボール8つに触れる必要があるみたいね",
+      "CN": "Kiki：看来我们必须跳上去触摸8个能量球才能打开门。",
+      "KR": "키키: 문 열려면 에너지 볼 8개를 맞춰서 닿아야 하겠어",
+      "TW": "Kiki：看來我們必須跳起來觸碰 8 顆能量球才能開啟這扇門"
+    }
   },
   "Kiki:Maybe we won't be able to meet again after this mission is over.": {
-    "translation": "Kiki：这次任务结束后，我们可能就不能再见面了。"
+    "translation": "Kiki：这次任务结束后，我们可能就不能再见面了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：もしかしたら、この任務が終わったら二度と会えないかもしれないわ",
+      "CN": "Kiki：也许任务结束后，我们不会再见面了。",
+      "KR": "키키: 이번 임무가 끝나면我们再 만나기 어려울지도 몰라.",
+      "TW": "Kiki：這次任務結束後，也許我們再也無法相見。"
+    }
   },
   "Kiki:Never mind": {
-    "translation": "Kiki：没关系"
+    "translation": "Kiki：没关系",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：いいえ",
+      "CN": "Kiki：算了",
+      "KR": "키키: 아무것도 아니야",
+      "TW": "Kiki：算了"
+    }
   },
   "Kiki:No, the facility's security system is activated, which means we are considered the enemy": {
-    "translation": "Kiki：不，设施的安全系统已启动，这意味着我们被视为敌人"
+    "translation": "Kiki：不，设施的安全系统已启动，这意味着我们被视为敌人",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：いいえ、施設セキュリティが起動しています。これは私たちが敵として扱われていることを意味します",
+      "CN": "基基：不行，设施的安全系统已启动，这意味着我们被视为敌人。",
+      "KR": "키키: 아니야, 시설의 보안 시스템이 가동되었어. 그럼 우리가 적으로 간주된다는 뜻이지.",
+      "TW": "Kiki：不行，設施的安防系統已啟動，這表示我們被視為敵人"
+    }
   },
   "Kiki:Now we go to destroy the portal.": {
-    "translation": "Kiki：现在我们去摧毁传送门。"
+    "translation": "Kiki：现在我们去摧毁传送门。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：さあ、ポータルを破壊する時です",
+      "CN": "基基：现在我们去摧毁传送门。",
+      "KR": "키키: 이제 포탈을 파괴하러 가자.",
+      "TW": "Kiki：現在我們去摧毀傳送門。"
+    }
   },
   "Kiki:Now we set off to destroy the portal.": {
-    "translation": "Kiki：现在我们出发摧毁传送门。"
+    "translation": "Kiki：现在我们出发摧毁传送门。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：さて、ポータル破壊に向かいます",
+      "CN": "基基：现在出发去摧毁传送门。",
+      "KR": "키키: 이제 출동해서 포탈을 파괴하자.",
+      "TW": "Kiki：現在我們出發去摧毀傳送門。"
+    }
   },
   "Kiki:Ok, we successfully started the first core": {
-    "translation": "Kiki：好的，我们成功启动了第一个核心"
+    "translation": "Kiki：好的，我们成功启动了第一个核心",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：了解。第一のコア起動完了です",
+      "CN": "基基：好的，我们成功启动了第一个核心。",
+      "KR": "키키: 알겠어, 첫 번째 코어를 정상적으로 시작했어.",
+      "TW": "Kiki：好，我們成功啟動了第一個核心。"
+    }
   },
   "Kiki:Our way is blocked": {
-    "translation": "Kiki：我们的路被堵住了"
+    "translation": "Kiki：我们的路被堵住了",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：進路が塞がっています",
+      "CN": "基基：我们的道路被阻断了。",
+      "KR": "키키: 우리의 길이 막혔다.",
+      "TW": "Kiki：我們的去路被阻擋了。"
+    }
   },
   "Kiki:Quick!we have to start the last core before the countdown ends": {
-    "translation": "Kiki：快！我们必须在倒计时结束前启动最后一个核心"
+    "translation": "Kiki：快！我们必须在倒计时结束前启动最后一个核心",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：急いで！カウントダウンが終了する前に最後のコアを起動しなければなりません",
+      "CN": "基基：快！我们必须在倒计时结束前启动最后一个核心。",
+      "KR": "키키: 빨리! 카운트다운이 끝날 때까지 마지막 코서를 기동해야 해.",
+      "TW": "Kiki：快！我們必須在倒數結束前啟動最後一個核心。"
+    }
   },
   "Kiki:Quick, get out of the way! The portal is releasing shockwaves. It doesn't want to be destroyed.": {
-    "translation": "Kiki：快，走开！传送门正在释放冲击波。它不想被摧毁。"
+    "translation": "Kiki：快，走开！传送门正在释放冲击波。它不想被摧毁。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：どけ！ポータルが衝撃波を発しています。破壊されたくないのでしょう",
+      "CN": "基基：快，让开！传送门正在释放冲击波。它不想被摧毁。",
+      "KR": "키키: 어서 피하라! 포탈이 충격파를 방출하고 있다. 파괴되길 원하지 않아.",
+      "TW": "Kiki：快，閃開！傳送門正在釋放衝擊波。它不願意被摧毀。"
+    }
   },
   "Kiki:Some people's information is scattered here, who could it be?": {
-    "translation": "Kiki：有些人的信息散落在这儿，会是谁呢？"
+    "translation": "Kiki：有些人的信息散落在这儿，会是谁呢？",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：一部の人物の情報がここに点在しています。誰でしょうか？",
+      "CN": "基基：这里散落着一些人的信息，会是谁呢？",
+      "KR": "키키: 여기 누군가 정보가 흩어져 있네. 누가 있을까?",
+      "TW": "Kiki：這裡散落著一些人的資訊，會是誰呢？"
+    }
   },
   "Kiki:Take these core energy sources with you": {
-    "translation": "Kiki：把这些核心能源带上"
+    "translation": "Kiki：把这些核心能源带上",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：コアエネルギー源を持ち運んで。",
+      "CN": "基基：把这些核心能源带上",
+      "KR": "키키: 이 핵심 에너지원을 가져가",
+      "TW": "琪琪：帶著這些核心能量源走吧"
+    }
   },
   "Kiki:That one is distributed by the company, if you lose it I will be penalized": {
-    "translation": "Kiki：这个是公司分配的，如果弄丢了我会受到惩罚的"
+    "translation": "Kiki：这个是公司分配的，如果弄丢了我会受到惩罚的",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：それは会社によって配布されたもので、失えば私は処罰されるわ。",
+      "CN": "基基：这是公司统一配发的，要是丢了的话我会受罚的",
+      "KR": "키키: 그건 회사에서 배포한 거야, 분실하면 저에게 페널티가 부과돼",
+      "TW": "琪琪：那個是公司配發的，要是弄丟了我會受罰"
+    }
   },
   "Kiki:That's why no one came out to meet us": {
-    "translation": "Kiki：所以才没有人出来接我们"
+    "translation": "Kiki：所以才没有人出来接我们",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：だからこそ誰も迎えてくれなかったのよ。",
+      "CN": "基基：难怪没人出来接我们",
+      "KR": "키키: 그래서 아무도 우리를 만나러 나오지 않았지",
+      "TW": "琪琪：這就是為什麼沒有人出來見我們"
+    }
   },
   "Kiki:That's why you're here, your mission is to investigate what's going on here": {
-    "translation": "Kiki：所以你才来这里，你的任务就是调查这里发生了什么"
+    "translation": "Kiki：所以你才来这里，你的任务就是调查这里发生了什么",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：だからあなたHEREいるの。あなたの任務はここでの状況を調査することよ。",
+      "CN": "基基：所以你才在这里，你的任务就是调查这里的情况",
+      "KR": "키키: 그래서 네가 여기 온 거야, 네 임무는 여기서 무슨 일이 일어나고 있는지 조사하는 것이야",
+      "TW": "琪琪：這就是你到這裡的原因，你的任務是調查這裡發生了什麼事"
+    }
   },
   "Kiki:The creatures from the other realm have caught up as well.": {
-    "translation": "Kiki：异界的生物也追上来了。"
+    "translation": "Kiki：异界的生物也追上来了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：他の界域からの生物たちも追いついてきたわ。",
+      "CN": "基基：来自其他次元的生物也追过来了。",
+      "KR": "키키: 다른 차원의 생물들도 따라왔어.",
+      "TW": "琪琪：來自其他領域的生物也追了過來。"
+    }
   },
   "Kiki:The desk is covered with a lot of research materials. It seems that the owner of this office holds a high position.": {
-    "translation": "Kiki：桌子上堆满了研究资料，看来这间办公室的主人地位很高。"
+    "translation": "Kiki：桌子上堆满了研究资料，看来这间办公室的主人地位很高。",
+    "MultiLang": {
+      "US": "Kiki: The desk is covered in lots of research materials. It seems the office's owner holds a high position.",
+      "JP": "キキ：机は多くの研究資料で埋め尽くされているわ。このオフィスの持ち主が高位にあることがわかるわ。",
+      "CN": "基基：桌上堆满了各种研究资料，看来这间办公室的主人地位不低。",
+      "KR": "키키: 책상 위에는 많은 연구 자료들로 가득 차 있어. 이 사무실 소유자가 높은 직급을 가진 사람인 것 같군.",
+      "TW": "琪琪：書桌上堆滿了許多研究資料，看來這間辦公室的主人位高權重。"
+    }
   },
   "Kiki:The first location is the factory, it looks like we have to activate three cores to close the waste water gate in the middle": {
-    "translation": "Kiki：第一个地点是工厂，看来要启动三个核心才能关闭中间的废水闸门"
+    "translation": "Kiki：第一个地点是工厂，看来要启动三个核心才能关闭中间的废水闸门",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：最初の地点は工場です。廃水ゲートを閉じるために3つのコアを起動する必要があります。",
+      "CN": "基基：第一站是工厂，看起来我们需要激活三个核心才能关闭中间排污闸门。",
+      "KR": "키키: 첫 번째 목적지는 공장, 폐수 게이트를 닫으려면 세 개의 코어를 작동시켜야 해 보여",
+      "TW": "琪琪：第一個地點是工廠，看來我們必須啟動三個核心才能關閉中間的廢水閘門"
+    }
   },
   "Kiki:The road here is very difficult to walk, once a group of search teams were wiped out here...": {
-    "translation": "Kiki：这里的路很难走，曾经有一批搜索队在这里被全歼……"
+    "translation": "Kiki：这里的路很难走，曾经有一批搜索队在这里被全歼……",
+    "MultiLang": {
+      "US": "Kiki: The path here is very dangerous to traverse; once a group of exploration teams were annihilated in this area...",
+      "JP": "キキ：ここへの道は歩行が非常に困難です。以前、捜索班のグループがここで壊滅したことがあります...",
+      "CN": "基基：这条路非常难走，之前有一支搜索队就在这里全军覆没……",
+      "KR": "키키: 이 길은 걷기 매우 힘들어, 한 번은 검색팀 여럿이 여기서 전멸하기도 했지...",
+      "TW": "琪琪：這裡的路況非常惡劣，曾經有一群調查隊在這裡全軍覆沒..."
+    }
   },
   "Kiki:There is a record of the entire facility, so we can know what happened here": {
-    "translation": "Kiki：这里有整个设施的记录，所以我们可以知道这里发生了什么"
+    "translation": "Kiki：这里有整个设施的记录，所以我们可以知道这里发生了什么",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：施設の全記録があるから、ここで何があったか分かるわ",
+      "CN": "基基：这里有整个设施的记录，所以我们可以知道这里发生了什么",
+      "KR": "키키: 시설 전체에 대한 기록이 있으므로, 여기서 무슨 일이 있었는지 알 수 있어요.",
+      "TW": "這裡有一份完整的設施紀錄，因此我們可以了解這裡曾發生過什麼事。"
+    }
   },
   "Kiki:There is no way, we have to break the security system": {
-    "translation": "Kiki：没办法，我们必须破坏安全系统"
+    "translation": "Kiki：没办法，我们必须破坏安全系统",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：仕方ないわ、セキュリティシステムを壊すしかないわね",
+      "CN": "基基：没办法了，我们得破解安全系统",
+      "KR": "키키: 그럴 리 없어요. 보안 시스템을 뚫어야만 해요.",
+      "TW": "沒其他辦法了，我們得破解安全系統。"
+    }
   },
   "Kiki:They say I have more emotions than the average tour guide": {
-    "translation": "Kiki：他们说我比一般的导游更有情绪"
+    "translation": "Kiki：他们说我比一般的导游更有情绪",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：私には、平均的な観光ガイドよりも感情があるって言われるの",
+      "CN": "基基：他们说我比一般的导游更有感情",
+      "KR": "키키:저는 일반 가이드보다 감정이 풍부하다고 들었어요.",
+      "TW": "人家說我的情感比一般導遊還豐富呢！"
+    }
   },
   "Kiki:This facility is truly remarkable, having such mysterious underground passages.": {
-    "translation": "Kiki：这个设施真的很棒，有这么神秘的地下通道。"
+    "translation": "Kiki：这个设施真的很棒，有这么神秘的地下通道。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：この施設は本当に素晴らしいわ、こんな神秘的な地下通路があるなんて",
+      "CN": "基基：这个设施真了不起，有着如此神秘的地下通道。",
+      "KR": "키키: 이 시설에는 신비로운 지하 통로가 있어 정말 놀랍네요.",
+      "TW": "這設施真有特色，竟有如此神秘的地下通道。"
+    }
   },
   "Kiki:This looks like a warehouse": {
-    "translation": "Kiki：这看起来像个仓库"
+    "translation": "Kiki：这看起来像个仓库",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：これは倉庫に見えるわ",
+      "CN": "基基：这里看起来像仓库",
+      "KR": "키키: 여기는 창고인 것 같아요.",
+      "TW": "這裡看來像是倉庫。"
+    }
   },
   "Kiki:This place is full of smells I don't like, find a way out": {
-    "translation": "Kiki：这地方到处都是我不喜欢的味道，快找个出口出去"
+    "translation": "Kiki：这地方到处都是我不喜欢的味道，快找个出口出去",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ここは私の嫌いな匂いで満ちているわ、抜け道を見つけて",
+      "CN": "基基：这里充满了我不喜欢的味道，找个出口出来",
+      "KR": "키키: 여기는 찝찝한 냄새 투성이예요. 탈출구를 찾아야 해요.",
+      "TW": "這裡充滿了我討厭的氣味，快想辦法找路出去！"
+    }
   },
   "Kiki:Though I hold no expectations, there is still not a single person here.": {
-    "translation": "Kiki：虽然我不抱什么期望，但这里还是一个人也没有。"
+    "translation": "Kiki：虽然我不抱什么期望，但这里还是一个人也没有。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：期待はしていないけれど、ここには誰もいないわね",
+      "CN": "基基：虽然我没有抱有期望，但还是没有一个人。",
+      "KR": "키키: 기대는 하지 않지만, 여전히 아무도 없네요.",
+      "TW": "雖然我不抱任何期望，但這裡確實空無一人。"
+    }
   },
   "Kiki:Through this underground passage we can reach the terminal processing facility": {
-    "translation": "Kiki：通过这个地下通道，我们可以到达终端处理设施"
+    "translation": "Kiki：通过这个地下通道，我们可以到达终端处理设施",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：この地下通路を通れば、ターミナル処理施設に辿り着けるわ",
+      "CN": "基基：通过这条地下通道，我们可以到达终端处理设施",
+      "KR": "키키: 이 지하 통로를 통해 최종 처리 시설에 도달할 수 있어요.",
+      "TW": "透過這條地下通道，我們可以抵達終端加工設施。"
+    }
   },
   "Kiki:Throw them into the core reactor to activate": {
-    "translation": "Kiki：把它们扔进核心反应堆启动"
+    "translation": "Kiki：把它们扔进核心反应堆启动",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：それらをコア反応炉に投げ込んで作動させよう",
+      "CN": "琪琪：把它们扔进核心反应堆来激活",
+      "KR": "키키: 코어 리액터에 던져서 작동을 시켜",
+      "TW": "奇琪：把它丟進核心反應爐以啟動"
+    }
   },
   "Kiki:Wait, hold on. Brand has caught up again.": {
-    "translation": "Kiki：等等，坚持住。Brand又追上来了。"
+    "translation": "Kiki：等等，坚持住。Brand又追上来了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：待って、ちょっと。ブランドがまた追いついてきたわ。",
+      "CN": "琪琪：等等，别动。布兰德又追上来了。",
+      "KR": "키키: 잠깐만, 브랜드가 다시 따라왔어.",
+      "TW": "奇琪：等等，停一下。布蘭德又追上來了。"
+    }
   },
   "Kiki:We just need to toss this mini-bomb into the portal.": {
-    "translation": "Kiki：我们只需要把这个迷你炸弹扔进传送门里就行了。"
+    "translation": "Kiki：我们只需要把这个迷你炸弹扔进传送门里就行了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ミニ爆弾をポータルに投げ込むだけよ。",
+      "CN": "琪琪：我们只需要把这颗微型炸弹扔进传送门就行。",
+      "KR": "키키: 미니 폭탄을 포털에 던져넣기만 하면 돼.",
+      "TW": "奇琪：我們只要把這枚微型炸彈丟進門戶即可。"
+    }
   },
   "Kiki:What is that purple portal on the other side of the door? I've never seen anything like it...": {
-    "translation": "Kiki：门另一边那个紫色的传送门是什么？我从来没见过这样的东西……"
+    "translation": "Kiki：门另一边那个紫色的传送门是什么？我从来没见过这样的东西……",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：扉の向こうにあるその紫色のポータルは何？こんなもの、今まで見たことないわ…",
+      "CN": "琪琪：门那边的紫色传送门是什么？我从没见过这种玩意儿……",
+      "KR": "키키: 문 반대편에 있는 보라색 포털은 뭐지? 이런 건 처음 봤어…",
+      "TW": "奇琪：門那側的那個紫色門戶是什麼？我從未見過類似的東西……"
+    }
   },
   "Kiki:What was that terrifying sound?": {
-    "translation": "Kiki：那是什么可怕的声音？"
+    "translation": "Kiki：那是什么可怕的声音？",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：あの恐ろしい音は何だったの？",
+      "CN": "琪琪：那可怕的声响是什么？",
+      "KR": "키키: 그 무서운 소리는 뭐였지?",
+      "TW": "奇琪：剛才那恐怖的聲音是怎麼回事？"
+    }
   },
   "Kiki:Who blocked the entrance here? It seems we'll have to find another way out.": {
-    "translation": "Kiki：是谁堵住了这里的入口？看来我们得另找一条出路了。"
+    "translation": "Kiki：是谁堵住了这里的入口？看来我们得另找一条出路了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ここ入口を塞いでいるのは誰？どうやら別の抜け道を探す必要がありそうだわ。",
+      "CN": "琪琪：是谁堵住了这里的入口？看来我们得找条别的出路了。",
+      "KR": "키키: 여기서 입구를 막은 건 누구야? 다른 길을 찾아야 할 것 같아.",
+      "TW": "奇琪：是誰封住了這裡的入口？看來我們得另找一條出路。"
+    }
   },
   "Kiki:Whose office is this? It's unexpectedly connected to such a mysterious passage.": {
-    "translation": "Kiki：这是谁的办公室？它竟然连接到这么神秘的通道。"
+    "translation": "Kiki：这是谁的办公室？它竟然连接到这么神秘的通道。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：ここは誰のオフィス？想像もつかなかった、こんな神秘的な通路につながっていたとは。",
+      "CN": "琪琪：这是谁的办公室？没想到它和如此神秘的通道相连。",
+      "KR": "키키: 여기는 누구의 사무실이지? 예상이 안 가는 신비로운 통로와 연결되어 있어.",
+      "TW": "奇琪：這是誰的辦公室？它竟然意外連通著如此神秘的通道。"
+    }
   },
   "Kiki:here seems to be something on the right-side wheel. Hurry and go check it out.": {
-    "translation": "Kiki：右边的轮子上好像有什么东西。快去看看。"
+    "translation": "Kiki：右边的轮子上好像有什么东西。快去看看。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：右側の車輪に何かあるみたい。急いで行って確かめてみて。",
+      "CN": "琪琪：右边的轮子上似乎有什么东西。快去看看。",
+      "KR": "키키: 오른쪽 바퀴에 무언가 있는 것 같아. 빨리 확인하러 가봐.",
+      "TW": "奇琪：右側的輪子上似乎有東西。快去看看。"
+    }
   },
   "Kiki:it's emitting a dangerous aura.": {
-    "translation": "Kiki：它散发着危险的气息。"
+    "translation": "Kiki：它散发着危险的气息。",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：危険な気配が漂ってるわ",
+      "CN": "琪琪：散发着危险的气息。",
+      "KR": "키키:위험한 기운이 발산되고 있어.",
+      "TW": "Kiki：它正散發著危險的氣息。"
+    }
   },
   "Kiki:one more, my friend": {
-    "translation": "Kiki：再来一个，朋友"
+    "translation": "Kiki：再来一个，朋友",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：あと少し、友達よ",
+      "CN": "琪琪：再来一次，我的朋友。",
+      "KR": "키키:하나라도 더, 나의 친구여",
+      "TW": "Kiki：再加一個，我的朋友"
+    }
   },
   "Kiki:quick! Jump into the pipe in the middle and go to the sewers": {
-    "translation": "Kiki：快！跳进中间的管道，去下水道"
+    "translation": "Kiki：快！跳进中间的管道，去下水道",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：急いで！真ん中のパイプに飛び込んで下水道へ行って！",
+      "CN": "琪琪：快！跳进中间的管道，前往下水道。",
+      "KR": "키키: 빨리! 중간에 있는 파이프 안으로 점프해서 하수도로 들어가.",
+      "TW": "Kiki：快！跳進中間的管道，前往下水道。"
+    }
   },
   "Kiki:uh,Although I have heard that the road here is particularly complicated, there is no problem with the brain of the person who designed this, right?": {
-    "translation": "Kiki：呃，虽然听说这里的路特别复杂，但设计这个的人脑子没问题吧？"
+    "translation": "Kiki：呃，虽然听说这里的路特别复杂，但设计这个的人脑子没问题吧？",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：うーん、ここは道が特に複雑だと聞いてはいるけれど、設計した人間の頭脳には問題ない对吧？",
+      "CN": "琪琪：呃，虽然听说这里的道路特别复杂，但设计这条路线的人脑子应该没问题吧？",
+      "KR": "키키: 글쎄, 들었는데 여기 길은 특히 복잡하다고 하지만, 이걸 설계한 사람의 두뇌에 문제는 없었겠죠?",
+      "TW": "Kiki：呃，雖然我聽說這裡的路況特別複雜，但設計這個的人大腦應該沒問題，對吧？"
+    }
   },
   "Kiki:uh.Sorry? Did I talk too much?": {
-    "translation": "Kiki：呃，抱歉？我说太多了吗？"
+    "translation": "Kiki：呃，抱歉？我说太多了吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "キキ：うーん。ごめん？言いすぎた？",
+      "CN": "琪琪：呃，抱歉？我是不是话太多了？",
+      "KR": "키키: 어. 실례했나? 내가 너무 많이 말했니?",
+      "TW": "Kiki：呃。抱歉？我說太多了嗎？"
+    }
   },
   "Kiki:wait, what happened, the whole room is changing": {
-    "translation": "Kiki：等等，发生什么了，整个房间都在变"
+    "translation": "Kiki：等等，发生什么了，整个房间都在变",
+    "MultiLang": {
+      "US": "Kiki: Wait, what's happening? The whole room is transforming.",
+      "JP": "キキ：待って、何起きたの？部屋全体が変わってる",
+      "CN": "琪琪：等等，发生了什么事，整个房间都在变化。",
+      "KR": "키키: 기다려, 뭔가 일어난 게 있어. 방 전체가 변하고 있어.",
+      "TW": "Kiki：等等，發生什麼事了，整個房間都在變化。"
+    }
   },
   "Mapper Enidnu": {
-    "translation": "地图作者：Enidnu"
+    "translation": "地图作者：Enidnu",
+    "MultiLang": {
+      "US": "",
+      "JP": "Mapper Enidnu",
+      "CN": "地图设计师伊妮德",
+      "KR": "Mapper Enidnu",
+      "TW": "Mapper Enidnu"
+    }
   },
   "Port by 花澪墨音": {
-    "translation": "移植：花澪墨音 翻译：Ayanami♪"
+    "translation": "移植：花澪墨音 翻译：Ayanami♪",
+    "MultiLang": {
+      "US": "Ported by 花澪墨音",
+      "JP": "Port by 花澪墨音",
+      "CN": "移植：花澪墨音 翻译：Ayanami♪",
+      "KR": "Port by 花澪墨音",
+      "TW": "Port by 花澪墨音"
+    }
   },
   "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen": {
-    "translation": "特别感谢：X1a0Fu/健忘症晚期/lopb/Koen"
+    "translation": "特别感谢：X1a0Fu/健忘症晚期/lopb/Koen",
+    "MultiLang": {
+      "US": "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen",
+      "JP": "スペシャルサンクス：X1a0Fu/健忘症晚期/lopb/Koen",
+      "CN": "特别感谢：X1a0Fu/健忘症晚期/lopb/Koen",
+      "KR": "특별 감사:X1a0Fu/健忘症晚期/lopb/Koen",
+      "TW": "特別感謝：X1a0Fu/健忘症晚期/lopb/Koen"
+    }
   },
   "Sponsor:千音星璃": {
-    "translation": "赞助：千音星璃"
+    "translation": "赞助：千音星璃",
+    "MultiLang": {
+      "US": "Sponsor:千音星璃",
+      "JP": "スポンサー：千音星璃",
+      "CN": "赞助：千音星璃",
+      "KR": "스폰서:千音星璃",
+      "TW": "贊助商：千音星璃"
+    }
   },
   "bad ending:Kiki couldn't dodge Brand's attack while trying to save you.": {
-    "translation": "坏结局：Kiki在救你的时候没能躲过Brand的攻击。"
+    "translation": "坏结局：Kiki在救你的时候没能躲过Brand的攻击。",
+    "MultiLang": {
+      "US": "",
+      "JP": "バッドエンディング：キキはあなたを守るためにブランドの攻撃をよけられませんでした。",
+      "CN": "坏结局：琪琪在试图拯救你时，没能躲开布兰德的攻击。",
+      "KR": "나쁜 결말:키키는 너를 구하려다 브랜드의 공격을 피하지 못했다.",
+      "TW": "悲慘結局：Kiki在試圖保護你時來不及躲開Brand的攻擊。"
+    }
   },
   "story1 unlock": {
-    "translation": "故事1解锁"
+    "translation": "故事1解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー1アンロック",
+      "CN": "解锁故事1",
+      "KR": "스토리 1 해금",
+      "TW": "解鎖故事1"
+    }
   },
   "story10 unlock": {
-    "translation": "故事10解锁"
+    "translation": "故事10解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー10アンロック",
+      "CN": "解锁故事10",
+      "KR": "스토리 10 해금",
+      "TW": "解鎖故事10"
+    }
   },
   "story2 unlock": {
-    "translation": "故事2解锁"
+    "translation": "故事2解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー2アンロック",
+      "CN": "解锁故事2",
+      "KR": "스토리 2 해금",
+      "TW": "解鎖故事2"
+    }
   },
   "story3 unlock": {
-    "translation": "故事3解锁"
+    "translation": "故事3解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー3アンロック",
+      "CN": "解锁故事3",
+      "KR": "스토리 3 해금",
+      "TW": "解鎖故事3"
+    }
   },
   "story4 unlock": {
-    "translation": "故事4解锁"
+    "translation": "故事4解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー4アンロック",
+      "CN": "解锁故事4",
+      "KR": "스토리 4 해금",
+      "TW": "解鎖故事4"
+    }
   },
   "story5 unlock": {
-    "translation": "故事5解锁"
+    "translation": "故事5解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー5アンロック",
+      "CN": "解锁故事5",
+      "KR": "스토리 5 해금",
+      "TW": "解鎖故事5"
+    }
   },
   "story6 unlock": {
-    "translation": "故事6解锁"
+    "translation": "故事6解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー6アンロック",
+      "CN": "解锁故事6",
+      "KR": "스토리 6 해금",
+      "TW": "解鎖故事6"
+    }
   },
   "story7 unlock": {
-    "translation": "故事7解锁"
+    "translation": "故事7解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー7アンロック",
+      "CN": "解锁故事7",
+      "KR": "스토리 7 해금",
+      "TW": "解鎖故事7"
+    }
   },
   "story8 unlock": {
-    "translation": "故事8解锁"
+    "translation": "故事8解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー8アンロック",
+      "CN": "解锁故事8",
+      "KR": "스토리 8 해금",
+      "TW": "解鎖故事8"
+    }
   },
   "story9 unlock": {
-    "translation": "故事9解锁"
+    "translation": "故事9解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーリー9アンロック",
+      "CN": "解锁故事9",
+      "KR": "스토리 9 해금",
+      "TW": "解鎖故事9"
+    }
   },
   "": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "You have found all the stories.": {
-    "translation": ""
+    "translation": "你已经找到了所有的故事",
+    "MultiLang": {
+      "US": "",
+      "JP": "すべてのストーリーを発見しました。",
+      "CN": "你已找到所有故事。",
+      "KR": "모든 스토리를 발견했습니다.",
+      "TW": "你已發現所有故事。"
+    }
   },
   "Kiki:我骇入飞船了，我只能控制飞船60秒，我们得趁现在赶上飞船": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiki: I've hacked the spaceship's controls. I can only steer for 60 seconds, so we'd better hurry.",
+      "JP": "キシキ：私は宇宙船にハッキングしたわ、操作できるのは60秒だけ。今すぐ追いついて！",
+      "CN": "",
+      "KR": "키키: 내가 우주선에 해킹했어. 이제 60초 동안만 조종할 수 있어. 지금 탑승해야 해!",
+      "TW": "Kiki：我侵入飛船了，我無法控制它超過60秒，我們必須趁現在趕上。"
+    }
+  },
+  "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦",
+      "JP": "スペシャルサンクス: X1a0Fu / 健忘症晚期 / lpb / Koen / Tenshi / 清醒梦",
+      "CN": "",
+      "KR": "특별 감사: X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦",
+      "TW": "特別鳴謝：X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦"
+    }
+  },
+  "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow",
+      "JP": "スペシャルサンクス: X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow",
+      "CN": "",
+      "KR": "특별thanks:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow",
+      "TW": "特別感謝：X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow"
+    }
+  },
+  "Kiki:好像有什么东西启动了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kiki: Something just activated.",
+      "JP": "きたき: 何か作動したようです",
+      "CN": "",
+      "KR": "뭔가 켜진 것 같아.",
+      "TW": "Kiki：好像有東西啟動了"
+    }
+  },
+  "-30-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***15***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***20***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***25***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***10***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***30***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Admin change to RTV Mode": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者によるRTVモードへの変更",
+      "CN": "管理员将切换至RTV模式",
+      "KR": "관리자가 RTV 모드로 변경",
+      "TW": "管理員將模式更改為 RTV 模式"
+    }
+  },
+  "由花花花澪墨音移植`･∀･)b": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ported by 花花花澪墨音`･∀･)b",
+      "JP": "由花花花澪墨音移植`･∀･)b",
+      "CN": "",
+      "KR": "꽃화려한澪墨音 이식`･∀･)b",
+      "TW": "由花花花澪墨音移植 `･∀･)b"
+    }
   }
 }

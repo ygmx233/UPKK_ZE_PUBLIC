@@ -1,326 +1,1082 @@
 {
   "\">>Map By Linyan<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>Linyan 氏作<<<",
+      "CN": ">>制作者: Linyan<<",
+      "KR": ">>린난 작도<<",
+      "TW": ">>製作人：林巌<<"
+    }
   },
   "\">>Thank: 7ychu5 K Seth<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>協力: 7ychu5 K Seth 氏<<<",
+      "CN": ">>鸣谢: 7ychu5, K Seth<<",
+      "KR": ">>감사: 7ychoos K Seth<<",
+      "TW": ">>特別鳴謝：7ychu5、K、Seth<<"
+    }
   },
   "\">>>整个设施陷入了半停电状态<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> The entire facility has entered a semi-power-off state <<<",
+      "JP": ">>>施設全体が半停電状態に陥った<<<",
+      "CN": "",
+      "KR": ">>>시설 전체가 반정전 상태에 빠졌다<<<",
+      "TW": ">>>整個設施陷入半停電狀態<<<"
+    }
   },
   "\">>>发生什么了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> What happened? <<<",
+      "JP": ">>>何が起こった<<<",
+      "CN": ">>>发生了什么<<<",
+      "KR": ">>>무슨 일이 생긴 거지<<<",
+      "TW": ">>>發生了什麼事<<<"
+    }
   },
   "\">>>...生化病毒发生了泄露？<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> ...A biochemical virus leak occurred? <<<",
+      "JP": ">>>...バイオハザードウイルスの漏洩か？<<<",
+      "CN": ">>>……生物病毒发生了泄漏？<<<",
+      "KR": ">>>...생화학 바이러스가 누출된 것인가?<<<",
+      "TW": ">>>……生化病毒發生洩漏？<<<"
+    }
   },
   "\">>>识别代码为K-A18 代号：僵尸<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Identification Code: K-A18, Codename: Zombie <<<",
+      "JP": ">>>識別コード K-A18 代号：ゾンビ<<<",
+      "CN": "",
+      "KR": ">>>식별 코드 K-A18, 명칭: 좀비<<<",
+      "TW": ">>>識別代碼為 K-A18，代號：殭屍<<<"
+    }
   },
   "\">>>如遇到有症状人员，可就地击毙<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Symptomatic individuals may be executed on sight <<<",
+      "JP": ">>>症状のある者はその場で射殺してよい<<<",
+      "CN": "",
+      "KR": ">>>증상자가 발견될 경우 즉시 사살한다<<<",
+      "TW": ">>>如發現有症狀人員，請就地擊殺<<<"
+    }
   },
   "\">>>看来事情有点大啊<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Looks like this is serious. <<<",
+      "JP": ">>>これはまずい状況だ<<<",
+      "CN": "",
+      "KR": ">>>사태가 좀嚴重하군<<<",
+      "TW": ">>>看來事情鬧大了<<<"
+    }
   },
   "\">>>给我30秒打开门<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 30 seconds to open the door <<<",
+      "JP": ">>>ドアを開けて、30秒だ<<<",
+      "CN": "",
+      "KR": ">>>문 여는 데 30초만 줘<<<",
+      "TW": ">>>給我30秒開門<<<"
+    }
   },
   "\">>>靠，开门的噪声引来了僵尸<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Dammit, the noise of opening the door attracted zombies <<<",
+      "JP": ">>>くそ、ドアが開く音でゾンビを呼び寄せてしまった<<<",
+      "CN": ">>>靠，开门的声音引来了1波僵尸<<<",
+      "KR": ">>>역시 문 닫는 소리에 좀비가 끌려왔어<<<",
+      "TW": ">>>靠，開門的聲音引來了殭屍<<<"
+    }
   },
   "\">>>门开了，快走<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The door is open, hurry<<<",
+      "JP": ">>>開いた、急いで<<<",
+      "CN": "",
+      "KR": ">>>문이 열렸어, 얼른 가<<<",
+      "TW": ">>>門開了，快走<<<"
+    }
   },
   "\">>>门已关闭<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The door is closed<<<",
+      "JP": ">>>ドアが閉じた<<<",
+      "CN": "",
+      "KR": ">>>문이 닫혔다<<<",
+      "TW": ">>>門已關上<<<"
+    }
   },
   "\">>>这边被大火封路了.....<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>This way is blocked by fire...<<<",
+      "JP": ">>>ここは火事で封鎖されている.....<<<",
+      "CN": "",
+      "KR": ">>>이쪽은 큰 불길에 막혀 있어.....<<<",
+      "TW": ">>>這側被大火封鎖了.....<<<"
+    }
   },
   "\">>>来这边！有电梯可以到上一层<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Come this way! There's an elevator to the upper floor<<<",
+      "JP": ">>>こっちへ！エレベーターで上の階に行ける<<<",
+      "CN": "",
+      "KR": ">>>여기로 와! 엘리베이터로 위층 갈 수 있어<<<",
+      "TW": ">>>來這裡！有電梯可以到上一層<<<"
+    }
   },
   "\">>>不过我们需要扑灭火焰<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>But we need to put out the fire<<<",
+      "JP": ">>>ただし、火を消す必要がある<<<",
+      "CN": "",
+      "KR": ">>>하지만 불을 꺼야 합니다<<<",
+      "TW": ">>>不過我們需要撲滅火焰<<<"
+    }
   },
   "\">>>小心，僵尸扒开了大门<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Be careful, the zombie has broken down the gate<<<",
+      "JP": ">>>注意、ゾンビがドアを剥がしている<<<",
+      "CN": "",
+      "KR": ">>> 주의, 좀비가 대문을 부수고 있다 <<<",
+      "TW": ">>>小心，殭屍扒開了大門<<<"
+    }
   },
   "\">>>守住阵地，还有30秒扑灭火焰<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Hold your ground, 30 seconds until the fire is extinguished<<<",
+      "JP": ">>>陣地を守れ、残り30秒で火災を鎮压<<<",
+      "CN": "",
+      "KR": ">>>阵地 유지, 30초 후 진압<<<",
+      "TW": ">>>守住陣地，還有30秒撲滅火焰<<<"
+    }
   },
   "\">>>僵尸从另一个大门涌来了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Zombies are flooding in from another gate<<<",
+      "JP": ">>>ザウルスが別の出入口から襲いかかってきた<<<",
+      "CN": ">>>僵尸从另1扇门涌来了<<<",
+      "KR": ">>>좀비가 다른 문으로 몰려오고 있습니다<<<",
+      "TW": ">>>殭屍從另一個大門湧來了<<<"
+    }
   },
   "\">>>撤退<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Retreat<<<",
+      "JP": ">>>撤退<<<",
+      "CN": "",
+      "KR": ">>>철수<<<",
+      "TW": ">>>撤退<<<"
+    }
   },
   "\">>>电梯大门将在20秒后开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Elevator doors will open in 20 seconds<<<",
+      "JP": ">>>エレベーターの扉は20秒後に開きます<<<",
+      "CN": "",
+      "KR": ">>>엘리베이터 문이 20초 후 열립니다<<<",
+      "TW": ">>>電梯大門將在20秒後開啟<<<"
+    }
   },
   "\">>>小心从另一边房间来的僵尸<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Watch out for zombies from the other room<<<",
+      "JP": ">>>向こうの部屋から来るザウルスに注意しろ<<<",
+      "CN": ">>>小心来自另1间房的丧尸<<<",
+      "KR": ">>>다른 방에서 오는 좀비를 조심하세요<<<",
+      "TW": ">>>小心從另一邊房間來的殭屍<<<"
+    }
   },
   "\">>>电梯大门将在5秒后关闭<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Elevator doors will close in 5 seconds<<<",
+      "JP": ">>>エレベーターの扉は5秒後に閉まります<<<",
+      "CN": "",
+      "KR": ">>>엘리베이터 문이 5초 후 닫힙니다<<<",
+      "TW": ">>>電梯大門將在5秒後關閉<<<"
+    }
   },
   "\">>>呼，终于摆脱掉这些僵尸了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Phew, finally got rid of those zombies<<<",
+      "JP": ">>>ほっとした、やっとあのザウルスを振り切れた<<<",
+      "CN": "",
+      "KR": ">>>흐음, 드디어 좀비들에게서 벗어났군<<<",
+      "TW": ">>>呼，終於擺脫掉這些殭屍了<<<"
+    }
   },
   "\">>>怎么回事？<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>What's going on?<<<",
+      "JP": ">>>どうしたんだ？<<<",
+      "CN": "",
+      "KR": ">>>뭐지?<<<",
+      "TW": ">>>怎麼回事？<<<"
+    }
   },
   "\">>>什么情况<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>What's the situation?<<<",
+      "JP": ">>>什么情况<<<",
+      "CN": "",
+      "KR": ">>>무슨 일이지<<<",
+      "TW": ">>>發生什麼事了<<<"
+    }
   },
   "\">>>人都去哪了？<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Where did everyone go?<<<",
+      "JP": ">>>人都去哪ったの？<<<",
+      "CN": ">>>人呢去了哪里？<<<",
+      "KR": ">>>사람들은 다 어디로 갔지？<<<",
+      "TW": ">>>人都去哪了？<<<"
+    }
   },
   "\">>>该死，僵尸又来了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it, the zombies are back.",
+      "JP": ">>>くそっ、ゾンビがまた来た<<<",
+      "CN": "",
+      "KR": ">>>미쳤어, 좀비가 다시 왔어<<<",
+      "TW": ">>>該死，殭屍又來了<<<"
+    }
   },
   "\">>>大门将在10秒后开启，坚守阵地<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Main gate opening in 10 seconds. Hold the line!",
+      "JP": ">>>ドアが10秒後に開く、陣地を守れ<<<",
+      "CN": "",
+      "KR": ">>>대문이 10초 후 열립니다, 저지してください<<<",
+      "TW": ">>>大門將在10秒後開啟，堅守陣地<<<"
+    }
   },
   "\">>>大门已开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Main gate open.",
+      "JP": ">>>ドアが開いた<<<",
+      "CN": "",
+      "KR": ">>>대문이 열렸습니다<<<",
+      "TW": ">>>大門已開啟<<<"
+    }
   },
   "\">>>小心侧面僵尸<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Watch out for zombies flanking from the side!",
+      "JP": ">>>側面のゾンビに注意<<<",
+      "CN": ">>>小心侧面丧尸<<<",
+      "KR": ">>>측면 좀비에 주의하세요<<<",
+      "TW": ">>>小心側面殭屍<<<"
+    }
   },
   "\">>>门将在20秒后开启，坚守阵地<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate opening in 20 seconds. Hold the line!",
+      "JP": ">>>ドアが20秒後に開く、陣地を守れ<<<",
+      "CN": "",
+      "KR": ">>>문이 20초 후 열립니다, 저지してください<<<",
+      "TW": ">>>門將在20秒後開啟，堅守陣地<<<"
+    }
   },
   "\">>>门已开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate open.",
+      "JP": ">>>ドアが開いた<<<",
+      "CN": "",
+      "KR": ">>>문이 열렸습니다<<<",
+      "TW": ">>>門已開啟<<<"
+    }
   },
   "\">>>门将在20秒后开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate opening in 20 seconds.",
+      "JP": ">>>门将在20秒后开启<<<",
+      "CN": "",
+      "KR": ">>>문이 20초 후에 열립니다<<<",
+      "TW": ">>>門將在20秒後開啟<<<"
+    }
   },
   "\">>>僵尸扒开了铁网，小心左边<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies are breaking through the fence. Watch the left side!",
+      "JP": ">>>僵尸扒开了铁网，小心左边<<<",
+      "CN": "",
+      "KR": ">>>좀비가 철망을 뚫었습니다. 왼쪽에 주의하세요<<<",
+      "TW": ">>>僵尸扒開鐵網，小心左側<<<"
+    }
   },
   "\">>>门打开了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The door has opened<<<",
+      "JP": ">>>门打开了<<<",
+      "CN": ">>>门开了<<<",
+      "KR": ">>>문이 열렸습니다<<<",
+      "TW": ">>>門已打開<<<"
+    }
   },
   "\">>>僵尸从侧面大门涌来了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Zombies are pouring in through the side gate<<<",
+      "JP": ">>>僵尸从侧面大门涌来了<<<",
+      "CN": "",
+      "KR": ">>>측면 문으로 좀비들이 밀려옵니다<<<",
+      "TW": ">>>僵尸從側門湧入<<<"
+    }
   },
   "\">>>大门将在40秒后开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The main gate will open in 40 seconds<<<",
+      "JP": ">>>大门将在40秒后开启<<<",
+      "CN": "",
+      "KR": ">>>문이 40초 후에 열립니다<<<",
+      "TW": ">>>門將在40秒後開啟<<<"
+    }
   },
   "\">>>木门将在30秒后打开<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The wooden door will open in 30 seconds<<<",
+      "JP": ">>>木门将在30秒后打开<<<",
+      "CN": "",
+      "KR": ">>>나무 문이 30초 후에 열립니다<<<",
+      "TW": ">>>木門將在30秒後打開<<<"
+    }
   },
   "\">>>怎么又是死路<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Another dead end?<<<",
+      "JP": ">>>怎么又是死路<<<",
+      "CN": ">>>又是1条死路<<<",
+      "KR": ">>>또 막다른 길인가<<<",
+      "TW": ">>>怎麼又是死路<<<"
+    }
   },
   "\">>>10秒后墙壁破碎<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The wall will crumble in 10 seconds<<<",
+      "JP": ">>>10秒后墙壁破碎<<<",
+      "CN": "",
+      "KR": ">>>벽이 10초 후에 무너집니다<<<",
+      "TW": ">>>10秒後牆壁破碎<<<"
+    }
   },
   "\">>>嘘，有无线电信号<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Shh, there's a radio signal<<<",
+      "JP": ">>無線電信号を受信<<",
+      "CN": "",
+      "KR": ">>>수신자 주시요, 무선 신호 감지<<<",
+      "TW": "<<<噓，收到無線電訊號<<<"
+    }
   },
   "\"*.......发生了不明类型灾害\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*.......An unknown type of disaster has occurred",
+      "JP": "*.......不明なタイプの災害が発生",
+      "CN": "",
+      "KR": "*.......미확인 유형의 재난 발생",
+      "TW": "*.......發生不明類型災害"
+    }
   },
   "\"*各类供电与通讯系统严重损坏或失效\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "* The power and communication systems are severely damaged or offline",
+      "JP": "*各種の電力供給および通信システムが severely な損傷または機能停止",
+      "CN": "",
+      "KR": "*다양한 전원 및 통신 시스템에 심각한 손상이 있거나 기능이 마비됨",
+      "TW": "*各類供電與通訊系統嚴重損壞或失效"
+    }
   },
   "\"*现在已对当前地区实施全面隔离检疫\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "* A full quarantine has been imposed on the current area",
+      "JP": "*現在、対象地域に対して全面的な隔離検疫措置を実施",
+      "CN": "",
+      "KR": "*현재 지역은 전면 격리 조치가 시행되었습니다",
+      "TW": "*目前已對當前地區實施全面隔離檢疫"
+    }
   },
   "\"*为了安全起见 建议收听到此广播的人员立即撤离\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "* For your safety, we urge anyone receiving this broadcast to evacuate immediately",
+      "JP": "*安全確保のため、この放送を聴取された方はただちに避難することを推奨",
+      "CN": "",
+      "KR": "*안전을 위해 이 전파를 수신한 즉시 대피할 것을 권장합니다",
+      "TW": "*為安全起見 建議收聽到此廣播的人員立即撤離"
+    }
   },
   "\"*请遵循人员手册所标注的疏散路线\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "* Please follow the evacuation routes specified in the personnel manual",
+      "JP": "*人員手帳に記載された避難経路に従ってください",
+      "CN": "",
+      "KR": "*대피 안내서에 명시된 경로를 따라 대피하십시오",
+      "TW": "*請遵循人員手冊所標註的疏散路線"
+    }
   },
   "\"*如果你出现发烧、咳嗽、恶心、气喘、皮肤脱落或任何类似症状\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "* If you exhibit symptoms such as fever, coughing, nausea, shortness of breath, skin peeling, or any other similar signs",
+      "JP": "*発熱、咳き込み、吐き気、息切れ、皮膚剥離などの症状を確認した場合は",
+      "CN": "",
+      "KR": "*발열, 기침, 메스꺼움, 숨막힘 증세, 피부 박리 또는 이와 유사한 증상이 나타나는 경우",
+      "TW": "*如果你出現發燒、咳嗽、噁心、氣喘、皮膚脫落或任何類似症狀"
+    }
   },
   "\"*请立即报告给随行的军官、警察或安保人员\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "* Report these symptoms immediately to the accompanying officer, police officer, or security personnel",
+      "JP": "*直ちに随行の将校、警官、または警備員に報告してください",
+      "CN": "",
+      "KR": "*즉시 동행 장교, 경찰 또는 보안 요원에게 신고하십시오",
+      "TW": "*請立即報告給隨行的軍官、警察或安保人員"
+    }
   },
   "\"*因为这些症状可能与最近的事件有关\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "* Because these symptoms may be linked to recent events",
+      "JP": "「これらの症状は、最近の出来事と関係がある可能性があります」",
+      "CN": "",
+      "KR": "*이 증상은 최근 사건과 관련이 있을 수 있습니다",
+      "TW": "*因為這些症狀可能與近期事件有關"
+    }
   },
   "\">>>当前任务：撤离设施<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Current Mission: Evacuate Facility <<<",
+      "JP": ">>>現在の任務：施設からの退去<<<",
+      "CN": "",
+      "KR": ">>>현재 임무: 시설 탈출<<<",
+      "TW": ">>>當前任務：撤離設施<<<"
+    }
   },
   "\">>>给我10秒打开大门<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Open the door, give me 10 seconds! <<<",
+      "JP": ">>>10秒以内でドアを開けて<<<",
+      "CN": "",
+      "KR": ">>>문 10초 안에 열어요<<<",
+      "TW": ">>>給我10秒打開大門<<<"
+    }
   },
   "\">>>电梯坏了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> The elevator's broken. <<<",
+      "JP": ">>>エレベーターが壊れている<<<",
+      "CN": "",
+      "KR": ">>>엘리베이터 고장<<<",
+      "TW": ">>>電梯壞了<<<"
+    }
   },
   "\">>>给我点时间开门<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Give me a moment to open the door! <<<",
+      "JP": ">>>ちょっとだけ時間を与えて<<<<<（※注：原文の「给我点时间开门」は緊急な文脈のため「少しだけ時間をください、ドアを開けるために」と訳すのが自然ですが、ゲームの緊迫感重視で「ちょっとだけ時間を与えて」を採用。より直接的には「少し待って、開けるよ」も可だが、原文の命令的なニュアンスを残す）>>>「少し待って、開けるから」<<<<<（※修正：原文の「给我点时间开门」は「私に少し時間をくれて、ドアを開けろ/開ける」の意味。コンテキスト上、プレイヤーや同伴者が言う言葉なら「少し待って、開けるよ」、システム音声なら「ドアを開くためにもう少し時間を」など。ここは一般的なゲームの掛け声として「少し待って、開けるから」または「開くまでちょっと待って」が適切。原文の「点」は「少し」の意味か、または誤字（一点点/點）。文脈上、ドアが開くまでの待機を求めていると判断し、「少し待って、開けるから」または「開くまでちょっと時間を」が適切。緊迫した状況なので「少し待て、開けるから」か。「给我点时间开门」→「私に時間を与えて、ドアを開けろ」という命令系か、「ちょっと待って開けるよ」という行為表明か。後者の可能性が高い。英語の \"Give me a second to open it\" に相当する。よって「少し待って、開けるから」が最適）>>>「少し待って、開けるから」<<<",
+      "CN": "",
+      "KR": ">>>문 열 시간 좀 줘<<<",
+      "TW": ">>>給我點時間開門<<<"
+    }
   },
   "\">>>门开了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Door's open! <<<",
+      "JP": ">>>ドアが開いた<<<",
+      "CN": "",
+      "KR": ">>>문이 열렸어<<<",
+      "TW": ">>>門開了<<<"
+    }
   },
   "\">>>该死的，疏散路线的这个门怎么开不了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Damn it, how do I open this evacuation route door? <<<",
+      "JP": ">>>くそ、避難経路のこのドアがどうしても開かない<<<",
+      "CN": ">>>该死的，疏散路线的这扇门怎么打不开<<<",
+      "KR": ">>>씨발, 대피 경로의 이 문이 왜 안 열리지<<<",
+      "TW": ">>>該死的，疏散路線的這扇門怎麼打不開<<<"
+    }
   },
   "\">>>让我看看手册......靠，没路走了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Let me check the manual... crap, there's no way through. <<<",
+      "JP": ">>>マニュアルを見よう……くそ、行き止まりだ<<<",
+      "CN": "",
+      "KR": ">>>매뉴얼 좀 볼까... 썩, 길이 없네<<<",
+      "TW": ">>>讓我看看手冊......靠，沒路走了<<<"
+    }
   },
   "\">>>我知道这边有个管道，不过不知道是去哪的<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> I know there's a pipe this way, but no idea where it leads. <<<",
+      "JP": ">>>ここに通じる配管があるけど、先がどこかまではわからん<<<",
+      "CN": "",
+      "KR": ">>>나 여기 도관 하나가 있는 건 아는데, 어디로 이어지는지 모르겠다<<<",
+      "TW": ">>>我知道這裡有個管道，但不確定是通向哪裡<<<"
+    }
   },
   "\">>>算了，走一步看一步了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Forget it, let's just see what happens. <<<",
+      "JP": ">>>まあ、行く手を進もう<<<",
+      "CN": "",
+      "KR": ">>>암튼, 일단 가보자꾸나<<<",
+      "TW": ">>>算了，走一步看一步吧<<<"
+    }
   },
   "\">>>这边漏电了....让我想想办法<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> There's an electrical leak here... Let me think of a way <<<",
+      "JP": ">>>ここは漏電してる…なんとかするしかないな<<<",
+      "CN": "",
+      "KR": ">>>전기가 새는 것 같아.... 좀 생각해 볼게<<<",
+      "TW": ">>>這裡漏電了....讓我想想辦法<<<"
+    }
   },
   "\">>>电将在10秒后切断<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Power will be cut off in 10 seconds <<<",
+      "JP": ">>>電源は10秒後に遮断されます<<<",
+      "CN": "",
+      "KR": ">>>10초 후 전력 공급 중단<<<",
+      "TW": ">>>電源將在10秒後切斷<<<"
+    }
   },
   "\">>>电源已切断<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Power has been cut off <<<",
+      "JP": ">>>電源が切られました<<<",
+      "CN": "",
+      "KR": ">>>전원 차단 완료<<<",
+      "TW": ">>>電源已切斷<<<"
+    }
   },
   "\">>>梯子将在10秒后开放<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> The ladder will open in 10 seconds <<<",
+      "JP": ">>>ハシゴは10秒後に使用可能になります<<<",
+      "CN": "",
+      "KR": ">>>10초 후 사다리 개방<<</a>",
+      "TW": ">>>梯子將在10秒後開放<<<"
+    }
   },
   "\">>>杂物将在20秒后摧毁<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Clutter will be destroyed in 20 seconds <<<",
+      "JP": ">>>雑物類は20秒後に破壊されます<<<",
+      "CN": "",
+      "KR": ">>>20초 후 폐기물 제거<<\"</a>",
+      "TW": ">>>雜物將在20秒後摧毀<<<"
+    }
   },
   "\">>>大门将在30秒后开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> The gate will open in 30 seconds <<<",
+      "JP": ">>>メインゲートは30秒後に開放されます<<<",
+      "CN": "",
+      "KR": ">>>30초 후 문 열림<<</a>",
+      "TW": ">>>大門將在30秒後開啟<<<"
+    }
   },
   "\">>>正在想办法打开铁丝网<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Working on a way to open the barbed wire <<<",
+      "JP": ">>>ワイヤーメッシュを開ける方法を考えています<<<",
+      "CN": "",
+      "KR": "<<<철조망을 어떻게 열지 생각 중<<<",
+      "TW": ">>>正在嘗試開啟鐵丝网<<<"
+    }
   },
   "\">>>有点麻烦<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> A bit troublesome <<<",
+      "JP": ">>>少し厄介です<<<",
+      "CN": "",
+      "KR": "<<<간편함이 조금 부족합니다<<<",
+      "TW": ">>>有點麻煩<<<"
+    }
   },
   "\">>>再给我一点时间<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Give me a little more time<<<",
+      "JP": ">>>もう少し時間をください<<<",
+      "CN": "",
+      "KR": "<<<조금 더 시간을 주세요<<<",
+      "TW": ">>>再給我一點時間<<<"
+    }
   },
   "\">>>大门将在20秒后开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The gate will open in 20 seconds<<<",
+      "JP": ">>>門は20秒後に開きます<<<",
+      "CN": "",
+      "KR": "<<<20초 후 대문이 열립니다<<<",
+      "TW": ">>>大門將在20秒後開啟<<<"
+    }
   },
   "\">>>僵尸从夹层来了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Zombies are coming from the夹层<<<",
+      "JP": ">>>ゾンミが仕切りから近づいています<<<",
+      "CN": "",
+      "KR": "<<<좀비가 중층에서 침입합니다<<<",
+      "TW": ">>>殭屍從夾層來了<<<"
+    }
   },
   "\">>>大门正在关闭<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The gate is closing<<<",
+      "JP": ">>>門が閉まりつつあります<<<",
+      "CN": "",
+      "KR": "<<<대문이 닫히고 있습니다<<<",
+      "TW": ">>>大門正在關閉<<<"
+    }
   },
   "\"*收到请回复！有人在吗？\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Reply if you receive this! Is anyone there?",
+      "JP": "*受信確認！どなたかいますか？",
+      "CN": "",
+      "KR": "*반송 받습니다! 여기 있습니까?",
+      "TW": "*收到請回覆！有人在嗎？"
+    }
   },
   "\">>>“收到，我们这里是01安保部成员”<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Copy that, this is Unit 01 Security Department<<<",
+      "JP": ">>>了解、ここは01セキュリティメンバーです<<<",
+      "CN": ">>>“收到，我们是01安全部成员”<<<",
+      "KR": "<<<안녕하세요,这里是01安保部成員입니다<<<",
+      "TW": ">>>“收到，我們這裡是01安保部成員”<<<"
+    }
   },
   "\"*这里是联合体A/78/51号文件特批此次事件的指挥部\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*This is the command center specifically authorized for this incident by Union A/78/51 Document",
+      "JP": "*これは連合体A/78/51号文の特別承認による今回の事件対応本部である",
+      "CN": "",
+      "KR": "*본 문서는 유나이티드 코퍼레이션 A/78/51호 특례에 따라 이번 사건의 지휘부를 명시한 것이다.",
+      "TW": "*此為聯合體A/78/51號文件特批事件之指揮部"
+    }
   },
   "\"*目前基地内联系到的人员.....\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Personnel currently contacted within the base.....",
+      "JP": "*現在基地内で連絡が取れている人員は……",
+      "CN": "",
+      "KR": "*현재 기지 내에서 접촉 가능한 인원은....",
+      "TW": "*目前基地內已聯絡之人員....."
+    }
   },
   "\">>>“该死的，怎么还能断线的”<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Damn, why is the connection dropping again?<<<",
+      "JP": "「ちくしょう、また回線切断か」",
+      "CN": ">>>“该死的，竟然还能断线”<<<",
+      "KR": ">>>“젠장, 왜 다시 끊기는 거지”<<<",
+      "TW": ">>>“他媽的，怎麼還會斷線”<<<"
+    }
   },
   "\">>通讯设备损坏<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>Communication device damaged<<",
+      "JP": ">>通信機材損傷<<",
+      "CN": ">>通信设备损坏<<",
+      "KR": ">>통신 장비 손실<<",
+      "TW": ">>通訊設備損毀<<"
+    }
   },
   "\">>>地面还踏马塌陷了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The ground collapsed, damn it<<<",
+      "JP": ">>>地面がまだマジで陥没してんだ<<<",
+      "CN": ">>>地面還踏馬塌陷了<<<",
+      "KR": ">>>바닥이 또다시 무너졌다고?>>><<<",
+      "TW": ">>>地面也他媽塌陷了<<<"
+    }
   },
   "\">>>看来现在我们只能下一层了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Looks like we have no choice but to go down a floor<<<",
+      "JP": ">>>ようするに我々は今、階層を下がるしかない<<</\"7\": \">>>門は60秒後に開く<<<",
+      "CN": "",
+      "KR": ">>>우린 지금 아래층으로 내려갈 수밖에 없군>>><<<",
+      "TW": ">>>看來現在我們只能下一層了<<<"
+    }
   },
   "\">>>大门将在60秒后开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The main gate will open in 60 seconds<<<",
+      "JP": ">>>メインゲートが60秒後に開きます<<<",
+      "CN": "",
+      "KR": ">>>문은 60초 후 개방됩니다<<<",
+      "TW": ">>>大門將在60秒後開啟<<<"
+    }
   },
   "\">>>电梯将在20秒后打开<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The elevator will open in 20 seconds<<<",
+      "JP": ">>>エレベーターは20秒後に開く<<<",
+      "CN": "",
+      "KR": ">>>엘리베이터는 20초 후 열립니다<<<",
+      "TW": ">>>電梯將在20秒後打開<<<"
+    }
   },
   "\">>>电梯大门将在10秒后关闭<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>The elevator doors will close in 10 seconds<<<",
+      "JP": ">>>エレベーターの扉は10秒後に閉じます<<<",
+      "CN": "",
+      "KR": ">>>10초 후 엘리베이터 문이 닫힙니다<<<",
+      "TW": ">>>電梯大門將在10秒後關閉<<<"
+    }
   },
   "\">>>希望我们能逃出这里.....<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Hopefully we can escape from here.....<<<",
+      "JP": ">>>ここから逃げ出せることを願って……<<<",
+      "CN": "",
+      "KR": ">>>우리 여기서 탈출할 수 있기를.....<<<",
+      "TW": ">>>希望我們能逃出這裡.....<<<"
+    }
   },
   "\">>>电梯到了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Elevator arrived <<<",
+      "JP": ">>>エレベーター到着です<<<",
+      "CN": "",
+      "KR": ">>>엘리베이터 도착<<<",
+      "TW": ">>>電梯到了<<<"
+    }
   },
   "\">>>我去，好高的侵蚀浓度<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Damn, this corruption concentration is way too high <<<",
+      "JP": ">>>ええッ、エロシス濃度が尋常じゃない<<<",
+      "CN": "",
+      "KR": ">>>으악, 침식 농도가 심해<<<",
+      "TW": ">>>我去，好高的侵蝕濃度<<<"
+    }
   },
   "\">>>僵尸来了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Zombies incoming <<<",
+      "JP": ">>>ゾンビが来る!!!<<<",
+      "CN": "",
+      "KR": ">>>좀비가 몰려온다<<<",
+      "TW": ">>>殭屍來了<<<"
+    }
   },
   "\">>>墙壁将在30秒后破开<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> The wall will be breached in 30 seconds <<<",
+      "JP": ">>>壁は30秒後に破られます<<<",
+      "CN": "",
+      "KR": ">>>벽이 30초 후에 파열됩니다<<<",
+      "TW": ">>>牆壁將在30秒後破開<<<"
+    }
   },
   "\">>>架子挡住了梯子，给我10秒<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Shelves are blocking the ladder, give me 10 seconds <<<",
+      "JP": ">>>棚が梯子を塞いでいる。10秒待って<<<",
+      "CN": "",
+      "KR": ">>>선반이 사다리를 막고 있으니 10초만 기다려<<<",
+      "TW": ">>>架子擋住了梯子，給我10秒<<<"
+    }
   },
   "\">>>正在启动供电系统<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Powering up the system <<<",
+      "JP": ">>>給電システムを起動中<<<",
+      "CN": "",
+      "KR": ">>>전력 시스템 가동 중<<<",
+      "TW": ">>>正在啟動供電系統<<<"
+    }
   },
   "\">>>预计20秒后大门开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Gate will open in 20 seconds <<<",
+      "JP": ">>>大門は20秒後に開きます<<<",
+      "CN": "",
+      "KR": ">>>20초 후 대형문 개방 예정<<<",
+      "TW": ">>>預計20秒後大門開啟<<<"
+    }
   },
   "\"< 20 >\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "\"< 10 >\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "\">>>该死，大门卡住了<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Damn, the gate is jammed <<<",
+      "JP": ">>>くそ、大門が詰まっている<<<",
+      "CN": "",
+      "KR": ">>>젠장, 대형문이 막혔어<<<",
+      "TW": ">>>該死，大門卡住了<<<"
+    }
   },
   "\">>>还好，这边有维修管道<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> For now, there are maintenance tunnels here. <<<",
+      "JP": ">>>よし、ここに保守用パイプがある<<<",
+      "CN": "",
+      "KR": ">>>다행이다, 여기 수리용 파이프가 있군<<<",
+      "TW": ">>>還好，這邊有維修管道<<<"
+    }
   },
   "\">>>栅栏将在30秒后开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> The gates will open in 30 seconds. <<<",
+      "JP": ">>>ゲートは30秒後に開放されます<<<",
+      "CN": "",
+      "KR": ">>>30초 후 울타리 개방<<<",
+      "TW": ">>>柵欄將在30秒後開啟<<<"
+    }
   },
   "\"*这里是指挥部！收到请回复！有人在吗？\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "* This is Command! Acknowledge! Is anyone there?",
+      "JP": "*ここは指揮本部だ！受信すれば返事しろ！誰かいるか？",
+      "CN": "",
+      "KR": "*여기 지휘소다! 수신 확인 바람! 누가 있나?",
+      "TW": "*這裡是指揮部！收到請回覆！有人在嗎？"
+    }
   },
   "\">>>收到，这里是01试验部的安保人员<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Copy that. This is Security from Section 01. <<<",
+      "JP": ">>>了解、01実験部の保安要員です<<<",
+      "CN": "",
+      "KR": ">>>수신함,这里是 01시험부 보안요원입니다<<<",
+      "TW": ">>>收到，這裡是01試驗部的安保人員<<<"
+    }
   },
   "\">>>我们这里遇到点小麻烦......<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> We’re having a bit of trouble here... <<<",
+      "JP": ">>>ここで小規模なトラブルが発生しました……<<<",
+      "CN": "",
+      "KR": ">>>여기서 작은 문제가 발생했습니다......<<<",
+      "TW": ">>>我們這裡遇到點小麻煩......<<<"
+    }
   },
   "\">>>形势变得更加严峻了，你们需要在......<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> The situation is becoming critical. You need to... <<<",
+      "JP": ">>>状況がより深刻になりました、皆さんは……が必要です<<<",
+      "CN": "",
+      "KR": ">>>상황이 더 악화되었습니다. ~~~需要在...<<<",
+      "TW": ">>>形勢變得更加嚴峻了，你們需要在......<<<"
+    }
   },
   "\">>>我踏马的<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Fuck this. <<<",
+      "JP": ">>>フザケんじゃねえ<<<",
+      "CN": ">>>我靠 <<<",
+      "KR": ">>>\"개새끼들이야, 죽여라<<<",
+      "TW": "我他媽的"
+    }
   },
   "\">>>注意，前方的瓦斯气体泄露燃起了大火<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Alert! There is a gas leak and fire ahead. <<<",
+      "JP": ">>>注意、前方のガスが漏れて爆発している<<<",
+      "CN": "",
+      "KR": ">>>\"수고 많이 하셨어요. 이제 진흙 속에서 탈출해 보시죠<<<",
+      "TW": "注意，前方的瓦斯氣體洩漏引發了大火"
+    }
   },
   "\">>>我们可以通过炸开管道口的杂物绕过去<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> We can bypass the blockage by blowing up the pipe mouth <<<",
+      "JP": ">>>パイプの出口を爆破して、障害物を避けて通り抜けることができる<<<",
+      "CN": "",
+      "KR": ">>>\"이쪽은 벽면이 덜 견고한 곳입니다. 잠시만 기다려 주시면 <<<",
+      "TW": "我們可以炸開管道口的雜物繞過去"
+    }
   },
   "\">>>不过在此之前，小心侧边来的僵尸<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> But be careful of zombies from the side in the meantime <<<",
+      "JP": ">>>しかしその前に、側面からのゾンジに注意<<<",
+      "CN": "",
+      "KR": ">>>\"손님, 이쪽은 벽면이 덜 견고한 곳입니다. 잠시만 기다려 주시면 <<<",
+      "TW": "不過在此之前，小心從側邊來的殭屍"
+    }
   },
   "\">>>障碍物将在30秒后被炸开<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Obstacles will be blown away in 30 seconds <<<",
+      "JP": ">>>障害物が30秒後に爆破されます<<<",
+      "CN": "",
+      "KR": ">>>\"잠시만 기다려 주십시오. 곧 폭발할 것입니다<<<",
+      "TW": "障礙物將在30秒後被炸開"
+    }
   },
   "\">>>该死的，大门又打不开<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Damn it, the gate is stuck again <<<",
+      "JP": ">>>くそッ、ドアが開かないや<<<",
+      "CN": "",
+      "KR": ">>>\"저 지옥문, 열리질 않잖아!<<<",
+      "TW": "該死的，大門又打不開"
+    }
   },
   "\">>>这边墙壁不是很稳固，给我点时间<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> This wall isn't very stable. Give me some time <<<",
+      "JP": ">>>ここは壁の構造が脆い、少し待ってろ<<<",
+      "CN": ">>>这边墙壁不够稳固，给我1点时间<<<",
+      "KR": ">>>\"그 문이 왜 안 열리지?!<<<",
+      "TW": "這面牆壁不太穩固，給我點時間"
+    }
   },
   "\">>>再给我点时间.....<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> Just a little more time..... <<<",
+      "JP": ">>>もう少し待てよ…<<",
+      "CN": ">>>再给我一些时间.....<<<",
+      "KR": ">>>\"조금만 기다려 주세요.....<<<\"",
+      "TW": "再給我點時間……"
+    }
   },
   "\">>>防火门将在50秒后开启<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> The fire door will open in 50 seconds <<<",
+      "JP": ">>>防火戸、50秒後に開放<<<",
+      "CN": "",
+      "KR": ">>> 방화문이 50초 후에 열립니다<<<",
+      "TW": ">>>防火門將在50秒後開啟<<<"
+    }
   },
   "\">>>未完待续.....<<<\"": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> To be continued..... <<<",
+      "JP": ">>>つづく.....<<<",
+      "CN": "",
+      "KR": ">>>계속될 이야기.....<<<",
+      "TW": ">>>未完待續.....<<<"
+    }
   }
 }

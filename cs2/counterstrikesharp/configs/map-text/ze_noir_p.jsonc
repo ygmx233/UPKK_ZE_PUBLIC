@@ -1,176 +1,582 @@
 {
   "** Final elevator is leaving in 20 seconds **": {
-    "translation": "20秒后最后一班电梯离开"
+    "translation": "20秒后最后一班电梯离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 最終エレベーターが20秒後に発車します **",
+      "CN": "**最后一部电梯将在20秒后关闭**",
+      "KR": "** 최종 엘리베이터가 20초 후에 출발합니다 **",
+      "TW": "** 最後一班電梯即將於20秒後出發 **"
+    }
   },
   "** Zombies detected! Escape failed! **": {
-    "translation": "** 检测到僵尸！逃跑失败！**"
+    "translation": "** 检测到僵尸！逃跑失败！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビを検知しました！脱出失敗！**",
+      "CN": "**检测到僵尸！逃脱失败！**",
+      "KR": "** 좀비 감지! 탈출 실패! **",
+      "TW": "** 偵測到殭屍！逃生失敗！ **"
+    }
   },
   "** You've made it out of the Underground City ! **": {
-    "translation": "** 你已经从地下城出来了！**"
+    "translation": "** 你已经从地下城出来了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** アンダーグラウンドシティからの脱出に成功しました！**",
+      "CN": "**你已成功逃离地下城！**",
+      "KR": "** 지하시에서 벗어나셨습니다! **",
+      "TW": "** 你已逃出地下城市！ **"
+    }
   },
   "** But there is much left to discover... **": {
-    "translation": "**但还有很多东西有待发现...... **"
+    "translation": "**但还有很多东西有待发现...... **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** しかし、まだ多くの発見があります…**",
+      "CN": "**但仍有大量未解之谜等待探索……**",
+      "KR": "** 하지만 발견할 것들이 많습니다... **",
+      "TW": "** 但還有許多未知等待探索…… **"
+    }
   },
   "** Undercity main entrance opening very soon ! **": {
-    "translation": "**地下城正门即将开放！**"
+    "translation": "**地下城正门即将开放！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** アンダーシティのメイン入口がまもなく開きます！**",
+      "CN": "**地下城主入口即将开启！**",
+      "KR": "** 지하 도시 본 출입문이 곧 열립니다! **",
+      "TW": "** 地下城主要入口即將開啟！ **"
+    }
   },
   "** We must escape this area to get to the trenches! **": {
-    "translation": "** 我们必须逃离这个区域才能到达战壕！**"
+    "translation": "** 我们必须逃离这个区域才能到达战壕！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** トレンチに到達するために、この地域から逃げなければなりません！**",
+      "CN": "**我们必须逃离此区域才能到达战壕！**",
+      "KR": "** 사격총까지 이동하려면 이 지역에서 탈출해야 합니다! **",
+      "TW": "** 我們必須逃離此區域才能抵達戰壕！ **"
+    }
   },
   "** The trench doors should open soon **": {
-    "translation": "**沟门应该很快打开**"
+    "translation": "**沟门应该很快打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** トレンチのドアがまもなく開くでしょう**",
+      "CN": "**战壕大门即将开启**",
+      "KR": "** 삽 문이 곧 열릴 것입니다 **",
+      "TW": "** 戰壕門應即將開啟 **"
+    }
   },
   "** Final door is opening in 40 seconds **": {
-    "translation": "**最后一扇门在40秒内打开**"
+    "translation": "**最后一扇门在40秒内打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 最終ドアが40秒後に開きます **",
+      "CN": "**最后一扇门将在40秒后开启**",
+      "KR": "** 최종 출입문이 40초 후에 열립니다 **",
+      "TW": "** 最後一扇門將於40秒後開啟 **"
+    }
   },
   "** Tunnel door is opening, resist the zombies! **": {
-    "translation": "**隧道门打开，抵抗僵尸！**"
+    "translation": "**隧道门打开，抵抗僵尸！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "トンネルの扉が開く、ゾンバーに抵抗する！",
+      "CN": "**隧道门即将开启，抵抗僵尸！**",
+      "KR": "** 터널 문이 열리고 있습니다, 좀비를 저격하십시오! **",
+      "TW": "**隧道門正在打開，抵禦殭屍！**"
+    }
   },
   "** Almost there ! **": {
-    "translation": "**快到了！**"
+    "translation": "**快到了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "もうすぐだ！",
+      "CN": "**快到了！**",
+      "KR": "** 거의 다 왔습니다! **",
+      "TW": "**快到地方了！**"
+    }
   },
   "** The Undercity entrance will open shortly, resist! **": {
-    "translation": "**地下城入口即将开放，抵抗！**"
+    "translation": "**地下城入口即将开放，抵抗！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "アンダーシティの入り口がまもなく開く、抵抗を続けよ！",
+      "CN": "**地下城区入口即将开启，坚守住！**",
+      "KR": "** 지하 도시 입구가 곧 열립니다, 저격하십시오! **",
+      "TW": "**地下城市入口即將開放，堅持住！**"
+    }
   },
   "** We have infiltrated the financial sector **": {
-    "translation": "**我们已经渗透到金融部门**"
+    "translation": "**我们已经渗透到金融部门**",
+    "MultiLang": {
+      "US": "",
+      "JP": "金融分野への浸透に成功した",
+      "CN": "**我们已成功渗透金融部门**",
+      "KR": "** 우리는 금융 부문에 침투했습니다 **",
+      "TW": "**我們已經滲透金融部門**"
+    }
   },
   "** We back now backtrack into the trenches and infiltrate the Undercity ! **": {
-    "translation": "** 我们现在回到战壕中，潜入幽暗城！**"
+    "translation": "** 我们现在回到战壕中，潜入幽暗城！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "戻ってトレンチに戻り、アンダーシティへの浸透作戦を開始！",
+      "CN": "**我们现在要退回战壕，并渗透到地下城区！**",
+      "KR": "** 현재로 돌아서壕를 되돌아가 지하 도시에 침투하십시오! **",
+      "TW": "**我們回來了，重新進入戰壕並滲透地下城市！**"
+    }
   },
   "** Scene 2-A: Saturn devouring his son **": {
-    "translation": "**场景2-A：土星吞噬他的儿子**"
+    "translation": "**场景2-A：土星吞噬他的儿子**",
+    "MultiLang": {
+      "US": "",
+      "JP": "シーン2-A：サターンが息子を飲み込む",
+      "CN": "**场景 2-A：土星吞噬其子**",
+      "KR": "** 장면 2-A: 토성이 아들을 삼키다 **",
+      "TW": "**場景二A：土星吞噬他的兒子**"
+    }
   },
   "** We're trapped in here unless we unlock the pneumatic gates! **": {
-    "translation": "** 除非我们打开气动门，否则我们被困在这里！**"
+    "translation": "** 除非我们打开气动门，否则我们被困在这里！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "空気圧扉を解除しない限り、ここから出られない！",
+      "CN": "**除非我们解锁气动闸门，否则我们被困在这里！**",
+      "KR": "** 공기 문이 열리기 전까지는 여기에서 갇혀 있습니다! **",
+      "TW": "**除非我們解開氣動門，否則我們被困在這！**"
+    }
   },
   "** Resist until we find a way out! **": {
-    "translation": "** 抵抗，直到我们找到出路！**"
+    "translation": "** 抵抗，直到我们找到出路！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "抜け道が見つかるまで抵抗を続けよ！",
+      "CN": "**坚守直到我们找到出路！**",
+      "KR": "** 탈출구를 찾을 때까지 저격하십시오! **",
+      "TW": "**堅持到我們找到出口為止！**"
+    }
   },
   "** We're going to have to split up here! We'll meet up soon - hopefully! **": {
-    "translation": "* 我们将不得不在这里分开！我们很快就会见面 - 希望如此！**"
+    "translation": "* 我们将不得不在这里分开！我们很快就会见面 - 希望如此！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ここは別行動だ！後でまた会おう – ように！**",
+      "CN": "我们得在这里分头行动了！稍后我们再汇合——希望如此！",
+      "KR": "** 여기서는 분산해야 해! 곧 다시 만날 거야 - hopefully! **",
+      "TW": "我們得在這裡分頭行動！稍後見—— hopefully！"
+    }
   },
   "** We got it! Keep holding! The door will open soon **": {
-    "translation": "**我们明白了！继续坚持！门即将开门......"
+    "translation": "**我们明白了！继续坚持！门即将开门......",
+    "MultiLang": {
+      "US": "",
+      "JP": "** やった！がんばってて！ドアはすぐに開くはず**",
+      "CN": "搞定！坚持住！门马上就会打开",
+      "KR": "**得手했어! 계속 지켜! 곧 문이 열릴 거야**",
+      "TW": "搞定啦！繼續撐住！門很快就會打開"
+    }
   },
   "** HOLD! These doors will take a bit to unlock! **": {
-    "translation": "这些门需要一点时间才能解锁！"
+    "translation": "这些门需要一点时间才能解锁！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 待て！この扉の解除には少し時間がかかる！**",
+      "CN": "别松劲！这扇门需要点时间来解锁！",
+      "KR": "**기다려! 이 문은 잠금 해제가 좀 걸릴 거야!**",
+      "TW": "保持住！這些門需要一點時間來解鎖！"
+    }
   },
   "** Keep it up! 5 seconds left! RESIST! **": {
-    "translation": "* 继续加油！还剩 5 秒！抵抗！*"
+    "translation": "* 继续加油！还剩 5 秒！抵抗！*",
+    "MultiLang": {
+      "US": "",
+      "JP": "** がんばれ！残り5秒！耐えろ！**",
+      "CN": "坚持住！还剩5秒！抵抗！",
+      "KR": "**계속 유지해! 5초 남음! 저항해!**",
+      "TW": "堅持下去！距離結束還有5秒！抵抗到底！"
+    }
   },
   "** ... **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** We have managed to sneak into the abandoned basements and sewers of South Metropoli **": {
-    "translation": "**我们设法潜入了南大都会废弃的地下室和下水道**"
+    "translation": "**我们设法潜入了南大都会废弃的地下室和下水道**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 南メトロポリスの廃棄地下格納庫と下水道へ密かに潜入しました**",
+      "CN": "我们成功潜入南大都会的废弃地下室和下水道",
+      "KR": "**우리는 남쪽 메트로폴리스의 버려진 지하와 하수도로 숨어들었다.**",
+      "TW": "我們成功潛入了南大都市遺棄的地窖與下水道"
+    }
   },
   "** From here we should be able to reach either the financial district. **": {
-    "translation": "** 从这里我们应该能够到达金融区。**"
+    "translation": "** 从这里我们应该能够到达金融区。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ここから金融地区に至れるはずです。**",
+      "CN": "从这儿出发，我们应该能到达金融区。",
+      "KR": "**여기서는 금융 지구에 도달할 수 있을 것이다.**",
+      "TW": "從這裡，我們應該能夠抵達金融區。"
+    }
   },
   "** SCENE 1: Depths of Erebus **": {
-    "translation": "**场景1：埃瑞布斯的深处**"
+    "translation": "**场景1：埃瑞布斯的深处**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** シーン1：エリバス深部**",
+      "CN": "第一幕：厄瑞玻斯深处",
+      "KR": "**씬 1: 에레부스의 깊이**",
+      "TW": "場景 1：厄瑞玻斯深淵"
+    }
   },
   "** The distant sound from the underground trains can be heard... **": {
-    "translation": "可以听到远处地铁的声音......"
+    "translation": "可以听到远处地铁的声音......",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 遠く地下鉄の音が聞こえる…**",
+      "CN": "隐约传来地下铁道的声响……",
+      "KR": "**지하철의 멀리서 들려오는 소리가 들린다... **",
+      "TW": "遠處傳來地下鐵道的聲音……"
+    }
   },
   "** RESIST! We need to cross one of the abandoned train lines to reach the power plants... **": {
-    "translation": "抵抗！我们需要穿过其中一条废弃的火车线才能到达发电厂......"
+    "translation": "抵抗！我们需要穿过其中一条废弃的火车线才能到达发电厂......",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 抵抗しろ！廃線となった鉄道のどれかを渡って発電所へ到達する必要がある... **",
+      "CN": "** 坚持住！我们需要穿过一条废弃的铁轨才能到达发电站……**",
+      "KR": "** 저항해! 발전소에 도달하려면 버려진 철도 중 하나를 건너야 해... **",
+      "TW": "**堅持住！我們必須穿過一條廢棄的鐵路線才能到達發電廠……**"
+    }
   },
   "** Keep it up! I can hear the door's engine moving through the wall! **": {
-    "translation": "继续加油！我能听到门的引擎穿过墙壁的声音！"
+    "translation": "继续加油！我能听到门的引擎穿过墙壁的声音！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 頑張れ！壁を通してドアのエンジン音が聞こえる！ **",
+      "CN": "** 加油！我听到门在墙体中移动的引擎声了！**",
+      "KR": "** 계속해! 벽 너문에서 문 엔진 소리가 들려! **",
+      "TW": "**繼續！我聽得見門的引擎在牆壁另一側運轉的聲音！**"
+    }
   },
   "** HOLD! This path leads to a few industrial warehouses and the generators! **": {
-    "translation": "这条路通向一些工业仓库和发电机！"
+    "translation": "这条路通向一些工业仓库和发电机！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 止まれ！この道は倉庫群と発電機へと繋がっている！ **",
+      "CN": "** 稳住！这条路通向一些工业仓库和发电机！**",
+      "KR": "** 멈춰! 이 길은 몇 개의 산업용 창고와 발전기로 이어져! **",
+      "TW": "**停！這條路通往幾座工業倉庫和發電機！**"
+    }
   },
   "** KEEP IT UP! The door's about to open! **": {
-    "translation": "继续加油！门就要开了！"
+    "translation": "继续加油！门就要开了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 突撃だ！ドアが開きそうだ！ **",
+      "CN": "** 继续坚持！门快要开了！**",
+      "KR": "** 계속해! 문이 곧 열려!**",
+      "TW": "**繼續！門即將打開！**"
+    }
   },
   "** GO! The door's moving! **": {
-    "translation": "走！门开了"
+    "translation": "走！门开了",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 行け！ドアが動き始めた！ **",
+      "CN": "** 上！门在动了！**",
+      "KR": "** 가자! 문이 움직여!**",
+      "TW": "**走！門正在移動！**"
+    }
   },
   "** RESIST! The sounds of the city can be heard through this door! We're close! **": {
-    "translation": "抵抗！通过这扇门可以听到城市的声音！我们很接近！"
+    "translation": "抵抗！通过这扇门可以听到城市的声音！我们很接近！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 抵抗しろ！このドアの向こうから街の音が聞こえる！あと少しだ！ **",
+      "CN": "** 坚持住！透过这扇门能听到城市的喧嚣声！我们快到了！**",
+      "KR": "** 저항해! 이 문을 통해 도시의 소리가 들려! 우리 가까이 왔어!**",
+      "TW": "**堅持住！透過這扇門可以聽到城市的聲音！我們快到了！**"
+    }
   },
   "** Keep it up! One last bit! **": {
-    "translation": "继续加油！最后一点！"
+    "translation": "继续加油！最后一点！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 頑張れ！最後のひと押しだ！ **",
+      "CN": "** 加油！最后一段路了！**",
+      "KR": "** 계속해! 마지막 조금만 더!**",
+      "TW": "**繼續！最後一點點！**"
+    }
   },
   "** Security overwritten! The door will open soon! **": {
-    "translation": "安全覆盖！门马上就要开了！"
+    "translation": "安全覆盖！门马上就要开了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** セキュリティ権限を上書き！すぐにドアが開く！ **",
+      "CN": "** 安全协议已重写！门即将打开！**",
+      "KR": "** 보안 시스템 재작성 완료! 문이 곧 열릴 거야!**",
+      "TW": "**安全系統已覆寫！門即將開啟！**"
+    }
   },
   "** Keep holding! It's about to open! RESIST! **": {
-    "translation": "继续保持！快开了！抵抗！"
+    "translation": "继续保持！快开了！抵抗！",
+    "MultiLang": {
+      "US": "",
+      "JP": "まだ押すんだ！開く直前だ…抵抗しろ！",
+      "CN": "**坚持住！门快开了！抵抗住！**",
+      "KR": "** 조급해하지 마! 문이 곧 열릴 거야! 버텨줘!**",
+      "TW": "繼續支撐！門快開了！抵抗！"
+    }
   },
   "** This is the entrance to the proletariat trench #57... **": {
-    "translation": "这是无产阶级战壕 #57 的入口......"
+    "translation": "这是无产阶级战壕 #57 的入口......",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここはプロレタリアート塹壕57番の入り口だ…",
+      "CN": "**这里是无产阶级战壕57号的入口……**",
+      "KR": "** 이곳이 프롤레타리아 지하실 #57의Entrance... **",
+      "TW": "這是無產者戰壕57號的入口……"
+    }
   },
   "** We need to wait until the door opens... **": {
-    "translation": "*我们需要等到门打开... *"
+    "translation": "*我们需要等到门打开... *",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開くまで待たなければならない…",
+      "CN": "**我们需要等到门打开……**",
+      "KR": "** 문이 열릴 때까지 기다려야 해...**",
+      "TW": "我們得等門打開……"
+    }
   },
   "** Hold the area! We can't let anything through! **": {
-    "translation": "守住该区域！我们不能让任何东西通过！"
+    "translation": "守住该区域！我们不能让任何东西通过！",
+    "MultiLang": {
+      "US": "",
+      "JP": "この領域を守れ！どんな敵も通してはいけない！",
+      "CN": "**守住这片区域！绝不能让任何东西通过！**",
+      "KR": "** 지역을 점령해라! 그 어떤 것도 통과하게 두면 안 돼!**",
+      "TW": "守住這裡！別讓任何東西過去！"
+    }
   },
   "** Keep it up! There's a bit still to go! **": {
-    "translation": "继续加油！还有一段路要走！"
+    "translation": "继续加油！还有一段路要走！",
+    "MultiLang": {
+      "US": "",
+      "JP": "頑張れ！あと少しだ！",
+      "CN": "**继续坚持！还有一点就要完成了！**",
+      "KR": "** 버텨줘! 아직 조금만 더 남았어!**",
+      "TW": "堅持住！還有一點就結束了！"
+    }
   },
   "** MOVE! THE DOOR IS OPENING NOW! **": {
-    "translation": "门现在打开了！"
+    "translation": "门现在打开了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "動け！今、ドアが開くぞ！",
+      "CN": "**移动！门正在打开！**",
+      "KR": "** 이동해라! 문이 지금 열리고 있다!**",
+      "TW": "移動！門正在打開！"
+    }
   },
   "** This is one of the multiple entrances to the trench... **": {
-    "translation": "这是壕沟的多个入口之一...... "
+    "translation": "这是壕沟的多个入口之一......",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここは塹壕への複数の入り口のうちの1つだ…",
+      "CN": "**这里是战壕的多个入口之一……**",
+      "KR": "** 이곳은 지하실의 여러 Entrances 중 하나야...**",
+      "TW": "這是通往戰壕的多個入口之一……"
+    }
   },
   "** The doors are sealed to prevent the toxic atmosphere from polluting the trenches further. **": {
-    "translation": "门是密封的，以防止有毒气体进一步污染沟渠。"
+    "translation": "门是密封的，以防止有毒气体进一步污染沟渠。",
+    "MultiLang": {
+      "US": "",
+      "JP": "有毒大気がさらに塹壕を汚染しないよう、扉は封鎖されている。",
+      "CN": "**这些门被封锁，以防止有毒气体进一步污染战壕。**",
+      "KR": "** 유독한 가스가 지하실을 더 이상 오염시키지 않도록 문들이 봉쇄되어 있어.**",
+      "TW": "門已封鎖，防止有毒大氣污染戰壕。"
+    }
   },
   "** RESIST! It will take a while until these doors unlock! **": {
-    "translation": "这些门需要一段时间才能解锁！"
+    "translation": "这些门需要一段时间才能解锁！",
+    "MultiLang": {
+      "US": "*** RESIST! These doors won't unlock for a while! ***",
+      "JP": "**抵抗しろ！これからのロック解除には時間がかかるぞ！**",
+      "CN": "** 抵抗！解锁这些门还需要一段时间！**",
+      "KR": "** 저항해! 문이 잠금 해제될 때까지 시간이 걸릴 거야!**",
+      "TW": "！**抵禦！門解鎖還需要一些時間！**"
+    }
   },
   "** The outer doors are opening! Get close! It shouldn't take much longer! **": {
-    "translation": "外门正在打开！靠近！应该不会花太长时间！"
+    "translation": "外门正在打开！靠近！应该不会花太长时间！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**外側のドアが開く！近づけ！もうすぐだ！**",
+      "CN": "** 外层的门正在打开！靠近点！应该用不了多久了！**",
+      "KR": "** 외측 문이 열리고 있어! 가까이 다가와! 시간이 얼마 안 남았어!**",
+      "TW": "**外門正在開啟！靠近！應該不許久！**"
+    }
   },
   "** GET IN! THE WAY IS OPEN FOR US TO ACCESS THE PROLETARIAT TRENCH!  **": {
-    "translation": "进去！通往无产阶级战壕的道路是敞开的！"
+    "translation": "进去！通往无产阶级战壕的道路是敞开的！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**入れ！プロレタリアート壕への経路が開いた！**",
+      "CN": "** 快进来！无产阶级战壕的通路已经打开了！**",
+      "KR": "** 들어와! 프롤레타리아트 트랜치로 접근할 길이 열렸어!**",
+      "TW": "**進入！通往無產階級戰壕的路已開通！**"
+    }
   },
   "** RESIST! We can't let them enter the trench! It'd be a massacre! **": {
-    "translation": "我们不能让他们进入战壕！这将是一场大屠杀！"
+    "translation": "我们不能让他们进入战壕！这将是一场大屠杀！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**抵抗しろ！奴らを戦壕に入れるな！虐殺されるぞ！**",
+      "CN": "** 抵抗！我们不能让他们进入战壕！那将是一场屠杀！**",
+      "KR": "** 저항해! 그들을 트랜치로 들이켜선 안 돼! 학살이 될 거야!**",
+      "TW": "**抵禦！不能讓他們進入戰壕！否則會是大屠殺！**"
+    }
   },
   "** HOLD! We will reach one of the lower-financial workers parking lots by this door! **": {
-    "translation": "我们将到达这扇门旁的一个低财务工人停车场！"
+    "translation": "我们将到达这扇门旁的一个低财务工人停车场！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**固けろ！このドアから、地下の労働者用駐車場に行ける！**",
+      "CN": "** 坚守！我们要通过这扇门到达一个下层财务人员的停车场！**",
+      "KR": "** 멈춰! 이 문을 통해 저층 금융 근로자 주차장으로 들어갈 거야!**",
+      "TW": "**堅持住！我們會通過這扇門到達某個低階財務人員停車場！**"
+    }
   },
   "** We shouldn't let them pass at all! **": {
-    "translation": "我们根本不应该让他们通过"
+    "translation": "我们根本不应该让他们通过",
+    "MultiLang": {
+      "US": "",
+      "JP": "**絶対に通すな！**",
+      "CN": "** 我们绝不能让他们通过！**",
+      "KR": "** 절대로 그들을 통과시켜선 안 돼!**",
+      "TW": "**我們絕不能放他們過去！**"
+    }
   },
   "** One last bit! Rush towards the basement and sewers! We need to reach the sealed cargo bay! **": {
-    "translation": "最后一点！冲向地下室和下水道！我们需要到达密封的货舱！"
+    "translation": "最后一点！冲向地下室和下水道！我们需要到达密封的货舱！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**あと少し！地下へと急げ！封鎖された貨物ベイに到達する必要がある！**",
+      "CN": "** 最后一段路！冲向地下室和下水道！我们需要到达封闭的货舱！**",
+      "KR": "** 마지막 구획! 지하실과 하수도로 돌진해! 밀폐된 화물 적하역을 확보해야 해!**",
+      "TW": "**最後一段！衝向地下室和下水道！我們必須到達密封貨艙！**"
+    }
   },
   "** This is an abandoned link from the sewer system to the loading bay! **": {
-    "translation": "这是从下水道系统到装卸区的废弃连接！"
+    "translation": "这是从下水道系统到装卸区的废弃连接！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**これは、廃墟となった排水管から積み込みヤードへのトンネルだ。**",
+      "CN": "** 这是下水道系统通往装载区的一个废弃连接通道！**",
+      "KR": "** 이건 하수 시스템에서 적하장으로 이어지는 폐쇄된 통로야!**",
+      "TW": "**這是一段連接下水道系統與裝載bay的废弃管線！**"
+    }
   },
   "** It was used to connect with the proletariat trenches but is rarely used nowadays... **": {
-    "translation": "它曾经用于连接无产阶级战壕，但现在很少使用......"
+    "translation": "它曾经用于连接无产阶级战壕，但现在很少使用......",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 平民層の壕地との接続に使用されていたが、今ではほとんど使われていない… **",
+      "CN": "它曾用于连接无产阶级战壕，但如今已极少使用……",
+      "KR": "** 프롤레타리아트의 트렌치와 연결하는 용도로 사용되었지만, 지금은 거의 쓰이지 않는다... **",
+      "TW": "曾經用來連接無產階級壕溝，但如今已很少使用……"
+    }
   },
   "** RESIST ONE LAST BIT! We're close to our destination! **": {
-    "translation": "抵抗最后一点！我们离目的地很近了！"
+    "translation": "抵抗最后一点！我们离目的地很近了！",
+    "MultiLang": {
+      "US": "*** RESIST JUST A LITTLE MORE! WE'RE CLOSE TO OUR DESTINATION! ***",
+      "JP": "** もう少しだけガマンだ！目的地まであとわずかだ！ **",
+      "CN": "再坚持一下！我们要到达目的地了！",
+      "KR": "** 마지막으로 좀 더 버텨주라! 목적지에 거의 다 왔어! **",
+      "TW": "再撐一下！我們快到達目的地了！"
+    }
   },
   "** We'll open the door in a bit! HOLD! **": {
-    "translation": "我们一会儿开门！"
+    "translation": "我们一会儿开门！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ほどなく扉を開ける！待て！ **",
+      "CN": "我们稍后就开门！坚守住！",
+      "KR": "** 곧 문을 열 거야! 버텨! **",
+      "TW": "我們稍後會開門！頂住！"
+    }
   },
   "** Let's hope that the cargo lift is still functional - it was scarcely used. **": {
-    "translation": "让我们希望载货升降机仍然有效 - 它很少使用。"
+    "translation": "让我们希望载货升降机仍然有效 - 它很少使用。",
+    "MultiLang": {
+      "US": "",
+      "JP": "** この貨物エレベーターがまだ使えることを願うしかないな――ほとんど使われていないからね。**",
+      "CN": "希望货运电梯还能运转——它几乎没人用。",
+      "KR": "** 화물 리프트가 여전히 작동하기를 바랄게... 꽤나 드물게 사용되던 곳이었어. **",
+      "TW": "希望貨運升降機還能運作——這東西很久沒用過了。"
+    }
   },
   "** THERE IT IS! RESIST! **": {
-    "translation": "就是这样！抵抗！*"
+    "translation": "就是这样！抵抗！*",
+    "MultiLang": {
+      "US": "",
+      "JP": "** あれだ！頑張れ！ **",
+      "CN": "就是那儿！坚持住！",
+      "KR": "** 저기다! 버텨! **",
+      "TW": "在那裡！堅持住！"
+    }
   },
   "** GET ON! THE CARGO LIFT IS ABOUT TO GO! **": {
-    "translation": "上车！货梯就要出发了！"
+    "translation": "上车！货梯就要出发了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 飛び乗れ！貨物エレベーターがもうすぐ発つ！**",
+      "CN": "快上！货运电梯即将离开！",
+      "KR": "** 탑승해! 화물 리프트가 곧 출발해! **",
+      "TW": "快上！貨運升降機即將啟動！"
+    }
   },
   "** We need to unlock the doors to get under the highway and advance further... **": {
-    "translation": "我们需要打开车门才能进入高速公路并进一步前进"
+    "translation": "我们需要打开车门才能进入高速公路并进一步前进",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 高速道路の下に到達するには、扉のロックを解除する必要がある… **",
+      "CN": "我们需要打开大门才能到达公路下方并继续前进……",
+      "KR": "** 고속도로 아래로 내려가기 위해 문을 해제해야 더 나아갈 수 있어... **",
+      "TW": "我們必須打開門才能進入高速公路下方，並繼續前行……"
+    }
   },
   "** The lift will leave in 20 seconds... HOLD! **": {
-    "translation": " 电梯将在 20 秒后离开......"
+    "translation": "电梯将在 20 秒后离开......",
+    "MultiLang": {
+      "US": "",
+      "JP": "** エレベーターが20秒後に発つ… 待て！ **",
+      "CN": "电梯将在20秒后离开……坚守住！",
+      "KR": "** 리프트가 20초 후에 출발합니다... 버텨! **",
+      "TW": "升降機二十秒後發車……頂住！"
+    }
   },
   "** WE'RE LEAVING! HOP IN! **": {
-    "translation": "**我们要走了！跳进去！**"
+    "translation": "**我们要走了！跳进去！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 行くぞ！乗り込んでくれ！**",
+      "CN": "** 我们要离开了！快上车！**",
+      "KR": "** 떠날 거야! 빨리 타!**",
+      "TW": "**我們要離開了！快上車！**"
+    }
   }
 }

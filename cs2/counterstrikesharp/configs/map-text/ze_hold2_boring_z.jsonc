@@ -1,242 +1,802 @@
 {
   "** Door 1# will be opened in 10 seconds ! **": {
-    "translation": "**1号门将在10秒后开启！**"
+    "translation": "**1号门将在10秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 1番のドアが10秒後に開きます！ **",
+      "CN": "**1号门将在10秒后开启！**",
+      "KR": "** 1번 문이 10초 후에 열립니다! **",
+      "TW": "** 門1#將在10秒後開啟！**"
+    }
   },
   "** Door 1# will be opened in 30 seconds ! **": {
-    "translation": "**1号门将在30秒后开启！**"
+    "translation": "**1号门将在30秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 1番のドアが30秒後に開きます！ **",
+      "CN": "**1号门将在30秒后开启！**",
+      "KR": "** 1번 문이 30초 후에 열립니다! **",
+      "TW": "** 門1#將在30秒後開啟！**"
+    }
   },
   "** Door 1# will be opened in 60 seconds ! **": {
-    "translation": "**1号门将在60秒后开启！**"
+    "translation": "**1号门将在60秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 1番のドアが60秒後に開きます！ **",
+      "CN": "**1号门将在60秒后开启！**",
+      "KR": "** 1번 문이 60초 후에 열립니다! **",
+      "TW": "** 門1#將在60秒後開啟！**"
+    }
   },
   "** Door 1# will be opened in 90 seconds ! **": {
-    "translation": "**1号门将在90秒后开启！**"
+    "translation": "**1号门将在90秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 1番のドアが90秒後に開きます！ **",
+      "CN": "**1号门将在90秒后开启！**",
+      "KR": "** 1번 문이 90초 후에 열립니다! **",
+      "TW": "** 門1#將在90秒後開啟！**"
+    }
   },
   "** Door 2# will be opened in 10 seconds ! **": {
-    "translation": "**2号门将在10秒后开启！**"
+    "translation": "**2号门将在10秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 2番のドアが10秒後に開きます！ **",
+      "CN": "**2号门将在10秒后开启**",
+      "KR": "** 2번 문이 10초 후에 열립니다! **",
+      "TW": "** 門2#將在10秒後開啟！**"
+    }
   },
   "** Door 2# will be opened in 30 seconds ! **": {
-    "translation": "**2号门将在30秒后开启！**"
+    "translation": "**2号门将在30秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 2番のドアが30秒後に開きます！ **",
+      "CN": "**2号门将在30秒后开启！**",
+      "KR": "** 2번 문이 30초 후에 열립니다! **",
+      "TW": "** 門2#將在30秒後開啟！**"
+    }
   },
   "** Door 2# will be opened in 60 seconds ! **": {
-    "translation": "**2号门将在60秒后开启！**"
+    "translation": "**2号门将在60秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 2番のドアが60秒後に開きます！ **",
+      "CN": "**2号门将在60秒后开启！**",
+      "KR": "** 2번 문이 60초 후에 열립니다! **",
+      "TW": "** 門2#將在60秒後開啟！**"
+    }
   },
   "** Door 2# will be opened in 90 seconds ! **": {
-    "translation": "**2号门将在90秒后开启！**"
+    "translation": "**2号门将在90秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 2番のドアが90秒後に開きます！ **",
+      "CN": "**2号门将在90秒后开启**",
+      "KR": "** 2번 문이 90초 후에 열립니다! **",
+      "TW": "** 門2#將在90秒後開啟！**"
+    }
   },
   "** Door 3# will be opened in 10 seconds ! **": {
-    "translation": "**3号门将在10秒后开启！**"
+    "translation": "**3号门将在10秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 3番の扉が10秒後に開きます **",
+      "CN": "** 3号门将在10秒后打开！**",
+      "KR": "** 3번 문, 10초 후 개방 ! **",
+      "TW": "** 3號門將在10秒後開啟！**"
+    }
   },
   "** Door 3# will be opened in 30 seconds ! **": {
-    "translation": "**3号门将在30秒后开启！**"
+    "translation": "**3号门将在30秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 3番の扉が30秒後に開きます **",
+      "CN": "** 3号门将在30秒后打开！**",
+      "KR": "** 3번 문, 30초 후 개방 ! **",
+      "TW": "** 3號門將在30秒後開啟！**"
+    }
   },
   "** Door 3# will be opened in 60 seconds ! **": {
-    "translation": "**3号门将在60秒后开启！**"
+    "translation": "**3号门将在60秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 3番の扉が60秒後に開きます **",
+      "CN": "** 3号门将在60秒后打开！**",
+      "KR": "** 3번 문, 60초 후 개방 ! **",
+      "TW": "** 3號門將在60秒後開啟！**"
+    }
   },
   "** Door 3# will be opened in 90 seconds ! **": {
-    "translation": "**3号门将在90秒后开启！**"
+    "translation": "**3号门将在90秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 3番の扉が90秒後に開きます **",
+      "CN": "** 3号门将在90秒后打开！**",
+      "KR": "** 3번 문, 90초 후 개방 ! **",
+      "TW": "** 3號門將在90秒後開啟！**"
+    }
   },
   "** Door 4# will be opened in 10 seconds ! **": {
-    "translation": "**4号门将在10秒后开启！**"
+    "translation": "**4号门将在10秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 4番の扉が10秒後に開きます **",
+      "CN": "** 4号门将在10秒后打开！**",
+      "KR": "** 4번 문, 10초 후 개방 ! **",
+      "TW": "** 4號門將在10秒後開啟！**"
+    }
   },
   "** Door 4# will be opened in 30 seconds ! **": {
-    "translation": "**4号门将在30秒后开启！**"
+    "translation": "**4号门将在30秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 4番の扉が30秒後に開きます **",
+      "CN": "** 4号门将在30秒后打开！**",
+      "KR": "** 4번 문, 30초 후 개방 ! **",
+      "TW": "** 4號門將在30秒後開啟！**"
+    }
   },
   "** Door 4# will be opened in 60 seconds ! **": {
-    "translation": "**4号门将在60秒后开启！**"
+    "translation": "**4号门将在60秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 4番の扉が60秒後に開きます **",
+      "CN": "** 4号门将在60秒后打开！**",
+      "KR": "** 4번 문, 60초 후 개방 ! **",
+      "TW": "** 4號門將在60秒後開啟！**"
+    }
   },
   "** Door 4# will be opened in 90 seconds ! **": {
-    "translation": "**4号门将在90秒后开启！**"
+    "translation": "**4号门将在90秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 4番の扉が90秒後に開きます **",
+      "CN": "** 4号门将在90秒后打开！**",
+      "KR": "** 4번 문, 90초 후 개방 ! **",
+      "TW": "** 4號門將在90秒後開啟！**"
+    }
   },
   "** Door 5# will be opened in 10 seconds ! **": {
-    "translation": "**5号门将在10秒后开启！**"
+    "translation": "**5号门将在10秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5号ドア、あと10秒で開きます！**",
+      "CN": "** 5号门将在10秒后打开！**",
+      "KR": "** 5번 문이 10초 후에 열립니다! **",
+      "TW": "** 5號門將於10秒後開啟！ **"
+    }
   },
   "** Door 5# will be opened in 30 seconds ! **": {
-    "translation": "**5号门将在30秒后开启！**"
+    "translation": "**5号门将在30秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5号ドア、あと30秒で開きます！**",
+      "CN": "** 5号门将在30秒后打开！**",
+      "KR": "** 5번 문이 30초 후에 열립니다! **",
+      "TW": "** 5號門將於30秒後開啟！ **"
+    }
   },
   "** Door 5# will be opened in 60 seconds ! **": {
-    "translation": "**5号门将在60秒后开启！**"
+    "translation": "**5号门将在60秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5号ドア、あと60秒で開きます！**",
+      "CN": "** 5号门将在60秒后打开！**",
+      "KR": "** 5번 문이 60초 후에 열립니다! **",
+      "TW": "** 5號門將於60秒後開啟！ **"
+    }
   },
   "** Door 5# will be opened in 90 seconds ! **": {
-    "translation": "**5号门将在90秒后开启！**"
+    "translation": "**5号门将在90秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5号ドア、あと90秒で開きます！**",
+      "CN": "** 5号门将在90秒后打开！**",
+      "KR": "** 5번 문이 90초 후에 열립니다! **",
+      "TW": "** 5號門將於90秒後開啟！ **"
+    }
   },
   "** Door 6# will be opened in 10 seconds ! **": {
-    "translation": "**6号门将在10秒后开启！**"
+    "translation": "**6号门将在10秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 6号ドア、あと10秒で開きます！**",
+      "CN": "** 6号门将在10秒后打开！**",
+      "KR": "** 6번 문이 10초 후에 열립니다! **",
+      "TW": "** 6號門將於10秒後開啟！ **"
+    }
   },
   "** Door 6# will be opened in 30 seconds ! **": {
-    "translation": "**6号门将在30秒后开启！**"
+    "translation": "**6号门将在30秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 6号ドア、あと30秒で開きます！**",
+      "CN": "** 6号门将在30秒后打开！**",
+      "KR": "** 6번 문이 30초 후에 열립니다! **",
+      "TW": "** 6號門將於30秒後開啟！ **"
+    }
   },
   "** Door 6# will be opened in 60 seconds ! **": {
-    "translation": "**6号门将在60秒后开启！**"
+    "translation": "**6号门将在60秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 6号ドア、あと60秒で開きます！**",
+      "CN": "** 6号门将在60秒后打开！**",
+      "KR": "** 6번 문이 60초 후에 열립니다! **",
+      "TW": "** 6號門將於60秒後開啟！ **"
+    }
   },
   "** Door 6# will be opened in 90 seconds ! **": {
-    "translation": "**6号门将在90秒后开启！**"
+    "translation": "**6号门将在90秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 6号ドア、あと90秒で開きます！**",
+      "CN": "** 6号门将在90秒后打开！**",
+      "KR": "** 6번 문이 90초 후에 열립니다! **",
+      "TW": "** 6號門將於90秒後開啟！ **"
+    }
   },
   "** Door 7# will be opened in 10 seconds ! **": {
-    "translation": "**7号门将在10秒后开启！**"
+    "translation": "**7号门将在10秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 7番のドアが10秒後に開きます！ **",
+      "CN": "**7号门将在10秒后开启！**",
+      "KR": "** 도어 7번이 10초 후에 열립니다! **",
+      "TW": "** 第 7 號門將在 10 秒後開啟！ **"
+    }
   },
   "** Door 7# will be opened in 30 seconds ! **": {
-    "translation": "**7号门将在30秒后开启！**"
+    "translation": "**7号门将在30秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 7番のドアが30秒後に開きます！ **",
+      "CN": "**7号门将在30秒后开启！**",
+      "KR": "** 도어 7번이 30초 후에 열립니다! **",
+      "TW": "** 第 7 號門將在 30 秒後開啟！ **"
+    }
   },
   "** Door 7# will be opened in 60 seconds ! **": {
-    "translation": "**7号门将在60秒后开启！**"
+    "translation": "**7号门将在60秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 7番のドアが60秒後に開きます！ **",
+      "CN": "**7号门将在60秒后开启**",
+      "KR": "** 도어 7번이 60초 후에 열립니다! **",
+      "TW": "** 第 7 號門將在 60 秒後開啟！ **"
+    }
   },
   "** Door 7# will be opened in 90 seconds ! **": {
-    "translation": "**7号门将在90秒后开启！**"
+    "translation": "**7号门将在90秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 7番のドアが90秒後に開きます！ **",
+      "CN": "**7号门将在90秒后开启！**",
+      "KR": "** 도어 7번이 90초 후에 열립니다! **",
+      "TW": "** 第 7 號門將在 90 秒後開啟！ **"
+    }
   },
   "** Have a good time , guys ! **": {
-    "translation": "**祝你们玩得开心，伙计们！**"
+    "translation": "**祝你们玩得开心，伙计们！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 皆さん、楽しんでください！",
+      "CN": "**玩得开心点，伙计们！**",
+      "KR": "** 다들 즐거운 시간 보내세요! **",
+      "TW": "** 祝大家玩得愉快！ **"
+    }
   },
   "** Hold 30s ! **": {
-    "translation": "**防守30秒！**"
+    "translation": "**防守30秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒間維持してください！ **",
+      "CN": "**坚持30秒！**",
+      "KR": "** 30초간 대기하세요! **",
+      "TW": "** 堅持 30 秒！ **"
+    }
   },
   "** Hold here 20s ! **": {
-    "translation": "**在这里防守20秒！**"
+    "translation": "**在这里防守20秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ここで20秒間待機してください！ **",
+      "CN": "**在这里坚持20秒！**",
+      "KR": "** 여기서 20초간 대기하세요! **",
+      "TW": "** 這裡堅持 20 秒！ **"
+    }
   },
   "** Its very boring and very hard , but end is funny .**": {
-    "translation": "**这很无聊，而且非常困难，但最后是有趣的。**"
+    "translation": "**这很无聊，而且非常困难，但最后是有趣的。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 非常に退屈で非常に難しいですが、最後は面白いです。**",
+      "CN": "**这非常无聊且极具挑战性，但结局很有趣。**",
+      "KR": "** 정말 지루하고 어렵지만, 마지막은 재미있습니다. **",
+      "TW": "** 過程非常無聊且極具挑戰性，但結局很有趣。**"
+    }
   },
   "** Level 1 - Easy **": {
-    "translation": "**第1关-简单**"
+    "translation": "**第1关-简单**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** レベル 1 - イージー **",
+      "CN": "** 第一关 - 简单 **",
+      "KR": "** 레벨 1 - 쉬움 **",
+      "TW": "** 第一關 - 簡單 **"
+    }
   },
   "** Level 2 - Hard **": {
-    "translation": "**第2关-困难**"
+    "translation": "**第2关-困难**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** レベル 2 - ハード **",
+      "CN": "** 第二关 - 困难 **",
+      "KR": "** 레벨 2 - 어려움 **",
+      "TW": "** 第二關 - 困難 **"
+    }
   },
   "** Map by ClariceTang **": {
-    "translation": "**地图作者：ClariceTang 翻译：Asteri3m**"
+    "translation": "**地图作者：ClariceTang 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** マップ制作: ClariceTang **",
+      "CN": "** 地图制作者：ClariceTang **",
+      "KR": "** 맵 제작: ClariceTang **",
+      "TW": "** 地圖製作者：ClariceTang **"
+    }
   },
   "** Model by K. **": {
-    "translation": "**模型制作：K.**"
+    "translation": "**模型制作：K.**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** モデル制作: K. **",
+      "CN": "** 模型制作：K. **",
+      "KR": "** 모델링: K. **",
+      "TW": "** 模型製作：K. **"
+    }
   },
   "** Music by MapleStory **": {
-    "translation": "**音乐来自：MapleStory**"
+    "translation": "**音乐来自：MapleStory**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音楽制作: MapleStory **",
+      "CN": "** 音乐制作：MapleStory **",
+      "KR": "** 음악: MapleStory **",
+      "TW": "** 音樂來源：MapleStory **"
+    }
   },
   "** Musicbox picker up **": {
-    "translation": "**音乐盒已拾取**"
+    "translation": "**音乐盒已拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ミュージックボックス取得音 **",
+      "CN": "** 拾取音乐盒 **",
+      "KR": "** 미스터리 상자 집기 사운드 **",
+      "TW": "** 撿起音樂盒 **"
+    }
   },
   "** Sound Playing - </emotional> **": {
-    "translation": "**正在播放音乐 - </emotional>**"
+    "translation": "**正在播放音乐 - </emotional>**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - </emotional> **",
+      "CN": "** 播放音效 - </emotional> **",
+      "KR": "** 효과음 재생 - </emotional> **",
+      "TW": "** 音效播放 - <emotional> **"
+    }
   },
   "** Sound Playing - Abovethetreetops **": {
-    "translation": "**正在播放音乐 - Abovethetreetops**"
+    "translation": "**正在播放音乐 - Abovethetreetops**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - Abovethetreetops **",
+      "CN": "** 播放音效 - Abovethetreetops **",
+      "KR": "** 효과음 재생 - Abovethetreetops **",
+      "TW": "** 音效播放 - 樹冠之上 **"
+    }
   },
   "** Sound Playing - Badguys **": {
-    "translation": "**正在播放音乐 - Badguys**"
+    "translation": "**正在播放音乐 - Badguys**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - Badguys **",
+      "CN": "** 正在播放音效 - 坏人 **",
+      "KR": "** 소리 재생 - Badguys **",
+      "TW": "** 音效播放 - 壞傢伙 **"
+    }
   },
   "** Sound Playing - Bamboogym **": {
-    "translation": "**正在播放音乐 - Bamboogym**"
+    "translation": "**正在播放音乐 - Bamboogym**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - Bamboogym **",
+      "CN": "** 正在播放音效 - 竹笼 **",
+      "KR": "** 소리 재생 - Bamboogym **",
+      "TW": "** 音效播放 - 竹製體操 **"
+    }
   },
   "** Sound Playing - Credens justitiam **": {
-    "translation": "**正在播放音乐 - Credens justitiam**"
+    "translation": "**正在播放音乐 - Credens justitiam**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - Credens justitiam **",
+      "CN": "** 正在播放音效 - Credens justitiam **",
+      "KR": "** 소리 재생 - Credens justitiam **",
+      "TW": "** 音效播放 - 信條正義 **"
+    }
   },
   "** Sound Playing - Darkmountain **": {
-    "translation": "**正在播放音乐 - Darkmountain**"
+    "translation": "**正在播放音乐 - Darkmountain**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - Darkmountain **",
+      "CN": "** 正在播放音效 - 黑暗之山 **",
+      "KR": "** 소리 재생 - Darkmountain **",
+      "TW": "** 音效播放 - 黑暗山脈 **"
+    }
   },
   "** Sound Playing - Dragondream **": {
-    "translation": "**正在播放音乐 - Dragondream**"
+    "translation": "**正在播放音乐 - Dragondream**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - Dragondream **",
+      "CN": "** 正在播放音效 - 龙梦 **",
+      "KR": "** 소리 재생 - Dragondream **",
+      "TW": "** 音效播放 - 龍之夢 **"
+    }
   },
   "** Sound Playing - Florallife **": {
-    "translation": "**正在播放音乐 - Florallife**"
+    "translation": "**正在播放音乐 - Florallife**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - Florallife **",
+      "CN": "** 正在播放音效 - 花儿朵朵 **",
+      "KR": "** 소리 재생 - Florallife **",
+      "TW": "** 音效播放 - 森林生命 **"
+    }
   },
   "** Sound Playing - Goshanghai **": {
-    "translation": "**正在播放音乐 - Goshanghai**"
+    "translation": "**正在播放音乐 - Goshanghai**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - Goshanghai **",
+      "CN": "** 正在播放音效 - 上海时光 **",
+      "KR": "** 소리 재생 - Goshanghai **",
+      "TW": "** 音效播放 - 神上海 **"
+    }
   },
   "** Sound Playing - HIGHEST **": {
-    "translation": "**正在播放音乐 - HIGHEST**"
+    "translation": "**正在播放音乐 - HIGHEST**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 音声再生 - HIGHEST **",
+      "CN": "** 正在播放音效 - HIGHEST **",
+      "KR": "** 소리 재생 - HIGHEST **",
+      "TW": "** 音效播放 - 最高等級 **"
+    }
   },
   "** Sound Playing - Into The Night **": {
-    "translation": "**正在播放音乐 - Into The Night**"
+    "translation": "**正在播放音乐 - Into The Night**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サウンド再生 - 夜への入り口 **",
+      "CN": "音频播放 - Into The Night",
+      "KR": "** 사운드 재생 - 밤 속으로 **",
+      "TW": "**音效播放 - 融入黑夜**"
+    }
   },
   "** Sound Playing - Maps **": {
-    "translation": "**正在播放音乐 - Maps**"
+    "translation": "**正在播放音乐 - Maps**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サウンド再生 - マップ **",
+      "CN": "音频播放 - Maps",
+      "KR": "** 사운드 재생 - 지도 **",
+      "TW": "**音效播放 - 地圖**"
+    }
   },
   "** Sound Playing - Monster **": {
-    "translation": "**正在播放音乐 - Monster**"
+    "translation": "**正在播放音乐 - Monster**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サウンド再生 - モンスター **",
+      "CN": "音频播放 - Monster",
+      "KR": "** 사운드 재생 - 몬스터 **",
+      "TW": "**音效播放 - 怪物**"
+    }
   },
   "** Sound Playing - My Soul,Your Beats! **": {
-    "translation": "**正在播放音乐 - My Soul,Your Beats!**"
+    "translation": "**正在播放音乐 - My Soul,Your Beats!**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サウンド再生 - My Soul,Your Beats! **",
+      "CN": "音频播放 - My Soul,Your Beats!",
+      "KR": "** 사운드 재생 - 내 영혼, 당신의 박동! **",
+      "TW": "**音效播放 - My Soul, Your Beats!**"
+    }
   },
   "** Sound Playing - Payphone **": {
-    "translation": "**正在播放音乐 - Payphone**"
+    "translation": "**正在播放音乐 - Payphone**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サウンド再生 - Payphone **",
+      "CN": "音频播放 - Payphone",
+      "KR": "** 사운드 재생 - 파이어폰 **",
+      "TW": "**音效播放 - Payphone**"
+    }
   },
   "** Sound Playing - Snowdrop **": {
-    "translation": "**正在播放音乐 - Snowdrop**"
+    "translation": "**正在播放音乐 - Snowdrop**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サウンド再生 - Snowdrop **",
+      "CN": "音频播放 - Snowdrop",
+      "KR": "** 사운드 재생 - 민들레꽃 **",
+      "TW": "**音效播放 - Snowdrop**"
+    }
   },
   "** Sound Playing - Subway **": {
-    "translation": "**正在播放音乐 - Subway**"
+    "translation": "**正在播放音乐 - Subway**",
+    "MultiLang": {
+      "US": "*** Sound On - Subway ***",
+      "JP": "** サウンド再生 - 地下鉄 **",
+      "CN": "音频播放 - Subway",
+      "KR": "** 사운드 재생 - 지하철 **",
+      "TW": "**音效播放 - Subway**"
+    }
   },
   "** Sound Playing - TRUE **": {
-    "translation": "**正在播放音乐 - TRUE**"
+    "translation": "**正在播放音乐 - TRUE**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サウンド再生 - TRUE **",
+      "CN": "音频播放 - TRUE",
+      "KR": "** 사운드 재생 - TRUE **",
+      "TW": "**音效播放 - TRUE**"
+    }
   },
   "** Sound Playing - Warmregard **": {
-    "translation": "**正在播放音乐 - Warmregard**"
+    "translation": "**正在播放音乐 - Warmregard**",
+    "MultiLang": {
+      "US": "",
+      "JP": "音声再生 - Warmregard",
+      "CN": "** 播放音效 - Warmregard **",
+      "KR": "** 사운드 재생 - Warmregard **",
+      "TW": "【音效播放 - Warmregard】"
+    }
   },
   "** Sound Playing - Whitechristmas **": {
-    "translation": "**正在播放音乐 - Whitechristmas**"
+    "translation": "**正在播放音乐 - Whitechristmas**",
+    "MultiLang": {
+      "US": "",
+      "JP": "音声再生 - Whitechristmas",
+      "CN": "** 播放音效 - Whitechristmas **",
+      "KR": "** 사운드 재생 - Whitechristmas **",
+      "TW": "【音效播放 - Whitechristmas】"
+    }
   },
   "** Sound Playing - flyinginabluedream **": {
-    "translation": "**正在播放音乐 - flyingina bluedream**"
+    "translation": "**正在播放音乐 - flyingina bluedream**",
+    "MultiLang": {
+      "US": "",
+      "JP": "音声再生 - flyinginabluedream",
+      "CN": "** 播放音效 - flyinginabluedream **",
+      "KR": "** 사운드 재생 - flyinginabluedream **",
+      "TW": "【音效播放 - flyinginabluedream】"
+    }
   },
   "** Sound Playing - grayscale dominator **": {
-    "translation": "**正在播放音乐 - grayscale dominator**"
+    "translation": "**正在播放音乐 - grayscale dominator**",
+    "MultiLang": {
+      "US": "",
+      "JP": "音声再生 - grayscale dominator",
+      "CN": "** 播放音效 - grayscale dominator **",
+      "KR": "** 사운드 재생 - grayscale dominator **",
+      "TW": "【音效播放 - grayscale dominator】"
+    }
   },
   "** Sound Playing - tuki **": {
-    "translation": "**正在播放音乐 - tuki**"
+    "translation": "**正在播放音乐 - tuki**",
+    "MultiLang": {
+      "US": "",
+      "JP": "音声再生 - tuki",
+      "CN": "** 播放音效 - tuki **",
+      "KR": "** 사운드 재생 - tuki **",
+      "TW": "【音效播放 - tuki】"
+    }
   },
   "** Sound Playing - ファタール - Fatal **": {
-    "translation": "**正在播放音乐 - ファタール-Fatal**"
+    "translation": "**正在播放音乐 - ファタール-Fatal**",
+    "MultiLang": {
+      "US": "** Sound Playing - Fatall - Fatal **",
+      "JP": "",
+      "CN": "** 播放音效 - ファタール - Fatal **",
+      "KR": "** 사운드 재생 - ファタール - Fatal **",
+      "TW": "【音效播放 - ファタール - Fatal】"
+    }
   },
   "** Sound Playing - 二拜天地 **": {
-    "translation": "**正在播放音乐 - 二拜天地**"
+    "translation": "**正在播放音乐 - 二拜天地**",
+    "MultiLang": {
+      "US": "** Sound Playing - Bow to Heaven and Earth **",
+      "JP": "音声再生 - 二拜天地",
+      "CN": "**正在播放音乐 - 二拜天地**",
+      "KR": "** 사운드 재생 - 二拜天地 **",
+      "TW": "【音效播放 - 二拜天地】"
+    }
   },
   "** Sound Playing - 全是爱 **": {
-    "translation": "**正在播放音乐 - 全是爱**"
+    "translation": "**正在播放音乐 - 全是爱**",
+    "MultiLang": {
+      "US": "** Sound Playing - Full of Love **",
+      "JP": "音声再生 - 全是爱",
+      "CN": "**正在播放音乐 - 全是爱**",
+      "KR": "** 사운드 재생 - 全是爱 **",
+      "TW": "【音效播放 - 全是愛】"
+    }
   },
   "** Sound Playing - 危险派对 **": {
-    "translation": "**正在播放音乐 - 危险派对**"
+    "translation": "**正在播放音乐 - 危险派对**",
+    "MultiLang": {
+      "US": "** Sound Playing - Dangerous Party **",
+      "JP": "音声再生 - 危险派对",
+      "CN": "**正在播放音乐 - 危险派对**",
+      "KR": "** 사운드 재생 - 위험한 파티 **",
+      "TW": "** 音效播放 - 危險派對 **"
+    }
   },
   "** Sound Playing - 孤寂百年 **": {
-    "translation": "**正在播放音乐 - 孤寂百年**"
+    "translation": "**正在播放音乐 - 孤寂百年**",
+    "MultiLang": {
+      "US": "** Sound Playing - Lonely for a Century **",
+      "JP": "** サウンド再生 - 孤寂百年 **",
+      "CN": "**正在播放音乐 - 孤寂百年**",
+      "KR": "** 사운드 재생 - 외로운 백년 **",
+      "TW": "** 音效播放 - 孤寂百年 **"
+    }
   },
   "** Sound Playing - 山河图 **": {
-    "translation": "**正在播放音乐 - 山河图**"
+    "translation": "**正在播放音乐 - 山河图**",
+    "MultiLang": {
+      "US": "** Sound Playing - Map of Rivers and Mountains **",
+      "JP": "** サウンド再生 - 山河図 **",
+      "CN": "**正在播放音乐 - 山河图**",
+      "KR": "** 사운드 재생 - 산하도 **",
+      "TW": "** 音效播放 - 山河圖 **"
+    }
   },
   "** Sound Playing - 求神呐 **": {
-    "translation": "**正在播放音乐 - 求神呐**"
+    "translation": "**正在播放音乐 - 求神呐**",
+    "MultiLang": {
+      "US": "** Sound Playing - Praying to the Gods **",
+      "JP": "** サウンド再生 - 求神呐 **",
+      "CN": "**正在播放音乐 - 求神呐**",
+      "KR": "** 사운드 재생 - 신께 빌다 **",
+      "TW": "** 音效播放 - 求神吶 **"
+    }
   },
   "** Sound Playing - 江郎才尽 **": {
-    "translation": "**正在播放音乐 - 江郎才尽**"
+    "translation": "**正在播放音乐 - 江郎才尽**",
+    "MultiLang": {
+      "US": "** Sound Playing - Jiang Lang Runs Out of Talent **",
+      "JP": "** サウンド再生 - 江郎才尽 **",
+      "CN": "**正在播放音乐 - 江郎才尽**",
+      "KR": "** 사운드 재생 - 강랑재진 **",
+      "TW": "** 音效播放 - 江郎才盡 **"
+    }
   },
   "** Sound Playing - 烂泥 **": {
-    "translation": "**正在播放音乐 - 烂泥**"
+    "translation": "**正在播放音乐 - 烂泥**",
+    "MultiLang": {
+      "US": "** Sound Playing - Luo Man **",
+      "JP": "** サウンド再生 - 爛泥 **",
+      "CN": "**正在播放音乐 - 烂泥**",
+      "KR": "** 사운드 재생 - 썩은 진흙 **",
+      "TW": "** 音效播放 - 爛泥 **"
+    }
   },
   "** Sound Playing - 策马奔腾 **": {
-    "translation": "**正在播放音乐 - 策马奔腾**"
+    "translation": "**正在播放音乐 - 策马奔腾**",
+    "MultiLang": {
+      "US": "** Sound Playing - Galloping Horses **",
+      "JP": "** サウンド再生 - 策馬奔騰 **",
+      "CN": "**正在播放音乐 - 策马奔腾**",
+      "KR": "** 사운드 재생 - 망아지 질주 **",
+      "TW": "** 音效播放 - 策馬奔騰 **"
+    }
   },
   "** Sound Playing - 自由自在 **": {
-    "translation": "**正在播放音乐 - 自由自在**"
+    "translation": "**正在播放音乐 - 自由自在**",
+    "MultiLang": {
+      "US": "** Sound Playing - Free and Easy **",
+      "JP": "** サウンド再生 - 自由自在 **",
+      "CN": "**正在播放音乐 - 自由自在**",
+      "KR": "** 사운드 재생 - 자유로움 **",
+      "TW": "** 音效播放 - 自由自在 **"
+    }
   },
   "** Sound Playing - 自由飞翔 **": {
-    "translation": "**正在播放音乐 - 自由飞翔**"
+    "translation": "**正在播放音乐 - 自由飞翔**",
+    "MultiLang": {
+      "US": "** Sound Playing - Flying Freely **",
+      "JP": "** サウンド再生 - 自由飛翔 **",
+      "CN": "**正在播放音乐 - 自由飞翔**",
+      "KR": "** 사운드 재생 - 자유 날개 **",
+      "TW": "** 音效播放 - 自由飛翔 **"
+    }
   },
   "** Sound Playing - 郎的诱惑 **": {
-    "translation": "**正在播放音乐 - 郎的诱惑**"
+    "translation": "**正在播放音乐 - 郎的诱惑**",
+    "MultiLang": {
+      "US": "** Sound Playing - The Temptation of Men **",
+      "JP": "** サウンド再生 - ロウの誘惑 **",
+      "CN": "**正在播放音乐 - 郎的诱惑**",
+      "KR": "** 사운드 재생 - 낭의 유혹 **",
+      "TW": "** 音效播放 - 郎的誘惑 **"
+    }
   },
   "** There is no way here ! **": {
-    "translation": "**这里没有路！**"
+    "translation": "**这里没有路！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ここに道はないよ！",
+      "CN": "** 这里没有路！**",
+      "KR": "** 여기는 길이 없어! **",
+      "TW": "** 此路不通！**"
+    }
   },
   "** Watch out laser !!! **": {
-    "translation": "**小心跳刀！！！**"
+    "translation": "**小心跳刀！！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** レーザー注意！！！ **",
+      "CN": "** 小心激光！！！**",
+      "KR": "** 레이저 주의!!! **",
+      "TW": "** 小心雷射光束！！！**"
+    }
   },
   "** Welcome to this shit map **": {
-    "translation": "**欢迎游玩这张糟糕的地图**"
+    "translation": "**欢迎游玩这张糟糕的地图**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** このゴミマップへようこそ **",
+      "CN": "** 欢迎来到这片屎一样的地图 **",
+      "KR": "** 이 쓰레기 맵에 오신 걸 환영합니다 **",
+      "TW": "** 歡迎來到這個爛地圖 **"
+    }
   },
   "** Zombie Buff : GODMODE **": {
-    "translation": "**僵尸增益：无敌**"
+    "translation": "**僵尸增益：无敌**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビバフ：ゴッドモード **",
+      "CN": "** 僵尸增益：上帝模式 **",
+      "KR": "** 좀비 버프: 무적 모드 **",
+      "TW": "** 殭屍增益：上帝模式 **"
+    }
   },
   "** Zombie Buff : INVIS **": {
-    "translation": "**僵尸增益：隐形**"
+    "translation": "**僵尸增益：隐形**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビバフ：透明化 **",
+      "CN": "** 僵尸增益：隐身 **",
+      "KR": "** 좀비 버프: 숨김 효과 **",
+      "TW": "** 殭屍增益：隱形 **"
+    }
   },
   "** Zombie Buff : SPEED **": {
-    "translation": "**僵尸增益：加速**"
+    "translation": "**僵尸增益：加速**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビバフ：スピード **%",
+      "CN": "** 僵尸增益：加速 **",
+      "KR": "** 좀비 버프: 속도 증가 **",
+      "TW": "** 殭屍增益：加速**"
+    }
   }
 }

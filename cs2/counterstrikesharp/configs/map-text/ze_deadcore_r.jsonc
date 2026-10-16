@@ -1,83 +1,292 @@
 {
   "map by Airvulps": {
-    "translation": "地图作者：Airvulps"
+    "translation": "地图作者：Airvulps",
+    "MultiLang": {
+      "US": "",
+      "JP": "map by Airvulps",
+      "CN": "Airvulps 制作的地图",
+      "KR": "Airvulps 제작 맵",
+      "TW": "由 Airvulps 製圖"
+    }
   },
   "map modify by 兎RB": {
-    "translation": "地图修改：兎RB"
+    "translation": "地图修改：兎RB",
+    "MultiLang": {
+      "US": "map modified by 兎RB",
+      "JP": "map modify by 兎RB",
+      "CN": "地图修改：兎RB",
+      "KR": "兎RB 수정 맵",
+      "TW": "由 兎RB 修改"
+    }
   },
   "map port by SIRloin": {
-    "translation": "地图移植：SIRloin"
+    "translation": "地图移植：SIRloin",
+    "MultiLang": {
+      "US": "",
+      "JP": "map port by SIRloin",
+      "CN": "SIRloin 制作的港口地图",
+      "KR": "SIRloin 포트 맵",
+      "TW": "由 SIRloin 移植"
+    }
   },
   "> STAGE - B <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> STAGE - B <",
+      "CN": "> 关卡 - B <",
+      "KR": "> STAGE - B <",
+      "TW": "> STAGE - B <"
+    }
   },
   "*** 40 ***": {
-    "translation": "*** 40s ***"
+    "translation": "*** 40s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 40s ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 15 ***": {
-    "translation": "*** 15s ***"
+    "translation": "*** 15s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 15s ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 30 ***": {
-    "translation": "*** 30s ***"
+    "translation": "*** 30s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 30s ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> STAGE - C <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> STAGE - C <",
+      "CN": "> 关卡 - C <",
+      "KR": "> STAGE - C <",
+      "TW": "> STAGE - C <"
+    }
   },
   "> STAGE - A <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> STAGE - A <",
+      "CN": "> 关卡 - A <",
+      "KR": "> STAGE - A <",
+      "TW": "> STAGE - A <"
+    }
   },
   "*** 60 ***": {
-    "translation": "*** 60s ***"
+    "translation": "*** 60s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 60s ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 10 ***": {
-    "translation": "*** 10s ***"
+    "translation": "*** 10s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 10s ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** ZOMBIE GOT INSIDE THE LIFT ***": {
-    "translation": "*** 僵尸进入电梯 ***"
+    "translation": "*** 僵尸进入电梯 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビがリフト内に侵入 ***",
+      "CN": "*** 僵尸进入了电梯 ***",
+      "KR": "*** 좀비가 엘리베이터 안으로 진입 ***",
+      "TW": "*** 殭屍已進入升降機 ***"
+    }
   },
   "*** STAGE FAILED ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ステージ失敗 ***",
+      "CN": "*** 关卡失败 ***",
+      "KR": "*** 스테이지 실패 ***",
+      "TW": "*** 關卡失敗 ***"
+    }
   },
   "30": {
-    "translation": "30s"
+    "translation": "30s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "30s",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 9 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 8 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 7 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 6 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 5 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 4 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 3 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 2 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 1 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> STAGE - D <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ステージ - D <",
+      "CN": "> 关卡 - D <",
+      "KR": "> 스테이지 D <",
+      "TW": "> 舞台 - D <"
+    }
   },
   "*** 20 ***": {
-    "translation": "*** 20s ***"
+    "translation": "*** 20s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 20s ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> Enable Stage Purple D! <": {
-    "translation": "> 启用 Stage Purple D! <"
+    "translation": "> 启用 Stage Purple D! <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ステージパープルDを有効化！",
+      "CN": "启用阶段紫红D！",
+      "KR": "> 스테이지 퍼플 D 활성화! <",
+      "TW": "> 啟用舞台紫色D！ <"
+    }
   },
   "*** END ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 終了 ***",
+      "CN": "*** END ***",
+      "KR": "*** 종료 ***",
+      "TW": "*** 結束 ***"
+    }
+  },
+  "wtf": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "何すかんべ",
+      "CN": "这什么鬼",
+      "KR": "왜 이래",
+      "TW": "幹"
+    }
+  },
+  "> Enable Stage Red D! <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ステージレッドDを有効化！",
+      "CN": "启用阶段红D！",
+      "KR": "> 스테이지 레드 D 활성화! <",
+      "TW": "> 啟用舞台紅色D！ <"
+    }
   }
 }

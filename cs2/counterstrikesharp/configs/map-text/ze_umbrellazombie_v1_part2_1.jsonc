@@ -1,104 +1,342 @@
 {
   "* Next Map : ze_umbrellazombie_v1_p3_final *": {
-    "translation": "* 下一张地图：ze_umbrellazombie_v1_p3_final *"
+    "translation": "* 下一张地图：ze_umbrellazombie_v1_p3_final *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* 次なるマップ : ze_umbrellazombie_v1_p3_final *",
+      "CN": "* 下一张地图：ze_umbrellazombie_v1_p3_final *",
+      "KR": "* 다음 맵 : ze_umbrellazombie_v1_p3_final *",
+      "TW": "* 下一張地圖：ze_umbrellazombie_v1_p3_final *"
+    }
   },
   "*** 30 seconds left for the wall to break ***": {
-    "translation": "*** 墙体破裂30秒 ***"
+    "translation": "*** 墙体破裂30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 壁が壊れるまで残り30秒 ***",
+      "CN": "*** 墙体破裂还有30秒 ***",
+      "KR": "*** 벽이 무너지기까지 30초 남음 ***",
+      "TW": "*** 牆壁即將破損，剩餘 30 秒 ***"
+    }
   },
   "*** DEFEND ***": {
-    "translation": "*** 防守 ***"
+    "translation": "*** 防守 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 防御せよ ***",
+      "CN": "*** 防御 ***",
+      "KR": "*** 방어 ***",
+      "TW": "*** 防禦 ***"
+    }
   },
   "*** DEFEND THE AREA OR MAKE THE LASER ***": {
-    "translation": "*** 防守这个区域或激活激光 ***"
+    "translation": "*** 防守这个区域或激活激光 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 区域を維持するか、レーザーを発動せよ ***",
+      "CN": "*** 坚守区域或启动激光***",
+      "KR": "*** 지역을 방어하거나 레이저를 생성하세요 ***",
+      "TW": "*** 守住區域或啟動雷射 ***"
+    }
   },
   "*** DONT DEFENDS, RUN RUN ***": {
-    "translation": "*** 不要防守，快跑快跑 ***"
+    "translation": "*** 不要防守，快跑快跑 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 防御不要、逃げろ ***",
+      "CN": "*** 别守了，快跑！ ***",
+      "KR": "*** 방어하지 말고 도망가세요 ***",
+      "TW": "*** 別防守了，快跑快跑 ***"
+    }
   },
   "*** DOOR OPENING ***": {
-    "translation": "*** 门正在打开 ***"
+    "translation": "*** 门正在打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開く ***",
+      "CN": "*** 门已开启 ***",
+      "KR": "*** 문 열림 ***",
+      "TW": "*** 門正在開啟 ***"
+    }
   },
   "*** FINAL DOOR CLOSES IN TO 20 SECONDS ***": {
-    "translation": "*** 最终门将在20秒后关闭 ***"
+    "translation": "*** 最终门将在20秒后关闭 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最終ドアが20秒後に閉じます ***",
+      "CN": "*** 最终门锁将在20秒后关闭 ***",
+      "KR": "*** 최종 문이 20초 안에 닫힙니다 ***",
+      "TW": "*** 最終的大門將在 20 秒後關閉 ***"
+    }
   },
   "*** FINAL DOOR CLOSES IN TO 5 SECONDS ***": {
-    "translation": "*** 最终门将在5秒后关闭 ***"
+    "translation": "*** 最终门将在5秒后关闭 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最終ドアが5秒後に閉じます ***",
+      "CN": "*** 最终门锁将在5秒后关闭 ***",
+      "KR": "*** 최종 문이 5초 만에 닫힙니다 ***",
+      "TW": "*** 最終的大門將在 5 秒後關閉 ***"
+    }
   },
   "*** LASER ACTIVATED ***": {
-    "translation": "*** 激光已激活 ***"
+    "translation": "*** 激光已激活 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザー作動中 ***",
+      "CN": "*** 激光已激活 ***",
+      "KR": "*** 레이저 작동 중 ***",
+      "TW": "*** 雷射觸發 ***"
+    }
   },
   "*** LASER RETURN ***": {
-    "translation": "*** 激光返回 ***"
+    "translation": "*** 激光返回 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザー戻し ***",
+      "CN": "*** 激光返回 ***",
+      "KR": "*** 레이저 복귀 ***",
+      "TW": "*** 雷射歸位 ***"
+    }
   },
   "*** PRESS THE DOOR OPEN BUTTON ***": {
-    "translation": "*** 按下门开启按钮 ***"
+    "translation": "*** 按下门开启按钮 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア開ボタンを押せ ***",
+      "CN": "*** 按开门按钮 ***",
+      "KR": "*** 문 열기 버튼을 누르세요 ***",
+      "TW": "*** 按下開門按鈕 ***"
+    }
   },
   "*** PRESS TO BUTTON ***": {
-    "translation": "*** 按下按钮 ***"
+    "translation": "*** 按下按钮 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ボタンを押せ ***",
+      "CN": "*** 按下按钮 ***",
+      "KR": "*** 버튼을 누르세요 ***",
+      "TW": "*** 按下按鈕 ***"
+    }
   },
   "*** RUN RUN ***": {
-    "translation": "*** 快跑快跑 ***"
+    "translation": "*** 快跑快跑 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 走れ ***",
+      "CN": "*** 奔跑 ***",
+      "KR": "*** 달리기 실패 ***",
+      "TW": "*** 跑跑跑 ***"
+    }
   },
   "*** THE DOOR CLOSING ***": {
-    "translation": "*** 门正在关闭 ***"
+    "translation": "*** 门正在关闭 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア閉まる ***",
+      "CN": "*** 门正在关闭 ***",
+      "KR": "*** 문 닫힘 중 ***",
+      "TW": "*** 門正在關閉 ***"
+    }
   },
   "*** THE DOOR OPENING ***": {
-    "translation": "*** 门正在打开 ***"
+    "translation": "*** 门正在打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア開く ***",
+      "CN": "*** 门正在打开 ***",
+      "KR": "*** 문 열림 중 ***",
+      "TW": "*** 門正在開啟 ***"
+    }
   },
   "*** THE LASER DOOR OPENING ***": {
-    "translation": "*** 激光门正在打开 ***"
+    "translation": "*** 激光门正在打开 ***",
+    "MultiLang": {
+      "US": "*** LASER DOOR Opening ***",
+      "JP": "*** レーザー扉、開く ***",
+      "CN": "*** 激光门正在打开 ***",
+      "KR": "*** 레이저 문 열림 중 ***",
+      "TW": "*** 雷射門正在開啟 ***"
+    }
   },
   "*** The Elevator moving, GO BACK ***": {
-    "translation": "*** 电梯正在移动，撤退 ***"
+    "translation": "*** 电梯正在移动，撤退 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーター移動中。戻ってください ***",
+      "CN": "*** 电梯即将启动，请退回 ***",
+      "KR": "*** 엘리베이터가 이동 중입니다. 뒤로 물러나세요. ***",
+      "TW": "*** 電梯移動中，請回到安全區 ***"
+    }
   },
   "*** The door will open in 30 seconds ***": {
-    "translation": "*** 门将在30秒后打开 ***"
+    "translation": "*** 门将在30秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後に扉が開きます ***",
+      "CN": "*** 门将在30秒后打开 ***",
+      "KR": "*** 문이 30초 후에 열립니다. ***",
+      "TW": "*** 門將在30秒後開啟 ***"
+    }
   },
   "*** The elevator will move in 25 seconds ***": {
-    "translation": "*** 电梯将在25秒后移动 ***"
+    "translation": "*** 电梯将在25秒后移动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒後に出発します ***",
+      "CN": "*** 电梯将在25秒后启动 ***",
+      "KR": "*** 엘리베이터가 25초 후에 이동합니다. ***",
+      "TW": "*** 電梯將在25秒後移動 ***"
+    }
   },
   "*** WALL IS BREAK, LETS GOO ***": {
-    "translation": "*** 墙裂了，快走 ***"
+    "translation": "*** 墙裂了，快走 ***",
+    "MultiLang": {
+      "US": "*** WALL IS DOWN, LET'S GOO ***",
+      "JP": "*** 壁崩壊完了、突入せよ ***",
+      "CN": "*** 墙壁破裂，请通过 ***",
+      "KR": "*** 벽이 무너집니다, 가자! ***",
+      "TW": "*** 牆壁已破壞，快衝 ***"
+    }
   },
   "*** ZOMBIE TELEPORT 10 SECONDS ***": {
-    "translation": "*** 僵尸传送将在10秒后进行 ***"
+    "translation": "*** 僵尸传送将在10秒后进行 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビテレポート10秒後 ***",
+      "CN": "*** 僵尸传送倒计时：10秒 ***",
+      "KR": "*** 좀비 텔레포트 10초 남음. ***",
+      "TW": "*** 殭屍瞬移倒計時10秒 ***"
+    }
   },
   "*** ZOMBIE TELEPORT 10 SECONDS, GO BACK ***": {
-    "translation": "*** 僵尸传送将在10秒后，撤退 ***"
+    "translation": "*** 僵尸传送将在10秒后，撤退 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビテレポート10秒後、撤退せよ ***",
+      "CN": "*** 僵尸传送倒计时：10秒，请退回 ***",
+      "KR": "*** 좀비 텔레포트 10초, 뒤로 물러나세요. ***",
+      "TW": "*** 殭屍瞬移倒計時10秒，請退回安全區 ***"
+    }
   },
   "*** ZOMBIE TELEPORT 5 SECONDS, GO BACK ***": {
-    "translation": "*** 僵尸传送将在5秒后，撤退 ***"
+    "translation": "*** 僵尸传送将在5秒后，撤退 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビテレポート5秒後、撤退せよ ***",
+      "CN": "*** 僵尸传送倒计时：5秒，请退回 ***",
+      "KR": "*** 좀비 텔레포트 5초, 뒤로 물러나세요. ***",
+      "TW": "*** 殭屍瞬移倒計時5秒，請退回安全區 ***"
+    }
   },
   "*** Zombie detected in the test area. Mission failed. ***": {
-    "translation": "*** 测试区域检测到僵尸。任务失败。 ***"
+    "translation": "*** 测试区域检测到僵尸。任务失败。 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** テストエリアにゾンビを検出。ミッション失敗 ***",
+      "CN": "*** 测试区域检测到僵尸。任务失败。 ***",
+      "KR": "*** 테스트 지역에 좀비 감지. 미션 실패. ***",
+      "TW": "*** 檢測區域內發現殭屍，任務失敗。 ***"
+    }
   },
   "*** barrier opened go go ***": {
-    "translation": "*** 障碍已清除，快走 ***"
+    "translation": "*** 障碍已清除，快走 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "barriers 開いた 行け",
+      "CN": "*** 护盾开启，冲啊 ***",
+      "KR": "*** 장벽 열림, 가자 가자 ***",
+      "TW": "*** 屏障開啟，快衝 ***"
+    }
   },
   "*** defend door to 20 seconds ***": {
-    "translation": "*** 防守门20秒 ***"
+    "translation": "*** 防守门20秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉を守れ 20秒間",
+      "CN": "*** 守门至剩余20秒 ***",
+      "KR": "*** 20초간 문 방어 ***",
+      "TW": "*** 守門剩20秒 ***"
+    }
   },
   "*** defend door to 40 seconds ***": {
-    "translation": "*** 防守门40秒 ***"
+    "translation": "*** 防守门40秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉を守れ 40秒間",
+      "CN": "*** 守门至剩余40秒 ***",
+      "KR": "*** 40초간 문 방어 ***",
+      "TW": "*** 守門剩40秒 ***"
+    }
   },
   "*** defend to 30 seconds ***": {
-    "translation": "*** 防守30秒 ***"
+    "translation": "*** 防守30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "守れ 30秒間",
+      "CN": "*** 防守至剩余30秒 ***",
+      "KR": "*** 30초간 방어 ***",
+      "TW": "*** 防守剩30秒 ***"
+    }
   },
   "*** defend to 50 seconds ***": {
-    "translation": "*** 防守50秒 ***"
+    "translation": "*** 防守50秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "守れ 50秒間",
+      "CN": "*** 防守至剩余50秒 ***",
+      "KR": "*** 50초간 방어 ***",
+      "TW": "*** 防守剩50秒 ***"
+    }
   },
   "*** door opening go go ***": {
-    "translation": "*** 门正在打开，快走 ***"
+    "translation": "*** 门正在打开，快走 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉 開いた 行け",
+      "CN": "*** 门已开启，冲啊 ***",
+      "KR": "*** 문 열림, 가자 가자 ***",
+      "TW": "*** 大門開啟，快衝 ***"
+    }
   },
   "*** follow the path above ***": {
-    "translation": "*** 沿着上面的路走 ***"
+    "translation": "*** 沿着上面的路走 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "上の道に従え",
+      "CN": "*** 沿上方路径前进 ***",
+      "KR": "*** 위의 길을 따라가세요 ***",
+      "TW": "*** 沿上方路徑前進 ***"
+    }
   },
   "Map Creator : Platin": {
-    "translation": "地图作者：Platin 翻译：Asteri3m"
+    "translation": "地图作者：Platin 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップクリエイター：Platin",
+      "CN": "地图创作者：Platin",
+      "KR": "맵 크리에이터 : Platin",
+      "TW": "地圖製作人：Platin"
+    }
   },
   "RUN !!!": {
-    "translation": "快跑！！！"
+    "translation": "快跑！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "走れ！！！",
+      "CN": "快跑！！！",
+      "KR": "도주 !!!",
+      "TW": "快跑！"
+    }
   },
   "Test Server : Mapeadores | GFL": {
-    "translation": "测试服务器：Mapeadores | GFL"
+    "translation": "测试服务器：Mapeadores | GFL",
+    "MultiLang": {
+      "US": "",
+      "JP": "テストサーバー：マップ制作 | GFL",
+      "CN": "测试服务器：地图制作者 | GFL",
+      "KR": "테스트 서버 : 매퍼 | GFL",
+      "TW": "測試伺服器：Mapeadores | GFL"
+    }
   }
 }

@@ -1,291 +1,962 @@
 {
   "** MAP BY P'A'SS AND KIM !!! **": {
-    "translation": "** 地图由 P'a'ss 和 Kim 制作!!!**"
+    "translation": "** 地图由 P'a'ss 和 Kim 制作!!!**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** MAP BY P'A'SS AND KIM !!! **",
+      "CN": "** P'A'SS和KIM制作的地形 **",
+      "KR": "** P'A'SS와 KIM의 맵입니다! **",
+      "TW": "** P'A'SS 與 KIM 的 MAP **"
+    }
   },
   "** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **": {
-    "translation": "** 你已全图通关，恭喜 !!! **"
+    "translation": "** 你已全图通关，恭喜 !!! **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **",
+      "CN": "** 恭喜您已通关此地形！**",
+      "KR": "** 맵을 클리어했습니다. 축하합니다! **",
+      "TW": "** 恭喜通關！ **"
+    }
   },
   "*** Door opens in 25 seconds! ***": {
-    "translation": "*** 门将在25秒内打开！ ***"
+    "translation": "*** 门将在25秒内打开！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Door opens in 25 seconds! ***",
+      "CN": "*** 门将在25秒后开启！***",
+      "KR": "*** 문이 25초 후에 열립니다! ***",
+      "TW": "*** 門將在 25 秒後開啟 ***"
+    }
   },
   "*** Door opens in 30 seconds ***": {
-    "translation": "*** 门将在30秒内打开 ***"
+    "translation": "*** 门将在30秒内打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Door opens in 30 seconds ***",
+      "CN": "*** 门将在30秒后开启 ***",
+      "KR": "*** 문이 30초 후에 열립니다 ***",
+      "TW": "*** 門將在 30 秒後開啟 ***"
+    }
   },
   "*** Door should open soon! ***": {
-    "translation": "*** 门应该很快就会打开！ ***"
+    "translation": "*** 门应该很快就会打开！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Door should open soon! ***",
+      "CN": "*** 门即将开启！***",
+      "KR": "*** 문이 곧 열립니다! ***",
+      "TW": "*** 門即將開啟 ***"
+    }
   },
   "*** Door will open in 25 seconds ***": {
-    "translation": "*** 门将在25秒内打开 ***"
+    "translation": "*** 门将在25秒内打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Door will open in 25 seconds ***",
+      "CN": "*** 门将在25秒后开启 ***",
+      "KR": "*** 문이 25초 후에 열립니다 ***",
+      "TW": "*** 門將在 25 秒後開啟 ***"
+    }
   },
   "*** Door will open in 30 seconds ***": {
-    "translation": "*** 门将在30秒内打开 ***"
+    "translation": "*** 门将在30秒内打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Door will open in 30 seconds ***",
+      "CN": "*** 门将在30秒后开启 ***",
+      "KR": "*** 문이 30초 후에 열립니다 ***",
+      "TW": "*** 門將在 30 秒後開啟 ***"
+    }
   },
   "*** FALL BACK ***": {
-    "translation": "*** 撤退 ***"
+    "translation": "*** 撤退 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** FALL BACK ***",
+      "CN": "*** 撤退 ***",
+      "KR": "*** 후퇴 ***",
+      "TW": "*** 撤退 ***"
+    }
   },
   "*** Find a way to fix it! ***": {
-    "translation": "*** 找到修复它的方法！ ***"
+    "translation": "*** 找到修复它的方法！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 直す方法を見つけろ！***",
+      "CN": "*** 想办法修复它！***",
+      "KR": "*** 방법을 찾아서 고쳐라! ***",
+      "TW": "*** 設法修復它！***"
+    }
   },
   "*** Good job ***": {
     "translation": "*** 干得好 ***",
-    "ClearTimer": true
+    "MultiLang": {
+      "US": "",
+      "JP": "*** よくやった ***",
+      "CN": "*** 干得好 ***",
+      "KR": "*** 훌륭해 ***",
+      "TW": "*** 做得好 ***"
+    }
   },
   "*** Hold for 25 seconds ***": {
-    "translation": "*** 防守25秒 ***"
+    "translation": "*** 防守25秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒間維持せよ ***",
+      "CN": "*** 坚守25秒 ***",
+      "KR": "*** 25초 동안 유지하기 ***",
+      "TW": "*** 堅持 25 秒 ***"
+    }
   },
   "*** Hold for 45 seconds OR find a way to make it open faster ***": {
-    "translation": "*** 防守45秒 或 找到一个让它更快打开的方法 ***"
+    "translation": "*** 防守45秒 或 找到一个让它更快打开的方法 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 45秒間維持するか、より早く開く方法を見つけよ ***",
+      "CN": "*** 坚守45秒，或者想办法让它更快打开 ***",
+      "KR": "*** 45초 동안 유지하거나, 빨리 열리는 방법을 찾기 ***",
+      "TW": "*** 堅持 45 秒，或設法加快開門速度 ***"
+    }
   },
   "*** Hold for just 25 seconds more! ***": {
-    "translation": "*** 再防守25秒就行了！ ***"
+    "translation": "*** 再防守25秒就行了！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** あと25秒だけ維持しろ！***",
+      "CN": "*** 再多坚守25秒！***",
+      "KR": "*** 추가로 단 25초만 버텨라! ***",
+      "TW": "*** 再堅持 25 秒！***"
+    }
   },
   "*** Hold the bridges for 30 seconds *** ": {
-    "translation": "*** 防守桥梁30秒 ***"
+    "translation": "*** 防守桥梁30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 橋を30秒間維持せよ ***",
+      "CN": "*** 坚守桥梁30秒 ***",
+      "KR": "*** 교량을 30초 동안 방어하기 ***",
+      "TW": "*** 守住橋樑 30 秒 ***"
+    }
   },
   "*** Hold the cave for 30 seconds ***": {
-    "translation": "*** 防守洞穴30秒 ***"
+    "translation": "*** 防守洞穴30秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 洞窟を30秒間維持せよ ***",
+      "CN": "*** 坚守洞穴30秒 ***",
+      "KR": "*** 동굴을 30초 동안 방어하기 ***",
+      "TW": "*** 守住洞穴 30 秒 ***"
+    }
   },
   "*** Kill the remaining zombies! ***": {
-    "translation": "*** 杀死剩余的僵尸！ ***"
+    "translation": "*** 杀死剩余的僵尸！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残りのゾンキーを倒せ！***",
+      "CN": "*** 消灭剩余的僵尸！***",
+      "KR": "*** 남은 좀비를 제거하라! ***",
+      "TW": "*** 消滅剩餘的殭屍！***"
+    }
   },
   "*** Lever has been pulled! ***": {
-    "translation": "*** 杠杆已被拉下！ ***"
+    "translation": "*** 杠杆已被拉下！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レバーが引かれた！ ***",
+      "CN": "*** 拉杆已被拉动！ ***",
+      "KR": "*** 레버가 당겨졌습니다! ***",
+      "TW": "*** 拉桿已被拉下！***"
+    }
   },
   "*** Map By P'a'ss and Kim ***": {
-    "translation": "*** 地图由 P'a'ss 和 Kim 制作 ***"
+    "translation": "*** 地图由 P'a'ss 和 Kim 制作 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MAP制作：P'a'ss、Kim ***",
+      "CN": "*** 地图绘制：P'a'ss & Kim ***",
+      "KR": "*** 지면 제작: P'a'ss 및 Kim ***",
+      "TW": "*** 地圖由 P'a'ss 和 Kim 製作 ***"
+    }
   },
   "*** Seems like the lever is broken ***": {
-    "translation": "*** 看起来杠杆坏了 ***"
+    "translation": "*** 看起来杠杆坏了 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レバーが壊れているようです ***",
+      "CN": "*** 看来拉杆已经损坏了。***",
+      "KR": "*** 레버가 고장난 것 같습니다 ***",
+      "TW": "*** 看來拉桿壞掉了 ***"
+    }
   },
   "*** Stage Completed ***": {
-    "translation": "*** 关卡完成 ***"
+    "translation": "*** 关卡完成 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ステージクリア ***",
+      "CN": "*** 关卡完成 ***",
+      "KR": "*** 스테이지 완료 ***",
+      "TW": "*** 關卡完成 ***"
+    }
   },
   "*** Stage completed! ***": {
-    "translation": "*** 关卡完成！ ***"
+    "translation": "*** 关卡完成！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ステージクリア！ ***",
+      "CN": "*** 关卡已完成！***",
+      "KR": "*** 스테이지 완료! ***",
+      "TW": "*** 關卡完成！***"
+    }
   },
   "*** THE ELDER SCROLL MADE IT TO THE END ***": {
-    "translation": "*** 上古卷轴已带到终点 ***"
+    "translation": "*** 上古卷轴已带到终点 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エルダースクリプトは目的地に到達しました ***",
+      "CN": "*** 《上古卷轴》已送达终点 ***",
+      "KR": "*** 시대의 스크롤이 최종 지점에 도달했습니다 ***",
+      "TW": "***  Elder Scroll 已到達終點 ***"
+    }
   },
   "*** The doors will now open a bit faster! ***": {
-    "translation": "*** 门现在会快一点打开！ ***"
+    "translation": "*** 门现在会快一点打开！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 今からドアの開閉速度が速くなります！ ***",
+      "CN": "*** 门现在开得更轻快了！***",
+      "KR": "*** 이제 문이 조금 더 빨리 열립니다! ***",
+      "TW": "*** 門的開啟速度現在會變快一點！***"
+    }
   },
   "*** There should be a switch for that door somewhere! ***": {
-    "translation": "*** 那扇门应该有一个开关在某处！ ***"
+    "translation": "*** 那扇门应该有一个开关在某处！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** そのドアのスイッチはあるはずです！ ***",
+      "CN": "*** 这扇门附近应该有个机关吧！***",
+      "KR": "*** 그 문의 스위스가 어딘가 있을 것입니다! ***",
+      "TW": "*** 那扇門附近應該有個開關！***"
+    }
   },
   "*** We got the key! ***": {
-    "translation": "*** 我们拿到钥匙了！ ***"
+    "translation": "*** 我们拿到钥匙了！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 鍵を手に入れた！ ***",
+      "CN": "***我们拿到钥匙了！***",
+      "KR": "*** 키를 얻었습니다! ***",
+      "TW": "*** 拿到鑰匙了！ ***"
+    }
   },
   "*** YOU CAN NOW USE IT ON NEXT STAGE ***": {
-    "translation": "*** 你现在可以在下一关卡使用它 ***"
+    "translation": "*** 你现在可以在下一关卡使用它 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 次にこのステージでこれを使えます ***",
+      "CN": "***你现在可以在下一个关卡使用它***",
+      "KR": "*** 이제 다음 스테이지에서 사용할 수 있습니다. ***",
+      "TW": "*** 你現在可以下一個關卡使用了 ***"
+    }
   },
   "*** You have found the switch! ***": {
-    "translation": "*** 你找到了开关！ ***"
+    "translation": "*** 你找到了开关！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** スイッチを見つけました！ ***",
+      "CN": "***你发现了开关！***",
+      "KR": "*** 스위치를 발견하셨습니다! ***",
+      "TW": "*** 你找到開關了！ ***"
+    }
   },
   ">> Admin Pressed Kill All button! <<": {
-    "translation": ">> 管理员按下了全部杀死按钮！ <<"
+    "translation": ">> 管理员按下了全部杀死按钮！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理者が全殺ボタンを押しました！ <<",
+      "CN": ">> 管理员按下了全体击杀按钮！<<",
+      "KR": ">> 관리자가 '모두 제거' 버튼을 눌렀습니다! <<",
+      "TW": ">> 管理員按下全滅按鈕！ <<"
+    }
   },
   ">> City door opens in 25 seconds! <<": {
-    "translation": ">> 城市门将在25秒内打开！ <<"
+    "translation": ">> 城市门将在25秒内打开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 市内のドアが25秒後に開きます！ <<",
+      "CN": ">> 城门将在25秒后开启！<<",
+      "KR": ">> 성문 25초 후 개방! <<",
+      "TW": ">> 城門將在 25 秒後開啟！ <<"
+    }
   },
   ">> City door opens in 35 seconds! <<": {
-    "translation": ">> 城市门将在35秒内打开！ <<"
+    "translation": ">> 城市门将在35秒内打开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 市内のドアが35秒後に開きます！ <<",
+      "CN": ">> 城门将在35秒后开启！<<",
+      "KR": ">> 성문 35초 후 개방! <<",
+      "TW": ">> 城門將在 35 秒後開啟！ <<"
+    }
   },
   ">> City gate closes in 50 seconds <<": {
-    "translation": ">> 海尔根堡垒的大门将在50秒内关闭 <<"
+    "translation": ">> 海尔根堡垒的大门将在50秒内关闭 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 市の門が50秒後に閉まります <<",
+      "CN": ">> 城门将在50秒后关闭 <<",
+      "KR": ">> 성문 50초 후 폐쇄 <<",
+      "TW": ">> 城門將在 50 秒後關閉 <<"
+    }
   },
   ">> Defend the bridge don't let the zombies on the other side! <<": {
-    "translation": ">> 防守桥梁，不要让僵尸到达另一边！ <<"
+    "translation": ">> 防守桥梁，不要让僵尸到达另一边！ <<",
+    "MultiLang": {
+      "US": ">> Defend the bridge don't let the zombies across! <<",
+      "JP": ">> 橋を守れ！向こう側からゾンジが来させないでくれ！ <<",
+      "CN": ">> 守住这座桥，别让对岸的丧尸过来！<<",
+      "KR": ">> 다리를 방어하세요! zombies가 반대편으로 넘어가지 못하게 하세요! <<",
+      "TW": ">> 防守橋樑，別讓另一側的殭屍過來！ <<"
+    }
   },
   ">> Defend the bridge until door opens! <<": {
-    "translation": ">> 30秒，防守桥梁，直到门打开！ <<"
+    "translation": ">> 30秒，防守桥梁，直到门打开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドアが開くまで橋を守れ！ <<",
+      "CN": ">> 守到门打开为止！ <<",
+      "KR": ">> 문이 열릴 때까지 다리를 방어하십시오! <<",
+      "TW": ">> 守衛橋樑直到門打開！<<"
+    }
   },
   ">> Defend until someone gets the key from the other room! <<": {
-    "translation": ">> 防守，直到有人从另一个房间拿到钥匙！ <<"
+    "translation": ">> 防守，直到有人从另一个房间拿到钥匙！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 他の部屋からキーを持つ者が来るまで守れ！ <<",
+      "CN": ">> 守到有人从另一个房间拿到钥匙！ <<",
+      "KR": ">> 다른 방에서 키를 가져오는 사람이 있을 때까지 방어하십시오! <<",
+      "TW": ">> 防守到有人從另一個房間拿到鑰匙為止！<<"
+    }
   },
   ">> Door Closes in 15 seconds <<": {
-    "translation": ">> 门将在15秒内关闭 <<"
+    "translation": ">> 门将在15秒内关闭 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドアが閉じるまで15秒 <<",
+      "CN": ">> 门将在15秒后关闭 <<",
+      "KR": ">> 문이 15초 후 닫힙니다 <<",
+      "TW": ">> 門將在 15 秒後關閉 <<"
+    }
   },
   ">> Door Closes in 25 seconds <<": {
-    "translation": ">> 门将在25秒内关闭 <<"
+    "translation": ">> 门将在25秒内关闭 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドアが閉じるまで25秒 <<",
+      "CN": ">> 门将在25秒后关闭 <<",
+      "KR": ">> 문이 25초 후 닫힙니다 <<",
+      "TW": ">> 門將在 25 秒後關閉 <<"
+    }
   },
   ">> Door Closes in 5 seconds <<": {
-    "translation": ">> 门将在5秒内关闭 <<"
+    "translation": ">> 门将在5秒内关闭 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドアが閉じるまで5秒 <<",
+      "CN": ">> 门将在5秒后关闭 <<",
+      "KR": ">> 문이 5초 후 닫힙니다 <<",
+      "TW": ">> 門將在 5 秒後關閉 <<"
+    }
   },
   ">> Door Opens In 20 Seconds! <<": {
-    "translation": ">> 门将在20秒内打开！ <<"
+    "translation": ">> 门将在20秒内打开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドアは20秒後に開く！ <<",
+      "CN": ">> 门将于20秒后打开！ <<",
+      "KR": ">> 20초 후 문이 열립니다! <<",
+      "TW": ">> 門在 20 秒後打開！<<"
+    }
   },
   ">> Door Opens in 20 seconds! <<": {
-    "translation": ">> 门将在20秒内打开！ <<"
+    "translation": ">> 门将在20秒内打开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドアは20秒後に開く <<",
+      "CN": ">> 门将于20秒后打开 <<",
+      "KR": ">> 20초 후 문이 열립니다! <<",
+      "TW": ">> 門在 20 秒後打開 <<"
+    }
   },
   ">> Door Opens in 45 seconds <<": {
-    "translation": ">> 门将在45秒内打开 <<"
+    "translation": ">> 门将在45秒内打开 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドアは45秒後に開く <<",
+      "CN": ">> 门将于45秒后打开 <<",
+      "KR": ">> 45초 후 문이 열립니다 <<",
+      "TW": ">> 門在 45 秒後關閉 <<"
+    }
   },
   ">> Dragon has been spotted outside Whiterun! <<": {
-    "translation": ">> 在雪漫城外发现龙！ <<"
+    "translation": ">> 在雪漫城外发现龙！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>白馬砦の付近にドラゴン出現！<<",
+      "CN": ">>白漫城外发现了巨龙！<<",
+      "KR": ">> 드래곤이 화이트런 외부에서 목격되었습니다! <<",
+      "TW": ">> 巨龍出現在風盔城外！ <<"
+    }
   },
   ">> Elevator is leaving! <<": {
-    "translation": ">> 电梯正在离开！ <<"
+    "translation": ">> 电梯正在离开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>エレベーター、発車します！<<",
+      "CN": ">>电梯即将离开！<<",
+      "KR": ">> 엘리베이터가 출발합니다! <<",
+      "TW": ">> 電梯即將離開！ <<"
+    }
   },
   ">> Elevator leaves in 10 seconds! <<": {
-    "translation": ">> 电梯将在10秒内离开！ <<"
+    "translation": ">> 电梯将在10秒内离开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>エレベーター、10秒で発車！<<",
+      "CN": ">>电梯将于10秒后离开！<<",
+      "KR": ">> 엘리베이터가 10초 후에 출발합니다! <<",
+      "TW": ">> 电梯還有10秒後離開！ <<"
+    }
   },
   ">> Elevator leaves in 20 seconds! <<": {
-    "translation": ">> 电梯将在20秒内离开！ <<"
+    "translation": ">> 电梯将在20秒内离开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>エレベーター、20秒で発車！<<",
+      "CN": ">>电梯将于20秒后离开！<<",
+      "KR": ">> 엘리베이터가 20초 후에 출발합니다! <<",
+      "TW": ">> 电梯還有20秒後離開！ <<"
+    }
   },
   ">> Elevator leaves in 30 seconds! <<": {
-    "translation": ">> 电梯将在30秒内离开！ <<"
+    "translation": ">> 电梯将在30秒内离开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>エレベーター、30秒で発車！<<",
+      "CN": ">>电梯将于30秒后离开！<<",
+      "KR": ">> 엘리베이터가 30초 후에 출발합니다! <<",
+      "TW": ">> 电梯還有30秒後離開！ <<"
+    }
   },
   ">> Elevator leaves in 5 seconds! <<": {
-    "translation": ">> 电梯将在5秒内离开！ <<"
+    "translation": ">> 电梯将在5秒内离开！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>エレベーター、5秒で発車！<<",
+      "CN": ">>电梯将于5秒后离开！<<",
+      "KR": ">> 엘리베이터가 5초 후에 출발합니다! <<",
+      "TW": ">> 电梯還有5秒後離開！ <<"
+    }
   },
   ">> Exit through the secret door! <<": {
-    "translation": ">> 通过秘密门出口！ <<"
+    "translation": ">> 通过秘密门出口！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>隠し扉から脱出せよ！<<",
+      "CN": ">>从密门离开！<<",
+      "KR": ">> 비밀 문으로 나가십시오! <<",
+      "TW": ">> 通過密道出口！ <<"
+    }
   },
   ">> Fall Back Now! <<": {
-    "translation": ">> 现在后撤！ <<"
+    "translation": ">> 现在后撤！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>今すぐ後退！<<",
+      "CN": ">>立即撤退！<<",
+      "KR": ">> 즉시 후퇴하십시오! <<",
+      "TW": ">> 現在撤退！ <<"
+    }
   },
   ">> Fall back Now!! <<": {
-    "translation": ">> 现在后撤！！ <<"
+    "translation": ">> 现在后撤！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 今すぐ後退せよ！！ <<",
+      "CN": ">> 立即撤退！<<",
+      "KR": ">> 지금 후퇴함!! <<",
+      "TW": ">> 立即後撤！！ <<"
+    }
   },
   ">> Find a way to open the Door! <<": {
-    "translation": ">> 找到打开门的方法！ <<"
+    "translation": ">> 找到打开门的方法！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 扉を開ける方法を見つけろ！ <<",
+      "CN": ">> 想办法打开门！<<",
+      "KR": ">> 문을 여는 방법을 찾아라! <<",
+      "TW": ">> 想辦法打開大門！ <<"
+    }
   },
   ">> Go Downstairs to the Treasure room and take the Elder Scroll! <<": {
-    "translation": ">> 下楼到宝藏房拿上古卷轴！ <<"
+    "translation": ">> 下楼到宝藏房拿上古卷轴！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 階下にある宝物の部屋に行き、エーダー・スカラーを持っていけ！ <<",
+      "CN": ">> 下楼去珍宝室，拿取古籍卷轴！<<",
+      "KR": ">> 아랫층의 보물 방으로 가서 elder scroll을 가져오라! <<",
+      "TW": ">> 到樓下的藏寶室拿取長老卷轴！ <<"
+    }
   },
   ">> Go through the balcony door! <<": {
-    "translation": ">> 通过阳台门！ <<"
+    "translation": ">> 通过阳台门！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> バルコニーの扉を通れ！ <<",
+      "CN": ">> 穿过阳台的门！<<",
+      "KR": ">> 발코니 문으로 들어가라! <<",
+      "TW": ">> 穿過陽台的門！ <<"
+    }
   },
   ">> Go through the house to the sewers! <<": {
-    "translation": ">> 穿过房子到下水道！ <<"
+    "translation": ">> 穿过房子到下水道！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 家を通って下水道へ進め！ <<",
+      "CN": ">> 穿过房子去下水道！<<",
+      "KR": ">> 집을 지나 하수도로 가라! <<",
+      "TW": ">> 穿過房子進入下水道！ <<"
+    }
   },
   ">> HOLD THEM BACK! <<": {
-    "translation": ">> 挡住他们！ <<"
+    "translation": ">> 挡住他们！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 敵を止まれ！ <<",
+      "CN": ">> 坚持住！<<",
+      "KR": ">> 그들을 막아내라! <<",
+      "TW": ">> 抵擋他們！ <<"
+    }
   },
   ">> Hold here for 30 seconds! <<": {
-    "translation": ">> 在这里防守30秒！ <<"
+    "translation": ">> 在这里防守30秒！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒間ここを守れ！ <<",
+      "CN": ">> 坚守阵地30秒！<<",
+      "KR": ">> 30초 동안 이 위치를 방어하라! <<",
+      "TW": ">> 在這裡堅持 30 秒！ <<"
+    }
   },
   ">> Hold the zombies back until the teleporter activates! <<": {
-    "translation": ">> 阻止僵尸，直到传送器激活！ <<"
+    "translation": ">> 阻止僵尸，直到传送器激活！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テレポート装置が作動するまでゾンビを止まれ！ <<",
+      "CN": ">> 阻挡丧尸，直到传送装置启动！<<",
+      "KR": ">> 텔레포터가 작동할 때까지 좀비를 막아내라! <<",
+      "TW": ">> 抵擋殭屍，直到傳送器啟動！ <<"
+    }
   },
   ">> Hold them back for 25 more seconds! <<": {
-    "translation": ">> 再防守25秒！ <<"
+    "translation": ">> 再防守25秒！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "あと25秒間持ちこたえろ！",
+      "CN": "再坚持25秒！",
+      "KR": ">>あと 25 초 더 버티세요! <<",
+      "TW": ">> 再堅持 25 秒！ <<"
+    }
   },
   ">> IT'S A DRAGON! <<": {
-    "translation": ">> 是一条龙！ <<"
+    "translation": ">> 是一条龙！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドラゴンだ！",
+      "CN": "是条龙！",
+      "KR": ">> 드래곤이야! <<",
+      "TW": ">> 是巨龍！ <<"
+    }
   },
   ">> Keep Defending! <<": {
-    "translation": ">> 继续防守！ <<"
+    "translation": ">> 继续防守！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "防御を続けろ！",
+      "CN": "继续防守！",
+      "KR": ">> 수비를 계속하세요! <<",
+      "TW": ">> 繼續防禦！ <<"
+    }
   },
   ">> Kill The Remaining Zombie! <<": {
-    "translation": ">> 杀死剩余的僵尸！ <<"
+    "translation": ">> 杀死剩余的僵尸！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残りのゾンキルを倒せ！",
+      "CN": "消灭剩余僵尸！",
+      "KR": ">> 남은 좀비 하나 처치!! <<",
+      "TW": ">> 殲滅剩餘殭屍！ <<"
+    }
   },
   ">> Kill The Remaining Zombies! <<": {
-    "translation": ">> 杀死剩余的僵尸！ <<"
+    "translation": ">> 杀死剩余的僵尸！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残りのゾンビを倒せ！",
+      "CN": "消灭剩余僵尸！",
+      "KR": ">> 남은 좀비들 처치!! <<",
+      "TW": ">> 殲滅剩餘殭屍們！ <<"
+    }
   },
   ">> Kill the Dragonpriest! <<": {
-    "translation": ">> 杀死龙祭司！ <<"
+    "translation": ">> 杀死龙祭司！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドラゴンプリーストを倒せ！",
+      "CN": "击杀龙祭司！",
+      "KR": ">> 드래곤 사제 처치!! <<",
+      "TW": ">> 擊殺龍祭司！ <<"
+    }
   },
   ">> Kill the remaining Zombies! <<": {
-    "translation": ">> 杀死剩余的僵尸！ <<"
+    "translation": ">> 杀死剩余的僵尸！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残りのゾンビを倒せ！",
+      "CN": "消灭剩余僵尸！",
+      "KR": ">> 남은 좀비들 처치!! <<",
+      "TW": ">> 殲滅剩餘的殭屍！ <<"
+    }
   },
   ">> Lever has been pressed! <<": {
-    "translation": ">> 杠杆已被按下！ <<"
+    "translation": ">> 杠杆已被按下！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "レバーが押された！",
+      "CN": "已拉动杠杆！",
+      "KR": ">> 레버가 작동되었습니다! <<",
+      "TW": ">> 槓桿已按下！ <<"
+    }
   },
   ">> Run for the Mead Hall <<": {
-    "translation": ">> 前往主厅 <<"
+    "translation": ">> 前往主厅 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "メードホールのために走れ！",
+      "CN": ">> 奔向风之殿堂 <<",
+      "KR": ">> 맥당으로 돌진하라 <<",
+      "TW": ">> 衝向蜂蜜廳 <<"
+    }
   },
   ">> Run for the bridge of Dragons Reach!! <<": {
-    "translation": ">> 前往龙桥！ <<"
+    "translation": ">> 前往龙桥！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドラゴンズの橋の彼方へ急げ！！",
+      "CN": ">> 跑向龙之望的桥！！ <<",
+      "KR": ">> 드래곤 리치 교트로 돌진하라!! <<",
+      "TW": ">> 衝向龍淵橋！！ <<"
+    }
   },
   ">> Run for the helgen keep NOW! <<": {
-    "translation": ">> 撤回到海尔根堡垒内！ <<"
+    "translation": ">> 撤回到海尔根堡垒内！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "今すぐヘルゲン砦へ行け！",
+      "CN": ">> 立刻奔向海尔根要塞！ <<",
+      "KR": ">> 지금 바로 헬겐 요새로 돌진하라! <<",
+      "TW": ">> 現在立刻跑往赫爾根堡！ <<"
+    }
   },
   ">> Run towards the tower now! <<": {
-    "translation": ">> 现在前往塔楼！ <<"
+    "translation": ">> 现在前往塔楼！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "塔の方向へ突撃だ！",
+      "CN": ">> 现在跑向塔楼！ <<",
+      "KR": ">> 지금 바로 탑으로 향하라! <<",
+      "TW": ">> 現在衝向那座塔！ <<"
+    }
   },
   ">> SHOOT IT! <<": {
-    "translation": ">> 射击它！ <<"
+    "translation": ">> 射击它！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "撃て！",
+      "CN": ">> 射击！ <<",
+      "KR": ">> 쏴라! <<",
+      "TW": ">> 射啊！ <<"
+    }
   },
   ">> Stage 1 Helgen <<": {
-    "translation": ">> 关卡1 赫尔根 <<"
+    "translation": ">> 关卡1 赫尔根 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "フェーズ1 ヘルゲン",
+      "CN": ">> 第一幕：海尔根 <<",
+      "KR": ">> 스테이지 1 헬겐 <<",
+      "TW": ">> 第一關：赫爾根 <<"
+    }
   },
   ">> Stage 2 Whiterun <<": {
-    "translation": ">> 关卡2 雪漫城 <<"
+    "translation": ">> 关卡2 雪漫城 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "フェーズ2 ワイルダードーン",
+      "CN": ">> 第二幕：雪漫 <<",
+      "KR": ">> 스테이지 2 화이트런 <<",
+      "TW": ">> 第二關：白漫城 <<"
+    }
   },
   ">> Stage 3 Road To Dwemer Ruins <<": {
-    "translation": ">> 关卡3 前往矮人废墟 <<"
+    "translation": ">> 关卡3 前往矮人废墟 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "フェーズ3 ドウェマー遺跡への道",
+      "CN": ">> 第三幕：前往锻莫废墟的道路 <<",
+      "KR": ">> 스테이지 3 드웨머 유적지로 가는 길 <<",
+      "TW": ">> 第三關：通往達摩瑞遺跡的路 <<"
+    }
   },
   ">> Stage 4 Dwemer ruins <<": {
-    "translation": ">> 关卡4 矮人废墟 <<"
+    "translation": ">> 关卡4 矮人废墟 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 第4ステージ：ドワーレン遺跡 <<",
+      "CN": ">> 第四阶段：德文废墟 <<",
+      "KR": ">> 4관목 디메르 유적지 <<",
+      "TW": ">> 第四階德美瑞遺址 <<"
+    }
   },
   ">> Stage 5 Sovngarde <<": {
-    "translation": ">> 关卡5 松加德 <<"
+    "translation": ">> 关卡5 松加德 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 第5ステージ：ソブナールデ <<",
+      "CN": ">> 第五阶段：松加德 <<",
+      "KR": ">> 5관 소브نگ아드 <<",
+      "TW": ">> 第五階索芬加德 <<"
+    }
   },
   ">> Stage Completed! <<": {
-    "translation": ">> 关卡完成！ <<"
+    "translation": ">> 关卡完成！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ステージクリア！ <<",
+      "CN": ">> 关卡已完成！ <<",
+      "KR": ">> 관통 완료! <<",
+      "TW": ">> 階段完成！ <<"
+    }
   },
   ">> THE DRAGON IS GOING TO KILL US ALL !!! <<": {
-    "translation": ">> 龙将杀死我们所有人！！！ <<"
+    "translation": ">> 龙将杀死我们所有人！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 龍が我々みんなを殺す！！！！！",
+      "CN": ">> 巨龙将杀死我们所有人！！！ <<",
+      "KR": ">> 드래곤이 우리 모두를 죽이려 한다 !!! <<",
+      "TW": ">> 龍即將屠殺我們所有人！！！ <<"
+    }
   },
   ">> The dragon is fleeing! <<": {
-    "translation": ">> 龙正在逃跑！ <<"
+    "translation": ">> 龙正在逃跑！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 龍が逃げた！ <<",
+      "CN": ">> 巨龙正在逃离！ <<",
+      "KR": ">> 드래몬이 도주했다! <<",
+      "TW": ">> 巨龍正在逃竄！ <<"
+    }
   },
   ">> The dragon is fleeing! Run to the Helgen keep! <<": {
-    "translation": ">> 龙逃跑了！撤回到海尔根堡垒内防守！ <<"
+    "translation": ">> 龙逃跑了！撤回到海尔根堡垒内防守！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 龍が逃げた！ ヘルゲン城へ急げ！ <<",
+      "CN": ">> 巨龙正在逃离！快跑往海尔根城堡！ <<",
+      "KR": ">> 드래곤이 도주했다! 헬겐 요새로 이동하라! <<",
+      "TW": ">> 巨龍正在逃竄！快前往黑聖地堡壘！ <<"
+    }
   },
   ">> The teleporter is working JUMP INTO IT!  <<": {
-    "translation": ">> 传送器已开启，跳进去！ <<"
+    "translation": ">> 传送器已开启，跳进去！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> テレポート装置作動中 飛び込め！  <<",
+      "CN": ">> 传送器正在运行，跳进去！ <<",
+      "KR": ">> 텔레포터 작동 중 즉시 점프하라!  <<",
+      "TW": ">> 傳送門正在運作！跳進去！ <<"
+    }
   },
   ">> USE THE ELDER SCROLL NOW <<": {
-    "translation": ">> 现在使用上古卷轴 <<"
+    "translation": ">> 现在使用上古卷轴 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> エルダー・スクリプトを使用しろ <<",
+      "CN": ">> 现在使用长老卷轴 <<",
+      "KR": ">> 지금 엘더 스크롤을 사용하라 <<",
+      "TW": ">> 立即使用上古卷軸 <<"
+    }
   },
   ">> WARMUP ROUND <<": {
-    "translation": ">> 热身回合 <<"
+    "translation": ">> 热身回合 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 準備ラウンド <<",
+      "CN": ">> 热身回合 <<",
+      "KR": ">> 예선 라운드 <<",
+      "TW": ">> 熱身回合 <<"
+    }
   },
   ">> We killed the Dragonpriest! <<": {
-    "translation": ">> 我们杀死了龙祭司！ <<"
+    "translation": ">> 我们杀死了龙祭司！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドラゴンプリーストを倒した！ <<",
+      "CN": ">> 我们击败了龙祭司！<<",
+      "KR": ">> 용신관 암살 성공! <<",
+      "TW": ">> 我們擊殺了龍祭司！ <<"
+    }
   },
   ">> We need to get away from these dragons! <<": {
-    "translation": ">> 我们需要远离这些龙！ <<"
+    "translation": ">> 我们需要远离这些龙！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> このドラゴンの群れから逃げる必要がある！ <<",
+      "CN": ">> 我们必须远离这些巨龙！<<",
+      "KR": ">> 여겼다 이 악명 높은 용들이 있는 곳에서는 빨리 떠나야 해! <<",
+      "TW": ">> 我們需要遠離這些龍！ <<"
+    }
   },
   ">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<": {
-    "translation": ">> 我们需要防守平原区40秒，挡住他们！ <<"
+    "translation": ">> 我们需要防守平原区40秒，挡住他们！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレーンス地区を40秒間保持する必要がある。彼らを押し留めろ！ <<",
+      "CN": ">> 我们需要死守草原区40秒，阻挡它们！<<",
+      "KR": ">> 평원의 광장은 40초간 유지해야 합니다. 적들을 막아내세요! <<",
+      "TW": ">> 我們需要在平原區防守 40 秒 擋住他們！ <<"
+    }
   },
   ">> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<": {
-    "translation": ">> 我们需要防守平原区45秒，挡住他们！ <<"
+    "translation": ">> 我们需要防守平原区45秒，挡住他们！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレーンス地区を45秒間保持する必要がある。彼らを押し留めろ！ <<",
+      "CN": ">> 我们需要死守草原区45秒，阻挡它们！<<",
+      "KR": ">> 평원의 광장은 45초간 유지해야 합니다. 적들을 막아내세요! <<",
+      "TW": ">> 我們需要在平原區防守 45 秒 擋住他們！ <<"
+    }
   },
   ">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<": {
-    "translation": ">> 我们需要通知雪漫城的领主龙正在攻击！ <<"
+    "translation": ">> 我们需要通知雪漫城的领主龙正在攻击！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドラゴンが攻撃していることを白煙の首長に知らせる必要がある！ <<",
+      "CN": ">> 我们必须告诉海尔辛领主巨龙的袭击！<<",
+      "KR": ">> 백런의 주군에게 용들의 공격 사실을 알려야 합니다. <<",
+      "TW": ">> 我們需要通知風舵城的領主，龍正在攻擊！ <<"
+    }
   },
   ">> You Have Defeated Alduin <<": {
-    "translation": ">> 你击败了奥杜因 <<"
+    "translation": ">> 你击败了奥杜因 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< アルドインを撃破 >>",
+      "CN": ">> 你已击败奥杜因 <<",
+      "KR": ">> 오두마를 물리쳤습니다 <<",
+      "TW": ">> 您已擊敗奧杜因 <<"
+    }
   },
   ">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<": {
-    "translation": ">>> 拾取皮肤后，你可以用鼠标左键或右键使用技能 <<<"
+    "translation": ">>> 拾取皮肤后，你可以用鼠标左键或右键使用技能 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> アイテムを受け取ると、左または右のマウスクリックでその攻撃を使用できます <<<",
+      "CN": ">>> 拾取物品后，你可以使用左键或右键进行攻击 <<<",
+      "KR": ">>> 아이템을 획득하면 좌우 클릭 모두로 해당 공격을 사용할 수 있습니다 <<<",
+      "TW": ">>> 撿起物品後，您可以使用滑鼠左鍵或右鍵進行攻擊 <<<"
+    }
   },
   ">>> After winning a round you will get 100 points which equals with 1 level  <<<": {
-    "translation": ">>> 赢得一回合后你会获得100分，等级提升1级 <<<"
+    "translation": ">>> 赢得一回合后你会获得100分，等级提升1级 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラウンドをクリアすると、ポイント100とレベルアップが得られます",
+      "CN": ">>> 每获胜一轮将获得100点积分，相当于1级 <<<",
+      "KR": "라운드를 승리하면 레벨 1에 해당하는 100포인트를 획득합니다.",
+      "TW": ">>> 贏得一輪後，您將獲得100點數，這等於1個等級 <<<"
+    }
   },
   ">>> Doors open in 25 seconds <<<": {
-    "translation": ">>> 门将在25秒内打开 <<<"
+    "translation": ">>> 门将在25秒内打开 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは25秒後に開きます",
+      "CN": ">>> 门将在25秒后开启 <<<",
+      "KR": "문이 25초 후에 열립니다.",
+      "TW": ">>> 門將在25秒後開啟 <<<"
+    }
   },
   ">>> KILL THE REMAINING ZOMBIES <<<": {
-    "translation": ">>> 杀死剩余的僵尸 <<<"
+    "translation": ">>> 杀死剩余的僵尸 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "残りのゾンキを倒せ！",
+      "CN": ">>> 消灭剩余僵尸 <<<",
+      "KR": "남은 좀비들을 처치하세요.",
+      "TW": ">>> 消滅剩餘的殭屍 <<<"
+    }
   },
   ">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<": {
-    "translation": ">>> 1级皮肤需要100分，2级皮肤需要200分，以此类推。 火大卫200分，冰大卫300分，风大卫400分<<<"
+    "translation": ">>> 1级皮肤需要100分，2级皮肤需要200分，以此类推。 火大卫200分，冰大卫300分，风大卫400分<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル1のアイテムにはポイント100、レベル2のアイテムにはポイント200が必要です（以後同様）",
+      "CN": ">>> 1级物品需要100点积分，2级物品需要200点积分，以此类推。 <<<",
+      "KR": "레벨 1 아이템에는 100포인트가 필요하며, 레벨 2 아이템에는 200포인트가 필요합니다.",
+      "TW": ">>> 1級物品需要100點，2級物品需要200點，以此類推。 <<<"
+    }
   },
   ">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<": {
-    "translation": ">>> 每种人类皮肤只能拿一个 <<<"
+    "translation": ">>> 每种人类皮肤只能拿一个 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "同じ種類の人間系アイテムは一度に1つしか持てません",
+      "CN": ">>> 每次只能选取1件人类物品 <<<",
+      "KR": "인간 아이템은 한 번에 하나씩만 선택할 수 있습니다.",
+      "TW": ">>> 每次只能取用1個人類物品 <<<"
+    }
   },
   ">>> Shooting the Zombie items in the head will push them back! <<<": {
-    "translation": ">>> 射击僵尸皮肤的头部会将它们击退！ <<<"
+    "translation": ">>> 射击僵尸皮肤的头部会将它们击退！ <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンキの頭に撃つと後退します！",
+      "CN": ">>> 射击僵尸头部可将它们击退！ <<<",
+      "KR": "좀비 아이템의 머리를 쏘면 좀비가 뒤로 밀려납니다!",
+      "TW": ">>> 射擊殭屍物品的頭部會使它們後退！ <<<"
+    }
   },
   ">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<": {
-    "translation": ">>> 回合开始时你有一点时间拾取皮肤 <<<"
+    "translation": ">>> 回合开始时你有一点时间拾取皮肤 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラウンド開始時は、ゾンキが発生する前にアイテムを選ぶ短い時間があります",
+      "CN": ">>> 每轮开始时，在僵尸出现前有一段短暂时间可供选取物品 <<<",
+      "KR": "라운드 시작 시 좀비가 생성되기 전에 아이템을 선택할 수 있는 짧은 시간이 제공됩니다.",
+      "TW": ">>> 當輪次開始時，您有少量時間在殭屍生成之前選擇物品 <<<"
+    }
   },
   "**15秒，全图通关，按Y输入!rtv换图**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Clear the entire map in 15 seconds, press Y to input !rtv for map change",
+      "JP": "**15秒、全マップクリア！Yキーで「rtv」を入力して地图変更**",
+      "CN": "",
+      "KR": "15초, 맵 전체 클리어, Y를 눌러 'rtv'로 맵 변경 입력!",
+      "TW": "15秒內全圖通關，按Y輸入!rtv換圖"
+    }
   }
 }

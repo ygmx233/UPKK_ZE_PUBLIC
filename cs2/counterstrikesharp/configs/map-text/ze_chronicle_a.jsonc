@@ -1,32 +1,102 @@
 {
   "> Practice Mode <": {
-    "translation": "练习模式"
+    "translation": "练习模式",
+    "MultiLang": {
+      "US": "",
+      "JP": "> プラクティスモード <",
+      "CN": "练习模式",
+      "KR": "> 연습 모드 <",
+      "TW": "練習模式"
+    }
   },
   "> 10 <": {
-    "translation": "10s"
+    "translation": "10s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "10s",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> Afk 30 <": {
-    "translation": "AFK 30s"
+    "translation": "AFK 30s",
+    "MultiLang": {
+      "US": "",
+      "JP": "> AFK 30 <",
+      "CN": "AFK 30",
+      "KR": "> 30초 동안 비활성 <",
+      "TW": "離開30秒"
+    }
   },
   "> Press E to control platform rotation <": {
-    "translation": "按 E 键控制平台旋转 "
+    "translation": "按 E 键控制平台旋转",
+    "MultiLang": {
+      "US": "",
+      "JP": "> Eキーでプラットフォームの回転を操作 <",
+      "CN": "按 E 控制平台旋转",
+      "KR": "> 플랫폼 회전을 제어하려면 E를 누르세요 <",
+      "TW": "按 E 鍵控制平台旋轉"
+    }
   },
   ">Map by Tenshi.<": {
-    "translation": "地图作者：Tenshi 翻译：秋刀鱼"
+    "translation": "地图作者：Tenshi 翻译：秋刀鱼",
+    "MultiLang": {
+      "US": "",
+      "JP": ">マップ制作：天施<",
+      "CN": "地图由 Tenshi 制作。",
+      "KR": "> 맵 제작: Tenshi.",
+      "TW": "地圖由 Tenshi 製作。"
+    }
   },
   ">Ver:1.0.8<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">Ver:1.0.8<",
+      "CN": "版本：1.0.8",
+      "KR": ">Ver:1.0.8<",
+      "TW": "版本：1.0.8"
+    }
   },
   ">Failed<": {
-    "translation": "失败"
+    "translation": "失败",
+    "MultiLang": {
+      "US": "",
+      "JP": ">失敗<",
+      "CN": "失败",
+      "KR": ">실패<",
+      "TW": "失敗"
+    }
   },
   "> 40 <": {
-    "translation": "40s"
+    "translation": "40s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "40s",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> 30 <": {
-    "translation": "30s"
+    "translation": "30s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "30s",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>Failed<<": {
-    "translation": "失败"
+    "translation": "失败",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>失敗<<",
+      "CN": ">> 失败 <<",
+      "KR": ">>실패<<",
+      "TW": "失敗"
+    }
   }
 }

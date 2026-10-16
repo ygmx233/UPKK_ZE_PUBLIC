@@ -1,0 +1,112 @@
+{
+  "map by maqu": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "maqu作のマップ",
+      "CN": "由maqu制作的地图",
+      "KR": "map by maqu",
+      "TW": "由maqu製作的地圖"
+    }
+  },
+  "cs2 port by Flamew": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Flamewによるcs2移植版",
+      "CN": "CS2移植版由Flamew制作",
+      "KR": "cs2 port by Flamew",
+      "TW": "CS2移植版 by Flamew"
+    }
+  },
+  "Special thanks: molong2007 SIRloin @Seth.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "特別感謝: molong2007 SIRloin @Seth",
+      "CN": "特别鸣谢：molong2007、SIRloin、@Seth",
+      "KR": "Special thanks: molong2007 SIRloin @Seth.",
+      "TW": "特別感謝：molong2007、SIRloin、@Seth。"
+    }
+  },
+  "<<15>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<20>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<25>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<35>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<30>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<10>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<50>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*******admin pressed boss battle button*******": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*******管理者がボス戦ボタンを押しました*******",
+      "CN": "*******管理员按下了Boss战按钮*******",
+      "KR": "*******관리자가 보스전 버튼을 눌렀습니다*******",
+      "TW": "*******管理員觸發了Boss戰按鈕*******"
+    }
+  }
+}

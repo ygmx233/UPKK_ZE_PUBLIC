@@ -1,20 +1,62 @@
 {
   "*** 15 ***": {
-    "translation": "*** 15s ***"
+    "translation": "*** 15s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 30 ***": {
-    "translation": "*** 30s ***"
+    "translation": "*** 30s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 45 ***": {
-    "translation": "*** 45s ***"
+    "translation": "*** 45s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 5 ***": {
-    "translation": "*** 5s ***"
+    "translation": "*** 5s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** 60 ***": {
-    "translation": "*** 60s ***"
+    "translation": "*** 60s ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** Map by Soft Serve ***": {
-    "translation": "*** 地图由 Soft Serve 制作 翻译：Asteri3m  ***"
+    "translation": "*** 地图由 Soft Serve 制作 翻译：Asteri3m  ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Soft Serve 作成のマップ ***",
+      "CN": "*** 地图由 Soft Serve 制作 ***",
+      "KR": "*** Soft Serve가 제작한 맵 ***",
+      "TW": "*** 地圖由 Soft Serve 提供 ***"
+    }
   }
 }

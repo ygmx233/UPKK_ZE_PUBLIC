@@ -1,0 +1,102 @@
+{
+  "“准备撤退，5秒”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Prepare to retreat, 5 seconds",
+      "JP": "撤退準備、5秒後",
+      "CN": "",
+      "KR": "퇴각 준비, 5초",
+      "TW": "準備撤退，5秒"
+    }
+  },
+  "“给我30秒”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 30 seconds",
+      "JP": "30秒待って",
+      "CN": "",
+      "KR": "30초만 줘",
+      "TW": "給我30秒"
+    }
+  },
+  "<<随机单路已触发>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Random single route triggered>>",
+      "JP": "<<ランダム一路线がトリガーされました>>",
+      "CN": "",
+      "KR": "<<랜덤 단일 경로 트리거됨>>",
+      "TW": "<<隨機單路已觸發>>"
+    }
+  },
+  "<<给我40秒，接应马上到，我们需要跳下去>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Give me 40 seconds, support arriving immediately, we need to jump down>>",
+      "JP": "<<40秒待って、救援すぐ着く。飛び降りる必要がある>>",
+      "CN": "",
+      "KR": "<<나에게 40초만, 견인이 곧 도착할 거야. 뛰어들어야 해>>",
+      "TW": "<<給我40秒，接應馬上到，我們需要跳下去>>"
+    }
+  },
+  "<<还有10秒>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<10 seconds remaining>>",
+      "JP": "<<残り10秒>>",
+      "CN": "",
+      "KR": "<<10초 남음>>",
+      "TW": "<<還有10秒>>"
+    }
+  },
+  "“准备撤退”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Prepare to retreat",
+      "JP": "撤退準備",
+      "CN": "",
+      "KR": "퇴각 준비",
+      "TW": "準備撤退"
+    }
+  },
+  "“电梯即将关闭 5秒”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator closing in 5 seconds",
+      "JP": "エレベーター閉鎖、5秒後",
+      "CN": "",
+      "KR": "엘리베이터 문 닫힘 임박 5초",
+      "TW": "電梯即將關閉 5秒"
+    }
+  },
+  "“快跳进光球中”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Quick, jump into the light sphere",
+      "JP": "光の球の中に素早く飛び込んで",
+      "CN": "",
+      "KR": "빠르게 빛 구체 안으로 뛰어들어",
+      "TW": "快跳進光球中"
+    }
+  },
+  "“重力场偏移注意！！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Gravity field shift warning!!",
+      "JP": "重力場偏移注意！！",
+      "CN": "",
+      "KR": "중력장 편향 경고!!",
+      "TW": "重力場偏移注意！！"
+    }
+  },
+  "“有人触发了彩蛋歌曲1，他的经济+5000”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Easter egg song 1 triggered. Economy +5000.",
+      "JP": "彩蛋曲1がトリガーされました、彼の経済+5000",
+      "CN": "",
+      "KR": "이클러시드 송 1을 트리거한 팀의 경제 +5000",
+      "TW": "有人觸發了彩蛋歌曲1，他的經濟+5000"
+    }
+  }
+}

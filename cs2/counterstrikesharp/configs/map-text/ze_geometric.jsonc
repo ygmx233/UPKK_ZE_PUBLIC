@@ -1,158 +1,522 @@
 {
   "*Current Power: 0*": {
-    "translation": "*当前能量：0*"
+    "translation": "*当前能量：0*",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在の電力値：0",
+      "CN": "*当前能量：0*",
+      "KR": "*현재 에너지: 0*",
+      "TW": "*當前力量：0*"
+    }
   },
   "*Current Power: 10*": {
-    "translation": "*当前能量：10*"
+    "translation": "*当前能量：10*",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在の電力値：10",
+      "CN": "*当前能量：10*",
+      "KR": "*현재 에너지: 10*",
+      "TW": "*當前力量：10*"
+    }
   },
   "*Current Power: 100*": {
-    "translation": "*当前能量：100*"
+    "translation": "*当前能量：100*",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在の電力値：100",
+      "CN": "*当前能量：100*",
+      "KR": "*현재 에너지: 100*",
+      "TW": "*當前力量：100*"
+    }
   },
   "*Current Power: 20*": {
-    "translation": "*当前能量：20*"
+    "translation": "*当前能量：20*",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在の電力値：20",
+      "CN": "*当前能量：20*",
+      "KR": "*현재 에너지: 20*",
+      "TW": "*當前力量：20*"
+    }
   },
   "*Current Power: 30*": {
-    "translation": "*当前能量：30*"
+    "translation": "*当前能量：30*",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在の電力値：30",
+      "CN": "*当前能量：30*",
+      "KR": "*현재 에너지: 30*",
+      "TW": "*當前力量：30*"
+    }
   },
   "*Current Power: 40*": {
-    "translation": "*当前能量：40*"
+    "translation": "*当前能量：40*",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在の電力値：40",
+      "CN": "*当前能量：40*",
+      "KR": "*현재 에너지: 40*",
+      "TW": "*當前力量：40*"
+    }
   },
   "*Current Power: 50*": {
-    "translation": "*当前能量：50*"
+    "translation": "*当前能量：50*",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在の電力値：50",
+      "CN": "*当前能量：50*",
+      "KR": "*현재 에너지: 50*",
+      "TW": "*當前力量：50*"
+    }
   },
   "*Current Power: 60*": {
-    "translation": "*当前能量：60*"
+    "translation": "*当前能量：60*",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在の電力値：60",
+      "CN": "*当前能量：60*",
+      "KR": "*현재 에너지: 60*",
+      "TW": "*當前力量：60*"
+    }
   },
   "*Current Power: 70*": {
-    "translation": "*当前能量：70*"
+    "translation": "*当前能量：70*",
+    "MultiLang": {
+      "US": "",
+      "JP": "*現在の戦闘力: 70*",
+      "CN": "*当前力量：70*",
+      "KR": "*현재 전력: 70*",
+      "TW": "*目前能力值：70*"
+    }
   },
   "*Current Power: 80*": {
-    "translation": "*当前能量：80*"
+    "translation": "*当前能量：80*",
+    "MultiLang": {
+      "US": "",
+      "JP": "*現在の戦闘力: 80*",
+      "CN": "*当前力量：80*",
+      "KR": "*현재 전력: 80*",
+      "TW": "*目前能力值：80*"
+    }
   },
   "*Current Power: 90*": {
-    "translation": "*当前能量：90*"
+    "translation": "*当前能量：90*",
+    "MultiLang": {
+      "US": "",
+      "JP": "*現在の戦闘力: 90*",
+      "CN": "*当前力量：90*",
+      "KR": "*현재 전력: 90*",
+      "TW": "*目前能力值：90*"
+    }
   },
   "- R...T...V... -": {
-    "translation": "- R...T...V... -"
+    "translation": "- R...T...V... -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- R...T...V... -",
+      "CN": "- 终焉之刻 -",
+      "KR": "- R...T...V... -",
+      "TW": "- R...T...V... -"
+    }
   },
   "- STAGE CIRCLE -": {
-    "translation": "- 关卡：圆形 -"
+    "translation": "- 关卡：圆形 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ステージサークル -",
+      "CN": "- 阶段：圆圈 -",
+      "KR": "- STAGE CIRCLE -",
+      "TW": "- STAGE CIRCLE -"
+    }
   },
   "- STAGE SQUARE -": {
-    "translation": "- 关卡：方形 -"
+    "translation": "- 关卡：方形 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ステージスクエア -",
+      "CN": "- 阶段：方形 -",
+      "KR": "- STAGE SQUARE -",
+      "TW": "- STAGE SQUARE -"
+    }
   },
   "- STAGE TRIANGLE -": {
-    "translation": "- 关卡：三角形 -"
+    "translation": "- 关卡：三角形 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ステージトライアングル -",
+      "CN": "- 阶段：三角 -",
+      "KR": "- STAGE TRIANGLE -",
+      "TW": "- STAGE TRIANGLE -"
+    }
   },
   "- THE FINAL -": {
-    "translation": "- 最终关卡 -"
+    "translation": "- 最终关卡 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ザ・ファイナル -",
+      "CN": "- 最终阶段 -",
+      "KR": "- THE FINAL -",
+      "TW": "- THE FINAL -"
+    }
   },
   "- You will regret for no RTV -": {
-    "translation": "- 你将会后悔没有 RTV -"
+    "translation": "- 你将会后悔没有 RTV -",
+    "MultiLang": {
+      "US": "- You will regret if you don't RTV -",
+      "JP": "RTVがない後悔をすることになります",
+      "CN": "不发起投票你会后悔的",
+      "KR": "- RTV를 하면 후회하게 됩니다 -",
+      "TW": "- 你可能會因為沒有進行 RTV 而後悔 -"
+    }
   },
   "-Slooooww -": {
-    "translation": "- 太慢了 -"
+    "translation": "- 太慢了 -",
+    "MultiLang": {
+      "US": "",
+      "JP": "スローッ",
+      "CN": "太慢了",
+      "KR": "-느긋이~-",
+      "TW": "- 太~慢~了~"
+    }
   },
   "<< ... >>": {
-    "translation": "<< ... >>"
+    "translation": "<< ... >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<< 10 seconds >>": {
-    "translation": "<< 10 秒 >>"
+    "translation": "<< 10 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒以内 >>",
+      "CN": "<< 10秒内 >>",
+      "KR": "<< 10초 후 >>",
+      "TW": "<< 10 秒內 >>"
+    }
   },
   "<< Admin select stage circle >>": {
-    "translation": "<< 管理员选择了关卡：圆形 >>"
+    "translation": "<< 管理员选择了关卡：圆形 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 管理者がマップを丸で選択 >>",
+      "CN": "<< 管理员选择圆形地图 >>",
+      "KR": "<< 관리자가 맵을 원형으로 선택합니다 >>",
+      "TW": "<< 管理員選擇圆形地圖 >>"
+    }
   },
   "<< Admin select stage square >>": {
-    "translation": "<< 管理员选择了关卡：方形 >>"
+    "translation": "<< 管理员选择了关卡：方形 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 管理者がマップを四角で選択 >>",
+      "CN": "<< 管理员选择方形地图 >>",
+      "KR": "<< 관리자가 맵을 사각형으로 선택합니다 >>",
+      "TW": "<< 管理員選擇正方形地圖 >>"
+    }
   },
   "<< Admin select stage triangle >>": {
-    "translation": "<< 管理员选择了关卡：三角形 >>"
+    "translation": "<< 管理员选择了关卡：三角形 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 管理者がマップを三角で選択 >>",
+      "CN": "<< 管理员选择三角地形图 >>",
+      "KR": "<< 관리자가 맵을 삼각형으로 선택합니다 >>",
+      "TW": "<< 管理員選擇三角形地圖 >>"
+    }
   },
   "<< Admin select the final stage >>": {
-    "translation": "<< 管理员选择了最终关卡 >>"
+    "translation": "<< 管理员选择了最终关卡 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最終マップを選択する >>",
+      "CN": "<< 管理员选择最终地图 >>",
+      "KR": "<< 관리자가 최종 맵을 선택합니다 >>",
+      "TW": "<< 管理員選擇最終階段 >>"
+    }
   },
   "<< End in 120 seconds >>": {
-    "translation": "<< 120 秒后结束 >>"
+    "translation": "<< 120 秒后结束 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 120秒後に終了 >>",
+      "CN": "<< 120秒后结束 >>",
+      "KR": "<< 종료까지 120초 >>",
+      "TW": "<< 120 秒後結束 >>"
+    }
   },
   "<< Fog enable >>": {
-    "translation": "<< 启用烟雾 >>"
+    "translation": "<< 启用烟雾 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "フォグを有効にする",
+      "CN": "雾效启用",
+      "KR": "<< 안개 활성화 >>",
+      "TW": "啟用霧效"
+    }
   },
   "<< Hold for 15 seconds >>": {
-    "translation": "<< 坚持 15 秒 >>"
+    "translation": "<< 坚持 15 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間押し続ける",
+      "CN": "按住持续15秒",
+      "KR": "<< 15초 동안 누르세요 >>",
+      "TW": "按住 15 秒"
+    }
   },
   "<< Hold for 20 seconds >>": {
-    "translation": "<< 坚持 20 秒 >>"
+    "translation": "<< 坚持 20 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間押し続ける",
+      "CN": "按住持续20秒",
+      "KR": "<< 20초 동안 누르세요 >>",
+      "TW": "按住 20 秒"
+    }
   },
   "<< Hold for 25 seconds >>": {
-    "translation": "<< 坚持 25 秒 >>"
+    "translation": "<< 坚持 25 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間押し続ける",
+      "CN": "按住持续25秒",
+      "KR": "<< 25초 동안 누르세요 >>",
+      "TW": "按住 25 秒"
+    }
   },
   "<< Hold for 30 seconds >>": {
-    "translation": "<< 坚持 30 秒 >>"
+    "translation": "<< 坚持 30 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間押し続ける",
+      "CN": "按住持续30秒",
+      "KR": "<< 30초 동안 누르세요 >>",
+      "TW": "按住 30 秒"
+    }
   },
   "<< Hold for 35 seconds >>": {
-    "translation": "<< 坚持 35 秒 >>"
+    "translation": "<< 坚持 35 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒間押し続ける",
+      "CN": "按住持续35秒",
+      "KR": "<< 35초 동안 누르세요 >>",
+      "TW": "按住 35 秒"
+    }
   },
   "<< Hold for 35 seconds>>": {
-    "translation": "<< 坚持 35 秒 >>"
+    "translation": "<< 坚持 35 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒間押し続ける",
+      "CN": "按住持续35秒",
+      "KR": "<< 35초 동안 누르세요>>",
+      "TW": "按住 35 秒"
+    }
   },
   "<< Hold for 60 seconds >>": {
-    "translation": "<< 坚持 60 秒 >>"
+    "translation": "<< 坚持 60 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒間押し続ける",
+      "CN": "按住持续60秒",
+      "KR": "<< 60초 동안 누르세요 >>",
+      "TW": "按住 60 秒"
+    }
   },
   "<< Platform will move in 8 seconds >>": {
-    "translation": "<< 平台将在 8 秒后移动 >>"
+    "translation": "<< 平台将在 8 秒后移动 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プラットフォームは8秒後に移動 >>",
+      "CN": "平台将在8秒后移动",
+      "KR": "<< 플랫폼이 8초 후에 움직입니다 >>",
+      "TW": "<< 平台將於8秒後移動 >>"
+    }
   },
   "<< RTV plz >>": {
-    "translation": "<< RTV plz >>"
+    "translation": "<< RTV plz >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< RTVお願いします >>",
+      "CN": "请投票终止游戏",
+      "KR": "<< RTV 요청합니다 >>",
+      "TW": "<< 請投票跳關 >>"
+    }
   },
   "<< RTV2 >>": {
-    "translation": "<< RTV2 >>"
+    "translation": "<< RTV2 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< RTV2 >>",
+      "CN": "终止游戏票数：2",
+      "KR": "<< RTV2 >>",
+      "TW": "<< 跳關票x2 >>"
+    }
   },
   "<< RTV3 >>": {
-    "translation": "<< RTV3 >>"
+    "translation": "<< RTV3 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< RTV3 >>",
+      "CN": "终止游戏票数：3",
+      "KR": "<< RTV3 >>",
+      "TW": "<< 跳關票x3 >>"
+    }
   },
   "<< STAGE COMPLETE >>": {
-    "translation": "<< 阶段完成 翻译：Ayanami♪ >>"
+    "translation": "<< 阶段完成 翻译：Ayanami♪ >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ステージクリア >>",
+      "CN": "关卡完成",
+      "KR": "<< 스테이지 완료 >>",
+      "TW": "<< 關卡完成 >>"
+    }
   },
   "<< Shooting the square to recharge the power of the lift >>": {
-    "translation": "<< 射击方块以补充升降机的能量 >>"
+    "translation": "<< 射击方块以补充升降机的能量 >>",
+    "MultiLang": {
+      "US": ">> Shooting the square to recharge the lift <<",
+      "JP": "<< 四角を射ってリフトの電力を回復 >>",
+      "CN": "射击方块以恢复升降机动力",
+      "KR": "<&lt; 리프트의 전력을 충전하기 위해 네모난 표적을 사격하세요 &gt;&gt;",
+      "TW": "<< 射擊方塊以恢復升降機電力 >>"
+    }
   },
   "<< TIPS: blue square will get 30 power >>": {
-    "translation": "<< 提示：蓝色方块将获得 30 能量 >>"
+    "translation": "<< 提示：蓝色方块将获得 30 能量 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< TIPS: 青い四角で30ポイント獲得 >>",
+      "CN": "提示：击中蓝色方块可获得30点动力",
+      "KR": "<&lt; 팁: 파란색 네모 표적을 맞추면 에너지 30 획득 &gt;&gt;",
+      "TW": "<< 提示：藍色方塊將獲得30點動力 >>"
+    }
   },
   "<< TIPS: green square will get 20 power >>": {
-    "translation": "<< 提示：绿色方块将获得 20 能量 >>"
+    "translation": "<< 提示：绿色方块将获得 20 能量 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< TIPS: 緑の四角で20ポイント獲得 >>",
+      "CN": "提示：击中绿色方块可获得20点动力",
+      "KR": "<&lt; 팁: 초록색 네모 표적을 맞추면 에너지 20 획득 &gt;&gt;",
+      "TW": "<< 提示：綠色方塊將獲得20點動力 >>"
+    }
   },
   "<< TIPS: red square will get 10 power >>": {
-    "translation": "<< 提示：红色方块将获得 10 能量 >>"
+    "translation": "<< 提示：红色方块将获得 10 能量 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ヒント: 赤い四角はエネルギーを10獲得します>>",
+      "CN": "<<提示：红色方块将获得10点力量>>",
+      "KR": "<< 팁: 빨간색 사각형은 10의 파워를 얻습니다 >>",
+      "TW": "<< 提示：紅色方塊將獲得 10 點力量 >>"
+    }
   },
   "<< TIPS: white square will refresh other square >>": {
-    "translation": "<< 提示：白色方块将刷新其他方块 >>"
+    "translation": "<< 提示：白色方块将刷新其他方块 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ヒント: 白い四角は他の四角をリフレッシュします>>",
+      "CN": "<<提示：白色方块将刷新其他方块>>",
+      "KR": "<< 팁: 흰색 사각형은 다른 사각형을 초기화합니다 >>",
+      "TW": "<< 提示：白色方塊將刷新其他方塊 >>"
+    }
   },
   "<< The lift will RE-recharge if the power is more than 100 >>": {
-    "translation": "<< 如果能量超过 100，升降机将超负荷（能量归零） >>"
+    "translation": "<< 如果能量超过 100，升降机将超负荷（能量归零） >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<エネルギーが100を超える場合、エレベーターは再充電されます>>",
+      "CN": "<<当力量超过100时，电梯将重新充电>>",
+      "KR": "<< 파워가 100을 초과하면 엘리베이터가 재충전됩니다 >>",
+      "TW": "<< 如果力量超過 100，電梯將重新充能 >>"
+    }
   },
   "<< Warning: 20 seconds left >>": {
-    "translation": "<< 警告：还剩 20 秒 >>"
+    "translation": "<< 警告：还剩 20 秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<警告: 残り20秒>>",
+      "CN": "<<警告：剩余20秒>>",
+      "KR": "<< 경고: 20초 남음 >>",
+      "TW": "<< 警告：剩餘 20 秒 >>"
+    }
   },
   "<< quiet before the storm...... >>": {
-    "translation": "<< 暴风雨前的宁静...... >>"
+    "translation": "<< 暴风雨前的宁静...... >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<嵐の前の静けさ...... >>",
+      "CN": "<<暴风雨前的宁静……>>",
+      "KR": "<< 폭풍 전의 고요...... >>",
+      "TW": "<< 風暴前的寧靜…… >>"
+    }
   },
   "<< slow...... >>": {
-    "translation": "<< 缓慢...... >>"
+    "translation": "<< 缓慢...... >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<スロー...... >>",
+      "CN": "<<缓慢……>>",
+      "KR": "<< 느려짐...... >>",
+      "TW": "<< 緩慢…… >>"
+    }
   },
   "COMPLETE!!!": {
-    "translation": "完成！！！"
+    "translation": "完成！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "達成完了!!!",
+      "CN": "完成！",
+      "KR": "완벽!!!",
+      "TW": "完成！！！"
+    }
   },
   "Current BGM: Abst:Re:Act   -AcuticNotes": {
-    "translation": "当前 BGM：Abst:Re:Act   -AcuticNotes"
+    "translation": "当前 BGM：Abst:Re:Act   -AcuticNotes",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在のBGM: Abst:Re:Act   -AcuticNotes",
+      "CN": "当前背景音乐：Abst:Re:Act -Acustic Notes",
+      "KR": "현재 BGM: Abst:Re:Act -AcuticNotes",
+      "TW": "目前背景音乐：Abst:Re:Act - 原聲音符"
+    }
   },
   "Current BGM: MAZRDOLL::#V[Sempronius]   -AcuticNotes": {
-    "translation": "当前 BGM：MAZRDOLL::#V[Sempronius]   -AcuticNotes"
+    "translation": "当前 BGM：MAZRDOLL::#V[Sempronius]   -AcuticNotes",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在のBGM：MAZRDOLL::#V[Sempronius] -AcuticNotes",
+      "CN": "当前背景音乐：MAZRDOLL::#V[Sempronius]   -AcuticNotes",
+      "KR": "현재 배경음악: MAZRDOLL::#V[Sempronius]   -AcuticNotes",
+      "TW": "目前背景音樂：MAZRDOLL::#V[Sempronius]   -AcuticNotes"
+    }
   },
   "Current BGM: OutVid   -AcuticNotes": {
-    "translation": "当前 BGM：OutVid   -AcuticNotes"
+    "translation": "当前 BGM：OutVid   -AcuticNotes",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在のBGM：OutVid -AcuticNotes",
+      "CN": "当前背景音乐：OutVid   -AcuticNotes",
+      "KR": "현재 배경음악: OutVid   -AcuticNotes",
+      "TW": "目前背景音樂：OutVid   -AcuticNotes"
+    }
   },
   "OVERLOAD!!!": {
-    "translation": "超负荷！！！（能量超出100，需重新充能）"
+    "translation": "超负荷！！！（能量超出100，需重新充能）",
+    "MultiLang": {
+      "US": "",
+      "JP": "OVERLOAD!!!",
+      "CN": "过载！！！",
+      "KR": "과부하!!!",
+      "TW": "過載！！！"
+    }
   }
 }

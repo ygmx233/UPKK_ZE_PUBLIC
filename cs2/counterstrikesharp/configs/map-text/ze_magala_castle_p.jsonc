@@ -1,74 +1,242 @@
 {
   "*** Defend a little bit more! ***": {
-    "translation": "***再防守一下！***"
+    "translation": "***再防守一下！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** もう少しだけ守り抜いて！ ***",
+      "CN": "***再多守一会儿！***",
+      "KR": "*** 조금만 더 방어하세요! ***",
+      "TW": "*** 再防守一下！***"
+    }
   },
   "*** Defend the ladder 15 seconds ***": {
-    "translation": "***防守梯子15秒***"
+    "translation": "***防守梯子15秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 梯子を15秒間防衛せよ ***",
+      "CN": "***坚守梯子15秒***",
+      "KR": "*** 사다리 15초 동안 방어 ***",
+      "TW": "*** 守住梯道15秒***"
+    }
   },
   "*** Hold this position ***": {
-    "translation": "***坚守这个位置***"
+    "translation": "***坚守这个位置***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** この位置を防衛しろ ***",
+      "CN": "***守住这个位置***",
+      "KR": "*** 이 위치를 유지하세요 ***",
+      "TW": "*** 坚守此位置***"
+    }
   },
   "*** The door will open in 25 seconds ***": {
-    "translation": "***门将在25秒后打开***"
+    "translation": "***门将在25秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒後に扉が開く ***",
+      "CN": "***门将在25秒后开启***",
+      "KR": "*** 문이 25초 후에 열립니다 ***",
+      "TW": "*** 門將在25秒後開啟***"
+    }
   },
   "*** The door will open in 5 seconds ***": {
-    "translation": "***门将在5秒后打开***"
+    "translation": "***门将在5秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後に扉が開く ***",
+      "CN": "***门将在5秒后开启***",
+      "KR": "*** 문이 5초 후에 열립니다 ***",
+      "TW": "*** 門將在5秒後開啟***"
+    }
   },
   "*** The door will open soon***": {
-    "translation": "***门即将打开***"
+    "translation": "***门即将打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 間もなく扉が開く ***",
+      "CN": "***门即将开启***",
+      "KR": "*** 문이 곧 열립니다***",
+      "TW": "*** 門即將開啟***"
+    }
   },
   "*** The elevator will leave in 35 seconds ***": {
-    "translation": "***电梯将在35秒后离开***"
+    "translation": "***电梯将在35秒后离开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 35秒後にエレベーターが離れる ***",
+      "CN": "***电梯将在35秒后离开***",
+      "KR": "*** 엘리베이터가 35초 후에 떠납니다 ***",
+      "TW": "*** 電梯將在35秒後離開***"
+    }
   },
   "***Defend a little bit more***": {
-    "translation": "***再防守一下***"
+    "translation": "***再防守一下***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** もう少しだけ守り抜け ***",
+      "CN": "***再多守一会儿***",
+      "KR": "***조금만 더 방어하세요***",
+      "TW": "*** 再防守一下***"
+    }
   },
   "***Hold the door until the door open***": {
-    "translation": "***坚守门口直到门打开***"
+    "translation": "***坚守门口直到门打开***",
+    "MultiLang": {
+      "US": "***Hold the door until it opens***",
+      "JP": "扉が開くまでドアを押し留める",
+      "CN": "在门打开之前守住它",
+      "KR": "***문을 열어줄 때까지 문 지켜내세요***",
+      "TW": "***關上門，直到門打開***"
+    }
   },
   "***Hold this position for 15 seconds***": {
-    "translation": "***坚守这个位置15秒***"
+    "translation": "***坚守这个位置15秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "この位置を15秒間維持する",
+      "CN": "在此位置坚守15秒",
+      "KR": "***15초 동안 이 위치를 고수하세요***",
+      "TW": "***在這個位置停留 15 秒***"
+    }
   },
   "***Hold this position for 20 seconds***": {
-    "translation": "***坚守这个位置20秒***"
+    "translation": "***坚守这个位置20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "この位置を20秒間維持する",
+      "CN": "在此位置坚守20秒",
+      "KR": "***20초 동안 이 위치를 고수하세요***",
+      "TW": "***在這個位置停留 20 秒***"
+    }
   },
   "***Hold this position***": {
-    "translation": "***坚守这个位置***"
+    "translation": "***坚守这个位置***",
+    "MultiLang": {
+      "US": "",
+      "JP": "この位置を維持する",
+      "CN": "在此位置坚守",
+      "KR": "***이 위치를 고수하세요***",
+      "TW": "***守住這個位置***"
+    }
   },
   "***Hold this position, the elevators leaves soon***": {
-    "translation": "***坚守这个位置，电梯即将离开***"
+    "translation": "***坚守这个位置，电梯即将离开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "この位置を維持せよ、エレベーターがまもなく発車する",
+      "CN": "守住这里，电梯即将到达",
+      "KR": "***이 위치를 고수하세요. 엘리베이터가 곧 출발합니다***",
+      "TW": "***守住這裡，電梯很快就要離開***"
+    }
   },
   "***Map created by Cisneros***": {
-    "translation": "***地图作者：Cisneros 翻译：Asteri3m***"
+    "translation": "***地图作者：Cisneros 翻译：Asteri3m***",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：シスネロス",
+      "CN": "地图由Cisneros制作",
+      "KR": "***Cisneros 제작 맵***",
+      "TW": "***地圖由 Cisneros 製作***"
+    }
   },
   "***Objetive: survive escaping the castle***": {
-    "translation": "***目标：生存并逃离城堡***"
+    "translation": "***目标：生存并逃离城堡***",
+    "MultiLang": {
+      "US": "***Objective: survive and escape the castle***",
+      "JP": "目標：城からの脱出中に生存する",
+      "CN": "目标：逃生并存活离开城堡",
+      "KR": "***목표: 성에서 탈출하며 생존하기***",
+      "TW": "***目標：倖存並逃出城堡***"
+    }
   },
   "***RUN!!!***": {
-    "translation": "***跑！！！***"
+    "translation": "***跑！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "走れ！！!",
+      "CN": "快跑！！！",
+      "KR": "***도주하라!!!***",
+      "TW": "***快跑！！！***"
+    }
   },
   "***RUN!!***": {
-    "translation": "***跑！！***"
+    "translation": "***跑！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***逃げる！！***",
+      "CN": "***快跑！！***",
+      "KR": "***도주!!***",
+      "TW": "***快跑！！！**"
+    }
   },
   "***Shoot door!!!***": {
-    "translation": "***射击门！！！***"
+    "translation": "***射击门！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアに射撃！！！***",
+      "CN": "***开枪射门！！！***",
+      "KR": "***문총격!!!***",
+      "TW": "***射門！！！***"
+    }
   },
   "***The boat is here!!, defend a little bit more***": {
-    "translation": "***船来了！！再防守一下***"
+    "translation": "***船来了！！再防守一下***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ボートが到着した！！もう少し守れ***",
+      "CN": "***船到了！！多撑一会儿***",
+      "KR": "***배가 도착했습니다!, 조금 더 방어해주세요***",
+      "TW": "***船到了，再撐一下***"
+    }
   },
   "***The boat leave in 35 seconds***": {
-    "translation": "***船将在35秒后离开***"
+    "translation": "***船将在35秒后离开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ボートは35秒後に発つ***",
+      "CN": "***船将在35秒后离开***",
+      "KR": "***배는 35초 후에 출항합니다***",
+      "TW": "***船將於 35 秒後離開***"
+    }
   },
   "***The door will open in 15 seconds***": {
-    "translation": "***门将在15秒后打开***"
+    "translation": "***门将在15秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアは15秒後に開く***",
+      "CN": "***门将在15秒后打开***",
+      "KR": "***문이 15초 후에 열립니다***",
+      "TW": "***門將於 15 秒後開啟***"
+    }
   },
   "***The door will open in 45 seconds***": {
-    "translation": "***门将在45秒后打开***"
+    "translation": "***门将在45秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアは45秒後に開く***",
+      "CN": "***门将在45秒后打开***",
+      "KR": "***문이 45초 후에 열립니다***",
+      "TW": "***門將於 45 秒後開啟***"
+    }
   },
   "***The door will open in 5 seconds***": {
-    "translation": "***门将在5秒后打开***"
+    "translation": "***门将在5秒后打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアは5秒後に開く***",
+      "CN": "***门将在5秒后打开***",
+      "KR": "***문이 5초 후에 열립니다***",
+      "TW": "***門將於 5 秒後開啟***"
+    }
   },
   "***The door will open soon***": {
-    "translation": "***门即将打开***"
+    "translation": "***门即将打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアは間もなく開く***",
+      "CN": "***门即将打开***",
+      "KR": "***문이 곧 열립니다***",
+      "TW": "***門即將開啟***"
+    }
   }
 }

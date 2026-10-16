@@ -1,0 +1,202 @@
+{
+  "*** WATER ENTRIES WILL BREAK IN 30 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後、浸水区画開放 ***",
+      "CN": "*** 防水门将在30秒后关闭 ***",
+      "KR": "*** 30초 후 물 유입 개시 ***",
+      "TW": "*** 水門將於30秒後關閉 ***"
+    }
+  },
+  "*** ENTRIES OPENING IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後、エントリ開始 ***",
+      "CN": "*** 舱门5秒后开启 ***",
+      "KR": "*** 5초 후 진입구 개방 ***",
+      "TW": "*** 水門5秒後開啟 ***"
+    }
+  },
+  "*** ENTRIES ARE NOW OPEN, FALL BACK! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エントリ開始！退避せよ！ ***",
+      "CN": "*** 舱门已开启，迅速撤退！ ***",
+      "KR": "*** 진입구 개방, 물러나라! ***",
+      "TW": "*** 水門已開啟，立即撤退！ ***"
+    }
+  },
+  "*** BULKHEAD DOORS OPENING IN 25 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒後、バルクヘッド扉開放 ***",
+      "CN": "*** 水密门将在25秒后关闭 ***",
+      "KR": "*** 25초 후 방수문 개방 ***",
+      "TW": "*** 閘門將於25秒後開啟 ***"
+    }
+  },
+  "*** BULKHEAD DOORS OPENING IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後、バルクヘッド扉開放 ***",
+      "CN": "*** 水密门5秒后开启 ***",
+      "KR": "*** 5초 후 방수문 개방 ***",
+      "TW": "*** 閘門5秒後開啟 ***"
+    }
+  },
+  "*** DOORS ARE OPEN, FALL BACK! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉開放！退避せよ！ ***",
+      "CN": "*** 舱门已开启，迅速撤退！ ***",
+      "KR": "*** 문 열림, 물러나라! ***",
+      "TW": "*** 門已開啟，立即撤退！ ***"
+    }
+  },
+  "*** FIRST FLOOD DOOR OPENING IN 15 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後、第1浸水区画扉開放 ***",
+      "CN": "*** 第一道洪水防护门将在15秒后关闭 ***",
+      "KR": "*** 15초 후 제1 방수문 개방 ***",
+      "TW": "*** 第一道防水門將於15秒後開啟 ***"
+    }
+  },
+  "*** FIRST FLOOD DOOR OPENING NOW ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 第1浸水区画扉、ただいま開放 ***",
+      "CN": "*** 第一道洪水防护门即将关闭 ***",
+      "KR": "*** 제1 방수문 현재 개방 ***",
+      "TW": "*** 第一道防水門現在開啟 ***"
+    }
+  },
+  "*** ZOMBIES ARE SETTING UP AMBUSH, SECOND FLOOD DOOR OPENING IN 10 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが待ち伏せを開始、第2の洪水ゲートが10秒後に開放されます ***",
+      "CN": "*** 僵尸正在布置伏击，第二轮洪水门将开启：10秒 ***",
+      "KR": "*** 좀비 매복 대기 중, 2차 홍수문 10초 후 개방 ***",
+      "TW": "*** 殭屍正在預設伏擊點，第二道防洪門將在 10 秒後開啟 ***"
+    }
+  },
+  "*** VENT OPENING BREAKING IN 25 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 換気口への侵攻開始から25秒 ***",
+      "CN": "*** 通风口即将被破坏：25秒 ***",
+      "KR": "*** 환기구 파손 25초 후 개방 ***",
+      "TW": "*** 通風口將在 25 秒後破壞***"
+    }
+  },
+  "*** VENT WILL BREAK IN 5 SECONDS, GET READY TO FALL BACK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 換気口が5秒後に壊れます、撤退の準備をしてください ***",
+      "CN": "*** 通风口将在5秒后破裂，准备撤退 ***",
+      "KR": "*** 환구 5초 후 파손, 퇴각 준비 ***",
+      "TW": "*** 通風口將於 5 秒後破裂，準備撤退 ***"
+    }
+  },
+  "*** ELEVATOR LEAVING IN 30 SECONDS, HOLD  ZOMBIES OFF ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが30秒後に発車します、ゾンビを食い止めてください ***",
+      "CN": "*** 电梯30秒后将离开，阻截僵尸 ***",
+      "KR": "*** 엘리베이터 30초 후 출발, 좀비 저지 ***",
+      "TW": "*** 電梯即將於 30 秒後離開，擊退殭屍 ***"
+    }
+  },
+  "*** ELEVATOR LEAVING IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが5秒後に発車します ***",
+      "CN": "*** 电梯将在5秒后离开 ***",
+      "KR": "*** 엘리베이터 5초 후 출발 ***",
+      "TW": "*** 電梯即將於 5 秒後離開 ***"
+    }
+  },
+  "*** ELEVATOR IS LEAVING, FALL BACK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが発車しました、撤退してください ***",
+      "CN": "*** 电梯正在离开，请撤退 ***",
+      "KR": "*** 엘리베이터 출발, 퇴각 ***",
+      "TW": "*** 電梯正在離開，請撤退 ***"
+    }
+  },
+  "*** SIDE DOOR FOR ZOMBIES IS OPEN, GO ZOMBIES GO! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビ用の側面ゲートが開放されました、ゾンビ、行け！ ***",
+      "CN": "*** 僵尸侧门已开启，释放僵尸！***",
+      "KR": "*** 좀비용 측면문 개방, 행진 시작! ***",
+      "TW": "*** 殭屍側門已開啟，放殭屍過去！***"
+    }
+  },
+  "*** HOLD OFF THE ZOMBIES HERE FOR 15 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ここで15秒間ゾンビを食い止めてください ***",
+      "CN": "*** 在此阻截僵尸15秒 ***",
+      "KR": "*** 여기서 15초 동안 좀비 저지 ***",
+      "TW": "*** 在此抵擋殭屍 15 秒 ***"
+    }
+  },
+  "*** QUICK, GET TO HIGH GROUND AND ACTIVATE TOXIC CHEMICAL RELEASE! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 速やかに高台へ移動し、有毒化学物質の放出装置を作動させよ！ ***",
+      "CN": "*** 快，占领高地并启动有毒化学武器！***",
+      "KR": "*** FAST! 고지로 이동해 독성 화학물질 방출을 활성화하라! ***",
+      "TW": "*** 快點，到高地並啟動有毒化學品釋放！***"
+    }
+  },
+  "*** ZOMBIE BARRICADE WILL BREAK IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビバリケードは5秒後に崩壊する ***",
+      "CN": "*** 僵尸路障将在5秒后失效 ***",
+      "KR": "*** 좀비 방어막이 5초 후 붕괴됨 ***",
+      "TW": "*** 殭屍路障將在 5 秒後破裂 ***"
+    }
+  },
+  "*** TOXIC CHEMICALS WILL FLOOD CANAL IN 40 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 40秒後、水路に有毒化学物質が溢れ出す ***",
+      "CN": "*** 有毒化学物质将在40秒后淹没运河 ***",
+      "KR": "*** 독성 화학물질이 40초 후 하천을 강타함 ***",
+      "TW": "*** 有毒化學品將在 40 秒內充滿運河 ***"
+    }
+  },
+  "*** HOLD OFF THE ZOMBIES! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビの攻勢を食い止めるな！ ***",
+      "CN": "*** 阻击僵尸！***",
+      "KR": "*** 좀비를 저지하라! ***",
+      "TW": "*** 抵擋殭屍的進攻！***"
+    }
+  }
+}

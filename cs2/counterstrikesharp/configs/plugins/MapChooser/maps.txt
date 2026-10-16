@@ -2,2806 +2,7073 @@
 {
 	"ze_frostdrake_tower_p"
 	{
-		"workshop_id"		"3120465300"
-		"enabled"		"1"
-		"filename"		"ze_frostdrake_tower_p"
-		"updatedname"		"ze_frostdrake_tower_p"
-		"search"		"寒霜高塔;冰龙"
+		"workshop_id" "3120465300"
+		"enabled" "1"
+		"filename" "ze_frostdrake_tower_p"
+		"updatedname" "ze_frostdrake_tower_p"
+		"search" "寒霜高塔;冰龙"
+		"OnlyNominate" "1"
 	}
 	"ze_otakuroom"
 	{
-		"workshop_id"		"3128321209"
-		"enabled"		"1"
-		"filename"		"ze_otakuroom_pt"
-		"updatedname"		"ze_otakuroom"
-		"search"		"御宅房"
+		"workshop_id" "3128321209"
+		"enabled" "1"
+		"filename" "ze_otakuroom_pt"
+		"updatedname" "ze_otakuroom"
+		"search" "御宅房"
+		"DisableServerInPerfectWorld" "0"
 	}
 	"ze_abandoned_industry_p"
 	{
-		"workshop_id"		"3071209915"
-		"enabled"		"1"
-		"filename"		"ze_abandoned_industry_p"
-		"updatedname"		"ze_abandoned_industry_p"
-		"search"		"废弃工厂"
+		"workshop_id" "3071209915"
+		"enabled" "1"
+		"filename" "ze_abandoned_industry_p"
+		"updatedname" "ze_abandoned_industry_p"
+		"search" "废弃工厂"
 	}
 	"ze_arctic_escape_p"
 	{
-		"workshop_id"		"3072610663"
-		"enabled"		"1"
-		"filename"		"ze_arctic_escape_p"
-		"updatedname"		"ze_arctic_escape_p"
-		"search"		"北极逃亡"
+		"workshop_id" "3072610663"
+		"enabled" "1"
+		"filename" "ze_arctic_escape_p"
+		"updatedname" "ze_arctic_escape_p"
+		"search" "北极逃亡"
 	}
 	"ze_artika_base_p"
 	{
-		"workshop_id"		"3084697233"
-		"enabled"		"1"
-		"filename"		"ze_artika_base_p"
-		"updatedname"		"ze_artika_base_p"
-		"search"		"阿提卡基地"
+		"workshop_id" "3084697233"
+		"enabled" "1"
+		"filename" "ze_artika_base_p"
+		"updatedname" "ze_artika_base_p"
+		"search" "阿提卡基地"
+		"OnlyNominate" "1"
 	}
 	"ze_ATIX_panic_p"
 	{
-		"workshop_id"		"3076578445"
-		"enabled"		"1"
-		"filename"		"ze_atix_panic_p"
-		"updatedname"		"ze_ATIX_panic_p"
-		"search"		"蓝天大厦"
+		"workshop_id" "3076578445"
+		"enabled" "1"
+		"filename" "ze_atix_panic_p"
+		"updatedname" "ze_ATIX_panic_p"
+		"search" "蓝天大厦"
 	}
 	"ze_aztecnoob_p"
 	{
-		"workshop_id"		"3070231528"
-		"enabled"		"1"
-		"filename"		"ze_aztecnoob_p"
-		"updatedname"		"ze_aztecnoob_p"
-		"search"		"阿兹特克吊桥"
+		"workshop_id" "3070231528"
+		"enabled" "1"
+		"filename" "ze_aztecnoob_p"
+		"updatedname" "ze_aztecnoob_p"
+		"search" "阿兹特克吊桥"
 	}
 	"ze_blackmesa_escape_p"
 	{
-		"workshop_id"		"3083632383"
-		"enabled"		"1"
-		"filename"		"ze_blackmesa_escape_p"
+		"workshop_id" "3083632383"
+		"enabled" "1"
+		"filename" "ze_blackmesa_escape_p"
+		"updatedname" "ze_blackmesa_escape_p"
 	}
 	"ze_boatescape101_p"
 	{
-		"workshop_id"		"3070281654"
-		"enabled"		"1"
-		"filename"		"ze_boatescape101_p"
+		"workshop_id" "3070281654"
+		"enabled" "1"
+		"filename" "ze_boatescape101_p"
+		"updatedname" "ze_boatescape101_p"
 	}
 	"ze_bp-infested-prison_p"
 	{
-		"workshop_id"		"3071453239"
-		"enabled"		"1"
-		"filename"		"ze_bp-infested-prison"
+		"workshop_id" "3071453239"
+		"enabled" "1"
+		"filename" "ze_bp-infested-prison"
+		"updatedname" "ze_bp-infested-prison"
 	}
 	"ze_chicken_lords_tower_p"
 	{
-		"workshop_id"		"3073653424"
-		"enabled"		"1"
-		"filename"		"ze_chicken_lords_tower"
+		"workshop_id" "3073653424"
+		"enabled" "1"
+		"filename" "ze_chicken_lords_tower"
+		"updatedname" "ze_chicken_lords_tower"
 	}
 	"ze_chronus_p"
 	{
-		"workshop_id"		"3091942084"
-		"enabled"		"1"
-		"filename"		"ze_chronus_p"
+		"workshop_id" "3091942084"
+		"enabled" "1"
+		"filename" "ze_chronus_p"
+		"updatedname" "ze_chronus_p"
 	}
 	"ze_colorlicouspilar_p"
 	{
-		"workshop_id"		"3075687337"
-		"enabled"		"1"
-		"filename"		"ze_colorlicouspilar_p"
+		"workshop_id" "3075687337"
+		"enabled" "1"
+		"filename" "ze_colorlicouspilar_p"
+		"updatedname" "ze_colorlicouspilar_p"
 	}
 	"ze_colors_p"
 	{
-		"workshop_id"		"3099208354"
-		"enabled"		"1"
-		"filename"		"ze_colors_p"
+		"workshop_id" "3099208354"
+		"enabled" "1"
+		"filename" "ze_colors_p"
+		"updatedname" "ze_colors_p"
 	}
 	"ze_dangerous_waters_p"
 	{
-		"workshop_id"		"3073379342"
-		"enabled"		"1"
-		"filename"		"ze_dangerous_waters_p"
+		"workshop_id" "3073379342"
+		"enabled" "1"
+		"filename" "ze_dangerous_waters_p"
+		"updatedname" "ze_dangerous_waters_p"
 	}
 	"ze_deepice_p"
 	{
-		"workshop_id"		"3083573930"
-		"enabled"		"1"
-		"filename"		"ze_deepice_p"
+		"workshop_id" "3083573930"
+		"enabled" "1"
+		"filename" "ze_deepice_p"
+		"updatedname" "ze_deepice_p"
 	}
 	"ze_defense3002_p"
 	{
-		"workshop_id"		"3073553926"
-		"enabled"		"1"
-		"filename"		"ze_defense3002_p"
+		"workshop_id" "3073553926"
+		"enabled" "1"
+		"filename" "ze_defense3002_p"
+		"updatedname" "ze_defense3002_p"
 	}
 	"ze_descent_into_cerberon_p"
 	{
-		"workshop_id"		"3101174331"
-		"enabled"		"1"
-		"filename"		"ze_descent_into_cer"
+		"workshop_id" "3101174331"
+		"enabled" "1"
+		"filename" "ze_descent_into_cerberon_p"
+		"updatedname" "ze_descent_into_cerberon_p"
+		"OnlyNominate" "1"
 	}
 	"ze_dragonball_snakeway_p"
 	{
-		"workshop_id"		"3129406884"
-		"enabled"		"1"
-		"filename"		"ze_dragonball_snakeway"
+		"workshop_id" "3129406884"
+		"enabled" "1"
+		"filename" "ze_dragonball_snakeway"
+		"updatedname" "ze_dragonball_snakeway"
 	}
 	"ze_exchange_innovation_p"
 	{
-		"workshop_id"		"3084785318"
-		"enabled"		"1"
-		"filename"		"ze_exchange_innovation"
+		"workshop_id" "3084785318"
+		"enabled" "1"
+		"filename" "ze_exchange_innovation"
+		"updatedname" "ze_exchange_innovation"
 	}
 	"ze_fast_escape_p"
 	{
-		"workshop_id"		"3070332866"
-		"enabled"		"1"
-		"filename"		"ze_fast_escape_p"
+		"workshop_id" "3070332866"
+		"enabled" "1"
+		"filename" "ze_fast_escape_p"
+		"updatedname" "ze_fast_escape_p"
 	}
 	"ze_greece_escape_p"
 	{
-		"workshop_id"		"3087521295"
-		"enabled"		"1"
-		"filename"		"ze_greece_escape_p"
+		"workshop_id" "3087521295"
+		"enabled" "1"
+		"filename" "ze_greece_escape_p"
+		"updatedname" "ze_greece_escape_p"
 	}
 	"ze_haunted_lab_escape_p"
 	{
-		"workshop_id"		"3076662784"
-		"enabled"		"1"
-		"filename"		"ze_haunted_lab_escape"
+		"workshop_id" "3076662784"
+		"enabled" "1"
+		"filename" "ze_haunted_lab_escape"
+		"updatedname" "ze_haunted_lab_escape"
 	}
 	"ze_hazard_escape_p"
 	{
-		"workshop_id"		"3072150479"
-		"enabled"		"1"
-		"filename"		"ze_hazard_escape_p"
+		"workshop_id" "3072150479"
+		"enabled" "1"
+		"filename" "ze_hazard_escape_p"
+		"updatedname" "ze_hazard_escape_p"
 	}
 	"ze_hidden_fortress_p"
 	{
-		"workshop_id"		"3072712278"
-		"enabled"		"1"
-		"filename"		"ze_hidden_fortress_p"
+		"workshop_id" "3072712278"
+		"enabled" "1"
+		"filename" "ze_hidden_fortress_p"
+		"updatedname" "ze_hidden_fortress_p"
 	}
 	"ze_hold_em_p"
 	{
-		"workshop_id"		"3090239773"
-		"enabled"		"1"
-		"filename"		"ze_hold_em_p"
+		"workshop_id" "3090239773"
+		"enabled" "1"
+		"filename" "ze_hold_em_p"
+		"updatedname" "ze_hold_em_p"
 	}
 	"ze_hypernova_p"
 	{
-		"workshop_id"		"3076127575"
-		"enabled"		"1"
-		"filename"		"ze_hypernova_p"
+		"workshop_id" "3076127575"
+		"enabled" "1"
+		"filename" "ze_hypernova_p"
+		"updatedname" "ze_hypernova_p"
 	}
 	"ze_iamlegend_p"
 	{
-		"workshop_id"		"3079562247"
-		"enabled"		"1"
-		"filename"		"ze_iamlegend_p"
+		"workshop_id" "3079562247"
+		"enabled" "1"
+		"filename" "ze_iamlegend_p"
+		"updatedname" "ze_iamlegend_p"
 	}
 	"ze_interception_p"
 	{
-		"workshop_id"		"3089070637"
-		"enabled"		"1"
-		"filename"		"ze_interception_p"
+		"workshop_id" "3089070637"
+		"enabled" "1"
+		"filename" "ze_interception_p"
+		"updatedname" "ze_interception_p"
 	}
 	"ze_journey_p"
 	{
-		"workshop_id"		"3125207714"
-		"enabled"		"1"
-		"filename"		"ze_journey_p"
+		"workshop_id" "3125207714"
+		"enabled" "1"
+		"filename" "ze_journey_p"
+		"updatedname" "ze_journey_p"
+		"OnlyNominate" "1"
 	}
 	"ze_jurassicpark_p"
 	{
-		"workshop_id"		"3083543662"
-		"enabled"		"1"
-		"filename"		"ze_jurassicpark_p"
+		"workshop_id" "3083543662"
+		"enabled" "1"
+		"filename" "ze_jurassicpark_p"
+		"updatedname" "ze_jurassicpark_p"
 	}
 	"ze_kaffe_escape_p"
 	{
-		"workshop_id"		"3077639523"
-		"enabled"		"1"
-		"filename"		"ze_kaffe_escape_p"
+		"workshop_id" "3077639523"
+		"enabled" "1"
+		"filename" "ze_kaffe_escape_p"
+		"updatedname" "ze_kaffe_escape_p"
 	}
 	"ze_luigismansion_p"
 	{
-		"workshop_id"		"3098731139"
-		"enabled"		"1"
-		"filename"		"ze_luigismansion_p"
+		"workshop_id" "3098731139"
+		"enabled" "1"
+		"filename" "ze_luigismansion_p"
+		"updatedname" "ze_luigismansion_p"
 	}
 	"ze_mars_escape_p"
 	{
-		"workshop_id"		"3091057104"
-		"enabled"		"1"
-		"filename"		"ze_mars_escape_p"
+		"workshop_id" "3091057104"
+		"enabled" "1"
+		"filename" "ze_mars_escape_p"
+		"updatedname" "ze_mars_escape_p"
 	}
 	"ze_magala_castle_p"
 	{
-		"workshop_id"		"3090180606"
-		"enabled"		"1"
-		"filename"		"ze_magala_castle_p"
+		"workshop_id" "3090180606"
+		"enabled" "1"
+		"filename" "ze_magala_castle_p"
+		"updatedname" "ze_magala_castle_p"
 	}
 	"ze_namviet_p"
 	{
-		"workshop_id"		"3084216893"
-		"enabled"		"1"
-		"filename"		"ze_namviet_p"
+		"workshop_id" "3084216893"
+		"enabled" "1"
+		"filename" "ze_namviet_p"
+		"updatedname" "ze_namviet_p"
 	}
 	"ze_ocean_base_escape_p"
 	{
-		"workshop_id"		"3076043478"
-		"enabled"		"1"
-		"filename"		"ze_ocean_base_escape_p"
+		"workshop_id" "3076043478"
+		"enabled" "1"
+		"filename" "ze_ocean_base_escape_p"
+		"updatedname" "ze_ocean_base_escape_p"
 	}
 	"ze_mario_tower_p"
 	{
-		"workshop_id"		"3077381254"
-		"enabled"		"1"
-		"filename"		"ze_mario_tower_p"
+		"workshop_id" "3077381254"
+		"enabled" "1"
+		"filename" "ze_mario_tower_p"
+		"updatedname" "ze_mario_tower_p"
 	}
 	"ze_omega_p"
 	{
-		"workshop_id"		"3075635324"
-		"enabled"		"1"
-		"filename"		"ze_omega_p"
+		"workshop_id" "3075635324"
+		"enabled" "1"
+		"filename" "ze_omega_p"
+		"updatedname" "ze_omega_p"
 	}
 	"ze_oneiros_p"
 	{
-		"workshop_id"		"3111583269"
-		"enabled"		"1"
-		"filename"		"ze_oneiros_p"
+		"workshop_id" "3111583269"
+		"enabled" "0"
+		"filename" "ze_oneiros_p"
+		"updatedname" "ze_oneiros_p"
+		"OnlyNominate" "1"
 	}
 	"ze_paycheck_p"
 	{
-		"workshop_id"		"3075481229"
-		"enabled"		"1"
-		"filename"		"ze_paycheck_p"
+		"workshop_id" "3075481229"
+		"enabled" "1"
+		"filename" "ze_paycheck_p"
+		"updatedname" "ze_paycheck_p"
 	}
 	"ze_noir_p"
 	{
-		"workshop_id"		"3101279523"
-		"enabled"		"1"
-		"filename"		"ze_noir_p"
+		"workshop_id" "3101279523"
+		"enabled" "1"
+		"filename" "ze_noir_p"
+		"updatedname" "ze_noir_p"
+		"OnlyNominate" "1"
 	}
 	"ze_pools_p"
 	{
-		"workshop_id"		"3075014275"
-		"enabled"		"1"
-		"filename"		"ze_pools_p"
+		"workshop_id" "3075014275"
+		"enabled" "1"
+		"filename" "ze_pools_p"
+		"updatedname" "ze_pools_p"
 	}
-	"ze_PUTA_p"
+	"ze_puta_p"
 	{
-		"workshop_id"		"3078006878"
-		"enabled"		"1"
-		"filename"		"ze_PUTA_p"
+		"workshop_id" "3078006878"
+		"enabled" "1"
+		"filename" "ze_puta_p"
+		"updatedname" "ze_puta_p"
+		"OnlyNominate" "1"
 	}
-	"ze_PotC_p"
+	"ze_potc_p"
 	{
-		"workshop_id"		"3084219587"
-		"enabled"		"1"
-		"filename"		"ze_PotC_p"
+		"workshop_id" "3084219587"
+		"enabled" "1"
+		"filename" "ze_potc_p"
+		"updatedname" "ze_potc_p"
 	}
 	"ze_raccoon_facility_p"
 	{
-		"workshop_id"		"3075694806"
-		"enabled"		"1"
-		"filename"		"ze_raccoon_facility_p"
+		"workshop_id" "3075694806"
+		"enabled" "1"
+		"filename" "ze_raccoon_facility_p"
+		"updatedname" "ze_raccoon_facility_p"
 	}
 	"ze_rooftop_runaway1_p"
 	{
-		"workshop_id"		"3075946829"
-		"enabled"		"1"
-		"filename"		"ze_rooftop_runaway1_p"
+		"workshop_id" "3075946829"
+		"enabled" "1"
+		"filename" "ze_rooftop_runaway1_p"
+		"updatedname" "ze_rooftop_runaway1_p"
 	}
 	"ze_rooftop_runaway2_p"
 	{
-		"workshop_id"		"3075967570"
-		"enabled"		"1"
-		"filename"		"ze_rooftop_runaway2_p"
+		"workshop_id" "3075967570"
+		"enabled" "1"
+		"filename" "ze_rooftop_runaway2_p"
+		"updatedname" "ze_rooftop_runaway2_p"
 	}
 	"ze_sorrento_escape_p"
 	{
-		"workshop_id"		"3075789914"
-		"enabled"		"1"
-		"filename"		"ze_sorrento_escape_p"
+		"workshop_id" "3075789914"
+		"enabled" "1"
+		"filename" "ze_sorrento_escape_p"
+		"updatedname" "ze_sorrento_escape_p"
 	}
 	"ze_stab_town_p"
 	{
-		"workshop_id"		"3118969371"
-		"enabled"		"1"
-		"filename"		"ze_stab_town_p"
+		"workshop_id" "3118969371"
+		"enabled" "1"
+		"filename" "ze_stab_town_p"
+		"updatedname" "ze_stab_town_p"
 	}
 	"ze_surf_danger_p"
 	{
-		"workshop_id"		"3093361377"
-		"enabled"		"1"
-		"filename"		"ze_surf_danger_p"
-		"updatedname"		"ze_surf_danger_p"
-		"search"		"危险滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3093361377"
+		"enabled" "1"
+		"filename" "ze_surf_danger_p"
+		"updatedname" "ze_surf_danger_p"
+		"search" "危险滑翔"
+		"OnlyNominate" "1"
 	}
 	"ze_thousand_steps_p"
 	{
-		"workshop_id"		"3074987016"
-		"enabled"		"1"
-		"filename"		"ze_thousand_steps_p"
+		"workshop_id" "3074987016"
+		"enabled" "1"
+		"filename" "ze_thousand_steps_p"
+		"updatedname" "ze_thousand_steps_p"
 	}
 	"ze_tilex_escape_p"
 	{
-		"workshop_id"		"3109957993"
-		"enabled"		"1"
-		"filename"		"ze_tilex_escape_p"
+		"workshop_id" "3109957993"
+		"enabled" "1"
+		"filename" "ze_tilex_escape_p"
+		"updatedname" "ze_tilex_escape_p"
 	}
 	"ze_tkara_p"
 	{
-		"workshop_id"		"3101065234"
-		"enabled"		"1"
-		"filename"		"ze_tkara_p"
+		"workshop_id" "3101065234"
+		"enabled" "1"
+		"filename" "ze_tkara_p"
+		"updatedname" "ze_tkara_p"
 	}
 	"ze_trap_escape_p"
 	{
-		"workshop_id"		"3083693391"
-		"enabled"		"1"
-		"filename"		"ze_trap_escape_p"
-		"updatedname"		"ze_trap_escape_p"
+		"workshop_id" "3083693391"
+		"enabled" "1"
+		"filename" "ze_trap_escape_p"
+		"updatedname" "ze_trap_escape_p"
+		"OnlyNominate" "1"
 	}
 	"ze_voodoo_islands_p"
 	{
-		"workshop_id"		"3083304405"
-		"enabled"		"1"
-		"filename"		"ze_voodoo_islands_p"
+		"workshop_id" "3083304405"
+		"enabled" "1"
+		"filename" "ze_voodoo_islands_p"
+		"updatedname" "ze_voodoo_islands_p"
 	}
 	"ze_zk_mall_of_zombies_p"
 	{
-		"workshop_id"		"3111585991"
-		"enabled"		"1"
-		"filename"		"ze_zk_mall_of_zombies"
+		"workshop_id" "3111585991"
+		"enabled" "1"
+		"filename" "ze_zk_mall_of_zombies"
+		"updatedname" "ze_zk_mall_of_zombies"
 	}
 	"ze_zombierig_p"
 	{
-		"workshop_id"		"3090094325"
-		"enabled"		"1"
-		"filename"		"ze_zombierig_p"
+		"workshop_id" "3090094325"
+		"enabled" "1"
+		"filename" "ze_zombierig_p"
+		"updatedname" "ze_zombierig_p"
 	}
 	"ze_surf_vortex_p"
 	{
-		"workshop_id"		"3105755546"
-		"enabled"		"1"
-		"filename"		"ze_surf_vortex_p"
-		"updatedname"		"ze_surf_vortex_p"
-		"search"		"漩涡滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3105755546"
+		"enabled" "1"
+		"filename" "ze_surf_vortex_p"
+		"updatedname" "ze_surf_vortex_p"
+		"search" "漩涡滑翔"
+		"OnlyNominate" "1"
 	}
 	"ze_surf_saltfish_cs2"
 	{
-		"workshop_id"		"3124799228"
-		"enabled"		"1"
-		"filename"		"ze_surf_saltfish"
-		"updatedname"		"ze_surf_saltfish_cs2"
-		"search"		"咸鱼滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3124799228"
+		"enabled" "1"
+		"filename" "ze_surf_saltfish"
+		"updatedname" "ze_surf_saltfish"
+		"search" "咸鱼滑翔"
+		"OnlyNominate" "1"
 	}
-	"ze_minecraft_journey_v1"
+	"ze_ffvii_fako_reactor"
 	{
-		"workshop_id"		"3093037356"
-		"enabled"		"0"
-		"filename"		"ze_minecraft_journey"
-	}
-	"ze_FFVII_Fako_Reactor"
-	{
-		"workshop_id"		"3136003731"
-		"enabled"		"1"
-		"filename"		"ze_FFVII_Fako_Reactor"
+		"workshop_id" "3136003731"
+		"enabled" "1"
+		"filename" "ze_ffvii_fako_reactor"
+		"updatedname" "ze_ffvii_fako_reactor"
 	}
 	"ze_celestial_ops"
 	{
-		"workshop_id"		"3150912938"
-		"enabled"		"1"
-		"filename"		"ze_celestial_ops"
+		"workshop_id" "3150912938"
+		"enabled" "1"
+		"filename" "ze_celestial_ops"
+		"updatedname" "ze_celestial_ops"
+		"OnlyNominate" "1"
 	}
 	"ze_minecraft_p"
 	{
-		"workshop_id"		"3215084604"
-		"enabled"		"1"
-		"filename"		"ze_minecraft_p"
+		"workshop_id" "3215084604"
+		"enabled" "1"
+		"filename" "ze_minecraft_p"
+		"updatedname" "ze_minecraft_p"
 	}
 	"ze_surf_sparks"
 	{
-		"workshop_id"		"3224375193"
-		"enabled"		"1"
-		"filename"		"ze_surf_sparks_cs2"
-		"updatedname"		"ze_surf_sparks"
-		"search"		"海上风情滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3224375193"
+		"enabled" "1"
+		"filename" "ze_surf_sparks_cs2"
+		"updatedname" "ze_surf_sparks"
+		"search" "海上风情滑翔"
+		"OnlyNominate" "1"
 	}
-	"ze_Boatescape_Ultimate"
+	"ze_boatescape_ultimate"
 	{
-		"workshop_id"		"3217056098"
-		"enabled"		"1"
-		"filename"		"ze_boatescape_ultimate"
+		"workshop_id" "3217056098"
+		"enabled" "1"
+		"filename" "ze_boatescape_ultimate"
+		"updatedname" "ze_boatescape_ultimate"
 	}
 	"ze_postal"
 	{
-		"workshop_id"		"3218547242"
-		"enabled"		"1"
-		"filename"		"ze_postal_p"
-		"updatedname"		"ze_postal"
+		"workshop_id" "3218547242"
+		"enabled" "1"
+		"filename" "ze_postal_p"
+		"updatedname" "ze_postal_p"
+		"OnlyNominate" "1"
 	}
 	"ze_slender_escape_p"
 	{
-		"workshop_id"		"3219243688"
-		"enabled"		"1"
-		"filename"		"ze_slender_escape_p"
+		"workshop_id" "3219243688"
+		"enabled" "1"
+		"filename" "ze_slender_escape_p"
+		"updatedname" "ze_slender_escape_p"
+		"OnlyNominate" "1"
 	}
-	"ze_ATIX_panic_2017_p"
+	"ze_atix_panic_2017_p"
 	{
-		"workshop_id"		"3223525974"
-		"enabled"		"1"
-		"filename"		"ze_ATIX_panic_2017_p"
+		"workshop_id" "3223525974"
+		"enabled" "1"
+		"filename" "ze_atix_panic_2017_p"
+		"updatedname" "ze_atix_panic_2017_p"
 	}
-	"ze_LOTR_Mines_of_Moria_p"
+	"ze_lotr_mines_of_moria_p"
 	{
-		"workshop_id"		"3220471698"
-		"enabled"		"1"
-		"filename"		"ze_LOTR_Mines_of_Moria"
+		"workshop_id" "3220471698"
+		"enabled" "1"
+		"filename" "ze_lotr_mines_of_moria"
+		"updatedname" "ze_lotr_mines_of_moria"
 	}
 	"ze_loom"
 	{
-		"workshop_id"		"3214940342"
-		"enabled"		"1"
-		"filename"		"ze_loom"
+		"workshop_id" "3214940342"
+		"enabled" "1"
+		"filename" "ze_loom"
+		"updatedname" "ze_loom"
+		"OnlyNominate" "1"
 	}
-	"ze_S_A_M"
+	"ze_s_a_m"
 	{
-		"workshop_id"		"3217227843"
-		"enabled"		"1"
-		"filename"		"ze_s_a_m"
-		"updatedname"		"ze_S_A_M"
+		"workshop_id" "3217227843"
+		"enabled" "1"
+		"filename" "ze_s_a_m"
+		"updatedname" "ze_s_a_m"
+		"OnlyNominate" "1"
 	}
-	"ze_Requiem"
+	"ze_requiem"
 	{
-		"workshop_id"		"3134550710"
-		"enabled"		"1"
-		"filename"		"ze_requiem_test"
-		"updatedname"		"ze_Requiem"
+		"workshop_id" "3134550710"
+		"enabled" "1"
+		"filename" "ze_requiem_test"
+		"updatedname" "ze_requiem_test"
+		"OnlyNominate" "1"
 	}
 	"ze_Obf_Filth"
 	{
-		"workshop_id"		"3160547491"
-		"enabled"		"1"
-		"filename"		"ze_obf_filth_v1"
-		"updatedname"		"ze_Obf_Filth"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3160547491"
+		"enabled" "1"
+		"filename" "ze_obf_filth_v1"
+		"updatedname" "ze_obf_filth_v1"
+		"OnlyNominate" "1"
 	}
 	"ze_k19_escape_p"
 	{
-		"workshop_id"		"3170603615"
-		"enabled"		"1"
-		"filename"		"ze_k19_escape_p"
+		"workshop_id" "3170603615"
+		"enabled" "1"
+		"filename" "ze_k19_escape_p"
+		"updatedname" "ze_k19_escape_p"
 	}
 	"ze_backrooms_deathbed"
 	{
-		"workshop_id"		"3174524746"
-		"enabled"		"1"
-		"filename"		"ze_backrooms_deathbed_v1"
-		"updatedname"		"ze_backrooms_deathbed_v1"
+		"workshop_id" "3174524746"
+		"enabled" "1"
+		"filename" "ze_backrooms_deathbed_v1"
+		"updatedname" "ze_backrooms_deathbed_v1"
+		"OnlyNominate" "1"
 	}
-	"ze_FFXIV_Reisen_Temple"
+	"ze_ffxiv_reisen_temple"
 	{
-		"workshop_id"		"3220221743"
-		"enabled"		"1"
-		"filename"		"ze_FFXIV_Reisen_Temple"
+		"workshop_id" "3220221743"
+		"enabled" "1"
+		"filename" "ze_ffxiv_reisen_temple"
+		"updatedname" "ze_ffxiv_reisen_temple"
+		"OnlyNominate" "1"
 	}
 	"ze_eternal_journey"
 	{
-		"workshop_id"		"3225822266"
-		"enabled"		"1"
-		"filename"		"ze_eternal_journey"
+		"workshop_id" "3225822266"
+		"enabled" "1"
+		"filename" "ze_eternal_journey"
+		"updatedname" "ze_eternal_journey"
+		"OnlyNominate" "1"
 	}
 	"ze_8bit"
 	{
-		"workshop_id"		"3227899731"
-		"enabled"		"1"
-		"filename"		"ze_8bit"
+		"workshop_id" "3227899731"
+		"enabled" "1"
+		"filename" "ze_8bit"
+		"updatedname" "ze_8bit"
+		"OnlyNominate" "1"
 	}
 	"ze_aragami_p"
 	{
-		"workshop_id"		"3226680626"
-		"enabled"		"1"
-		"filename"		"ze_aragami_p"
+		"workshop_id" "3226680626"
+		"enabled" "1"
+		"filename" "ze_aragami_p"
+		"updatedname" "ze_aragami_p"
 	}
 	"ze_mirrors_edge_reborn_p"
 	{
-		"workshop_id"		"3170476530"
-		"enabled"		"1"
-		"filename"		"ze_mirrors_edge_reborn"
+		"workshop_id" "3170476530"
+		"enabled" "1"
+		"filename" "ze_mirrors_edge_reborn"
+		"updatedname" "ze_mirrors_edge_reborn"
 	}
 	"ze_rush_a"
 	{
-		"workshop_id"		"3207572850"
-		"enabled"		"0"
-		"filename"		"ze_rush_a"
+		"workshop_id" "3207572850"
+		"enabled" "1"
+		"filename" "ze_rush_a"
+		"updatedname" "ze_rush_a"
+		"OnlyNominate" "1"
 	}
 	"ze_umbrellazombie_v1_p3_final"
 	{
-		"workshop_id"		"3212650219"
-		"enabled"		"1"
-		"filename"		"ze_umbrellazombie_v1"
+		"workshop_id" "3212650219"
+		"enabled" "1"
+		"filename" "ze_umbrellazombie_v1"
+		"updatedname" "ze_umbrellazombie_v1"
 	}
 	"ze_chronicle"
 	{
-		"workshop_id"		"3136049641"
-		"enabled"		"1"
-		"filename"		"ze_chronicle_a"
-		"updatedname"		"ze_chronicle"
+		"workshop_id" "3136049641"
+		"enabled" "1"
+		"filename" "ze_chronicle_a"
+		"updatedname" "ze_chronicle_a"
+		"OnlyNominate" "1"
 	}
 	"ze_obj_rampage_v1_2"
 	{
-		"workshop_id"		"3159812985"
-		"enabled"		"1"
-		"filename"		"ze_obj_rampage_v1_2"
-		"updatedname"		"ze_obj_rampage_v1_2"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3159812985"
+		"enabled" "1"
+		"filename" "ze_obj_rampage_v1_2"
+		"updatedname" "ze_obj_rampage_v1_2"
+		"OnlyNominate" "1"
 	}
 	"ze_minecraft_sakura"
 	{
-		"workshop_id"		"3184013959"
-		"enabled"		"1"
-		"filename"		"ze_minecraft_sakura"
+		"workshop_id" "3184013959"
+		"enabled" "1"
+		"filename" "ze_minecraft_sakura"
+		"updatedname" "ze_minecraft_sakura"
+		"OnlyNominate" "1"
 	}
 	"ze_luciddreams_cs2"
 	{
-		"workshop_id"		"3177491488"
-		"enabled"		"1"
-		"filename"		"ze_luciddreams_cs2"
+		"workshop_id" "3177491488"
+		"enabled" "1"
+		"filename" "ze_luciddreams_cs2"
+		"updatedname" "ze_luciddreams_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_purification_a1"
 	{
-		"workshop_id"		"3128279930"
-		"enabled"		"1"
-		"filename"		"ze_purification_a1"
+		"workshop_id" "3128279930"
+		"enabled" "1"
+		"filename" "ze_purification_a1"
+		"updatedname" "ze_purification_a1"
+		"OnlyNominate" "1"
 	}
 	"ze_townscapes"
 	{
-		"workshop_id"		"3138193816"
-		"enabled"		"1"
-		"filename"		"ze_townscapes"
+		"workshop_id" "3138193816"
+		"enabled" "1"
+		"filename" "ze_townscapes"
+		"updatedname" "ze_townscapes"
 	}
 	"ze_sandstorm"
 	{
-		"workshop_id"		"3148296430"
-		"enabled"		"1"
-		"filename"		"ze_sandstorm_cs2"
-		"updatedname"		"ze_sandstorm"
+		"workshop_id" "3148296430"
+		"enabled" "1"
+		"filename" "ze_sandstorm_cs2"
+		"updatedname" "ze_sandstorm_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_sisyphus"
 	{
-		"workshop_id"		"3208444375"
-		"enabled"		"1"
-		"filename"		"ze_sisyphus"
+		"workshop_id" "3208444375"
+		"enabled" "1"
+		"filename" "ze_sisyphus"
+		"updatedname" "ze_sisyphus"
+		"OnlyNominate" "1"
 	}
 	"ze_lotr_isengard"
 	{
-		"workshop_id"		"3133242053"
-		"enabled"		"1"
-		"filename"		"ze_lotr_isengard"
+		"workshop_id" "3133242053"
+		"enabled" "1"
+		"filename" "ze_lotr_isengard"
+		"updatedname" "ze_lotr_isengard"
+		"OnlyNominate" "1"
 	}
 	"ze_traak_p"
 	{
-		"workshop_id"		"3097124262"
-		"enabled"		"1"
-		"filename"		"ze_traak_p"
+		"workshop_id" "3097124262"
+		"enabled" "1"
+		"filename" "ze_traak_p"
+		"updatedname" "ze_traak_p"
 	}
 	"ze_percocet_p"
 	{
-		"workshop_id"		"3139639057"
-		"enabled"		"1"
-		"filename"		"ze_percocet_p"
+		"workshop_id" "3139639057"
+		"enabled" "1"
+		"filename" "ze_percocet_p"
+		"updatedname" "ze_percocet_p"
+		"OnlyNominate" "1"
 	}
 	"ze_saw_p"
 	{
-		"workshop_id"		"3171881962"
-		"enabled"		"1"
-		"filename"		"ze_saw_p"
+		"workshop_id" "3171881962"
+		"enabled" "1"
+		"filename" "ze_saw_p"
+		"updatedname" "ze_saw_p"
 	}
 	"ze_random_p"
 	{
-		"workshop_id"		"3134108142"
-		"enabled"		"1"
-		"filename"		"ze_random_p"
+		"workshop_id" "3134108142"
+		"enabled" "1"
+		"filename" "ze_random_p"
+		"updatedname" "ze_random_p"
 	}
 	"ze_christmas_p"
 	{
-		"workshop_id"		"3215749919"
-		"enabled"		"1"
-		"filename"		"ze_christmas_p"
+		"workshop_id" "3215749919"
+		"enabled" "1"
+		"filename" "ze_christmas_p"
+		"updatedname" "ze_christmas_p"
+		"OnlyNominate" "1"
 	}
 	"ze_inboxed_p"
 	{
-		"workshop_id"		"3169700716"
-		"enabled"		"1"
-		"filename"		"ze_inboxed_p"
+		"workshop_id" "3169700716"
+		"enabled" "1"
+		"filename" "ze_inboxed_p"
+		"updatedname" "ze_inboxed_p"
 	}
 	"ze_fapescape_p"
 	{
-		"workshop_id"		"3211676445"
-		"enabled"		"1"
-		"filename"		"ze_fapescape_p"
+		"workshop_id" "3211676445"
+		"enabled" "1"
+		"filename" "ze_fapescape_p"
+		"updatedname" "ze_fapescape_p"
+		"OnlyNominate" "1"
 	}
 	"ze_lazers_p"
 	{
-		"workshop_id"		"3144618505"
-		"enabled"		"1"
-		"filename"		"ze_lazers_p"
+		"workshop_id" "3144618505"
+		"enabled" "1"
+		"filename" "ze_lazers_p"
+		"updatedname" "ze_lazers_p"
+		"OnlyNominate" "1"
 	}
 	"ze_breakable_p"
 	{
-		"workshop_id"		"3080846697"
-		"enabled"		"1"
-		"filename"		"ze_breakable_p"
+		"workshop_id" "3080846697"
+		"enabled" "1"
+		"filename" "ze_breakable_p"
+		"updatedname" "ze_breakable_p"
 	}
 	"ze_nuke_p"
 	{
-		"workshop_id"		"3209599928"
-		"enabled"		"1"
-		"filename"		"ze_nuke_p"
+		"workshop_id" "3209599928"
+		"enabled" "1"
+		"filename" "ze_nuke_p"
+		"updatedname" "ze_nuke_p"
 	}
-	"ze_ELEVATOR_escape_p"
+	"ze_elevator_escape_p"
 	{
-		"workshop_id"		"3135918205"
-		"enabled"		"1"
-		"filename"		"ze_ELEVATOR_escape_p"
+		"workshop_id" "3135918205"
+		"enabled" "1"
+		"filename" "ze_elevator_escape_p"
+		"updatedname" "ze_elevator_escape_p"
 	}
-	"ze_LOTR_Mirkwood_p"
+	"ze_lotr_mirkwood_p"
 	{
-		"workshop_id"		"3199590006"
-		"enabled"		"1"
-		"filename"		"ze_LOTR_Mirkwood_p"
+		"workshop_id" "3199590006"
+		"enabled" "1"
+		"filename" "ze_lotr_mirkwood_p"
+		"updatedname" "ze_lotr_mirkwood_p"
+		"OnlyNominate" "1"
 	}
-	"ze_Totemo_Roka_p"
+	"ze_totemo_roka_p"
 	{
-		"workshop_id"		"3096674083"
-		"enabled"		"1"
-		"filename"		"ze_Totemo_Roka_p"
+		"workshop_id" "3096674083"
+		"enabled" "1"
+		"filename" "ze_totemo_roka_p"
+		"updatedname" "ze_totemo_roka_p"
+		"OnlyNominate" "1"
 	}
-	"ze_NewYork_escape_p"
+	"ze_newyork_escape_p"
 	{
-		"workshop_id"		"3153952411"
-		"enabled"		"1"
-		"filename"		"ze_NewYork_escape_p"
+		"workshop_id" "3153952411"
+		"enabled" "1"
+		"filename" "ze_newyork_escape_p"
+		"updatedname" "ze_newyork_escape_p"
 	}
-	"ze_LOTR_Helms_Deep_p"
+	"ze_lotr_helms_deep_p"
 	{
-		"workshop_id"		"3182611588"
-		"enabled"		"1"
-		"filename"		"ze_LOTR_Helms_Deep_p"
+		"workshop_id" "3182611588"
+		"enabled" "1"
+		"filename" "ze_lotr_helms_deep_p"
+		"updatedname" "ze_lotr_helms_deep_p"
 	}
-	"ze_ShroomForest_p"
+	"ze_shroomforest_p"
 	{
-		"workshop_id"		"3212196068"
-		"enabled"		"1"
-		"filename"		"ze_ShroomForest_p"
+		"workshop_id" "3212196068"
+		"enabled" "1"
+		"filename" "ze_shroomforest_p"
+		"updatedname" "ze_shroomforest_p"
 	}
 	"ze_starwars_v2fix"
 	{
-		"workshop_id"		"3123260164"
-		"enabled"		"1"
-		"filename"		"ze_starwars_v2fix"
+		"workshop_id" "3123260164"
+		"enabled" "1"
+		"filename" "ze_starwars_v2fix"
+		"updatedname" "ze_starwars_v2fix"
+		"OnlyNominate" "1"
 	}
 	"ze_boatescape888"
 	{
-		"workshop_id"		"3169214837"
-		"enabled"		"1"
-		"filename"		"ze_boatescape888"
+		"workshop_id" "3169214837"
+		"enabled" "1"
+		"filename" "ze_boatescape888"
+		"updatedname" "ze_boatescape888"
+		"OnlyNominate" "1"
 	}
 	"ze_surf_gypt_p"
 	{
-		"workshop_id"		"3082188705"
-		"enabled"		"1"
-		"filename"		"ze_surf_gypt_p"
-		"updatedname"		"ze_surf_gypt_p"
-		"search"		"大金字塔滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3082188705"
+		"enabled" "1"
+		"filename" "ze_surf_gypt_p"
+		"updatedname" "ze_surf_gypt_p"
+		"search" "大金字塔滑翔"
+		"OnlyNominate" "1"
 	}
-	"ze_ALIEN_mountain_escape_p"
+	"ze_alien_mountain_escape_p"
 	{
-		"workshop_id"		"3145781680"
-		"enabled"		"1"
-		"filename"		"ze_ALIEN_mountain"
+		"workshop_id" "3145781680"
+		"enabled" "1"
+		"filename" "ze_alien_mountain_escape_p"
+		"updatedname" "ze_alien_mountain_escape_p"
 	}
 	"ze_venice_escape_p"
 	{
-		"workshop_id"		"3173139330"
-		"enabled"		"1"
-		"filename"		"ze_venice_escape_p"
+		"workshop_id" "3173139330"
+		"enabled" "1"
+		"filename" "ze_venice_escape_p"
+		"updatedname" "ze_venice_escape_p"
 	}
 	"ze_predator_ultimate_p"
 	{
-		"workshop_id"		"3184009332"
-		"enabled"		"1"
-		"filename"		"ze_predator_ultimate_p"
+		"workshop_id" "3184009332"
+		"enabled" "1"
+		"filename" "ze_predator_ultimate_p"
+		"updatedname" "ze_predator_ultimate_p"
+		"OnlyNominate" "1"
 	}
 	"ze_mabinogi_cs2"
 	{
-		"workshop_id"		"3138594789"
-		"enabled"		"1"
-		"filename"		"ze_mabinogi_cs2"
-		"updatedname"		"ze_mabinogi_f4_1_cs2"
+		"workshop_id" "3138594789"
+		"enabled" "1"
+		"filename" "ze_mabinogi_f4_1_cs2"
+		"updatedname" "ze_mabinogi_f4_1_cs2"
+		"OnlyNominate" "1"
 	}
-	"ze_PoR_island_p"
+	"ze_por_island_p"
 	{
-		"workshop_id"		"3071483803"
-		"enabled"		"1"
-		"filename"		"ze_PoR_island_p"
+		"workshop_id" "3071483803"
+		"enabled" "1"
+		"filename" "ze_por_island_p"
+		"updatedname" "ze_por_island_p"
 	}
 	"ze_onahole_p"
 	{
-		"workshop_id"		"3166586820"
-		"enabled"		"1"
-		"filename"		"ze_onahole_p"
-		"updatedname"		"ze_onahole_p"
-		"search"		"mako杯"
+		"workshop_id" "3166586820"
+		"enabled" "0"
+		"filename" "ze_onahole_p"
+		"updatedname" "ze_onahole_p"
+		"search" "mako杯"
+		"OnlyNominate" "1"
+		"DisableServerInPerfectWorld" "1"
 	}
 	"ze_only_up"
 	{
-		"workshop_id"		"3171061416"
-		"enabled"		"1"
-		"filename"		"ze_only_up"
-		"updatedname"		"ze_only_up"
-		"search"		"一路向上"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
-	}
-	"Ze_SenS"
-	{
-		"workshop_id"		"3231216655"
-		"enabled"		"0"
-		"filename"		"ze_sens"
-		"updatedname"		"ze_sens"
+		"workshop_id" "3171061416"
+		"enabled" "1"
+		"filename" "ze_only_up"
+		"updatedname" "ze_only_up"
+		"search" "一路向上"
+		"OnlyNominate" "1"
 	}
 	"ze_fapescape_rote_p"
 	{
-		"workshop_id"		"3231280179"
-		"enabled"		"1"
-		"filename"		"ze_fapescape_rote_p"
+		"workshop_id" "3231280179"
+		"enabled" "1"
+		"filename" "ze_fapescape_rote_p"
+		"updatedname" "ze_fapescape_rote_p"
+		"OnlyNominate" "1"
 	}
 	"ze_frozentemple_p"
 	{
-		"workshop_id"		"3234890754"
-		"enabled"		"1"
-		"filename"		"ze_frozentemple_p"
+		"workshop_id" "3234890754"
+		"enabled" "1"
+		"filename" "ze_frozentemple_p"
+		"updatedname" "ze_frozentemple_p"
+		"OnlyNominate" "1"
 	}
 	"ze_ffxii_westersand_v7_t"
 	{
-		"workshop_id"		"3236270292"
-		"enabled"		"1"
-		"filename"		"ze_ffxii_westersand_v7"
+		"workshop_id" "3236270292"
+		"enabled" "1"
+		"filename" "ze_ffxii_westersand_v7"
+		"updatedname" "ze_ffxii_westersand_v7"
+		"OnlyNominate" "1"
 	}
 	"[CS2] ZE OBF NPST"
 	{
-		"workshop_id"		"3229383490"
-		"enabled"		"1"
-		"filename"		"ze_obf_npst_v1"
-		"updatedname"		"[CS2] ZE OBF NPST"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3229383490"
+		"enabled" "1"
+		"filename" "ze_obf_npst_v1"
+		"updatedname" "ze_obf_npst_v1"
+		"OnlyNominate" "1"
 	}
 	"ze_biohazard2_rpd_004_p"
 	{
-		"workshop_id"		"3154062503"
-		"enabled"		"1"
-		"filename"		"ze_biohazard2_rpd"
+		"workshop_id" "3154062503"
+		"enabled" "1"
+		"filename" "ze_biohazard2_rpd_004_p"
+		"updatedname" "ze_biohazard2_rpd_004_p"
 	}
 	"ze_pokemon_kanto_v1"
 	{
-		"workshop_id"		"3100100976"
-		"enabled"		"1"
-		"filename"		"ze_pokemon_kanto_v1"
+		"workshop_id" "3100100976"
+		"enabled" "0"
+		"filename" "ze_pokemon_kanto_v1"
+		"updatedname" "ze_pokemon_kanto_v1"
 	}
 	"ze_kenshin_v1"
 	{
-		"workshop_id"		"3237483147"
-		"enabled"		"1"
-		"filename"		"ze_kenshin_v1"
+		"workshop_id" "3237483147"
+		"enabled" "1"
+		"filename" "ze_kenshin_v1"
+		"updatedname" "ze_kenshin_v1"
+		"OnlyNominate" "1"
 	}
 	"ze_biohazard_manor_004_p"
 	{
-		"workshop_id"		"3214250988"
-		"enabled"		"1"
-		"filename"		"ze_biohazard_manor"
+		"workshop_id" "3214250988"
+		"enabled" "1"
+		"filename" "ze_biohazard_manor_004_p"
+		"updatedname" "ze_biohazard_manor_004_p"
 	}
 	"ze_boacceho_p"
 	{
-		"workshop_id"		"3201834353"
-		"enabled"		"1"
-		"filename"		"ze_boacceho_p"
+		"workshop_id" "3201834353"
+		"enabled" "1"
+		"filename" "ze_boacceho_p"
+		"updatedname" "ze_boacceho_p"
 	}
 	"ze_antartika_p"
 	{
-		"workshop_id"		"3210240252"
-		"enabled"		"1"
-		"filename"		"ze_antartika_p"
+		"workshop_id" "3210240252"
+		"enabled" "1"
+		"filename" "ze_antartika_p"
+		"updatedname" "ze_antartika_p"
+		"OnlyNominate" "1"
 	}
 	"ze_azathoth_p"
 	{
-		"workshop_id"		"3198066058"
-		"enabled"		"1"
-		"filename"		"ze_azathoth_p"
+		"workshop_id" "3198066058"
+		"enabled" "1"
+		"filename" "ze_azathoth_p"
+		"updatedname" "ze_azathoth_p"
 	}
-	"ze_DYSTOPIA_p"
+	"ze_dystopia_p"
 	{
-		"workshop_id"		"3159658783"
-		"enabled"		"1"
-		"filename"		"ze_dystopia_p"
+		"workshop_id" "3159658783"
+		"enabled" "1"
+		"filename" "ze_dystopia_p"
+		"updatedname" "ze_dystopia_p"
+		"OnlyNominate" "1"
 	}
-	"ze_FORiUS_just_RUN_p"
+	"ze_forius_just_run_p"
 	{
-		"workshop_id"		"3173196031"
-		"enabled"		"1"
-		"filename"		"ze_forius_just_run_p"
+		"workshop_id" "3173196031"
+		"enabled" "1"
+		"filename" "ze_forius_just_run_p"
+		"updatedname" "ze_forius_just_run_p"
 	}
 	"ze_greencity_p"
 	{
-		"workshop_id"		"3194922441"
-		"enabled"		"1"
-		"filename"		"ze_greencity_p"
+		"workshop_id" "3194922441"
+		"enabled" "1"
+		"filename" "ze_greencity_p"
+		"updatedname" "ze_greencity_p"
 	}
 	"ze_licciana_escape_p"
 	{
-		"workshop_id"		"3072646272"
-		"enabled"		"1"
-		"filename"		"ze_licciana_escape_p"
+		"workshop_id" "3072646272"
+		"enabled" "1"
+		"filename" "ze_licciana_escape_p"
+		"updatedname" "ze_licciana_escape_p"
 	}
 	"ze_parkers_pit_p"
 	{
-		"workshop_id"		"3203203928"
-		"enabled"		"1"
-		"filename"		"ze_parkers_pit_p"
+		"workshop_id" "3203203928"
+		"enabled" "1"
+		"filename" "ze_parkers_pit_p"
+		"updatedname" "ze_parkers_pit_p"
+		"OnlyNominate" "1"
 	}
-	"ze_STRANGE_escape_p"
+	"ze_strange_escape_p"
 	{
-		"workshop_id"		"3098739829"
-		"enabled"		"1"
-		"filename"		"ze_STRANGE_escape_p"
+		"workshop_id" "3098739829"
+		"enabled" "1"
+		"filename" "ze_strange_escape_p"
+		"updatedname" "ze_strange_escape_p"
+		"OnlyNominate" "1"
 	}
 	"ze_escape_the_eye_p"
 	{
-		"workshop_id"		"3228849421"
-		"enabled"		"1"
-		"filename"		"ze_escape_the_eye_p"
+		"workshop_id" "3228849421"
+		"enabled" "1"
+		"filename" "ze_escape_the_eye_p"
+		"updatedname" "ze_escape_the_eye_p"
 	}
 	"ze_r00ms"
 	{
-		"workshop_id"		"3141215037"
-		"enabled"		"1"
-		"filename"		"ze_r00ms"
-		"updatedname"		"ze_r00ms"
+		"workshop_id" "3141215037"
+		"enabled" "1"
+		"filename" "ze_r00ms"
+		"updatedname" "ze_r00ms"
+		"OnlyNominate" "1"
 	}
 	"ze_l0v0l_p"
 	{
-		"workshop_id"		"3240966394"
-		"enabled"		"1"
-		"filename"		"ze_l0v0l_p"
+		"workshop_id" "3240966394"
+		"enabled" "1"
+		"filename" "ze_l0v0l_p"
+		"updatedname" "ze_l0v0l_p"
+		"OnlyNominate" "1"
 	}
 	"ze_panic_escape_p"
 	{
-		"workshop_id"		"3142876280"
-		"enabled"		"1"
-		"filename"		"ze_panic_escape_p"
+		"workshop_id" "3142876280"
+		"enabled" "1"
+		"filename" "ze_panic_escape_p"
+		"updatedname" "ze_panic_escape_p"
 	}
 	"ze_surf_sahok"
 	{
-		"workshop_id"		"3236908736"
-		"enabled"		"1"
-		"filename"		"ze_surf_sahok"
-		"updatedname"		"ze_surf_sahok"
-		"search"		"密室滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3236908736"
+		"enabled" "0"
+		"filename" "ze_surf_sahok"
+		"updatedname" "ze_surf_sahok"
+		"search" "密室滑翔"
+		"OnlyNominate" "1"
 	}
 	"ze_siberia_1990_p"
 	{
-		"workshop_id"		"3241013638"
-		"enabled"		"1"
-		"filename"		"ze_siberia_1990_p"
+		"workshop_id" "3241013638"
+		"enabled" "1"
+		"filename" "ze_siberia_1990_p"
+		"updatedname" "ze_siberia_1990_p"
 	}
 	"ze_illusory_world"
 	{
-		"workshop_id"		"3243378527"
-		"enabled"		"1"
-		"filename"		"ze_illusory_world"
+		"workshop_id" "3243378527"
+		"enabled" "1"
+		"filename" "ze_illusory_world"
+		"updatedname" "ze_illusory_world"
+		"OnlyNominate" "1"
 	}
-	"ze_TESV_Skyrim_p"
+	"ze_tesv_skyrim_p"
 	{
-		"workshop_id"		"3242492031"
-		"enabled"		"1"
-		"filename"		"ze_TESV_Skyrim_p"
+		"workshop_id" "3242492031"
+		"enabled" "1"
+		"filename" "ze_tesv_skyrim_p"
+		"updatedname" "ze_tesv_skyrim_p"
+		"OnlyNominate" "1"
 	}
 	"ze_ocean_heart_cs2"
 	{
-		"workshop_id"		"3242876423"
-		"enabled"		"1"
-		"filename"		"ze_ocean_heart_cs2"
+		"workshop_id" "3242876423"
+		"enabled" "1"
+		"filename" "ze_ocean_heart_cs2"
+		"updatedname" "ze_ocean_heart_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_legends_of_dawn"
 	{
-		"workshop_id"		"3244020906"
-		"enabled"		"1"
-		"filename"		"ze_legends_of_dawn"
+		"workshop_id" "3244020906"
+		"enabled" "1"
+		"filename" "ze_legends_of_dawn"
+		"updatedname" "ze_legends_of_dawn"
+		"OnlyNominate" "1"
 	}
 	"ze_gear_palace"
 	{
-		"workshop_id"		"3242697501"
-		"enabled"		"1"
-		"filename"		"ze_gear_palace"
-		"updatedname"		"ze_gear_palace"
+		"workshop_id" "3242697501"
+		"enabled" "1"
+		"filename" "ze_gear_palace"
+		"updatedname" "ze_gear_palace"
+		"OnlyNominate" "1"
 	}
-	"ze_Forsaken_Temple"
+	"ze_forsaken_temple"
 	{
-		"workshop_id"		"3247462748"
-		"enabled"		"1"
-		"filename"		"ze_Forsaken_Temple"
+		"workshop_id" "3247462748"
+		"enabled" "1"
+		"filename" "ze_forsaken_temple"
+		"updatedname" "ze_forsaken_temple"
+		"OnlyNominate" "1"
 	}
 	"ze_crazy_escape_p"
 	{
-		"workshop_id"		"3247637204"
-		"enabled"		"1"
-		"filename"		"ze_crazy_escape_p"
+		"workshop_id" "3247637204"
+		"enabled" "1"
+		"filename" "ze_crazy_escape_p"
+		"updatedname" "ze_crazy_escape_p"
+		"OnlyNominate" "1"
 	}
 	"ze_popkart"
 	{
-		"workshop_id"		"3247766438"
-		"enabled"		"1"
-		"filename"		"ze_popkart"
-		"updatedname"		"ze_popkart_b3"
+		"workshop_id" "3247766438"
+		"enabled" "1"
+		"filename" "ze_popkart_b3"
+		"updatedname" "ze_popkart_b3"
+		"OnlyNominate" "1"
 	}
 	"ze_surf_shonyudo_v1_cs2"
 	{
-		"workshop_id"		"3248498691"
-		"enabled"		"0"
-		"filename"		"ze_surf_shonyudo_v1"
-		"updatedname"		"ze_surf_shonyudo_v1_cs2"
-		"search"		"山涧幽谷大滑翔v1;钟乳洞滑翔v1"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3248498691"
+		"enabled" "1"
+		"filename" "ze_surf_shonyudo_v1_cs2"
+		"updatedname" "ze_surf_shonyudo_v1_cs2"
+		"search" "山涧幽谷大滑翔v1;钟乳洞滑翔v1"
+		"OnlyNominate" "1"
 	}
-	"ze_Arcana_Heart"
+	"ze_arcana_heart"
 	{
-		"workshop_id"		"3248842358"
-		"enabled"		"1"
-		"filename"		"ze_Arcana_Heart"
+		"workshop_id" "3248842358"
+		"enabled" "1"
+		"filename" "ze_arcana_heart"
+		"updatedname" "ze_arcana_heart"
+		"OnlyNominate" "1"
 	}
 	"ze_darkest_hour"
 	{
-		"workshop_id"		"3243560785"
-		"enabled"		"1"
-		"filename"		"ze_darkest_hour"
+		"workshop_id" "3243560785"
+		"enabled" "1"
+		"filename" "ze_darkest_hour"
+		"updatedname" "ze_darkest_hour"
+		"OnlyNominate" "1"
 	}
-	"ze_Bathroom"
+	"ze_bathroom"
 	{
-		"workshop_id"		"3250974096"
-		"enabled"		"1"
-		"filename"		"ze_Bathroom"
+		"workshop_id" "3250974096"
+		"enabled" "1"
+		"filename" "ze_bathroom"
+		"updatedname" "ze_bathroom"
 	}
 	"ze_jiangnan_town_cs2"
 	{
-		"workshop_id"        "3250118774"
-		"enabled"        "1"
-		"filename"        "ze_jiangnan_town_v3_1"
-		"updatedname"        "ze_jiangnan_town_cs2"
+		"workshop_id" "3250118774"
+		"enabled" "1"
+		"filename" "ze_jiangnan_town_v3_1"
+		"updatedname" "ze_jiangnan_town_v3_1"
+		"OnlyNominate" "1"
 	}
-	"ze_ApertureScience_p"
+	"ze_aperturescience_p"
 	{
-		"workshop_id"		"3252379913"
-		"enabled"		"1"
-		"filename"		"ze_ApertureScience_p"
+		"workshop_id" "3252379913"
+		"enabled" "1"
+		"filename" "ze_aperturescience_p"
+		"updatedname" "ze_aperturescience_p"
 	}
 	"ze_showdown_p"
 	{
-		"workshop_id"		"3149203270"
-		"enabled"		"1"
-		"filename"		"ze_showdown_p"
+		"workshop_id" "3149203270"
+		"enabled" "1"
+		"filename" "ze_showdown_p"
+		"updatedname" "ze_showdown_p"
 	}
-	"ze_ATIX_apocalypse_p"
+	"ze_atix_apocalypse_p"
 	{
-		"workshop_id"		"3087543130"
-		"enabled"		"1"
-		"filename"		"ze_ATIX_apocalypse_p"
+		"workshop_id" "3087543130"
+		"enabled" "1"
+		"filename" "ze_atix_apocalypse_p"
+		"updatedname" "ze_atix_apocalypse_p"
 	}
 	"ze_farmhouse_p"
 	{
-		"workshop_id"		"3252377262"
-		"enabled"		"1"
-		"filename"		"ze_farmhouse_p"
-		"updatedname"		"ze_farmhouse_p"
+		"workshop_id" "3252377262"
+		"enabled" "1"
+		"filename" "ze_farmhouse_p"
+		"updatedname" "ze_farmhouse_p"
+		"OnlyNominate" "1"
 	}
 	"ze_death_star_escape_p"
 	{
-		"workshop_id"		"3251815259"
-		"enabled"		"1"
-		"filename"		"ze_death_star_escape_p"
+		"workshop_id" "3251815259"
+		"enabled" "1"
+		"filename" "ze_death_star_escape_p"
+		"updatedname" "ze_death_star_escape_p"
 	}
 	"ze_zk_fapescape_p"
 	{
-		"workshop_id"		"3208033496"
-		"enabled"		"1"
-		"filename"		"ze_zk_fapescape_p"
+		"workshop_id" "3208033496"
+		"enabled" "1"
+		"filename" "ze_zk_fapescape_p"
+		"updatedname" "ze_zk_fapescape_p"
 	}
 	"ze_firewall_laboratory_part1_p"
 	{
-		"workshop_id"		"3199805346"
-		"enabled"		"1"
-		"filename"		"ze_firewall1"
+		"workshop_id" "3199805346"
+		"enabled" "1"
+		"filename" "ze_firewall1"
+		"updatedname" "ze_firewall_laboratory_part1_p"
 	}
 	"ze_firewall_laboratory_part2_p"
 	{
-		"workshop_id"		"3201034411"
-		"enabled"		"1"
-		"filename"		"ze_firewall_lab2"
+		"workshop_id" "3201034411"
+		"enabled" "1"
+		"filename" "ze_firewall_lab2"
+		"updatedname" "ze_firewall_laboratory_part2_p"
 	}
 	"ze_vietnam_p"
 	{
-		"workshop_id"		"3193837246"
-		"enabled"		"1"
-		"filename"		"ze_vietnam_p"
+		"workshop_id" "3193837246"
+		"enabled" "1"
+		"filename" "ze_vietnam_p"
+		"updatedname" "ze_vietnam_p"
 	}
 	"ze_yueyingchuanshuo"
 	{
-		"workshop_id"		"3253885951"
-		"enabled"		"1"
-		"filename"		"ze_yueyingchuanshuo"
+		"workshop_id" "3253885951"
+		"enabled" "1"
+		"filename" "ze_yueyingchuanshuo"
+		"updatedname" "ze_yueyingchuanshuo"
+		"OnlyNominate" "1"
 	}
 	"ze_no_title_cs2_l"
 	{
-		"workshop_id"		"3209995116"
-		"enabled"		"1"
-		"filename"		"ze_no_title_cs2_l"
-	}
-	"ze_r_w_b_ulti_cs2"
-	{
-		"workshop_id"		"3245045265"
-		"enabled"		"1"
-		"filename"		"ze_r_w_b_ulti_cs2"
-		"updatedname"		"ze_r_w_b_ulti_cs2"
+		"workshop_id" "3209995116"
+		"enabled" "1"
+		"filename" "ze_no_title_cs2_l"
+		"updatedname" "ze_no_title_cs2_l"
+		"OnlyNominate" "1"
 	}
 	"ze_ultra_ungent_a2_cs2"
 	{
-		"workshop_id"		"3111525416"
-		"enabled"		"1"
-		"filename"		"ze_ultra_ungent_a2_cs2"
-		"updatedname"		"ze_ultra_ungent_a2_cs2"
+		"workshop_id" "3111525416"
+		"enabled" "1"
+		"filename" "ze_ultra_ungent_a2_cs2"
+		"updatedname" "ze_ultra_ungent_a2_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_rizomata_p"
 	{
-		"workshop_id"		"3252844768"
-		"enabled"		"1"
-		"filename"		"ze_rizomata_p"
-		"updatedname"		"ze_rizomata_p"
+		"workshop_id" "3252844768"
+		"enabled" "1"
+		"filename" "ze_rizomata_p"
+		"updatedname" "ze_rizomata_p"
+		"OnlyNominate" "1"
 	}
 	"ze_winter_warehouse_p"
 	{
-		"workshop_id"		"3144617784"
-		"enabled"		"1"
-		"filename"		"ze_winter_warehouse_p"
-		"updatedname"		"ze_winter_warehouse_p"
+		"workshop_id" "3144617784"
+		"enabled" "1"
+		"filename" "ze_winter_warehouse_p"
+		"updatedname" "ze_winter_warehouse_p"
 	}
 	"ze_upwards_p"
 	{
-		"workshop_id"		"3082185566"
-		"enabled"		"1"
-		"filename"		"ze_upwards_p"
-		"updatedname"		"ze_upwards_p"
+		"workshop_id" "3082185566"
+		"enabled" "1"
+		"filename" "ze_upwards_p"
+		"updatedname" "ze_upwards_p"
 	}
-	"ze_anzalone_remake"
+	"ze_anzalone_bridge_rewind"
 	{
-		"workshop_id"		"3113561170"
-		"enabled"		"1"
-		"filename"		"ze_anzalone_remake"
-		"updatedname"		"ze_anzalone_remake"
+		"workshop_id" "3113561170"
+		"enabled" "1"
+		"filename" "ze_anzalone_bridge_rewind"
+		"updatedname" "ze_anzalone_bridge_rewind"
 	}
 	"ze_kage_cs2"
 	{
-		"workshop_id"		"3126748848"
-		"enabled"		"0"
-		"filename"		"ze_kage_cs2_a1"
-		"updatedname"		"ze_kage_cs2"
+		"workshop_id" "3126748848"
+		"enabled" "1"
+		"filename" "ze_kage_cs2"
+		"updatedname" "ze_kage_cs2"
 	}
 	"ze_diamond_cube_v1_cs2"
 	{
-		"workshop_id"		"3131335064"
-		"enabled"		"1"
-		"filename"		"ze_diamond_cube_v1_cs2"
-		"updatedname"		"ze_diamond_cube_v1_cs2"
+		"workshop_id" "3131335064"
+		"enabled" "1"
+		"filename" "ze_diamond_cube_v1_cs2"
+		"updatedname" "ze_diamond_cube_v1_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_sky_bridge"
 	{
-		"workshop_id"		"3137495751"
-		"enabled"		"1"
-		"filename"		"ze_sky_bridge_a01_fix3"
-		"updatedname"		"ze_sky_bridge"
+		"workshop_id" "3137495751"
+		"enabled" "1"
+		"filename" "ze_sky_bridge_a01_fix3"
+		"updatedname" "ze_sky_bridge_a01_fix3"
+		"OnlyNominate" "1"
 	}
 	"ze_waterpark"
 	{
-		"workshop_id"		"3145775550"
-		"enabled"		"1"
-		"filename"		"ze_waterpark"
-		"updatedname"		"ze_waterpark"
+		"workshop_id" "3145775550"
+		"enabled" "1"
+		"filename" "ze_waterpark"
+		"updatedname" "ze_waterpark"
+		"OnlyNominate" "1"
 	}
 	"ze_umbrellazombiezmtr_v1"
 	{
-		"workshop_id"		"3158864083"
-		"enabled"		"1"
-		"filename"		"ze_umbrellazombiezmtr_v1"
-		"updatedname"		"ze_umbrellazombiezmtr"
+		"workshop_id" "3158864083"
+		"enabled" "1"
+		"filename" "ze_umbrellazombiezmtr_v1"
+		"updatedname" "ze_umbrellazombiezmtr_v1"
 	}
 	"ze_Emerald"
 	{
-		"workshop_id"		"3167475235"
-		"enabled"		"1"
-		"filename"		"ze_Emerald"
-		"updatedname"		"ze_Emerald"
+		"workshop_id" "3167475235"
+		"enabled" "1"
+		"filename" "ze_emerald"
+		"updatedname" "ze_emerald"
+		"OnlyNominate" "1"
 	}
 	"ze_surf_okitsu_shonyudo"
 	{
-		"workshop_id"		"3170338275"
-		"enabled"		"1"
-		"filename"		"ze_surf_okitsu_shonyudo"
-		"updatedname"		"ze_surf_okitsu_shonyudo"
-		"search"		"山涧幽谷大滑翔;钟乳洞滑翔"
-		"RestrictedTimes"	"00:00-18:00;20:00-23:59"
+		"workshop_id" "3170338275"
+		"enabled" "1"
+		"filename" "ze_surf_okitsu_shonyudo"
+		"updatedname" "ze_surf_okitsu_shonyudo"
+		"search" "山涧幽谷大滑翔;钟乳洞滑翔"
+		"OnlyNominate" "1"
 	}
 	"ze_secret_garden"
 	{
-		"workshop_id"		"3175004434"
-		"enabled"		"1"
-		"filename"		"ze_secret_garden"
-		"updatedname"		"ze_secret_garden"
+		"workshop_id" "3175004434"
+		"enabled" "0"
+		"filename" "ze_secret_garden"
+		"updatedname" "ze_secret_garden"
 	}
 	"ze_obj_encounter_alpha"
 	{
-		"workshop_id"		"3177085312"
-		"enabled"		"1"
-		"filename"		"ze_obj_encounter_a2"
-		"updatedname"		"ze_obj_encounter_alpha"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3177085312"
+		"enabled" "0"
+		"filename" "ze_obj_encounter_a2"
+		"updatedname" "ze_obj_encounter_a2"
+		"OnlyNominate" "1"
 	}
 	"ze_stalkermonolith"
 	{
-		"workshop_id"		"3194494417"
-		"enabled"		"1"
-		"filename"		"ze_stalkermonolith"
-		"updatedname"		"ze_stalkermonolith"
+		"workshop_id" "3194494417"
+		"enabled" "1"
+		"filename" "ze_stalkermonolith"
+		"updatedname" "ze_stalkermonolith"
+		"OnlyNominate" "1"
 	}
 	"ze_voodoo_xtrem_islands"
 	{
-		"workshop_id"		"3254785591"
-		"enabled"		"1"
-		"filename"		"ze_voodoo_xtrem_islands"
-		"updatedname"		"ze_voodoo_xtremislands"
+		"workshop_id" "3254785591"
+		"enabled" "1"
+		"filename" "ze_voodoo_xtrem_islands"
+		"updatedname" "ze_voodoo_xtrem_islands"
+		"OnlyNominate" "1"
 	}
 	"ze_surf_concrete"
 	{
-		"workshop_id"		"3253200036"
-		"enabled"		"1"
-		"filename"		"ze_surf_concrete"
-		"updatedname"		"ze_surf_concrete"
-		"search"		"带土滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3253200036"
+		"enabled" "1"
+		"filename" "ze_surf_concrete"
+		"updatedname" "ze_surf_concrete"
+		"search" "带土滑翔"
+		"OnlyNominate" "1"
 	}
-	"ze_Aware"
+	"ze_aware"
 	{
-		"workshop_id"		"3251593033"
-		"enabled"		"1"
-		"filename"		"ze_Aware"
-		"updatedname"		"ze_Aware"
+		"workshop_id" "3251593033"
+		"enabled" "1"
+		"filename" "ze_aware"
+		"updatedname" "ze_aware"
+		"OnlyNominate" "1"
 	}
 	"ze_clockwork"
 	{
-		"workshop_id"		"3248464092"
-		"enabled"		"1"
-		"filename"		"ze_clockwork"
-		"updatedname"		"ze_clockwork"
+		"workshop_id" "3248464092"
+		"enabled" "1"
+		"filename" "ze_clockwork"
+		"updatedname" "ze_clockwork"
+		"OnlyNominate" "1"
 	}
 	"ze_skyheart"
 	{
-		"workshop_id"		"3248313795"
-		"enabled"		"1"
-		"filename"		"ze_skyheart"
-		"updatedname"		"ze_skyheart"
+		"workshop_id" "3248313795"
+		"enabled" "0"
+		"filename" "ze_skyheart"
+		"updatedname" "ze_skyheart"
+		"OnlyNominate" "1"
 	}
 	"ze_atl_lgnition_a1"
 	{
-		"workshop_id"		"3242904743"
-		"enabled"		"1"
-		"filename"		"ze_atl_lgnition_a1"
-		"updatedname"		"ze_atl_lgnition_a1"
+		"workshop_id" "3242904743"
+		"enabled" "1"
+		"filename" "ze_atl_lgnition_a1"
+		"updatedname" "ze_atl_lgnition_a1"
+		"OnlyNominate" "1"
 	}
 	"ze_omochix_cs2"
 	{
-		"workshop_id"		"3238552190"
-		"enabled"		"1"
-		"filename"		"ze_omochi_cs2"
-		"updatedname"		"ze_omochix_cs2"
+		"workshop_id" "3238552190"
+		"enabled" "0"
+		"filename" "ze_omochi_cs2"
+		"updatedname" "ze_omochix_cs2"
+		"OnlyNominate" "1"
 	}
-	"ze_Fabulous"
+	"ze_fabulous"
 	{
-		"workshop_id"		"3236470566"
-		"enabled"		"1"
-		"filename"		"ze_Fabulous"
-		"updatedname"		"ze_Fabulous"
+		"workshop_id" "3236470566"
+		"enabled" "1"
+		"filename" "ze_fabulous"
+		"updatedname" "ze_fabulous"
+		"OnlyNominate" "1"
 	}
 	"ze_compound_escape"
 	{
-		"workshop_id"		"3233851029"
-		"enabled"		"1"
-		"filename"		"ze_compound_escape"
-		"updatedname"		"ze_compound_escape"
+		"workshop_id" "3233851029"
+		"enabled" "1"
+		"filename" "ze_compound_escape"
+		"updatedname" "ze_compound_escape"
 	}
 	"ze_minecratix"
 	{
-		"workshop_id"		"3231500986"
-		"enabled"		"1"
-		"filename"		"ze_minecratix"
-		"updatedname"		"ze_minecratix"
+		"workshop_id" "3231500986"
+		"enabled" "1"
+		"filename" "ze_minecratix"
+		"updatedname" "ze_minecratix"
 	}
 	"ze_kraznov_poopata_p"
 	{
-		"workshop_id"		"3256534578"
-		"enabled"		"1"
-		"filename"		"ze_kraznov_poopata_p"
-		"updatedname"		"ze_kraznov_poopata_p"
+		"workshop_id" "3256534578"
+		"enabled" "1"
+		"filename" "ze_kraznov_poopata_p"
+		"updatedname" "ze_kraznov_poopata_p"
 	}
 	"ze_platformer_p"
 	{
-		"workshop_id"		"3257491664"
-		"enabled"		"1"
-		"filename"		"ze_platformer_p"
-		"updatedname"		"ze_platformer_p"
+		"workshop_id" "3257491664"
+		"enabled" "1"
+		"filename" "ze_platformer_p"
+		"updatedname" "ze_platformer_p"
 	}
 	"ze_offliner"
 	{
-		"workshop_id"		"3255547370"
-		"enabled"		"1"
-		"filename"		"ze_offliner"
-		"updatedname"		"ze_offliner"
-	}
-	"ze_honkai_impact_changkongshi"
-	{
-		"workshop_id"		"3256961169"
-		"enabled"		"1"
-		"filename"		"ze_honkai_changkongshi"
-		"updatedname"		"ze_honkai_impact_changkongshi"
+		"workshop_id" "3255547370"
+		"enabled" "1"
+		"filename" "ze_offliner"
+		"updatedname" "ze_offliner"
+		"OnlyNominate" "1"
 	}
 	"ze_ratatouille"
 	{
-		"workshop_id"		"3258064134"
-		"enabled"		"1"
-		"filename"		"ze_ratatouille"
-		"updatedname"		"ze_ratatouille"
+		"workshop_id" "3258064134"
+		"enabled" "1"
+		"filename" "ze_ratatouille"
+		"updatedname" "ze_ratatouille"
+		"OnlyNominate" "1"
 	}
 	"ze_beyond_the_boundary"
 	{
-		"workshop_id"		"3257386150"
-		"enabled"		"1"
-		"filename"		"ze_beyond_the_boundary"
-		"updatedname"		"ze_beyond_the_boundary\n"
+		"workshop_id" "3257386150"
+		"enabled" "1"
+		"filename" "ze_beyond_the_boundary"
+		"updatedname" "ze_beyond_the_boundary"
+		"OnlyNominate" "1"
 	}
-	"ze_Awaker"
+	"ze_awaker"
 	{
-		"workshop_id"		"3251914993"
-		"enabled"		"1"
-		"filename"		"ze_awaker"
-		"updatedname"		"ze_Awaker"
-		"RestrictedTimes"	"00:00-23:59"
+		"workshop_id" "3251914993"
+		"enabled" "1"
+		"filename" "ze_awaker"
+		"updatedname" "ze_awaker"
+		"OnlyNominate" "1"
+		"RestrictedTimes" "00:00-23:59"
 	}
 	"ze_overlord"
 	{
-		"workshop_id"		"3259318150"
-		"enabled"		"1"
-		"filename"		"ze_overlord"
-		"updatedname"		"ze_overlord"
+		"workshop_id" "3259318150"
+		"enabled" "1"
+		"filename" "ze_overlord"
+		"updatedname" "ze_overlord"
+		"OnlyNominate" "1"
 	}
-	"ze_Visualizer"
+	"ze_visualizer"
 	{
-		"workshop_id"		"3257332702"
-		"enabled"		"1"
-		"filename"		"ze_Visualizer"
-		"updatedname"		"ze_Visualizer"
+		"workshop_id" "3257332702"
+		"enabled" "1"
+		"filename" "ze_visualizer"
+		"updatedname" "ze_visualizer"
+		"OnlyNominate" "1"
 	}
 	"ze_ShroomForest2_p"
 	{
-		"workshop_id"		"3258673372"
-		"enabled"		"1"
-		"filename"		"ze_ShroomForest2_p"
-		"updatedname"		"ze_ShroomForest2_p"
+		"workshop_id" "3258673372"
+		"enabled" "1"
+		"filename" "ze_shroomforest2_p"
+		"updatedname" "ze_shroomforest2_p"
+		"OnlyNominate" "1"
 	}
 	"ze_bluearchive_abydos"
 	{
-		"workshop_id"		"3261481731"
-		"enabled"		"1"
-		"filename"		"ze_bluearchive_abydos_b1"
-		"updatedname"		"ze_bluearchive_abydos"
-	}
-	"ze_basic_geometric"
-	{
-		"workshop_id"		"3260273697"
-		"enabled"		"1"
-		"filename"		"ze_basic_geometric"
-		"updatedname"		"ze_basic_geometric"
+		"workshop_id" "3261481731"
+		"enabled" "1"
+		"filename" "ze_bluearchive_abydos_b1"
+		"updatedname" "ze_bluearchive_abydos_b1"
+		"OnlyNominate" "1"
 	}
 	"ze_aot_trost"
 	{
-		"workshop_id"		"3262920150"
-		"enabled"		"1"
-		"filename"		"ze_aot_trost"
-		"updatedname"		"ze_aot_trost_v6r"
+		"workshop_id" "3262920150"
+		"enabled" "1"
+		"filename" "ze_aot_trost_v6r"
+		"updatedname" "ze_aot_trost_v6r"
+		"OnlyNominate" "1"
 	}
 	"ze_forhidden_slicoo"
 	{
-		"workshop_id"		"3261709847"
-		"enabled"		"1"
-		"filename"		"ze_forhidden_slicoo"
-		"updatedname"		"ze_forhidden_slicoo_cs2"
+		"workshop_id" "3261709847"
+		"enabled" "1"
+		"filename" "ze_forhidden_slicoo_cs2"
+		"updatedname" "ze_forhidden_slicoo_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_gods_wrath_p"
 	{
-		"workshop_id"		"3262558725"
-		"enabled"		"1"
-		"filename"		"ze_gods_wrath_p"
-		"updatedname"		"ze_gods_wrath_p"
+		"workshop_id" "3262558725"
+		"enabled" "1"
+		"filename" "ze_gods_wrath_p"
+		"updatedname" "ze_gods_wrath_p"
 	}
 	"ze_magic_carpet_p"
 	{
-		"workshop_id"		"3262559311"
-		"enabled"		"1"
-		"filename"		"ze_magic_carpet_p"
-		"updatedname"		"ze_magic_carpet_p"
-	}
-	"ze_evil_mansion_cs2_l"
-	{
-		"workshop_id"		"3263625340"
-		"enabled"		"0"
-		"filename"		"ze_evil_mansion_cs2_l"
-		"updatedname"		"ze_evil_mansion_cs2_l"
+		"workshop_id" "3262559311"
+		"enabled" "1"
+		"filename" "ze_magic_carpet_p"
+		"updatedname" "ze_magic_carpet_p"
 	}
 	"ze_skygarden"
 	{
-		"workshop_id"		"3264110647"
-		"enabled"		"1"
-		"filename"		"ze_skygarden"
-		"updatedname"		"ze_skygarden"
+		"workshop_id" "3264110647"
+		"enabled" "1"
+		"filename" "ze_skygarden"
+		"updatedname" "ze_skygarden"
+		"OnlyNominate" "1"
 	}
 	"ze_Hydroponic_Garden"
 	{
-		"workshop_id"		"3265261614"
-		"enabled"		"1"
-		"filename"		"ze_Hydroponic_Garden"
-		"updatedname"		"ze_Hydroponic_Garden"
+		"workshop_id" "3265261614"
+		"enabled" "1"
+		"filename" "ze_hydroponic_garden"
+		"updatedname" "ze_hydroponic_garden"
+		"OnlyNominate" "1"
 	}
 	"ze_sky_fantasy_v1"
 	{
-		"workshop_id"		"3267469267"
-		"enabled"		"1"
-		"filename"		"ze_sky_fantasy_v1"
-		"updatedname"		"ze_sky_fantasy_v1"
+		"workshop_id" "3267469267"
+		"enabled" "1"
+		"filename" "ze_sky_fantasy_v1"
+		"updatedname" "ze_sky_fantasy_v1"
+		"OnlyNominate" "1"
 	}
 	"ze_silent_hill_blackblood_XYY"
 	{
-		"workshop_id"		"3267382742"
-		"enabled"		"1"
-		"filename"		"ze_silent_hill_blackblood"
-		"updatedname"		"ze_silent_hill_blackblood_XYY"
-		"search"		"寂静岭;黑血;silent"
+		"workshop_id" "3267382742"
+		"enabled" "1"
+		"filename" "ze_silent_hill_blackblood"
+		"updatedname" "ze_silent_hill_blackblood"
+		"search" "寂静岭;黑血;silent"
+		"OnlyNominate" "1"
 	}
 	"ze_trainescape_p"
 	{
-		"workshop_id"		"3267059270"
-		"enabled"		"1"
-		"filename"		"ze_trainescape_p"
-		"updatedname"		"ze_trainescape_p"
+		"workshop_id" "3267059270"
+		"enabled" "1"
+		"filename" "ze_trainescape_p"
+		"updatedname" "ze_trainescape_p"
 	}
 	"ze_LOTR_Mount_Doom_p"
 	{
-		"workshop_id"		"3266739716"
-		"enabled"		"1"
-		"filename"		"ze_LOTR_Mount_Doom_p"
-		"updatedname"		"ze_LOTR_Mount_Doom_p"
+		"workshop_id" "3266739716"
+		"enabled" "1"
+		"filename" "ze_lotr_mount_doom_p"
+		"updatedname" "ze_lotr_mount_doom_p"
 	}
 	"Ze_Re_SenS"
 	{
-		"workshop_id"		"3266223534"
-		"enabled"		"0"
-		"filename"		"ze_re_sens"
-		"updatedname"		"Ze_Re_SenS"
-	}
-	"ze_surf_soft_cs2"
-	{
-		"workshop_id"		"3264289850"
-		"enabled"		"1"
-		"filename"		"ze_surf_soft_cs2"
-		"updatedname"		"ze_surf_soft"
-		"search"		"电波滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3266223534"
+		"enabled" "1"
+		"filename" "ze_re_sens"
+		"updatedname" "ze_re_sens"
+		"OnlyNominate" "1"
 	}
 	"ze_simple_teamplay_p"
 	{
-		"workshop_id"		"3266019386"
-		"enabled"		"1"
-		"filename"		"ze_simple_teamplay_p"
-		"updatedname"		"ze_simple_teamplay_p"
+		"workshop_id" "3266019386"
+		"enabled" "1"
+		"filename" "ze_simple_teamplay_p"
+		"updatedname" "ze_simple_teamplay_p"
 	}
 	"ze_mkzk_scarab_cs2"
 	{
-		"workshop_id"		"3268041581"
-		"enabled"		"1"
-		"filename"		"ze_mkzk_scarab_v4"
-		"updatedname"		"ze_mkzk_scarab_v4"
+		"workshop_id" "3268041581"
+		"enabled" "1"
+		"filename" "ze_mkzk_scarab_v4"
+		"updatedname" "ze_mkzk_scarab_v4"
+		"OnlyNominate" "1"
 	}
 	"ze_omen"
 	{
-		"workshop_id"		"3267175222"
-		"enabled"		"1"
-		"filename"		"ze_omen"
-		"updatedname"		"ze_omen_cs2"
+		"workshop_id" "3267175222"
+		"enabled" "1"
+		"filename" "ze_omen_cs2"
+		"updatedname" "ze_omen_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_evil_mansion_p"
 	{
-		"workshop_id"		"3267932570"
-		"enabled"		"1"
-		"filename"		"ze_evil_mansion_p"
-		"updatedname"		"ze_evil_mansion_p"
+		"workshop_id" "3267932570"
+		"enabled" "1"
+		"filename" "ze_evil_mansion_p"
+		"updatedname" "ze_evil_mansion_p"
 	}
 	"ze_toy_world_final"
 	{
-		"workshop_id"		"3269254804"
-		"enabled"		"1"
-		"filename"		"ze_toy_world_final"
-		"updatedname"		"ze_toy_world_final"
+		"workshop_id" "3269254804"
+		"enabled" "1"
+		"filename" "ze_toy_world_final"
+		"updatedname" "ze_toy_world_final"
 	}
 	"ze_hammer_bunker_part1_CS2"
 	{
-		"workshop_id"		"3268855381"
-		"enabled"		"1"
-		"filename"		"ze_hammer_bunker_part1"
-		"updatedname"		"ze_hammer_bunker_part1_CS2"
+		"workshop_id" "3268855381"
+		"enabled" "1"
+		"filename" "ze_hammer_bunker_part1"
+		"updatedname" "ze_hammer_bunker_part1"
 	}
 	"ze_ffxii_feywood_t"
 	{
-		"workshop_id"		"3270937493"
-		"enabled"		"1"
-		"filename"		"ze_ffxii_feywood_t"
-		"updatedname"		"ze_ffxii_feywood_t"
+		"workshop_id" "3270937493"
+		"enabled" "1"
+		"filename" "ze_ffxii_feywood_t"
+		"updatedname" "ze_ffxii_feywood_t"
+		"OnlyNominate" "1"
 	}
 	"ze_YuanMengStar"
 	{
-		"workshop_id"		"3271495775"
-		"enabled"		"1"
-		"filename"		"ze_YuanMengStar"
-		"updatedname"		"ze_YuanMengStar"
+		"workshop_id" "3271495775"
+		"enabled" "1"
+		"filename" "ze_yuanmengstar"
+		"updatedname" "ze_yuanmengstar"
+		"OnlyNominate" "1"
 	}
 	"ze_Zertinan"
 	{
-		"workshop_id"		"3271367553"
-		"enabled"		"1"
-		"filename"		"ze_zertinan"
-		"updatedname"		"ze_zertinan"
+		"workshop_id" "3271367553"
+		"enabled" "1"
+		"filename" "ze_zertinan"
+		"updatedname" "ze_zertinan"
+		"OnlyNominate" "1"
 	}
 	"ze_sorrento_arknights_cs2_l"
 	{
-	     "workshop_id"        "3268104738"
-	    "enabled"        "1"
-	    "filename"        "ze_sorrento_arknights"
-	    "updatedname"        "ze_sorrento_arknights_cs2_l"
+		"workshop_id" "3268104738"
+		"enabled" "1"
+		"filename" "ze_sorrento_arknights_cs2_l"
+		"updatedname" "ze_sorrento_arknights_cs2_l"
 	}
 	"ze_silent_hill_2_illusion_XYY"
 	{
-		"workshop_id"		"3272284666"
-		"enabled"		"1"
-		"filename"		"ze_silent_hill_2_illusion"
-		"updatedname"		"ze_silent_hill_2_illusion_XYY"
-		"search"		"寂静岭;幻境;silent"
+		"workshop_id" "3272284666"
+		"enabled" "1"
+		"filename" "ze_silent_hill_2_illusion"
+		"updatedname" "ze_silent_hill_2_illusion"
+		"search" "寂静岭;幻境;silent"
+		"OnlyNominate" "1"
 	}
 	"ze_ardenweald"
 	{
-		"workshop_id"		"3273717624"
-		"enabled"		"1"
-		"filename"		"ze_ardenweald"
-		"updatedname"		"ze_ardenweald"
+		"workshop_id" "3273717624"
+		"enabled" "1"
+		"filename" "ze_ardenweald"
+		"updatedname" "ze_ardenweald"
+		"OnlyNominate" "1"
 	}
 	"ze_clawfactory"
 	{
-		"workshop_id"		"3273810530"
-		"enabled"		"1"
-		"filename"		"ze_clawfactory"
-		"updatedname"		"ze_clawfactory"
+		"workshop_id" "3273810530"
+		"enabled" "1"
+		"filename" "ze_clawfactory"
+		"updatedname" "ze_clawfactory"
+		"OnlyNominate" "1"
 	}
 	"ze_iceworld_athletic_cs2"
 	{
-		"workshop_id"		"3273910575"
-		"enabled"		"1"
-		"filename"		"ze_iceworld_athletic"
-		"updatedname"		"ze_iceworld_athletic_cs2"
+		"workshop_id" "3273910575"
+		"enabled" "1"
+		"filename" "ze_iceworld_athletic_cs2"
+		"updatedname" "ze_iceworld_athletic_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_act_character_relic"
 	{
-		"workshop_id"		"3271517064"
-		"enabled"		"1"
-		"filename"		"ze_act_character_relic"
-		"updatedname"		"ze_act_character_relic"
+		"workshop_id" "3271517064"
+		"enabled" "1"
+		"filename" "ze_act_character_relic"
+		"updatedname" "ze_act_character_relic"
+		"OnlyNominate" "1"
 	}
 	"ze_angels_of_death"
 	{
-		"workshop_id"		"3277022050"
-		"enabled"		"1"
-		"filename"		"ze_angels_of_death"
-		"updatedname"		"ze_angels_of_death"
+		"workshop_id" "3277022050"
+		"enabled" "1"
+		"filename" "ze_angels_of_death"
+		"updatedname" "ze_angels_of_death"
+		"OnlyNominate" "1"
 	}
 	"ze_palace_adventure"
 	{
-		"workshop_id"		"3277028846"
-		"enabled"		"1"
-		"filename"		"ze_palace_adventure"
-		"updatedname"		"ze_palace_adventure"
-	}
-	"ze_kongzhongyiji"
-	{
-		"workshop_id"		"3262870672"
-		"enabled"		"0"
-		"filename"		"ze_kongzhongyiji"
-		"updatedname"		"ze_kongzhongyiji"
+		"workshop_id" "3277028846"
+		"enabled" "1"
+		"filename" "ze_palace_adventure"
+		"updatedname" "ze_palace_adventure"
+		"OnlyNominate" "1"
 	}
 	"ze_stark_escape"
 	{
-		"workshop_id"		"3276197721"
-		"enabled"		"1"
-		"filename"		"ze_stark_escape"
-		"updatedname"		"ze_stark_escape"
+		"workshop_id" "3276197721"
+		"enabled" "1"
+		"filename" "ze_stark_escape"
+		"updatedname" "ze_stark_escape"
+		"OnlyNominate" "1"
 	}
 	"ze_misaka"
 	{
-		"workshop_id"		"3277173545"
-		"enabled"		"1"
-		"filename"		"ze_misaka"
-		"updatedname"		"ze_misaka"
+		"workshop_id" "3277173545"
+		"enabled" "1"
+		"filename" "ze_misaka"
+		"updatedname" "ze_misaka"
+		"OnlyNominate" "1"
 	}
 	"ze_Uchiha_Legacy"
 	{
-		"workshop_id"		"3278140812"
-		"enabled"		"1"
-		"filename"		"ze_Uchiha_Legacy"
-		"updatedname"		"ze_Uchiha_Legacy"
+		"workshop_id" "3278140812"
+		"enabled" "1"
+		"filename" "ze_uchiha_legacy"
+		"updatedname" "ze_uchiha_legacy"
+		"OnlyNominate" "1"
 	}
 	"ze_umbrellazombie_v1_part2_1"
 	{
-		"workshop_id"		"3173114474"
-		"enabled"		"1"
-		"filename"		"ze_umbrellazombie_v1_part2_1"
-		"updatedname"		"ze_umbrellazombie_v1_part2_1"
+		"workshop_id" "3173114474"
+		"enabled" "1"
+		"filename" "ze_umbrellazombie_v1_part2_1"
+		"updatedname" "ze_umbrellazombie_v1_part2_1"
 	}
 	"ze_texturescape_cs2_l"
 	{
-		"workshop_id"		"3278144490"
-		"enabled"		"1"
-		"filename"		"ze_texturescape_cs2_l"
-		"updatedname"		"ze_texturescape_cs2_l"
+		"workshop_id" "3278144490"
+		"enabled" "1"
+		"filename" "ze_texturescape_cs2_l"
+		"updatedname" "ze_texturescape_cs2_l"
 	}
 	"ze_boatescape999"
 	{
-		"workshop_id"		"3280054813"
-		"enabled"		"1"
-		"filename"		"ze_boatescape999"
-		"updatedname"		"ze_boatescape999"
+		"workshop_id" "3280054813"
+		"enabled" "1"
+		"filename" "ze_boatescape999"
+		"updatedname" "ze_boatescape999"
 	}
 	"ze_p_v_z_vo"
 	{
-		"workshop_id"		"3274462953"
-		"enabled"		"1"
-		"filename"		"ze_p_v_z"
-		"updatedname"		"ze_p_v_z_vo"
-		"search"		"植物;pvz"
+		"workshop_id" "3274462953"
+		"enabled" "1"
+		"filename" "ze_p_v_z"
+		"updatedname" "ze_p_v_z"
+		"search" "植物;pvz"
+		"OnlyNominate" "1"
 	}
 	"ze_Lightnight"
 	{
-		"workshop_id"		"3280980480"
-		"enabled"		"1"
-		"filename"		"ze_Lightnight"
-		"updatedname"		"ze_lightnight_v1"
+		"workshop_id" "3280980480"
+		"enabled" "0"
+		"filename" "ze_lightnight_v1"
+		"updatedname" "ze_lightnight_v1"
+		"OnlyNominate" "1"
 	}
 	"ze_obj_encounter"
 	{
-		"workshop_id"		"3259618066"
-		"enabled"		"1"
-		"filename"		"ze_obj_encounter"
-		"updatedname"		"ze_obj_encounter"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3259618066"
+		"enabled" "1"
+		"filename" "ze_obj_encounter"
+		"updatedname" "ze_obj_encounter"
+		"OnlyNominate" "1"
 	}
 	"ze_summer_house"
 	{
-		"workshop_id"		"3273903663"
-		"enabled"		"1"
-		"filename"		"ze_summer_house"
-		"updatedname"		"ze_summer_house"
+		"workshop_id" "3273903663"
+		"enabled" "1"
+		"filename" "ze_summer_house"
+		"updatedname" "ze_summer_house"
 	}
 	"ze_shenzhimudi_initial_y"
 	{
-		"workshop_id"		"3279330405"
-		"enabled"		"1"
-		"filename"		"ze_shenzhimudi_initial"
-		"updatedname"		"ze_shenzhimudi_initial_y"
+		"workshop_id" "3279330405"
+		"enabled" "0"
+		"filename" "ze_shenzhimudi_initial_y"
+		"updatedname" "ze_shenzhimudi_initial_y"
+		"OnlyNominate" "1"
 	}
 	"ze_paranoia_cs2"
 	{
-		"workshop_id"		"3280216789"
-		"enabled"		"1"
-		"filename"		"ze_paranoia_cs2"
-		"updatedname"		"ze_paranoia_cs2"
+		"workshop_id" "3280216789"
+		"enabled" "1"
+		"filename" "ze_paranoia_cs2"
+		"updatedname" "ze_paranoia_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_geometric"
 	{
-		"workshop_id"		"3281834374"
-		"enabled"		"1"
-		"filename"		"ze_geometric"
-		"updatedname"		"ze_geometric"
+		"workshop_id" "3281834374"
+		"enabled" "1"
+		"filename" "ze_geometric"
+		"updatedname" "ze_geometric"
+		"OnlyNominate" "1"
 	}
 	"ze_diverted_destiny"
 	{
-		"workshop_id"		"3282400800"
-		"enabled"		"1"
-		"filename"		"ze_diverted_destiny"
-		"updatedname"		"ze_diverted_destiny"
+		"workshop_id" "3282400800"
+		"enabled" "1"
+		"filename" "ze_diverted_destiny"
+		"updatedname" "ze_diverted_destiny"
+		"OnlyNominate" "1"
 	}
 	"ze_Obf_Rescape"
 	{
-		"workshop_id"		"3283167200"
-		"enabled"		"1"
-		"filename"		"ze_obf_rescape"
-		"updatedname"		"ze_Obf_Rescape"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3283167200"
+		"enabled" "1"
+		"filename" "ze_obf_rescape"
+		"updatedname" "ze_obf_rescape"
+		"OnlyNominate" "1"
 	}
 	"ze_infiltration_final_p"
 	{
-		"workshop_id"		"3283238776"
-		"enabled"		"1"
-		"filename"		"ze_infiltration_final"
-		"updatedname"		"ze_infiltration_final_p"
-	}
-	"ze_starlight_revue_cs2"
-	{
-		"workshop_id"		"3285481137"
-		"enabled"		"0"
-		"filename"		"ze_starlight_revue_cs2"
-		"updatedname"		"ze_starlight_revue_cs2"
+		"workshop_id" "3283238776"
+		"enabled" "1"
+		"filename" "ze_infiltration_final_p"
+		"updatedname" "ze_infiltration_final_p"
 	}
 	"ze_fond_dream"
 	{
-		"workshop_id"		"3285633504"
-		"enabled"		"1"
-		"filename"		"ze_fond_dream"
-		"updatedname"		"ze_fond_dream"
+		"workshop_id" "3285633504"
+		"enabled" "0"
+		"filename" "ze_fond_dream"
+		"updatedname" "ze_fond_dream"
+		"OnlyNominate" "1"
 	}
 	"ze_Aoraitsu_Reloaded"
 	{
-		"workshop_id"		"3286182665"
-		"enabled"		"1"
-		"filename"		"ze_Aoraitsu_Reloaded"
-		"updatedname"		"ze_Aoraitsu_Reloaded"
+		"workshop_id" "3286182665"
+		"enabled" "1"
+		"filename" "ze_aoraitsu_reloaded"
+		"updatedname" "ze_aoraitsu_reloaded"
+		"OnlyNominate" "1"
 	}
 	"ze_FFVII_Mako_Reactor_v6_p"
 	{
-		"workshop_id"		"3273375829"
-		"enabled"		"1"
-		"filename"		"ze_FFVII_Mako_v6_p"
-		"updatedname"		"ze_FFVII_Mako_Reactor_v6_p"
+		"workshop_id" "3273375829"
+		"enabled" "1"
+		"filename" "ze_ffvii_mako_v6_p"
+		"updatedname" "ze_ffvii_mako_reactor_v6_p"
+		"OnlyNominate" "1"
 	}
 	"ze_mars_escape_xmas"
 	{
-		"workshop_id"		"3104693607"
-		"enabled"		"1"
-		"filename"		"ze_mars_escape_xmas"
-		"updatedname"		"ze_mars_escape_xmas"
-	}
-	"ze_FFVII_Mako_Reactor_v5_3"
-	{
-		"workshop_id"		"3289746748"
-		"enabled"		"1"
-		"filename"		"ze_FFVII_Mako_v5_3"
-		"updatedname"		"ze_FFVII_Mako_Reactor_v5_3"
+		"workshop_id" "3104693607"
+		"enabled" "1"
+		"filename" "ze_mars_escape_xmas"
+		"updatedname" "ze_mars_escape_xmas"
+		"OnlyNominate" "1"
 	}
 	"ze_skzroom"
 	{
-		"workshop_id"		"3291260013"
-		"enabled"		"1"
-		"filename"		"ze_skzroom"
-		"updatedname"		"ze_skzroom"
+		"workshop_id" "3291260013"
+		"enabled" "0"
+		"filename" "ze_skzroom"
+		"updatedname" "ze_skzroom"
 	}
 	"ze_wicked_organization"
 	{
-		"workshop_id"		"3291775385"
-		"enabled"		"1"
-		"filename"		"ze_wicked_organization"
-		"updatedname"		"ze_wicked_organization"
+		"workshop_id" "3291775385"
+		"enabled" "1"
+		"filename" "ze_wicked_organization"
+		"updatedname" "ze_wicked_organization"
 	}
 	"ze_silenthill_pt"
 	{
-		"workshop_id"		"3284621426"
-		"enabled"		"1"
-		"filename"		"ze_silenthill_pt"
-		"updatedname"		"ze_silenthill_pt"
-		"search"		"寂静岭;PT"
+		"workshop_id" "3284621426"
+		"enabled" "0"
+		"filename" "ze_silenthill_pt"
+		"updatedname" "ze_silenthill_pt"
+		"search" "寂静岭;PT"
 	}
 	"ze_conflict"
 	{
-		"workshop_id"		"3291812593"
-		"enabled"		"1"
-		"filename"		"ze_conflict"
-		"updatedname"		"ze_conflict"
+		"workshop_id" "3291812593"
+		"enabled" "1"
+		"filename" "ze_conflict"
+		"updatedname" "ze_conflict"
+		"OnlyNominate" "1"
 	}
 	"ze_outpost_escape_p"
 	{
-		"workshop_id"		"3292176189"
-		"enabled"		"1"
-		"filename"		"ze_outpost_escape_p"
-		"updatedname"		"ze_outpost_escape_p"
+		"workshop_id" "3292176189"
+		"enabled" "1"
+		"filename" "ze_outpost_escape_p"
+		"updatedname" "ze_outpost_escape_p"
 	}
 	"ze_immortal_flame"
 	{
-		"workshop_id"		"3292773390"
-		"enabled"		"1"
-		"filename"		"ze_immortal_flame"
-		"updatedname"		"ze_immortal_flame"
+		"workshop_id" "3292773390"
+		"enabled" "1"
+		"filename" "ze_immortal_flame"
+		"updatedname" "ze_immortal_flame"
+		"OnlyNominate" "1"
 	}
 	"ze_surf_hp"
 	{
-		"workshop_id"		"3293436009"
-		"enabled"		"1"
-		"filename"		"ze_surf_hp"
-		"updatedname"		"ze_surf_hp"
-		"search"		"卖血滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+		"workshop_id" "3293436009"
+		"enabled" "1"
+		"filename" "ze_surf_hp"
+		"updatedname" "ze_surf_hp"
+		"search" "卖血滑翔"
+		"OnlyNominate" "1"
 	}
 	"ze_undertale_sans_final"
 	{
-		"workshop_id"		"3294459795"
-		"enabled"		"1"
-		"filename"		"ze_undertale_sans_fin"
-		"updatedname"		"ze_undertale_sans_final"
+		"workshop_id" "3294459795"
+		"enabled" "1"
+		"filename" "ze_undertale_sans_final"
+		"updatedname" "ze_undertale_sans_final"
+		"OnlyNominate" "1"
 	}
 	"ze_FFVII_Snow_Cosmo"
 	{
-		"workshop_id"		"3295082384"
-		"enabled"		"1"
-		"filename"		"ze_FFVII_Snow_Cosmo"
-		"updatedname"		"ze_FFVII_Snow_Cosmo"
+		"workshop_id" "3295082384"
+		"enabled" "1"
+		"filename" "ze_ffvii_snow_cosmo"
+		"updatedname" "ze_ffvii_snow_cosmo"
+		"OnlyNominate" "1"
 	}
 	"ze_neron"
 	{
-		"workshop_id"		"3295495749"
-		"enabled"		"1"
-		"filename"		"ze_neron"
-		"updatedname"		"ze_neron"
+		"workshop_id" "3295495749"
+		"enabled" "1"
+		"filename" "ze_neron"
+		"updatedname" "ze_neron"
+		"OnlyNominate" "1"
 	}
 	"ze_obj_escalation_v1"
 	{
-		"workshop_id"		"3297038916"
-		"enabled"		"1"
-		"filename"		"ze_obj_escalation_v1"
-		"updatedname"		"ze_obj_escalation_v1"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3297038916"
+		"enabled" "1"
+		"filename" "ze_obj_escalation_v1"
+		"updatedname" "ze_obj_escalation_v1"
+		"OnlyNominate" "1"
 	}
 	"Ze_Nibui_Cs2"
 	{
-		"workshop_id"		"3297059804"
-		"enabled"		"1"
-		"filename"		"ze_nibui_a3_1a_f1"
-		"updatedname"		"Ze_Nibui_Cs2"
+		"workshop_id" "3297059804"
+		"enabled" "1"
+		"filename" "ze_nibui_a3_1a_f1"
+		"updatedname" "ze_nibui_a3_1a_f1"
+		"OnlyNominate" "1"
 	}
 	"ze_zandalar_forever"
 	{
-		"workshop_id"		"3297642912"
-		"enabled"		"1"
-		"filename"		"ze_zandalar_forever"
-		"updatedname"		"ze_zandalar_forever"
+		"workshop_id" "3297642912"
+		"enabled" "1"
+		"filename" "ze_zandalar_forever"
+		"updatedname" "ze_zandalar_forever"
+		"OnlyNominate" "1"
 	}
 	"ze_xenovation"
 	{
-		"workshop_id"		"3299009552"
-		"enabled"		"1"
-		"filename"		"ze_xenovation"
-		"updatedname"		"ze_xenovation"
+		"workshop_id" "3299009552"
+		"enabled" "1"
+		"filename" "ze_xenovation"
+		"updatedname" "ze_xenovation"
+		"OnlyNominate" "1"
 	}
 	"ze_sumai_facility_lite"
 	{
-		"workshop_id"		"3197712518"
-		"enabled"		"1"
-		"filename"		"ze_sumai_facility_lite"
-		"updatedname"		"ze_sumai_facility_lite"
+		"workshop_id" "3197712518"
+		"enabled" "1"
+		"filename" "ze_sumai_facility_lite"
+		"updatedname" "ze_sumai_facility_lite"
+		"OnlyNominate" "1"
 	}
 	"ze_lemonade"
 	{
-		"workshop_id"		"3148678988"
-		"enabled"		"1"
-		"filename"		"ze_lemonade"
-		"updatedname"		"ze_lemonade"
+		"workshop_id" "3148678988"
+		"enabled" "1"
+		"filename" "ze_lemonade"
+		"updatedname" "ze_lemonade"
 	}
 	"ze_pogworld"
 	{
-		"workshop_id"		"3162998843"
-		"enabled"		"1"
-		"filename"		"ze_pogworld"
-		"updatedname"		"ze_pogworld"
+		"workshop_id" "3162998843"
+		"enabled" "1"
+		"filename" "ze_pogworld"
+		"updatedname" "ze_pogworld"
 	}
 	"ze_1way_tunnel"
 	{
-		"workshop_id"		"3217363701"
-		"enabled"		"1"
-		"filename"		"ze_1way_tunnel"
-		"updatedname"		"ze_1way_tunnel"
+		"workshop_id" "3217363701"
+		"enabled" "1"
+		"filename" "ze_1way_tunnel"
+		"updatedname" "ze_1way_tunnel"
+		"OnlyNominate" "1"
 	}
 	"ze_DaBaDeeDaBaDie"
 	{
-		"workshop_id"		"3255751584"
-		"enabled"		"1"
-		"filename"		"ze_dabadeedabadie"
-		"updatedname"		"ze_DaBaDeeDaBaDie"
+		"workshop_id" "3255751584"
+		"enabled" "1"
+		"filename" "ze_dabadeedabadie"
+		"updatedname" "ze_dabadeedabadie"
 	}
 	"ze_MORELL_April_Vacation_p"
 	{
-		"workshop_id"		"3208765636"
-		"enabled"		"1"
-		"filename"		"ze_morell_april_vaca"
-		"updatedname"		"ze_MORELL_April_Vacation_p"
+		"workshop_id" "3208765636"
+		"enabled" "1"
+		"filename" "ze_morell_april_vacation_p"
+		"updatedname" "ze_morell_april_vacation_p"
+		"OnlyNominate" "1"
 	}
 	"ze_eizures_b1_1"
 	{
-		"workshop_id"		"3102196028"
-		"enabled"		"0"
-		"filename"		"ze_eizures_b1_1"
-		"updatedname"		"ze_eizures_b1_1"
+		"workshop_id" "3102196028"
+		"enabled" "1"
+		"filename" "ze_eizures_b1_1"
+		"updatedname" "ze_eizures_b1_1"
+		"OnlyNominate" "1"
 	}
 	"ze_dormitory_uestc_cs2"
 	{
-		"workshop_id"		"3088434789"
-		"enabled"		"1"
-		"filename"		"ze_dormitory_uestc"
-		"updatedname"		"ze_dormitory_uestc_cs2"
+		"workshop_id" "3088434789"
+		"enabled" "0"
+		"filename" "ze_dormitory_uestc"
+		"updatedname" "ze_dormitory_uestc"
 	}
 	"ze_Box_Defend盒子防守"
 	{
-		"workshop_id"		"3133817890"
-		"enabled"		"1"
-		"filename"		"ze_box_defend_v1_4"
-		"updatedname"		"ze_Box_Defend盒子防守"
+		"workshop_id" "3133817890"
+		"enabled" "1"
+		"filename" "ze_box_defend_v1_4"
+		"updatedname" "ze_box_defend_v1_4"
 	}
 	"ze_silent_hill_3_dawn"
 	{
-		"workshop_id"		"3303188199"
-		"enabled"		"1"
-		"filename"		"ze_silent_hill_3_dawn"
-		"updatedname"		"ze_silent_hill_3_dawn"
-		"search"		"寂静岭;黎明"
+		"workshop_id" "3303188199"
+		"enabled" "1"
+		"filename" "ze_silent_hill_3_dawn"
+		"updatedname" "ze_silent_hill_3_dawn"
+		"search" "寂静岭;黎明"
+		"OnlyNominate" "1"
 	}
 	"ze_silent_hill_3_flee"
 	{
-		"workshop_id"		"3303191928"
-		"enabled"		"1"
-		"filename"		"ze_silent_hill_3_flee"
-		"updatedname"		"ze_silent_hill_3_flee"
-		"search"		"寂静岭;逃离"
+		"workshop_id" "3303191928"
+		"enabled" "1"
+		"filename" "ze_silent_hill_3_flee"
+		"updatedname" "ze_silent_hill_3_flee"
+		"search" "寂静岭;逃离"
+		"OnlyNominate" "1"
 	}
 	"ze_Industrial_Dejavu"
 	{
-		"workshop_id"		"3303378356"
-		"enabled"		"1"
-		"filename"		"ze_industrial_dejavu"
-		"updatedname"		"ze_Industrial_Dejavu"
-	}
-	"ze_jurassic_life"
-	{
-		"workshop_id"		"3306638579"
-		"enabled"		"0"
-		"filename"		"ze_jurassic_life"
-		"updatedname"		"ze_jurassic_life"
+		"workshop_id" "3303378356"
+		"enabled" "1"
+		"filename" "ze_industrial_dejavu"
+		"updatedname" "ze_industrial_dejavu"
+		"OnlyNominate" "1"
 	}
 	"ze_tilex_ultimate_p"
 	{
-		"workshop_id"		"3304371486"
-		"enabled"		"1"
-		"filename"		"ze_tilex_ultimate_p"
-		"updatedname"		"ze_tilex_ultimate_p"
-	}
-	"ze_ffxiv_the_orbonne_monastery"
-	{
-		"workshop_id"		"3302617978"
-		"enabled"		"1"
-		"filename"		"ze_ffxiv_the_orbonne"
-		"updatedname"		"ze_ffxiv_the_orbonne_monastery"
+		"workshop_id" "3304371486"
+		"enabled" "1"
+		"filename" "ze_tilex_ultimate_p"
+		"updatedname" "ze_tilex_ultimate_p"
+		"OnlyNominate" "1"
 	}
 	"ze_sky_defend_v1"
 	{
-		"workshop_id"		"3286133969"
-		"enabled"		"1"
-		"filename"		"ze_sky_defend"
-		"updatedname"		"ze_sky_defend_v1"
-	}
-	"ze_shenzhimudi_dawn_ysn1"
-	{
-		"workshop_id"		"3303404537"
-		"enabled"		"1"
-		"filename"		"ze_shenzhimudi_dawn_ysn1"
-		"updatedname"		"ze_shenzhimudi_dawn_ysn1"
+		"workshop_id" "3286133969"
+		"enabled" "0"
+		"filename" "ze_sky_defend"
+		"updatedname" "ze_sky_defend"
+		"OnlyNominate" "1"
 	}
 	"ze_Steyliff_Grove"
 	{
-		"workshop_id"		"3304076935"
-		"enabled"		"1"
-		"filename"		"ze_steyliff_grove"
-		"updatedname"		"ze_Steyliff_Grove"
+		"workshop_id" "3304076935"
+		"enabled" "0"
+		"filename" "ze_steyliff_grove"
+		"updatedname" "ze_steyliff_grove"
+		"OnlyNominate" "1"
 	}
 	"ze_urban_laby_of_death_p"
 	{
-		"workshop_id"		"3304571694"
-		"enabled"		"1"
-		"filename"		"ze_urban_laby_of_death_p"
-		"updatedname"		"ze_urban_laby_of_death_p"
+		"workshop_id" "3304571694"
+		"enabled" "1"
+		"filename" "ze_urban_laby_of_death_p"
+		"updatedname" "ze_urban_laby_of_death_p"
 	}
 	"ze_angelbeats_guild"
 	{
-		"workshop_id"		"3306796313"
-		"enabled"		"1"
-		"filename"		"ze_angelbeats_guild"
-		"updatedname"		"ze_angelbeats_guild"
+		"workshop_id" "3306796313"
+		"enabled" "1"
+		"filename" "ze_angelbeats_guild"
+		"updatedname" "ze_angelbeats_guild"
 	}
 	"ze_urbanstone"
 	{
-		"workshop_id"		"3264302314"
-		"enabled"		"1"
-		"filename"		"ze_urbanstone"
-		"updatedname"		"ze_urbanstone"
+		"workshop_id" "3264302314"
+		"enabled" "1"
+		"filename" "ze_urbanstone"
+		"updatedname" "ze_urbanstone"
+		"OnlyNominate" "1"
 	}
 	"ze_Deadcore"
 	{
-		"workshop_id"		"3304554968"
-		"enabled"		"1"
-		"filename"		"ze_deadcore"
-		"updatedname"		"ze_deadcore"
-		"search"		"死亡核心"
-		"RestrictedTimes"	"00:00-23:59"
+		"workshop_id" "3304554968"
+		"enabled" "1"
+		"filename" "ze_deadcore"
+		"updatedname" "ze_deadcore"
+		"search" "死亡核心"
+		"OnlyNominate" "1"
+		"RestrictedTimes" "00:00-23:59"
 	}
 	"ze_fapescape_katrina"
 	{
-		"workshop_id"		"3309007201"
-		"enabled"		"1"
-		"filename"		"ze_fapescape_katrina"
-		"updatedname"		"ze_fapescape_katrina"
+		"workshop_id" "3309007201"
+		"enabled" "0"
+		"filename" "ze_fapescape_katrina"
+		"updatedname" "ze_fapescape_katrina"
+		"OnlyNominate" "1"
 	}
 	"ze_magus_v2_4"
 	{
-		"workshop_id"		"3309053758"
-		"enabled"		"1"
-		"filename"		"ze_magus_v2_4"
-		"updatedname"		"ze_magus_v2_4"
+		"workshop_id" "3309053758"
+		"enabled" "1"
+		"filename" "ze_magus_v2_4"
+		"updatedname" "ze_magus_v2_4"
+		"OnlyNominate" "1"
 	}
 	"ze_ffvii_cosmo_canyon_t"
 	{
-		"workshop_id"		"3310260547"
-		"enabled"		"1"
-		"filename"		"ze_ffvii_cosmo_canyon_t"
-		"updatedname"		"ze_ffvii_cosmo_canyon_t"
+		"workshop_id" "3310260547"
+		"enabled" "1"
+		"filename" "ze_ffvii_cosmo_canyon_t"
+		"updatedname" "ze_ffvii_cosmo_canyon_t"
+		"OnlyNominate" "1"
 	}
 	"ze_Obf_Insane"
 	{
-		"workshop_id"		"3310660027"
-		"enabled"		"1"
-		"filename"		"ze_obf_insane"
-		"updatedname"		"ze_Obf_Insane"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3310660027"
+		"enabled" "1"
+		"filename" "ze_obf_insane"
+		"updatedname" "ze_obf_insane"
+		"OnlyNominate" "1"
 	}
 	"ze_Aooka3"
 	{
-		"workshop_id"		"3310240982"
-		"enabled"		"1"
-		"filename"		"ze_aooka"
-		"updatedname"		"ze_Aooka3"
+		"workshop_id" "3310240982"
+		"enabled" "1"
+		"filename" "ze_aooka"
+		"updatedname" "ze_aooka"
+		"OnlyNominate" "1"
 	}
 	"ze_surf_sky_islands"
 	{
-		"workshop_id"		"3304434521"
-		"enabled"		"1"
-		"filename"		"ze_surf_sky_islands"
-		"updatedname"		"ze_surf_sky_islands"
-		"search"		"浮岛滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
-	}
-	"ze_honkai_impact_tqs"
-	{
-		"workshop_id"		"3311391580"
-		"enabled"		"1"
-		"filename"		"ze_honkai_impact_tqs"
-		"updatedname"		"ze_honkai_impact_tqs"
-	}
-	"ze_LOTR_Minas_Tirith_p"
-	{
-		"workshop_id"		"3314560349"
-		"enabled"		"0"
-		"filename"		"ze_lotr_minas_tirith_p"
-		"updatedname"		"ze_LOTR_Minas_Tirith_p"
-		"search"		"米那斯;魔戒3"
+		"workshop_id" "3304434521"
+		"enabled" "1"
+		"filename" "ze_surf_sky_islands"
+		"updatedname" "ze_surf_sky_islands"
+		"search" "浮岛滑翔"
+		"OnlyNominate" "1"
 	}
 	"ze_flying_world"
 	{
-		"workshop_id"		"3318263833"
-		"enabled"		"1"
-		"filename"		"ze_flying_world"
-		"updatedname"		"ze_flying_world"
+		"workshop_id" "3318263833"
+		"enabled" "1"
+		"filename" "ze_flying_world"
+		"updatedname" "ze_flying_world"
 	}
 	"ze_mist_p"
 	{
-		"workshop_id"		"3318559672"
-		"enabled"		"1"
-		"filename"		"ze_mist_p"
-		"updatedname"		"ze_mist_p"
+		"workshop_id" "3318559672"
+		"enabled" "1"
+		"filename" "ze_mist_p"
+		"updatedname" "ze_mist_p"
+		"OnlyNominate" "1"
 	}
 	"ze_grau_p"
 	{
-		"workshop_id"		"3246171131"
-		"enabled"		"1"
-		"filename"		"ze_grau_p"
-		"updatedname"		"ze_grau_p"
+		"workshop_id" "3400136962"
+		"enabled" "0"
+		"filename" "ze_grau_p"
+		"updatedname" "ze_grau_p"
+		"OnlyNominate" "1"
 	}
 	"ze_santassination_p"
 	{
-		"workshop_id"		"3307061089"
-		"enabled"		"1"
-		"filename"		"ze_santassination_p"
-		"updatedname"		"ze_santassination_p"
-		"search"		"狮子王"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3307061089"
+		"enabled" "1"
+		"filename" "ze_santassination_p"
+		"updatedname" "ze_santassination_p"
+		"search" "狮子王"
+		"OnlyNominate" "1"
+		"DisableServerInPerfectWorld" "0"
 	}
 	"ze_rooftop_rogue_ws"
 	{
-		"workshop_id"		"3315967896"
-		"enabled"		"1"
-		"filename"		"ze_rooftop_rogue_ws"
-		"updatedname"		"ze_rooftop_rogue_ws"
+		"workshop_id" "3315967896"
+		"enabled" "1"
+		"filename" "ze_rooftop_rogue_ws"
+		"updatedname" "ze_rooftop_rogue_ws"
 	}
 	"ze_ny_marathon_cs2"
 	{
-		"workshop_id"		"3321297949"
-		"enabled"		"1"
-		"filename"		"ze_ny_marathon_cs2"
-		"updatedname"		"ze_ny_marathon_cs2"
+		"workshop_id" "3321297949"
+		"enabled" "0"
+		"filename" "ze_ny_marathon_cs2"
+		"updatedname" "ze_ny_marathon_cs2"
 	}
 	"ze_easy_escape_v4"
 	{
-		"workshop_id"		"3322882927"
-		"enabled"		"1"
-		"filename"		"ze_easy_escape_v4"
-		"updatedname"		"ze_easy_escape_v4"
+		"workshop_id" "3322882927"
+		"enabled" "1"
+		"filename" "ze_easy_escape_v4"
+		"updatedname" "ze_easy_escape_v4"
+		"OnlyNominate" "1"
 	}
 	"ze_skyscraper_city_p"
 	{
-		"workshop_id"		"3323092112"
-		"enabled"		"1"
-		"filename"		"ze_skyscraper_city_p"
-		"updatedname"		"ze_skyscraper_city_p"
+		"workshop_id" "3323092112"
+		"enabled" "1"
+		"filename" "ze_skyscraper_city_p"
+		"updatedname" "ze_skyscraper_city_p"
 	}
 	"ze_Desperate_Soul"
 	{
-		"workshop_id"		"3323542208"
-		"enabled"		"1"
-		"filename"		"ze_desperate_soul"
-		"updatedname"		"ze_Desperate_Soul"
+		"workshop_id" "3323542208"
+		"enabled" "1"
+		"filename" "ze_desperate_soul"
+		"updatedname" "ze_desperate_soul"
+		"OnlyNominate" "1"
 	}
 	"ze_Mountain_Escape_Snow"
 	{
-		"workshop_id"		"3324156583"
-		"enabled"		"1"
-		"filename"		"ze_mountain_escape_snow"
-		"updatedname"		"ze_Mountain_Escape_Snow"
+		"workshop_id" "3324156583"
+		"enabled" "1"
+		"filename" "ze_mountain_escape_snow"
+		"updatedname" "ze_mountain_escape_snow"
 	}
 	"ze_sst2_p"
 	{
-		"workshop_id"		"3324696235"
-		"enabled"		"1"
-		"filename"		"ze_sst2_p"
-		"updatedname"		"ze_sst2_p"
+		"workshop_id" "3324696235"
+		"enabled" "1"
+		"filename" "ze_sst2_p"
+		"updatedname" "ze_sst2_p"
 	}
 	"ze_jurassic_park_story_p"
 	{
-		"workshop_id"		"3325370910"
-		"enabled"		"1"
-		"filename"		"ze_jurassic_park_story_p"
-		"updatedname"		"ze_jurassic_park_story_p"
+		"workshop_id" "3325370910"
+		"enabled" "1"
+		"filename" "ze_jurassic_park_story_p"
+		"updatedname" "ze_jurassic_park_story_p"
 	}
 	"ze_flower"
 	{
-		"workshop_id"		"3325696092"
-		"enabled"		"1"
-		"filename"		"ze_flower"
-		"updatedname"		"ze_flower"
+		"workshop_id" "3325696092"
+		"enabled" "1"
+		"filename" "ze_flower"
+		"updatedname" "ze_flower"
+		"OnlyNominate" "1"
 	}
 	"ze_insanitycity_t"
 	{
-		"workshop_id"		"3326176066"
-		"enabled"		"1"
-		"filename"		"ze_insanitycity_t"
-		"updatedname"		"ze_insanitycity_t"
+		"workshop_id" "3326176066"
+		"enabled" "1"
+		"filename" "ze_insanitycity_t"
+		"updatedname" "ze_insanitycity_t"
 	}
 	"ze_blackmesa_remix_cs2"
 	{
-		"workshop_id"		"3329668908"
-		"enabled"		"1"
-		"filename"		"ze_blackmesa_remix_cs2"
-		"updatedname"		"ze_blackmesa_remix_cs2"
+		"workshop_id" "3329668908"
+		"enabled" "1"
+		"filename" "ze_blackmesa_remix_cs2"
+		"updatedname" "ze_blackmesa_remix_cs2"
 	}
 	"ze_raintime2_stormwindkeep_v2"
 	{
-		"workshop_id"		"3330181267"
-		"enabled"		"1"
-		"filename"		"ze_raintime2_stormwindkeep_v3"
-		"updatedname"		"ze_raintime2_stormwindkeep_v2"
+		"workshop_id" "3330181267"
+		"enabled" "1"
+		"filename" "ze_raintime2_stormwindkeep_v3"
+		"updatedname" "ze_raintime2_stormwindkeep_v3"
+		"OnlyNominate" "1"
 	}
 	"ze_minecraft_run"
 	{
-		"workshop_id"		"3330692980"
-		"enabled"		"1"
-		"filename"		"ze_minecraft_run"
-		"updatedname"		"ze_minecraft_run"
+		"workshop_id" "3330692980"
+		"enabled" "1"
+		"filename" "ze_minecraft_run"
+		"updatedname" "ze_minecraft_run"
 	}
 	"ze_deadcore_r"
 	{
-		"workshop_id"		"3331345627"
-		"enabled"		"1"
-		"filename"		"ze_deadcore_r"
-		"updatedname"		"ze_deadcore_r"
-		"RestrictedTimes"	"00:00-23:59"
+		"workshop_id" "3331345627"
+		"enabled" "1"
+		"filename" "ze_deadcore_r"
+		"updatedname" "ze_deadcore_r"
+		"OnlyNominate" "1"
 	}
 	"ze_rt4_hessel_valley"
 	{
-		"workshop_id"		"3331546631"
-		"enabled"		"1"
-		"filename"		"ze_rt4_hessel_valley"
-		"updatedname"		"ze_rt4_hessel_valley"
+		"workshop_id" "3331546631"
+		"enabled" "0"
+		"filename" "ze_rt4_hessel_valley"
+		"updatedname" "ze_rt4_hessel_valley"
+		"OnlyNominate" "1"
 	}
 	"ze_aepp_nano_grid2_p"
 	{
-		"workshop_id"		"3331937749"
-		"enabled"		"1"
-		"filename"		"ze_aepp_nano_grid2_p"
-		"updatedname"		"ze_aepp_nano_grid2_p"
+		"workshop_id" "3331937749"
+		"enabled" "1"
+		"filename" "ze_aepp_nano_grid2_p"
+		"updatedname" "ze_aepp_nano_grid2_p"
 	}
 	"ze_zalupahui"
 	{
-		"workshop_id"		"3334469634"
-		"enabled"		"1"
-		"filename"		"ze_zalupahui"
-		"updatedname"		"ze_zalupahui"
+		"workshop_id" "3334469634"
+		"enabled" "1"
+		"filename" "ze_zalupahui"
+		"updatedname" "ze_zalupahui"
 	}
 	"ze_icecap_escape_p"
 	{
-		"workshop_id"		"3075976468"
-		"enabled"		"1"
-		"filename"		"ze_icecap_escape_p"
-		"updatedname"		"ze_icecap_escape_p"
-	}
-	"ze_sex_mod_hentai_beachescape_camper_p"
-	{
-		"workshop_id"		"3083690613"
-		"enabled"		"0"
-		"filename"		"ze_sex_mod_hentai_p"
-		"updatedname"		"ze_sex_mod_hentai_beachescape_camper_p"
+		"workshop_id" "3075976468"
+		"enabled" "1"
+		"filename" "ze_icecap_escape_p"
+		"updatedname" "ze_icecap_escape_p"
 	}
 	"ze_terraced_escape"
 	{
-		"workshop_id"		"3306102386"
-		"enabled"		"1"
-		"filename"		"ze_terraced_escape"
-		"updatedname"		"ze_terraced_escape"
+		"workshop_id" "3306102386"
+		"enabled" "1"
+		"filename" "ze_terraced_escape"
+		"updatedname" "ze_terraced_escape"
 	}
 	"ze_eye_for_an_eye"
 	{
-		"workshop_id"		"3324889605"
-		"enabled"		"1"
-		"filename"		"ze_eye_for_an_eye_v22"
-		"updatedname"		"ze_eye_for_an_eye"
+		"workshop_id" "3324889605"
+		"enabled" "1"
+		"filename" "ze_eye_for_an_eye_v22"
+		"updatedname" "ze_eye_for_an_eye_v22"
+		"OnlyNominate" "1"
 	}
 	"ze_little_trip"
 	{
-		"workshop_id"		"3328341985"
-		"enabled"		"1"
-		"filename"		"ze_little_trip"
-		"updatedname"		"ze_little_trip"
+		"workshop_id" "3328341985"
+		"enabled" "1"
+		"filename" "ze_little_trip"
+		"updatedname" "ze_little_trip"
+		"OnlyNominate" "1"
 	}
 	"ze_arknights_initium"
 	{
-		"workshop_id"		"3330894823"
-		"enabled"		"1"
-		"filename"		"ze_arknights_initium"
-		"updatedname"		"ze_arknights_initium"
+		"workshop_id" "3330894823"
+		"enabled" "1"
+		"filename" "ze_arknights_initium"
+		"updatedname" "ze_arknights_initium"
+		"OnlyNominate" "1"
 	}
 	"ze_rt0_genesis"
 	{
-		"workshop_id"		"3333641272"
-		"enabled"		"1"
-		"filename"		"ze_rt0_genesis_cs2"
-		"updatedname"		"ze_rt0_genesis"
+		"workshop_id" "3333641272"
+		"enabled" "1"
+		"filename" "ze_rt0_genesis_cs2"
+		"updatedname" "ze_rt0_genesis_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_nuclear_site_survie_by_gm"
 	{
-		"workshop_id"		"3333753339"
-		"enabled"		"1"
-		"filename"		"ze_nuclear_site_survie_by_gm"
-		"updatedname"		"ze_nuclear_site_survie_by_gm"
+		"workshop_id" "3333753339"
+		"enabled" "1"
+		"filename" "ze_nuclear_site_survie_by_gm"
+		"updatedname" "ze_nuclear_site_survie_by_gm"
+		"OnlyNominate" "1"
 	}
 	"ze_palace_of_minolila_cs2"
 	{
-		"workshop_id"		"3316647362"
-		"enabled"		"1"
-		"filename"		"ze_palace_of_minolila_cs2"
-		"updatedname"		"ze_palace_of_minolila_cs2"
+		"workshop_id" "3316647362"
+		"enabled" "1"
+		"filename" "ze_palace_of_minolila_cs2"
+		"updatedname" "ze_palace_of_minolila_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_sky_fantasy_v2"
 	{
-		"workshop_id"		"3334864881"
-		"enabled"		"1"
-		"filename"		"ze_sky_fantasy_v2"
-		"updatedname"		"ze_sky_fantasy_v2"
+		"workshop_id" "3334864881"
+		"enabled" "1"
+		"filename" "ze_sky_fantasy_v2"
+		"updatedname" "ze_sky_fantasy_v2"
+		"OnlyNominate" "1"
 	}
 	"ze__hell_p"
 	{
-		"workshop_id"		"3338986984"
-		"enabled"		"1"
-		"filename"		"ze__hell_p"
-		"updatedname"		"ze__hell_p"
+		"workshop_id" "3338986984"
+		"enabled" "1"
+		"filename" "ze__hell_p"
+		"updatedname" "ze__hell_p"
 	}
 	"ze_fragment_ops_rewind"
 	{
-		"workshop_id"		"3339737651"
-		"enabled"		"1"
-		"filename"		"ze_fragment_ops_rewind"
-		"updatedname"		"ze_fragment_ops_rewind"
+		"workshop_id" "3339737651"
+		"enabled" "1"
+		"filename" "ze_fragment_ops_rewind"
+		"updatedname" "ze_fragment_ops_rewind"
+		"OnlyNominate" "1"
 	}
 	"ze_highest_to_lowest"
 	{
-		"workshop_id"		"3339829564"
-		"enabled"		"1"
-		"filename"		"ze_highest_to_lowest"
-		"updatedname"		"ze_highest_to_lowest"
+		"workshop_id" "3339829564"
+		"enabled" "1"
+		"filename" "ze_highest_to_lowest"
+		"updatedname" "ze_highest_to_lowest"
 	}
 	"ze_FFVII_temple_ancient"
 	{
-		"workshop_id"		"3340741299"
-		"enabled"		"1"
-		"filename"		"ze_ffvii_temple_ancient_v5"
-		"updatedname"		"ze_FFVII_temple_ancient"
+		"workshop_id" "3340741299"
+		"enabled" "1"
+		"filename" "ze_ffvii_temple_ancient_v5"
+		"updatedname" "ze_ffvii_temple_ancient_v5"
+		"OnlyNominate" "1"
 	}
 	"ze_FFXII_Westersand_v8"
 	{
-		"workshop_id"		"3344357687"
-		"enabled"		"1"
-		"filename"		"ze_ffxii_westersand_v8"
-		"updatedname"		"ze_FFXII_Westersand_v8"
+		"workshop_id" "3344357687"
+		"enabled" "1"
+		"filename" "ze_ffxii_westersand_v8"
+		"updatedname" "ze_ffxii_westersand_v8"
+		"OnlyNominate" "1"
 	}
 	"ze_tyranny"
 	{
-		"workshop_id"		"3345284992"
-		"enabled"		"1"
-		"filename"		"ze_tyranny_cs2"
-		"updatedname"		"ze_tyranny"
+		"workshop_id" "3345284992"
+		"enabled" "1"
+		"filename" "ze_tyranny_cs2"
+		"updatedname" "ze_tyranny_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_forhidden_void"
 	{
-		"workshop_id"		"3347081341"
-		"enabled"		"1"
-		"filename"		"ze_forhidden_void"
-		"updatedname"		"ze_forhidden_void"
+		"workshop_id" "3347081341"
+		"enabled" "1"
+		"filename" "ze_forhidden_void"
+		"updatedname" "ze_forhidden_void"
+		"OnlyNominate" "1"
 	}
 	"ze_arknights_sows"
 	{
-		"workshop_id"		"3347418203"
-		"enabled"		"1"
-		"filename"		"ze_arknights_sows"
-		"updatedname"		"ze_arknights_sows"
+		"workshop_id" "3347418203"
+		"enabled" "1"
+		"filename" "ze_arknights_sows"
+		"updatedname" "ze_arknights_sows"
+		"OnlyNominate" "1"
 	}
 	"ze_Obf_NPST_v2"
 	{
-		"workshop_id"		"3348665019"
-		"enabled"		"1"
-		"filename"		"ze_obf_npst_v2"
-		"updatedname"		"ze_Obf_NPST_v2"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
-	}
-	"ze_parking_cs2"
-	{
-		"workshop_id"		"3349087452"
-		"enabled"		"1"
-		"filename"		"ze_parking_cs2"
-		"updatedname"		"ze_parking_cs2"
+		"workshop_id" "3348665019"
+		"enabled" "1"
+		"filename" "ze_obf_npst_v2"
+		"updatedname" "ze_obf_npst_v2"
+		"OnlyNominate" "1"
 	}
 	"ze_light_911"
 	{
-		"workshop_id"		"3349284078"
-		"enabled"		"1"
-		"filename"		"ze_light_911"
-		"updatedname"		"ze_light_911"
+		"workshop_id" "3349284078"
+		"enabled" "1"
+		"filename" "ze_light_911"
+		"updatedname" "ze_light_911"
 	}
 	"ze_ShroomForest3_p"
 	{
-		"workshop_id"		"3352275561"
-		"enabled"		"1"
-		"filename"		"ze_shroomforest3_p"
-		"updatedname"		"ze_ShroomForest3_p"
+		"workshop_id" "3352275561"
+		"enabled" "1"
+		"filename" "ze_shroomforest3_p"
+		"updatedname" "ze_shroomforest3_p"
+		"OnlyNominate" "1"
 	}
 	"ze_Last_Man_Standing_p"
 	{
-		"workshop_id"		"3353304489"
-		"enabled"		"1"
-		"filename"		"ze_last_man_standing_p"
-		"updatedname"		"ze_Last_Man_Standing_p"
-		"RestrictedTimes"	"00:00-23:59"
+		"workshop_id" "3353304489"
+		"enabled" "1"
+		"filename" "ze_last_man_standing_p"
+		"updatedname" "ze_last_man_standing_p"
+		"OnlyNominate" "1"
 	}
 	"ze_FFXII_Paramina_Rift"
 	{
-		"workshop_id"		"3353405580"
-		"enabled"		"1"
-		"filename"		"ze_ffxii_paramina_rift"
-		"updatedname"		"ze_FFXII_Paramina_Rift"
+		"workshop_id" "3353405580"
+		"enabled" "1"
+		"filename" "ze_ffxii_paramina_rift"
+		"updatedname" "ze_ffxii_paramina_rift"
+		"OnlyNominate" "1"
 	}
 	"ze_sa2_pumpkin_hill"
 	{
-		"workshop_id"		"3343888861"
-		"enabled"		"1"
-		"filename"		"ze_sa2_pumpkin_hill"
-		"updatedname"		"ze_sa2_pumpkin_hill"
+		"workshop_id" "3343888861"
+		"enabled" "1"
+		"filename" "ze_sa2_pumpkin_hill"
+		"updatedname" "ze_sa2_pumpkin_hill"
 	}
 	"ze_solidarity_paper_cs2_l"
 	{
-		"workshop_id"		"3355293896"
-		"enabled"		"1"
-		"filename"		"ze_solidarity_paper_cs2_l"
-		"updatedname"		"ze_solidarity_paper_cs2_l"
+		"workshop_id" "3355293896"
+		"enabled" "1"
+		"filename" "ze_solidarity_paper_cs2_l"
+		"updatedname" "ze_solidarity_paper_cs2_l"
 	}
 	"ze_tear_of_tide"
 	{
-		"workshop_id"		"3355621066"
-		"enabled"		"1"
-		"filename"		"ze_tear_of_tide"
-		"updatedname"		"ze_tear_of_tide"
+		"workshop_id" "3355621066"
+		"enabled" "0"
+		"filename" "ze_tear_of_tide"
+		"updatedname" "ze_tear_of_tide"
+		"OnlyNominate" "1"
 	}
 	"ze_quiver_cs2"
 	{
-		"workshop_id"		"3355818753"
-		"enabled"		"1"
-		"filename"		"ze_quiver_cs2"
-		"updatedname"		"ze_quiver_cs2"
+		"workshop_id" "3355818753"
+		"enabled" "0"
+		"filename" "ze_quiver_cs2"
+		"updatedname" "ze_quiver_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_eizures_b2"
 	{
-		"workshop_id"		"3309934498"
-		"enabled"		"1"
-		"filename"		"ze_eizures_b2"
-		"updatedname"		"ze_eizures_b2"
+		"workshop_id" "3309934498"
+		"enabled" "1"
+		"filename" "ze_eizures_b2"
+		"updatedname" "ze_eizures_b2"
+		"OnlyNominate" "1"
 	}
 	"ze_1_ScHiZo"
 	{
-		"workshop_id"		"3328202968"
-		"enabled"		"1"
-		"filename"		"ze_1_schizo"
-		"updatedname"		"ze_1_ScHiZo"
+		"workshop_id" "3328202968"
+		"enabled" "1"
+		"filename" "ze_1_schizo"
+		"updatedname" "ze_1_schizo"
+		"OnlyNominate" "1"
 	}
 	"ze_coolcoolsnowman_n64"
 	{
-		"workshop_id"		"3328612540"
-		"enabled"		"1"
-		"filename"		"ze_coolcoolsnowman_n64"
-		"updatedname"		"ze_coolcoolsnowman_n64"
+		"workshop_id" "3328612540"
+		"enabled" "1"
+		"filename" "ze_coolcoolsnowman_n64"
+		"updatedname" "ze_coolcoolsnowman_n64"
 	}
 	"ze_Serpentis_Temple"
 	{
-		"workshop_id"		"3357015378"
-		"enabled"		"1"
-		"filename"		"ze_serpentis_temple"
-		"updatedname"		"ze_Serpentis_Temple"
+		"workshop_id" "3357015378"
+		"enabled" "1"
+		"filename" "ze_serpentis_temple"
+		"updatedname" "ze_serpentis_temple"
+		"OnlyNominate" "1"
 	}
 	"ze_Cyberspace"
 	{
-		"workshop_id"		"3357121032"
-		"enabled"		"1"
-		"filename"		"ze_cyberspace_v2"
-		"updatedname"		"ze_Cyberspace"
+		"workshop_id" "3357121032"
+		"enabled" "1"
+		"filename" "ze_cyberspace_v2"
+		"updatedname" "ze_cyberspace_v2"
+		"OnlyNominate" "1"
 	}
 	"ze_Obf_Rampage_v2_Legacy"
 	{
-		"workshop_id"		"3358056867"
-		"enabled"		"1"
-		"filename"		"ze_obf_rampage_v2_legacy"
-		"updatedname"		"ze_Obf_Rampage_v2_Legacy"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3358056867"
+		"enabled" "1"
+		"filename" "ze_obf_rampage_v2_legacy"
+		"updatedname" "ze_obf_rampage_v2_legacy"
+		"OnlyNominate" "1"
 	}
 	"ze_icebreaker"
 	{
-		"workshop_id"		"3356773677"
-		"enabled"		"1"
-		"filename"		"ze_icebreaker"
-		"updatedname"		"ze_icebreaker"
+		"workshop_id" "3356773677"
+		"enabled" "1"
+		"filename" "ze_icebreaker"
+		"updatedname" "ze_icebreaker"
+		"OnlyNominate" "1"
 	}
 	"ze_embertwin_v1"
 	{
-		"workshop_id"		"3357784018"
-		"enabled"		"1"
-		"filename"		"ze_embertwin_v1"
-		"updatedname"		"ze_embertwin_v1"
+		"workshop_id" "3357784018"
+		"enabled" "0"
+		"filename" "ze_embertwin_v1"
+		"updatedname" "ze_embertwin_v1"
+		"OnlyNominate" "1"
 	}
 	"ze_opti_variety_missions_p"
 	{
-		"workshop_id"		"3364323435"
-		"enabled"		"1"
-		"filename"		"ze_opti_variety_missions_p"
-		"updatedname"		"ze_opti_variety_missions_p"
+		"workshop_id" "3364323435"
+		"enabled" "1"
+		"filename" "ze_opti_variety_missions_p"
+		"updatedname" "ze_opti_variety_missions_p"
 	}
 	"ze_2049"
 	{
-		"workshop_id"		"3360193336"
-		"enabled"		"1"
-		"filename"		"ze_2049"
-		"updatedname"		"ze_2049"
+		"workshop_id" "3360193336"
+		"enabled" "1"
+		"filename" "ze_2049"
+		"updatedname" "ze_2049"
+		"OnlyNominate" "1"
 	}
 	"ze_legoland_crackheads"
 	{
-		"workshop_id"		"3360546897"
-		"enabled"		"1"
-		"filename"		"ze_legoland_crackheads"
-		"updatedname"		"ze_legoland_crackheads"
+		"workshop_id" "3360546897"
+		"enabled" "1"
+		"filename" "ze_legoland_crackheads"
+		"updatedname" "ze_legoland_crackheads"
+		"OnlyNominate" "1"
 	}
 	"ze_naruto_z"
 	{
-		"workshop_id"		"3361027839"
-		"enabled"		"1"
-		"filename"		"ze_naruto_z"
-		"updatedname"		"ze_naruto_z"
+		"workshop_id" "3361027839"
+		"enabled" "0"
+		"filename" "ze_naruto_z"
+		"updatedname" "ze_naruto_z"
+		"OnlyNominate" "1"
 	}
 	"ze_Frozen_Abyss"
 	{
-		"workshop_id"		"3361357611"
-		"enabled"		"1"
-		"filename"		"ze_frozen_abyss"
-		"updatedname"		"ze_Frozen_Abyss"
+		"workshop_id" "3361357611"
+		"enabled" "1"
+		"filename" "ze_frozen_abyss"
+		"updatedname" "ze_frozen_abyss"
+		"OnlyNominate" "1"
 	}
 	"ze_apollo_p"
 	{
-		"workshop_id"		"3361842183"
-		"enabled"		"1"
-		"filename"		"ze_apollo_p"
-		"updatedname"		"ze_apollo_p"
+		"workshop_id" "3361842183"
+		"enabled" "1"
+		"filename" "ze_apollo_p"
+		"updatedname" "ze_apollo_p"
 	}
 	"ze_fall_guys"
 	{
-		"workshop_id"		"3256085985"
-		"enabled"		"1"
-		"filename"		"ze_fall_guys"
-		"updatedname"		"ze_fall_guys"
+		"workshop_id" "3256085985"
+		"enabled" "1"
+		"filename" "ze_fall_guys"
+		"updatedname" "ze_fall_guys"
+		"OnlyNominate" "1"
 	}
 	"ze_bioshock_v6_cs2"
 	{
-		"workshop_id"		"3352809617"
-		"enabled"		"1"
-		"filename"		"ze_bioshock_v6_cs2"
-		"updatedname"		"ze_bioshock_v6_cs2"
+		"workshop_id" "3352809617"
+		"enabled" "1"
+		"filename" "ze_bioshock_v6_cs2"
+		"updatedname" "ze_bioshock_v6_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_depths"
 	{
-		"workshop_id"		"3362719311"
-		"enabled"		"1"
-		"filename"		"ze_depths"
-		"updatedname"		"ze_depths"
+		"workshop_id" "3362719311"
+		"enabled" "1"
+		"filename" "ze_depths"
+		"updatedname" "ze_depths"
+		"OnlyNominate" "1"
 	}
 	"ze_Djinn"
 	{
-		"workshop_id"		"3363808337"
-		"enabled"		"1"
-		"filename"		"ze_djinn"
-		"updatedname"		"ze_Djinn"
+		"workshop_id" "3363808337"
+		"enabled" "1"
+		"filename" "ze_djinn"
+		"updatedname" "ze_djinn"
+		"OnlyNominate" "1"
 	}
 	"ze_luminous_escape"
 	{
-		"workshop_id"		"3365075321"
-		"enabled"		"1"
-		"filename"		"ze_luminous_escape"
-		"updatedname"		"ze_luminous_escape"
+		"workshop_id" "3365075321"
+		"enabled" "1"
+		"filename" "ze_luminous_escape"
+		"updatedname" "ze_luminous_escape"
+		"OnlyNominate" "1"
 	}
 	"ze_rtv_one_more_p"
 	{
-		"workshop_id"		"3365173481"
-		"enabled"		"1"
-		"filename"		"ze_rtv_one_more_p"
-		"updatedname"		"ze_rtv_one_more_p"
+		"workshop_id" "3365173481"
+		"enabled" "1"
+		"filename" "ze_rtv_one_more_p"
+		"updatedname" "ze_rtv_one_more_p"
+		"OnlyNominate" "1"
 	}
 	"ze_30_seconds_p"
 	{
-		"workshop_id"		"3365639552"
-		"enabled"		"1"
-		"filename"		"ze_30_seconds_p"
-		"updatedname"		"ze_30_seconds_p"
+		"workshop_id" "3365639552"
+		"enabled" "1"
+		"filename" "ze_30_seconds_p"
+		"updatedname" "ze_30_seconds_p"
 	}
 	"ze_rt1_torontoisland_cs2"
 	{
-		"workshop_id"		"3354454236"
-		"enabled"		"1"
-		"filename"		"ze_rt1_torontoisland_cs2"
-		"updatedname"		"ze_rt1_torontoisland_cs2"
+		"workshop_id" "3354454236"
+		"enabled" "1"
+		"filename" "ze_rt1_torontoisland_cs2"
+		"updatedname" "ze_rt1_torontoisland_cs2"
+		"OnlyNominate" "1"
 	}
 	"ze_obj_ouroboros_aurora"
 	{
-		"workshop_id"		"3353097518"
-		"enabled"		"1"
-		"filename"		"ze_obj_ouroboros_aurora"
-		"updatedname"		"ze_obj_ouroboros_aurora"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3353097518"
+		"enabled" "1"
+		"filename" "ze_obj_ouroboros_aurora"
+		"updatedname" "ze_obj_ouroboros_aurora"
+		"OnlyNominate" "1"
 	}
 	"ze_pd2_crime_art"
 	{
-		"workshop_id"		"3366678704"
-		"enabled"		"1"
-		"filename"		"ze_pd2_crime_art"
-		"updatedname"		"ze_pd2_crime_art"
+		"workshop_id" "3366678704"
+		"enabled" "1"
+		"filename" "ze_pd2_crime_art"
+		"updatedname" "ze_pd2_crime_art"
 	}
 	"ze_dnb_realms"
 	{
-		"workshop_id"		"3367623638"
-		"enabled"		"1"
-		"filename"		"ze_dnb_realms_a1"
-		"updatedname"		"ze_dnb_realms"
+		"workshop_id" "3367623638"
+		"enabled" "1"
+		"filename" "ze_dnb_realms_a1"
+		"updatedname" "ze_dnb_realms_a1"
+		"OnlyNominate" "1"
 	}
 	"ze_toaster_p"
 	{
-		"workshop_id"		"3367711562"
-		"enabled"		"1"
-		"filename"		"ze_toaster_p"
-		"updatedname"		"ze_toaster_p"
+		"workshop_id" "3367711562"
+		"enabled" "1"
+		"filename" "ze_toaster_p"
+		"updatedname" "ze_toaster_p"
+		"OnlyNominate" "1"
 	}
 	"ze_laser_island_z"
 	{
-		"workshop_id"		"3367534981"
-		"enabled"		"1"
-		"filename"		"ze_laser_island_z"
-		"updatedname"		"ze_laser_island_z"
+		"workshop_id" "3367534981"
+		"enabled" "0"
+		"filename" "ze_laser_island_z"
+		"updatedname" "ze_laser_island_z"
+		"OnlyNominate" "1"
 	}
 	"ze_ice_cavern_z"
 	{
-		"workshop_id"		"3368351412"
-		"enabled"		"1"
-		"filename"		"ze_ice_cavern_z"
-		"updatedname"		"ze_ice_cavern_z"
+		"workshop_id" "3368351412"
+		"enabled" "0"
+		"filename" "ze_ice_cavern_z"
+		"updatedname" "ze_ice_cavern_z"
+		"OnlyNominate" "1"
 	}
 	"ze_stilshrine_of_miriam"
 	{
-		"workshop_id"		"3362061557"
-		"enabled"		"1"
-		"filename"		"ze_stilshrine_of_miriam"
-		"updatedname"		"ze_stilshrine_of_miriam"
+		"workshop_id" "3362061557"
+		"enabled" "1"
+		"filename" "ze_stilshrine_of_miriam"
+		"updatedname" "ze_stilshrine_of_miriam"
+		"OnlyNominate" "1"
 	}
 	"ze_BigBoo_n64"
 	{
-		"workshop_id"		"3300310116"
-		"enabled"		"1"
-		"filename"		"ze_bigboo_n64"
-		"updatedname"		"ze_BigBoo_n64"
+		"workshop_id" "3300310116"
+		"enabled" "1"
+		"filename" "ze_bigboo_n64"
+		"updatedname" "ze_bigboo_n64"
+		"OnlyNominate" "1"
 	}
 	"ze_Sit_Caelum_Paradisus"
 	{
-		"workshop_id"		"3368922933"
-		"enabled"		"1"
-		"filename"		"ze_sit_caelum_paradisus"
-		"updatedname"		"ze_Sit_Caelum_Paradisus"
+		"workshop_id" "3368922933"
+		"enabled" "1"
+		"filename" "ze_sit_caelum_paradisus"
+		"updatedname" "ze_sit_caelum_paradisus"
+		"OnlyNominate" "1"
 	}
 	"ze_hold2_boring_z"
 	{
-		"workshop_id"		"3370478043"
-		"enabled"		"1"
-		"filename"		"ze_hold2_boring_z"
-		"updatedname"		"ze_hold2_boring_z"
+		"workshop_id" "3370478043"
+		"enabled" "0"
+		"filename" "ze_hold2_boring_z"
+		"updatedname" "ze_hold2_boring_z"
 	}
 	"ze_grace"
 	{
-		"workshop_id"		"3369072300"
-		"enabled"		"1"
-		"filename"		"ze_grace"
-		"updatedname"		"ze_grace"
+		"workshop_id" "3369072300"
+		"enabled" "1"
+		"filename" "ze_grace"
+		"updatedname" "ze_grace"
+		"OnlyNominate" "1"
 	}
 	"ze_Mochi_Island"
 	{
-		"workshop_id"		"3370830254"
-		"enabled"		"1"
-		"filename"		"ze_mochi_island"
-		"updatedname"		"ze_Mochi_Island"
+		"workshop_id" "3370830254"
+		"enabled" "1"
+		"filename" "ze_mochi_island"
+		"updatedname" "ze_mochi_island"
+		"OnlyNominate" "1"
 	}
 	"ze_undead_shrine_p"
 	{
-		"workshop_id"		"3364699616"
-		"enabled"		"1"
-		"filename"		"ze_undead_shrine_p"
-		"updatedname"		"ze_undead_shrine_p"
+		"workshop_id" "3364699616"
+		"enabled" "1"
+		"filename" "ze_undead_shrine_p"
+		"updatedname" "ze_undead_shrine_p"
+		"OnlyNominate" "1"
 	}
 	"ze_silent_hill_3_dawn_full"
 	{
-		"workshop_id"		"3368481687"
-		"enabled"		"1"
-		"filename"		"ze_silent_hill_3_dawn_full"
-		"updatedname"		"ze_silent_hill_3_dawn_full"
+		"workshop_id" "3368481687"
+		"enabled" "1"
+		"filename" "ze_silent_hill_3_dawn_full"
+		"updatedname" "ze_silent_hill_3_dawn_full"
+		"OnlyNominate" "1"
 	}
 	"ze_Permafrost"
 	{
-		"workshop_id"		"3371340033"
-		"enabled"		"1"
-		"filename"		"ze_permafrost"
-		"updatedname"		"ze_Permafrost"
+		"workshop_id" "3371340033"
+		"enabled" "1"
+		"filename" "ze_permafrost"
+		"updatedname" "ze_permafrost"
+		"OnlyNominate" "1"
 	}
 	"ze_trainsanity"
 	{
-		"workshop_id"		"3372089032"
-		"enabled"		"1"
-		"filename"		"ze_trainsanity"
-		"updatedname"		"ze_trainsanity"
+		"workshop_id" "3372089032"
+		"enabled" "1"
+		"filename" "ze_trainsanity"
+		"updatedname" "ze_trainsanity"
+		"OnlyNominate" "1"
 	}
 	"ze_Stardust"
 	{
-		"workshop_id"		"3373082090"
-		"enabled"		"1"
-		"filename"		"ze_stardust_a03"
-		"updatedname"		"ze_Stardust"
+		"workshop_id" "3373082090"
+		"enabled" "1"
+		"filename" "ze_stardust_a03"
+		"updatedname" "ze_stardust_a03"
+		"OnlyNominate" "1"
 	}
 	"ze_rtcw_ominous_rumors_p"
 	{
-		"workshop_id"		"3374169784"
-		"enabled"		"1"
-		"filename"		"ze_rtcw_ominous_rumors_p"
-		"updatedname"		"ze_rtcw_ominous_rumors_p"
+		"workshop_id" "3379185817"
+		"enabled" "1"
+		"filename" "ze_rtcw_ominous_rumors_p"
+		"updatedname" "ze_rtcw_ominous_rumors_p"
+		"OnlyNominate" "1"
 	}
 	"ze_SCP_Containment_Breach"
 	{
-		"workshop_id"		"3374542647"
-		"enabled"		"1"
-		"filename"		"ze_scp_containment_breach"
-		"updatedname"		"ze_SCP_Containment_Breach"
+		"workshop_id" "3374542647"
+		"enabled" "0"
+		"filename" "ze_scp_containment_breach"
+		"updatedname" "ze_scp_containment_breach"
+		"OnlyNominate" "1"
 	}
 	"ze_Dreamin"
 	{
-		"workshop_id"		"3375301835"
-		"enabled"		"1"
-		"filename"		"ze_dreamin"
-		"updatedname"		"ze_Dreamin"
+		"workshop_id" "3375301835"
+		"enabled" "1"
+		"filename" "ze_dreamin"
+		"updatedname" "ze_dreamin"
+		"OnlyNominate" "1"
 	}
 	"ze_watagi_sanatorium"
 	{
-		"workshop_id"		"3375366241"
-		"enabled"		"1"
-		"filename"		"ze_watagi_sanatorium"
-		"updatedname"		"ze_watagi_sanatorium"
+		"workshop_id" "3375366241"
+		"enabled" "1"
+		"filename" "ze_watagi_sanatorium"
+		"updatedname" "ze_watagi_sanatorium"
+		"OnlyNominate" "1"
 	}
 	"ze_halloween_house_p"
 	{
-		"workshop_id"		"3376623477"
-		"enabled"		"1"
-		"filename"		"ze_halloween_house_p"
-		"updatedname"		"ze_halloween_house_p"
+		"workshop_id" "3376623477"
+		"enabled" "1"
+		"filename" "ze_halloween_house_p"
+		"updatedname" "ze_halloween_house_p"
+		"OnlyNominate" "1"
 	}
 	"ze_christmas_infection_p"
 	{
-		"workshop_id"		"3375743674"
-		"enabled"		"1"
-		"filename"		"ze_christmas_infection_p"
-		"updatedname"		"ze_christmas_infection_p"
+		"workshop_id" "3375743674"
+		"enabled" "1"
+		"filename" "ze_christmas_infection_p"
+		"updatedname" "ze_christmas_infection_p"
+		"OnlyNominate" "1"
 	}
 	"ze_ffxiv_great_gubal_library"
 	{
-		"workshop_id"		"3373306757"
-		"enabled"		"1"
-		"filename"		"ze_ffxiv_great_gubal_library"
-		"updatedname"		"ze_ffxiv_great_gubal_library"
+		"workshop_id" "3373306757"
+		"enabled" "1"
+		"filename" "ze_ffxiv_great_gubal_library"
+		"updatedname" "ze_ffxiv_great_gubal_library"
+		"OnlyNominate" "1"
 	}
 	"ze_crashbandicoot_p"
 	{
-		"workshop_id"		"3378501953"
-		"enabled"		"1"
-		"filename"		"ze_crashbandicoot_p"
-		"updatedname"		"ze_crashbandicoot_p"
+		"workshop_id" "3378501953"
+		"enabled" "1"
+		"filename" "ze_crashbandicoot_p"
+		"updatedname" "ze_crashbandicoot_p"
+		"OnlyNominate" "1"
 	}
 	"ze_van_helsing_s1"
 	{
-		"workshop_id"		"3378835065"
-		"enabled"		"1"
-		"filename"		"ze_van_helsing_s1"
-		"updatedname"		"ze_van_helsing_s1"
+		"workshop_id" "3378835065"
+		"enabled" "1"
+		"filename" "ze_van_helsing_s1"
+		"updatedname" "ze_van_helsing_s1"
+		"OnlyNominate" "1"
 	}
 	"ze_scourge_p"
 	{
-		"workshop_id"		"3378842690"
-		"enabled"		"1"
-		"filename"		"ze_scourge_p"
-		"updatedname"		"ze_scourge_p"
+		"workshop_id" "3378842690"
+		"enabled" "1"
+		"filename" "ze_scourge_p"
+		"updatedname" "ze_scourge_p"
+		"OnlyNominate" "1"
 	}
 	"ze_happiness_factory_v1"
 	{
-		"workshop_id"		"3301592460"
-		"enabled"		"1"
-		"filename"		"ze_happiness_factory"
-		"updatedname"		"ze_happiness_factory_v1"
+		"workshop_id" "3301592460"
+		"enabled" "1"
+		"filename" "ze_happiness_factory"
+		"updatedname" "ze_happiness_factory"
+		"OnlyNominate" "1"
 	}
 	"ze_escape2024"
 	{
-		"workshop_id"		"3321602699"
-		"enabled"		"1"
-		"filename"		"ze_escape2024"
-		"updatedname"		"ze_escape2024"
+		"workshop_id" "3321602699"
+		"enabled" "1"
+		"filename" "ze_escape2024"
+		"updatedname" "ze_escape2024"
+		"OnlyNominate" "1"
 	}
 	"ze_Tensor_of_Ice"
 	{
-		"workshop_id"		"3380479672"
-		"enabled"		"1"
-		"filename"		"ze_tensor_of_ice_v1_1"
-		"updatedname"		"ze_Tensor_of_Ice"
+		"workshop_id" "3380479672"
+		"enabled" "1"
+		"filename" "ze_tensor_of_ice_v1_1"
+		"updatedname" "ze_tensor_of_ice_v1_1"
+		"OnlyNominate" "1"
 	}
 	"ze_world_escapes"
 	{
-		"workshop_id"		"3380544762"
-		"enabled"		"1"
-		"filename"		"ze_world_escapes"
-		"updatedname"		"ze_world_escapes"
+		"workshop_id" "3380544762"
+		"enabled" "1"
+		"filename" "ze_world_escapes"
+		"updatedname" "ze_world_escapes"
 	}
 	"ze_Minimal"
 	{
-		"workshop_id"		"3381264138"
-		"enabled"		"1"
-		"filename"		"ze_minimal"
-		"updatedname"		"ze_Minimal"
+		"workshop_id" "3381264138"
+		"enabled" "1"
+		"filename" "ze_minimal"
+		"updatedname" "ze_minimal"
+		"OnlyNominate" "1"
 	}
 	"ze_Tyranny2"
 	{
-		"workshop_id"		"3381888563"
-		"enabled"		"1"
-		"filename"		"ze_tyranny2"
-		"updatedname"		"ze_Tyranny2"
-	}
-	"ze_lotr_minas_tirith_recompile"
-	{
-		"workshop_id"		"3353505696"
-		"enabled"		"1"
-		"filename"		"ze_lotr_minas_tirith"
-		"updatedname"		"ze_lotr_minas_tirith_recompile"
+		"workshop_id" "3381888563"
+		"enabled" "1"
+		"filename" "ze_tyranny2"
+		"updatedname" "ze_tyranny2"
+		"OnlyNominate" "1"
 	}
 	"ze_chicago_bean_gassy_fart_life"
 	{
-		"workshop_id"		"3336887881"
-		"enabled"		"1"
-		"filename"		"ze_chicago_bean_gassy_fart_life"
-		"updatedname"		"ze_chicago_bean_gassy_fart_life"
+		"workshop_id" "3336887881"
+		"enabled" "1"
+		"filename" "ze_chicago_bean_gassy_fart_life"
+		"updatedname" "ze_chicago_bean_gassy_fart_life"
+		"OnlyNominate" "1"
 	}
 	"ze_eye_factory_escape"
 	{
-		"workshop_id"		"3381259146"
-		"enabled"		"1"
-		"filename"		"ze_eye_factory_escape"
-		"updatedname"		"ze_eye_factory_escape"
+		"workshop_id" "3381259146"
+		"enabled" "1"
+		"filename" "ze_eye_factory_escape"
+		"updatedname" "ze_eye_factory_escape"
+		"OnlyNominate" "1"
 	}
 	"ze_stalker_ultimate_z"
 	{
-		"workshop_id"		"3383028817"
-		"enabled"		"1"
-		"filename"		"ze_stalker_ultimate_z"
-		"updatedname"		"ze_stalker_ultimate_z"
+		"workshop_id" "3383028817"
+		"enabled" "0"
+		"filename" "ze_stalker_ultimate_z"
+		"updatedname" "ze_stalker_ultimate_z"
+		"OnlyNominate" "1"
 	}
 	"ze_Pirates_Port_Royal"
 	{
-		"workshop_id"		"3381572627"
-		"enabled"		"1"
-		"filename"		"ze_pirates_port_royal"
-		"updatedname"		"ze_Pirates_Port_Royal"
+		"workshop_id" "3381572627"
+		"enabled" "1"
+		"filename" "ze_pirates_port_royal"
+		"updatedname" "ze_pirates_port_royal"
+		"OnlyNominate" "1"
 	}
 	"ze_obj_redemption"
 	{
-		"workshop_id"		"3383451059"
-		"enabled"		"1"
-		"filename"		"ze_obj_redemption"
-		"updatedname"		"ze_obj_redemption"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+		"workshop_id" "3383451059"
+		"enabled" "1"
+		"filename" "ze_obj_redemption"
+		"updatedname" "ze_obj_redemption"
+		"OnlyNominate" "1"
+	}
+	"ze_icecap_escape_ia_super"
+	{
+		"workshop_id" "3383484740"
+		"enabled" "1"
+		"filename" "ze_icecap_escape_ia_super"
+		"updatedname" "ze_icecap_escape_ia_super"
+	}
+	"ze_the_curse_of_blackwater"
+	{
+		"workshop_id" "3385381348"
+		"enabled" "1"
+		"filename" "ze_the_curse_of_blackwater"
+		"updatedname" "ze_the_curse_of_blackwater"
+		"OnlyNominate" "1"
+	}
+	"ze_surf_happy"
+	{
+		"workshop_id" "3386114661"
+		"enabled" "1"
+		"filename" "ze_surf_happy"
+		"updatedname" "ze_surf_happy"
+		"search" "快乐滑翔"
+		"OnlyNominate" "1"
+	}
+	"ze_apprehended"
+	{
+		"workshop_id" "3386454337"
+		"enabled" "1"
+		"filename" "ze_apprehended"
+		"updatedname" "ze_apprehended"
+	}
+	"ze_lila_panic_escape_p"
+	{
+		"workshop_id" "3387818506"
+		"enabled" "1"
+		"filename" "ze_lila_panic_escape_p"
+		"updatedname" "ze_lila_panic_escape_p"
+	}
+	"ze_thelostworld_redux_p"
+	{
+		"workshop_id" "3389333194"
+		"enabled" "1"
+		"filename" "ze_thelostworld_redux_p"
+		"updatedname" "ze_thelostworld_redux_p"
+	}
+	"ze_hidden_temple"
+	{
+		"workshop_id" "3389448043"
+		"enabled" "0"
+		"filename" "ze_hidden_temple"
+		"updatedname" "ze_hidden_temple"
+		"OnlyNominate" "1"
+	}
+	"ze_Squid_Game"
+	{
+		"workshop_id" "3390192395"
+		"enabled" "1"
+		"filename" "ze_squid_game"
+		"updatedname" "ze_squid_game"
+		"OnlyNominate" "1"
+	}
+	"ze_Dark_Souls"
+	{
+		"workshop_id" "3387284574"
+		"enabled" "1"
+		"filename" "ze_dark_souls"
+		"updatedname" "ze_dark_souls"
+		"OnlyNominate" "1"
+	}
+	"ze_colorful"
+	{
+		"workshop_id" "3392374432"
+		"enabled" "1"
+		"filename" "ze_colorful"
+		"updatedname" "ze_colorful"
+		"OnlyNominate" "1"
+	}
+	"ze_boralus"
+	{
+		"workshop_id" "3375463079"
+		"enabled" "1"
+		"filename" "ze_boralus"
+		"updatedname" "ze_boralus"
+		"OnlyNominate" "1"
+	}
+	"ze_gris_p"
+	{
+		"workshop_id" "3624912780"
+		"enabled" "1"
+		"filename" "ze_gris_p"
+		"updatedname" "ze_gris_p"
+		"OnlyNominate" "0"
+	}
+	"ze_survivors_mountain"
+	{
+		"workshop_id" "3396065042"
+		"enabled" "1"
+		"filename" "ze_survivors_mountain"
+		"updatedname" "ze_survivors_mountain"
+		"OnlyNominate" "1"
+	}
+	"ze_light_shadow_cs2"
+	{
+		"workshop_id" "3394921667"
+		"enabled" "0"
+		"filename" "ze_light_shadow_cs2"
+		"updatedname" "ze_light_shadow_cs2"
+		"OnlyNominate" "1"
+	}
+	"ze_Obf_Cats_run_v1_9"
+	{
+		"workshop_id" "3397481545"
+		"enabled" "1"
+		"filename" "ze_obf_cats_run_v1_9"
+		"updatedname" "ze_obf_cats_run_v1_9"
+	}
+	"ze_jurassicpark_escape_p"
+	{
+		"workshop_id" "3397749308"
+		"enabled" "1"
+		"filename" "ze_jurassicpark_escape_p"
+		"updatedname" "ze_jurassicpark_escape_p"
+	}
+	"ze_isla_nublar_p"
+	{
+		"workshop_id" "3397783582"
+		"enabled" "1"
+		"filename" "ze_isla_nublar_p"
+		"updatedname" "ze_isla_nublar_p"
+	}
+	"ze_obj_void"
+	{
+		"workshop_id" "3397864348"
+		"enabled" "1"
+		"filename" "ze_obj_void_v1"
+		"updatedname" "ze_obj_void_v1"
+		"OnlyNominate" "1"
+	}
+	"ze_temple_of_phantom_cs2"
+	{
+		"workshop_id" "3396749014"
+		"enabled" "1"
+		"filename" "ze_temple_of_phantom_cs2"
+		"updatedname" "ze_temple_of_phantom_cs2"
+		"OnlyNominate" "1"
+	}
+	"ze_FFXII_Mt_Bur_Omisace_v6"
+	{
+		"workshop_id" "3398706540"
+		"enabled" "1"
+		"filename" "ze_ffxii_mt_bur_omisace_v6"
+		"updatedname" "ze_ffxii_mt_bur_omisace_v6"
+		"OnlyNominate" "1"
+	}
+	"ze_FFXIV_Coil_of_Bahamut"
+	{
+		"workshop_id" "3400290170"
+		"enabled" "1"
+		"filename" "ze_ffxiv_coil_of_bahamut"
+		"updatedname" "ze_ffxiv_coil_of_bahamut"
+		"OnlyNominate" "1"
+	}
+	"ze_bh3rd_babel_z"
+	{
+		"workshop_id" "3399954774"
+		"enabled" "0"
+		"filename" "ze_bh3rd_babel_z"
+		"updatedname" "ze_bh3rd_babel_z"
+		"OnlyNominate" "1"
+	}
+	"ze_radio_building"
+	{
+		"workshop_id" "3400976371"
+		"enabled" "1"
+		"filename" "ze_radio_building"
+		"updatedname" "ze_radio_building"
+	}
+	"ze_something_ordinary"
+	{
+		"workshop_id" "3400553142"
+		"enabled" "1"
+		"filename" "ze_something_ordinary"
+		"updatedname" "ze_something_ordinary"
+		"OnlyNominate" "1"
+	}
+	"ze_obj_goosestep_v1"
+	{
+		"workshop_id" "3402037855"
+		"enabled" "1"
+		"filename" "ze_obj_goosestep_v1"
+		"updatedname" "ze_obj_goosestep_v1"
+		"OnlyNominate" "1"
+	}
+	"ze_ffvii_mako_reactor_v5_3"
+	{
+		"workshop_id" "3400128277"
+		"enabled" "0"
+		"filename" "ze_ffvii_mako_v5_3"
+		"updatedname" "ze_ffvii_mako_reactor_v5_3"
+		"OnlyNominate" "1"
+	}
+	"ze_biohazard2_sewer_004"
+	{
+		"workshop_id" "3404397288"
+		"enabled" "1"
+		"filename" "ze_biohazard2_sewer_004"
+		"updatedname" "ze_biohazard2_sewer_004"
+		"search" "生化危机2;下水道"
+	}
+	"ze_paradise_t"
+	{
+		"workshop_id" "3404515839"
+		"enabled" "1"
+		"filename" "ze_paradise_t"
+		"updatedname" "ze_paradise_t"
+	}
+	"ze_parking_p"
+	{
+		"workshop_id" "3405314470"
+		"enabled" "1"
+		"filename" "ze_parking_p"
+		"updatedname" "ze_parking_p"
+		"OnlyNominate" "1"
+	}
+	"ze_dnd_hydra_z"
+	{
+		"workshop_id" "3406009899"
+		"enabled" "0"
+		"filename" "ze_dnd_hydra_z"
+		"updatedname" "ze_dnd_hydra_z"
+		"OnlyNominate" "1"
+	}
+	"ze_obj_ember"
+	{
+		"workshop_id" "3408908971"
+		"enabled" "1"
+		"filename" "ze_obj_ember"
+		"updatedname" "ze_obj_ember"
+		"OnlyNominate" "1"
+	}
+	"ze_surf_auv"
+	{
+		"workshop_id" "3410416437"
+		"enabled" "1"
+		"filename" "ze_surf_auv"
+		"updatedname" "ze_surf_auv"
+		"OnlyNominate" "1"
+	}
+	"ze_alien_shooter"
+	{
+		"workshop_id" "3410639236"
+		"enabled" "1"
+		"filename" "ze_alien_shooter"
+		"updatedname" "ze_alien_shooter"
+	}
+	"ze_sele"
+	{
+		"workshop_id" "3411145443"
+		"enabled" "1"
+		"filename" "ze_sele"
+		"updatedname" "ze_sele"
+		"OnlyNominate" "1"
+	}
+	"ze_bioluminescent"
+	{
+		"workshop_id" "3412129855"
+		"enabled" "1"
+		"filename" "ze_bioluminescent"
+		"updatedname" "ze_bioluminescent"
+		"OnlyNominate" "1"
+	}
+	"ze_sandle_pdd"
+	{
+		"workshop_id" "3412262982"
+		"enabled" "0"
+		"filename" "ze_sandle_pdd"
+		"updatedname" "ze_sandle_pdd"
+		"OnlyNominate" "1"
+		"DisableServerInPerfectWorld" "0"
+	}
+	"ze_LOTR_Minas_Tiret_p"
+	{
+		"workshop_id" "3418753441"
+		"enabled" "1"
+		"filename" "ze_lotr_minas_tiret_p"
+		"updatedname" "ze_lotr_minas_tiret_p"
+	}
+	"ze_sunkentemple"
+	{
+		"workshop_id" "3418758157"
+		"enabled" "0"
+		"filename" "ze_sunkentemple"
+		"updatedname" "ze_sunkentemple"
+		"OnlyNominate" "1"
+	}
+	"ze_abandoned_project_p"
+	{
+		"workshop_id" "3418927662"
+		"enabled" "1"
+		"filename" "ze_abandoned_project_p"
+		"updatedname" "ze_abandoned_project_p"
+		"OnlyNominate" "1"
+	}
+	"ze_melong_dow_learjet_p"
+	{
+		"workshop_id" "3420245755"
+		"enabled" "1"
+		"filename" "ze_melong_dow_learjet_p"
+		"updatedname" "ze_melong_dow_learjet_p"
+	}
+	"ze_EmpireCity_p"
+	{
+		"workshop_id" "3420276708"
+		"enabled" "1"
+		"filename" "ze_empirecity_p"
+		"updatedname" "ze_empirecity_p"
+	}
+	"ze_v0u0v_p"
+	{
+		"workshop_id" "3416293909"
+		"enabled" "1"
+		"filename" "ze_v0u0v_p"
+		"updatedname" "ze_v0u0v_p"
+		"OnlyNominate" "1"
+	}
+	"ze_genso_of_last_v3"
+	{
+		"workshop_id" "3421130358"
+		"enabled" "1"
+		"filename" "ze_genso_of_last_v3"
+		"updatedname" "ze_genso_of_last_v3"
+		"OnlyNominate" "1"
+	}
+	"ze_emiya"
+	{
+		"workshop_id" "3369548103"
+		"enabled" "0"
+		"filename" "ze_emiya"
+		"updatedname" "ze_emiya"
+		"OnlyNominate" "1"
+	}
+	"ze_floating_rocks_survival"
+	{
+		"workshop_id" "3422599395"
+		"enabled" "1"
+		"filename" "ze_floating_rocks_survival"
+		"updatedname" "ze_floating_rocks_survival"
+	}
+	"ze_UT2004_Convoy_p"
+	{
+		"workshop_id" "3422683946"
+		"enabled" "1"
+		"filename" "ze_ut2004_convoy_p"
+		"updatedname" "ze_ut2004_convoy_p"
+		"OnlyNominate" "1"
+	}
+	"ze_bh3rd_nagazoracity_z"
+	{
+		"workshop_id" "3423221710"
+		"enabled" "0"
+		"filename" "ze_bh3rd_nagazoracity_z"
+		"updatedname" "ze_bh3rd_nagazoracity_z"
+		"OnlyNominate" "1"
+	}
+	"ZE_OBJ_OUROBOROS_RAGNAROK"
+	{
+		"workshop_id" "3407901941"
+		"enabled" "1"
+		"filename" "ze_obj_ouroboros_ragnarok"
+		"updatedname" "ze_obj_ouroboros_ragnarok"
+		"OnlyNominate" "1"
+	}
+	"ze_verdant"
+	{
+		"workshop_id" "3422693128"
+		"enabled" "1"
+		"filename" "ze_verdant"
+		"updatedname" "ze_verdant"
+		"OnlyNominate" "1"
+	}
+	"ze_sorrento_escape_2016_p"
+	{
+		"workshop_id" "3424789775"
+		"enabled" "1"
+		"filename" "ze_sorrento_escape_2016_p"
+		"updatedname" "ze_sorrento_escape_2016_p"
+	}
+	"ze_contradiction_spiral"
+	{
+		"workshop_id" "3421435070"
+		"enabled" "1"
+		"filename" "ze_contradiction_spiral"
+		"updatedname" "ze_contradiction_spiral"
+		"OnlyNominate" "1"
+	}
+	"ze_rabanastre_royal"
+	{
+		"workshop_id" "3425595150"
+		"enabled" "1"
+		"filename" "ze_rabanastre_royal"
+		"updatedname" "ze_rabanastre_royal"
+		"OnlyNominate" "1"
+	}
+	"ze_flowering"
+	{
+		"workshop_id" "3425902946"
+		"enabled" "1"
+		"filename" "ze_flowering"
+		"updatedname" "ze_flowering"
+		"OnlyNominate" "1"
+	}
+	"ze_minecraft_dragon_castle"
+	{
+		"workshop_id" "3427386217"
+		"enabled" "1"
+		"filename" "ze_minecraft_dragon_castle"
+		"updatedname" "ze_minecraft_dragon_castle"
+		"OnlyNominate" "1"
+	}
+	"ze_bh3rd_cyberpunk_z"
+	{
+		"workshop_id" "3427624001"
+		"enabled" "0"
+		"filename" "ze_bh3rd_cyberpunk_z"
+		"updatedname" "ze_bh3rd_cyberpunk_z"
+		"OnlyNominate" "1"
+	}
+	"ze_surf_happy_2_newbie_village"
+	{
+		"workshop_id" "3428262134"
+		"enabled" "1"
+		"filename" "ze_surf_happy_2_newbie_village"
+		"updatedname" "ze_surf_happy_2_newbie_village"
+		"OnlyNominate" "1"
+	}
+	"ze_skyline"
+	{
+		"workshop_id" "3429593650"
+		"enabled" "1"
+		"filename" "ze_skyline"
+		"updatedname" "ze_skyline"
+	}
+	"ze_firstone_x"
+	{
+		"workshop_id" "3425744076"
+		"enabled" "1"
+		"filename" "ze_firstone_x"
+		"updatedname" "ze_firstone_x"
+		"OnlyNominate" "1"
+	}
+	"ze_neko_canyon_p"
+	{
+		"workshop_id" "3432325232"
+		"enabled" "1"
+		"filename" "ze_neko_canyon_p"
+		"updatedname" "ze_neko_canyon_p"
+	}
+	"ze_miside"
+	{
+		"workshop_id" "3432667287"
+		"enabled" "1"
+		"filename" "ze_miside"
+		"updatedname" "ze_miside"
+		"OnlyNominate" "1"
+	}
+	"ze_blood_castle_z"
+	{
+		"workshop_id" "3434987752"
+		"enabled" "0"
+		"filename" "ze_blood_castle_z"
+		"updatedname" "ze_blood_castle_z"
+	}
+	"ze_neochrome"
+	{
+		"workshop_id" "3433035996"
+		"enabled" "1"
+		"filename" "ze_neochrome"
+		"updatedname" "ze_neochrome"
+		"OnlyNominate" "1"
+	}
+	"ze_ffxiv_pharos_sirius"
+	{
+		"workshop_id" "3435645851"
+		"enabled" "1"
+		"filename" "ze_ffxiv_pharos_sirius"
+		"updatedname" "ze_ffxiv_pharos_sirius"
+		"OnlyNominate" "1"
+	}
+	"ze_surf_outside"
+	{
+		"workshop_id" "3439001340"
+		"enabled" "1"
+		"filename" "ze_surf_outside"
+		"updatedname" "ze_surf_outside"
+		"OnlyNominate" "1"
+	}
+	"ze_skill_escape_cs2"
+	{
+		"workshop_id" "3439492135"
+		"enabled" "1"
+		"filename" "ze_skill_escape_cs2"
+		"updatedname" "ze_skill_escape_cs2"
+		"OnlyNominate" "1"
+	}
+	"ze_lemonysnickets_p"
+	{
+		"workshop_id" "3440619332"
+		"enabled" "1"
+		"filename" "ze_lemonysnickets_p"
+		"updatedname" "ze_lemonysnickets_p"
+	}
+	"ze_stalker_ultimate_v23"
+	{
+		"workshop_id" "3444132875"
+		"enabled" "1"
+		"filename" "ze_stalker_ultimate_v23"
+		"updatedname" "ze_stalker_ultimate_v23"
+		"OnlyNominate" "1"
+	}
+	"ze_madness"
+	{
+		"workshop_id" "3444189983"
+		"enabled" "1"
+		"filename" "ze_madness"
+		"updatedname" "ze_madness"
+		"OnlyNominate" "1"
+	}
+	"ze_legend_of_astrum_z"
+	{
+		"workshop_id" "3444378464"
+		"enabled" "0"
+		"filename" "ze_legend_of_astrum_z"
+		"updatedname" "ze_legend_of_astrum_z"
+		"OnlyNominate" "1"
+	}
+	"ze_ocarina_of_time"
+	{
+		"workshop_id" "3443889075"
+		"enabled" "1"
+		"filename" "ze_ocarina_of_time"
+		"updatedname" "ze_ocarina_of_time"
+		"OnlyNominate" "1"
+	}
+	"ze_outlast"
+	{
+		"workshop_id" "3443559594"
+		"enabled" "1"
+		"filename" "ze_outlast"
+		"updatedname" "ze_outlast"
+		"OnlyNominate" "1"
+	}
+	"ze_ashen_keep_p"
+	{
+		"workshop_id" "3445829396"
+		"enabled" "1"
+		"filename" "ze_ashen_keep_p"
+		"updatedname" "ze_ashen_keep_p"
+		"OnlyNominate" "1"
+	}
+	"ze_prisonbreak_rescue"
+	{
+		"workshop_id" "3448333943"
+		"enabled" "1"
+		"filename" "ze_prisonbreak_rescue"
+		"updatedname" "ze_prisonbreak_rescue"
+		"OnlyNominate" "1"
+	}
+	"ze_barrage_p"
+	{
+		"workshop_id" "3451195984"
+		"enabled" "1"
+		"filename" "ze_barrage_p"
+		"updatedname" "ze_barrage_p"
+	}
+	"ze_gris_re"
+	{
+		"workshop_id" "3451216035"
+		"enabled" "1"
+		"filename" "ze_gris_re"
+		"updatedname" "ze_gris_re"
+		"OnlyNominate" "1"
+	}
+	"ze_ffxiv_wanderers_palace"
+	{
+		"workshop_id" "3453060884"
+		"enabled" "1"
+		"filename" "ze_ffxiv_wanderers_palace"
+		"updatedname" "ze_ffxiv_wanderers_palace"
+		"OnlyNominate" "1"
+	}
+	"ze_titanic_escape_p"
+	{
+		"workshop_id" "3453518918"
+		"enabled" "1"
+		"filename" "ze_titanic_escape_p"
+		"updatedname" "ze_titanic_escape_p"
+	}
+	"ze_temple_escape_p"
+	{
+		"workshop_id" "3454138717"
+		"enabled" "1"
+		"filename" "ze_temple_escape_p"
+		"updatedname" "ze_temple_escape_p"
+		"OnlyNominate" "1"
+	}
+	"ze_2012_p"
+	{
+		"workshop_id" "3455547830"
+		"enabled" "1"
+		"filename" "ze_2012_p"
+		"updatedname" "ze_2012_p"
+	}
+	"ze_mountain_escape_p"
+	{
+		"workshop_id" "3456054673"
+		"enabled" "1"
+		"filename" "ze_mountain_escape_p"
+		"updatedname" "ze_mountain_escape_p"
+	}
+	"ze_Obf_Rampage_v24"
+	{
+		"workshop_id" "3456114547"
+		"enabled" "0"
+		"filename" "ze_obf_rampage_v24"
+		"updatedname" "ze_obf_rampage_v24"
+		"OnlyNominate" "1"
+	}
+	"ze_black_lion_p"
+	{
+		"workshop_id" "3456691074"
+		"enabled" "1"
+		"filename" "ze_black_lion_p"
+		"updatedname" "ze_black_lion_p"
+	}
+	"ze_best_korea"
+	{
+		"workshop_id" "3479418908"
+		"enabled" "0"
+		"filename" "ze_best_korea"
+		"updatedname" "ze_best_korea"
+		"OnlyNominate" "1"
+		"DisableServerInPerfectWorld" "0"
+	}
+	"ze_thriller_escape_p"
+	{
+		"workshop_id" "3457205872"
+		"enabled" "1"
+		"filename" "ze_thriller_escape_p"
+		"updatedname" "ze_thriller_escape_p"
+	}
+	"ze_FFXIV_Wanderers_Palace_v6_2"
+	{
+		"workshop_id" "3459109250"
+		"enabled" "1"
+		"filename" "ze_ffxiv_wanderers_v62"
+		"updatedname" "ze_ffxiv_wanderers_palace_v6_2"
+		"OnlyNominate" "1"
+	}
+	"ze_re_creation"
+	{
+		"workshop_id" "3462082136"
+		"enabled" "1"
+		"filename" "ze_re_creation"
+		"updatedname" "ze_re_creation"
+		"OnlyNominate" "1"
+	}
+	"ze_deathinvain_palace"
+	{
+		"workshop_id" "3461956041"
+		"enabled" "1"
+		"filename" "ze_deathinvain_palace"
+		"updatedname" "ze_deathinvain_palace"
+		"OnlyNominate" "1"
+	}
+	"ze_FFVII_Malgo_Reactor"
+	{
+		"workshop_id" "3463705720"
+		"enabled" "0"
+		"filename" "ze_ffvii_malgo_reactor"
+		"updatedname" "ze_ffvii_malgo_reactor"
+		"OnlyNominate" "1"
+	}
+	"ze_surf_daybreak"
+	{
+		"workshop_id" "3460219997"
+		"enabled" "1"
+		"filename" "ze_surf_daybreak"
+		"updatedname" "ze_surf_daybreak"
+		"OnlyNominate" "1"
+	}
+	"ze_hypnotize_me_baby_p"
+	{
+		"workshop_id" "3454959636"
+		"enabled" "1"
+		"filename" "ze_hypnotize_me_baby_p"
+		"updatedname" "ze_hypnotize_me_baby_p"
+		"OnlyNominate" "1"
+	}
+	"ze_Minecraft_Universe"
+	{
+		"workshop_id" "3467141649"
+		"enabled" "1"
+		"filename" "ze_Minecraft_Universe"
+		"updatedname" "ze_Minecraft_Universe"
+		"OnlyNominate" "0"
+	}
+	"ze_japans_3rd_bombing"
+	{
+		"workshop_id" "3470919800"
+		"enabled" "0"
+		"filename" "ze_japans_3rd_bombing"
+		"updatedname" "ze_japans_3rd_bombing"
+		"OnlyNominate" "1"
+	}
+	"ze_obj_blue_depth"
+	{
+		"workshop_id" "3467218688"
+		"enabled" "1"
+		"filename" "ze_obj_blue_depth"
+		"updatedname" "ze_obj_blue_depth"
+		"OnlyNominate" "1"
+	}
+	"ze_obj_eclipsis"
+	{
+		"workshop_id" "3469187893"
+		"enabled" "1"
+		"filename" "ze_obj_eclipsis"
+		"updatedname" "ze_obj_eclipsis"
+		"OnlyNominate" "1"
+	}
+	"ze_maontain_escape"
+	{
+		"workshop_id" "3464392570"
+		"enabled" "1"
+		"filename" "ze_maontain_escape"
+		"updatedname" "ze_maontain_escape"
+	}
+	"ze_yurilnier"
+	{
+		"workshop_id" "3469287715"
+		"enabled" "1"
+		"filename" "ze_yurilnier"
+		"updatedname" "ze_yurilnier"
+		"OnlyNominate" "1"
+	}
+	"ze_rooftop_madness_p"
+	{
+		"workshop_id" "3470854774"
+		"enabled" "1"
+		"filename" "ze_rooftop_madness_p"
+		"updatedname" "ze_rooftop_madness_p"
+	}
+	"ze_lab"
+	{
+		"workshop_id" "3472564664"
+		"enabled" "1"
+		"filename" "ze_lab"
+		"updatedname" "ze_lab_cs2_l"
+	}
+	"ze_surf_cherry_blossom"
+	{
+		"workshop_id" "3472820975"
+		"enabled" "1"
+		"filename" "ze_surf_cherry_blossom"
+		"updatedname" "ze_surf_cherry_blossom"
+		"OnlyNominate" "1"
+	}
+	"ze_incident_seasons"
+	{
+		"workshop_id" "3472606171"
+		"enabled" "1"
+		"filename" "ze_incident_seasons"
+		"updatedname" "ze_incident_seasons"
+		"OnlyNominate" "0"
+	}
+	"ze_negative_legacy"
+	{
+		"workshop_id" "3472593113"
+		"enabled" "1"
+		"filename" "ze_negative_legacy"
+		"updatedname" "ze_negative_legacy"
+		"OnlyNominate" "1"
+	}
+	"ze_rien_z"
+	{
+		"workshop_id" "3472980350"
+		"enabled" "0"
+		"filename" "ze_rien_z"
+		"updatedname" "ze_rien_z"
+		"OnlyNominate" "1"
+	}
+	"ze_rainbow_factory"
+	{
+		"workshop_id" "3472829484"
+		"enabled" "1"
+		"filename" "ze_rainbow_factory"
+		"updatedname" "ze_rainbow_factory"
+	}
+	"ze_lego"
+	{
+		"workshop_id" "3471190473"
+		"enabled" "1"
+		"filename" "ze_lego"
+		"updatedname" "ze_lego"
+		"OnlyNominate" "1"
+	}
+	"ze_misaka2_reborn"
+	{
+		"workshop_id" "3476394764"
+		"enabled" "1"
+		"filename" "ze_misaka2_reborn"
+		"updatedname" "ze_misaka2_reborn"
+		"OnlyNominate" "0"
+	}
+	"ze_lorem_ipsum_p"
+	{
+		"workshop_id" "3480565759"
+		"enabled" "1"
+		"filename" "ze_lorem_ipsum_p"
+		"updatedname" "ze_lorem_ipsum_p"
+		"OnlyNominate" "0"
+	}
+	"ze_forestbunkers_p"
+	{
+		"workshop_id" "3480564668"
+		"enabled" "1"
+		"filename" "ze_forestbunkers_p"
+		"updatedname" "ze_forestbunkers_p"
+		"OnlyNominate" "0"
+	}
+	"ze_games_p"
+	{
+		"workshop_id" "3480475048"
+		"enabled" "1"
+		"filename" "ze_games_p"
+		"updatedname" "ze_games_p"
+		"OnlyNominate" "0"
+	}
+	"ze_NY_Marathon_p"
+	{
+		"workshop_id" "3473782795"
+		"enabled" "1"
+		"filename" "ze_NY_Marathon_p"
+		"updatedname" "ze_NY_Marathon_p"
+		"OnlyNominate" "0"
+	}
+	"ze_undersea_temple"
+	{
+		"workshop_id" "3484586066"
+		"enabled" "1"
+		"filename" "ze_undersea_temple"
+		"updatedname" "ze_undersea_temple"
+		"OnlyNominate" "0"
+	}
+	"ze_shaurma_v3"
+	{
+		"workshop_id" "3484229969"
+		"enabled" "1"
+		"filename" "ze_shaurma_v3"
+		"updatedname" "ze_shaurma_v3"
+		"OnlyNominate" "0"
+	}
+	"ze_neovia"
+	{
+		"workshop_id" "3481377613"
+		"enabled" "1"
+		"filename" "ze_neovia"
+		"updatedname" "ze_neovia"
+		"OnlyNominate" "0"
+	}
+	"ze_realm"
+	{
+		"workshop_id" "3480319693"
+		"enabled" "1"
+		"filename" "ze_realm"
+		"updatedname" "ze_realm"
+		"OnlyNominate" "0"
+	}
+	"ze_happiness_facrory_v2"
+	{
+		"workshop_id" "3478590838"
+		"enabled" "1"
+		"filename" "ze_happiness_facrory_v2"
+		"updatedname" "ze_happiness_facrory_v2"
+		"OnlyNominate" "0"
+	}
+	"ze_rtx_code0_cs2"
+	{
+		"workshop_id" "3478450356"
+		"enabled" "1"
+		"filename" "ze_rtx_code0_cs2"
+		"updatedname" "ze_rtx_code0_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_R_W_B_ulti"
+	{
+		"workshop_id" "3476450406"
+		"enabled" "1"
+		"filename" "ze_R_W_B_ulti"
+		"updatedname" "ze_R_W_B_ulti"
+		"OnlyNominate" "0"
+	}
+	"ze_raid_ffxiv_eorzea"
+	{
+		"workshop_id" "3474157957"
+		"enabled" "1"
+		"filename" "ze_raid_ffxiv_eorzea"
+		"updatedname" "ze_raid_ffxiv_eorzea"
+		"OnlyNominate" "0"
+	}
+	"ze_lootus"
+	{
+		"workshop_id" "3472603423"
+		"enabled" "1"
+		"filename" "ze_lootus"
+		"updatedname" "ze_lootus"
+		"OnlyNominate" "0"
+	}
+	"ze_luna_escape"
+	{
+		"workshop_id" "3472585010"
+		"enabled" "1"
+		"filename" "ze_luna_escape"
+		"updatedname" "ze_luna_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_nibui"
+	{
+		"workshop_id" "3469117108"
+		"enabled" "0"
+		"filename" "ze_nibui"
+		"updatedname" "ze_nibui"
+		"OnlyNominate" "0"
+	}
+	"ze_lotr_dol_guldur"
+	{
+		"workshop_id" "3468652654"
+		"enabled" "0"
+		"filename" "ze_lotr_dol_guldur"
+		"updatedname" "ze_lotr_dol_guldur"
+		"OnlyNominate" "0"
+	}
+	"ze_kebab_immigrant"
+	{
+		"workshop_id" "3464430150"
+		"enabled" "1"
+		"filename" "ze_kebab_immigrant"
+		"updatedname" "ze_kebab_immigrant"
+		"OnlyNominate" "0"
+	}
+	"ze_church_of_white_ha1jk5fg2"
+	{
+		"workshop_id" "3457593961"
+		"enabled" "1"
+		"filename" "ze_church_of_white_ha1jk5fg2"
+		"updatedname" "ze_church_of_white_ha1jk5fg2"
+		"OnlyNominate" "0"
+	}
+	"ze_ULTRAKILL"
+	{
+		"workshop_id" "3455771581"
+		"enabled" "1"
+		"filename" "ze_ULTRAKILL"
+		"updatedname" "ze_ULTRAKILL"
+		"OnlyNominate" "0"
+	}
+	"ze_chroma"
+	{
+		"workshop_id" "3486786291"
+		"enabled" "0"
+		"filename" "ze_chroma"
+		"updatedname" "ze_chroma"
+		"OnlyNominate" "0"
+	}
+	"ze_undersea_temple_a4"
+	{
+		"workshop_id" "3486728906"
+		"enabled" "1"
+		"filename" "ze_undersea_temple_a4"
+		"updatedname" "ze_undersea_temple_a4"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_rove"
+	{
+		"workshop_id" "3469573172"
+		"enabled" "1"
+		"filename" "ze_obj_rove"
+		"updatedname" "ze_obj_rove"
+		"OnlyNominate" "0"
+	}
+	"ze_italy_town_z"
+	{
+		"workshop_id" "3490445810"
+		"enabled" "0"
+		"filename" "ze_italy_town_z"
+		"updatedname" "ze_italy_town_z"
+		"OnlyNominate" "0"
+	}
+	"ze_zombiemod_corporation_p"
+	{
+		"workshop_id" "3491611168"
+		"enabled" "1"
+		"filename" "ze_zombiemod_corporation_p"
+		"updatedname" "ze_zombiemod_corporation_p"
+		"OnlyNominate" "0"
+	}
+	"ze_random_escape_p"
+	{
+		"workshop_id" "3491610173"
+		"enabled" "1"
+		"filename" "ze_random_escape_p"
+		"updatedname" "ze_random_escape_p"
+		"OnlyNominate" "0"
+	}
+	"ze_notredame_p"
+	{
+		"workshop_id" "3491609761"
+		"enabled" "1"
+		"filename" "ze_notredame_p"
+		"updatedname" "ze_notredame_p"
+		"OnlyNominate" "0"
+	}
+	"ze_basic_geometric_test"
+	{
+		"workshop_id" "3491374746"
+		"enabled" "0"
+		"filename" "ze_basic_geometric_test"
+		"updatedname" "ze_basic_geometric_test"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_annihilate_dd_v1"
+	{
+		"workshop_id" "3434442059"
+		"enabled" "1"
+		"filename" "ze_obj_annihilate_dd_v1"
+		"updatedname" "ze_obj_annihilate_dd_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_peach_castle_n64"
+	{
+		"workshop_id" "3493176131"
+		"enabled" "1"
+		"filename" "ze_peach_castle_n64"
+		"updatedname" "ze_peach_castle_n64"
+		"OnlyNominate" "0"
+	}
+	"ze_chrono_trigger"
+	{
+		"workshop_id" "3493671818"
+		"enabled" "1"
+		"filename" "ze_chrono_trigger"
+		"updatedname" "ze_chrono_trigger"
+		"OnlyNominate" "0"
+	}
+	"ze_prototype"
+	{
+		"workshop_id" "3492900445"
+		"enabled" "1"
+		"filename" "ze_prototype"
+		"updatedname" "ze_prototype"
+		"OnlyNominate" "0"
+	}
+	"ze_tree_story"
+	{
+		"workshop_id" "3487344597"
+		"enabled" "0"
+		"filename" "ze_tree_story"
+		"updatedname" "ze_tree_story"
+		"OnlyNominate" "0"
+	}
+	"ze_Minecraft_Dreamland"
+	{
+		"workshop_id" "3496709273"
+		"enabled" "1"
+		"filename" "ze_Minecraft_Dreamland"
+		"updatedname" "ze_Minecraft_Dreamland"
+		"OnlyNominate" "0"
+	}
+	"ze_madara_temple"
+	{
+		"workshop_id" "3492660421"
+		"enabled" "1"
+		"filename" "ze_madara_temple"
+		"updatedname" "ze_madara_temple"
+		"OnlyNominate" "0"
+	}
+	"ze_cemetery_escape"
+	{
+		"workshop_id" "3495390647"
+		"enabled" "1"
+		"filename" "ze_cemetery_escape"
+		"updatedname" "ze_cemetery_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_timesplitters_p"
+	{
+		"workshop_id" "3501126500"
+		"enabled" "1"
+		"filename" "ze_timesplitters_p"
+		"updatedname" "ze_timesplitters_p"
+		"OnlyNominate" "0"
+	}
+	"ze_castle_bridge_p"
+	{
+		"workshop_id" "3501125080"
+		"enabled" "1"
+		"filename" "ze_castle_bridge_p"
+		"updatedname" "ze_castle_bridge_p"
+		"OnlyNominate" "0"
+	}
+	"ze_payload_swarm"
+	{
+		"workshop_id" "3500311066"
+		"enabled" "1"
+		"filename" "ze_payload_swarm"
+		"updatedname" "ze_payload_swarm"
+		"OnlyNominate" "0"
+	}
+	"ze_project_codex"
+	{
+		"workshop_id" "3499862685"
+		"enabled" "1"
+		"filename" "ze_project_codex"
+		"updatedname" "ze_project_codex"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_avulsion_a1"
+	{
+		"workshop_id" "3499962464"
+		"enabled" "1"
+		"filename" "ze_obj_avulsion_a1"
+		"updatedname" "ze_obj_avulsion_a1"
+		"OnlyNominate" "0"
+	}
+	"ze_Mountain_Ultimate"
+	{
+		"workshop_id" "3495926739"
+		"enabled" "1"
+		"filename" "ze_Mountain_Ultimate"
+		"updatedname" "ze_Mountain_Ultimate"
+		"OnlyNominate" "0"
+	}
+	"ze_error"
+	{
+		"workshop_id" "3503421526"
+		"enabled" "1"
+		"filename" "ze_error"
+		"updatedname" "ze_error"
+		"OnlyNominate" "0"
+	}
+	"ze_project_codex_z"
+	{
+		"workshop_id" "3505147359"
+		"enabled" "0"
+		"filename" "ze_project_codex_z"
+		"updatedname" "ze_project_codex_z"
+		"OnlyNominate" "0"
+	}
+	"ze_gameshow"
+	{
+		"workshop_id" "3502458657"
+		"enabled" "1"
+		"filename" "ze_gameshow"
+		"updatedname" "ze_gameshow"
+		"OnlyNominate" "0"
+	}
+	"ze_diablo"
+	{
+		"workshop_id" "3485132292"
+		"enabled" "1"
+		"filename" "ze_diablo"
+		"updatedname" "ze_diablo"
+		"OnlyNominate" "0"
+	}
+	"ze_FFVII_Mako_Reactor_v5_p"
+	{
+		"workshop_id" "3511906760"
+		"enabled" "0"
+		"filename" "ze_FFVII_Mako_Reactor_v5_p"
+		"updatedname" "ze_FFVII_Mako_Reactor_v5_p"
+		"OnlyNominate" "0"
+	}
+	"ze_m0w0m_ws"
+	{
+		"workshop_id" "3512870422"
+		"enabled" "0"
+		"filename" "ze_m0w0m_ws"
+		"updatedname" "ze_m0w0m_ws"
+		"OnlyNominate" "0"
+	}
+	"ze_Obf_Rampage 2.0"
+	{
+		"workshop_id" "3512703303"
+		"enabled" "1"
+		"filename" "ze_Obf_Rampage 2.0"
+		"updatedname" "ze_Obf_Rampage 2.0"
+		"OnlyNominate" "0"
+	}
+	"ze_untitled_touhou"
+	{
+		"workshop_id" "3511418043"
+		"enabled" "1"
+		"filename" "ze_untitled_touhou"
+		"updatedname" "ze_untitled_touhou"
+		"OnlyNominate" "0"
+	}
+	"ze_timesink"
+	{
+		"workshop_id" "3513697564"
+		"enabled" "1"
+		"filename" "ze_timesink"
+		"updatedname" "ze_timesink"
+		"OnlyNominate" "0"
+	}
+	"ze_watagi_tunnel_rewind"
+	{
+		"workshop_id" "3518946563"
+		"enabled" "1"
+		"filename" "ze_watagi_tunnel_rewind"
+		"updatedname" "ze_watagi_tunnel_rewind"
+		"OnlyNominate" "0"
+	}
+	"ze_guye_room"
+	{
+		"workshop_id" "3518232786"
+		"enabled" "0"
+		"filename" "ze_guye_room"
+		"updatedname" "ze_guye_room"
+		"OnlyNominate" "0"
+	}
+	"ze_starlight_revue_Cs2"
+	{
+		"workshop_id" "3519985936"
+		"enabled" "1"
+		"filename" "ze_starlight_revue_Cs2"
+		"updatedname" "ze_starlight_revue_Cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_escape_together"
+	{
+		"workshop_id" "3517212177"
+		"enabled" "0"
+		"filename" "ze_escape_together"
+		"updatedname" "ze_escape_together"
+		"OnlyNominate" "0"
+	}
+	"ze_endless_dream"
+	{
+		"workshop_id" "3524889413"
+		"enabled" "1"
+		"filename" "ze_endless_dream"
+		"updatedname" "ze_endless_dream"
+		"OnlyNominate" "0"
+	}
+	"ze_arknights_caerula_arbor"
+	{
+		"workshop_id" "3522564643"
+		"enabled" "1"
+		"filename" "ze_arknights_caerula_arbor"
+		"updatedname" "ze_arknights_caerula_arbor"
+		"OnlyNominate" "0"
+	}
+	"ze_minecraft_adventure"
+	{
+		"workshop_id" "3492345434"
+		"enabled" "1"
+		"filename" "ze_minecraft_adventure"
+		"updatedname" "ze_minecraft_adventure"
+		"OnlyNominate" "0"
+	}
+	"ze_Boatescape777"
+	{
+		"workshop_id" "3527162200"
+		"enabled" "1"
+		"filename" "ze_Boatescape777"
+		"updatedname" "ze_Boatescape777"
+		"OnlyNominate" "0"
+	}
+	"ze_knife_stray_p"
+	{
+		"workshop_id" "3516464358"
+		"enabled" "1"
+		"filename" "ze_knife_stray_p"
+		"updatedname" "ze_knife_stray_p"
+		"OnlyNominate" "0"
+	}
+	"ze_cookie"
+	{
+		"workshop_id" "3529385819"
+		"enabled" "1"
+		"filename" "ze_cookie"
+		"updatedname" "ze_cookie"
+		"OnlyNominate" "0"
+	}
+	"ze_bunny_story"
+	{
+		"workshop_id" "3494622986"
+		"enabled" "1"
+		"filename" "ze_bunny_story"
+		"updatedname" "ze_bunny_story"
+		"OnlyNominate" "0"
+	}
+	"ze_my_first_escape"
+	{
+		"workshop_id" "3533002094"
+		"enabled" "0"
+		"filename" "ze_my_first_escape"
+		"updatedname" "ze_my_first_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_hsc"
+	{
+		"workshop_id" "3534202620"
+		"enabled" "1"
+		"filename" "ze_hsc"
+		"updatedname" "ze_hsc"
+		"OnlyNominate" "0"
+	}
+	"ze_decayed_dreams"
+	{
+		"workshop_id" "3543886710"
+		"enabled" "1"
+		"filename" "ze_decayed_dreams"
+		"updatedname" "ze_decayed_dreams"
+		"OnlyNominate" "0"
+	}
+	"ze_mota"
+	{
+		"workshop_id" "3536768755"
+		"enabled" "1"
+		"filename" "ze_mota"
+		"updatedname" "ze_mota"
+		"OnlyNominate" "0"
+	}
+	"ze_sakuzyo"
+	{
+		"workshop_id" "3535868994"
+		"enabled" "1"
+		"filename" "ze_sakuzyo"
+		"updatedname" "ze_sakuzyo"
+		"OnlyNominate" "0"
+	}
+	"ze_ancient_wrath_p"
+	{
+		"workshop_id" "3535803756"
+		"enabled" "1"
+		"filename" "ze_ancient_wrath_p"
+		"updatedname" "ze_ancient_wrath_p"
+		"OnlyNominate" "0"
+	}
+	"ze_theback_bureau"
+	{
+		"workshop_id" "3530061480"
+		"enabled" "0"
+		"filename" "ze_theback_bureau"
+		"updatedname" "ze_theback_bureau"
+		"OnlyNominate" "0"
+	}
+	"ze_xiii_winslow_bank"
+	{
+		"workshop_id" "3544927725"
+		"enabled" "1"
+		"filename" "ze_xiii_winslow_bank"
+		"updatedname" "ze_xiii_winslow_bank"
+		"OnlyNominate" "0"
+	}
+	"ze_death_forest"
+	{
+		"workshop_id" "3546897103"
+		"enabled" "1"
+		"filename" "ze_death_forest"
+		"updatedname" "ze_death_forest"
+		"OnlyNominate" "0"
+	}
+	"ze_idk_what_to_call_this"
+	{
+		"workshop_id" "3546294282"
+		"enabled" "1"
+		"filename" "ze_idk_what_to_call_this"
+		"updatedname" "ze_idk_what_to_call_this"
+		"OnlyNominate" "0"
+	}
+	"ze_m0w0m_p"
+	{
+		"workshop_id" "3547532141"
+		"enabled" "1"
+		"filename" "ze_m0w0m_p"
+		"updatedname" "ze_m0w0m_p"
+		"OnlyNominate" "0"
+	}
+	"ze_nightmare_dimension"
+	{
+		"workshop_id" "3547914817"
+		"enabled" "1"
+		"filename" "ze_nightmare_dimension"
+		"updatedname" "ze_nightmare_dimension"
+		"OnlyNominate" "0"
+	}
+	"ze_residence_of_cloud"
+	{
+		"workshop_id" "3550591097"
+		"enabled" "1"
+		"filename" "ze_residence_of_cloud"
+		"updatedname" "ze_residence_of_cloud"
+		"OnlyNominate" "0"
+	}
+	"ze_alien_mountain_escape_ffvii_v5"
+	{
+		"workshop_id" "3550166449"
+		"enabled" "1"
+		"filename" "ze_alien_mountain_escape_ffvii_v5"
+		"updatedname" "ze_alien_mountain_escape_ffvii_v5"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_facility_p"
+	{
+		"workshop_id" "3551367156"
+		"enabled" "1"
+		"filename" "ze_surf_facility_p"
+		"updatedname" "ze_surf_facility_p"
+		"OnlyNominate" "0"
+	}
+	"ze_pools_part2"
+	{
+		"workshop_id" "3552194255"
+		"enabled" "1"
+		"filename" "ze_pools_part2"
+		"updatedname" "ze_pools_part2"
+		"OnlyNominate" "0"
+	}
+	"ze_doomglaven"
+	{
+		"workshop_id" "3544592970"
+		"enabled" "1"
+		"filename" "ze_doomglaven"
+		"updatedname" "ze_doomglaven"
+		"OnlyNominate" "0"
+	}
+	"ze_toggle_theory"
+	{
+		"workshop_id" "3551455108"
+		"enabled" "1"
+		"filename" "ze_toggle_theory"
+		"updatedname" "ze_toggle_theory"
+		"OnlyNominate" "0"
+	}
+	"ze_peach_insanity_n64"
+	{
+		"workshop_id" "3553979630"
+		"enabled" "1"
+		"filename" "ze_peach_insanity_n64"
+		"updatedname" "ze_peach_insanity_n64"
+		"OnlyNominate" "0"
+	}
+	"ze_pokemon_johto"
+	{
+		"workshop_id" "3552907522"
+		"enabled" "1"
+		"filename" "ze_pokemon_johto"
+		"updatedname" "ze_pokemon_johto"
+		"OnlyNominate" "0"
+	}
+	"ze_plants_vs_zombies"
+	{
+		"workshop_id" "3555222611"
+		"enabled" "1"
+		"filename" "ze_plants_vs_zombies"
+		"updatedname" "ze_plants_vs_zombies"
+		"OnlyNominate" "0"
+	}
+	"ze_ice_hold_p"
+	{
+		"workshop_id" "3554531110"
+		"enabled" "1"
+		"filename" "ze_ice_hold_p"
+		"updatedname" "ze_ice_hold_p"
+		"OnlyNominate" "0"
+	}
+	"ze_Evernight"
+	{
+		"workshop_id" "3554293383"
+		"enabled" "1"
+		"filename" "ze_Evernight"
+		"updatedname" "ze_Evernight"
+		"OnlyNominate" "0"
+	}
+	"ze_mix"
+	{
+		"workshop_id" "3553751417"
+		"enabled" "0"
+		"filename" "ze_mix"
+		"updatedname" "ze_mix"
+		"OnlyNominate" "0"
+	}
+	"ze_arknights_caerula_arbor(English_version)"
+	{
+		"workshop_id" "3555615746"
+		"enabled" "1"
+		"filename" "ze_arknights_caerula_arbor(English_version)"
+		"updatedname" "ze_arknights_caerula_arbor(English_version)"
+		"OnlyNominate" "0"
+	}
+	"ze_outerwilds"
+	{
+		"workshop_id" "3558797550"
+		"enabled" "1"
+		"filename" "ze_outerwilds"
+		"updatedname" "ze_outerwilds"
+		"OnlyNominate" "0"
+	}
+	"ze_infested-industry_p"
+	{
+		"workshop_id" "3558658404"
+		"enabled" "1"
+		"filename" "ze_infested-industry_p"
+		"updatedname" "ze_infested-industry_p"
+		"OnlyNominate" "0"
+	}
+	"ze_IMPERIUM"
+	{
+		"workshop_id" "3558256619"
+		"enabled" "1"
+		"filename" "ze_IMPERIUM"
+		"updatedname" "ze_IMPERIUM"
+		"OnlyNominate" "0"
+	}
+	"ze_jp_trip_k1ne2"
+	{
+		"workshop_id" "3558139662"
+		"enabled" "1"
+		"filename" "ze_jp_trip_k1ne2"
+		"updatedname" "ze_jp_trip_k1ne2"
+		"OnlyNominate" "0"
+	}
+	"ze_chip_n_dale"
+	{
+		"workshop_id" "3557589803"
+		"enabled" "1"
+		"filename" "ze_chip_n_dale"
+		"updatedname" "ze_chip_n_dale"
+		"OnlyNominate" "0"
+	}
+	"ze_the_shifting_pool"
+	{
+		"workshop_id" "3545116519"
+		"enabled" "1"
+		"filename" "ze_the_shifting_pool"
+		"updatedname" "ze_the_shifting_pool"
+		"OnlyNominate" "0"
+	}
+	"ze_syrup"
+	{
+		"workshop_id" "3559870041"
+		"enabled" "1"
+		"filename" "ze_syrup"
+		"updatedname" "ze_syrup"
+		"OnlyNominate" "0"
+	}
+	"ze_epstein_island"
+	{
+		"workshop_id" "3559867482"
+		"enabled" "0"
+		"filename" "ze_epstein_island"
+		"updatedname" "ze_epstein_island"
+		"OnlyNominate" "0"
+	}
+	"ze_taiwan"
+	{
+		"workshop_id" "3559853404"
+		"enabled" "0"
+		"filename" "ze_taiwan"
+		"updatedname" "ze_taiwan"
+		"OnlyNominate" "1"
+	}
+	"ze_pilgrimage"
+	{
+		"workshop_id" "3559851144"
+		"enabled" "1"
+		"filename" "ze_pilgrimage"
+		"updatedname" "ze_pilgrimage"
+		"OnlyNominate" "0"
+	}
+	"ze_halo3_thestorm"
+	{
+		"workshop_id" "3559735160"
+		"enabled" "1"
+		"filename" "ze_halo3_thestorm"
+		"updatedname" "ze_halo3_thestorm"
+		"OnlyNominate" "0"
+	}
+	"ze_FFXII_Bestersand_Beta"
+	{
+		"workshop_id" "3559723580"
+		"enabled" "1"
+		"filename" "ze_FFXII_Bestersand_Beta"
+		"updatedname" "ze_FFXII_Bestersand_Beta"
+		"OnlyNominate" "0"
+	}
+	"ze_penguin_of_doom"
+	{
+		"workshop_id" "3559650243"
+		"enabled" "1"
+		"filename" "ze_penguin_of_doom"
+		"updatedname" "ze_penguin_of_doom"
+		"OnlyNominate" "0"
+	}
+	"ze_CyberBloods"
+	{
+		"workshop_id" "3559558664"
+		"enabled" "0"
+		"filename" "ze_CyberBloods"
+		"updatedname" "ze_CyberBloods"
+		"OnlyNominate" "0"
+	}
+	"ze_downstairs"
+	{
+		"workshop_id" "3559557611"
+		"enabled" "1"
+		"filename" "ze_downstairs"
+		"updatedname" "ze_downstairs"
+		"OnlyNominate" "0"
+	}
+	"ze_gunma"
+	{
+		"workshop_id" "3559457890"
+		"enabled" "0"
+		"filename" "ze_gunma"
+		"updatedname" "ze_gunma"
+		"OnlyNominate" "0"
+	}
+	"ze_minecraft_drifts"
+	{
+		"workshop_id" "3559375583"
+		"enabled" "1"
+		"filename" "ze_minecraft_drifts"
+		"updatedname" "ze_minecraft_drifts"
+		"OnlyNominate" "0"
+	}
+	"ze_Backrooms_Insomnia"
+	{
+		"workshop_id" "3559330245"
+		"enabled" "1"
+		"filename" "ze_Backrooms_Insomnia"
+		"updatedname" "ze_Backrooms_Insomnia"
+		"OnlyNominate" "0"
+	}
+	"ze_SAMOSBOR"
+	{
+		"workshop_id" "3558923245"
+		"enabled" "1"
+		"filename" "ze_SAMOSBOR"
+		"updatedname" "ze_SAMOSBOR"
+		"OnlyNominate" "0"
+	}
+	"ze_obscura_tower"
+	{
+		"workshop_id" "3558852799"
+		"enabled" "1"
+		"filename" "ze_obscura_tower"
+		"updatedname" "ze_obscura_tower"
+		"OnlyNominate" "0"
+	}
+	"ze_MAGA"
+	{
+		"workshop_id" "3559728491"
+		"enabled" "1"
+		"filename" "ze_MAGA"
+		"updatedname" "ze_MAGA"
+		"OnlyNominate" "0"
+	}
+	"ze_rocket_escape_p"
+	{
+		"workshop_id" "3561063526"
+		"enabled" "1"
+		"filename" "ze_rocket_escape_p"
+		"updatedname" "ze_rocket_escape_p"
+		"OnlyNominate" "0"
+	}
+	"ze_hell_escape_p"
+	{
+		"workshop_id" "3560705183"
+		"enabled" "1"
+		"filename" "ze_hell_escape_p"
+		"updatedname" "ze_hell_escape_p"
+		"OnlyNominate" "0"
+	}
+	"ze_nomada"
+	{
+		"workshop_id" "3561455176"
+		"enabled" "1"
+		"filename" "ze_nomada"
+		"updatedname" "ze_nomada"
+		"OnlyNominate" "0"
+	}
+	"ze_taiwan_snow"
+	{
+		"workshop_id" "3562549959"
+		"enabled" "0"
+		"filename" "ze_taiwan_snow"
+		"updatedname" "ze_taiwan_snow"
+		"OnlyNominate" "1"
+	}
+	"ze_portal_story_p"
+	{
+		"workshop_id" "3563019175"
+		"enabled" "1"
+		"filename" "ze_portal_story_p"
+		"updatedname" "ze_portal_story_p"
+		"OnlyNominate" "0"
+	}
+	"ze_three_eyes"
+	{
+		"workshop_id" "3564404244"
+		"enabled" "1"
+		"filename" "ze_three_eyes"
+		"updatedname" "ze_three_eyes"
+		"OnlyNominate" "0"
+	}
+	"ze_thorny_torch"
+	{
+		"workshop_id" "3543989049"
+		"enabled" "1"
+		"filename" "ze_thorny_torch"
+		"updatedname" "ze_thorny_torch"
+		"OnlyNominate" "0"
+	}
+	"ze_maze_runner"
+	{
+		"workshop_id" "3565534796"
+		"enabled" "1"
+		"filename" "ze_maze_runner"
+		"updatedname" "ze_maze_runner"
+		"OnlyNominate" "0"
+	}
+	"ze_infected_sewers_v4"
+	{
+		"workshop_id" "3563903766"
+		"enabled" "1"
+		"filename" "ze_infected_sewers_v4"
+		"updatedname" "ze_infected_sewers_v4"
+		"OnlyNominate" "0"
+	}
+	"ze_indiana_jones_004_p"
+	{
+		"workshop_id" "3565689743"
+		"enabled" "1"
+		"filename" "ze_indiana_jones_004_p"
+		"updatedname" "ze_indiana_jones_004_p"
+		"OnlyNominate" "0"
+	}
+	"ze_studying_the_factory"
+	{
+		"workshop_id" "3567890549"
+		"enabled" "1"
+		"filename" "ze_studying_the_factory"
+		"updatedname" "ze_studying_the_factory"
+		"OnlyNominate" "0"
+	}
+	"ze_lethal_company"
+	{
+		"workshop_id" "3567816139"
+		"enabled" "1"
+		"filename" "ze_lethal_company"
+		"updatedname" "ze_lethal_company"
+		"OnlyNominate" "0"
+	}
+	"ze_akala_p"
+	{
+		"workshop_id" "3554431542"
+		"enabled" "1"
+		"filename" "ze_akala_p"
+		"updatedname" "ze_akala_p"
+		"OnlyNominate" "0"
+	}
+	"ze_mgden_z"
+	{
+		"workshop_id" "3571969004"
+		"enabled" "1"
+		"filename" "ze_mgden_z"
+		"updatedname" "ze_mgden_z"
+		"OnlyNominate" "0"
+	}
+	"ze_space_flight_p"
+	{
+		"workshop_id" "3573282229"
+		"enabled" "1"
+		"filename" "ze_space_flight_p"
+		"updatedname" "ze_space_flight_p"
+		"OnlyNominate" "0"
+	}
+	"ze_icecap_solo"
+	{
+		"workshop_id" "3571548002"
+		"enabled" "1"
+		"filename" "ze_icecap_solo"
+		"updatedname" "ze_icecap_solo"
+		"OnlyNominate" "0"
+	}
+	"ze_puritytest"
+	{
+		"workshop_id" "3575172717"
+		"enabled" "1"
+		"filename" "ze_puritytest"
+		"updatedname" "ze_puritytest"
+		"OnlyNominate" "0"
+	}
+	"ze_bisounours_party"
+	{
+		"workshop_id" "3574703644"
+		"enabled" "1"
+		"filename" "ze_bisounours_party"
+		"updatedname" "ze_bisounours_party"
+		"OnlyNominate" "0"
+	}
+	"ze_umbrella_zombie"
+	{
+		"workshop_id" "3574053012"
+		"enabled" "1"
+		"filename" "ze_umbrella_zombie"
+		"updatedname" "ze_umbrella_zombie"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_federation"
+	{
+		"workshop_id" "3571968442"
+		"enabled" "1"
+		"filename" "ze_obj_federation"
+		"updatedname" "ze_obj_federation"
+		"OnlyNominate" "0"
+	}
+	"ze_concrete_defense"
+	{
+		"workshop_id" "3578279270"
+		"enabled" "1"
+		"filename" "ze_concrete_defense"
+		"updatedname" "ze_concrete_defense"
+		"OnlyNominate" "0"
+	}
+	"ze_endor"
+	{
+		"workshop_id" "3579337479"
+		"enabled" "1"
+		"filename" "ze_endor"
+		"updatedname" "ze_endor"
+		"OnlyNominate" "0"
+	}
+	"ze_kororinpa"
+	{
+		"workshop_id" "3534403561"
+		"enabled" "1"
+		"filename" "ze_kororinpa"
+		"updatedname" "ze_kororinpa"
+		"OnlyNominate" "0"
+	}
+	"ze_Backrooms"
+	{
+		"workshop_id" "3580412151"
+		"enabled" "1"
+		"filename" "ze_Backrooms"
+		"updatedname" "ze_Backrooms"
+		"OnlyNominate" "0"
+	}
+	"ze_BLACK_DOOR"
+	{
+		"workshop_id" "3583257505"
+		"enabled" "0"
+		"filename" "ze_BLACK_DOOR"
+		"updatedname" "ze_BLACK_DOOR"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_abyss"
+	{
+		"workshop_id" "3582313204"
+		"enabled" "1"
+		"filename" "ze_obj_abyss"
+		"updatedname" "ze_obj_abyss"
+		"OnlyNominate" "0"
+	}
+	"ze_barrel_of_death"
+	{
+		"workshop_id" "3584697259"
+		"enabled" "0"
+		"filename" "ze_barrel_of_death"
+		"updatedname" "ze_barrel_of_death"
+		"OnlyNominate" "0"
+	}
+	"ze_changing_room"
+	{
+		"workshop_id" "3564516686"
+		"enabled" "1"
+		"filename" "ze_changing_room"
+		"updatedname" "ze_changing_room"
+		"OnlyNominate" "0"
+	}
+	"ze_night_run"
+	{
+		"workshop_id" "3588461703"
+		"enabled" "1"
+		"filename" "ze_night_run"
+		"updatedname" "ze_night_run"
+		"OnlyNominate" "0"
+	}
+	"ze_rush_b"
+	{
+		"workshop_id" "3588414134"
+		"enabled" "1"
+		"filename" "ze_rush_b"
+		"updatedname" "ze_rush_b"
+		"OnlyNominate" "0"
+	}
+	"ze_barrelrooms"
+	{
+		"workshop_id" "3587917022"
+		"enabled" "0"
+		"filename" "ze_barrelrooms"
+		"updatedname" "ze_barrelrooms"
+		"OnlyNominate" "0"
+	}
+	"ze_nomada_z"
+	{
+		"workshop_id" "3589090621"
+		"enabled" "0"
+		"filename" "ze_nomada_z"
+		"updatedname" "ze_nomada_z"
+		"OnlyNominate" "0"
+	}
+	"ze_temple_raider"
+	{
+		"workshop_id" "3584178718"
+		"enabled" "1"
+		"filename" "ze_temple_raider"
+		"updatedname" "ze_temple_raider"
+		"OnlyNominate" "0"
+	}
+	"ze_sc_turtles"
+	{
+		"workshop_id" "3576548771"
+		"enabled" "1"
+		"filename" "ze_sc_turtles"
+		"updatedname" "ze_sc_turtles"
+		"OnlyNominate" "0"
+	}
+	"ze_temple_raider_p"
+	{
+		"workshop_id" "3590692268"
+		"enabled" "1"
+		"filename" "ze_temple_raider_p"
+		"updatedname" "ze_temple_raider_p"
+		"OnlyNominate" "0"
+	}
+	"ze_cube_defense"
+	{
+		"workshop_id" "3594228942"
+		"enabled" "1"
+		"filename" "ze_cube_defense"
+		"updatedname" "ze_cube_defense"
+		"OnlyNominate" "0"
+	}
+	"ze_backrooms_lenny"
+	{
+		"workshop_id" "3593375076"
+		"enabled" "1"
+		"filename" "ze_backrooms_lenny"
+		"updatedname" "ze_backrooms_lenny"
+		"OnlyNominate" "0"
+	}
+	"ze_sewer_escape_p"
+	{
+		"workshop_id" "3592616303"
+		"enabled" "1"
+		"filename" "ze_sewer_escape_p"
+		"updatedname" "ze_sewer_escape_p"
+		"OnlyNominate" "0"
+	}
+	"ze_chicken_kingdom"
+	{
+		"workshop_id" "3592246144"
+		"enabled" "0"
+		"filename" "ze_chicken_kingdom"
+		"updatedname" "ze_chicken_kingdom"
+		"OnlyNominate" "0"
+	}
+	"ze_changing_room_version:cn"
+	{
+		"workshop_id" "3594544809"
+		"enabled" "0"
+		"filename" "ze_changing_room_version:cn"
+		"updatedname" "ze_changing_room_version:cn"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_sahok_p"
+	{
+		"workshop_id" "3595683964"
+		"enabled" "1"
+		"filename" "ze_surf_sahok_p"
+		"updatedname" "ze_surf_sahok_p"
+		"OnlyNominate" "0"
+	}
+	"ze_crazy_christmas_p"
+	{
+		"workshop_id" "3596991057"
+		"enabled" "1"
+		"filename" "ze_crazy_christmas_p"
+		"updatedname" "ze_crazy_christmas_p"
+		"OnlyNominate" "0"
+	}
+	"ze_radio_building_cs2"
+	{
+		"workshop_id" "3589046064"
+		"enabled" "0"
+		"filename" "ze_radio_building_cs2"
+		"updatedname" "ze_radio_building_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_project_alcaria"
+	{
+		"workshop_id" "3593185192"
+		"enabled" "1"
+		"filename" "ze_project_alcaria"
+		"updatedname" "ze_project_alcaria"
+		"OnlyNominate" "0"
+	}
+	"ze_666_crazy_escape"
+	{
+		"workshop_id" "3600192136"
+		"enabled" "1"
+		"filename" "ze_666_crazy_escape"
+		"updatedname" "ze_666_crazy_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_fun"
+	{
+		"workshop_id" "3600733619"
+		"enabled" "1"
+		"filename" "ze_surf_fun"
+		"updatedname" "ze_surf_fun"
+		"OnlyNominate" "0"
+	}
+	"ze_red_planet"
+	{
+		"workshop_id" "3593285028"
+		"enabled" "1"
+		"filename" "ze_red_planet"
+		"updatedname" "ze_red_planet"
+		"OnlyNominate" "0"
+	}
+	"ze_oot_shadowtemple"
+	{
+		"workshop_id" "3596737015"
+		"enabled" "1"
+		"filename" "ze_oot_shadowtemple"
+		"updatedname" "ze_oot_shadowtemple"
+		"OnlyNominate" "0"
+	}
+	"ze_christmas_escape"
+	{
+		"workshop_id" "3604824218"
+		"enabled" "1"
+		"filename" "ze_christmas_escape"
+		"updatedname" "ze_christmas_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_trepang"
+	{
+		"workshop_id" "3605661192"
+		"enabled" "1"
+		"filename" "ze_trepang"
+		"updatedname" "ze_trepang"
+		"OnlyNominate" "0"
+	}
+	"ze_funny_runner"
+	{
+		"workshop_id" "3606121800"
+		"enabled" "1"
+		"filename" "ze_funny_runner"
+		"updatedname" "ze_funny_runner"
+		"OnlyNominate" "0"
+	}
+	"ze_psycho_pass"
+	{
+		"workshop_id" "3586775044"
+		"enabled" "1"
+		"filename" "ze_psycho_pass"
+		"updatedname" "ze_psycho_pass"
+		"OnlyNominate" "0"
+	}
+	"ze_Tower_of_Babel"
+	{
+		"workshop_id" "3608959107"
+		"enabled" "1"
+		"filename" "ze_Tower_of_Babel"
+		"updatedname" "ze_Tower_of_Babel"
+		"OnlyNominate" "0"
+	}
+	"ze_s_s_a_df"
+	{
+		"workshop_id" "3607077937"
+		"enabled" "0"
+		"filename" "ze_s_s_a_df"
+		"updatedname" "ze_s_s_a_df"
+		"OnlyNominate" "0"
+	}
+	"ze_mojos_minigames_p"
+	{
+		"workshop_id" "3612847040"
+		"enabled" "1"
+		"filename" "ze_mojos_minigames_p"
+		"updatedname" "ze_mojos_minigames_p"
+		"OnlyNominate" "0"
+	}
+	"ze_dorororo"
+	{
+		"workshop_id" "3610763992"
+		"enabled" "1"
+		"filename" "ze_dorororo"
+		"updatedname" "ze_dorororo"
+		"OnlyNominate" "0"
+	}
+	"ze_dear"
+	{
+		"workshop_id" "3613791987"
+		"enabled" "1"
+		"filename" "ze_dear"
+		"updatedname" "ze_dear"
+		"OnlyNominate" "0"
+	}
+	"ze_lost_ruins"
+	{
+		"workshop_id" "3620048576"
+		"enabled" "1"
+		"filename" "ze_lost_ruins"
+		"updatedname" "ze_lost_ruins"
+		"OnlyNominate" "0"
+	}
+	"ze_ez"
+	{
+		"workshop_id" "3621274089"
+		"enabled" "1"
+		"filename" "ze_ez"
+		"updatedname" "ze_ez"
+		"OnlyNominate" "0"
+	}
+	"ze_ffxiv_wanderers_palace_v5_2"
+	{
+		"workshop_id" "3615320619"
+		"enabled" "1"
+		"filename" "ze_ffxiv_wanderers_palace_v5_2"
+		"updatedname" "ze_ffxiv_wanderers_palace_v5_2"
+		"OnlyNominate" "0"
+	}
+	"ze_avalanche_reboot"
+	{
+		"workshop_id" "3610993599"
+		"enabled" "1"
+		"filename" "ze_avalanche_reboot"
+		"updatedname" "ze_avalanche_reboot"
+		"OnlyNominate" "0"
+	}
+	"ze_ffvii_cosmo_canyon_v2"
+	{
+		"workshop_id" "3625425328"
+		"enabled" "0"
+		"filename" "ze_ffvii_cosmo_canyon_v2"
+		"updatedname" "ze_ffvii_cosmo_canyon_v2"
+		"OnlyNominate" "0"
+	}
+	"ze_mlgsurf"
+	{
+		"workshop_id" "3635911802"
+		"enabled" "1"
+		"filename" "ze_mlgsurf"
+		"updatedname" "ze_mlgsurf"
+		"OnlyNominate" "0"
+	}
+	"ze_skill_escape_xmas"
+	{
+		"workshop_id" "3630315660"
+		"enabled" "1"
+		"filename" "ze_skill_escape_xmas"
+		"updatedname" "ze_skill_escape_xmas"
+		"OnlyNominate" "0"
+	}
+	"ze_system_cs2"
+	{
+		"workshop_id" "3631771582"
+		"enabled" "1"
+		"filename" "ze_system_cs2"
+		"updatedname" "ze_system_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_imperial_sanctum"
+	{
+		"workshop_id" "3627807848"
+		"enabled" "1"
+		"filename" "ze_imperial_sanctum"
+		"updatedname" "ze_imperial_sanctum"
+		"OnlyNominate" "0"
+	}
+	"ze_Steyliff_Grove_Re"
+	{
+		"workshop_id" "3634985511"
+		"enabled" "0"
+		"filename" "ze_Steyliff_Grove_Re"
+		"updatedname" "ze_Steyliff_Grove_Re"
+		"OnlyNominate" "0"
+	}
+	"ze_the_last_chapter"
+	{
+		"workshop_id" "3634244648"
+		"enabled" "1"
+		"filename" "ze_the_last_chapter"
+		"updatedname" "ze_the_last_chapter"
+		"OnlyNominate" "0"
+	}
+	"ze_quiver_p"
+	{
+		"workshop_id" "3637394225"
+		"enabled" "1"
+		"filename" "ze_quiver_p"
+		"updatedname" "ze_quiver_p"
+		"OnlyNominate" "0"
+	}
+	"ze_silent_hill_rengurn"
+	{
+		"workshop_id" "3636650451"
+		"enabled" "1"
+		"filename" "ze_silent_hill_rengurn"
+		"updatedname" "ze_silent_hill_rengurn"
+		"OnlyNominate" "0"
+	}
+	"ze_rainbow_world_p"
+	{
+		"workshop_id" "3630711229"
+		"enabled" "1"
+		"filename" "ze_rainbow_world_p"
+		"updatedname" "ze_rainbow_world_p"
+		"OnlyNominate" "0"
+	}
+	"ze_challenge_run!"
+	{
+		"workshop_id" "3605252431"
+		"enabled" "1"
+		"filename" "ze_challenge_run!"
+		"updatedname" "ze_challenge_run!"
+		"OnlyNominate" "0"
+	}
+	"ze_beyond_horizon"
+	{
+		"workshop_id" "3637404894"
+		"enabled" "1"
+		"filename" "ze_beyond_horizon"
+		"updatedname" "ze_beyond_horizon"
+		"OnlyNominate" "0"
+	}
+	"ze_rawnscape_p"
+	{
+		"workshop_id" "3638904786"
+		"enabled" "1"
+		"filename" "ze_rawnscape_p"
+		"updatedname" "ze_rawnscape_p"
+		"OnlyNominate" "0"
+	}
+	"ze_military_escape_p"
+	{
+		"workshop_id" "3639860138"
+		"enabled" "1"
+		"filename" "ze_military_escape_p"
+		"updatedname" "ze_military_escape_p"
+		"OnlyNominate" "0"
+	}
+	"ze_fate/stay_night_ubw"
+	{
+		"workshop_id" "3615480260"
+		"enabled" "0"
+		"filename" "ze_fate/stay_night_ubw"
+		"updatedname" "ze_fate/stay_night_ubw"
+		"OnlyNominate" "0"
+	}
+	"ze_At_dusk"
+	{
+		"workshop_id" "3644957684"
+		"enabled" "1"
+		"filename" "ze_At_dusk"
+		"updatedname" "ze_At_dusk"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_inferno"
+	{
+		"workshop_id" "3631246534"
+		"enabled" "0"
+		"filename" "ze_surf_inferno"
+		"updatedname" "ze_surf_inferno"
+		"OnlyNominate" "0"
+	}
+	"ze_deep_dark_fantasy_v1"
+	{
+		"workshop_id" "3649759628"
+		"enabled" "1"
+		"filename" "ze_deep_dark_fantasy_v1"
+		"updatedname" "ze_deep_dark_fantasy_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_redheart"
+	{
+		"workshop_id" "3634209009"
+		"enabled" "1"
+		"filename" "ze_obj_redheart"
+		"updatedname" "ze_obj_redheart"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_operation_deterioration"
+	{
+		"workshop_id" "3651583290"
+		"enabled" "1"
+		"filename" "ze_surf_operation_deterioration"
+		"updatedname" "ze_surf_operation_deterioration"
+		"OnlyNominate" "0"
+	}
+	"ze_flat_surviva"
+	{
+		"workshop_id" "3651541043"
+		"enabled" "1"
+		"filename" "ze_flat_surviva"
+		"updatedname" "ze_flat_surviva"
+		"OnlyNominate" "0"
+	}
+	"ze_decayed_dreams2"
+	{
+		"workshop_id" "3651178818"
+		"enabled" "1"
+		"filename" "ze_decayed_dreams2"
+		"updatedname" "ze_decayed_dreams2"
+		"OnlyNominate" "0"
+	}
+	"ze_name_defense"
+	{
+		"workshop_id" "3652202376"
+		"enabled" "0"
+		"filename" "ze_name_defense"
+		"updatedname" "ze_name_defense"
+		"OnlyNominate" "0"
+	}
+	"ze_escapetheworld"
+	{
+		"workshop_id" "3649641848"
+		"enabled" "1"
+		"filename" "ze_escapetheworld"
+		"updatedname" "ze_escapetheworld"
+		"OnlyNominate" "0"
+	}
+	"ze_mist_lake"
+	{
+		"workshop_id" "3652092740"
+		"enabled" "0"
+		"filename" "ze_mist_lake"
+		"updatedname" "ze_mist_lake"
+		"OnlyNominate" "0"
+	}
+	"ze_parkour"
+	{
+		"workshop_id" "3659734314"
+		"enabled" "1"
+		"filename" "ze_parkour"
+		"updatedname" "ze_parkour"
+		"OnlyNominate" "0"
+	}
+	"ze_necromanteion_p"
+	{
+		"workshop_id" "3659233822"
+		"enabled" "1"
+		"filename" "ze_necromanteion_p"
+		"updatedname" "ze_necromanteion_p"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_redemption_v2"
+	{
+		"workshop_id" "3659830085"
+		"enabled" "1"
+		"filename" "ze_obj_redemption_v2"
+		"updatedname" "ze_obj_redemption_v2"
+		"OnlyNominate" "0"
+	}
+	"ze_workcell_cancer(demo)"
+	{
+		"workshop_id" "3662352637"
+		"enabled" "0"
+		"filename" "ze_workcell_cancer(demo)"
+		"updatedname" "ze_workcell_cancer(demo)"
+		"OnlyNominate" "0"
+	}
+	"ze_cyberderp"
+	{
+		"workshop_id" "3644988698"
+		"enabled" "1"
+		"filename" "ze_cyberderp"
+		"updatedname" "ze_cyberderp"
+		"OnlyNominate" "0"
+	}
+	"ze_date_a_live"
+	{
+		"workshop_id" "3662322508"
+		"enabled" "1"
+		"filename" "ze_date_a_live"
+		"updatedname" "ze_date_a_live"
+		"OnlyNominate" "0"
+	}
+	"ze_elmas"
+	{
+		"workshop_id" "3666405467"
+		"enabled" "1"
+		"filename" "ze_elmas"
+		"updatedname" "ze_elmas"
+		"OnlyNominate" "0"
+	}
+	"ze_FFXIV_Wanderers_Palace_v2_8"
+	{
+		"workshop_id" "3665371355"
+		"enabled" "0"
+		"filename" "ze_FFXIV_Wanderers_Palace_v2_8"
+		"updatedname" "ze_FFXIV_Wanderers_Palace_v2_8"
+		"OnlyNominate" "0"
+	}
+	"ze_newyear_v1_8"
+	{
+		"workshop_id" "3667466785"
+		"enabled" "1"
+		"filename" "ze_newyear_v1_8"
+		"updatedname" "ze_newyear_v1_8"
+		"OnlyNominate" "0"
+	}
+	"ze_best_guess"
+	{
+		"workshop_id" "3668165205"
+		"enabled" "1"
+		"filename" "ze_best_guess"
+		"updatedname" "ze_best_guess"
+		"OnlyNominate" "0"
+	}
+	"ze_deadly_archive"
+	{
+		"workshop_id" "3667395128"
+		"enabled" "1"
+		"filename" "ze_deadly_archive"
+		"updatedname" "ze_deadly_archive"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_soft"
+	{
+		"workshop_id" "3669722089"
+		"enabled" "1"
+		"filename" "ze_surf_soft"
+		"updatedname" "ze_surf_soft"
+		"OnlyNominate" "0"
+	}
+	"ze_hr_dead_center"
+	{
+		"workshop_id" "3659211427"
+		"enabled" "1"
+		"filename" "ze_hr_dead_center"
+		"updatedname" "ze_hr_dead_center"
+		"OnlyNominate" "0"
+	}
+	"ze_shenghuaxinnianguangchang_v0_1"
+	{
+		"workshop_id" "3672184863"
+		"enabled" "0"
+		"filename" "ze_shenghuaxinnianguangchang_v0_1"
+		"updatedname" "ze_shenghuaxinnianguangchang_v0_1"
+		"OnlyNominate" "0"
+	}
+	"ze_workcell_cancer"
+	{
+		"workshop_id" "3673205467"
+		"enabled" "0"
+		"filename" "ze_workcell_cancer"
+		"updatedname" "ze_workcell_cancer"
+		"OnlyNominate" "0"
+	}
+	"ze_sewer"
+	{
+		"workshop_id" "3673154394"
+		"enabled" "1"
+		"filename" "ze_sewer"
+		"updatedname" "ze_sewer"
+		"OnlyNominate" "0"
+	}
+	"ze_A_E_S_T_H_E_T_I_C_p"
+	{
+		"workshop_id" "3675161520"
+		"enabled" "1"
+		"filename" "ze_A_E_S_T_H_E_T_I_C_p"
+		"updatedname" "ze_A_E_S_T_H_E_T_I_C_p"
+		"OnlyNominate" "0"
+	}
+	"ze_winer"
+	{
+		"workshop_id" "3675256794"
+		"enabled" "1"
+		"filename" "ze_winer"
+		"updatedname" "ze_winer"
+		"OnlyNominate" "0"
+	}
+	"ze_maixia_v1"
+	{
+		"workshop_id" "3677018112"
+		"enabled" "1"
+		"filename" "ze_maixia_v1"
+		"updatedname" "ze_maixia_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_lotr_minas_tirith_recompile"
+	{
+		"workshop_id" "3353505696"
+		"enabled" "1"
+		"filename" "ze_lotr_minas_tirith_cs2"
+		"updatedname" "ze_lotr_minas_tirith_recompile"
+		"search" "米那斯;魔戒3"
+		"OnlyNominate" "1"
+	}
+	"ze_temple_of_the_demon_god"
+	{
+		"workshop_id" "3667491279"
+		"enabled" "1"
+		"filename" "ze_temple_of_the_demon_god"
+		"updatedname" "ze_temple_of_the_demon_god"
+		"OnlyNominate" "0"
+	}
+	"ZE_AMDAPOR_KEEP"
+	{
+		"workshop_id" "3663857931"
+		"enabled" "1"
+		"filename" "ze_amdaporkeep"
+		"updatedname" "ze_amdaporkeep"
+		"OnlyNominate" "0"
+	}
+	"ze_last_man_standing"
+	{
+		"workshop_id" "3577497431"
+		"enabled" "1"
+		"filename" "ze_last_man_standing"
+		"updatedname" "ze_last_man_standing"
+		"OnlyNominate" "0"
+	}
+	"ze_best_korea_p"
+	{
+		"workshop_id" "3683711921"
+		"enabled" "1"
+		"filename" "ze_best_korea_p"
+		"updatedname" "ze_best_korea_p"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_froyo_lite"
+	{
+		"workshop_id" "3683997300"
+		"enabled" "1"
+		"filename" "ze_surf_froyo_lite"
+		"updatedname" "ze_surf_froyo_lite"
+		"OnlyNominate" "0"
+	}
+	"ze_twice"
+	{
+		"workshop_id" "3686431061"
+		"enabled" "1"
+		"filename" "ze_twice"
+		"updatedname" "ze_twice"
+		"OnlyNominate" "0"
+	}
+	"ze_rt4_hessel_valley_fys"
+	{
+		"workshop_id" "3685622258"
+		"enabled" "1"
+		"filename" "ze_rt4_hessel_valley_fys"
+		"updatedname" "ze_rt4_hessel_valley_fys"
+		"OnlyNominate" "0"
+	}
+	"ze_sunset2_a1"
+	{
+		"workshop_id" "3687421920"
+		"enabled" "1"
+		"filename" "ze_sunset2_a1"
+		"updatedname" "ze_sunset2_a1"
+		"OnlyNominate" "0"
+	}
+	"ze_Time_of_Dawn_cs2"
+	{
+		"workshop_id" "3688980145"
+		"enabled" "0"
+		"filename" "ze_Time_of_Dawn_cs2"
+		"updatedname" "ze_Time_of_Dawn_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_variis"
+	{
+		"workshop_id" "3687337998"
+		"enabled" "1"
+		"filename" "ze_variis"
+		"updatedname" "ze_variis"
+		"OnlyNominate" "0"
+	}
+	"ze_szly_v1"
+	{
+		"workshop_id" "3688312077"
+		"enabled" "0"
+		"filename" "ze_szly_v1"
+		"updatedname" "ze_szly_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_mls_ultimate"
+	{
+		"workshop_id" "3690809786"
+		"enabled" "0"
+		"filename" "ze_mls_ultimate"
+		"updatedname" "ze_mls_ultimate"
+		"OnlyNominate" "0"
+	}
+	"ze_MindTree"
+	{
+		"workshop_id" "3691276759"
+		"enabled" "1"
+		"filename" "ze_MindTree"
+		"updatedname" "ze_MindTree"
+		"OnlyNominate" "0"
+	}
+	"ze_minecraft_escape"
+	{
+		"workshop_id" "3687346212"
+		"enabled" "1"
+		"filename" "ze_minecraft_escape"
+		"updatedname" "ze_minecraft_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_revitalization_aurora"
+	{
+		"workshop_id" "3672543876"
+		"enabled" "0"
+		"filename" "ze_obj_revitalization_aurora"
+		"updatedname" "ze_obj_revitalization_aurora"
+		"OnlyNominate" "0"
+	}
+	"ze_gugugaga_escape"
+	{
+		"workshop_id" "3692499613"
+		"enabled" "1"
+		"filename" "ze_gugugaga_escape"
+		"updatedname" "ze_gugugaga_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_nmzj_cs2"
+	{
+		"workshop_id" "3692003647"
+		"enabled" "1"
+		"filename" "ze_nmzj_cs2"
+		"updatedname" "ze_nmzj_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_revitalization_aurora_v2"
+	{
+		"workshop_id" "3694558819"
+		"enabled" "1"
+		"filename" "ze_obj_revitalization_aurora_v2"
+		"updatedname" "ze_obj_revitalization_aurora_v2"
+		"OnlyNominate" "0"
+	}
+	"ze_cfguilai_v0_1"
+	{
+		"workshop_id" "3693953908"
+		"enabled" "1"
+		"filename" "ze_cfguilai_v0_1"
+		"updatedname" "ze_cfguilai_v0_1"
+		"OnlyNominate" "0"
+	}
+	"ze_block_escape_v1"
+	{
+		"workshop_id" "3693391617"
+		"enabled" "1"
+		"filename" "ze_block_escape_v1"
+		"updatedname" "ze_block_escape_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_sewage_processing"
+	{
+		"workshop_id" "3693202460"
+		"enabled" "1"
+		"filename" "ze_sewage_processing"
+		"updatedname" "ze_sewage_processing"
+		"OnlyNominate" "0"
+	}
+	"ze_1_april"
+	{
+		"workshop_id" "3696047611"
+		"enabled" "1"
+		"filename" "ze_1_april"
+		"updatedname" "ze_1_april"
+		"OnlyNominate" "0"
+	}
+	"ze_aot_trost_v8"
+	{
+		"workshop_id" "3677143694"
+		"enabled" "0"
+		"filename" "ze_aot_trost_v8"
+		"updatedname" "ze_aot_trost_v8"
+		"OnlyNominate" "0"
+	}
+	"ze_candyfactory"
+	{
+		"workshop_id" "3681765912"
+		"enabled" "1"
+		"filename" "ze_candyfactory"
+		"updatedname" "ze_candyfactory"
+		"OnlyNominate" "0"
+	}
+	"ze_ffvii_cosmo_canyon_v5_fix_p"
+	{
+		"workshop_id" "3696343976"
+		"enabled" "1"
+		"filename" "ze_ffvii_cosmo_canyon_v5_fix_p"
+		"updatedname" "ze_ffvii_cosmo_canyon_v5_fix_p"
+		"OnlyNominate" "0"
+	}
+	"ze_mission_escape"
+	{
+		"workshop_id" "3701316368"
+		"enabled" "0"
+		"filename" "ze_mission_escape"
+		"updatedname" "ze_mission_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_Tranquility"
+	{
+		"workshop_id" "3707338750"
+		"enabled" "1"
+		"filename" "ze_Tranquility"
+		"updatedname" "ze_Tranquility"
+		"OnlyNominate" "0"
+	}
+	"ze_gettingoverit"
+	{
+		"workshop_id" "3708282258"
+		"enabled" "1"
+		"filename" "ze_gettingoverit"
+		"updatedname" "ze_gettingoverit"
+		"OnlyNominate" "0"
+	}
+	"ze_pretender"
+	{
+		"workshop_id" "3706649110"
+		"enabled" "1"
+		"filename" "ze_pretender"
+		"updatedname" "ze_pretender"
+		"OnlyNominate" "0"
+	}
+	"ze_FFVII_Cosmo_Canyon_v5_p"
+	{
+		"workshop_id" "3709979233"
+		"enabled" "1"
+		"filename" "ze_FFVII_Cosmo_Canyon_v5_p"
+		"updatedname" "ze_FFVII_Cosmo_Canyon_v5_p"
+		"OnlyNominate" "0"
+	}
+	"ze_silent_hill_rengurn2"
+	{
+		"workshop_id" "3710728095"
+		"enabled" "1"
+		"filename" "ze_silent_hill_rengurn2"
+		"updatedname" "ze_silent_hill_rengurn2"
+		"OnlyNominate" "0"
+	}
+	"ze_labor_trading_factory"
+	{
+		"workshop_id" "3713118588"
+		"enabled" "0"
+		"filename" "ze_labor_trading_factory"
+		"updatedname" "ze_labor_trading_factory"
+		"OnlyNominate" "0"
+	}
+	"ze_203_factory"
+	{
+		"workshop_id" "3712650394"
+		"enabled" "1"
+		"filename" "ze_203_factory"
+		"updatedname" "ze_203_factory"
+		"OnlyNominate" "0"
+	}
+	"ze_nalbina"
+	{
+		"workshop_id" "3714554007"
+		"enabled" "1"
+		"filename" "ze_nalbina"
+		"updatedname" "ze_nalbina"
+		"OnlyNominate" "0"
+	}
+	"ze_runaway_roofside1"
+	{
+		"workshop_id" "3717533305"
+		"enabled" "1"
+		"filename" "ze_runaway_roofside1"
+		"updatedname" "ze_runaway_roofside1"
+		"OnlyNominate" "0"
+	}
+	"ze_Obff_NPST_v24"
+	{
+		"workshop_id" "3716633440"
+		"enabled" "1"
+		"filename" "ze_Obff_NPST_v24"
+		"updatedname" "ze_Obff_NPST_v24"
+		"OnlyNominate" "0"
+	}
+	"ze_shaun_of_the_dead"
+	{
+		"workshop_id" "3713818330"
+		"enabled" "1"
+		"filename" "ze_shaun_of_the_dead"
+		"updatedname" "ze_shaun_of_the_dead"
+		"OnlyNominate" "0"
+	}
+	"ze_torun"
+	{
+		"workshop_id" "3719291411"
+		"enabled" "1"
+		"filename" "ze_torun"
+		"updatedname" "ze_torun"
+		"OnlyNominate" "0"
+	}
+	"ze_backrooms_level_!"
+	{
+		"workshop_id" "3719223459"
+		"enabled" "1"
+		"filename" "ze_backrooms_level_!"
+		"updatedname" "ze_backrooms_level_!"
+		"OnlyNominate" "0"
+	}
+	"ze_einstein"
+	{
+		"workshop_id" "3718926449"
+		"enabled" "1"
+		"filename" "ze_einstein"
+		"updatedname" "ze_einstein"
+		"OnlyNominate" "0"
+	}
+	"ze_lostclue_cs2"
+	{
+		"workshop_id" "3720520045"
+		"enabled" "1"
+		"filename" "ze_lostclue_cs2"
+		"updatedname" "ze_lostclue_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_my_first_ze_map_p"
+	{
+		"workshop_id" "3721027849"
+		"enabled" "1"
+		"filename" "ze_my_first_ze_map_p"
+		"updatedname" "ze_my_first_ze_map_p"
+		"OnlyNominate" "0"
+	}
+	"ze_evolution_by_selection"
+	{
+		"workshop_id" "3720925721"
+		"enabled" "1"
+		"filename" "ze_evolution_by_selection"
+		"updatedname" "ze_evolution_by_selection"
+		"OnlyNominate" "0"
+	}
+	"ze_runaway_underroof2"
+	{
+		"workshop_id" "3722814053"
+		"enabled" "1"
+		"filename" "ze_runaway_underroof2"
+		"updatedname" "ze_runaway_underroof2"
+		"OnlyNominate" "0"
+	}
+	"ze_Resident_Evil_3"
+	{
+		"workshop_id" "3722688576"
+		"enabled" "1"
+		"filename" "ze_Resident_Evil_3"
+		"updatedname" "ze_Resident_Evil_3"
+		"OnlyNominate" "0"
+	}
+	"ze_Eternal_Grove"
+	{
+		"workshop_id" "3721723096"
+		"enabled" "1"
+		"filename" "ze_Eternal_Grove"
+		"updatedname" "ze_Eternal_Grove"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_froyo"
+	{
+		"workshop_id" "3709810711"
+		"enabled" "1"
+		"filename" "ze_surf_froyo"
+		"updatedname" "ze_surf_froyo"
+		"OnlyNominate" "0"
+	}
+	"ze_atos"
+	{
+		"workshop_id" "3691959849"
+		"enabled" "1"
+		"filename" "ze_atos"
+		"updatedname" "ze_atos"
+		"OnlyNominate" "0"
+	}
+	"ze_crimson_azure_nexus[流程测试]"
+	{
+		"workshop_id" "3723915528"
+		"enabled" "1"
+		"filename" "ze_crimson_azure_nexus[流程测试]"
+		"updatedname" "ze_crimson_azure_nexus[流程测试]"
+		"OnlyNominate" "0"
+	}
+	"ze_demon_slayer"
+	{
+		"workshop_id" "3724478747"
+		"enabled" "1"
+		"filename" "ze_demon_slayer"
+		"updatedname" "ze_demon_slayer"
+		"OnlyNominate" "0"
+	}
+	"ze_huoxing_v1"
+	{
+		"workshop_id" "3724771359"
+		"enabled" "0"
+		"filename" "ze_huoxing_v1"
+		"updatedname" "ze_huoxing_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_uyuni"
+	{
+		"workshop_id" "3726895370"
+		"enabled" "1"
+		"filename" "ze_uyuni"
+		"updatedname" "ze_uyuni"
+		"OnlyNominate" "0"
+	}
+	"ze_no_name_v2_3"
+	{
+		"workshop_id" "3725762233"
+		"enabled" "1"
+		"filename" "ze_no_name_v2_3"
+		"updatedname" "ze_no_name_v2_3"
+		"OnlyNominate" "0"
+	}
+	"ze_xiyi"
+	{
+		"workshop_id" "3730845120"
+		"enabled" "0"
+		"filename" "ze_xiyi"
+		"updatedname" "ze_xiyi"
+		"OnlyNominate" "0"
+	}
+	"ze_map_tast_v1"
+	{
+		"workshop_id" "3730398639"
+		"enabled" "1"
+		"filename" "ze_map_tast_v1"
+		"updatedname" "ze_map_tast_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_flex_p"
+	{
+		"workshop_id" "3730157359"
+		"enabled" "1"
+		"filename" "ze_flex_p"
+		"updatedname" "ze_flex_p"
+		"OnlyNominate" "0"
+	}
+	"ze_dimension_tripper"
+	{
+		"workshop_id" "3725301249"
+		"enabled" "1"
+		"filename" "ze_dimension_tripper"
+		"updatedname" "ze_dimension_tripper"
+		"OnlyNominate" "0"
+	}
+	"ze_circle"
+	{
+		"workshop_id" "3732462807"
+		"enabled" "1"
+		"filename" "ze_circle"
+		"updatedname" "ze_circle"
+		"OnlyNominate" "0"
+	}
+	"ze_pm_biome"
+	{
+		"workshop_id" "3732251032"
+		"enabled" "1"
+		"filename" "ze_pm_biome"
+		"updatedname" "ze_pm_biome"
+		"OnlyNominate" "0"
+	}
+	"ze_yueyingchuanshuo_cs2"
+	{
+		"workshop_id" "3716373243"
+		"enabled" "1"
+		"filename" "ze_yueyingchuanshuo_cs2"
+		"updatedname" "ze_yueyingchuanshuo_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_aaa_exyueyingchuanshuo_xyy（地面编辑未完成版本）"
+	{
+		"workshop_id" "3732820144"
+		"enabled" "1"
+		"filename" "ze_aaa_exyueyingchuanshuo_xyy（地面编辑未完成版本）"
+		"updatedname" "ze_aaa_exyueyingchuanshuo_xyy（地面编辑未完成版本）"
+		"OnlyNominate" "0"
+	}
+	"ze_pool_hollow"
+	{
+		"workshop_id" "3733078281"
+		"enabled" "1"
+		"filename" "ze_pool_hollow"
+		"updatedname" "ze_pool_hollow"
+		"OnlyNominate" "0"
+	}
+	"ze_drakelord_castle"
+	{
+		"workshop_id" "3733337770"
+		"enabled" "1"
+		"filename" "ze_drakelord_castle"
+		"updatedname" "ze_drakelord_castle"
+		"OnlyNominate" "0"
+	}
+	"ze_kz"
+	{
+		"workshop_id" "3735948356"
+		"enabled" "1"
+		"filename" "ze_kz"
+		"updatedname" "ze_kz"
+		"OnlyNominate" "0"
+	}
+	"ze_rats_escape"
+	{
+		"workshop_id" "3735393415"
+		"enabled" "1"
+		"filename" "ze_rats_escape"
+		"updatedname" "ze_rats_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_unfulfiled_ambition"
+	{
+		"workshop_id" "3736078005"
+		"enabled" "1"
+		"filename" "ze_unfulfiled_ambition"
+		"updatedname" "ze_unfulfiled_ambition"
+		"OnlyNominate" "0"
+	}
+	"ze_mc_epic_batte_v2(测试）"
+	{
+		"workshop_id" "3737469540"
+		"enabled" "0"
+		"filename" "ze_mc_epic_batte_v2(测试）"
+		"updatedname" "ze_mc_epic_batte_v2(测试）"
+		"OnlyNominate" "0"
+	}
+	"ze_doom"
+	{
+		"workshop_id" "3734385165"
+		"enabled" "1"
+		"filename" "ze_doom"
+		"updatedname" "ze_doom"
+		"OnlyNominate" "0"
+	}
+	"ze_OBJ_Pepsi_Tower_v67_p"
+	{
+		"workshop_id" "3739442079"
+		"enabled" "0"
+		"filename" "ze_OBJ_Pepsi_Tower_v67_p"
+		"updatedname" "ze_OBJ_Pepsi_Tower_v67_p"
+		"OnlyNominate" "0"
+	}
+	"ze_screaming_bells BETA"
+	{
+		"workshop_id" "3733523709"
+		"enabled" "1"
+		"filename" "ze_screaming_bells BETA"
+		"updatedname" "ze_screaming_bells BETA"
+		"OnlyNominate" "0"
+	}
+	"ze_I_wanna_play_ZE"
+	{
+		"workshop_id" "3739829801"
+		"enabled" "1"
+		"filename" "ze_I_wanna_play_ZE"
+		"updatedname" "ze_I_wanna_play_ZE"
+		"OnlyNominate" "0"
+	}
+	"ze_OBJ_PePsI_Tower_ReVengeance_v67_p"
+	{
+		"workshop_id" "3741479277"
+		"enabled" "0"
+		"filename" "ze_OBJ_PePsI_Tower_ReVengeance_v67_p"
+		"updatedname" "ze_OBJ_PePsI_Tower_ReVengeance_v67_p"
+		"OnlyNominate" "0"
+	}
+	"ze_valleyescape"
+	{
+		"workshop_id" "3741438464"
+		"enabled" "1"
+		"filename" "ze_valleyescape"
+		"updatedname" "ze_valleyescape"
+		"OnlyNominate" "0"
+	}
+	"ze_Umbra"
+	{
+		"workshop_id" "3742098329"
+		"enabled" "1"
+		"filename" "ze_Umbra"
+		"updatedname" "ze_Umbra"
+		"OnlyNominate" "0"
+	}
+	"ze_Minecraft_Flood_Escape"
+	{
+		"workshop_id" "3741772196"
+		"enabled" "1"
+		"filename" "ze_Minecraft_Flood_Escape"
+		"updatedname" "ze_Minecraft_Flood_Escape"
+		"OnlyNominate" "0"
+	}
+	"ze_Kitchen"
+	{
+		"workshop_id" "3738689206"
+		"enabled" "1"
+		"filename" "ze_Kitchen"
+		"updatedname" "ze_Kitchen"
+		"OnlyNominate" "0"
+	}
+	"ze_golubenkaya_meow"
+	{
+		"workshop_id" "3719379905"
+		"enabled" "1"
+		"filename" "ze_golubenkaya_meow"
+		"updatedname" "ze_golubenkaya_meow"
+		"OnlyNominate" "0"
+	}
+	"ze_Minecraft_rooftop_runaway2"
+	{
+		"workshop_id" "3742838481"
+		"enabled" "1"
+		"filename" "ze_Minecraft_rooftop_runaway2"
+		"updatedname" "ze_Minecraft_rooftop_runaway2"
+		"OnlyNominate" "0"
+	}
+	"ze_oblivion_castle"
+	{
+		"workshop_id" "3743070377"
+		"enabled" "1"
+		"filename" "ze_oblivion_castle"
+		"updatedname" "ze_oblivion_castle"
+		"OnlyNominate" "0"
+	}
+	"ze_cat_girl_hentai"
+	{
+		"workshop_id" "3744296747"
+		"enabled" "1"
+		"filename" "ze_cat_girl_hentai"
+		"updatedname" "ze_cat_girl_hentai"
+		"OnlyNominate" "0"
+	}
+	"ze_shadow_corridor"
+	{
+		"workshop_id" "3737991452"
+		"enabled" "1"
+		"filename" "ze_shadow_corridor"
+		"updatedname" "ze_shadow_corridor"
+		"OnlyNominate" "0"
+	}
+	"ze_OBJ_PePsI_ReVengeance_v67_p"
+	{
+		"workshop_id" "3744544025"
+		"enabled" "0"
+		"filename" "ze_OBJ_PePsI_ReVengeance_v67_p"
+		"updatedname" "ze_OBJ_PePsI_ReVengeance_v67_p"
+		"OnlyNominate" "0"
+	}
+	"ze_minecraft_genetic_crisis_v2(测试）"
+	{
+		"workshop_id" "3745787293"
+		"enabled" "0"
+		"filename" "ze_minecraft_genetic_crisis_v2(测试）"
+		"updatedname" "ze_minecraft_genetic_crisis_v2(测试）"
+		"OnlyNominate" "0"
+	}
+	"ze_omochi"
+	{
+		"workshop_id" "3728365438"
+		"enabled" "0"
+		"filename" "ze_omochi"
+		"updatedname" "ze_omochi"
+		"OnlyNominate" "0"
+	}
+	"ze_shadow_moses"
+	{
+		"workshop_id" "3739001019"
+		"enabled" "1"
+		"filename" "ze_shadow_moses"
+		"updatedname" "ze_shadow_moses"
+		"OnlyNominate" "0"
+	}
+	"ze_ffxiv_pharos_sirius_night"
+	{
+		"workshop_id" "3747174731"
+		"enabled" "1"
+		"filename" "ze_ffxiv_pharos_sirius_night"
+		"updatedname" "ze_ffxiv_pharos_sirius_night"
+		"OnlyNominate" "0"
+	}
+	"ze_uyuni_z"
+	{
+		"workshop_id" "3748233587"
+		"enabled" "1"
+		"filename" "ze_uyuni_z"
+		"updatedname" "ze_uyuni_z"
+		"OnlyNominate" "0"
+	}
+	"ze_vision_town"
+	{
+		"workshop_id" "3748123866"
+		"enabled" "1"
+		"filename" "ze_vision_town"
+		"updatedname" "ze_vision_town"
+		"OnlyNominate" "0"
+	}
+	"ze_roscente_xyy(unfinished version)"
+	{
+		"workshop_id" "3747791258"
+		"enabled" "1"
+		"filename" "ze_roscente_xyy(unfinished version)"
+		"updatedname" "ze_roscente_xyy(unfinished version)"
+		"OnlyNominate" "0"
+	}
+	"ze_Ramp_xyy"
+	{
+		"workshop_id" "3748935163"
+		"enabled" "1"
+		"filename" "ze_Ramp_xyy"
+		"updatedname" "ze_Ramp_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_Minecraft_Lucky_Blocks"
+	{
+		"workshop_id" "3749516896"
+		"enabled" "1"
+		"filename" "ze_Minecraft_Lucky_Blocks"
+		"updatedname" "ze_Minecraft_Lucky_Blocks"
+		"OnlyNominate" "0"
+	}
+	"ze_shrine_of_umos_xyy"
+	{
+		"workshop_id" "3749296423"
+		"enabled" "1"
+		"filename" "ze_shrine_of_umos_xyy"
+		"updatedname" "ze_shrine_of_umos_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_polatrio_xyy"
+	{
+		"workshop_id" "3750208336"
+		"enabled" "1"
+		"filename" "ze_polatrio_xyy"
+		"updatedname" "ze_polatrio_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_minecraft_hortus_de_escapismo"
+	{
+		"workshop_id" "3751597087"
+		"enabled" "1"
+		"filename" "ze_minecraft_hortus_de_escapismo"
+		"updatedname" "ze_minecraft_hortus_de_escapismo"
+		"OnlyNominate" "0"
+	}
+	"ze_mount_seela"
+	{
+		"workshop_id" "3751568047"
+		"enabled" "1"
+		"filename" "ze_mount_seela"
+		"updatedname" "ze_mount_seela"
+		"OnlyNominate" "0"
+	}
+	"ze_the_lost_tomb_xyy"
+	{
+		"workshop_id" "3751396729"
+		"enabled" "1"
+		"filename" "ze_the_lost_tomb_xyy"
+		"updatedname" "ze_the_lost_tomb_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_suchirifu_xyy"
+	{
+		"workshop_id" "3750735707"
+		"enabled" "1"
+		"filename" "ze_suchirifu_xyy"
+		"updatedname" "ze_suchirifu_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_minecraft_superflat_v1"
+	{
+		"workshop_id" "3752875828"
+		"enabled" "1"
+		"filename" "ze_minecraft_superflat_v1"
+		"updatedname" "ze_minecraft_superflat_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_backroom_level4_v1"
+	{
+		"workshop_id" "3752738126"
+		"enabled" "1"
+		"filename" "ze_backroom_level4_v1"
+		"updatedname" "ze_backroom_level4_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_summer_warehouse"
+	{
+		"workshop_id" "3750722676"
+		"enabled" "1"
+		"filename" "ze_summer_warehouse"
+		"updatedname" "ze_summer_warehouse"
+		"OnlyNominate" "0"
+	}
+	"ze_Timeshifter"
+	{
+		"workshop_id" "3752918613"
+		"enabled" "1"
+		"filename" "ze_Timeshifter"
+		"updatedname" "ze_Timeshifter"
+		"OnlyNominate" "0"
+	}
+	"ze_bakafactory_v1"
+	{
+		"workshop_id" "3755407501"
+		"enabled" "1"
+		"filename" "ze_bakafactory_v1"
+		"updatedname" "ze_bakafactory_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_ravenholm_xyy"
+	{
+		"workshop_id" "3754176360"
+		"enabled" "0"
+		"filename" "ze_ravenholm_xyy"
+		"updatedname" "ze_ravenholm_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_happy_2_newbie_village_p"
+	{
+		"workshop_id" "3760277826"
+		"enabled" "1"
+		"filename" "ze_surf_happy_2_newbie_village_p"
+		"updatedname" "ze_surf_happy_2_newbie_village_p"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_happy_p"
+	{
+		"workshop_id" "3760276956"
+		"enabled" "1"
+		"filename" "ze_surf_happy_p"
+		"updatedname" "ze_surf_happy_p"
+		"OnlyNominate" "0"
+	}
+	"ze_Diddle"
+	{
+		"workshop_id" "3758028511"
+		"enabled" "1"
+		"filename" "ze_Diddle"
+		"updatedname" "ze_Diddle"
+		"OnlyNominate" "0"
+	}
+	"ze_vauff_gachi_club_p"
+	{
+		"workshop_id" "3761047613"
+		"enabled" "1"
+		"filename" "ze_vauff_gachi_club_p"
+		"updatedname" "ze_vauff_gachi_club_p"
+		"OnlyNominate" "0"
+	}
+	"ze_mission_escape_cs2"
+	{
+		"workshop_id" "3760916358"
+		"enabled" "1"
+		"filename" "ze_mission_escape_cs2"
+		"updatedname" "ze_mission_escape_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_enick_p"
+	{
+		"workshop_id" "3763220581"
+		"enabled" "1"
+		"filename" "ze_enick_p"
+		"updatedname" "ze_enick_p"
+		"OnlyNominate" "0"
+	}
+	"ze_LOLXD_p_final"
+	{
+		"workshop_id" "3765861540"
+		"enabled" "1"
+		"filename" "ze_LOLXD_p_final"
+		"updatedname" "ze_LOLXD_p_final"
+		"OnlyNominate" "0"
+	}
+	"ze_Minecraft_Manor_Panic"
+	{
+		"workshop_id" "3768239050"
+		"enabled" "1"
+		"filename" "ze_Minecraft_Manor_Panic"
+		"updatedname" "ze_Minecraft_Manor_Panic"
+		"OnlyNominate" "0"
+	}
+	"ze_hive_complex_xyy"
+	{
+		"workshop_id" "3767941399"
+		"enabled" "1"
+		"filename" "ze_hive_complex_xyy"
+		"updatedname" "ze_hive_complex_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_ATIX_panic_2077"
+	{
+		"workshop_id" "3767573896"
+		"enabled" "1"
+		"filename" "ze_ATIX_panic_2077"
+		"updatedname" "ze_ATIX_panic_2077"
+		"OnlyNominate" "0"
+	}
+	"ze_blue_magic_castle"
+	{
+		"workshop_id" "3764175346"
+		"enabled" "1"
+		"filename" "ze_blue_magic_castle"
+		"updatedname" "ze_blue_magic_castle"
+		"OnlyNominate" "0"
+	}
+	"ze_aaa_santartika_baseum_xyyyyyy"
+	{
+		"workshop_id" "3755513797"
+		"enabled" "0"
+		"filename" "ze_aaa_santartika_baseum_xyyyyyy"
+		"updatedname" "ze_aaa_santartika_baseum_xyyyyyy"
+		"OnlyNominate" "0"
+	}
+	"ze_12の凑家"
+	{
+		"workshop_id" "3769963723"
+		"enabled" "1"
+		"filename" "ze_12の凑家"
+		"updatedname" "ze_12の凑家"
+		"OnlyNominate" "0"
+	}
+	"ze_pools_serenity"
+	{
+		"workshop_id" "3771667491"
+		"enabled" "1"
+		"filename" "ze_pools_serenity"
+		"updatedname" "ze_pools_serenity"
+		"OnlyNominate" "0"
+	}
+	"ze_tenkinoko_welkin_z"
+	{
+		"workshop_id" "3763862205"
+		"enabled" "1"
+		"filename" "ze_tenkinoko_welkin_z"
+		"updatedname" "ze_tenkinoko_welkin_z"
+		"OnlyNominate" "0"
+	}
+	"ze_PC"
+	{
+		"workshop_id" "3763404731"
+		"enabled" "1"
+		"filename" "ze_PC"
+		"updatedname" "ze_PC"
+		"OnlyNominate" "0"
+	}
+	"ze_asiangirl_mm11el4nu4cp2io1yv7_r_p"
+	{
+		"workshop_id" "3772674331"
+		"enabled" "1"
+		"filename" "ze_asiangirl_mm11el4nu4cp2io1yv7_r_p"
+		"updatedname" "ze_asiangirl_mm11el4nu4cp2io1yv7_r_p"
+		"OnlyNominate" "0"
+	}
+	"ze_Genso_Of_Last_v4"
+	{
+		"workshop_id" "3773457809"
+		"enabled" "1"
+		"filename" "ze_Genso_Of_Last_v4"
+		"updatedname" "ze_Genso_Of_Last_v4"
+		"OnlyNominate" "0"
+	}
+	"ze_cursed_bear_tales"
+	{
+		"workshop_id" "3773303966"
+		"enabled" "1"
+		"filename" "ze_cursed_bear_tales"
+		"updatedname" "ze_cursed_bear_tales"
+		"OnlyNominate" "0"
+	}
+	"ze_coasstalcity_xyy"
+	{
+		"workshop_id" "3774666854"
+		"enabled" "0"
+		"filename" "ze_coasstalcity_xyy"
+		"updatedname" "ze_coasstalcity_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_coastalcity_xyyy"
+	{
+		"workshop_id" "3774665915"
+		"enabled" "1"
+		"filename" "ze_coastalcity_xyyy"
+		"updatedname" "ze_coastalcity_xyyy"
+		"OnlyNominate" "0"
+	}
+	"ze_tv_station_xyyy"
+	{
+		"workshop_id" "3774323670"
+		"enabled" "1"
+		"filename" "ze_tv_station_xyyy"
+		"updatedname" "ze_tv_station_xyyy"
+		"OnlyNominate" "0"
+	}
+	"ze_MC_museum"
+	{
+		"workshop_id" "3773181789"
+		"enabled" "1"
+		"filename" "ze_MC_museum"
+		"updatedname" "ze_MC_museum"
+		"OnlyNominate" "0"
+	}
+	"ze_rooftop_reborn_v3_2_xyy"
+	{
+		"workshop_id" "3775915514"
+		"enabled" "0"
+		"filename" "ze_rooftop_reborn_v3_2_xyy"
+		"updatedname" "ze_rooftop_reborn_v3_2_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_rooftop_runaway3_xyy"
+	{
+		"workshop_id" "3775880991"
+		"enabled" "1"
+		"filename" "ze_rooftop_runaway3_xyy"
+		"updatedname" "ze_rooftop_runaway3_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_undertunnel_escape_xyy"
+	{
+		"workshop_id" "3775700225"
+		"enabled" "0"
+		"filename" "ze_undertunnel_escape_xyy"
+		"updatedname" "ze_undertunnel_escape_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_dark_sanctuary"
+	{
+		"workshop_id" "3775441357"
+		"enabled" "1"
+		"filename" "ze_dark_sanctuary"
+		"updatedname" "ze_dark_sanctuary"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_easy_v1_3"
+	{
+		"workshop_id" "3775081142"
+		"enabled" "1"
+		"filename" "ze_surf_easy_v1_3"
+		"updatedname" "ze_surf_easy_v1_3"
+		"OnlyNominate" "0"
+	}
+	"ze_steyliff_grove_r"
+	{
+		"workshop_id" "3777967019"
+		"enabled" "1"
+		"filename" "ze_steyliff_grove_r"
+		"updatedname" "ze_steyliff_grove_r"
+		"OnlyNominate" "0"
+	}
+	"ze_minecraft_sky_islands"
+	{
+		"workshop_id" "3777891326"
+		"enabled" "1"
+		"filename" "ze_minecraft_sky_islands"
+		"updatedname" "ze_minecraft_sky_islands"
+		"OnlyNominate" "0"
+	}
+	"ze_iceskate"
+	{
+		"workshop_id" "3778550955"
+		"enabled" "1"
+		"filename" "ze_iceskate"
+		"updatedname" "ze_iceskate"
+		"OnlyNominate" "0"
+	}
+	"ze_exit8"
+	{
+		"workshop_id" "3779633445"
+		"enabled" "1"
+		"filename" "ze_exit8"
+		"updatedname" "ze_exit8"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_abyss_v2"
+	{
+		"workshop_id" "3779264454"
+		"enabled" "1"
+		"filename" "ze_obj_abyss_v2"
+		"updatedname" "ze_obj_abyss_v2"
+		"OnlyNominate" "0"
+	}
+	"ze_honkai_impact_3rd_cyberpunk_city"
+	{
+		"workshop_id" "3780217957"
+		"enabled" "1"
+		"filename" "ze_honkai_impact_3rd_cyberpunk_city"
+		"updatedname" "ze_honkai_impact_3rd_cyberpunk_city"
+		"OnlyNominate" "0"
+	}
+	"ze_zombie_scenario_lostcity"
+	{
+		"workshop_id" "3778930697"
+		"enabled" "0"
+		"filename" "ze_zombie_scenario_lostcity"
+		"updatedname" "ze_zombie_scenario_lostcity"
+		"OnlyNominate" "0"
+	}
+	"ze_Paindown"
+	{
+		"workshop_id" "3782214441"
+		"enabled" "1"
+		"filename" "ze_Paindown"
+		"updatedname" "ze_Paindown"
+		"OnlyNominate" "0"
+	}
+	"ze_uranus_attack"
+	{
+		"workshop_id" "3784463248"
+		"enabled" "1"
+		"filename" "ze_uranus_attack"
+		"updatedname" "ze_uranus_attack"
+		"OnlyNominate" "0"
+	}
+	"ze_Zulu"
+	{
+		"workshop_id" "3784397045"
+		"enabled" "1"
+		"filename" "ze_Zulu"
+		"updatedname" "ze_Zulu"
+		"OnlyNominate" "0"
+	}
+	"ze_changed"
+	{
+		"workshop_id" "3782356411"
+		"enabled" "1"
+		"filename" "ze_changed"
+		"updatedname" "ze_changed"
+		"OnlyNominate" "0"
+	}
+	"ze_umbra"
+	{
+		"workshop_id" "3745046329"
+		"enabled" "1"
+		"filename" "ze_umbra"
+		"updatedname" "ze_umbra"
+		"OnlyNominate" "0"
+	}
+	"ze_kitchen"
+	{
+		"workshop_id" "3745045615"
+		"enabled" "1"
+		"filename" "ze_kitchen"
+		"updatedname" "ze_kitchen"
+		"OnlyNominate" "0"
+	}
+	"ze_i_wanna_play_ze"
+	{
+		"workshop_id" "3745045208"
+		"enabled" "1"
+		"filename" "ze_i_wanna_play_ze"
+		"updatedname" "ze_i_wanna_play_ze"
+		"OnlyNominate" "0"
+	}
+	"ze_unfulfilled_ambition"
+	{
+		"workshop_id" "3738633076"
+		"enabled" "1"
+		"filename" "ze_unfulfilled_ambition"
+		"updatedname" "ze_unfulfilled_ambition"
+		"OnlyNominate" "0"
+	}
+	"ze_drakelord_castle_b3"
+	{
+		"workshop_id" "3734529726"
+		"enabled" "1"
+		"filename" "ze_drakelord_castle_b3"
+		"updatedname" "ze_drakelord_castle_b3"
+		"OnlyNominate" "0"
+	}
+	"ze_Castlevania"
+	{
+		"workshop_id" "3767338754"
+		"enabled" "1"
+		"filename" "ze_Castlevania"
+		"updatedname" "ze_Castlevania"
+		"OnlyNominate" "0"
+	}
+	"ze_arpiel_lost_ruins_p"
+	{
+		"workshop_id" "3788756557"
+		"enabled" "1"
+		"filename" "ze_arpiel_lost_ruins_p"
+		"updatedname" "ze_arpiel_lost_ruins_p"
+		"OnlyNominate" "0"
+	}
+	"ze_skin_map_test"
+	{
+		"workshop_id" "3792422528"
+		"enabled" "0"
+		"filename" "ze_skin_map_test"
+		"updatedname" "ze_skin_map_test"
+		"OnlyNominate" "0"
+	}
+	"ze_menu"
+	{
+		"workshop_id" "3792156638"
+		"enabled" "1"
+		"filename" "ze_menu"
+		"updatedname" "ze_menu"
+		"OnlyNominate" "0"
+	}
+	"ze_obg_ultimate"
+	{
+		"workshop_id" "3793047865"
+		"enabled" "0"
+		"filename" "ze_obg_ultimate"
+		"updatedname" "ze_obg_ultimate"
+		"OnlyNominate" "0"
+	}
+	"ze_Fe8_Sacred_Stones"
+	{
+		"workshop_id" "3793335096"
+		"enabled" "1"
+		"filename" "ze_Fe8_Sacred_Stones"
+		"updatedname" "ze_Fe8_Sacred_Stones"
+		"OnlyNominate" "0"
+	}
+	"ze_realm_of_shadows"
+	{
+		"workshop_id" "3785936407"
+		"enabled" "1"
+		"filename" "ze_realm_of_shadows"
+		"updatedname" "ze_realm_of_shadows"
+		"OnlyNominate" "0"
+	}
+	"ze_winter_house"
+	{
+		"workshop_id" "3794799992"
+		"enabled" "1"
+		"filename" "ze_winter_house"
+		"updatedname" "ze_winter_house"
+		"OnlyNominate" "0"
+	}
+	"ze_einstein_p"
+	{
+		"workshop_id" "3796738980"
+		"enabled" "1"
+		"filename" "ze_einstein_p"
+		"updatedname" "ze_einstein_p"
+		"OnlyNominate" "0"
+	}
+	"ze_void"
+	{
+		"workshop_id" "3795431710"
+		"enabled" "1"
+		"filename" "ze_void"
+		"updatedname" "ze_void"
+		"OnlyNominate" "0"
+	}
+	"ze_destruction_of_exorath"
+	{
+		"workshop_id" "3786929106"
+		"enabled" "1"
+		"filename" "ze_destruction_of_exorath"
+		"updatedname" "ze_destruction_of_exorath"
+		"OnlyNominate" "0"
+	}
+	"ze_skin_brawl_s1"
+	{
+		"workshop_id" "3797763392"
+		"enabled" "0"
+		"filename" "ze_skin_brawl_s1"
+		"updatedname" "ze_skin_brawl_s1"
+		"OnlyNominate" "0"
+	}
+	"ze_Exit_This_Earths_Atomosphere_p"
+	{
+		"workshop_id" "3799578409"
+		"enabled" "1"
+		"filename" "ze_Exit_This_Earths_Atomosphere_p"
+		"updatedname" "ze_Exit_This_Earths_Atomosphere_p"
+		"OnlyNominate" "0"
+	}
+	"ze_overkill_p"
+	{
+		"workshop_id" "3799577772"
+		"enabled" "1"
+		"filename" "ze_overkill_p"
+		"updatedname" "ze_overkill_p"
+		"OnlyNominate" "0"
+	}
+	"ze_Bible_Adventure_OT_p"
+	{
+		"workshop_id" "3799576818"
+		"enabled" "1"
+		"filename" "ze_Bible_Adventure_OT_p"
+		"updatedname" "ze_Bible_Adventure_OT_p"
+		"OnlyNominate" "0"
+	}
+	"ze_black_souls2"
+	{
+		"workshop_id" "3801358540"
+		"enabled" "1"
+		"filename" "ze_black_souls2"
+		"updatedname" "ze_black_souls2"
+		"OnlyNominate" "0"
+	}
+	"ze_prey_bedroom"
+	{
+		"workshop_id" "3801041842"
+		"enabled" "1"
+		"filename" "ze_prey_bedroom"
+		"updatedname" "ze_prey_bedroom"
+		"OnlyNominate" "0"
+	}
+	"ze_whitechapel_escape"
+	{
+		"workshop_id" "3804527024"
+		"enabled" "1"
+		"filename" "ze_whitechapel_escape"
+		"updatedname" "ze_whitechapel_escape"
+		"OnlyNominate" "0"
+	}
+	"ze_evolutionPack_test"
+	{
+		"workshop_id" "3805860243"
+		"enabled" "1"
+		"filename" "ze_evolutionPack_test"
+		"updatedname" "ze_evolutionPack_test"
+		"OnlyNominate" "0"
+	}
+	"ze_AAA_rt4_hessel_valley_old [本地图为活动限定图 请勿在社区切换该地图]"
+	{
+		"workshop_id" "3805677180"
+		"enabled" "0"
+		"filename" "ze_AAA_rt4_hessel_valley_old [本地图为活动限定图 请勿在社区切换该地图]"
+		"updatedname" "ze_AAA_rt4_hessel_valley_old [本地图为活动限定图 请勿在社区切换该地图]"
+		"OnlyNominate" "0"
+	}
+	"ze_action_plan_hurricane_cs2"
+	{
+		"workshop_id" "3805519443"
+		"enabled" "1"
+		"filename" "ze_action_plan_hurricane_cs2"
+		"updatedname" "ze_action_plan_hurricane_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_x_game_room"
+	{
+		"workshop_id" "3802056008"
+		"enabled" "1"
+		"filename" "ze_x_game_room"
+		"updatedname" "ze_x_game_room"
+		"OnlyNominate" "0"
+	}
+	"ze_out_of_the_cinema"
+	{
+		"workshop_id" "3804485671"
+		"enabled" "1"
+		"filename" "ze_out_of_the_cinema"
+		"updatedname" "ze_out_of_the_cinema"
+		"OnlyNominate" "0"
+	}
+	"ze_aaa_rt4_hessel_valley_old"
+	{
+		"workshop_id" "3808436334"
+		"enabled" "1"
+		"filename" "ze_aaa_rt4_hessel_valley_old"
+		"updatedname" "ze_aaa_rt4_hessel_valley_old"
+		"OnlyNominate" "0"
+	}
+	"ze_dear_cs2"
+	{
+		"workshop_id" "3810600209"
+		"enabled" "1"
+		"filename" "ze_dear_cs2"
+		"updatedname" "ze_dear_cs2"
+		"OnlyNominate" "0"
+	}
+	"ze_obj_abyss_v2_test"
+	{
+		"workshop_id" "3811213619"
+		"enabled" "0"
+		"filename" "ze_obj_abyss_v2_test"
+		"updatedname" "ze_obj_abyss_v2_test"
+		"OnlyNominate" "0"
+	}
+	"ze_sad_banana_p"
+	{
+		"workshop_id" "3813034490"
+		"enabled" "1"
+		"filename" "ze_sad_banana_p"
+		"updatedname" "ze_sad_banana_p"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_nannoimi"
+	{
+		"workshop_id" "3812543077"
+		"enabled" "1"
+		"filename" "ze_surf_nannoimi"
+		"updatedname" "ze_surf_nannoimi"
+		"OnlyNominate" "0"
+	}
+	"ze_grm_or_jail"
+	{
+		"workshop_id" "3813957018"
+		"enabled" "1"
+		"filename" "ze_grm_or_jail"
+		"updatedname" "ze_grm_or_jail"
+		"OnlyNominate" "0"
+	}
+	"ze_megastructure"
+	{
+		"workshop_id" "3803101170"
+		"enabled" "1"
+		"filename" "ze_megastructure"
+		"updatedname" "ze_megastructure"
+		"OnlyNominate" "0"
+	}
+	"ze_FFXII_Mt_Bur_Omisace_v5"
+	{
+		"workshop_id" "3813978779"
+		"enabled" "1"
+		"filename" "ze_FFXII_Mt_Bur_Omisace_v5"
+		"updatedname" "ze_FFXII_Mt_Bur_Omisace_v5"
+		"OnlyNominate" "0"
+	}
+	"ze_qmffpdlemzlvj_test"
+	{
+		"workshop_id" "3808376133"
+		"enabled" "1"
+		"filename" "ze_qmffpdlemzlvj_test"
+		"updatedname" "ze_qmffpdlemzlvj_test"
+		"OnlyNominate" "0"
+	}
+	"ze_asgdusaidbgasdyufasdas_kskbl"
+	{
+		"workshop_id" "3815881696"
+		"enabled" "1"
+		"filename" "ze_asgdusaidbgasdyufasdas_kskbl"
+		"updatedname" "ze_asgdusaidbgasdyufasdas_kskbl"
+		"OnlyNominate" "0"
+	}
+	"ze_forhidden_slicoo_cn"
+	{
+		"workshop_id" "3817448617"
+		"enabled" "1"
+		"filename" "ze_forhidden_slicoo_cn"
+		"updatedname" "ze_forhidden_slicoo_cn"
+		"OnlyNominate" "0"
+	}
+	"ze_clara_civitate_xyy"
+	{
+		"workshop_id" "3817049349"
+		"enabled" "1"
+		"filename" "ze_clara_civitate_xyy"
+		"updatedname" "ze_clara_civitate_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_collective"
+	{
+		"workshop_id" "3817797509"
+		"enabled" "1"
+		"filename" "ze_collective"
+		"updatedname" "ze_collective"
+		"OnlyNominate" "0"
+	}
+	"ze_pitchblack_xyy"
+	{
+		"workshop_id" "3817575880"
+		"enabled" "1"
+		"filename" "ze_pitchblack_xyy"
+		"updatedname" "ze_pitchblack_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_dust_scape_xyy"
+	{
+		"workshop_id" "3817572624"
+		"enabled" "1"
+		"filename" "ze_dust_scape_xyy"
+		"updatedname" "ze_dust_scape_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_Fracture"
+	{
+		"workshop_id" "3817115462"
+		"enabled" "1"
+		"filename" "ze_Fracture"
+		"updatedname" "ze_Fracture"
+		"OnlyNominate" "0"
+	}
+	"ze_lego_legion_xyy"
+	{
+		"workshop_id" "3820082605"
+		"enabled" "1"
+		"filename" "ze_lego_legion_xyy"
+		"updatedname" "ze_lego_legion_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_melancholic_summer"
+	{
+		"workshop_id" "3820075288"
+		"enabled" "1"
+		"filename" "ze_melancholic_summer"
+		"updatedname" "ze_melancholic_summer"
+		"OnlyNominate" "0"
+	}
+	"ze_escape_the_backroom_v1"
+	{
+		"workshop_id" "3820001485"
+		"enabled" "1"
+		"filename" "ze_escape_the_backroom_v1"
+		"updatedname" "ze_escape_the_backroom_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_Tower_Raid_SCHALE_xyy"
+	{
+		"workshop_id" "3819577922"
+		"enabled" "1"
+		"filename" "ze_Tower_Raid_SCHALE_xyy"
+		"updatedname" "ze_Tower_Raid_SCHALE_xyy"
+		"OnlyNominate" "0"
+	}
+	"ze_sun_kingdom"
+	{
+		"workshop_id" "3816406008"
+		"enabled" "1"
+		"filename" "ze_sun_kingdom"
+		"updatedname" "ze_sun_kingdom"
+		"OnlyNominate" "0"
 	}
 }

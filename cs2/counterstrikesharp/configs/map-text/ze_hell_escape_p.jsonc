@@ -1,0 +1,242 @@
+{
+  "** ESCAPE FROM HELL!! Get to to the magic Graves **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 地獄からの脱出！！ マジックグレイブズへ向かえ **",
+      "CN": "** 逃离地狱！！前往魔法墓地 **",
+      "KR": "** 지옥에서 탈출!! 마법 그레브스为目标 **",
+      "TW": "** 從地獄逃脫！！前往魔法墓園 **"
+    }
+  },
+  "** !!! Visit: www.dreist-multigaming.com !!!** ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** !!! アクセス: www.dreist-multigaming.com !!!**",
+      "CN": "** !!! 访问: www.dreist-multigaming.com !!!**",
+      "KR": "** 방문: www.dreist-multigaming.com **",
+      "TW": "** !!! 網站：www.dreist-multigaming.com !!!**"
+    }
+  },
+  "** The Graves have been reached - RESIST 20 sec.**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** グレイブズに到達 - 20秒間耐えよ。**",
+      "CN": "** 已抵达墓地 - 坚持20秒 **",
+      "KR": "** 그레브스에 도달함 - 20초 저항**",
+      "TW": "** 已抵達墓園 - 抵抗 20 秒。**"
+    }
+  },
+  "** RESIST 5 Seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5秒間耐えよ**",
+      "CN": "** 坚持5秒 **",
+      "KR": "** 5초 동안 저항**",
+      "TW": "** 抵抗 5 秒 **"
+    }
+  },
+  "** THE GRAVES ARE MOVING!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** グレイブズが移動中！**",
+      "CN": "** 墓地正在移动！**",
+      "KR": "** 그레브스가 이동 중!**",
+      "TW": "** 墓園正在移動！**"
+    }
+  },
+  "** Wait a little until the 2nd Way spawns**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 第2のウェイが出現するまで少し待て**",
+      "CN": "** 稍等，直到第2个传送点出现**",
+      "KR": "** 2번째 길이 생성될 때까지 조금 기다려주세요**",
+      "TW": "** 等待片刻，直到第二條路出現 **"
+    }
+  },
+  "** ZOMBIES ARE COMING! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビが接近中！ **",
+      "CN": "** 僵尸来了！ **",
+      "KR": "** 좀비들이 다가오고 있습니다! **",
+      "TW": "** 殭屍即將來襲！ **"
+    }
+  },
+  "** The Lab has been reached - resist 30 Seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Labに到達 - 30秒間耐えよ**",
+      "CN": "** 已抵达实验室 - 坚持30秒 **",
+      "KR": "** 연구실에 도달함 - 30초 동안 저항**",
+      "TW": "** 已抵達實驗室 - 抵抗 30 秒 **"
+    }
+  },
+  "** RESIST 10 Seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 耐性 10秒 **",
+      "CN": "** 抵抗10秒 **",
+      "KR": "** 10초 동안 저항 **",
+      "TW": "**抵抗力持續 10 秒**"
+    }
+  },
+  "**GET TO THE CHUTE - Door opens again in 15 Seconds ** ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** チャューツへ向かう - 15秒後に再びドアが開く **",
+      "CN": "** 前往传送口 - 门将在15秒后再次开启 **",
+      "KR": "** 배에 탑승 - 문이 15초 후 다시 열림 **",
+      "TW": "**前往排漿口 - 門將在 15 秒後再次開啟**"
+    }
+  },
+  "** GET ON TOP OF THE OILRIG AND WAIT FOR THE CHOPPER **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** オイルrigの上に乗ってヘリコプターを待つ **",
+      "CN": "** 登上石油钻井平台并等待直升机 **",
+      "KR": "** 시추 플랫폼 위로 올라가 헬기장을 기다리세요**",
+      "TW": "**登上鑽油台，等待直升機**"
+    }
+  },
+  "** ZOMBIES ARE COMING!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビが来る！**",
+      "CN": "** 僵尸来袭！**",
+      "KR": "** 좀비가 다가오고 있습니다!**",
+      "TW": "**殭屍來襲！**"
+    }
+  },
+  "** GET ON TOP OF THE OILRIG AND DEFEND IT**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** オイルrigの上に乗って守れ **",
+      "CN": "** 登上石油钻井平台并防守 **",
+      "KR": "** 시추 플랫폼 위로 올라가 방어하세요**",
+      "TW": "**登上鑽油台，並守護它**"
+    }
+  },
+  "** CHOPPER IS COMING**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ヘリコプターが来る **",
+      "CN": "** 直升机即将到达 **",
+      "KR": "** 헬기가 다가오고 있습니다**",
+      "TW": "**直升機即將抵達**"
+    }
+  },
+  "** THE OCEAN CAN NOW BE CROSSED**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 海を渡ることができるようになった **",
+      "CN": "** 现在可以跨越海洋了 **",
+      "KR": "** 바다가 이제 건너갈 수 있습니다**",
+      "TW": "**海洋航道已開通**"
+    }
+  },
+  "** GET TO THE HOLY CHURCH - DEFEND LEVEL 2**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ホーリーチャーチへ - レベル2を守れ **",
+      "CN": "** 前往神圣教堂 - 防守第2层**",
+      "KR": "** 성스러운 교회로 이동 - 레벨 2 방어**",
+      "TW": "**前往聖教會 - 防禦第二關**"
+    }
+  },
+  "** DEFEND LEVEL 2 FOR 60 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** レベル2を60秒間防衛せよ **",
+      "CN": "** 守卫第2层60秒 **",
+      "KR": "** 레벨 2를 60초 동안 방어하세요 **",
+      "TW": "** 守衛第 2 關 60 秒 **"
+    }
+  },
+  "** RESIST 30 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒間抵抗 **",
+      "CN": "** 坚守30秒 **",
+      "KR": "** 30초 간 저항하세요 **",
+      "TW": "** 抵抗 30 秒 **"
+    }
+  },
+  "** RESIST 20 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒間抵抗 **",
+      "CN": "** 坚守20秒 **",
+      "KR": "** 20초 간 저항하세요 **",
+      "TW": "** 抵抗 20 秒 **"
+    }
+  },
+  "** RESIST 10 SECONDS! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒間抵抗！ **",
+      "CN": "** 坚守10秒！",
+      "KR": "** 10초 동안 저항하세요! **",
+      "TW": "** 抵抗 10 秒！**"
+    }
+  },
+  "** RESIST 5 SECONDS ** ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5秒間抵抗 **",
+      "CN": "** 坚守5秒 **",
+      "KR": "** 5초 간 저항하세요 **",
+      "TW": "** 抵抗 5 秒 **"
+    }
+  },
+  "** RUN UP THE STAIRS! APOCALYPSE IMMINENT!!!!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 階段を上れ！ 終焉が目前だ！！！！**",
+      "CN": "** 冲上楼梯！末日即将来临！！！",
+      "KR": "** 계단을 달려 올라가세요! 종말이 임박했습니다!!!!**",
+      "TW": "** 跑上樓梯！末日即將來臨！！！**"
+    }
+  },
+  "** ZOMBIES CAN NOW CLIMB UP FROM THE BOTTOM LEVEL! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビが下部レベルから襲来可能になった！ **",
+      "CN": "** 僵尸现在可以从底层爬上来了！ **",
+      "KR": "** 좀비들이 하부 층에서 이제 올라올 수 있습니다! **",
+      "TW": "** 殭屍現在可以從底層爬上來！ **"
+    }
+  },
+  "** ZOMBIES DETECTED! The Grave is slowing down!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビを検知！ 墓穴が効果を発揮中！**",
+      "CN": "** 检测到僵尸！墓穴正在减速！**",
+      "KR": "** 좀비가 탐지되었습니다! 무덤이 느려지고 있습니다!**",
+      "TW": "** 偵測到殭屍！冥界減速中！**"
+    }
+  }
+}

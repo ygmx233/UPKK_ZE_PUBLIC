@@ -1,35 +1,112 @@
 {
   "***** HOLD THIS POSITION *****": {
-    "translation": "守住这里"
+    "translation": "守住这里",
+    "MultiLang": {
+      "US": "",
+      "JP": "この位置を堅持せよ",
+      "CN": "* * * 坚守此阵地 * * *",
+      "KR": "***** 해당 위치 점거 *****",
+      "TW": "***** 固守此陣地 *****"
+    }
   },
   "*** ELEVATOR 1 & 2 OPENING ***": {
-    "translation": "电梯一和二打开"
+    "translation": "电梯一和二打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター１、２番出入口を開く",
+      "CN": "*** 电梯 1 & 2 开启 ***",
+      "KR": "*** 엘리베이터 1 및 2 개방 ***",
+      "TW": "*** 電梯一、二號開啟中 ***"
+    }
   },
   "*** USE RADIO ***": {
-    "translation": "使用无线电"
+    "translation": "使用无线电",
+    "MultiLang": {
+      "US": "",
+      "JP": "無線を使用せよ",
+      "CN": "*** 使用无线电 ***",
+      "KR": "*** 라디오 사용 ***",
+      "TW": "*** 使用無線電 ***"
+    }
   },
   "*** NUCLEAR CORE UNSTABLE ***": {
-    "translation": "核芯不稳定"
+    "translation": "核芯不稳定",
+    "MultiLang": {
+      "US": "",
+      "JP": "原子核不安定",
+      "CN": "*** 反应堆核心不稳定 ***",
+      "KR": "*** 원자핵 코어 불안정 ***",
+      "TW": "*** 核子反應爐不穩定 ***"
+    }
   },
   "*** FALL BACK ***": {
-    "translation": "撤退"
+    "translation": "撤退",
+    "MultiLang": {
+      "US": "",
+      "JP": "撤退せよ",
+      "CN": "*** 撤退 ***",
+      "KR": "*** 후퇴 ***",
+      "TW": "*** 後撤 ***"
+    }
   },
   "*** 5 SECONDS ***": {
-    "translation": "还剩5s"
+    "translation": "还剩5s",
+    "MultiLang": {
+      "US": "",
+      "JP": "５秒後",
+      "CN": "*** 5 秒后 ***",
+      "KR": "*** 5초 후 ***",
+      "TW": "*** 剩餘 5 秒 ***"
+    }
   },
   "*** HOLD HERE! ***": {
-    "translation": "守住这里"
+    "translation": "守住这里",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここを堅持！",
+      "CN": "*** 守住这里！***",
+      "KR": "*** 여기 점거! ***",
+      "TW": "*** 守住這裡！***"
+    }
   },
   "*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***": {
-    "translation": "自毁装置启动 - 60秒"
+    "translation": "自毁装置启动 - 60秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "自爆装置動作開始 - 60秒後",
+      "CN": "*** 自毁程序已激活 - 60 秒后 ***",
+      "KR": "*** 자기 파괴 시스템 가동 - 60초 후 ***",
+      "TW": "*** 自毀裝置已啟動 - 倒數 60 秒 ***"
+    }
   },
   "*** MAP BY JB_GAMBLE ***": {
-    "translation": "地图作者：JB_GAMBLE 翻译：秋刀鱼"
+    "translation": "地图作者：JB_GAMBLE 翻译：秋刀鱼",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MAP BY JB_GAMBLE ***",
+      "CN": "*** 地图由 JB_GAMBLE 制作 ***",
+      "KR": "*** JB_GAMBLE 작_MAP ***",
+      "TW": "*** 地圖製作：JB_GAMBLE ***"
+    }
   },
   "*** MAP CRASH FIXED BY 5UNZ ***": {
-    "translation": "地图修复：5unz"
+    "translation": "地图修复：5unz",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MAP CRASH FIXED BY 5UNZ ***",
+      "CN": "*** 地图崩溃问题由 5UNZ 修复 ***",
+      "KR": "*** 5UNZ 개선된_MAP 크래시 ***",
+      "TW": "*** 地圖崩潰問題已由 5UNZ 修復 ***"
+    }
   },
   "*** WATER CART LEAVING IN 5 SECONDS***": {
-    "translation": " 水车5秒后出发 "
+    "translation": "水车5秒后出发",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** WATER CART LEAVING IN 5 SECONDS***",
+      "CN": "*** 水箱将在 5 秒后离开 ***",
+      "KR": "*** 5초 후 물 수레 출발***",
+      "TW": "*** 水資源運輸即將在 5 秒後離開 ***"
+    }
   }
 }

@@ -1,260 +1,862 @@
 {
   "**5 seconds**": {
-    "translation": "**5秒**"
+    "translation": "**5秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後",
+      "CN": "5秒",
+      "KR": "**5초**",
+      "TW": "**5 秒**"
+    }
   },
   "**A zombie is spotted in the boss arena**": {
-    "translation": "**在Boss竞技场里发现一只僵尸**"
+    "translation": "**在Boss竞技场里发现一只僵尸**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスエリアにゾンビが確認されました",
+      "CN": "在Boss区域发现一只僵尸",
+      "KR": "보스 전장에 좀비가 출현했습니다.",
+      "TW": "Boss 場域發現殭屍"
+    }
   },
   "**At 5 seconds zombie tp**": {
-    "translation": "**5秒后僵尸传送**"
+    "translation": "**5秒后僵尸传送**",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後にゾンビTP",
+      "CN": "5秒时僵尸传送",
+      "KR": "**5초 후 좀비 텔레포트",
+      "TW": "5 秒後殭強制傳送"
+    }
   },
   "**Be careful, you can easily fall here**": {
-    "translation": "**小心，这里很容易摔倒**"
+    "translation": "**小心，这里很容易摔倒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここは簡単に落ちてしまうので注意してください",
+      "CN": "小心，这里很容易掉下去",
+      "KR": "**조심하세요, 여기서 쉽게 추락할 수 있습니다.",
+      "TW": "請小心，您很容易在此處跌落"
+    }
   },
   "**Boss died**": {
-    "translation": "**Boss死了**"
+    "translation": "**Boss死了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスが死亡しました",
+      "CN": "Boss已死亡",
+      "KR": "**보스 시체 처리 중**",
+      "TW": "Boss 已消亡"
+    }
   },
   "**Drop the cans on your way**": {
-    "translation": "**在路上放下罐子**"
+    "translation": "**在路上放下罐子**",
+    "MultiLang": {
+      "US": "",
+      "JP": "道中に缶を落としていきます",
+      "CN": "沿途丢弃罐头",
+      "KR": "**길을 따라 캔을 던지세요.",
+      "TW": "沿途留下罐子"
+    }
   },
   "**Get inside this box to escape**": {
-    "translation": "**进入这个箱子逃跑**"
+    "translation": "**进入这个箱子逃跑**",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出するにはこの箱に入ってください",
+      "CN": "进入这个箱子以逃脱",
+      "KR": "**도주하려면 이 상자에 들어가세요.",
+      "TW": "進入此箱子以逃離"
+    }
   },
   "**Give me 29 seconds, I'll stretch the rope**": {
-    "translation": "**给我29秒，我会拉绳子**"
+    "translation": "**给我29秒，我会拉绳子**",
+    "MultiLang": {
+      "US": "",
+      "JP": "29秒待って、綱を伸ばします",
+      "CN": "给我29秒，我来接绳索",
+      "KR": "\"29초만 주세요. 밧줄을 늘어뜨리겠습니다.\"",
+      "TW": "請給我 29 秒，我會拉長繩索"
+    }
   },
   "**Give me 29 seconds.**": {
-    "translation": "**给我29秒。**"
+    "translation": "**给我29秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "29秒だけ待って",
+      "CN": "给我29秒。",
+      "KR": "29초만 주세요.",
+      "TW": "給我29秒。"
+    }
   },
   "**Give me a few seconds.**": {
-    "translation": "**给我几秒钟。**"
+    "translation": "**给我几秒钟。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "少し待って",
+      "CN": "给我几秒。",
+      "KR": "잠시만 기다려 주세요.",
+      "TW": "給我幾秒鐘。"
+    }
   },
   "**Go down carefully on the black wire**": {
-    "translation": "**小心地沿着黑色电线往下**"
+    "translation": "**小心地沿着黑色电线往下**",
+    "MultiLang": {
+      "US": "",
+      "JP": "黒いケーブルを慎重に降りて",
+      "CN": "顺着黑色电线小心爬下去",
+      "KR": "검은 철사를 따라 조심스럽게 내려갑니다",
+      "TW": "小心沿著黑色電線下去"
+    }
   },
   "**Good job, go ahead to the elevator**": {
-    "translation": "**干得好，继续前往电梯**"
+    "translation": "**干得好，继续前往电梯**",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやった、エレベーターへ進んで",
+      "CN": "做得好，前往电梯",
+      "KR": "잘했습니다, 엘리베이터로 가세요",
+      "TW": "做得好，前往電梯吧"
+    }
   },
   "**Good job, the water level has started to decrease**": {
-    "translation": "**干得好，水位开始下降了**"
+    "translation": "**干得好，水位开始下降了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやった、水位が下がりはじめた",
+      "CN": "做得好，水位已经开始下降",
+      "KR": "잘했습니다. 수위가 감소하기 시작했습니다",
+      "TW": "做得好，水位已經開始下降"
+    }
   },
   "**Good job, the water level is decreasing**": {
-    "translation": "**干得好，水位正在下降**"
+    "translation": "**干得好，水位正在下降**",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやった、水位が下がりつつある",
+      "CN": "做得好，水位正在下降",
+      "KR": "잘했습니다. 수위가 감소 중입니다",
+      "TW": "做得好，水位正在下降"
+    }
   },
   "**Great job, get out of the attic!**": {
-    "translation": "**干得好，离开阁楼！**"
+    "translation": "**干得好，离开阁楼！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやった、小屋から抜け出せ！",
+      "CN": "干得好，快离开阁楼！",
+      "KR": "훌륭합니다, 다락방에서 빠져나오세요!",
+      "TW": "乾得漂亮，離開閣樓！"
+    }
   },
   "**Great, the pipe is open, jump down!**": {
-    "translation": "**太好了，管子开了，跳下去！**"
+    "translation": "**太好了，管子开了，跳下去！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "いいぞ、パイプが開いた、飛び降りろ！",
+      "CN": "太好了，管道已打开，跳下去！",
+      "KR": "좋아요, 파이프가 열렸으니 뛰어내리세요!",
+      "TW": "太好了，管道已打開，跳下去！"
+    }
   },
   "**Hold 10 seconds**": {
-    "translation": "**防守10秒**"
+    "translation": "**防守10秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒間押す",
+      "CN": "按住 10 秒",
+      "KR": "**10초 동안 누르고 있다**",
+      "TW": "持續按住 10 秒"
+    }
   },
   "**Hold 15 seconds**": {
-    "translation": "**防守15秒**"
+    "translation": "**防守15秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間押す",
+      "CN": "按住 15 秒",
+      "KR": "**15초 동안 누르고 있다**",
+      "TW": "持續按住 15 秒"
+    }
   },
   "**Hold 17 seconds**": {
-    "translation": "**防守17秒**"
+    "translation": "**防守17秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "17秒間押す",
+      "CN": "按住 17 秒",
+      "KR": "**17초 동안 누르고 있다**",
+      "TW": "持續按住 17 秒"
+    }
   },
   "**Hold 20 seconds**": {
-    "translation": "**防守20秒**"
+    "translation": "**防守20秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間押す",
+      "CN": "按住 20 秒",
+      "KR": "**20초 동안 누르고 있다**",
+      "TW": "持續按住 20 秒"
+    }
   },
   "**Hold 25 seconds**": {
-    "translation": "**防守25秒**"
+    "translation": "**防守25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間押す",
+      "CN": "按住 25 秒",
+      "KR": "**25초 동안 누르고 있다**",
+      "TW": "持續按住 25 秒"
+    }
   },
   "**Hold 28 seconds**": {
-    "translation": "**防守28秒**"
+    "translation": "**防守28秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "28秒間押す",
+      "CN": "按住 28 秒",
+      "KR": "**28초 동안 누르고 있다**",
+      "TW": "持續按住 28 秒"
+    }
   },
   "**Hold 30 seconds**": {
-    "translation": "**防守30秒**"
+    "translation": "**防守30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間押す",
+      "CN": "按住 30 秒",
+      "KR": "**30초 동안 누르고 있다**",
+      "TW": "持續按住 30 秒"
+    }
   },
   "**Hold 35 seconds**": {
-    "translation": "**防守35秒**"
+    "translation": "**防守35秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒間押す",
+      "CN": "按住 35 秒",
+      "KR": "**35초 동안 누르고 있다**",
+      "TW": "持續按住 35 秒"
+    }
   },
   "**Hold 40 seconds**": {
-    "translation": "**防守40秒**"
+    "translation": "**防守40秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒間押し続ける",
+      "CN": "**按住40秒**",
+      "KR": "**40초 동안 누르세요**",
+      "TW": "**堅持40秒**"
+    }
   },
   "**Hold 50 seconds**": {
-    "translation": "**防守50秒**"
+    "translation": "**防守50秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "50秒間押し続ける",
+      "CN": "**按住50秒**",
+      "KR": "**50초 동안 누르세요**",
+      "TW": "**堅持50秒**"
+    }
   },
   "**It looks like the pallets are starting to sink, urgently jump to another one if the pallet lights up red!**": {
-    "translation": "**看起来托盘开始下沉了，如果托盘亮起红灯，立即跳到另一个托盘上！**"
+    "translation": "**看起来托盘开始下沉了，如果托盘亮起红灯，立即跳到另一个托盘上！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "パレットが沈み始めているようです。赤く光ったら、すぐに別のパレットに飛び移ってください！",
+      "CN": "看起来托盘开始下沉了，如果托盘变红请立刻跳到另一个上！**",
+      "KR": "**팔레트가 가라앉기 시작하는 것 같습니다. 팔레트가 빨간색으로 빛나면 긴급히 다른 곳으로 점프하세요!**",
+      "TW": "**貨盤看起來開始下沉了，如果貨盤閃紅光，請趕緊跳到另一個！**"
+    }
   },
   "**It's going to take me a while to get him out of there.**": {
-    "translation": "**我需要一些时间把他从那里弄出来**"
+    "translation": "**我需要一些时间把他从那里弄出来**",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼をそこから出すのに少し時間がかかります。",
+      "CN": "把他救出来得花点时间。",
+      "KR": "**거기서 그를 꺼내는 데 시간이 좀 걸릴 것 같습니다.**",
+      "TW": "**要花我一陣子才能把他救出來。**"
+    }
   },
   "**It's quite dusty here**": {
-    "translation": "**这里灰尘相当多**"
+    "translation": "**这里灰尘相当多**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここは結構埃っぽいよ",
+      "CN": "这里灰尘挺大",
+      "KR": "**여기가 매우 먼지가 많습니다**",
+      "TW": "**這裡相當多灰塵**"
+    }
   },
   "**Just give me a few seconds, maybe I can break the bars.**": {
-    "translation": "**给我几秒钟，也许我可以打破栏杆**"
+    "translation": "**给我几秒钟，也许我可以打破栏杆**",
+    "MultiLang": {
+      "US": "",
+      "JP": "数秒待って。柵を壊せるかもしれない。",
+      "CN": "给我几秒，也许我能把铁栏撬开。",
+      "KR": "**잠시만 기다려 주세요. 막대를 부술 수 있을 것 같습니다.**",
+      "TW": "**給我幾秒鐘，也許我能砸開鐵欄杆。**"
+    }
   },
   "**Leave quickly**": {
-    "translation": "**快点离开**"
+    "translation": "**快点离开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "素早く離れろ",
+      "CN": "快离开",
+      "KR": "**빠르게 떠납니다**",
+      "TW": "**趕快離開**"
+    }
   },
   "**Let's get started. First, break the pipe that glows blue**": {
-    "translation": "**开始吧。首先，打破发光的蓝色管子**"
+    "translation": "**开始吧。首先，打破发光的蓝色管子**",
+    "MultiLang": {
+      "US": "",
+      "JP": "始めよう。まず、青く光るパイプを壊すんだ",
+      "CN": "动手吧。首先，把发光的蓝管子打断。",
+      "KR": "**시작합시다. 먼저 파란색으로 빛나는 파이프를 부수세요**",
+      "TW": "**我們開始吧。首先，敲破發光的藍管**"
+    }
   },
   "**Level 1 - Village**": {
-    "translation": "**第1关 - 村庄**"
+    "translation": "**第1关 - 村庄**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レベル1 - 村**",
+      "CN": "**第1关 - 村庄**",
+      "KR": "**레벨 1 - 마을**",
+      "TW": "**等級 1 - 村落**"
+    }
   },
   "**Level 1 passed!**": {
-    "translation": "**第1关通过！**"
+    "translation": "**第1关通过！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レベル1クリア！**",
+      "CN": "**第1关通过！**",
+      "KR": "**레벨 1 통과!**",
+      "TW": "**通過等級 1！**"
+    }
   },
   "**Level 2 - Sewerage**": {
-    "translation": "**第2关 - 下水道**"
+    "translation": "**第2关 - 下水道**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レベル2 - 下水道**",
+      "CN": "**第2关 - 下水道**",
+      "KR": "**레벨 2 - 하수도**",
+      "TW": "**等級 2 - 下水道**"
+    }
   },
   "**Level 2 passed!**": {
-    "translation": "**第2关通过！**"
+    "translation": "**第2关通过！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レベル2クリア！**",
+      "CN": "**第2关通过！**",
+      "KR": "**레벨 2 통과!**",
+      "TW": "**通過等級 2！**"
+    }
   },
   "**Level 3 - Kitchen**": {
-    "translation": "**第3关 - 厨房**"
+    "translation": "**第3关 - 厨房**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レベル3 - キッチン**",
+      "CN": "**第3关 - 厨房**",
+      "KR": "**레벨 3 - 부엌**",
+      "TW": "**等級 3 - 廚房**"
+    }
   },
   "**Level 3 has been completed!**": {
-    "translation": "**第3关已完成！**"
+    "translation": "**第3关已完成！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レベル3クリア！**",
+      "CN": "**第3关已完成！**",
+      "KR": "**레벨 3 완료!**",
+      "TW": "**已完成等級 3！**"
+    }
   },
   "**Lvl 1 set**": {
-    "translation": "**选择第1关**"
+    "translation": "**选择第1关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Lv1セット**",
+      "CN": "**第1章关卡**",
+      "KR": "**Lvl 1 세트**",
+      "TW": "**第 1 關設定**"
+    }
   },
   "**Lvl 2 set**": {
-    "translation": "**选择第2关**"
+    "translation": "**选择第2关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Lv2セット**",
+      "CN": "**第2章关卡**",
+      "KR": "**Lvl 2 세트**",
+      "TW": "**第 2 關設定**"
+    }
   },
   "**Lvl 3 set**": {
-    "translation": "**选择第3关**"
+    "translation": "**选择第3关**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レベル3セット**",
+      "CN": "3级套装",
+      "KR": "Lv 3 세트",
+      "TW": "3級套裝"
+    }
   },
   "**Map By R1cko27**": {
-    "translation": "**地图由R1cko27制作 翻译：Asteri3m**"
+    "translation": "**地图由R1cko27制作 翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**マップ制作者: R1cko27**",
+      "CN": "地图作者：R1cko27",
+      "KR": "맵 제작: R1cko27",
+      "TW": "地圖作者：R1cko27"
+    }
   },
   "**Need to get this piece of wood out of the way**": {
-    "translation": "**需要把这块木头移开**"
+    "translation": "**需要把这块木头移开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "この木材を取り除く必要があります",
+      "CN": "需要移开这块木板",
+      "KR": "이 나무 한 편을 치워야 합니다.",
+      "TW": "需要將這塊木頭移開"
+    }
   },
   "**Need to knock a nail out of the wall to go further**": {
-    "translation": "**需要从墙上敲掉一颗钉子才能继续前进**"
+    "translation": "**需要从墙上敲掉一颗钉子才能继续前进**",
+    "MultiLang": {
+      "US": "",
+      "JP": "先に進むには壁からの釘を外す必要があります",
+      "CN": "需要先敲掉墙上的钉子才能前进",
+      "KR": "더 나아가기 위해 벽에 못 하나를 빼야 합니다.",
+      "TW": "必須敲掉牆上的釘子才能繼續前進"
+    }
   },
   "**Now go up the ladder on the right**": {
-    "translation": "**现在爬上右边的梯子**"
+    "translation": "**现在爬上右边的梯子**",
+    "MultiLang": {
+      "US": "",
+      "JP": "右のハシゴを上ってください",
+      "CN": "现在爬右边的梯子",
+      "KR": "오른쪽 사다리로 올라갑니다.",
+      "TW": "現在爬右邊的梯子"
+    }
   },
   "**Now jump to the center**": {
-    "translation": "**现在跳到中心**"
+    "translation": "**现在跳到中心**",
+    "MultiLang": {
+      "US": "",
+      "JP": "中央へジャンプしてください",
+      "CN": "现在跳到中心位置",
+      "KR": "이제 중앙으로 점프합니다.",
+      "TW": "現在跳到中間"
+    }
   },
   "**Now you need to break two holders, they are marked in blue**": {
-    "translation": "**现在你需要打破两个支架，它们标记为蓝色**"
+    "translation": "**现在你需要打破两个支架，它们标记为蓝色**",
+    "MultiLang": {
+      "US": "",
+      "JP": "2つの固定具を壊す必要があります。これらは青色でマークされています",
+      "CN": "现在你需要破坏两个固定装置，它们已用蓝色标出",
+      "KR": "지금 파란색으로 표시된 두 받침대를 부숴야 합니다.",
+      "TW": "現在需要打破兩個支架，它們以藍色標記"
+    }
   },
   "**Press the blue button to do this**": {
-    "translation": "**按下蓝色按钮来完成这个**"
+    "translation": "**按下蓝色按钮来完成这个**",
+    "MultiLang": {
+      "US": "",
+      "JP": "これを実行するには青いボタンを押してください",
+      "CN": "按蓝色按钮执行此操作",
+      "KR": "이 작업을 수행하려면 파란색 버튼을 누릅니다.",
+      "TW": "按下藍色的按鈕來完成此動作"
+    }
   },
   "**Run away**": {
-    "translation": "**逃跑**"
+    "translation": "**逃跑**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**逃げる**",
+      "CN": "逃跑",
+      "KR": "**도망치기**",
+      "TW": "**逃跑**"
+    }
   },
   "**Shoot the boss**": {
-    "translation": "**射击Boss**"
+    "translation": "**射击Boss**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ボスを射撃せよ**",
+      "CN": "射击首领",
+      "KR": "**보스를 사격**",
+      "TW": "**射擊Boss**"
+    }
   },
   "**Stay on wooden pallets**": {
-    "translation": "**待在木托盘上**"
+    "translation": "**待在木托盘上**",
+    "MultiLang": {
+      "US": "",
+      "JP": "木製パレットの上にいる**",
+      "CN": "待在木托盘上",
+      "KR": "**나무 팔레트 위에 머물기**",
+      "TW": "**站在木棧板上**"
+    }
   },
   "**Take the stairs carefully**": {
-    "translation": "**小心地走楼梯**"
+    "translation": "**小心地走楼梯**",
+    "MultiLang": {
+      "US": "",
+      "JP": "階段を慎重に登る**",
+      "CN": "小心走楼梯",
+      "KR": "**계단을 조심스럽게 이용하기**",
+      "TW": "**小心走樓梯**"
+    }
   },
   "**That's it, go to the left tube!**": {
-    "translation": "**就是它，走到左边的管子！**"
+    "translation": "**就是它，走到左边的管子！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "それで左側の管へ進め！**",
+      "CN": "没错，往左边的管道去！",
+      "KR": "바로 거기, 왼쪽 통로로\tgo!",
+      "TW": "**就是現在，往左邊的管道衝！**"
+    }
   },
   "**The boss is dead**": {
-    "translation": "**Boss死了**"
+    "translation": "**Boss死了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ボスは倒れた**",
+      "CN": "首领已死",
+      "KR": "**보스가 사망**",
+      "TW": "**Boss已消滅**"
+    }
   },
   "**The electric shield is energized, shoot at it. We need to break it!**": {
-    "translation": "**电盾已充电，射击它。我们需要打破它！**"
+    "translation": "**电盾已充电，射击它。我们需要打破它！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "電気シールドが活性化している、攻撃して破壊しろ！**",
+      "CN": "电盾已充能，对它开火！我们需要打破它！",
+      "KR": "**전기 쉴드가 활성화되었으니 사격하세요. 반드시 차단해야 합니다!**",
+      "TW": "**電護盾已充能，向它射擊。我們必須打破它！**"
+    }
   },
   "**The gate is broken, jump into the attic!**": {
-    "translation": "**门坏了，跳到阁楼！**"
+    "translation": "**门坏了，跳到阁楼！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ゲートは破壊済み、屋根裏へ飛び込め！**",
+      "CN": "大门已破，跳进阁楼！",
+      "KR": "**문이 파손되었습니다, 다락방으로 점프하세요!**",
+      "TW": "**柵門已損壞，跳進閣樓！**"
+    }
   },
   "**The passage is closed by a grate, it needs to be broken**": {
-    "translation": "**通道被格栅封闭了，需要打破它**"
+    "translation": "**通道被格栅封闭了，需要打破它**",
+    "MultiLang": {
+      "US": "",
+      "JP": "通路は鉄格子で閉ざされており、これを壊す必要があります",
+      "CN": "通道被铁栅栏封闭，需要将其破坏",
+      "KR": "철저히 막혀 있어 부수는 수밖에 없습니다",
+      "TW": "出口被柵欄封住，必須將其破壞"
+    }
   },
   "**The passage is open, leave through the hole in the wall and go right**": {
-    "translation": "**通道已打开，通过墙上的洞离开然后向右走**"
+    "translation": "**通道已打开，通过墙上的洞离开然后向右走**",
+    "MultiLang": {
+      "US": "",
+      "JP": "通路は開いています。壁の穴を通り右へ進んでください",
+      "CN": "通道已开放，从墙上的洞口离开并向右前进",
+      "KR": "통로는 열려 있습니다. 벽의 구멍을 통해 우측으로 이동하세요",
+      "TW": "通道已開通，請穿過牆上的洞口並向右行進"
+    }
   },
   "**The shortest path will open in 5 seconds**": {
-    "translation": "**最短的路径将在5秒内打开**"
+    "translation": "**最短的路径将在5秒内打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "最短ルートが5秒後に開きます",
+      "CN": "最短路径将在5秒后开启",
+      "KR": "5초 후 최단 경로가 열립니다",
+      "TW": "最短路径將在5秒後開啟"
+    }
   },
   "**The water level is decreasing, get ready to leave**": {
-    "translation": "**水位正在下降，准备离开**"
+    "translation": "**水位正在下降，准备离开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位が下がっています。退出の準備をしてください",
+      "CN": "水位正在下降，准备好离开",
+      "KR": "수위 하강 중입니다. 신속히 대피하십시오",
+      "TW": "水位正在下降，請準備離場"
+    }
   },
   "**The water level is still high**": {
-    "translation": "**水位仍然很高**"
+    "translation": "**水位仍然很高**",
+    "MultiLang": {
+      "US": "",
+      "JP": "まだ水位が高い状態です",
+      "CN": "水位依然很高",
+      "KR": "수위가 여전히 높습니다",
+      "TW": "水位仍然很高"
+    }
   },
   "**There is a box on your way, you need to move it forward to pass**": {
-    "translation": "**前面有一个箱子，你需要把它移到前面才能通过**"
+    "translation": "**前面有一个箱子，你需要把它移到前面才能通过**",
+    "MultiLang": {
+      "US": "",
+      "JP": "先に箱があります。通り抜けるためにその箱を手前に動かしてください",
+      "CN": "前方有一个箱子，需要将其向前推动才能通过",
+      "KR": "길목에 상자가 있습니다. 앞으로 밀어서 지나야 합니다",
+      "TW": "前方有箱子擋路，需將它向前推移才能通過"
+    }
   },
   "**There is an obstacle in the way, wait a bit to open the way**": {
-    "translation": "**路上有障碍物，稍等一下以打开通道**"
+    "translation": "**路上有障碍物，稍等一下以打开通道**",
+    "MultiLang": {
+      "US": "",
+      "JP": "先に障害物があります。道が開くまで少しお待ちください",
+      "CN": "前方有障碍物，请稍等片刻以清理道路",
+      "KR": "장애물이 방해하고 있으니, 잠시 후 통로가 열릴 때까지 기다리세요",
+      "TW": "前方有障礙物，請稍等片刻以便清除路障"
+    }
   },
   "**This box is too high, you won't be able to climb it just like that**": {
-    "translation": "**这个箱子太高了，你不能就这样爬上去**"
+    "translation": "**这个箱子太高了，你不能就这样爬上去**",
+    "MultiLang": {
+      "US": "",
+      "JP": "この箱は高すぎて、ただじゃ登れません",
+      "CN": "这个箱子太高了，你无法直接翻越",
+      "KR": "상자가 너무 높습니다. 그냥으로는 올라갈 수 없습니다",
+      "TW": "這個箱子太高了，你無法直接攀爬過去"
+    }
   },
   "**This nut is stuck in the pipe**": {
-    "translation": "**这个螺母卡在管子里了**"
+    "translation": "**这个螺母卡在管子里了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "このナットがパイプに詰まっている",
+      "CN": "**这个螺母卡在管道里了**",
+      "KR": "이 너트가 파이프에 끼여 있어",
+      "TW": "這顆螺母卡在管道裡了"
+    }
   },
   "**This pipe is closed, give me 20 seconds to open it**": {
-    "translation": "**这个管子是关闭的，给我20秒来打开它**"
+    "translation": "**这个管子是关闭的，给我20秒来打开它**",
+    "MultiLang": {
+      "US": "",
+      "JP": "このパイプは閉じているので、開けるまで20秒待ってください",
+      "CN": "**这个管道是关闭的，给我20秒打开它**",
+      "KR": "이 파이프는 닫혀 있으니 20초만 기다려서 열어줄게",
+      "TW": "這個閥門已關閉，請給我二十秒鐘來開啟它"
+    }
   },
   "**To do this, you will have to lower the water level**": {
-    "translation": "**为此，你必须降低水位**"
+    "translation": "**为此，你必须降低水位**",
+    "MultiLang": {
+      "US": "",
+      "JP": "これを行うには、水位を下げなければなりません",
+      "CN": "**要做到这一点，你必须降低水位**",
+      "KR": "이 작업을 하려면 수위를 낮춰야 해",
+      "TW": "為此，你必須先降低水位"
+    }
   },
   "**Wait a couple more seconds, everything is almost ready**": {
-    "translation": "**再等几秒钟，一切快准备好了**"
+    "translation": "**再等几秒钟，一切快准备好了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "もう少しお待ちください。ほとんど準備が整いました",
+      "CN": "**再等几秒钟，一切就快准备好了**",
+      "KR": "다시 몇 초만 기다려, 거의 다 준비됐어",
+      "TW": "再等一下幾秒，一切幾乎就緒"
+    }
   },
   "**Water Attack**": {
-    "translation": "**水淹**"
+    "translation": "**水淹**",
+    "MultiLang": {
+      "US": "",
+      "JP": "水系アタック",
+      "CN": "**水之攻击**",
+      "KR": "물 공격",
+      "TW": "水之攻擊"
+    }
   },
   "**We need to get to the red gazebo**": {
-    "translation": "**我们需要到达红色凉亭**"
+    "translation": "**我们需要到达红色凉亭**",
+    "MultiLang": {
+      "US": "",
+      "JP": "赤い gazbo に行かなければなりません",
+      "CN": "**我们需要到达红色的凉亭**",
+      "KR": "빨간 정자로 가야 해",
+      "TW": "我們需要到達紅色涼亭"
+    }
   },
   "**We need to turn off the pipes from which the water flows**": {
-    "translation": "**我们需要关闭流出水的管子**"
+    "translation": "**我们需要关闭流出水的管子**",
+    "MultiLang": {
+      "US": "",
+      "JP": "水が流れるパイプを止めなければなりません",
+      "CN": "**我们需要关闭流水的管道**",
+      "KR": "물이 나오는 파이프를 꺼야 해",
+      "TW": "我們必須關閉那些正在流水的管道"
+    }
   },
   "**We probably won't be able to get into the attic.**": {
-    "translation": "**我们可能无法进入阁楼**"
+    "translation": "**我们可能无法进入阁楼**",
+    "MultiLang": {
+      "US": "",
+      "JP": "おそらく屋根裏部屋には入れないでしょう",
+      "CN": "**我们可能无法进入阁楼。**",
+      "KR": "아마 다락방에는 못 들어갈 것 같아",
+      "TW": "我們大概沒辦法進入閣樓了"
+    }
   },
   "**Welcome to the sewers!**": {
-    "translation": "**欢迎来到下水道！**"
+    "translation": "**欢迎来到下水道！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**下水道へようこそ！**",
+      "CN": "欢迎来到下水道！",
+      "KR": "**하수도로 오신 것을 환영합니다!**",
+      "TW": "**歡迎來到下水道！**"
+    }
   },
   "**Welcome to the village!**": {
-    "translation": "**欢迎来到村庄！**"
+    "translation": "**欢迎来到村庄！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**村へようこそ**",
+      "CN": "欢迎来到村庄！",
+      "KR": "**마을에 오신 것을 환영합니다!**",
+      "TW": "**歡迎來到村莊！**"
+    }
   },
   "**You Failed**": {
-    "translation": "**你失败了**"
+    "translation": "**你失败了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**失敗しました**",
+      "CN": "失败",
+      "KR": "실패했습니다**",
+      "TW": "**你失敗了**"
+    }
   },
   "**You can move on.**": {
-    "translation": "**你可以继续前进**"
+    "translation": "**你可以继续前进**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**次に進めます。**",
+      "CN": "你可以继续前进。",
+      "KR": "**지금 진행할 수 있습니다.**",
+      "TW": "**你可以繼續前進。**"
+    }
   },
   "**You need to get into the pipe on the right, which is under water**": {
-    "translation": "**你需要进入右边在水下的管道**"
+    "translation": "**你需要进入右边在水下的管道**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**右側の、水に沈んでいるパイプの中に入らなければなりません。**",
+      "CN": "你需要进入右边的水管，它位于水下。",
+      "KR": "**오른쪽, 물속에 있는 파이프 안으로 들어가야 합니다**",
+      "TW": "**你需要進入右側的水下管道**"
+    }
   },
   "**You need to get to the attic**": {
-    "translation": "**你需要到阁楼**"
+    "translation": "**你需要到阁楼**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**屋根裏部屋に行かなければなりません**",
+      "CN": "你需要到达阁楼。",
+      "KR": "**다락방으로 가야 합니다**",
+      "TW": "**你需要到達閣樓**"
+    }
   },
   "**You need to go right into the barn**": {
-    "translation": "**你需要右转进入谷仓**"
+    "translation": "**你需要右转进入谷仓**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**右にある納屋に入らなければなりません。**",
+      "CN": "你需要向右进入谷仓。",
+      "KR": "**곳간에 오른쪽으로 들어가야 합니다**",
+      "TW": "**你需要進入右側的倉庫**"
+    }
   },
   "**You need to move the book lying on the table to this box**": {
-    "translation": "**你需要把桌子上的书移动到这个箱子上**"
+    "translation": "**你需要把桌子上的书移动到这个箱子上**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**テーブルの上に置かれている本を、この箱に移動する必要があります。**",
+      "CN": "你需要将桌上的书移到这个盒子里。",
+      "KR": "**책상 위의 책을 이 상자 안으로 옮겨야 합니다**",
+      "TW": "**你需要將桌上趴著的書移動到這個盒子裡**"
+    }
   },
   "**Zombie tp at 10 seconds**": {
-    "translation": "**僵尸传送10秒**"
+    "translation": "**僵尸传送10秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 10秒目",
+      "CN": "僵尸在第 10 秒传送",
+      "KR": "**지리 10초 후 tp**",
+      "TW": "殭屍於 10 秒後傳送"
+    }
   },
   "**Zombie tp at 15 seconds**": {
-    "translation": "**僵尸传送15秒**"
+    "translation": "**僵尸传送15秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 15秒目",
+      "CN": "僵尸在第 15 秒传送",
+      "KR": "**지리 15초 후 tp**",
+      "TW": "殭屍於 15 秒後傳送"
+    }
   },
   "**Zombie tp at 25 seconds**": {
-    "translation": "**僵尸传送25秒**"
+    "translation": "**僵尸传送25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 25秒目",
+      "CN": "僵尸在第 25 秒传送",
+      "KR": "**지리 25초 후 tp**",
+      "TW": "殭屍於 25 秒後傳送"
+    }
   },
   "**Zombie tp at 5 seconds**": {
-    "translation": "**僵尸传送5秒**"
+    "translation": "**僵尸传送5秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 5秒目",
+      "CN": "僵尸在第 5 秒传送",
+      "KR": "**지리 5초 후 tp**",
+      "TW": "殭屍於 5 秒後傳送"
+    }
   },
   "*Hold 14 seconds**": {
-    "translation": "**防守14秒**"
+    "translation": "**防守14秒**",
+    "MultiLang": {
+      "US": "HOLD 14 SECONDS",
+      "JP": "14秒間保持",
+      "CN": "按住 14 秒**",
+      "KR": "*14초 동안 유지**",
+      "TW": "按住 14 秒"
+    }
   },
   "**Hold 45 seconds**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "45秒間保持",
+      "CN": "按住 45 秒**",
+      "KR": "**45초 동안 유지**",
+      "TW": "按住 45 秒"
+    }
   }
 }

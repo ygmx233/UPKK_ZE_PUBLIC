@@ -1,107 +1,352 @@
 {
   "| 10 |": {
-    "translation": "| 10s |"
+    "translation": "| 10s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 15 |": {
-    "translation": "| 15s |"
+    "translation": "| 15s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 20 |": {
-    "translation": "| 20s |"
+    "translation": "| 20s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 25 |": {
-    "translation": "| 25s |"
+    "translation": "| 25s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 30 |": {
-    "translation": "| 30s |"
+    "translation": "| 30s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 35 |": {
-    "translation": "| 35s |"
+    "translation": "| 35s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 40 |": {
-    "translation": "| 40s |"
+    "translation": "| 40s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 45 |": {
-    "translation": "| 45s |"
+    "translation": "| 45s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 5 |": {
-    "translation": "| 5s |"
+    "translation": "| 5s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 50 |": {
-    "translation": "| 50s |"
+    "translation": "| 50s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 55 |": {
-    "translation": "| 55s |"
+    "translation": "| 55s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 60 |": {
-    "translation": "| 60s |"
+    "translation": "| 60s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 65 |": {
-    "translation": "| 65s |"
+    "translation": "| 65s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| 80 SECONDS LEFT |": {
-    "translation": "| 还剩80s |"
+    "translation": "| 还剩80s |",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り80秒",
+      "CN": "剩余80秒",
+      "KR": "남은 시간: 80초",
+      "TW": "剩餘80秒"
+    }
   },
   "| ? |": {
-    "translation": "| ? |"
+    "translation": "| ? |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "| Energy ball |": {
-    "translation": "| 能量球 |"
+    "translation": "| 能量球 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "エネルギーボール",
+      "CN": "能量球",
+      "KR": "에너지 볼",
+      "TW": "能量球"
+    }
   },
   "| Freeze ball |": {
-    "translation": "| 冰冻球 |"
+    "translation": "| 冰冻球 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "フリーズボール",
+      "CN": "冰冻球",
+      "KR": "얼음 볼",
+      "TW": "冰凍球"
+    }
   },
   "| Gravity ball |": {
-    "translation": "| 黑洞球 |"
+    "translation": "| 黑洞球 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "グラビティボール",
+      "CN": "重力球",
+      "KR": "중력 볼",
+      "TW": "重力球"
+    }
   },
   "| Heal |": {
-    "translation": "| 治疗 |"
+    "translation": "| 治疗 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "回復",
+      "CN": "治疗",
+      "KR": "치유",
+      "TW": "治療"
+    }
   },
   "| Loading stage 1.. |": {
-    "translation": "| 加载关卡1.. |"
+    "translation": "| 加载关卡1.. |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1読み込み中.. |",
+      "CN": "加载关卡1..",
+      "KR": "스테이지 1 로딩 중..",
+      "TW": "載入關卡1.."
+    }
   },
   "| Loading stage 2.. |": {
-    "translation": "| 加载关卡2.. |"
+    "translation": "| 加载关卡2.. |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2読み込み中.. |",
+      "CN": "加载关卡2..",
+      "KR": "스테이지 2 로딩 중..",
+      "TW": "載入關卡2.."
+    }
   },
   "| Loading stage 3.. |": {
-    "translation": "| 加载关卡3.. |"
+    "translation": "| 加载关卡3.. |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3読み込み中.. |",
+      "CN": "加载关卡3..",
+      "KR": "스테이지 3 로딩 중..",
+      "TW": "載入關卡3.."
+    }
   },
   "| Loading stage 4.. |": {
-    "translation": "| 加载关卡4.. |"
+    "translation": "| 加载关卡4.. |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ4を読み込み中...",
+      "CN": "正在加载第4阶段..",
+      "KR": "스테이지 4 로딩 중..",
+      "TW": "載入第 4 關中…"
+    }
   },
   "| Loading stage 5.. |": {
-    "translation": "| 加载关卡5.. |"
+    "translation": "| 加载关卡5.. |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ5を読み込み中...",
+      "CN": "正在加载第5阶段..",
+      "KR": "스테이지 5 로딩 중..",
+      "TW": "載入第 5 關中…"
+    }
   },
   "| Loading stage 6.. |": {
-    "translation": "| 加载关卡6.. |"
+    "translation": "| 加载关卡6.. |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ6を読み込み中...",
+      "CN": "正在加载第6阶段..",
+      "KR": "스테이지 6 로딩 중..",
+      "TW": "載入第 6 關中…"
+    }
   },
   "| SIMULATION FAILED |": {
-    "translation": "| 模拟失败 |"
+    "translation": "| 模拟失败 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "シミュレーション失敗",
+      "CN": "模拟失败",
+      "KR": "시뮬레이션 실패",
+      "TW": "模擬失敗"
+    }
   },
   "| SURVIVE FOR 60 SECONDS |": {
-    "translation": "| 生存60秒 |"
+    "translation": "| 生存60秒 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒間生存",
+      "CN": "生存60秒",
+      "KR": "60초 동안 생존하기",
+      "TW": "存活 60 秒"
+    }
   },
   "| Shield |": {
-    "translation": "| 护盾 |"
+    "translation": "| 护盾 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "シールド",
+      "CN": "护盾",
+      "KR": "방패",
+      "TW": "護盾"
+    }
   },
   "| Square |": {
-    "translation": "| 方块 |"
+    "translation": "| 方块 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "スクエア",
+      "CN": "方形",
+      "KR": "네모",
+      "TW": "方形"
+    }
   },
   "| Zombie energy ball |": {
-    "translation": "| 僵尸能量球 |"
+    "translation": "| 僵尸能量球 |",
+    "MultiLang": {
+      "US": "| Zombie Energy Ball |",
+      "JP": "ゾンビエナジーボール",
+      "CN": "僵尸能量球",
+      "KR": "좀비 에너지 구체",
+      "TW": "殭屍能量球"
+    }
   },
   "| Zombie freezeball |": {
-    "translation": "| 僵尸冰冻球 |"
+    "translation": "| 僵尸冰冻球 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビフリーズボール",
+      "CN": "僵尸冷冻球",
+      "KR": "좀비 냉동 볼",
+      "TW": "殭屍冷凍球"
+    }
   },
   "| Zombie gravity |": {
-    "translation": "| 僵尸黑洞 |"
+    "translation": "| 僵尸黑洞 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビグラビティ",
+      "CN": "僵尸重力",
+      "KR": "좀비 중력",
+      "TW": "殭屍重力"
+    }
   },
   "| Zombie heal |": {
-    "translation": "| 僵尸治疗 |"
+    "translation": "| 僵尸治疗 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ回復",
+      "CN": "僵尸治疗",
+      "KR": "좀비 치유",
+      "TW": "殭屍治療"
+    }
   },
   "| Zombie ice item locked. |": {
-    "translation": "| 僵尸冰冻球已锁定 |"
+    "translation": "| 僵尸冰冻球已锁定 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンバイスアイテムがロックされています。",
+      "CN": "僵尸冰系物品已锁定。",
+      "KR": "좀비 아이템 잠금.",
+      "TW": "殭屍冰霜道具已鎖定。"
+    }
   },
   "| Zombie ice item unlocked. |": {
-    "translation": "| 僵尸冰冻球已解锁 |"
+    "translation": "| 僵尸冰冻球已解锁 |",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンバイスアイテムのロックが解除されました。",
+      "CN": "僵尸冰系物品已解锁。",
+      "KR": "좀비 아이템 잠금 해제.",
+      "TW": "殭屍冰霜道具已解鎖。"
+    }
   }
 }

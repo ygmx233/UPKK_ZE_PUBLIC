@@ -1,25 +1,72 @@
 {
   "*** Map by Soft Serve ***": {
-    "translation": "地图作者 Soft Serve"
+    "translation": "地图作者 Soft Serve",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Soft Serve製作によるマップ ***",
+      "CN": "*** 地图作者：Soft Serve ***",
+      "KR": "*** Soft Serve 제작 맵 ***",
+      "TW": "*** 地圖製作人：Soft Serve ***"
+    }
   },
   "*** 5 seconds left ***": {
-    "translation": " 还剩5秒 "
+    "translation": "还剩5秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り5秒 ***",
+      "CN": "*** 剩余5秒 ***",
+      "KR": "*** 5초 남음 ***",
+      "TW": "*** 剩餘 5 秒 ***"
+    }
   },
   "*** Nuke in 10 seconds ***": {
     "translation": "10秒后核爆",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "*** Nuclear in 10 seconds ***",
+      "JP": "*** 核攻撃まで10秒 ***",
+      "CN": "*** 10秒后空袭 ***",
+      "KR": "*** 핵폭발까지 10초 ***",
+      "TW": "*** 大屠殺倒計時：10 秒 ***"
+    }
   },
   "*** Nuke in 30 seconds ***": {
-    "translation": "30秒后核爆"
+    "translation": "30秒后核爆",
+    "MultiLang": {
+      "US": "*** Nuclear strike in 30 seconds ***",
+      "JP": "*** 核攻撃まで30秒 ***",
+      "CN": "*** 30秒后空袭 ***",
+      "KR": "*** 핵폭발까지 30초 ***",
+      "TW": "*** 大屠殺倒計時：30 秒 ***"
+    }
   },
   "*** Nuke in 20 seconds ***": {
     "translation": "20秒后核爆",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 核攻撃まで20秒 ***",
+      "CN": "*** 20秒后空袭 ***",
+      "KR": "*** 핵폭발까지 20초 ***",
+      "TW": "*** 大屠殺倒計時：20 秒 ***"
+    }
   },
   "*** Humans have failed to escape! ***": {
-    "translation": "人类失败"
+    "translation": "人类失败",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 人間の脱出に失敗！ ***",
+      "CN": "*** 人类未能逃脱！***",
+      "KR": "*** Humans have failed to escape! ***",
+      "TW": "*** 人類未能逃脫！ ***"
+    }
   },
   "*** Humans have escaped! ***": {
-    "translation": "人类逃脱成功"
+    "translation": "人类逃脱成功",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 人間が脱出しました！ ***",
+      "CN": "*** 人类已成功逃脱！***",
+      "KR": "*** Humans have escaped! ***",
+      "TW": "*** 人類成功逃脫！ ***"
+    }
   }
 }

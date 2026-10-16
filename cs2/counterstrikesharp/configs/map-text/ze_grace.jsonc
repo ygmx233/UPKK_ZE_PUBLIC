@@ -1,32 +1,102 @@
 {
-	"> 20": {
-	  "translation": "> 20秒"
-	},
-	"> 30": {
-	  "translation": "> 30秒"
-	},
-	"> 40": {
-	  "translation": "> 40秒"
-	},
-	"> Gold": {
-	  "translation": "> 璀璨回响"
-	},
-	"> Map by Tianli": {
-	  "translation": "> 地图作者：Tianli 翻译：Asteri3m"
-	},
-	"> Something sinister happened in heaven ...": {
-	  "translation": "> 在天堂发生了一些阴险的事情..."
-	},
-	"> Special thanks : Easter": {
-	  "translation": "> 特别感谢：Easter"
-	},
-	"> TAKE THE PLUNGE !": {
-	  "translation": "> 跳下去吧！"
-	},
-	"> White": {
-	  "translation": "> 花海复苏"
-	},
-	"> ZE_GRACE": {
-	  "translation": "> ZE_GRACE"
-	}
+  "> 20": {
+    "translation": "> 20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "> 20秒",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "> 30": {
+    "translation": "> 30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "> 30秒",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "> 40": {
+    "translation": "> 40秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "> 40秒",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "> Gold": {
+    "translation": "> 璀璨回响",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゴールド",
+      "CN": "> 黄金",
+      "KR": "> 금",
+      "TW": "> 金幣"
+    }
+  },
+  "> Map by Tianli": {
+    "translation": "> 地图作者：Tianli 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "> Map by Tianli",
+      "CN": "> Tianli 制作",
+      "KR": "> 지도 제작자: Tianli",
+      "TW": "> 地圖作者：Tianli"
+    }
+  },
+  "> Something sinister happened in heaven ...": {
+    "translation": "> 在天堂发生了一些阴险的事情...",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 天に恐ろしい出来事が起きた...",
+      "CN": "> 天庭发生了某些不轨之事……",
+      "KR": "> 천계에서 무슨 사악한 일이...",
+      "TW": "> 天界發生了一件邪惡的事件……"
+    }
+  },
+  "> Special thanks : Easter": {
+    "translation": "> 特别感谢：Easter",
+    "MultiLang": {
+      "US": "",
+      "JP": "> Special thanks : Easter",
+      "CN": "> 特别鸣谢：Easter",
+      "KR": "> 특별 감사: Easter",
+      "TW": "> 特別感謝：Easter"
+    }
+  },
+  "> TAKE THE PLUNGE !": {
+    "translation": "> 跳下去吧！",
+    "MultiLang": {
+      "US": "TAKE THE PLunge !",
+      "JP": "> 飛び込め！",
+      "CN": "> 纵身一跃！",
+      "KR": "> 돌격하라!",
+      "TW": "> 縱身一躍！"
+    }
+  },
+  "> White": {
+    "translation": "> 花海复苏",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ホワイト",
+      "CN": "> 白色",
+      "KR": "> 백색",
+      "TW": "> 白色"
+    }
+  },
+  "> ZE_GRACE": {
+    "translation": "> ZE_GRACE",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ZE_GRACE",
+      "CN": "> ZE_GRACE",
+      "KR": "> ZE_GRACE",
+      "TW": "> ZE_GRACE"
+    }
   }
+}

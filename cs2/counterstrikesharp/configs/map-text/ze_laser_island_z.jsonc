@@ -1,227 +1,782 @@
 {
   "**热身还有50秒结束**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up ends in 50 seconds",
+      "JP": "ウォームアップは50秒で終了",
+      "CN": "",
+      "KR": "**열광 시간까지 50초 남음**",
+      "TW": "熱身還有50秒結束"
+    }
   },
   "**地图作者: 银月筱瑶**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Map Author: Yin Yue Xiao Yao",
+      "JP": "マップ作者: 銀月篠瑶",
+      "CN": "",
+      "KR": "**맵 제작자: 은월소요**",
+      "TW": "地圖作者：銀月筱瑤"
+    }
   },
   "**热身还有40秒结束**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up ends in 40 seconds",
+      "JP": "ウォームアップは40秒で終了",
+      "CN": "",
+      "KR": "**열광 시간까지 40초 남음**",
+      "TW": "熱身還有40秒結束"
+    }
   },
   ">>人类掌握了治愈元素的力量<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>Humans have mastered the power of healing elements<<",
+      "JP": ">>人類が治癒要素の力を掌握した<<",
+      "CN": ">>人类掌握了1疗元素的力量<<",
+      "KR": ">>인류가 치유 요소의 힘을 깨달았습니다<<",
+      "TW": "<<人類掌握了治癒元素的力量>>"
+    }
   },
   "**热身还有30秒结束**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up ends in 30 seconds",
+      "JP": "ウォームアップは30秒で終了",
+      "CN": "",
+      "KR": "**열광 시간까지 30초 남음**",
+      "TW": "熱身還有30秒結束"
+    }
   },
   "**热身还有20秒结束**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up ends in 20 seconds",
+      "JP": "ウォームアップは20秒で終了",
+      "CN": "",
+      "KR": "**열광 시간까지 20초 남음**",
+      "TW": "熱身還有20秒結束"
+    }
   },
   "**热身还有10秒结束**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Warm-up ends in 10 seconds",
+      "JP": "ウォームアップは10秒で終了",
+      "CN": "",
+      "KR": "**열광 시간까지 10초 남음**",
+      "TW": "熱身還有10秒結束"
+    }
   },
   "**难度: 简单**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Difficulty: Easy",
+      "JP": "難易度: 簡単",
+      "CN": "",
+      "KR": "**난이도: 쉬움**",
+      "TW": "難度：簡單"
+    }
   },
   "**我们需要30秒的时间来部署炸药**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We need 30 seconds to deploy the explosives.",
+      "JP": "爆薬設置に30秒かかる",
+      "CN": "",
+      "KR": "폭약 설치에 30초가 필요합니다.",
+      "TW": "我們需要30秒來部署炸藥"
+    }
   },
   "**门开了，走了！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The door is open, let's go!",
+      "JP": "扉が開いた！行け！",
+      "CN": "门开了，走吧！",
+      "KR": "문이 열렸습니다. 가자!",
+      "TW": "門開了，快走！"
+    }
   },
   "**房子的出口有个木门，炸掉它！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "There is a wooden door at the house's exit. Blow it up!",
+      "JP": "建物の出口に木製の扉がある。爆破しろ！",
+      "CN": "",
+      "KR": "현관문에 나무 문이 있습니다. 부수세요!",
+      "TW": "房子的出口有扇木門，把它炸掉！"
+    }
   },
   "**快跑！！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Run!!",
+      "JP": "逃げて！！",
+      "CN": "快跑!!",
+      "KR": "달려!!",
+      "TW": "快跑！！"
+    }
   },
   "**没有后退的路了!!**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "There's no turning back!!",
+      "JP": "退路はない!!",
+      "CN": "",
+      "KR": "물러날 길 없습니다!!",
+      "TW": "沒有退路了！！"
+    }
   },
   "**地面的泥土很松软，快找找下面有什么**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The soil on the ground is soft. Hurry and see what's underneath.",
+      "JP": "地表の土は柔らかい。下になにがあるか探せ",
+      "CN": "",
+      "KR": "땅이 매우 뭉툭합니다. 아래에 무언가가 있는지 확인하세요.",
+      "TW": "地面的泥土很鬆軟，快找找下面有什麼"
+    }
   },
   "**快走！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry up!",
+      "JP": "早く行け！",
+      "CN": "",
+      "KR": "빠르게!",
+      "TW": "快走！"
+    }
   },
   "**地下实验室？**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Underground lab?",
+      "JP": "地下研究所？",
+      "CN": "",
+      "KR": "지하 연구소?",
+      "TW": "地下實驗室？"
+    }
   },
   "**25秒后打开实验室大门**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Laboratory door opens in 25 seconds.",
+      "JP": "25秒後に実験室の扉が開く",
+      "CN": "",
+      "KR": "25초 후 연구소문이 열립니다",
+      "TW": "**25秒後打開實驗室大門**"
+    }
   },
   "**门开了，快跑！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The door is open, run!",
+      "JP": "扉が開いた！走れ！",
+      "CN": "",
+      "KR": "문이 열렸습니다, 빨리 도망가세요!",
+      "TW": "**門開了，快跑！**"
+    }
   },
   "**这道门还要15秒才能打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This door will take another 15 seconds to open.",
+      "JP": "この扉はさらに15秒かかる",
+      "CN": "",
+      "KR": "이 문은 아직 15초 후에 열립니다",
+      "TW": "**這道門還要15秒才能打開**"
+    }
   },
   "**ok,Let's gogogo**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ok,Let's gogogo",
+      "CN": "好的，我们出发吧",
+      "KR": "좋아, 같이 가자!",
+      "TW": "ok,Let's gogogo"
+    }
   },
   "**有一块石头挡住了去路**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "There's a rock blocking the way.",
+      "JP": "道が岩に塞がれている",
+      "CN": "",
+      "KR": "돌이 길을 막고 있다",
+      "TW": "**有一塊石頭擋住了去路**"
+    }
   },
   "**想办法开路，快！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Clear a path, hurry!",
+      "JP": "開通手段を考えろ！急げ！",
+      "CN": "***想法打通道路，快！***",
+      "KR": "길을 여는 방법을 찾아라, 빨리!",
+      "TW": "**想辦法開路，快！**"
+    }
   },
   "**再坚持10秒！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hang on for another 10 seconds!",
+      "JP": "あと10秒、もう少しだ！",
+      "CN": "",
+      "KR": "10초만 더 버텨봐!",
+      "TW": "**再堅持10秒**！"
+    }
   },
   "**快跑！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Run!",
+      "JP": "走れ！",
+      "CN": "",
+      "KR": "빨리 도망가!",
+      "TW": "**快跑！**"
+    }
   },
   "**不对，有东西，快闪开！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Wait, something's wrong, move!",
+      "JP": "**違う、何かある！すぐにどけ**",
+      "CN": "",
+      "KR": "아니야, 물건이 있어!빨리 피해!",
+      "TW": "**不對，有東西，快閃開！**"
+    }
   },
   "**快上飞机！不要发呆了！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry up and get on the plane! Don't space out!",
+      "JP": "**急いで機体へ！ぼんやりしている場合じゃない！**",
+      "CN": "",
+      "KR": "비행기에 타세요!멍하니 서있지 마세요!",
+      "TW": "**快上飛機！不要發呆了！**"
+    }
   },
   "**给我30秒启动飞机，我们马上就能离开这个鬼地方了！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 30 seconds to start the plane, and we'll get out of this hellhole immediately!",
+      "JP": "**私に30秒くれ。機体を起動して、すぐにこの地獄から逃れよう！**",
+      "CN": "",
+      "KR": "내가 비행기를 30초 동안 기동하면, 우리는 바로 이 지옥 같은 곳에서 벗어날 수 있습니다!",
+      "TW": "**給我30秒啟動飛機，我們馬上就能離開這個鬼地方了！**"
+    }
   },
   "**最后5秒，飞机要走了！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "5 seconds remaining! The plane is leaving!",
+      "JP": "**あと5秒。離陸準備中！**",
+      "CN": "",
+      "KR": "마지막 5초, 비행기가 떠납니다!",
+      "TW": "**最後5秒，飛機要走了！**"
+    }
   },
   "**你完成了第一关**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "You have completed Level 1.",
+      "JP": "**第1ステージクリア**",
+      "CN": "",
+      "KR": "당신은 1라운드를 완료했습니다",
+      "TW": "你完成了第一關"
+    }
   },
   "**难度: 普通**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Difficulty: Normal",
+      "JP": "**難易度: ノーマル**",
+      "CN": "",
+      "KR": "난이도: 보통",
+      "TW": "**難度: 普通**"
+    }
   },
   ">>冰魔法被一位小可爱学会了<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>The cute little one has learned Ice Magic.<<",
+      "JP": ">>氷魔法をひとりの可愛い子が習得<<",
+      "CN": ">>1位小可爱学会了冰魔法<<",
+      "KR": "얼음 마법을 어린 소녀가 익혔습니다<<",
+      "TW": ">>冰魔法被一位小可愛學會了<<"
+    }
   },
   "**僵尸掌握了神秘的力量！xing(刀声) **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The zombie has gained mysterious powers! *Clang* (sound of a sword being drawn)",
+      "JP": "**ゾンビが神秘の力を手に入れた！スィン（刃物音）**",
+      "CN": "",
+      "KR": "좀비는 신비한 힘을 습득했습니다!딩(Ding) **",
+      "TW": "**殭屍掌握了神秘的力量！xing(刀聲) **"
+    }
   },
   "**僵尸神力已被拿起**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie divine power has been acquired.",
+      "JP": "エビの神力を持てた",
+      "CN": "",
+      "KR": "**좀비 신력이 들어있는 아이템을 획득했습니다**",
+      "TW": "**已拾取僵尸神力**"
+    }
   },
   "**僵尸毒已被拿起**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Zombie Poison has been acquired**",
+      "JP": "エビの毒を持てた",
+      "CN": "",
+      "KR": "**좀비 독이 들어있는 아이템을 획득했습니다**",
+      "TW": "**已拾取僵尸毒液**"
+    }
   },
   "**僵尸加速已被拿起**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Zombie Speed Boost has been acquired**",
+      "JP": "エビのスピードアップを持てた",
+      "CN": "***僵尸加速已拾取***",
+      "KR": "**좀비 가속이 들어있는 아이템을 획득했습니다**",
+      "TW": "**已拾取僵尸加速剂**"
+    }
   },
   ">>人类掌握了风元素的力量<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>Humanity has mastered the power of wind.<<",
+      "JP": "<<人類が風元素の力を持っている>>",
+      "CN": "",
+      "KR": ">>인류가 풍元素的 힘을 습득했습니다<<",
+      "TW": ">>人类已掌握風元素之力<<"
+    }
   },
   "**私人弹药库已被拿起 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Private Armory has been acquired**",
+      "JP": "プライベート弾薬庫を持てた",
+      "CN": "",
+      "KR": "**사적 탄약고가 위치를 나타냅니다**",
+      "TW": "**已拾取私人彈藥庫**"
+    }
   },
   "**地下的入口有许多石头 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**There are many stones at the entrance underground.**",
+      "JP": "地下の入口には多くの岩がある",
+      "CN": "地下入口有許多石頭 ***",
+      "KR": "지하 입구에는 많은 돌이 있습니다**",
+      "TW": "**地下入口堆滿石塊**"
+    }
   },
   "**马上去清理，我们时间不多 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>Clear it out immediately; we don't have much time.<<",
+      "JP": "急いで片付けよう。時間がない",
+      "CN": "",
+      "KR": "**바로 청소하세요, 시간이 얼마 없습니다**",
+      "TW": "**趕緊清理，我們時間不多。**"
+    }
   },
   "**前面似乎是死路 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>It seems like a dead end ahead.<<",
+      "JP": "前が死の道に思える",
+      "CN": "前面似乎是个 dead end ***",
+      "KR": "**앞쪽에는 사거리가 있는 것 같습니다**",
+      "TW": "**前方似乎是死路。**"
+    }
   },
   "**那就干脆把路炸开，别犹豫了**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>Then just blow a hole through the wall. Don't hesitate.<<",
+      "JP": "なら、迷うことなく道を爆破しよう！",
+      "CN": "",
+      "KR": "감격 없이 그냥 길을 폭파하자!",
+      "TW": "**那就乾脆把路炸開，別猶豫了**"
+    }
   },
   ">>人类掌握了火元素的力量<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>Humans have mastered the power of Fire Element<<",
+      "JP": ">>人類が火元素の力を掌握<<",
+      "CN": "",
+      "KR": ">> 인간이 화염 속성을 통제했다. <<",
+      "TW": ">>人類掌握了火元素的力量<<"
+    }
   },
   "**铁门挡住了路，解锁眼前的大门！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Iron door blocks the way. Unlock the door ahead!**",
+      "JP": "鉄製の扉が道を塞いでいる。目の前のドアのロックを解除して！",
+      "CN": "",
+      "KR": "철문이 길을 막고 있다! 지금 이 철문을 해독해라!",
+      "TW": "**鐵門擋住了路，解鎖眼前的大門！**"
+    }
   },
   "**直接炸掉了，走！ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Blew it straight up. Let's go!**",
+      "JP": "爆破した！ 行くぞ！",
+      "CN": "",
+      "KR": "폭파시켰다! 가자!",
+      "TW": "**直接炸掉了，走！**"
+    }
   },
   "**这块地板下有水流的声音，可能有水路，快想办法给这块砖砸开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**There's the sound of water under this floor. There might be a water path. Hurry and break open this tile.**",
+      "JP": "床下に水の流れが聞こえる。水路があるはずだ！一刻も早くこのブロックを叩き割れ！",
+      "CN": "",
+      "KR": "이 바닥 아래에서 물이 흐르는 소리가 들린다. 수로가 있을지도 모른다! 이 돌판을 빨리 깨부수자!",
+      "TW": "**這塊地板下有水流聲，可能有水路，快想辦法把這塊磚砸開**"
+    }
   },
   "**水路已经被打开了, 快跑**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**The water path is now open. Run!**",
+      "JP": "水路が開通した！急いで逃げろ！",
+      "CN": "水路已经打开，快跑",
+      "KR": "수로가 열렸다! 달리고 있어!",
+      "TW": "**水路已經打開了，快跑**"
+    }
   },
   "**电梯需要45秒的时间来激活，一定要坚持住，我们马上就可以离开了**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**It takes 45 seconds to activate the elevator. Hold on! We can leave soon.**",
+      "JP": "エレベーターを起動するまで45秒かかる。踏ん張れ！すぐに逃げられる！",
+      "CN": "",
+      "KR": "엘리베이터는 작동까지 45초가 필요합니다. 버티세요! 곧 떠날 수 있습니다.",
+      "TW": "**電梯需要45秒的時間來啟動，一定要堅持住，我們馬上就可以離開了**"
+    }
   },
   "**最后10秒**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Last 10 seconds**",
+      "JP": "残り10秒",
+      "CN": "",
+      "KR": "마지막 10초",
+      "TW": "**最後10秒**"
+    }
   },
   ">>人类掌握了土元素的力量<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>Humans have mastered the power of Earth Element<<",
+      "JP": ">>人類は土元素の力を手に入れた<<",
+      "CN": "",
+      "KR": ">> 인간은 토 요소의 힘을掌握했다 <<",
+      "TW": ">>人類掌握了土元素的力量<<"
+    }
   },
   "**60秒后我们将引爆炸弹！boom！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**The bomb will explode in 60 seconds! boom!**",
+      "JP": "**60秒後に爆発します！boom！**",
+      "CN": "",
+      "KR": "**60초 후 폭발합니다! 폭!**",
+      "TW": "**60秒後我們將引爆炸彈！boom！**"
+    }
   },
   "**快跑到船上！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Quick, get to the boat!",
+      "JP": "**船に乗り込まれ！**",
+      "CN": "",
+      "KR": "**배로 빨리 도망치자!**",
+      "TW": "**快跑到船上！**"
+    }
   },
   "**最后10秒钟**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Last 10 seconds",
+      "JP": "**残り10秒**",
+      "CN": "",
+      "KR": "**마지막 10초**",
+      "TW": "**最後10秒鐘**"
+    }
   },
   "**你完成了普通难度**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "You completed Normal difficulty",
+      "JP": "**通常難易度をクリアしました**",
+      "CN": "",
+      "KR": "**보통 난이도 클리어**",
+      "TW": "**你完成了普通難度**"
+    }
   },
   "**难度: 困难**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Difficulty: Hard",
+      "JP": "**難度: 困難**",
+      "CN": "",
+      "KR": "**난이도: 하드**",
+      "TW": "**難度: 困難**"
+    }
   },
   "**这个方向有一条出路**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "There's an exit in this direction",
+      "JP": "**この先に抜け道があります**",
+      "CN": "",
+      "KR": "**이쪽으로 탈출구가 있습니다**",
+      "TW": "**這個方向有一條出路**"
+    }
   },
   "**快跟上，保护好船只！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry up and keep the ship safe!",
+      "JP": "**早く追いついて、船を守れ！**",
+      "CN": "",
+      "KR": "**빨리 따라와! 배를 지키자!**",
+      "TW": "**快跟上，保護好船隻！**"
+    }
   },
   "**好大一块石头**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "That's a huge rock",
+      "JP": "大きすぎる岩！",
+      "CN": "好好1大块石头",
+      "KR": "정말 큰 바위네",
+      "TW": "好大的一塊石頭"
+    }
   },
   "**准备爆破，我们上山！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Prep for the blast—up the mountain we go!",
+      "JP": "爆破の準備！山頂へ行くぞ！",
+      "CN": "",
+      "KR": "폭파 준비, 우리 산으로 올라가자!",
+      "TW": "準備爆破，我們上山！"
+    }
   },
   "**路上的障碍物很多**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "There are many obstacles on the path.",
+      "JP": "道に障害物が多数",
+      "CN": "",
+      "KR": "길에 장애물이 많아",
+      "TW": "路上的障礙物很多"
+    }
   },
   "**快点清理掉障碍物，前面就是山顶了！冲上去！！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Clear the obstacles quickly! The summit is ahead—charge!!",
+      "JP": "早く障害物を取り除け！頂上はすぐそこだ！突撃！！",
+      "CN": "",
+      "KR": "장애물을 빨리 처리하자, 앞은 산정이야! 올라가자!!",
+      "TW": "快點清理掉障礙物，前面就是山頂了！衝上去！！"
+    }
   },
   "**逃离岛屿的大门就在眼前**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate to escape the island is right before us!",
+      "JP": "島から脱出する扉が見えてきた",
+      "CN": "",
+      "KR": "섬을 탈출하는 문이 눈앞이다",
+      "TW": "逃離島嶼的大門就在眼前"
+    }
   },
   "**坚持住，我们马上就可以离开了！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on! We'll be leaving soon!",
+      "JP": "踏ん張れ！すぐに離脱できる！",
+      "CN": "",
+      "KR": "버텨봐, 곧 떠날 수 있을 거야!",
+      "TW": "堅持住，我們馬上就可以離開了！"
+    }
   },
   "**传送点将会被移至山谷中部**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The teleporter will be moved to the middle of the valley.",
+      "JP": "転送ポイントは谷の中央に移設される",
+      "CN": "",
+      "KR": "이송 지점이 계곡 중간으로 이동됩니다",
+      "TW": "傳送點將移至山谷中部"
+    }
   },
   "**快往下跳！！！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Jump down quickly!!!",
+      "JP": "急いで飛び降りろ！！！",
+      "CN": "快往下跳!!!",
+      "KR": "빨리 아래로 뛰어!!!",
+      "TW": "快往下跳！！！"
+    }
   },
   "**跑向大海！！！**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Run to the sea!!!",
+      "JP": "海へ走れ！！！",
+      "CN": "跑向大海!!!!!",
+      "KR": "바다로 돌진！！！",
+      "TW": "**奔向大海！！！**"
+    }
   },
   "**你逃离了跳刀岛...**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** You escaped Jump Island... **",
+      "JP": "スプリング島からの脱出に成功した…",
+      "CN": "",
+      "KR": "점프나이즈에서 탈출했다...",
+      "TW": "**你逃離了跳刀島...**"
+    }
   },
   "**感谢游玩**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Thank you for playing",
+      "JP": "プレイしていただき、ありがとうございました",
+      "CN": "",
+      "KR": "플레이해 주셔서 감사합니다",
+      "TW": "**感謝遊玩**"
+    }
   },
   "**难度：无限火力**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Difficulty: Infinite Firepower",
+      "JP": "難易度：無限火力",
+      "CN": "",
+      "KR": "난이도: 무한 화력",
+      "TW": "**難度：無限火力**"
+    }
   },
   "<<(｀⌒´メ)>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<(｀⌒´メ)>>",
+      "JP": "",
+      "CN": "<<(｀⌒´メ)>>",
+      "KR": "<<(｀⌒´メ)>>",
+      "TW": "<<(｀⌒´メ)>>"
+    }
   },
   "<<我有鱼鱼枕>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<I have a fish pillow>>",
+      "JP": "《オレにはウオノマキがあるぜ》",
+      "CN": "",
+      "KR": "<<나는 물고기 베개를 갖고 있어>>",
+      "TW": "<<我有魚魚枕>>"
+    }
   },
   "<<ze_laser_island天下第一>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<ze_laser_island is the best in the world>>",
+      "JP": "《ze_laser_islandが世界一だろ》",
+      "CN": "",
+      "KR": "<<ze_laser_island is 天下第一 (No.1)>>",
+      "TW": "<<ze_laser_island天下第一>>"
+    }
   },
   "<<敢惹我，你就是惹到棉花了(つД`)>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Dare to provoke me, and you're provoking cotton(つД`)>",
+      "JP": "<<挑戦するな、君はแคระ棉花了(つД`)>>",
+      "CN": "<<敢惹我，你就是惹到棉花了(つД`)>>",
+      "KR": "<<나를 만지면, 너는 면허증을 얻게 된다(つД`)>>",
+      "TW": "<<敢惹我，你就是惹到棉花了(つД`)>>"
+    }
   },
   "<<Ciallo～(∠・ω< )⌒☆>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Ciallo～(∠・ω< )⌒☆>>",
+      "JP": "",
+      "CN": "<<Ciallo～(∠・ω< )⌒☆>>",
+      "KR": "<<Ciallo～(∠・ω< )⌒☆>>",
+      "TW": "<<Ciallo～(∠・ω< )⌒☆>>"
+    }
   },
   "**吉祥物弹药库已被拿起**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Mascot Ammunition Kit has been picked up**",
+      "JP": "マスコットの弾薬庫を持ち上げた",
+      "CN": "",
+      "KR": "**吉祥物 탄약고가 들어 올렸습니다**",
+      "TW": "**吉祥物彈藥庫已被拿起**"
+    }
   },
   "**私人弹药库被V社带走了，现在的弹药只是个吉祥物，他会时不时说几句神志不清的话**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**The private ammunition kit was taken by Valve. The current ammo is just a mascot; it occasionally rambles incoherently.**",
+      "JP": "プライベートの弾薬庫はValveによって没収され、現在使われている弾薬は単なるマスコットであり、時々おかしな言葉を呟くようになる。",
+      "CN": "",
+      "KR": "**사적 탄약고가 V社에 의해 인계되었으며, 현재는 탄약이 그저 마스코트일 뿐입니다. 그는 때때로 황당한 말을 해댕요**",
+      "TW": "**私人彈藥庫被V社帶走了，現在的彈藥只是個吉祥物，他會時不時說出幾句神智不清的話**"
+    }
+  },
+  "**僵尸登上了飞机**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**Zombies have boarded the aircraft.**",
+      "JP": "ゾンビが飛行機に乗り込んだ",
+      "CN": "",
+      "KR": "좀비가 비행기에 탑승했습니다**",
+      "TW": "**殭屍登上了飛機**"
+    }
+  },
+  "**本关失败**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**Mission Failed**",
+      "JP": "このステージクリア不可",
+      "CN": "",
+      "KR": "**이번 맵 실패**",
+      "TW": "**本關失敗**"
+    }
+  },
+  "**僵尸上船了，本关失败**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**Zombies boarded the boat; mission failed.**",
+      "JP": "ゾンビが船に乗り込んだため、このステージクリア不可",
+      "CN": "",
+      "KR": "좀비가 배에 탑승했습니다. 이번 맵 실패",
+      "TW": "**殭屍上船了，本關失敗**"
+    }
   }
 }

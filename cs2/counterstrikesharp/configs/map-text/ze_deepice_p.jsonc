@@ -1,65 +1,212 @@
 {
   "*** ALIEN shield has been activated ***": {
-    "translation": "*** 外星人护盾已激活 ***"
+    "translation": "*** 外星人护盾已激活 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** アリーシェールドが起動 ***",
+      "CN": "*** 外星护盾已激活 ***",
+      "KR": "*** ALIEN 방패 활성화됨 ***",
+      "TW": "*** 外星盾牌已啟動 ***"
+    }
   },
   "*** Alien Reactor Overload 100% *** ": {
-    "translation": "*** 外星反应堆过载 100% ***"
+    "translation": "*** 外星反应堆过载 100% ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** アリールート過負荷 100% ***",
+      "CN": "*** 外星反应堆过载 100% ***",
+      "KR": "*** Alien 원자로 과부하 100% ***",
+      "TW": "*** 外星反應爐過載 100% ***"
+    }
   },
   "*** Alien Reactor Overload 50% *** ": {
-    "translation": "*** 外星反应堆过载 50% ***"
+    "translation": "*** 外星反应堆过载 50% ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** アリールート過負荷 50% ***",
+      "CN": "*** 外星反应堆过载 50% ***",
+      "KR": "*** Alien 원자로 과부하 50% ***",
+      "TW": "*** 外星反應爐過載 50% ***"
+    }
   },
   "*** Alienshield disabled ***": {
-    "translation": "*** 外星人护盾已禁用 ***"
+    "translation": "*** 外星人护盾已禁用 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** アリーシェールド無効化 ***",
+      "CN": "*** 外星护盾已禁用 ***",
+      "KR": "*** Aliensield 비활성화됨 ***",
+      "TW": "*** 外星盾牌已關閉 ***"
+    }
   },
   "*** Co-Mapper: starbucks ***": {
-    "translation": "*** 联合制图者: starbucks ***"
+    "translation": "*** 联合制图者: starbucks ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 共謀者: starbucks ***",
+      "CN": "*** 共同测绘员：starbucks ***",
+      "KR": "*** 공동 매퍼: starbucks ***",
+      "TW": "*** 合作映射者：starbucks ***"
+    }
   },
   "*** Defend the area until train leaves ***": {
-    "translation": "*** 防守该区域直到火车离开 ***"
+    "translation": "*** 防守该区域直到火车离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 電車が発車するまでエリアを維持 ***",
+      "CN": "*** 坚守该区域，直到火车离开 ***",
+      "KR": "*** 열차가 떠날 때까지 해당 지역 방어 ***",
+      "TW": "*** 防禦該區域，直到火車離開 ***"
+    }
   },
   "*** Defend yourself until we get it open ***": {
-    "translation": "*** 防守自己直到我们打开它 ***"
+    "translation": "*** 防守自己直到我们打开它 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 開けるまで自衛してください ***",
+      "CN": "*** 坚持防守，直到我们打开它 ***",
+      "KR": "*** 우리가 열고 있을 동안 스스로를 보호하세요 ***",
+      "TW": "*** 抵擋敵人，直到我們打開它 ***"
+    }
   },
   "*** Door is being fixed defend yourself ***": {
-    "translation": "*** 门正在修理中，防守自己 ***"
+    "translation": "*** 门正在修理中，防守自己 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉が修理されています。自衛してください ***",
+      "CN": "*** 正在修复大门，请自行防御 ***",
+      "KR": "*** 문이 수리 중입니다. 스스로를 보호하세요 ***",
+      "TW": "*** 正在修復門，請抵擋敵人 ***"
+    }
   },
   "*** Gate opens soon defend yourself ***": {
-    "translation": "*** 大门即将打开，防守自己 ***"
+    "translation": "*** 大门即将打开，防守自己 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 間もなくゲートが開く、自衛せよ ***",
+      "CN": "*** 传送门即将开启，请准备防御 ***",
+      "KR": "*** 게이트가 곧 열립니다. 자신을 방어하십시오 ***",
+      "TW": "*** 大門即將開啟，請做好防禦準備 ***"
+    }
   },
   "*** Hold back the ALIENS while calling the chopper ***": {
-    "translation": "*** 在呼叫直升机时抵挡外星人 ***"
+    "translation": "*** 在呼叫直升机时抵挡外星人 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** アリエンを押し留め、ヘリコプターを呼べ ***",
+      "CN": "*** 在呼叫直升机时抵御外星人入侵 ***",
+      "KR": "*** 이주민을 막으면서 헬기를 호출하세요 ***",
+      "TW": "*** 呼叫直升機時抵禦外星人攻擊 ***"
+    }
   },
   "*** Lift 1 is leaving soon ***": {
-    "translation": "*** 升降机1即将离开 ***"
+    "translation": "*** 升降机1即将离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** リフト1がまもなく発車 ***",
+      "CN": "*** 1号升降机即将离开 ***",
+      "KR": "*** 엘리베이터 1호가 곧 출발합니다 ***",
+      "TW": "*** 1號升降梯即將離去 ***"
+    }
   },
   "*** Lift 2 is leaving soon ***": {
-    "translation": "*** 升降机2即将离开 ***"
+    "translation": "*** 升降机2即将离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** リフト2がまもなく発車 ***",
+      "CN": "*** 2号升降机即将离开 ***",
+      "KR": "*** 엘리베이터 2호가 곧 출발합니다 ***",
+      "TW": "*** 2號升降梯即將離去 ***"
+    }
   },
   "*** Mapper: yardy ***": {
-    "translation": "*** 地图作者: yardy 翻译：Asteri3m ***"
+    "translation": "*** 地图作者: yardy 翻译：Asteri3m ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Mapper: yardy ***",
+      "CN": "*** Mapper: yardy ***",
+      "KR": "*** 맵 제작자: yardy ***",
+      "TW": "*** Mapper: yardy ***"
+    }
   },
   "*** Oh my god jump off the train before it squeezes you ***": {
-    "translation": "*** 我的天啊，在火车挤压你之前跳下去 ***"
+    "translation": "*** 我的天啊，在火车挤压你之前跳下去 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 天国だ、電車が自分を潰す前に飛び降りろ ***",
+      "CN": "*** 天哪，火车即将挤压过来前跳下去 ***",
+      "KR": "*** 오 마이 갓 기차가 조이기 전에 뛰어내리세요 ***",
+      "TW": "*** 天哪，在火車擠壓你之前跳下去 ***"
+    }
   },
   "*** STEAMGAMERS.COM ***": {
-    "translation": "*** 访问STEAMGAMERS.COM ***"
+    "translation": "*** 访问STEAMGAMERS.COM ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** STEAMGAMERS.COM ***",
+      "CN": "*** STEAMGAMERS.COM ***",
+      "KR": "*** STEAMGAMERS.COM ***",
+      "TW": "*** STEAMGAMERS.COM ***"
+    }
   },
   "*** Sea Hawk arrival immediately ***": {
-    "translation": "*** 海鹰号立即到达 ***"
+    "translation": "*** 海鹰号立即到达 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** シーホーク即座に到着 ***",
+      "CN": "*** 海鹰号立即抵达 ***",
+      "KR": "바다 독수리 도착 즉시 ***",
+      "TW": "*** Sea Hawk 立即到達 ***"
+    }
   },
   "*** Sea Hawk arrival soon ***": {
-    "translation": "*** 海鹰号即将到达 ***"
+    "translation": "*** 海鹰号即将到达 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** シーホーク接近 ***",
+      "CN": "*** 鹰眼号即将抵达 ***",
+      "KR": "*** 바다hawk 곧 도착 ***",
+      "TW": "***海鷹即將抵達***"
+    }
   },
   "*** Second gate stuck ***": {
-    "translation": "*** 第二道门卡住了 ***"
+    "translation": "*** 第二道门卡住了 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 第2ゲート閉塞 ***",
+      "CN": "*** 第二道闸门卡住 ***",
+      "KR": "*** 두 번째 게이트 멈춤 ***",
+      "TW": "***第二道門卡住***"
+    }
   },
   "*** TO BE CONTINUED ***": {
-    "translation": "*** 待续 ***"
+    "translation": "*** 待续 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** つづく ***",
+      "CN": "*** 未完待续 ***",
+      "KR": "*** 계속됨 ***",
+      "TW": "***未完待續***"
+    }
   },
   "*** Train departing ***": {
-    "translation": "*** 火车出发 ***"
+    "translation": "*** 火车出发 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 列車発車 ***",
+      "CN": "*** 列车即将发车 ***",
+      "KR": "*** 기차 출발 ***",
+      "TW": "***列車即將發車***"
+    }
   },
   "*** Train is leaving soon ***": {
-    "translation": "*** 火车即将离开 ***"
+    "translation": "*** 火车即将离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 間もなく列車発車 ***",
+      "CN": "*** 列车即将开出 ***",
+      "KR": "*** 기차 곧 출발 ***",
+      "TW": "***列車即將離開***"
+    }
   }
 }

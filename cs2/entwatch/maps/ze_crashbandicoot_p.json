@@ -1,28 +1,34 @@
 [
-	{
-		"Name": "super_tappo",
-		"ShortName": "super_tappo",
-		"Color": "{default}",
-		"HammerID": "1264",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "大炮",
+    "ShortName": "大炮",
+    "Color": "{default}",
+    "HammerID": 1264,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "tappo_nappi",
+        "ButtonID": 3059,
+        "ButtonClass": "func_button",
+        "Filter": "tappo_kantaja",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 25,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
+      }
+    ]
+  }
 ]

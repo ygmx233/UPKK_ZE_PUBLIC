@@ -1,0 +1,252 @@
+{
+  "***Prepare defences! 35 seconds!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "防備を準備せよ！ 35秒後！",
+      "CN": "***准备防御！还剩35秒！***",
+      "KR": "***방어 준비! 35초 남음!***",
+      "TW": "***準備防禦！35秒內！***"
+    }
+  },
+  "***Intro song is Spanish Flea***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "イントロソングは『Spanish Flea』",
+      "CN": "***开场曲《西班牙跳蚤舞曲》***",
+      "KR": "***인트로 음악은 스페인 벼룩***",
+      "TW": "***開場歌曲為《西班牙跳蚤》***"
+    }
+  },
+  "***Middle song is Red Canyon by F-Zero***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "中盤ソングは『F-Zero』の『Red Canyon』",
+      "CN": "***中段曲F-Zero《红峡谷》***",
+      "KR": "***중간 음악은 F-Zero의 레드 캐니언***",
+      "TW": "***中段歌曲為F-Zero的《紅峽谷》***"
+    }
+  },
+  "***Finale song is Tristan by Two Steps From Hell***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "フィナーレソングは『Two Steps From Hell』の『Tristan』",
+      "CN": "***终场曲Two Steps From Hell《特里斯坦》***",
+      "KR": "***피날레 노래는 Two Steps From Hell의 트리스탄입니다***",
+      "TW": "***最終曲為Two Steps From Hell的《崔斯坦》***"
+    }
+  },
+  "****Map by Eugenio Motanum Roman****": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：Eugenio Motanum Roman",
+      "CN": "***地图制作：Eugenio Motanum Roman****",
+      "KR": "****에우게니오 모타눔 로만 작성 맵****",
+      "TW": "****地圖由Eugenio Motanum Roman設計****"
+    }
+  },
+  "****Port by Linyan****": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポート制作：Linyan",
+      "CN": "***Port由Linyan制作****",
+      "KR": "****Linyan이 포팅한 모듈입니다****",
+      "TW": "****港口由Linyan設計****"
+    }
+  },
+  "***5 seconds left!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒！",
+      "CN": "***剩余5秒！***",
+      "KR": "***남은 시간 5초!**",
+      "TW": "***剩餘5秒！***"
+    }
+  },
+  "***Humans Run to next exit***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "人間は次の出口へ向かって走る",
+      "CN": "***人类逃往下一个出口***",
+      "KR": "***인간들이 다음 출구로 이동***",
+      "TW": "***人類逃往下一個出口***"
+    }
+  },
+  "***Afk Killer is enabled for 5 seconds***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***アフレキル殺しは5秒間有効です***",
+      "CN": "***5秒后启用挂机杀手***",
+      "KR": "***5초 동안 아푼 킬러 활성화***",
+      "TW": "***反殺系統啟用，持續5秒***"
+    }
+  },
+  "***Zombies are out of jail***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビが刑務所から脱獄しました***",
+      "CN": "***僵尸出狱了***",
+      "KR": "***좀비 감옥 탈출***",
+      "TW": "***殭屍已逃出監獄***"
+    }
+  },
+  "***Protect yourself from Jumpy Zomby!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ジャンピングゾンビから身を守れ！**",
+      "CN": "***保护自己免受跳跃僵尸的攻击！**",
+      "KR": "***점핑 좀비로부터 자신을 보호하세요!**",
+      "TW": "***請抵禦Jumpy Zomby的攻擊！***"
+    }
+  },
+  "***40 seconds left!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り40秒！**",
+      "CN": "***剩余40秒！**",
+      "KR": "***남은 시간 40초!**",
+      "TW": "***剩餘40秒！***"
+    }
+  },
+  "***Humans Run to next exit**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***人間は次の出口へ逃走中***",
+      "CN": "***人类逃往下一个出口**",
+      "KR": "***인간 다음 exits로 도주***",
+      "TW": "***人類請逃往下一個出口***"
+    }
+  },
+  "***Zombies have broken out of Jail!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビが刑務所から脱獄！**",
+      "CN": "***僵尸已逃出监狱！**",
+      "KR": "***좀비가 감옥에서 탈출했습니다!***",
+      "TW": "***殭屍已突破監獄！***"
+    }
+  },
+  "***Prepare defences! 45 seconds!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***準備しろ！残り45秒！**",
+      "CN": "***准备防御！45秒！**",
+      "KR": "***방어 준비! 45초!**",
+      "TW": "***做好防禦準備！45秒！***"
+    }
+  },
+  "***Zombies out of Jail**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビ、刑務所脱獄***",
+      "CN": "***僵尸出狱**",
+      "KR": "***좀비 감옥 탈출***",
+      "TW": "***殭屍逃出監獄***"
+    }
+  },
+  "***Final Defense! Survive 1 minutef**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***最終防衛！1分間生き延びろ**",
+      "CN": "***最终防线！坚持存活1分钟**",
+      "KR": "***최종 방어! 1분간 생존하세요**",
+      "TW": "***最終防衛！堅持 1 分鐘**"
+    }
+  },
+  "***Zombies who finish surf will get 1.5 speed**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サフを完了したゾンビは速度が1.5倍になる**",
+      "CN": "***完成冲刺的僵尸将获得1.5倍速度**",
+      "KR": "***서핑 완료 자오는 유령의 속도가 1.5배로 증가**",
+      "TW": "***完成衝浪的殭屍將獲得 1.5 倍速度**"
+    }
+  },
+  "***Teleporting every human in 30 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒以内に全員をテレポートさせる**",
+      "CN": "***30秒内传送所有人类**",
+      "KR": "***30초 내 모든 인간 텔레포트 예정**",
+      "TW": "***30 秒內傳送所有人類**"
+    }
+  },
+  "***Sealing the place in 50 seconds!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***50秒後に封鎖されます！**",
+      "CN": "***50秒后封锁该区域！",
+      "KR": "***50초 후 구역 봉쇄!**",
+      "TW": "***50 秒後封鎖此地！"
+    }
+  },
+  "***Humans have been teleported**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***人間がテレポートされました**",
+      "CN": "***人类已传送完毕**",
+      "KR": "***인간이 텔레포트되었습니다**",
+      "TW": "***人類已被傳送**"
+    }
+  },
+  "***Sealing the place in 20 seconds!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***20秒後に封鎖されます！**",
+      "CN": "***20秒后封锁该区域！",
+      "KR": "***20초 후 구역 봉쇄!**",
+      "TW": "***20 秒後封鎖此地！"
+    }
+  },
+  "***Zombies have been teleported**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビがテレポートされました**",
+      "CN": "***僵尸已传送完毕**",
+      "KR": "***유령이 텔레포트되었습니다**",
+      "TW": "***殭屍已被傳送**"
+    }
+  },
+  "***Sealing the place in 5 seconds!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***5秒後に封鎖されます！**",
+      "CN": "***5秒后封锁该区域！",
+      "KR": "***5초 후 구역 봉쇄!**",
+      "TW": "***5 秒後封鎖此地！"
+    }
+  },
+  "***Doors closing!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアが閉じます！**",
+      "CN": "***门即将关闭！",
+      "KR": "***문이 닫힙니다!**",
+      "TW": "門正在關閉！"
+    }
+  }
+}

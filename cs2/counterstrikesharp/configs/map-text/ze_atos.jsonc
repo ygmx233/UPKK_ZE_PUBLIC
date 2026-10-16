@@ -1,0 +1,632 @@
+{
+  "▲MAP BY 酸奶▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "▲MAP BY 酸奶▲",
+      "JP": "▲MAP BY 酸奶▲",
+      "CN": "",
+      "KR": "▲지도: 酸奶▲",
+      "TW": "▲由酸奶製作的地圖▲"
+    }
+  },
+  "▲TRIP 1▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲TRIP 1▲",
+      "CN": "▲旅程 1▲",
+      "KR": "▲여행 1▲",
+      "TW": "▲旅程 1▲"
+    }
+  },
+  "▲PUT ON YOUR HEADPHONE AND ENJOY TRIPS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ヘッドフォンを着用し、旅を楽しんでください▲",
+      "CN": "▲戴上耳机，享受旅程▲",
+      "KR": "▲헤드폰을 착용하고 여행을 즐겨주세요▲",
+      "TW": "▲戴上耳機，享受旅程▲"
+    }
+  },
+  "<--Hold for 10s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "▲5 SECONDS LEFT▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲残り5秒▲",
+      "CN": "▲剩余 5 秒▲",
+      "KR": "▲5초 후 시작▲",
+      "TW": "▲剩餘 5 秒▲"
+    }
+  },
+  "<--Hold for 15s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "▲FIND AND USE WALL ITEM TO SPAWN A ROAD▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲壁のアイテムを見つけて使用して、道路を生成してください▲",
+      "CN": "▲找到并使用墙面道具以生成道路▲",
+      "KR": "▲벽에 있는 물건을 찾고 사용하여 길을 만드세요▲",
+      "TW": "▲尋找並使用牆壁道具以生成道路▲"
+    }
+  },
+  "<--Hold for 30s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "▲ELEVATOR WILL START IN 30 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲エレベーターは30秒後に開始します▲",
+      "CN": "▲电梯将在 30 秒后启动▲",
+      "KR": "▲엘리베이터가 30초 후 시작됩니다▲",
+      "TW": "▲電梯將於 30 秒後啟動▲"
+    }
+  },
+  "<--Hold for 20s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "▲HOLD FOR 30 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲30秒間押し続けてください▲",
+      "CN": "▲持续按住 30 秒▲",
+      "KR": "▲30초 동안 누르고 계세요▲",
+      "TW": "▲按住持續 30 秒▲"
+    }
+  },
+  "▲ELEVATOR WILL START IN 5 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲エレベーターは5秒後に開始します▲",
+      "CN": "▲电梯将在 5 秒后启动▲",
+      "KR": "▲엘리베이터가 5초 후 시작됩니다▲",
+      "TW": "▲電梯將於 5 秒後啟動▲"
+    }
+  },
+  "<--Hold for 25s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<--Hold for 35s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "▲TRIP FINISHED▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行完了▲",
+      "CN": "▲旅程结束▲",
+      "KR": "▲여행 완료▲",
+      "TW": "▲旅程結束▲"
+    }
+  },
+  "▲TRIP 2▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行 2▲",
+      "CN": "▲旅行 2▲",
+      "KR": "▲여행 2▲",
+      "TW": "▲旅程 2▲"
+    }
+  },
+  "<--Hold for 45s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<--Hold for 60s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "▲TRIP 3▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行 3▲",
+      "CN": "▲旅行 3▲",
+      "KR": "▲여행 3▲",
+      "TW": "▲旅程 3▲"
+    }
+  },
+  "<--Hold for 40s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "▲TRIP 4▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行 4▲",
+      "CN": "▲旅行 4▲",
+      "KR": "▲여행 4▲",
+      "TW": "▲旅程 4▲"
+    }
+  },
+  "▲FIND A PLACE AND PLAY WITH YOUR PARTNER▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲パートナーと過ごす場所を見つけ、遊んでください▲",
+      "CN": "▲选择一个地点并与你的伙伴互动▲",
+      "KR": "▲애인과 함께 장소를 찾아 게임을 하세요▲",
+      "TW": "▲尋找地點並與您的夥伴一起遊玩▲"
+    }
+  },
+  "▲SOME PLACES CAN ONLY STAY 5 TO 15 HUMANS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲一部の場所は5〜15人の人間しか滞在できません▲",
+      "CN": "▲某些地点只能容纳 5 到 15 名玩家▲",
+      "KR": "▲일부 장소는 5~15명의 인간만 체류할 수 있습니다▲",
+      "TW": "▲部分場所僅限 5 至 15 名玩家停留▲"
+    }
+  },
+  "▲HOLD FOR 180 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲180秒間保持▲",
+      "CN": "▲按住 180 秒▲",
+      "KR": "▲180초간 보유▲",
+      "TW": "▲持續按住 180 秒▲"
+    }
+  },
+  "<--Hold for 180s-->": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "▲TRIP 5▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行 5▲",
+      "CN": "▲旅行 5▲",
+      "KR": "▲여행 5▲",
+      "TW": "▲旅程 5▲"
+    }
+  },
+  "▲WAITING FOR 15 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲15秒後に待機▲",
+      "CN": "▲等待 15 秒▲",
+      "KR": "▲15초 간 대기 중▲",
+      "TW": "▲等待 15 秒▲"
+    }
+  },
+  "▲HOLD HOUSE FOR 20 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ハウスを20秒間保持▲",
+      "CN": "▲坚守房屋20秒▲",
+      "KR": "▲가옥 20초간 유지▲",
+      "TW": "▲佔領房子 20 秒▲"
+    }
+  },
+  "▲WAITING BOAT FOR 25 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲25秒後にボート待機▲",
+      "CN": "▲等待船只25秒▲",
+      "KR": "▲선박 25초간 대기 중▲",
+      "TW": "▲等待船隻 25 秒▲"
+    }
+  },
+  "▲WAITING FOR 10 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲10秒後に待機▲",
+      "CN": "▲等待10秒▲",
+      "KR": "▲10초 간 대기 중▲",
+      "TW": "▲等待 10 秒▲"
+    }
+  },
+  "▲WAITING FOR 35 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲35秒後に待機▲",
+      "CN": "▲等待35秒▲",
+      "KR": "▲35초 간 대기 중▲",
+      "TW": "▲等待 35 秒▲"
+    }
+  },
+  "▲ELEVATOR WILL MOVE IN 25 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲エリ베이터は25秒後に作動▲",
+      "CN": "▲电梯将在25秒后移动▲",
+      "KR": "▲엘리베이터 25초 후 작동▲",
+      "TW": "▲電梯將於 25 秒後移動▲"
+    }
+  },
+  "▲BOMB WILL EXPLODE IN 20 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲爆弾は20秒後に爆発▲",
+      "CN": "▲炸弹将在20秒后爆炸▲",
+      "KR": "▲폭발 20초 전▲",
+      "TW": "▲炸彈將於 20 秒後爆炸▲"
+    }
+  },
+  "▲OMG!WE NEED FIND ANOTHER WAY▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲おっと！別のルートを探す必要があります▲",
+      "CN": "▲天哪！我们需要找另一条路▲",
+      "KR": "▲이런! 다른 방법을 찾아야 해▲",
+      "TW": "▲天哪！我們需要找另一條路▲"
+    }
+  },
+  "▲GREAT!NEW WAY WILL OPEN IN 30S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲グレート！30秒後、新しい方法が開きます▲",
+      "CN": "▲太棒了！新路线将在30秒后开启▲",
+      "KR": "▲좋아! 30초 후에 새로운 길이 열려▲",
+      "TW": "▲太棒了！30秒後將開啟新方式▲"
+    }
+  },
+  "▲DAMN!IT'S GOING TO RAIN▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲くそ！雨が降りそうだ▲",
+      "CN": "▲该死！要下雨了▲",
+      "KR": "▲헛! 비가 올 것 같아▲",
+      "TW": "▲該死！要下雨了▲"
+    }
+  },
+  "▲WE NEED FIND A PLACE FOR SHELTER ON THE SHIP▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲船内で避難場所を見つける必要がある▲",
+      "CN": "▲我们需要在船上找个避雨的地方▲",
+      "KR": "▲배 안에서 피난 장소를 찾아야 해▲",
+      "TW": "▲我們需要在船上找個地方躲雨▲"
+    }
+  },
+  "▲HOLD FOR 60S UNTIL RAIN STOPS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲雨が止まるまで60秒保持▲",
+      "CN": "▲坚持60秒直到雨停▲",
+      "KR": "▲비가 그칠 때까지 60초 버텨▲",
+      "TW": "▲撐過60秒直到雨停▲"
+    }
+  },
+  "▲HOLD FOR 20 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲20秒間保持▲",
+      "CN": "▲坚持20秒▲",
+      "KR": "▲20초 버텨▲",
+      "TW": "▲持續20秒▲"
+    }
+  },
+  "▲HOLD FOR 10 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲10秒間保持▲",
+      "CN": "▲坚持10秒▲",
+      "KR": "▲10초 버텨▲",
+      "TW": "▲持續10秒▲"
+    }
+  },
+  "▲IT'S GETTING DARK▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲暗くなりつつある▲",
+      "CN": "▲天快黑了▲",
+      "KR": "▲어두워지고 있어▲",
+      "TW": "▲天色變暗了▲"
+    }
+  },
+  "▲IT SEEMS SOMETHING IS UNDER THE SEA▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲海のどこかに何かがあるようだ▲",
+      "CN": "▲海底下似乎有什么东西▲",
+      "KR": "▲바다 밑에 뭔가 있는 것 같아▲",
+      "TW": "▲似乎海底有什麼東西▲"
+    }
+  },
+  "▲SO CLOSE!SO CLOSE▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲あと一歩！あと一歩▲",
+      "CN": "▲差一点！就差一点！▲",
+      "KR": "▲아차! 아차▲",
+      "TW": "▲太可惜了！太可惜了▲"
+    }
+  },
+  "▲DAMN!IT'S THE SEA WITCH▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲くそ！海witchだ▲",
+      "CN": "▲该死！是海巫 ▲",
+      "KR": "▲쥐라! 바다 마법사다▲",
+      "TW": "▲糟了！是海巫婆▲"
+    }
+  },
+  "▲NO WAY BACK FOR US▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲後戻りはできない▲",
+      "CN": "▲我们没有退路了 ▲",
+      "KR": "도망칠 곳이 없어▲",
+      "TW": "▲我們沒有退路了▲"
+    }
+  },
+  "▲WE MUST BEAT THIS BIG GUY▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲この大物を倒さなければならない▲",
+      "CN": "▲我们必须打败这个大块头 ▲",
+      "KR": "▲큰 놈을 막아내야 해▲",
+      "TW": "▲我們必須擊敗這個大家伙▲"
+    }
+  },
+  "▲HOLD FOR 40 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲40秒間持ちこたえろ▲",
+      "CN": "▲坚持40秒 ▲",
+      "KR": "▲40초 버텨라▲",
+      "TW": "▲堅持40秒▲"
+    }
+  },
+  "▲HURRY UP▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲急げ▲",
+      "CN": "▲快一点 ▲",
+      "KR": "▲서두르지 마!▲",
+      "TW": "▲快點▲"
+    }
+  },
+  "▲WE MUST GET ON THE PAPER PLANE▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲紙飛行機に乗らなければ▲",
+      "CN": "▲我们必须登上纸飞机 ▲",
+      "KR": "▲종이 비행기 타야 해!▲",
+      "TW": "▲我們必須登上紙飛機▲"
+    }
+  },
+  "▲OH!FISH ATTACKS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲おっと！魚の攻撃だ▲",
+      "CN": "▲噢！鱼群袭击了 ▲",
+      "KR": "▲어? 물고기가 공격해!▲",
+      "TW": "▲啊！魚群襲擊了▲"
+    }
+  },
+  "\"▲YOU ARE THE BEST▲\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲あなたは最高です▲",
+      "CN": "“▲你是最棒的▲”",
+      "KR": "▲당신은 최고입니다▲",
+      "TW": "▲你是最棒的▲"
+    }
+  },
+  "▲TRIP 0▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲トリップ 0▲",
+      "CN": "▲TRIP 0▲",
+      "KR": "▲여행 0▲",
+      "TW": "▲旅行 0▲"
+    }
+  },
+  "▲HOLD FOR 10S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲10秒間長押し▲",
+      "CN": "▲按住10秒▲",
+      "KR": "▲10초 동안 누르세요▲",
+      "TW": "▲持續按壓 10 秒▲"
+    }
+  },
+  "▲HOLD FOR 15S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲15秒間長押し▲",
+      "CN": "▲按住15秒▲",
+      "KR": "▲15초 동안 누르세요▲",
+      "TW": "▲持續按壓 15 秒▲"
+    }
+  },
+  "▲HOLD FOR 30S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲30秒間長押し▲",
+      "CN": "▲按住30秒▲",
+      "KR": "▲30초 동안 누르세요▲",
+      "TW": "▲持續按壓 30 秒▲"
+    }
+  },
+  "▲HOLD FOR 20S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲20秒間長押し▲",
+      "CN": "▲长按 20 秒▲",
+      "KR": "▲20초간 누르세요▲",
+      "TW": "▲按住 20 秒▲"
+    }
+  },
+  "▲HOLD FOR 25S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲25秒間長押し▲",
+      "CN": "▲长按 25 秒▲",
+      "KR": "▲25초간 누르세요▲",
+      "TW": "▲按住 25 秒▲"
+    }
+  },
+  "▲HOLD FOR 35S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲35秒間長押し▲",
+      "CN": "▲长按 35 秒▲",
+      "KR": "▲35초간 누르세요▲",
+      "TW": "▲按住 35 秒▲"
+    }
+  },
+  "▲HOLD FOR 45S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲45秒間長押し▲",
+      "CN": "▲长按 45 秒▲",
+      "KR": "▲45초간 누르세요▲",
+      "TW": "▲按住 45 秒▲"
+    }
+  },
+  "▲HOLD FOR 60S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲60秒間長押し▲",
+      "CN": "▲长按 60 秒▲",
+      "KR": "▲60초간 누르세요▲",
+      "TW": "▲按住 60 秒▲"
+    }
+  },
+  "▲HOLD FOR 40S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲40秒間長押し▲",
+      "CN": "▲长按 40 秒▲",
+      "KR": "▲40초간 누르세요▲",
+      "TW": "▲按住 40 秒▲"
+    }
+  },
+  "▲HOLD FOR 180S▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲180秒間長押し▲",
+      "CN": "▲长按 180 秒▲",
+      "KR": "▲180초간 누르세요▲",
+      "TW": "▲按住 180 秒▲"
+    }
+  },
+  "▲PAPER PLANE WILL TAKE OFF IN 30 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲紙飛行機が30秒後に飛び立ちます▲",
+      "CN": "▲纸飞机将在 30 秒后起飞▲",
+      "KR": "▲종이 비행기가 30초 후 이륙합니다▲",
+      "TW": "▲紙飛機將在 30 秒後起飛▲"
+    }
+  }
+}

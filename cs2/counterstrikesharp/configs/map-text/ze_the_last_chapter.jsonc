@@ -1,0 +1,742 @@
+{
+  "=====================================": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "=== WELCOME TO : THE LAST CHAPTER ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "=== THE LAST CHAPTER へようこそ",
+      "CN": "=== 欢迎来到：终章",
+      "KR": "=== 오시는 곳에 환영합니다 : 마지막 장",
+      "TW": "=== 歡迎來到：最終章"
+    }
+  },
+  "=== MAP CREATED BY NARAKA ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "=== MAP NARAKA 作成による",
+      "CN": "=== 地图制作：NARAKA",
+      "KR": "=== 나르카 제작 맵",
+      "TW": "=== 地圖由 NARAKA 創建"
+    }
+  },
+  "=== SPECIAL THANKS TO : POSSESSION SERVER": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "=== POSSESSION SERVER に特別なお礼を申し上げます",
+      "CN": "=== 特别感谢：附体服务器",
+      "KR": "=== 특별 감사 : possession 서버",
+      "TW": "=== 特別感謝：POSESSION SERVER"
+    }
+  },
+  "III PLAYER HAS PICKED UP HEAL III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III プレイヤーが回復アイテムを取得しました III",
+      "CN": "III 玩家拾取了治疗道具 III",
+      "KR": "III 플레이어가 치유 아이템을 획득했습니다 III",
+      "TW": "III 玩家已拾取治療道具 III"
+    }
+  },
+  "III PLAYER HAS PICKED UP FLAME III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III プレイヤーが炎を獲得しました III",
+      "CN": "III 玩家拾取了火焰道具 III",
+      "KR": "III 플레이자가 화염 아이템을 획득했습니다 III",
+      "TW": "III 玩家已拾取火焰道具 III"
+    }
+  },
+  "III CHAPTER I : THE LOST TOMB III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 第I章 ：失われた墓地 III",
+      "CN": "III 第一章：失落之墓 III",
+      "KR": "III 1장 : 잃어버린 무덤 III",
+      "TW": "III 第一章：失落古墓 III"
+    }
+  },
+  "III HOLD HERE FOR 30 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III ここで30秒間待機してください III",
+      "CN": "III 坚守阵地30秒 III",
+      "KR": "III 30초 동안 여기에서 버티세요 III",
+      "TW": "III 請在此坚守 30 秒 III"
+    }
+  },
+  "III 10 SECONDS REMAINING III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 残り10秒です III",
+      "CN": "III 剩余时间10秒 III",
+      "KR": "III 남은 시간 10초 III",
+      "TW": "III 剩餘 10 秒 III"
+    }
+  },
+  "III ELEVATOR IS LEAVING IN 10 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III  elevator 離脱まで 10秒 III",
+      "CN": "电梯将在10秒后关闭",
+      "KR": "III 엘리베이터가 10초 후 출발합니다 III",
+      "TW": "電梯即將離開，剩餘 10 秒"
+    }
+  },
+  ">>> COUNTING DOWN 2:20 MINUTES  <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> カウントダウン開始：2分20秒 <<<",
+      "CN": ">>> 倒计时 2分20秒 <<<",
+      "KR": ">>> 카운트다운 2분 20초 <<<",
+      "TW": ">>> 倒數計時 2:20 分鐘 <<<"
+    }
+  },
+  "### BEFORE YOU ALL DEAD ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### 全員死滅前 ###",
+      "CN": "### 死亡之前 ###",
+      "KR": "### 모두 죽기 전까지 ###",
+      "TW": "### 爾等皆將死亡 ###"
+    }
+  },
+  "III FEEL MY LOVE III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 愛を感じろ III",
+      "CN": "III 感受我的爱 III",
+      "KR": "III 내 사랑을 느껴라 III",
+      "TW": "III 感受我的愛 III"
+    }
+  },
+  "III FEEL MY PAIN III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 苦痛を感じろ III",
+      "CN": "III 感受我的痛苦 III",
+      "KR": "III 내 고통을 느껴라 III",
+      "TW": "III 感受我的痛 III"
+    }
+  },
+  ">>> THIS IS NOT THE END !! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> これは終わらない！！ <<<",
+      "CN": ">>> 这绝非终局 !! <<<",
+      "KR": ">>> 이것은 끝이 아니다 !! <<<",
+      "TW": ">>> 這並非終點！ <<<"
+    }
+  },
+  "III TOMB GATE OPENS IN 30 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 墓の扉が30秒後に開きます",
+      "CN": "墓门将在30秒后开启",
+      "KR": "III 매장 출입문이 30초 후 열립니다 III",
+      "TW": "III 墓門即將開啟，剩餘 30 秒 III"
+    }
+  },
+  "III 10 SECOND REMAINING III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 残り 10秒 III",
+      "CN": "剩余10秒",
+      "KR": "III 최종 10초 남았습니다 III",
+      "TW": "III 倒數 10 秒即將結束 III"
+    }
+  },
+  "III CHAPTER I : COMPLETED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 第I章：完了 III",
+      "CN": "III 第一章：完成 III",
+      "KR": "III 1부 : 완료 III",
+      "TW": "III 第一章：完成 III"
+    }
+  },
+  "III CHAPTER II : SAINT OR SINNER III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 第II章：聖人か罪人か III",
+      "CN": "III 第二章：圣者或罪人 III",
+      "KR": "III 2부 : 성자 아니면 죄인 III",
+      "TW": "III 第二章：聖徒或罪人 III"
+    }
+  },
+  "III DESTROY THE CRYSTAL III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III クリスタルを破壊せよ III",
+      "CN": "III 摧毁水晶 III",
+      "KR": "III 결정체 파괴 III",
+      "TW": "III 摧毀水晶 III"
+    }
+  },
+  "III ALL 4 GATES OPEN IN 30 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 30秒以内にすべての4つのゲートを開けよ III",
+      "CN": "III 30秒内开启所有4扇门 III",
+      "KR": "III 30초 내 4개의 성문 모두 개방 III",
+      "TW": "III 三十秒內開啟全部四道門 III"
+    }
+  },
+  "III DESTROY THE STATUE III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 像を破壊せよ III",
+      "CN": "III 摧毁雕像 III",
+      "KR": "III 동상 파괴 III",
+      "TW": "III 摧毀雕像 III"
+    }
+  },
+  "III HOLD ALL 4 SIDES UNTIL SOMETHING HAPPENS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 何か起こるまで全4面の側を保持せよ III",
+      "CN": "III 守住所有4侧，直到事态发生 III",
+      "KR": "III 4면 모두 점령하여 특정 상황 발생 대기 III",
+      "TW": "III 守住四個方向，直到事件發生 III"
+    }
+  },
+  "III SOMETHING IS GONNA HAPPEN SOON III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III すぐに何かが起こる III",
+      "CN": "III 很快会有大事发生 III",
+      "KR": "III 곧 사건 발생 예정 III",
+      "TW": "III 即將有大事件發生 III"
+    }
+  },
+  "III HELL GATES ARE OPENING !! GOO !! III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III ヘルズゲートが開放される！！行け！！ III",
+      "CN": "III 地狱之门即将打开！！冲啊！！III",
+      "KR": "III 지옥 문열림 !! GOO !! III",
+      "TW": "III 地獄之門即將開啟！！GOO！！III"
+    }
+  },
+  "### DESTROY BOTH BUTTONS ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "両方のボタンを破壊せよ",
+      "CN": "### 摧毁两个按钮 ###",
+      "KR": "### 두 개의 단추 모두 파괴 ###",
+      "TW": "### 破壞兩個按鈕 ###"
+    }
+  },
+  "### TO ACTIVATED THE GATES ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "門を開けるために",
+      "CN": "### 激活大门 ###",
+      "KR": "### 성문 활성화 ###",
+      "TW": "### 啟動大門 ###"
+    }
+  },
+  "III RIGHT BUTTON HAVE DESTROYED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 右側のボタンが破壊された III",
+      "CN": "III 右侧按钮已被摧毁 III",
+      "KR": "III 오른쪽 단부 파괴 완료 III",
+      "TW": "III 右側按鈕已破壞 III"
+    }
+  },
+  "III LEFT BUTTON HAVE DESTROYED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 左側のボタンが破壊された III",
+      "CN": "III 左侧按钮已被摧毁 III",
+      "KR": "III 왼쪽 단부 파괴 완료 III",
+      "TW": "III 左側按鈕已破壞 III"
+    }
+  },
+  "III SPIT 2 SIDES AND PRESS THE BOOK III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 2つの側を突き進み、本を押せ III",
+      "CN": "III 向两侧吐唾沫并按下书本 III",
+      "KR": "III 양쪽을 뚫고 책을 누르세요 III",
+      "TW": "III 噴灑兩側並按下書籍 III"
+    }
+  },
+  "III ..... PLEASE GOD HELP US  .....  III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III ……神よ、私達を助けてください…… III",
+      "CN": "III …… 上帝啊，救救我们吧 …… III",
+      "KR": "III ..... 비명을 지르십시오. 우리의 하나님이우리를 돕기를 빕니다... III",
+      "TW": "III ..... 祈禱上蒼憐憫我們 ..... III"
+    }
+  },
+  "III ... SAINT OR SINNER ? ....  III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III ……聖人か罪人か？…… III",
+      "CN": "III …… 圣人还是罪人？ .... III",
+      "KR": "III ... 성자이신가, 죄인인가? .... III",
+      "TW": "III ... 聖者還是罪人？...."
+    }
+  },
+  "III HEAVEN OR HELL ? III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 天国か地獄か？ III",
+      "CN": "III 天堂还是地狱？ III",
+      "KR": "III 천국, 지옥 선택 : III",
+      "TW": "III 天堂地獄？ III"
+    }
+  },
+  "III GATES OPEN IN 10 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 30秒後にゲートが開く III",
+      "CN": "III 闸门将在10秒后开启 III",
+      "KR": "III 문이 10초 안에 열립니다 III",
+      "TW": "III 門將於 10 秒後開啟 III"
+    }
+  },
+  "III GATES CLOSED IN 10 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 30秒後にゲートが閉まる III",
+      "CN": "III 闸门将在10秒后关闭 III",
+      "KR": "III 문이 10초 안에 닫힙니다 III",
+      "TW": "III 門將於 10 秒後關閉 III"
+    }
+  },
+  ">>> ZOMBIES WILL BE RELEASED IN AROUND 2 MINUTES  <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゾンビが約2分以内に解放されます <<<",
+      "CN": ">>> 大约在2分钟内将释放僵尸 <<<",
+      "KR": ">>> 좀비가 2분 안에 풀려납니다 <<<",
+      "TW": ">>> 殭屍將在約 2 分鐘後放出 <<<"
+    }
+  },
+  "III KILL HIM WHILE YOU ARE STILL CAN III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III まだ間に合う内に彼を倒せ III",
+      "CN": "III 趁现在还能打，干掉他 III",
+      "KR": "III 지금 당장 그를 처치하십시오 III",
+      "TW": "III 趁你還有機會，殺了他 III"
+    }
+  },
+  "lll GIVE ME YOUR LOVE lll": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "lll 愛を捧げて lll",
+      "CN": "lll 把爱给我 lll",
+      "KR": "lll 나를 사랑하세요 lll",
+      "TW": "lll 給我你的愛 lll"
+    }
+  },
+  ">>> HE'S DEAD. RUN !! <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 彼は死んだ。逃げろ！！ <<<",
+      "CN": ">>> 他死了。快跑！！ <<<",
+      "KR": ">>> 그는 죽었습니다. 도망치세요 !! <<<",
+      "TW": ">>> 他死了。快跑！！ <<<"
+    }
+  },
+  "III ELEVATOR IS LEAVING IN 30 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 30秒後にエレベーターが発車 III",
+      "CN": "III 电梯将在30秒后离开 III",
+      "KR": "III 엘리베이터가 30초 후에 떠납니다 III",
+      "TW": "III 電梯將於 30 秒後離開 III"
+    }
+  },
+  "III CHAPTER II : COMPLETED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III チャプターII：完了 III",
+      "CN": "III 第二章：已完成 III",
+      "KR": "III 챕터 II : 완료 III",
+      "TW": "III 第二章：已完成 III"
+    }
+  },
+  "III PLAYER HAS PICKED UP BLIZZARD III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III プレイヤーがブリザード III を拾いました III",
+      "CN": "III 玩家已拾取 Blizzard III",
+      "KR": "III 플레이어가 블리자드 III를 획득했습니다 III",
+      "TW": "III 玩家已取得暴雪 III"
+    }
+  },
+  "III PLAYER HAS PICKED UP AMMO BOX III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III プレイヤーが弾薬ボックス III を拾いました III",
+      "CN": "III 玩家已拾取弹药箱 III",
+      "KR": "III 플레이어가 탄약 상자를 획득했습니다 III",
+      "TW": "III 玩家已取得彈藥箱 III"
+    }
+  },
+  "III CHAPTER III : NAKARA'S PALACE III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III チャプター III ：ナカラの宮殿 III",
+      "CN": "III 第 III 章：纳卡拉宫殿 III",
+      "KR": "III CHAPTER III : 나카라의 궁전 III",
+      "TW": "III 第 III 章：納卡拉的宮殿 III"
+    }
+  },
+  "III BOSS ROOM OPEN IN 30 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III ボスルームが30秒後に開放されます III",
+      "CN": "III Boss 房间将在 30 秒后开启 III",
+      "KR": "III 보스 방이 30초 후에 열립니다 III",
+      "TW": "III  BOSS 房將於 30 秒後開啟 III"
+    }
+  },
+  ">>> YOU ALL HAVE 2:20 MINTUES BEFORE  <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> あなた方には2分20秒の猶予があります <<<",
+      "CN": ">>> 你们还有 2:20 分钟 <<<",
+      "KR": ">>> 모두 2:20분 후에 >>> <",
+      "TW": ">>> 你們只剩下 2:20 分鐘 <<<"
+    }
+  },
+  "### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ナラカは不死となりゾンビを解放する ###",
+      "CN": "### 纳卡拉化为不朽并释放僵尸 ###",
+      "KR": "### 나르카는 불멸이 되고 좀비를 해방합니다 ###",
+      "TW": "### 納卡拉獲得永生並釋放殭屍 ###"
+    }
+  },
+  ">>> HE'S DEAD. DEFEND UNTIL GATES OPEN <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 彼は死亡しました。ゲートが開くまで防衛してください <<<",
+      "CN": ">>> 他已死亡。守卫直至大门开启 <<<",
+      "KR": ">>> 그는 죽었습니다. 문이 열릴 때까지 방어하세요 <<<",
+      "TW": ">>> 他已死亡。守住這裡直到大門開啟 <<<"
+    }
+  },
+  "III DEFEND VENTS IN 10 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 10秒以内に換気口を防御します III",
+      "CN": "III 10 秒后守卫通风口 III",
+      "KR": "III 10초 후에 환기구를 방어하세요 III",
+      "TW": "III 於 10 秒內防守通風口 III"
+    }
+  },
+  "III PRESS ALL 3 BUTTONS AND WAIT III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 3つのボタンをすべて押して待機 III",
+      "CN": "III 按下全部 3 个按钮并等待 III",
+      "KR": "III 버튼 3개를 모두 누르고 기다리세요 III",
+      "TW": "III 按下所有 3 個按鈕並等待 III"
+    }
+  },
+  "III THE FIRST BUTTON IS ACTIVATED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 最初のボタンが有効化されました III",
+      "CN": "III 第 1 个按钮已激活 III",
+      "KR": "III 첫 번째 버튼이 활성화되었습니다 III",
+      "TW": "III 第一個按鈕已啟動 III"
+    }
+  },
+  "III THE SECOND BUTTON IS ACTIVATED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III 2番目のボタンが有効化されました III",
+      "CN": "III 第 2 个按钮已激活 III",
+      "KR": "III 두 번째 버튼이 활성화되었습니다 III",
+      "TW": "III 第二個按鈕已啟動 III"
+    }
+  },
+  "III ALL BUTTONS HAVE PRESSED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III すべてのボタンが押されました III",
+      "CN": "III 全部按钮均已按下 III",
+      "KR": "III 모든 버튼이 눌러졌습니다 III",
+      "TW": "III 所有按鈕均已按下 III"
+    }
+  },
+  "III ALL BUTTONS ARE ACTIVATED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III すべてのボタンが有効化されました III",
+      "CN": "III 全部按钮已激活 III",
+      "KR": "III 모든 버튼이 활성화되었습니다 III",
+      "TW": "III 所有按鈕已啟動 III"
+    }
+  },
+  "III LOVE BOAT IS COMING IN 20 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III ラブボート、20秒後に到着します III",
+      "CN": "III 爱船将在 20 秒后抵达 III",
+      "KR": "III 러브 보트가 20초 후에 도착합니다 III",
+      "TW": "III 愛的小船將在 20 秒後到達 III"
+    }
+  },
+  "### SWAN BOAT IS LEAVING IN 15 SECONDS ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### スワンボート、15秒後に発着 ###",
+      "CN": "### 天鹅船将在 15 秒后出发 ###",
+      "KR": "### 스완 보트가 15초 후에 출항합니다 ###",
+      "TW": "### 天鵝船將在 15 秒後離開 ###"
+    }
+  },
+  "III CHAPTER III : COMPLETED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "III チャプター III：完了 III",
+      "CN": "III 第 III 章：已完成 III",
+      "KR": "III 챕터 III : 완료 III",
+      "TW": "III 章節 III ：已完成 III"
+    }
+  },
+  "III PLAYER HAS PICKED UP TELEPORTER III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがテレポート装置を手に入れた",
+      "CN": "III 玩家已拾取传送器 III",
+      "KR": "III 플레이어가 텔레포터 획득 III",
+      "TW": "玩家已拾取傳送器"
+    }
+  },
+  "### TELEPORTER ACTIVE IN 3 SECONDS ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### テレポート装置 3秒後稼働 ###",
+      "CN": "### 传送器将在 3 秒后激活 ###",
+      "KR": "### 텔레포터 3초 후 활성화 ###",
+      "TW": "### 傳送器將在 3 秒後激活 ###"
+    }
+  },
+  "### TELEPORTER ACTIVE IN 2 SECONDS ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### テレポート装置 2秒後稼働 ###",
+      "CN": "### 传送器将在 2 秒后激活 ###",
+      "KR": "### 텔레포터 2초 후 활성화 ###",
+      "TW": "### 傳送器將在 2 秒後激活 ###"
+    }
+  },
+  "### TELEPORTER ACTIVE IN 1 SECONDS ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### テレポート装置 1秒後稼働 ###",
+      "CN": "### 传送器将在 1 秒后激活 ###",
+      "KR": "### 텔레포터 1초 후 활성화 ###",
+      "TW": "### 傳送器將在 1 秒後激活 ###"
+    }
+  },
+  "III CHAPTER IV : NARAKA'S PALACE III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第三章 IV：ナラクの宮殿",
+      "CN": "III 第四章：冥河宫 III",
+      "KR": "III 챕터 IV : 나락의 궁전 III",
+      "TW": "第四幕：閻羅殿"
+    }
+  },
+  "### WAIT FOR THE GATE OPEN ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### ゲートが開くまで待って ###",
+      "CN": "### 等待大门打开 ###",
+      "KR": "### 게이트가 열릴 때까지 기다리세요 ###",
+      "TW": "### 請等待門開啟 ###"
+    }
+  },
+  "### AND GO TO ACTIVATE THE BUTTON ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "### そしてボタンを押して有効化 ###",
+      "CN": "### 然后去激活按钮 ###",
+      "KR": "### 그리고 버튼을 활성화하러 가세요 ###",
+      "TW": "### 並前往激活按鈕 ###"
+    }
+  },
+  "III DO YOU LIKE ZOMBIE DOGS ? III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ犬が好きか？",
+      "CN": "III 你喜欢僵尸狗吗？ III",
+      "KR": "III 좀비 개를 좋아하세요? III",
+      "TW": "喜歡殭屍狗嗎？"
+    }
+  },
+  "III SURVIVE FOR 90 SECONDS III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "90秒間生き延せ",
+      "CN": "存活90秒",
+      "KR": "III 90초 동안 생존 III",
+      "TW": "III 生存90秒III"
+    }
+  },
+  "III 60 SECONDS REMAINING III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り60秒",
+      "CN": "剩余60秒",
+      "KR": "III 60초 남음 III",
+      "TW": "III 剩餘60秒III"
+    }
+  },
+  "### DESTROY 2 BUTTONS TO ACTIVE THE DOOR ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタンの破壊で扉を開放せよ",
+      "CN": "摧毁2个按钮以开启门",
+      "KR": "### 문 작동을 위해 버튼 2개 파괴 ###",
+      "TW": "### 摧毀2個按鈕以啟動門 ###"
+    }
+  },
+  "III LEFT BUTTON HAS DESTROYED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "左側のボタンが破壊された",
+      "CN": "左侧按钮已摧毁",
+      "KR": "III 왼쪽 버튼 파괴됨 III",
+      "TW": "III 已摧毀左側按鈕III"
+    }
+  },
+  "III RIGHT BUTTON HAS DESTROYED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "右側のボタンが破壊された",
+      "CN": "右侧按钮已摧毁",
+      "KR": "III 오른쪽 버튼 파괴됨 III",
+      "TW": "III 已摧毀右側按鈕III"
+    }
+  },
+  ">>> BECAREFUL THIS BOSS CAN BE TELEPORT!  <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "このボスはテレポートするから注意！",
+      "CN": "小心，此Boss会传送！",
+      "KR": ">>> 이 보스는 순간이동 가능! 주의 <<<",
+      "TW": ">>> 小心，這個首領會進行瞬移！ <<<"
+    }
+  },
+  "### YOU HAVE 3 MINTUES TO KILL THIS BOSS ###": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り3分でこのボスを倒せ",
+      "CN": "你有3分钟时间击杀此Boss",
+      "KR": "### 이 보스를 처치할 시간 3분 ###",
+      "TW": "### 你有3分鐘的時間消滅這個首領 ###"
+    }
+  },
+  "III BLOOD SEEKER HAS ARRIVED III": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブラッドシーカーが到着",
+      "CN": "嗜血猎手已到达",
+      "KR": "III 혈귀 사냥꾼 도착 III",
+      "TW": "III 血腥追獵者已到達III"
+    }
+  },
+  "=== THANKS TO : KENDRICK FOR TESTING CRASH PROBLEM": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "=== クラッシュ問題のテストにご協力いただいたKENDRICKに感謝します",
+      "CN": "=== 鸣谢：KENDRICK 测试解决崩溃问题",
+      "KR": "크래시 문제 테스트를 지원해 주신 kendrick님께 감사드립니다",
+      "TW": "感謝 KENDRICK 協助測試 Crash 問題"
+    }
+  }
+}

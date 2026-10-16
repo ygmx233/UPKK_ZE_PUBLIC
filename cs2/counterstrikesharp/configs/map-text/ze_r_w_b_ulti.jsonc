@@ -1,0 +1,232 @@
+{
+  "Wall will break in 15sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁が15秒後に崩壊",
+      "CN": "墙壁将在15秒后破碎",
+      "KR": "벽이 15초 후에 깨집니다",
+      "TW": "牆壁將於15秒後破碎"
+    }
+  },
+  "elevator will move in 25sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが25秒後に作動",
+      "CN": "电梯将在25秒后移动",
+      "KR": "엘리베이터가 25초 후에 움직입니다",
+      "TW": "電梯將於25秒後移動"
+    }
+  },
+  "Platform will rise in 30sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームが30秒後に上昇",
+      "CN": "平台将在30秒后升起",
+      "KR": "플랫폼이 30초 후에 상승합니다",
+      "TW": "平台將於30秒後升起"
+    }
+  },
+  "-- glass will break in 100sec --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- ガラスが100秒後に破損 --",
+      "CN": "-- 玻璃将在100秒后破碎 --",
+      "KR": "-- 유리창이 100초 후에 깨집니다 --",
+      "TW": "--玻璃將於100秒後破碎--"
+    }
+  },
+  "-- Get onto the glass --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- ガラスに上れ --",
+      "CN": "-- 站上玻璃 --",
+      "KR": "-- 유리창 위로 올라가세요 --",
+      "TW": "--登上玻璃--"
+    }
+  },
+  "The road will open in 25 sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が25秒後に開通",
+      "CN": "道路将在25秒后开启",
+      "KR": "길이 25초 후에 열립니다",
+      "TW": "道路將於25秒後開啟"
+    }
+  },
+  "Platform will rise in 75sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームが75秒後に上昇",
+      "CN": "平台将在75秒后升起",
+      "KR": "플랫폼이 75초 후에 상승합니다",
+      "TW": "平台將於75秒後升起"
+    }
+  },
+  "-- 4 Directions And Above --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- 4方向とそれ以上 --",
+      "CN": "-- 四个方向及以上 --",
+      "KR": "-- 4방향 위쪽으로 --",
+      "TW": "--四方向及以上--"
+    }
+  },
+  "-- Break The Cage Before The Song Ends! --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "歌が終わる前に檻を破れ！",
+      "CN": "-- 在歌曲结束前打破牢笼！ --",
+      "KR": "-- 노래가 끝나는 케이지를 깨세요! --",
+      "TW": "在歌曲結束前打破牢籠！"
+    }
+  },
+  "final will open in 50 sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファイナルは50秒後に開始",
+      "CN": "最终关卡将在50秒后开启",
+      "KR": "최종 버전이 50초 후에 오픈됩니다",
+      "TW": "結算將在 50 秒後開啟"
+    }
+  },
+  "-- Avoid Red --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "赤を避けて！",
+      "CN": "-- 避开红色区域 --",
+      "KR": "-- 빨간색을 피하세요 --",
+      "TW": "-- 避開紅色 --"
+    }
+  },
+  "wall will break in 15 sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁は15秒後に破壊",
+      "CN": "墙壁将在15秒后崩塌",
+      "KR": "벽이 15초 후에 깨집니다",
+      "TW": "牆壁將在 15 秒後破裂"
+    }
+  },
+  "platform will move in 30sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームは30秒後に移動",
+      "CN": "平台将在30秒后移动",
+      "KR": "플랫폼이 30초 후에 움직입니다",
+      "TW": "平台將在 30 秒後移動"
+    }
+  },
+  "zm_tp in 8sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "tp地点へ8秒後",
+      "CN": "传送点将在8秒后激活",
+      "KR": "zm_tp 8초 후",
+      "TW": "zm_tp 將在 8 秒後傳送"
+    }
+  },
+  "wall_1 will break in 20sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁_1は20秒後に破壊",
+      "CN": "墙壁1将在20秒后崩塌",
+      "KR": "벽_1이 20초 후에 깨집니다",
+      "TW": "wall_1 將在 20 秒後破裂"
+    }
+  },
+  "platform will move in 25sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームは25秒後に移動",
+      "CN": "平台将在25秒后移动",
+      "KR": "플랫폼이 25초 후에 움직입니다",
+      "TW": "平台將在 25 秒後移動"
+    }
+  },
+  "wall_2 will break in 20sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁2は20秒後に壊れます",
+      "CN": "墙壁 2 将在 20 秒后破裂",
+      "KR": "벽_2가 20초 후 파괴됩니다",
+      "TW": "牆壁 2 將在 20 秒後破裂"
+    }
+  },
+  "<< Stage White Finished >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ステージホワイト終了 >>",
+      "CN": "<< 阶段 White 已完成 >>",
+      "KR": "<< 스테이지 화이트 클리어 >>",
+      "TW": "<< 白關清除 >>"
+    }
+  },
+  "<< ------------ NK.NWBK >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ------------ NK.NWBK >>",
+      "CN": "<< ------------ NK.NWBK >>",
+      "KR": "<< ------------ NK.NWBK >>",
+      "TW": "<< ------------ NK.NWBK >>"
+    }
+  },
+  "Transfer to the boss room in 60 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒以内にボスルームへ移動してください",
+      "CN": "60 秒后传送至 Boss 房",
+      "KR": "60초 후 보스 방으로 이동",
+      "TW": "60 秒後傳送至 Boss 房間"
+    }
+  },
+  "You can shoot after 5sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後に撃てます",
+      "CN": "5 秒后可射击",
+      "KR": "5초 후 사격 가능",
+      "TW": "5 秒後可射擊"
+    }
+  },
+  "-- Platform rising... --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- プラットフォーム上昇中... --",
+      "CN": "-- 平台升起... --",
+      "KR": "-- 플랫폼 상승 중... --",
+      "TW": "-- 平台上升中... --"
+    }
+  },
+  "-- Stage Bkack Was Chosen --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- ステージBkackが選択されました --",
+      "CN": "-- 已选择阶段 Bkack --",
+      "KR": "-- 스테이지 블랙이 선택됨 --",
+      "TW": "-- 已選擇黑色關卡 --"
+    }
+  }
+}

@@ -1,0 +1,1232 @@
+{
+  ">> Kill The Remaining Zombie! <<": {
+    "translation": ">>杀死剩余的僵尸！<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 残りのゾンキーを倒せ！ <<",
+      "CN": ">> 消灭剩余僵尸！<<",
+      "KR": ">> 나머지 좀비 처치하기! <<",
+      "TW": ">> 消滅剩餘殭屍！<<"
+    }
+  },
+  "AFK TELEPORT IN 10 SECODN": {
+    "translation": "挂机玩家10秒后传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKテレポートまで 10秒",
+      "CN": "挂机传送将在10秒后执行",
+      "KR": "AFK 자동 텔레포트 10초 후",
+      "TW": "10 秒後執行 AFK 傳送"
+    }
+  },
+  "AFK TELEPORT IN 10 SECOND": {
+    "translation": "挂机玩家10秒后传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKテレポートまで 10秒",
+      "CN": "挂机传送将在10秒后执行",
+      "KR": "AFK 자동 텔레포트 10초 후",
+      "TW": "10 秒後執行 AFK 傳送"
+    }
+  },
+  "AFK TELEPORT IN 15 SECOND": {
+    "translation": "挂机玩家15秒后传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKテレポートまで 15秒",
+      "CN": "挂机传送将在15秒后执行",
+      "KR": "AFK 자동 텔레포트 15초 후",
+      "TW": "15 秒後執行 AFK 傳送"
+    }
+  },
+  "AFK TELEPORT IN 5 SECOND": {
+    "translation": "挂机玩家5秒后传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKテレポートまで 5秒",
+      "CN": "挂机传送将在5秒后执行",
+      "KR": "AFK 자동 텔레포트 5초 후",
+      "TW": "5 秒後執行 AFK 傳送"
+    }
+  },
+  "Activate lever to power up the lab": {
+    "translation": "激活杠杆为实验室供电",
+    "MultiLang": {
+      "US": "",
+      "JP": "レバーを操作してラボに給電せよ",
+      "CN": "激活杠杆以给实验室供电",
+      "KR": "레버를 작동하여 연구소에 전원을 공급하세요",
+      "TW": "啟動桿以為實驗室供電"
+    }
+  },
+  "Activate pump lever": {
+    "translation": "激活泵杠杆",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポンプレバーを操作する",
+      "CN": "激活水泵杠杆",
+      "KR": "펌프 레버 작동하기",
+      "TW": "啟動泵杆"
+    }
+  },
+  "Blackwater - this crazy ass bitch not letting us through, we need to get rid of her so we can get to the lab": {
+    "translation": "黑水-这个疯狂的女人不让我们通过，我们需要除掉她才能进入实验室",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブラックウォーター——この狂ったクソ女が通行を許さねぇ。彼女を倒さないとラボには入れん",
+      "CN": "黑水——这个疯婆子不让我们通过，我们必须除掉她才能前往实验室",
+      "KR": "블랙워터 - 이 미친 년이 우리를 통과시키지 않네. 연구소에 가기 위해 저녀석을 없애야 해",
+      "TW": "黑水——那個瘋女人不讓我們過去，我們必須除掉她才能前往實驗室"
+    }
+  },
+  "Blackwater hospital doors will open in 20 sec": {
+    "translation": "黑水医院大门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブラックウォーター病院のドアが20秒後に開きます",
+      "CN": "20秒后黑水医院大门将打开",
+      "KR": "블랙워터 병원 문이 20초 후에 열립니다",
+      "TW": "黑水醫院大門將在 10 秒後開啟"
+    }
+  },
+  "Blackwater main gates will open in 5 sec": {
+    "translation": "黑水主大门将在5秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブラックウォーターの正門が5秒後に開きます",
+      "CN": "5秒后黑水正门将打开",
+      "KR": "블랙워터 메인 게이트가 5초 후에 열립니다",
+      "TW": "黑水主門将在5秒后打开"
+    }
+  },
+  "Blackwater main gates will open in 60 sec": {
+    "translation": "黑水主大门将在60秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブラックウォーターの正門が60秒後に開きます",
+      "CN": "60秒后黑水正门将打开",
+      "KR": "블랙워터 메인 게이트가 60초 후에 열립니다",
+      "TW": "黑水主門将在60秒后打开"
+    }
+  },
+  "Bomb is ready we are good to go": {
+    "translation": "炸弹准备好了，我们可以出发了",
+    "MultiLang": {
+      "US": "",
+      "JP": "爆発装置設置完了、行動開始です",
+      "CN": "炸弹已就位，准备就绪",
+      "KR": "폭탄 작동 준비 완료, 진행합니다",
+      "TW": "炸彈已準備就緒，我們可以行動了"
+    }
+  },
+  "Door into office will open in 15 sec": {
+    "translation": "办公室的门将在15秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "オフィスへのドアが15秒後に開きます",
+      "CN": "15秒后通往办公室的门将打开",
+      "KR": "사무실 문이 15초 후에 열립니다",
+      "TW": "辦公室大門将在15秒后开启"
+    }
+  },
+  "Door into office will open in 20 sec": {
+    "translation": "办公室的门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "オフィスへのドアが20秒後に開きます",
+      "CN": "20秒后通往办公室的门将打开",
+      "KR": "사무실 문이 20초 후에 열립니다",
+      "TW": "辦公室大門将在20秒后开启"
+    }
+  },
+  "Door to 2-nd lab will open in 20 sec": {
+    "translation": "通往第二实验室的门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "第2研究室へのドアが20秒後に開きます",
+      "CN": "20秒后通往第二实验室的门将打开",
+      "KR": "2호 연구소 문이 20초 후에 열립니다",
+      "TW": "二号实验室門将在20秒后开启"
+    }
+  },
+  "Door to 2-nd lab will open in 25 sec": {
+    "translation": "通往第二实验室的门将在25秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "第2研究室へのドアが25秒後に開きます",
+      "CN": "25秒后通往第二实验室的门将打开",
+      "KR": "2호 연구소 문이 25초 후에 열립니다",
+      "TW": "二号实验室門将在25秒后开启"
+    }
+  },
+  "Door to guard post will open in 30 sec": {
+    "translation": "通往警卫岗的门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "警備所のドアが30秒後に開く",
+      "CN": "通往警卫室的门将在 30 秒后打开",
+      "KR": "경비실 문이 30초 후에 열립니다",
+      "TW": "守衛室門將於 30 秒後開啟"
+    }
+  },
+  "Door to guard post will open in 5 sec": {
+    "translation": "通往警卫岗的门将在5秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "警備所のドアが5秒後に開く",
+      "CN": "通往警卫室的门将在 5 秒后打开",
+      "KR": "경비실 문이 5초 후에 열립니다",
+      "TW": "守衛室門將於 5 秒後開啟"
+    }
+  },
+  "Door to main lab will open in 20 sec": {
+    "translation": "通往主实验室的门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "メインラボのドアが20秒後に開く",
+      "CN": "通往主实验室的门将在 20 秒后打开",
+      "KR": "본 연구소 문이 20초 후에 열립니다",
+      "TW": "主實驗室門將於 20 秒後開啟"
+    }
+  },
+  "Door to maternity ward will open in 40 sec": {
+    "translation": "通往产房的门将在40秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "出産病室のドアが40秒後に開く",
+      "CN": "通往产房的门将在 40 秒后打开",
+      "KR": "출산부 병동 문이 40초 후에 열립니다",
+      "TW": "產房門將於 40 秒後開啟"
+    }
+  },
+  "Door to maternity ward will open in 5 sec": {
+    "translation": "通往产房的门将在5秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "出産病室のドアが5秒後に開く",
+      "CN": "通往产房的门将在 5 秒后打开",
+      "KR": "출산부 병동 문이 5초 후에 열립니다",
+      "TW": "產房門將於 5 秒後開啟"
+    }
+  },
+  "Door to storage room will open in 20 sec": {
+    "translation": "通往储藏室的门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "倉庫のドアが20秒後に開く",
+      "CN": "通往储藏室的门将在 20 秒后打开",
+      "KR": "창고실 문이 20초 후에 열립니다",
+      "TW": "儲存室門將於 20 秒後開啟"
+    }
+  },
+  "Door to storage room will open in 30 sec": {
+    "translation": "通往储藏室的门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "倉庫のドアが30秒後に開く",
+      "CN": "通往储藏室的门将在 30 秒后打开",
+      "KR": "창고실 문이 30초 후에 열립니다",
+      "TW": "儲存室門將於 30 秒後開啟"
+    }
+  },
+  "Door to storage room will open in 30 sec ": {
+    "translation": "通往储藏室的门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "倉庫のドアが30秒後に開く",
+      "CN": "通往储藏室的门将在 30 秒后打开",
+      "KR": "창고실 문이 30초 후에 열립니다",
+      "TW": "儲存室門將於 30 秒後開啟"
+    }
+  },
+  "Door to the main office will open in 10 sec": {
+    "translation": "通往主办公室的门将在10秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "本部棟のドアが10秒後に開きます",
+      "CN": "通往主办公室的门将在10秒后打开",
+      "KR": "본관 출입문이 10초 후에 개방됩니다",
+      "TW": "主辦公室門將在 10 秒後開啟"
+    }
+  },
+  "Door to the main office will open in 5 sec": {
+    "translation": "通往主办公室的门将在5秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "本部棟のドアが5秒後に開きます",
+      "CN": "通往主办公室的门将在5秒后打开",
+      "KR": "본관 출입문이 5초 후에 개방됩니다",
+      "TW": "主辦公室門將在 5 秒後開啟"
+    }
+  },
+  "Door to the right side of the lab will open in 15 sec": {
+    "translation": "实验室右侧的门将在15秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "研究棟右側のドアが15秒後に開きます",
+      "CN": "通往实验室右侧的门将在15秒后打开",
+      "KR": "실험실 우측 출입문이 15초 후에 개방됩니다",
+      "TW": "實驗室右側門將在 15 秒後開啟"
+    }
+  },
+  "Door to the storage room will open in 25 sec": {
+    "translation": "通往储藏室的门将在25秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "倉庫のドアが25秒後に開きます",
+      "CN": "通往储藏室的门将在25秒后打开",
+      "KR": "창고 출입문이 25초 후에 개방됩니다",
+      "TW": "儲藏室門將在 25 秒後開啟"
+    }
+  },
+  "Door to wc will open in 30 sec": {
+    "translation": "通往卫生间的门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "トイレのドアが30秒後に開きます",
+      "CN": "通往卫生间的门将在30秒后打开",
+      "KR": "화장실 출입문이 30초 후에 개방됩니다",
+      "TW": "洗手間門將在 30 秒後開啟"
+    }
+  },
+  "Door will close in 15 sec": {
+    "translation": "门将在15秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが15秒後に閉じます",
+      "CN": "门将在15秒后关闭",
+      "KR": "출입문이 15초 후에 폐쇄됩니다",
+      "TW": "門將在 15 秒後關閉"
+    }
+  },
+  "Door will open in 10 sec": {
+    "translation": "门将在10秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが10秒後に開きます",
+      "CN": "门将在10秒后打开",
+      "KR": "출입문이 10초 후에 개방됩니다",
+      "TW": "門將在 10 秒後開啟"
+    }
+  },
+  "Door will open in 15 sec": {
+    "translation": "门将在15秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが15秒後に開きます",
+      "CN": "门将在15秒后打开",
+      "KR": "출입문이 15초 후에 개방됩니다",
+      "TW": "門將在 15 秒後開啟"
+    }
+  },
+  "Door will open in 25 sec": {
+    "translation": "门将在25秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは25秒後に開きます",
+      "CN": "25秒后开门",
+      "KR": "25초 후 문이 열립니다",
+      "TW": "門將在25秒後開啟"
+    }
+  },
+  "Door with first lever will open in 30 sec": {
+    "translation": "第一个水泵门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "第一段階のレバーのあるドアは30秒後に開きます",
+      "CN": "30秒后，第一把手柄所在的门将打开",
+      "KR": "첫 번째 레버가 있는 문은 30초 후 열립니다",
+      "TW": "第一道槓桿所在的門将在30秒後開啟"
+    }
+  },
+  "Door with second lever will open in 30 sec": {
+    "translation": "第二个水泵门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "第二段階のレバーのあるドアは30秒後に開きます",
+      "CN": "30秒后，第二把手柄所在的门将打开",
+      "KR": "두 번째 레버가 있는 문은 30초 후 열립니다",
+      "TW": "第二道槓桿所在的門将在30秒後開啟"
+    }
+  },
+  "Door with third lever will open in 20 sec": {
+    "translation": "第三个水泵门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "第三段階のレバーのあるドアは20秒後に開きます",
+      "CN": "20秒后，第三把手柄所在的门将打开",
+      "KR": "세 번째 레버가 있는 문은 20초 후 열립니다",
+      "TW": "第三道槓桿所在的門将在20秒後開啟"
+    }
+  },
+  "Doors to Blackwater underground lab will open in 30 sec": {
+    "translation": "通往黑水地下实验室的门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブラックウォーター地下研究所への扉は30秒後に開きます",
+      "CN": "30秒后，通往黑水地下实验室的门将打开",
+      "KR": "블랙워터 지하 연구소로 가는 문은 30초 후 열립니다",
+      "TW": "通往黑水地下實驗室的門将在30秒後開啟"
+    }
+  },
+  "Doors to left side of the lab will open in 5sec": {
+    "translation": "实验室左侧的门将在5秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "实验室の左侧へ繋がる扉は5秒後に開きます",
+      "CN": "5秒后，实验室左侧的门将打开",
+      "KR": "연구소 왼쪽 쪽으로가는 문은 5초 후 열립니다",
+      "TW": "實驗室左側的門将在5秒後開啟"
+    }
+  },
+  "Drill the barrel": {
+    "translation": "将液体装入桶中",
+    "MultiLang": {
+      "US": "",
+      "JP": "バレルを破壊せよ",
+      "CN": "钻透油桶",
+      "KR": "배럴을 뚫으세요",
+      "TW": "鑽破桶子"
+    }
+  },
+  "Elevator will leave in 20 sec": {
+    "translation": "电梯将在20秒内离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは20秒後に発車します",
+      "CN": "20秒后电梯离开",
+      "KR": "엘리베이터는 20초 후 출발합니다",
+      "TW": "電梯將在20秒後離開"
+    }
+  },
+  "Elevator will leave in 40 sec": {
+    "translation": "电梯将在40秒内离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは40秒後に発車します",
+      "CN": "电梯40秒后离开",
+      "KR": "엘리베이터가 40초 후 출발합니다",
+      "TW": "電梯將在40秒後離開"
+    }
+  },
+  "Finally we got into the lab, now we need to power it up": {
+    "translation": "我们终于进入实验室了，现在需要给实验室通电",
+    "MultiLang": {
+      "US": "",
+      "JP": "ようやく研究所に入れた。今度は電力を供給する必要がある",
+      "CN": "我们终于进入实验室，现在需要为其通电",
+      "KR": "드디어 연구소에 들어왔으니 이제 전원을 공급해야 합니다",
+      "TW": "總算進入實驗室，現在得啟動電源"
+    }
+  },
+  "Find crowbar to break down the wc door": {
+    "translation": "找到撬棍来打破卫生间的门",
+    "MultiLang": {
+      "US": "",
+      "JP": "カギ棒を見つけてトイレの扉を壊す",
+      "CN": "找到撬棍以破坏厕所门",
+      "KR": "화장실 문을 깨기 위해 크로우바를 찾으세요",
+      "TW": "找撬棍拆廁所的門"
+    }
+  },
+  "Find the key for left side of experimental rooms": {
+    "translation": "找到实验室左侧房间的钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "実験棟の左側の部屋への鍵を見つける",
+      "CN": "找到左侧实验室的钥匙",
+      "KR": "실험실 쪽 왼쪽에 있는 문의 열쇠를 찾으세요",
+      "TW": "尋找左側實驗室的鑰匙"
+    }
+  },
+  "Find the key from sewer door": {
+    "translation": "找到下水道门的钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "下水処理場の扉からの鍵を見つける",
+      "CN": "从下水道门获取钥匙",
+      "KR": "하수구 문에서 열쇠를 찾으세요",
+      "TW": "從下水道門取得鑰匙"
+    }
+  },
+  "Find the key from storage room": {
+    "translation": "找到储藏室的钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "倉庫の扉からの鍵を見つける",
+      "CN": "从储藏室获取钥匙",
+      "KR": "보관고에서 열쇠를 찾으세요",
+      "TW": "從儲藏室取得鑰匙"
+    }
+  },
+  "Find the key to the maternity ward": {
+    "translation": "找到产房的钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "病棟への鍵を見つける",
+      "CN": "找到产科病房的钥匙",
+      "KR": "산부인과 문 열쇠를 찾으세요",
+      "TW": "找到產科的鑰匙"
+    }
+  },
+  "Find the pot, we will be needing it for liquid": {
+    "translation": "寻找罐子，我们需要它来装一些液体",
+    "MultiLang": {
+      "US": "",
+      "JP": "鍋を見つける、液体処理に必要だ",
+      "CN": "找到锅具，我们需要用它来盛放液体",
+      "KR": "냄비를 찾으세요. 액체 사용에 필요합니다",
+      "TW": "找出水壺，我們稍後需要它來裝液體"
+    }
+  },
+  "Frenchy is retarded, just pick up the meat": {
+    "translation": "Frenchy太傻了，快去拿肉",
+    "MultiLang": {
+      "US": "",
+      "JP": "フレンチーは頭が悪い、ただ肉を拾うだけだ",
+      "CN": "弗雷西是个傻子，快捡起那块肉",
+      "KR": "프렌치는 미친 거야, 그냥 고기를 줍너",
+      "TW": "Frenchy 是智障，快把肉撿起來。"
+    }
+  },
+  "Girl is dead now we can pass through": {
+    "translation": "女孩死了，现在我们可以通过了",
+    "MultiLang": {
+      "US": "",
+      "JP": "少女は死んだ、これで通過できる",
+      "CN": "女孩已经死了，我们可以通过了",
+      "KR": "여자는 이제 죽었어. 이제 통과할 수 있어.",
+      "TW": "女孩已經死了，我們可以通過。"
+    }
+  },
+  "Good, we escaped from her, now we need to find a key from secret lab": {
+    "translation": "很好，我们逃离了她，现在我们需要找到秘密实验室的钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "いい、彼女のところを逃れた、今は秘密研究所から鍵を見つける必要がある",
+      "CN": "很好，我们逃出了她的魔掌，现在我们需要在秘密实验室找到一把钥匙",
+      "KR": "좋아, 그녀를 피했으니 이제 비밀 연구소의 열쇠를 찾아야 해.",
+      "TW": "很好，我們逃脫了她的追捕，現在需要從秘密實驗室找到鑰匙。"
+    }
+  },
+  "Good, we found lever that will move wardrobe": {
+    "translation": "很好，我们找到了移动衣橱的杠杆",
+    "MultiLang": {
+      "US": "",
+      "JP": "いい、ワードローブを動かすレバーを見つけた",
+      "CN": "很好，我们找到了可以移动衣柜的杠杆",
+      "KR": "좋아. 옷장을 움직이는 레버를 찾았어.",
+      "TW": "很好，我們找到了控制衣櫃移動的槓桿。"
+    }
+  },
+  "Hunter will break the storage room door in 30 sec": {
+    "translation": "猎人将在30秒内打破储藏室的门",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハンターは30秒以内に倉庫のドアを壊す",
+      "CN": "猎人将在30秒内撞开储藏室的门",
+      "KR": "헌터가 30초 안에 보관실 문을 부술 거야.",
+      "TW": "獵人將在 30 秒內強行突破儲藏室的門。"
+    }
+  },
+  "Leave blackwater complex": {
+    "translation": "离开黑水综合设施",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブラックウォーター複合施設から離脱する",
+      "CN": "离开黑水综合体",
+      "KR": "블랙워터 복합 시설을 떠나세요.",
+      "TW": "離開黑水基地。"
+    }
+  },
+  "Lever is in guard post, find the key": {
+    "translation": "杠杆在警卫岗，去找到钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "レバーはガードポストにある、鍵を見つける",
+      "CN": "杠杆在警卫岗亭，找到钥匙",
+      "KR": "레버는 경비실에 있습니다. 열쇠를 찾으세요.",
+      "TW": "槓桿在崗哨處，找到鑰匙。"
+    }
+  },
+  "MAP BY FRENCHY ": {
+    "translation": "地图作者：Frenchy 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "フレンチーによるマップ",
+      "CN": "由弗雷西制作的地图",
+      "KR": "프렌치가 만든 지도",
+      "TW": "由 Frenchy 繪製的地圖"
+    }
+  },
+  "NICE! we got power back, all is left are chemicals for the bomb": {
+    "translation": "太棒了！我们恢复了电力，现在只需寻找炸弹所需的化学品",
+    "MultiLang": {
+      "US": "",
+      "JP": "いいね！電源が復旧した。あとは爆弾用の化学薬品が残っているだけだ",
+      "CN": "太棒了！电力已恢复，只剩炸弹所需的化学品了",
+      "KR": "좋아! 전력이 복구됐어, 폭탄용 화학물질만 남아.",
+      "TW": "太好了！電力已恢復，現在只差炸彈所需的化學材料"
+    }
+  },
+  "NICE! we have 1 out of 3 chemicals": {
+    "translation": "太棒了！我们已经有了3种化学品中的1种",
+    "MultiLang": {
+      "US": "",
+      "JP": "いいね！3つある化学薬品のうち1つを手に入れた",
+      "CN": "太棒了！已找到3种化学品中的1种",
+      "KR": "좋아! 화학물질 3개 중 1개를 확보했어.",
+      "TW": "太好了！我們已取得3種化學材料中的1種"
+    }
+  },
+  "Nice, key was found, now we can enter maternity ward room.": {
+    "translation": "很好，找到了钥匙，现在我们可以进入产房",
+    "MultiLang": {
+      "US": "",
+      "JP": "よかった、キーが見つかった。これで出産室に入れる",
+      "CN": "找到了钥匙，现在可以进入产房了",
+      "KR": "좋아, 열쇠를 찾았으니 이제 산실로 진입할 수 있어.",
+      "TW": "不錯，找到鑰匙了，現在可以進入產房"
+    }
+  },
+  "Now we need to find other 3 keycards in main lab": {
+    "translation": "现在我们需要在主实验室找到其他3张钥匙卡",
+    "MultiLang": {
+      "US": "",
+      "JP": "次はメインラボの他の3つのキーカードを探す必要がある",
+      "CN": "现在需要在主实验室找到其他3张门禁卡",
+      "KR": "이제 메인 연구실에서 다른 키카드 3개를 찾아야 해.",
+      "TW": "現在我們需要在主實驗室尋找其餘的3張鑰匙卡"
+    }
+  },
+  "OK we found 6 keycards now we can enter to second part of the lab": {
+    "translation": "好的，我们找到了6张钥匙卡，现在可以进入实验室的第二部分",
+    "MultiLang": {
+      "US": "",
+      "JP": "OK、6枚のキーカードを手に入れた。これでラボの第2部に入れる",
+      "CN": "已集齐6张门禁卡，可以进入实验室的第二部分了",
+      "KR": "좋아, 키카드 6개를 확보했으니 연구실 두 번째 구역으로 진입할 수 있어.",
+      "TW": "好，我們找到6張鑰匙卡了，現在可以進入實驗室的第二區"
+    }
+  },
+  "Office doors will close in 10 sec": {
+    "translation": "办公室门将在10秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "オフィスのドアが10秒後に閉まります",
+      "CN": "办公室门将在10秒后关闭",
+      "KR": "사무실 문이 10초 후 자동으로 닫힐 거야.",
+      "TW": "辦公室門將在10秒後關閉"
+    }
+  },
+  "Office doors will open in 20 sec": {
+    "translation": "办公室门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "オフィスのドアが20秒後に開きます",
+      "CN": "办公室门将在20秒后开启",
+      "KR": "사무실 문이 20초 후 열릴 거야.",
+      "TW": "辦公室門將在20秒後開啟"
+    }
+  },
+  "Oh god its Decayed, we need to kill him to escape": {
+    "translation": "哦天啊，是腐烂者，我们需要杀死他才能逃脱",
+    "MultiLang": {
+      "US": "",
+      "JP": "神様、デケイだ！彼を倒さないと逃げられない",
+      "CN": "天哪，那是衰变者！我们必须消灭他才能逃脱",
+      "KR": "우렁차, 저것은 '부패한 자'야. 도망치려면 반드시 처치해야 해.",
+      "TW": "天啊，是腐化者，我們必須消滅他才能逃離"
+    }
+  },
+  "Oh god she is scary, run for your lifes": {
+    "translation": "哦天啊，她真可怕，逃命吧",
+    "MultiLang": {
+      "US": "",
+      "JP": "神啊、あいつは怖い。命を賭けて逃げろ",
+      "CN": "天哪，她太可怕了，快逃命吧！",
+      "KR": "젠장, 그녀 무서워! 자기 생명 구해!",
+      "TW": "天啊，她太可怕了，快逃命！"
+    }
+  },
+  "Omg did you hear that? Someone broke in": {
+    "translation": "天哪，你听到了吗？有人闯入了",
+    "MultiLang": {
+      "US": "",
+      "JP": "ひえッ、あの音聞こえた？谁かが忍び込んだみたいだ",
+      "CN": "天哪，你听到了吗？有人闯进来了。",
+      "KR": "헉, 그 소리 들렸어? 누군가 집에侵入했어.",
+      "TW": "老天，你聽到那聲了嗎？有人闖進來了。"
+    }
+  },
+  "Omg! We need to kill that hunter ": {
+    "translation": "天哪！我们需要杀死那个猎人",
+    "MultiLang": {
+      "US": "",
+      "JP": "ひえッ！あのハンターを仕留めるしかない！",
+      "CN": "天哪！我们必须杀掉那个猎人。",
+      "KR": "헉! 그 사냥꾼을 저격해야 해!",
+      "TW": "老天！我們必須殺了那個獵人。"
+    }
+  },
+  "Pick up the key": {
+    "translation": "拿起钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "キーを拾う",
+      "CN": "拾取钥匙",
+      "KR": "열쇠를 주워라",
+      "TW": "撿起鑰匙。"
+    }
+  },
+  "Pick up the key for the second floor room": {
+    "translation": "拿起二楼房间的钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "2階の部屋のキーを拾う",
+      "CN": "拾取二楼房间的钥匙",
+      "KR": "2층 방 열쇠를 주워라",
+      "TW": "撿起二樓房門的鑰匙。"
+    }
+  },
+  "Pick up the key from locked office, you will find crowbar there": {
+    "translation": "从锁着的办公室拿起钥匙，你会在那里找到撬棍",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロックがかかった事務室からキーを拾え。そこにレバーが見えるはずだ",
+      "CN": "从锁着的办公室里拾取钥匙，那里还有一把撬棍。",
+      "KR": "잠금 처리된 사무실의 열쇠를 주워라. 그 옆에 크로우바가 있을 거야.",
+      "TW": "從鎖著的辦公室撿起鑰匙，那裡還有一根撬棍。"
+    }
+  },
+  "Press the button to drown entire complex, we will have enough time to escape before everything blows up": {
+    "translation": "按下按钮淹没整个黑水综合设施，我们将有足够的时间在一切爆炸前逃脱",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタンを押して複合施設全体を水没させよう。爆発する前に逃げ切るのに十分な時間がある",
+      "CN": "按下按钮淹没整个综合体，我们还有足够的时间在一切爆炸前逃脱。",
+      "KR": "버튼을 눌러 시설 전체를 침수시켜라. 모든 것이 폭파되기 전에 충분히 탈출할 시간이 있을 거다.",
+      "TW": "按下按鈕淹沒整個綜合大樓，在一切爆炸之前我們有足夠的時間逃走。"
+    }
+  },
+  "Pull the lever": {
+    "translation": "拉动杠杆",
+    "MultiLang": {
+      "US": "",
+      "JP": "レバーを引く",
+      "CN": "拉动操纵杆",
+      "KR": "레버를 당겨라",
+      "TW": "拉下操縱桿。"
+    }
+  },
+  "Seems this wardrobe cant be moved, there might be secret passage": {
+    "translation": "这个衣橱似乎不能移动，可能有秘密通道",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうやらこのワードローブは動かせなさそうだ、秘密の通路があるのかもしれない",
+      "CN": "看起来这个衣柜无法移动，可能隐藏了密道",
+      "KR": "드워드는 움직일 수 없는 것 같습니다. 비밀 통로가 있을 수도 있습니다.",
+      "TW": "這個衣櫃似乎無法移動，裡面可能有密道"
+    }
+  },
+  "Sewer door will open in 30 sec": {
+    "translation": "下水道门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "下水道ドアが30秒後に開く",
+      "CN": "下水道门将在30秒后开启",
+      "KR": "하수구 문이 30초 후에 열립니다",
+      "TW": "下水道門將在 30 秒後打開"
+    }
+  },
+  "Sewer door will open in 40 sec": {
+    "translation": "下水道门将在40秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "下水道ドアが40秒後に開く",
+      "CN": "下水道门将在40秒后开启",
+      "KR": "하수구 문이 40초 후에 열립니다",
+      "TW": "下水道門將在 40 秒後打開"
+    }
+  },
+  "Sewer door will open in 5 sec": {
+    "translation": "下水道门将在5秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "下水道ドアが5秒後に開く",
+      "CN": "下水道门将在5秒后开启",
+      "KR": "하수구 문이 5초 후에 열립니다",
+      "TW": "下水道門將在 5 秒後打開"
+    }
+  },
+  "Stage 1 - Completed": {
+    "translation": "关卡1-已完成",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1 - 完了",
+      "CN": "阶段1 - 已完成",
+      "KR": "스테이지 1 - 완료",
+      "TW": "階段 1 - 已完成"
+    }
+  },
+  "Stage 2 - Completed": {
+    "translation": "关卡2-已完成",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2 - 完了",
+      "CN": "阶段2 - 已完成",
+      "KR": "스테이지 2 - 완료",
+      "TW": "階段 2 - 已完成"
+    }
+  },
+  "Stage 3 - Completed": {
+    "translation": "关卡3-已完成",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3 - 完了",
+      "CN": "阶段3 - 已完成",
+      "KR": "스테이지 3 - 완료",
+      "TW": "階段 3 - 已完成"
+    }
+  },
+  "THE DOOR OPEN 20 SECOND": {
+    "translation": "门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが20秒後に開く",
+      "CN": "门将在20秒后开启",
+      "KR": "문이 20초 후에 열립니다",
+      "TW": "門將在 20 秒後開啟"
+    }
+  },
+  "The door to the sewer will close in 10 sec": {
+    "translation": "下水道的门将在10秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "下水道のドアは10秒後に閉じます",
+      "CN": "下水道门将在10秒后关闭",
+      "KR": "하수도 문이 10초 후에 닫힙니다",
+      "TW": "下水道大門将在 10 秒后關閉"
+    }
+  },
+  "The door to the sewer will open in 40 sec": {
+    "translation": "下水道的门将在40秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "下水道のドアは40秒後に開きます",
+      "CN": "下水道门将在40秒后打开",
+      "KR": "하수도 문이 40초 후에 열립니다",
+      "TW": "下水道大門将在 40 秒後開啟"
+    }
+  },
+  "The door will close in 15 sec": {
+    "translation": "门将在15秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは15秒後に閉じます",
+      "CN": "门将在15秒后关闭",
+      "KR": "문이 15초 후에 닫힙니다",
+      "TW": "大门将在 15 秒后關閉"
+    }
+  },
+  "The door will close in 20 sec": {
+    "translation": "门将在20秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは20秒後に閉じます",
+      "CN": "门将在20秒后关闭",
+      "KR": "문이 20초 후에 닫힙니다",
+      "TW": "大们将在 20 秒后關閉"
+    }
+  },
+  "The door will close in 25 sec": {
+    "translation": "门将在25秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは25秒後に閉じます",
+      "CN": "门将在25秒后关闭",
+      "KR": "문이 25초 후에 닫힙니다",
+      "TW": "大门将在 25 秒后關閉"
+    }
+  },
+  "The door will close in 30 sec": {
+    "translation": "门将在30秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは30秒後に閉じます",
+      "CN": "门将在30秒后关闭",
+      "KR": "문이 30초 후에 닫힙니다",
+      "TW": "大门将在 30 秒后關閉"
+    }
+  },
+  "The door will close in 5 sec": {
+    "translation": "门将在5秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは5秒後に閉じます",
+      "CN": "门将在5秒后关闭",
+      "KR": "문이 5초 후에 닫힙니다",
+      "TW": "大门将在 5 秒后關閉"
+    }
+  },
+  "The door will open in 10 sec": {
+    "translation": "门将在10秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは10秒後に開きます",
+      "CN": "门将在10秒后打开",
+      "KR": "문이 10초 후에 열립니다",
+      "TW": "大们将在 10 秒後開啟"
+    }
+  },
+  "The door will open in 15 sec": {
+    "translation": "门将在15秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に扉が開きます",
+      "CN": "门将在 15 秒后打开",
+      "KR": "문이 15초 후에 열립니다",
+      "TW": "門將在 15 秒後開啟"
+    }
+  },
+  "The door will open in 20 sec": {
+    "translation": "门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が開きます",
+      "CN": "门将在 20 秒后打开",
+      "KR": "문이 20초 후에 열립니다",
+      "TW": "門將在 20 秒後開啟"
+    }
+  },
+  "The door will open in 25 sec": {
+    "translation": "门将在25秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒後に扉が開きます",
+      "CN": "门将在 25 秒后打开",
+      "KR": "문이 25초 후에 열립니다",
+      "TW": "門將在 25 秒後開啟"
+    }
+  },
+  "The door will open in 30 sec": {
+    "translation": "门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に扉が開きます",
+      "CN": "门将在 30 秒后打开",
+      "KR": "문이 30초 후에 열립니다",
+      "TW": "門將在 30 秒後開啟"
+    }
+  },
+  "The doors to will open in 10 sec": {
+    "translation": "门将在10秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に扉が開きます",
+      "CN": "门将将在 10 秒后打开",
+      "KR": "문이 10초 후에 열립니다",
+      "TW": "門將在 10 秒後開啟"
+    }
+  },
+  "The doors will close in 15 sec": {
+    "translation": "门将在15秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に扉が閉じます",
+      "CN": "门将在 15 秒后关闭",
+      "KR": "문이 15초 후에 닫힙니다",
+      "TW": "門將在 15 秒後關閉"
+    }
+  },
+  "The doors will close in 20 sec": {
+    "translation": "门将在20秒内关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が閉じます",
+      "CN": "门将在 20 秒后关闭",
+      "KR": "문이 20초 후에 닫힙니다",
+      "TW": "門將在 20 秒後關閉"
+    }
+  },
+  "The doors will open in 20 sec": {
+    "translation": "门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が開きます",
+      "CN": "门将在 20 秒后打开",
+      "KR": "문이 20초 후에 열립니다",
+      "TW": "門將在 20 秒後開啟"
+    }
+  },
+  "The emergency exit will open in 20 sec": {
+    "translation": "紧急出口将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "非常口、20秒後に開きます",
+      "CN": "紧急出口将在20秒后打开",
+      "KR": "비상구가 20초 후 열립니다",
+      "TW": "緊急出口將在20秒後開啟"
+    }
+  },
+  "The emergency exit will open in 30 sec": {
+    "translation": "紧急出口将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "非常口、30秒後に開きます",
+      "CN": "紧急出口将在30秒后打开",
+      "KR": "비상구가 30초 후 열립니다",
+      "TW": "緊急出口將在30秒後開啟"
+    }
+  },
+  "This is main lab, we need to find keys from experimental rooms": {
+    "translation": "这是主实验室，我们需要找到实验室的钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここはメインラボ。実験室からキーを見つける必要がある。",
+      "CN": "这里是主实验室，我们需要从试验室寻找钥匙",
+      "KR": "여기는 본 연구실입니다. 실험실에서 키를 찾아야 합니다",
+      "TW": "這是主要實驗室，我們需要從實驗室尋找鑰匙"
+    }
+  },
+  "This is main office, we need to find key to other rooms": {
+    "translation": "这是主办公室，我们需要找到其他房间的钥匙",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここはオフィス。他の部屋の鍵を見つける必要がある。",
+      "CN": "这里是主办公室，我们需要找到通往其他房间的门禁卡",
+      "KR": "여기는 본 사무원실입니다. 다른 방으로 들어가는 키를 찾아야 합니다",
+      "TW": "這是主要辦公室，我們需要找到通往其他房間的鑰匙"
+    }
+  },
+  "This is the end, we got out of the blackwater complex": {
+    "translation": "这是结束，我们逃离了黑水综合设施",
+    "MultiLang": {
+      "US": "",
+      "JP": "これで終わりだ、ブラックウォーター施設の敷地から脱出した。",
+      "CN": "终点到了，我们已逃离黑水综合体",
+      "KR": "이제 끝입니다. 블랙워터 연구소로부터 탈출했습니다",
+      "TW": "這是終點，我們已經逃出了黑水綜合大樓"
+    }
+  },
+  "To open 2-nd door we need 6 keycards": {
+    "translation": "要打开第二道门，我们需要6张钥匙卡",
+    "MultiLang": {
+      "US": "",
+      "JP": "2つ目のドアを開けるには、キーカードがあと6枚必要。",
+      "CN": "打开第二扇门需要6张门禁卡",
+      "KR": "2번 도어를 열려면 키카드 6장이 필요합니다",
+      "TW": "開啟第二道門需要6張鑰匙卡"
+    }
+  },
+  "Water control panel room will open in 25 sec": {
+    "translation": "水泵房将在25秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位管理室、25秒後に開きます",
+      "CN": "水位控制面板室将在25秒后打开",
+      "KR": "워터 컨트롤 패널실이 25초 후 열립니다",
+      "TW": "水冷卻面板室將在25秒後開啟"
+    }
+  },
+  "Water control panel room will open in 30 sec": {
+    "translation": "水泵房将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位管理室、30秒後に開きます",
+      "CN": "水位控制面板室将在30秒后打开",
+      "KR": "워터 컨트롤 패널실이 30초 후 열립니다",
+      "TW": "水冷卻面板室將在30秒後開啟"
+    }
+  },
+  "Water control panel room will open in 5 sec": {
+    "translation": "水泵房将在5秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "給水制御盤の部屋が5秒後に開きます",
+      "CN": "水箱控制面板将在5秒后打开",
+      "KR": "5초 후 급수 제어실 문이 열립니다",
+      "TW": "水控制面板室將在5秒後開啟"
+    }
+  },
+  "We finally got crowbar, now we can remove wooden blocks": {
+    "translation": "我们终于拿到了撬棍，现在我们可以移除木块",
+    "MultiLang": {
+      "US": "",
+      "JP": "ついにクロスバーを手に入れた、これで木製のブロックを取り外せる",
+      "CN": "我们终于拿到了撬棍，现在可以移开木板了",
+      "KR": "드디어 크루바를 획득했으니 이제 나무 블록을 제거할 수 있습니다",
+      "TW": "我們終於拿到撬棍，現在可以拆除木塊了"
+    }
+  },
+  "We found 2-nd chemical, last one is on the left side of the lab": {
+    "translation": "我们找到了第二种化学品，最后一种化学品在实验室的左侧",
+    "MultiLang": {
+      "US": "",
+      "JP": "2つ目の化学品を発見しました。最後のものは实验室の左側にあります",
+      "CN": "我们找到了第二种化学品，最后一种在实验室左侧",
+      "KR": "2번째 화학 물질을 발견했으며, 마지막 것은 연구실 왼쪽에 있습니다",
+      "TW": "我們找到了第二種化學品，最後一種位於實驗室左側"
+    }
+  },
+  "We got into last stage and need to finish with this and save the world from blackwater": {
+    "translation": "我们进入了最后一关，完成任务并拯救世界免受黑水的威胁",
+    "MultiLang": {
+      "US": "We got into the final stage and need to finish it off to save the world from blackwater",
+      "JP": "最終段階に入りました。これを使って世界をブラックウォーターから救わなければなりません",
+      "CN": "我们已经进入最终阶段，需要完成这个任务并从黑水手中拯救世界",
+      "KR": "마지막 단계에 진입했습니다. 이를 완료하여 흑수로부터 세계를 구해야 합니다",
+      "TW": "我們已進入最後階段，必須完成此任務，從黑水中拯救世界"
+    }
+  },
+  "We have collected a battery, it can increase the number of times the lantern can be used.": {
+    "translation": "我们收集了一个电池，它可以增加探照灯的使用次数。",
+    "MultiLang": {
+      "US": "",
+      "JP": "バッテリーを収集しました。ランタンの使用回数を増やすことができます",
+      "CN": "我们收集到了一个电池，可以增加灯笼的使用次数。",
+      "KR": "배터리를 수집했습니다. 등불 사용 횟수를 늘릴 수 있습니다",
+      "TW": "我們已收集到一顆電池，可增加提燈的啟動次數。"
+    }
+  },
+  "We have collected a bottle of pill, it can increase the number of times the heal can be used.": {
+    "translation": "我们收集了一瓶药丸，它可以增加奶的使用次数。",
+    "MultiLang": {
+      "US": "",
+      "JP": "回復の瓶を収集しました。回復の使用回数を増やすことができます",
+      "CN": "我们收集到了一瓶药丸，可以增加治疗的使用次数。",
+      "KR": "약병을 수집했습니다. 회복 도구 사용 횟수를 늘릴 수 있습니다",
+      "TW": "我們已收集到一瓶藥丸，可增加治療的啟動次數。"
+    }
+  },
+  "We need a drill for liquid inside the barrels": {
+    "translation": "我们需要一个钻头来获取桶内的液体",
+    "MultiLang": {
+      "US": "",
+      "JP": "バレル内の液体にはドリルが必要です",
+      "CN": "我们需要一把钻子来提取桶内的液体",
+      "KR": "배럴 내부 액체를 처리하려면 드릴이 필요합니다",
+      "TW": "我們需要鑽頭來處理桶內的液體"
+    }
+  },
+  "We need crowbar to remove wooden blocks from wardrobe": {
+    "translation": "我们需要撬棍来移除衣橱上的木块",
+    "MultiLang": {
+      "US": "",
+      "JP": "ワードローブから木製のブロックを取り外すにはクロスバーが必要です",
+      "CN": "我们需要撬棍才能移除衣柜中的木板",
+      "KR": "옷장 속 나무 블록을 제거하려면 크루바가 필요합니다",
+      "TW": "我們需要撬棍來拆除衣櫥上的木塊"
+    }
+  },
+  "We need to activate all levers to power up doors that jammed with stones": {
+    "translation": "我们需要激活所有杠杆来为被石头卡住的门供电",
+    "MultiLang": {
+      "US": "",
+      "JP": "石で詰まったドアに通電させるため、すべてのレバーを有効化する必要があります",
+      "CN": "我们需要激活所有杠杆，为被石块卡住的门供电",
+      "KR": "돌에 막혀 닫힌 문을 열기 위해 모든 레버를 작동시켜야 합니다",
+      "TW": "我們需要啟動所有槓桿，以便為被石塊卡住的門供電"
+    }
+  },
+  "We need to drown entire blackwater complex, activate all 3 pump levers": {
+    "translation": "我们需要淹没整个黑水综合设施，去激活所有3个泵杠杆",
+    "MultiLang": {
+      "US": "",
+      "JP": "ブラックウォーター地区全体を水没させ、3つのポンプレバーをすべて有効化する必要があります",
+      "CN": "我们需要淹没整个黑水综合体，并启动全部3个泵杠杆",
+      "KR": "블랙워터 단지를 완전히 침수시키고 3개의 펌프 레버를 작동해야 합니다",
+      "TW": "我們需要淹沒整個黑水綜合體，並啟動所有3個泵送槓桿"
+    }
+  },
+  "We need to gather chemicals for the bomb that will clear the way": {
+    "translation": "我们需要收集炸弹所需的化学品来清理道路",
+    "MultiLang": {
+      "US": "",
+      "JP": "通行路を開くための爆弾に使用する化学物質を収集する必要があります",
+      "CN": "我们需要收集制造炸弹所需的化学品，以清除前方的道路",
+      "KR": "길을 터뜨릴 폭탄에 사용할 화학물질을 수집해야 합니다",
+      "TW": "我們需要收集製作炸彈所需的化學品，以清除道路"
+    }
+  },
+  "Who is this? Looks like a little girl": {
+    "translation": "这是谁？看起来像个小女孩",
+    "MultiLang": {
+      "US": "",
+      "JP": "これは誰だ？まるで小さな女の子のようだ",
+      "CN": "这是谁？看起来像个小女孩。",
+      "KR": "누구지? 어린 소녀처럼 보인다",
+      "TW": "這是誰？看起來像個小女孩。"
+    }
+  },
+  "Who owns this casket?": {
+    "translation": "这个棺材是谁的？",
+    "MultiLang": {
+      "US": "",
+      "JP": "この棺槨の所有者は誰だ？",
+      "CN": "这具棺材是谁的？",
+      "KR": "이 관의 주인은 누구인가?",
+      "TW": "這個棺材是誰的？"
+    }
+  },
+  "[ADMIN] Selected [STAGE 1] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员]选择了[关卡1]作为下一轮。5秒后重启回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次のラウンドに[ステージ1]を選択しました。5秒後にラウンドを再起動します。",
+      "CN": "[管理员] 已选择 [第1阶段] 作为下一轮次。将在5秒后重置回合。",
+      "KR": "[ADMIN] 다음 라운드의 맵으로 [스테이지 1]을 선택했습니다. 5초 후 라운드가 재시작됩니다.",
+      "TW": "[系統管理員] 已為下一輪選定 [第1階段]。5秒後重新開始本輪。"
+    }
+  },
+  "[ADMIN] Selected [STAGE 2] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员]选择了[关卡2]作为下一轮。5秒后重启回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次のラウンドに[ステージ2]を選択しました。5秒後にラウンドを再起動します。",
+      "CN": "[管理员] 已选择 [第2阶段] 作为下一轮次。将在5秒后重置回合。",
+      "KR": "[ADMIN] 다음 라운드의 맵으로 [스테이지 2]을 선택했습니다. 5초 후 라운드가 재시작됩니다.",
+      "TW": "[系統管理員] 已為下一輪選定 [第2階段]。5秒後重新開始本輪。"
+    }
+  },
+  "[ADMIN] Selected [STAGE 3] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员]选择了[关卡3]作为下一轮。5秒后重启回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次のラウンドに[ステージ3]を選択しました。5秒後にラウンドを再起動します。",
+      "CN": "[管理员] 已选择 [第3阶段] 作为下一轮次。将在5秒后重置回合。",
+      "KR": "[ADMIN] 다음 라운드의 맵으로 [스테이지 3]을 선택했습니다. 5초 후 라운드가 재시작됩니다.",
+      "TW": "[系統管理員] 已為下一輪選定 [第3階段]。5秒後重新開始本輪。"
+    }
+  },
+  "[STAGE 1 HOSPITAL OF BLACKWATER]": {
+    "translation": "[关卡1 黑水医院]",
+    "MultiLang": {
+      "US": "[STAGE 1 BLACKWATER HOSPITAL]",
+      "JP": "[ブラックウォーター病院 第1ステージ]",
+      "CN": "[黑水镇一级医院]",
+      "KR": "[블랙워터 병원 1페이즈]",
+      "TW": "[黑水鎮第一階段醫院]"
+    }
+  },
+  "[STAGE 2 LABORATORY OF BLACKWATER]": {
+    "translation": "[关卡2 黑水实验室]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ブラックウォーター研究所 第2ステージ]",
+      "CN": "[黑水镇二级实验室]",
+      "KR": "[블랙워터 연구소 2페이즈]",
+      "TW": "[黑水鎮第二階段實驗室]"
+    }
+  },
+  "[STAGE 3 SEWERAGE OF BLACKWATER]": {
+    "translation": "[关卡3 黑水下水道]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ブラックウォーター下水道 第3ステージ]",
+      "CN": "[黑水镇三级下水道]",
+      "KR": "[블랙워터 하수관 3페이즈]",
+      "TW": "[黑水鎮第三階段下水道]"
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "| MAP BY NUTWOOMY |": {
+    "translation": "| 地图作者：NUTWOOMY |",
+    "MultiLang": {
+      "US": "",
+      "JP": "制作：NUTWOOMY",
+      "CN": "| 地图由 NUTWOOMY 制作 |",
+      "KR": "| MAP BY NUTWOOMY |",
+      "TW": "地圖製作：NUTWOOMY"
+    }
+  },
+  "| | 1 / 2 | |": {
+    "translation": "| | 1 / 2 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 1 / 4 | |": {
+    "translation": "| | 1 / 4 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 10 | |": {
+    "translation": "| | 10秒 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "| | 10秒 | |",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 15 | |": {
+    "translation": "| | 15秒 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "| | 15秒 | |",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 2 / 2 | |": {
+    "translation": "| | 2 / 2 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 2 / 4 | |": {
+    "translation": "| | 2 / 4 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 20 | |": {
+    "translation": "| | 20秒 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "| | 20秒 | |",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 25 | |": {
+    "translation": "| | 25秒 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "| | 25秒 | |",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 3 / 4 | |": {
+    "translation": "| | 3 / 4 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 30 | |": {
+    "translation": "| | 30秒 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "| | 30秒 | |",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 35 | |": {
+    "translation": "| | 35秒 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "| | 35秒 | |",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 4 / 4 | |": {
+    "translation": "| | 4 / 4 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | 5 | |": {
+    "translation": "| | 5秒 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "| | 5秒 | |",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| | heal | |": {
+    "translation": "| | 奶已拾取 | |",
+    "MultiLang": {
+      "US": "",
+      "JP": "| | 回復 | |",
+      "CN": "| | 治疗 | |",
+      "KR": "치유",
+      "TW": "| | 治療 | |"
+    }
+  }
+}

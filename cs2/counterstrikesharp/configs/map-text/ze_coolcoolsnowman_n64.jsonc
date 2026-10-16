@@ -1,113 +1,372 @@
 {
   "*** COLLECT THE 8 RED COINS TO OPEN THE DOOR ***": {
-    "translation": "*** 收集8个红色硬币以打开门 ***"
+    "translation": "*** 收集8个红色硬币以打开门 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアを開けるために赤いコイン8個を集めてください ***",
+      "CN": "*** 收集8枚红色硬币以打开大门 ***",
+      "KR": "*** 문-opening에 필요한 빨간 동전 8개를 모으세요 ***",
+      "TW": "*** 收集 8 個紅幣以打開房門 ***"
+    }
   },
   "*** DEFEND 15 SECONDS UNTIL THE FLOOR BREAK ***": {
-    "translation": "*** 防守15秒直到地面破裂 ***"
+    "translation": "*** 防守15秒直到地面破裂 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 床が崩壊するまで15秒間防衛してください ***",
+      "CN": "*** 坚守15秒直到地板崩塌 ***",
+      "KR": "*** 바닥이 무너지기까지 15초간 방어하세요 ***",
+      "TW": "*** 守衛 15 秒直到地板塌陷 ***"
+    }
   },
   "*** DEFEND 25 SECONDS 'TILL THE SNOWMAN MELT ***": {
-    "translation": "*** 防守25秒直到雪人融化 ***"
+    "translation": "*** 防守25秒直到雪人融化 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 雪だるまが溶けるまで25秒間防衛してください ***",
+      "CN": "*** 坚守25秒直到雪人融化 ***",
+      "KR": "*** 눈사람이 녹기까지 25초간 방어하세요 ***",
+      "TW": "*** 守衛 25 秒直到雪人融化 ***"
+    }
   },
   "*** DEFEND 30 SECONDS 'TIL THE BRIDGE COLLAPSE ***": {
-    "translation": "*** 防守30秒直到桥坍塌 ***"
+    "translation": "*** 防守30秒直到桥坍塌 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 橋が崩落するまで30秒間防衛してください ***",
+      "CN": "*** 坚守30秒直到桥梁坍塌 ***",
+      "KR": "*** 다리가 무너지기까지 30초간 방어하세요 ***",
+      "TW": "*** 守衛 30 秒直到橋樑倒塌 ***"
+    }
   },
   "*** DEFEND FOR 20 LAST SECONDS ***": {
-    "translation": "*** 最后防守20秒 ***"
+    "translation": "*** 最后防守20秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後の20秒間を強襲します ***",
+      "CN": "*** 坚守最后的20秒 ***",
+      "KR": "*** 마지막 20초간 버티세요 ***",
+      "TW": "*** 守衛最後 20 秒 ***"
+    }
   },
   "*** DEFEND THE SNOWMAN'S HEAD FOR 20 SECONDS ***": {
-    "translation": "*** 防守雪人的头部20秒 ***"
+    "translation": "*** 防守雪人的头部20秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 雪だるまの頭部を20秒間守ってください ***",
+      "CN": "*** 守护雪人头部20秒 ***",
+      "KR": "*** 눈사람의 머리를 20초간 보호하세요 ***",
+      "TW": "*** 保護雪人頭部 20 秒 ***"
+    }
   },
   "*** DEFEND UNTIL THE CHIMNEY IS REACHABLE ***": {
-    "translation": "*** 防守到可以烟囱到达为止 ***"
+    "translation": "*** 防守到可以烟囱到达为止 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** チンクに到達するまで防衛してください ***",
+      "CN": "*** 坚守直到烟囱可触及 ***",
+      "KR": "*** 굴뚝에 도달할 때까지 방어하세요 ***",
+      "TW": "*** 守衛直到煙囪可到達 ***"
+    }
   },
   "*** ELEVATOR WILL MOVE IN 15 SECONDS ***": {
-    "translation": "*** 电梯将在15秒后移动 ***"
+    "translation": "*** 电梯将在15秒后移动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターは15秒後に作動します ***",
+      "CN": "*** 电梯将在15秒后启动 ***",
+      "KR": "*** 엘리베이터가 15초 후 이동합니다 ***",
+      "TW": "*** 電梯將在下 15 秒後移動 ***"
+    }
   },
   "*** FALL BACK ! ***": {
-    "translation": "*** 撤退！ ***"
+    "translation": "*** 撤退！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 後退 !!! ***",
+      "CN": "*** 紧急撤退！***",
+      "KR": "*** FALL BACK ! ***",
+      "TW": "*** 後撤 !***"
+    }
   },
   "*** FALL BACK ***": {
-    "translation": "*** 撤退 ***"
+    "translation": "*** 撤退 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 後退 ***",
+      "CN": "*** 紧急撤退 ***",
+      "KR": "*** FALL BACK ***",
+      "TW": "*** 後撤 ***"
+    }
   },
   "*** HERE WE GO ! ***": {
-    "translation": "*** 出发了！ ***"
+    "translation": "*** 出发了！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** いっきだ !!! ***",
+      "CN": "*** 出发！***",
+      "KR": "*** HERE WE GO ! ***",
+      "TW": "*** 我們來啦 !***"
+    }
   },
   "*** LET'S A-GO ! ***": {
-    "translation": "*** 开始吧！ ***"
+    "translation": "*** 开始吧！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 行こうぜ ! ***",
+      "CN": "*** 行动起来！***",
+      "KR": "*** LET'S A-GO ! ***",
+      "TW": "*** 出發 !***"
+    }
   },
   "*** LET'S FLY ! ***": {
-    "translation": "*** 飞起来！ ***"
+    "translation": "*** 飞起来！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 飛ぼう ! ***",
+      "CN": "*** 起飞！***",
+      "KR": "*** LET'S FLY ! ***",
+      "TW": "*** 飛翔 !***"
+    }
   },
   "*** PENGUIN WILL MOVE IN 15 SECONDS ***": {
-    "translation": "*** 企鹅将在15秒后移动 ***"
+    "translation": "*** 企鹅将在15秒后移动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ペンギンが動きますまで15秒です ***",
+      "CN": "*** 企鹅将在15秒后移动 ***",
+      "KR": "*** PENGUIN WILL MOVE IN 15 SECONDS ***",
+      "TW": "*** 企鵝將在15秒後移動 ***"
+    }
   },
   "*** SHOOT THE BOX ! ***": {
-    "translation": "*** 射击箱子！ ***"
+    "translation": "*** 射击箱子！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 箱を撃て ! ***",
+      "CN": "*** 射击箱子！***",
+      "KR": "*** SHOOT THE BOX ! ***",
+      "TW": "*** 射擊箱子 !***"
+    }
   },
   "*** SHOOT THIS WALL TO OPEN A PATH !! ***": {
-    "translation": "*** 射击这面墙以打开一条路！！ ***"
+    "translation": "*** 射击这面墙以打开一条路！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** この壁を撃って道を開け !! ***",
+      "CN": "*** 射穿这面墙来开辟道路！！***",
+      "KR": "*** SHOOT THIS WALL TO OPEN A PATH !! ***",
+      "TW": "*** 射擊這面牆以開通道路!!***"
+    }
   },
   "*** SO LONG EH SNOW WAVES ! ***": {
-    "translation": "*** 再见了，雪浪！ ***"
+    "translation": "*** 再见了，雪浪！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** さらばね、雪の波よ！ ***",
+      "CN": "*** 再见，雪花飘飘！***",
+      "KR": "*** SO LONG EH SNOW WAVES ! ***",
+      "TW": "*** 再見啦，雪浪！ ***"
+    }
   },
   "*** THE DOOR WILL OPEN IN 20 SECONDS ***": {
-    "translation": "*** 门将在20秒后打开 ***"
+    "translation": "*** 门将在20秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉が20秒後に開きます ***",
+      "CN": "*** 门将在20秒后开启 ***",
+      "KR": "*** 20초 후에 문이 열립니다 ***",
+      "TW": "*** 門將在 20 秒後開啟 ***"
+    }
   },
   "*** THE DOORS WILL OPEN IN 20 SECONDS ***": {
-    "translation": "*** 门将在20秒后打开 ***"
+    "translation": "*** 门将在20秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉が20秒後に開きます ***",
+      "CN": "*** 大门将在20秒后开启 ***",
+      "KR": "*** 20초 후에 문이 열립니다 ***",
+      "TW": "*** 門將在 20 秒後開啟 ***"
+    }
   },
   "*** THE ELEVATOR WILL BE ACCESSIBLE IN 10 SECONDS ***": {
-    "translation": "*** 电梯将在10秒后可用 ***"
+    "translation": "*** 电梯将在10秒后可用 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが10秒後に稼働します ***",
+      "CN": "*** 电梯将在10秒后可用 ***",
+      "KR": "*** 10초 후 엘리베이터가 접근 가능합니다 ***",
+      "TW": "*** 電梯將在 10 秒後可通行 ***"
+    }
   },
   "*** THE ELEVATOR WILL MOVE IN 10 SECONDS ***": {
-    "translation": "*** 电梯将在10秒后移动 ***"
+    "translation": "*** 电梯将在10秒后移动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが10秒後に動きます ***",
+      "CN": "*** 电梯将在10秒后启动 ***",
+      "KR": "*** 10초 후 엘리베이터가 이동합니다 ***",
+      "TW": "*** 電梯將在 10 秒後啟動 ***"
+    }
   },
   "*** THE FLOWER PUSH WILL START IN 20 SECONDS ***": {
-    "translation": "*** 花朵推力将在20秒后开始 ***"
+    "translation": "*** 花朵推力将在20秒后开始 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 花のプッシュが20秒後に始まります ***",
+      "CN": "*** 花朵按钮将在20秒后激活 ***",
+      "KR": "*** 20초 후 꽃 밀기가 시작됩니다 ***",
+      "TW": "*** 花朵推進機制將在 20 秒後開始 ***"
+    }
   },
   "*** THE GIANT SHELL WILL MOVE IN 15 SECONDS ***": {
-    "translation": "*** 巨型贝壳将在15秒后移动 ***"
+    "translation": "*** 巨型贝壳将在15秒后移动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 巨大貝殻が15秒後に動きます ***",
+      "CN": "*** 巨型贝壳将在15秒后移动 ***",
+      "KR": "*** 15초 후 거대한 껍질이 이동합니다 ***",
+      "TW": "*** 巨殼將在 15 秒後移動 ***"
+    }
   },
   "*** THE GREAT COLD WILL KILL EVERYTHING BELOW ***": {
-    "translation": "*** 寒流将杀死一切生物 ***"
+    "translation": "*** 寒流将杀死一切生物 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 猛烈な寒さが地中の全てを凍死させます ***",
+      "CN": "*** 极寒将杀死一切低于此界的存在 ***",
+      "KR": "*** 대한의이 그 아래의 모든 것을 죽입니다 ***",
+      "TW": "*** 極寒將消滅下方的一切 ***"
+    }
   },
   "*** THE ICE ON THE LADDER WILL MELT IN 20 SECONDS ***": {
-    "translation": "*** 梯子上的冰将在20秒后融化 ***"
+    "translation": "*** 梯子上的冰将在20秒后融化 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** はしごの氷は20秒後に溶ける ***",
+      "CN": "*** 梯子上方的冰将在20秒后融化 ***",
+      "KR": "*** 사다리 위의 눈은 20초 후에 녹습니다 ***",
+      "TW": "*** 梯上的冰將在20秒後融化 ***"
+    }
   },
   "*** THE ICE WALL WILL BREAK IN 20 SECONDS ! ***": {
-    "translation": "*** 冰墙将在20秒后破裂！ ***"
+    "translation": "*** 冰墙将在20秒后破裂！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 氷の壁は20秒後に壊れる！***",
+      "CN": "*** 冰墙将在20秒后破碎！***",
+      "KR": "*** 벽의 얼음은 20초 후에 깨집니다! ***",
+      "TW": "*** 冰牆將在20秒後破裂！ ***"
+    }
   },
   "*** THE PATH IS CLEAR ! GO GO GO ! ***": {
-    "translation": "*** 路已清理！快走！快走！ ***"
+    "translation": "*** 路已清理！快走！快走！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** パス通れ！さあ、行く！ ***",
+      "CN": "*** 路径已清空！快跑！***",
+      "KR": "*** 길이 막히지 않았습니다! 빨리 이동하세요! ***",
+      "TW": "*** 道路已通暢！快衝啊！ ***"
+    }
   },
   "*** THE PLATEFORM WILL MOVE IN 20 SECONDS ***": {
-    "translation": "*** 平台将在20秒后移动 ***"
+    "translation": "*** 平台将在20秒后移动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 板ハウスは20秒後に動く ***",
+      "CN": "*** 平台将在20秒后移动 ***",
+      "KR": "*** 플랫폼은 20초 후에 움직입니다 ***",
+      "TW": "*** 平台將在20秒後移動 ***"
+    }
   },
   "*** THE PLATEFORM WILL MOVE UP IN 20 SECONDS ***": {
-    "translation": "*** 平台将在20秒后向上移动 ***"
+    "translation": "*** 平台将在20秒后向上移动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 板ハウスは20秒後に上に動く ***",
+      "CN": "*** 平台将在20秒后向上移动 ***",
+      "KR": "*** 플랫폼은 20초 후에 위로 이동합니다 ***",
+      "TW": "*** 平台將在20秒後上升 ***"
+    }
   },
   "*** WAIT 15 SECONDS ***": {
-    "translation": "*** 等待15秒 ***"
+    "translation": "*** 等待15秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒待つ ***",
+      "CN": "*** 等待15秒 ***",
+      "KR": "*** 15초 동안 기다리세요 ***",
+      "TW": "*** 等待15秒 ***"
+    }
   },
   "*** WAIT 20 SECONDS FOR THE ICE TO MELT ***": {
-    "translation": "*** 等待20秒让冰融化 ***"
+    "translation": "*** 等待20秒让冰融化 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 氷が溶けるまで20秒待つ ***",
+      "CN": "*** 等待20秒直至冰融化 ***",
+      "KR": "*** 얼음이 녹을 때까지 20초 동안 기다리세요 ***",
+      "TW": "*** 等待20秒讓冰融化 ***"
+    }
   },
   "*** WE FOUND THE SECRET STAR ! ***": {
-    "translation": "*** 我们找到了秘密星星！ ***"
+    "translation": "*** 我们找到了秘密星星！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** シークレットスターを見つけた！***",
+      "CN": "*** 我们发现秘密星星了！***",
+      "KR": "*** 비밀 스타를 발견했습니다! ***",
+      "TW": "*** 我們找到了秘密星星！ ***"
+    }
   },
   "*** WE FOUND THE STAR ! ***": {
-    "translation": "*** 我们找到了星星！ ***"
+    "translation": "*** 我们找到了星星！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 星を発見した！ ***",
+      "CN": "*** 我们发现了星辰！ ***",
+      "KR": "*** 별을 찾았다 ! ***",
+      "TW": "*** 我們找到星辰了！***"
+    }
   },
   "*** WE WILL BE FREE IN 20 SECONDS ! ***": {
-    "translation": "*** 我们将在20秒后自由！ ***"
+    "translation": "*** 我们将在20秒后自由！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後に解放される！ ***",
+      "CN": "*** 20秒后我们将重获自由！ ***",
+      "KR": "*** 20초 후에 우리는 해방된다 ! ***",
+      "TW": "*** 我們將在 20 秒後重獲自由！***"
+    }
   },
   "*** ZOMBIES TP TO THE PENGUIN IN 15 SECONDS ***": {
-    "translation": "*** 僵尸将在15秒后传送到企鹅那里 ***"
+    "translation": "*** 僵尸将在15秒后传送到企鹅那里 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後にゾンビがペンギンにテレポートします ***",
+      "CN": "*** 僵尸将在15秒内传送至企鹅处 ***",
+      "KR": "*** 좀비가 펭귄에게 15초 후에 tp됩니다 ***",
+      "TW": "*** 殭屍將於 15 秒後傳送至企鵝處***"
+    }
   },
   "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD": {
-    "translation": "地图作者：BLUE BLUE，感谢MAPEADORES DISCORD的帮助 翻译：Asteri3m"
+    "translation": "地图作者：BLUE BLUE，感谢MAPEADORES DISCORD的帮助 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD",
+      "CN": "地图制作：Blue Blue，感谢Mapeadores Discord群组的帮助",
+      "KR": "BLUE BLUE가 제작한 맵, MAPEADORES DISCORD의 도움으로",
+      "TW": "由 Blue Blue 製作，並獲 Mapeadores Discord 社群協助"
+    }
   },
   "*** DEFEND FOR 30 LAST SECONDS ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後の30秒を守れ ***",
+      "CN": "*** 坚守最后30秒 ***",
+      "KR": "*** 마지막 30초를 방어하라 ***",
+      "TW": "*** 堅守最後 30 秒***"
+    }
   }
 }

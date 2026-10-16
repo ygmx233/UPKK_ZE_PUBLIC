@@ -1,0 +1,162 @@
+{
+  "ze surf daybreak": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゼ サーフ デイブレイク",
+      "CN": "破晓冲浪日",
+      "KR": "저 서프 데이브레이크",
+      "TW": "破曉之潮"
+    }
+  },
+  "Map by Chartapilus": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作: Chartapilus",
+      "CN": "地图作者：Chartapilus",
+      "KR": "차르타필러스의 맵",
+      "TW": "地圖製作：Chartapilus"
+    }
+  },
+  "Port by 三百度幸运12121": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Port by 三百度幸运12121",
+      "JP": "ポータル制作: 三百度幸运12121",
+      "CN": "移植由 3百度幸运12121",
+      "KR": "삼백도 럭키원21212의 포트",
+      "TW": "場景建模：三百度幸運12121"
+    }
+  },
+  "~ The portal is open ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ ポータルが開きました ～",
+      "CN": "~ 传送门已开启 ~",
+      "KR": "~ 포털이 열렸습니다 ~",
+      "TW": "~ 傳送門已開啟 ~"
+    }
+  },
+  "~ Zombies come in 20sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ ゾンビが20秒後に出現します ～",
+      "CN": "~ 20秒后刷尸潮 ~",
+      "KR": "~ 좀비가 20초 후에 나타납니다 ~",
+      "TW": "~ 殭屍將出現於 20 秒後 ~"
+    }
+  },
+  "~ Touch the light to open the portal ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 光にタッチしてポータルを開いてください ～",
+      "CN": "~ 触碰光源以开启传送门 ~",
+      "KR": "~ 빛에 닿아 포털을 여세요 ~",
+      "TW": "~ 觸碰光亮以開啟傳送門 ~"
+    }
+  },
+  "~ Afk tele in 20sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ AFKテレポートまで20秒 ～",
+      "CN": "~ 20秒后挂机传送 ~",
+      "KR": "~ 20초 후 AFK 텔레포트 ~",
+      "TW": "~ 閒置無操作將在 20 秒後傳送離開 ~"
+    }
+  },
+  "~ Zombies come in 15sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ ゾンビが15秒後に出現します ～",
+      "CN": "~ 15秒后刷尸潮 ~",
+      "KR": "~ 좀비가 15초 후에 나타납니다 ~",
+      "TW": "~ 殭屍將出現於 15 秒後 ~"
+    }
+  },
+  "~ Find me ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 私を見つけて ～",
+      "CN": "~ 找到我 ~",
+      "KR": "~ 나를 찾아줘 ~",
+      "TW": "~ 搜尋我 ~"
+    }
+  },
+  "0_0": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "~ Zombies come in 11sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ ゾンビが 11 秒後に出現 ～",
+      "CN": "~ 僵尸将在 11 秒后出现 ~",
+      "KR": "~ 좀비가 11초 안에 접근합니다 ~",
+      "TW": "~ 殭屍將於 11 秒內出現 ~"
+    }
+  },
+  "~ Last afk tele in 20 sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "~ Last AFK tele in 20 sec ~",
+      "JP": "～ AFKテレポート残り 20 秒 ～",
+      "CN": "~ AFK 传送剩余 20 秒 ~",
+      "KR": "~ 마지막 afk 텔레포트까지 20초 ~",
+      "TW": "~ 最後一次 AFK 傳送將於 20 秒後進行 ~"
+    }
+  },
+  "~ 25sec until platform break ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ プラットフォーム崩壊まで 25 秒 ～",
+      "CN": "~ 平台将在 25 秒后碎裂 ~",
+      "KR": "~ 플랫폼 붕괴까지 25초 ~",
+      "TW": "~ 平台將碎裂於 25 秒後 ~"
+    }
+  },
+  "~ Breaking the platform ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ プラットフォーム崩壊中 ～",
+      "CN": "~ 平台正在碎裂 ~",
+      "KR": "~ 플랫폼 파괴 중 ~",
+      "TW": "~ 平台即將碎裂 ~"
+    }
+  },
+  "ze_surf_daybreak": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze_surf_daybreak",
+      "CN": "ze_surf_daybreak",
+      "KR": "ze_surf_daybreak",
+      "TW": "ze_surf_daybreak"
+    }
+  },
+  "~ FIN ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 終 ～",
+      "CN": "~ FIN ~",
+      "KR": "~ FIN ~",
+      "TW": "~ 結束 ~"
+    }
+  }
+}

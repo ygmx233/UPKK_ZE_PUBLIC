@@ -1,62 +1,252 @@
 {
   "10": {
-    "translation": "10s"
+    "translation": "10s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "20": {
-    "translation": "20s"
+    "translation": "20s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "25": {
-    "translation": "25s"
+    "translation": "25s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "30": {
-    "translation": "30s"
+    "translation": "30s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "40": {
-    "translation": "40s"
+    "translation": "40s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "60": {
-    "translation": "60s"
+    "translation": "60s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "ZE_OVERLORD": {
-    "translation": "ZE_OVERLORD 不死者之王"
+    "translation": "ZE_OVERLORD 不死者之王",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZE_OVERLORD",
+      "CN": "ZE：支配者",
+      "KR": "ZE 오버로드",
+      "TW": "不死者之王"
+    }
   },
   "ZE_OVERLORD Chapter I": {
-    "translation": "ZE_OVERLORD 不死者之王 章节 I"
+    "translation": "ZE_OVERLORD 不死者之王 章节 I",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZE_OVERLORD 第1章",
+      "CN": "ZE：支配者 - 序章",
+      "KR": "ZE 오버로드 챕터 I",
+      "TW": "不死者之王 第一章"
+    }
   },
   "ZE_OVERLORD Chapter II": {
-    "translation": "ZE_OVERLORD 不死者之王 章节 II"
+    "translation": "ZE_OVERLORD 不死者之王 章节 II",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZE_OVERLORD 第2章",
+      "CN": "ZE：支配者 - 第一章",
+      "KR": "ZE 오버로드 챕터 II",
+      "TW": "不死者之王 第二章"
+    }
   },
   "ZE_OVERLORD Chapter III": {
-    "translation": "ZE_OVERLORD 不死者之王 章节 III"
+    "translation": "ZE_OVERLORD 不死者之王 章节 III",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZE_OVERLORD 第3章",
+      "CN": "ZE：支配者 - 第二章",
+      "KR": "ZE 오버로드 챕터 III",
+      "TW": "不死者之王 第三章"
+    }
   },
   "ZE_OVERLORD Chapter IV MAP BY <佐贺> <Riggin>": {
-    "translation": "ZE_OVERLORD 不死者之王 章节 IV 地图作者： <佐贺> <Riggin>"
+    "translation": "ZE_OVERLORD 不死者之王 章节 IV 地图作者： <佐贺> <Riggin>",
+    "MultiLang": {
+      "US": "ZE_OVERLORD Chapter IV MAP BY <Saga> <Riggin>",
+      "JP": "ZE_OVERLORD 第4章 MAP BY <佐賀> <Riggin>",
+      "CN": "ZE_OVERLORD 不死者之王 章节 IV 地图作者： <佐贺> <Riggin>",
+      "KR": "ZE 오버로드 챕터 IV MAP BY <佐贺> <Riggin>",
+      "TW": "不死者之王 第四章 地圖製作：<佐贺> <Riggin>"
+    }
   },
   "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!": {
-    "translation": "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!"
+    "translation": "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!",
+    "MultiLang": {
+      "US": "Undead King: The time of final demise has come! Blasphemer, cease your frivolities!",
+      "JP": "不死者の王:終焉の時が来た!亵瀆者よ、戯れを止めろ!",
+      "CN": "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!",
+      "KR": "불사자의 왕: 종말의 시간이 도래했다! 타타르족, 장난을 그쳐라!",
+      "TW": "不死者之王：終焉之時已至！褻瀆者，停止鬧劇吧！"
+    }
   },
   "塔其米:亵渎者,你会后悔的": {
-    "translation": "塔其米:亵渎者,你会后悔的"
+    "translation": "塔其米:亵渎者,你会后悔的",
+    "MultiLang": {
+      "US": "Touch Me: Blasphemer, you will regret this.",
+      "JP": "タチミ:亵瀆者よ、お前は何も得られないだろう",
+      "CN": "塔其米:亵渎者,你会后悔的",
+      "KR": "타타르족: 장난을 치다가는 후회하게 될 것이다.",
+      "TW": "塔其米：褻瀆者，你會後悔的。"
+    }
   },
   "塔其米:你执意要踏足此地么?": {
-    "translation": "塔其米:你执意要踏足此地么?"
+    "translation": "塔其米:你执意要踏足此地么?",
+    "MultiLang": {
+      "US": "Touch Me: Are you determined to tread upon this ground?",
+      "JP": "タチミ:お前はこの地を踏み込もうとするのか?",
+      "CN": "塔其米:你执意要踏足此地么?",
+      "KR": "타타르족: 너는 정말로 이곳을踏み드러갈 생각인가?",
+      "TW": "塔其米：你執意要踏入此地嗎？"
+    }
   },
   "封印纳萨利里克的亡灵于坟墓之内": {
-    "translation": "封印纳萨利里克的亡灵于坟墓之内"
+    "translation": "封印纳萨利里克的亡灵于坟墓之内",
+    "MultiLang": {
+      "US": "Engrave the undead of Nazarick within their tombs.",
+      "JP": "ネサレリクの亡霊を墓所に封印する",
+      "CN": "封印纳萨利里克的亡灵于坟墓之内",
+      "KR": "나살리릭의 네흘을 무덤 안에 봉인하라",
+      "TW": "封印納薩力克的亡灵於墳墓之中"
+    }
   },
   "测试版本": {
-    "translation": "测试版本"
+    "translation": "测试版本",
+    "MultiLang": {
+      "US": "Test Version",
+      "JP": "テストバージョン",
+      "CN": "测试版本",
+      "KR": "테스트 버전",
+      "TW": "測試版本"
+    }
   },
   "第六位阶:火焰之翼": {
-    "translation": "第六位阶:火焰之翼"
+    "translation": "第六位阶:火焰之翼",
+    "MultiLang": {
+      "US": "Sixth Rank: Wings of Flame",
+      "JP": "第六位階：火の翼",
+      "CN": "第六位阶:火焰之翼",
+      "KR": "sixth 단계: 화염의 날개",
+      "TW": "第六階位：火焰之翼"
+    }
   },
   "纳萨力克的亡灵......我无意亵渎此地......愿你安息": {
-    "translation": "纳萨力克的亡灵......我无意亵渎此地......愿你安息"
+    "translation": "纳萨力克的亡灵......我无意亵渎此地......愿你安息",
+    "MultiLang": {
+      "US": "The undead of Nazarick... I have no intention to desecrate this place... May you rest in peace.",
+      "JP": "ネサレリクの亡霊……私はこの場所を冒涜するつもりはありません……安らかに休むがよい",
+      "CN": "纳萨力克的亡灵......我无意亵渎此地......愿你安息",
+      "KR": "나살리릭의 네흘...... 나는 이 곳을 모독할 의도가 없다...... 평안히 쉬거라",
+      "TW": "納薩力克的亡灵……我無意褻瀆此地……願你安息"
+    }
   },
   "雅儿贝德:亵渎者,在地狱之火中安息吧!": {
-    "translation": "雅儿贝德:亵渎者,在地狱之火中安息吧!"
+    "translation": "雅儿贝德:亵渎者,在地狱之火中安息吧!",
+    "MultiLang": {
+      "US": "Ybbre: Profane, rest in hellfire!",
+      "JP": "ヤルベド：冒涜者よ、地獄の火の中で安らかに休め！",
+      "CN": "雅儿贝德:亵渎者,在地狱之火中安息吧!",
+      "KR": "야르베드: 모독자여, 지옥의 불길 속에서 평안히 쉬거라!",
+      "TW": "雅儿贝德：褻瀆者，在地獄之火中安息吧！"
+    }
   },
   "世界级道具:倾国倾城": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "World-class item: Captivating Beauty",
+      "JP": "ワールドクラスアイテム：傾国傾城",
+      "CN": "世界級道具:傾國傾城",
+      "KR": "세계적 아이템: 국색천향",
+      "TW": "世界级道具：傾國傾城"
+    }
+  },
+  "25S": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒",
+      "CN": "25秒",
+      "KR": "25S",
+      "TW": "25S"
+    }
+  },
+  "10S": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒",
+      "CN": "10秒",
+      "KR": "10S",
+      "TW": "10S"
+    }
+  },
+  "20S": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒",
+      "CN": "20秒",
+      "KR": "20초",
+      "TW": "20秒"
+    }
+  },
+  "30S": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒",
+      "CN": "30秒",
+      "KR": "30초",
+      "TW": "30秒"
+    }
+  },
+  "40S": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒",
+      "CN": "40S",
+      "KR": "40초",
+      "TW": "40秒"
+    }
   }
 }

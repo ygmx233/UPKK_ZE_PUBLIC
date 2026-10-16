@@ -1,0 +1,42 @@
+{
+  "*** Map version 0.0.0.5 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マップバージョン 0.0.0.5 ***",
+      "CN": "*** 地图版本 0.0.0.5 ***",
+      "KR": "*** 맵 버전 0.0.0.5 ***",
+      "TW": "*** 地圖版本 0.0.0.5 ***"
+    }
+  },
+  "*** Map by Haryde, Microrost, Friend, Kotya ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マップ制作：Haryde, Microrost, Friend, Kotya ***",
+      "CN": "*** 地图由 Haryde, Microrost, Friend, Kotya 制作 ***",
+      "KR": "*** 맵 제작: Haryde, Microrost, Friend, Kotya ***",
+      "TW": "*** 地圖由 Haryde、Microrost、Friend、Kotya 製作 ***"
+    }
+  },
+  "*** Special thanks to: Vanyarin for translating the text and all dialogues into English and Lexer for his work with sounds and music. ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 特別感謝：テキストおよび全ダイアログの英訳を担当したVanyarin、サウンドおよび音楽制作を担当したLexerへ ***",
+      "CN": "*** 特别感谢：Vanyarin 负责将文本和所有对话翻译成英文，Lexer 负责音效和音乐的工作。 ***",
+      "KR": "*** 특별 감사: Vanyarin (영문 텍스트 및 대화 번역), Lexer (음향 및 음악 작업) ***",
+      "TW": "*** 特別感謝：Vanyarin 將文本與所有對話翻譯為英文，以及 Lexer 在音效與音樂方面的貢獻。 ***"
+    }
+  },
+  "*** The secret passage will open in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 秘密の通路は5秒後に開きます ***",
+      "CN": "*** 秘密通道将在5秒后开启 ***",
+      "KR": "*** 비밀 통로가 5초 후에 열립니다 ***",
+      "TW": "*** 秘密通道將在 5 秒後開啟 ***"
+    }
+  }
+}

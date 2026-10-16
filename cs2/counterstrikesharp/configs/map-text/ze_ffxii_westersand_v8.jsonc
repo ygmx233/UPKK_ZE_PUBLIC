@@ -1,304 +1,1042 @@
 {
   "** [HARD MODE] **": {
-    "translation": "** [困难模式] **"
+    "translation": "** [困难模式] **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** [ハードモード] **",
+      "CN": "** [硬核模式] **",
+      "KR": "** [하드 모드] **",
+      "TW": "** [困難模式] **"
+    }
   },
   "** MAP BY SLAYERDRAGON & NOCTALI **": {
-    "translation": "** 地图作者：SLAYERDRAGON & NOCTALI 翻译：Asteri3m，Ayanami♪ **"
+    "translation": "** 地图作者：SLAYERDRAGON & NOCTALI 翻译：Asteri3m，Ayanami♪ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** マップ制作：SLAYERDRAGON & NOCTALI **",
+      "CN": "** 地图制作：SLAYERDRAGON & NOCTALI **",
+      "KR": "** 지도 제작: 슬레이어드래곤 & 녹탈리 **",
+      "TW": "** 地圖由 SLAYERDRAGON 和 NOCTALI 製作 **"
+    }
   },
   "** Be aware of fake donations - groups and profiles ! **": {
-    "translation": "** 警惕假的捐助渠道 - Steam群组和个人资料！**"
+    "translation": "** 警惕假的捐助渠道 - Steam群组和个人资料！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 偽の寄付や、偽のグループ・プロフィールに注意してください！ **",
+      "CN": "** 请注意假捐款——假冒的团队和个人资料！**",
+      "KR": "** 가짜 기부 그룹 및 프로필에 유의하십시오! **",
+      "TW": "** 請注意假冒捐款——無論是群組還是個人檔案！ **"
+    }
   },
   "** A player has learned Earth magick. **": {
-    "translation": "** 一名玩家捡起了大地权杖。**"
+    "translation": "** 一名玩家捡起了大地权杖。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが大地の魔法を習得しました。 **",
+      "CN": "** 一名玩家学会了大地魔法。**",
+      "KR": "** 한 플레이어가 땅의 마법을 습득했습니다. **",
+      "TW": "** 一名玩家已學會大地魔法。 **"
+    }
   },
   "** Defend until the guards open the airport. **": {
-    "translation": "** 防守，直到守卫开放机场。**"
+    "translation": "** 防守，直到守卫开放机场。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 警備員が空港を開けるまで防衛してください。 **",
+      "CN": "** 坚守防线，直到守卫打开机场大门。**",
+      "KR": "** 경비원이 공항 문을 열 때까지 방어하십시오. **",
+      "TW": "** 守衛直到守衛開啟機場為止。 **"
+    }
   },
   "** Airport opened. **": {
-    "translation": "** 机场已开放。**"
+    "translation": "** 机场已开放。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 空港が開きました。 **",
+      "CN": "** 机场已开放。**",
+      "KR": "** 공항이 개방되었습니다. **",
+      "TW": "** 機場已開啟。 **"
+    }
   },
   "** Defend 30 seconds until the guards open the hallway. **": {
-    "translation": "** 防守30秒，直到守卫开放道路。**"
+    "translation": "** 防守30秒，直到守卫开放道路。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 警備員が廊下を開けるまで30秒間防衛してください。 **",
+      "CN": "** 坚守30秒，直到守卫打开走廊。**",
+      "KR": "** 경비율이 복도를 열 때까지 30초 동안 방어하십시오. **",
+      "TW": "** 在守衛開啟走廊前堅持 30 秒。 **"
+    }
   },
   "** A player has learned Water magick. **": {
-    "translation": "** 一名玩家捡起了水花权杖。**"
+    "translation": "** 一名玩家捡起了水花权杖。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが水の魔法を習得しました。 **",
+      "CN": "** 一名玩家学会了水之魔法。**",
+      "KR": "** 한 플레이어가 물의 마법을 습득했습니다. **",
+      "TW": "** 一名玩家已學會水魔法。 **"
+    }
   },
   "** 5 Seconds left **": {
-    "translation": "** 还剩5秒 **"
+    "translation": "** 还剩5秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒",
+      "CN": "**剩余 5 秒**",
+      "KR": "남은 시간 5초",
+      "TW": "**剩餘 5 秒**"
+    }
   },
   "** Defend here so the guards will open the gates to the city ! **": {
-    "translation": "** 20秒，防守这里，直到守卫打开通往城市的门！ **"
+    "translation": "** 20秒，防守这里，直到守卫打开通往城市的门！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここを守れ！守衛が城門を開ける！",
+      "CN": "**在此防守，迫使守卫打开城门！**",
+      "KR": "지켜서 경비병들이 성문으로 들어오게 하세요!",
+      "TW": "**在此防守，讓衛兵開啟城門！**"
+    }
   },
   "** A player has learned Wind magick. **": {
-    "translation": "** 一名玩家捡起了飓风权杖。**"
+    "translation": "** 一名玩家捡起了飓风权杖。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが風の魔法を習得しました。",
+      "CN": "**一名玩家习得了风魔法。**",
+      "KR": "플레이어가 바람 마법을 습득했습니다.",
+      "TW": "**一名玩家習得了風系魔法。**"
+    }
   },
   "** A player has learned Heal magick. **": {
-    "translation": "** 一名玩家捡起了治疗权杖。**"
+    "translation": "** 一名玩家捡起了治疗权杖。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが回復の魔法を習得しました。",
+      "CN": "**一名玩家习得了治愈魔法。**",
+      "KR": "플레이어가 치료 마법을 습득했습니다.",
+      "TW": "**一名玩家習得了治療魔法。**"
+    }
   },
   "** Cover here till the boxes explode **": {
-    "translation": "** 在这里防守25秒直到箱子被爆破 **"
+    "translation": "** 在这里防守25秒直到箱子被爆破 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "箱が爆発するまでここを守り抜け！",
+      "CN": "**在此掩护，直到箱子爆炸**",
+      "KR": "상자가 폭발할 때까지 여기서 커버하세요",
+      "TW": "**在這裡掩護直到箱子爆炸**"
+    }
   },
   "** A player has learned Electro magick. **": {
-    "translation": "** 一名玩家捡起了雷电权杖。**"
+    "translation": "** 一名玩家捡起了雷电权杖。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが雷の魔法を習得しました。",
+      "CN": "**一名玩家习得了电魔法。**",
+      "KR": "플레이어가 전기 마법을 습득했습니다.",
+      "TW": "**一名玩家習得了雷系魔法。**"
+    }
   },
   "** A player has learned Fire magick. **": {
-    "translation": "** 一名玩家捡起了烈焰权杖。**"
+    "translation": "** 一名玩家捡起了烈焰权杖。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが火の魔法を習得しました。",
+      "CN": "**一名玩家习得了火魔法。**",
+      "KR": "플레이어가 불 마법을 습득했습니다.",
+      "TW": "**一名玩家習得了火系魔法。**"
+    }
   },
   "** The first door will open in 10 seconds **": {
-    "translation": "** 第一扇门将在10秒后打开 **"
+    "translation": "** 第一扇门将在10秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に最初の扉が開きます",
+      "CN": "**第一扇门将在 10 秒后开启**",
+      "KR": "첫 번째 문이 10초 후에 열립니다",
+      "TW": "**第一扇門將在 10 秒後開啟**"
+    }
   },
   "** The second door will open in 15 seconds **": {
-    "translation": "** 第二扇门将在15秒后打开 **"
+    "translation": "** 第二扇门将在15秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 2番目のドアは15秒後に開きます **",
+      "CN": "第二道门将在15秒后打开",
+      "KR": "** 두 번째 문이 15초 후에 열립니다 **",
+      "TW": "**第二道門將在 15 秒後開啟**"
+    }
   },
   "** Keep defending!! **": {
-    "translation": "** 继续防守！！ **"
+    "translation": "** 继续防守！！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 防衛を維持せよ！！**",
+      "CN": "继续防守！！！",
+      "KR": "** 방어 계속!! **",
+      "TW": "**繼續防禦！！**"
+    }
   },
   "** FIRE NOVA INBOUND **": {
-    "translation": "** 5秒，大火来袭 **"
+    "translation": "** 5秒，大火来袭 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ファイアノヴァが接近中**",
+      "CN": "新星射击即将来袭",
+      "KR": "** 화염 노바 접근 중 **",
+      "TW": "**新星射擊即將命中**"
+    }
   },
   "** USE WATER TO DODGE IT  **": {
-    "translation": "** 使用水来解决或用奶来抵抗 **"
+    "translation": "** 使用水来解决或用奶来抵抗 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 水を避けるために使え  **",
+      "CN": "使用水来躲避它",
+      "KR": "** 물로 회피하세요  **",
+      "TW": "**利用水來躲避它**"
+    }
   },
   "** The dragon has been defeated **": {
-    "translation": "** 龙已被击败 **"
+    "translation": "** 龙已被击败 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ドラゴンが撃破されました**",
+      "CN": "巨龙已被击败",
+      "KR": "** 드래곤이 격파되었습니다 **",
+      "TW": "**龍已被擊敗**"
+    }
   },
   "** Bomb planted - hold 30 seconds **": {
-    "translation": "** 炸弹已放置 - 防守30秒 **"
+    "translation": "** 炸弹已放置 - 防守30秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 爆弾設置 - 30秒後に起爆**",
+      "CN": "炸弹已安置 - 倒计时30秒",
+      "KR": "** 폭탄 설치 - 30초 유지 **",
+      "TW": "**已放置炸彈 - 維持 30 秒**"
+    }
   },
   "** 10 more seconds until explosion **": {
-    "translation": "** 距离爆炸还有10秒 **"
+    "translation": "** 距离爆炸还有10秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 爆発まであと10秒**",
+      "CN": "距爆炸还剩10秒",
+      "KR": "** 폭발까지 10초 남음 **",
+      "TW": "**距離爆炸還有 10 秒**"
+    }
   },
   "** Go to the end of the road ! **": {
-    "translation": "** 向路的尽头前进！ **"
+    "translation": "** 向路的尽头前进！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 道の先へ進め！ **",
+      "CN": "前往道路尽头！",
+      "KR": "** 도로 끝으로 가세요! **",
+      "TW": "**前往道路盡頭！**"
+    }
   },
   "** 60 SECS REMAINING **": {
-    "translation": "** 还剩60秒 **"
+    "translation": "** 还剩60秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り60秒 **",
+      "CN": "** 剩余60秒 **",
+      "KR": "** 60초 남음 **",
+      "TW": "** 剩餘 60 秒 **"
+    }
   },
   "** 50 SECS REMAINING **": {
-    "translation": "** 还剩50秒 **"
+    "translation": "** 还剩50秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り50秒 **",
+      "CN": "** 剩余50秒 **",
+      "KR": "** 50초 남음 **",
+      "TW": "** 剩餘 50 秒 **"
+    }
   },
   "** 40 SECS REMAINING **": {
-    "translation": "** 还剩40秒 **"
+    "translation": "** 还剩40秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り40秒 **",
+      "CN": "** 剩余40秒 **",
+      "KR": "** 40초 남음 **",
+      "TW": "** 剩餘 40 秒 **"
+    }
   },
   "** 30 SECS REMAINING **": {
-    "translation": "** 还剩30秒 **"
+    "translation": "** 还剩30秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り30秒 **",
+      "CN": "** 剩余30秒 **",
+      "KR": "** 30초 남음 **",
+      "TW": "** 剩餘 30 秒 **"
+    }
   },
   "** 20 SECS REMAINING **": {
-    "translation": "** 还剩20秒 **"
+    "translation": "** 还剩20秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り20秒 **",
+      "CN": "** 剩余20秒 **",
+      "KR": "** 20초 남음 **",
+      "TW": "** 剩餘 20 秒 **"
+    }
   },
   "** 10 SECS REMAINING **": {
-    "translation": "** 还剩10秒 **"
+    "translation": "** 还剩10秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り10秒 **",
+      "CN": "** 剩余10秒 **",
+      "KR": "** 10초 남음 **",
+      "TW": "** 剩餘 10 秒 **"
+    }
   },
   "** 5 SECS REMAINING **": {
-    "translation": "** 还剩5秒 **"
+    "translation": "** 还剩5秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り5秒 **",
+      "CN": "** 剩余5秒 **",
+      "KR": "** 5초 남음 **",
+      "TW": "** 剩餘 5 秒 **"
+    }
   },
   "** Zombies Have Escaped **": {
-    "translation": "** 僵尸逃脱了 **"
+    "translation": "** 僵尸逃脱了 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビが逃げ出した **",
+      "CN": "** 僵尸已逃脱 **",
+      "KR": "** 좀비가 탈출함 **",
+      "TW": "** 喪屍已逃脫**"
+    }
   },
   "** Congratulations - You won [HARD] **": {
-    "translation": "** 恭喜：你已经征服了 [困难] **"
+    "translation": "** 恭喜：你已经征服了 [困难] **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 祝 - [ハード] をクリアしました **",
+      "CN": "** 恭喜 —— 你获得了 [HARD] **",
+      "KR": "** 축하합니다 - 당신은 [하드]에서 승리했습니다 **",
+      "TW": "恭喜獲勝 - 您已通過 [困難模式]"
+    }
   },
   "** [EXTREME MODE] **": {
-    "translation": "[极限模式]"
+    "translation": "[极限模式]",
+    "MultiLang": {
+      "US": "",
+      "JP": "** [エクスートリームモード] **",
+      "CN": "** [极端模式] **",
+      "KR": "** [익스트림 모드] **",
+      "TW": "[極限模式]"
+    }
   },
   "** Hold 20 seconds until the door opens **": {
-    "translation": "** 防守20秒直到门打开 **"
+    "translation": "** 防守20秒直到门打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒間押して、扉が開くのを待ちます **",
+      "CN": "** 持续按住20秒直到门打开 **",
+      "KR": "** 문이 열릴 때까지 20초 동안 누르세요 **",
+      "TW": "請按住20秒，直到門打開"
+    }
   },
   "** 5 seconds remaining **": {
-    "translation": "** 剩下5秒 **"
+    "translation": "** 剩下5秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** あと5秒です **",
+      "CN": "** 剩余5秒 **",
+      "KR": "** 나머지 5초 **",
+      "TW": "剩餘5秒"
+    }
   },
   "** You may enter the tomb in 15 seconds **": {
-    "translation": "** 15秒后墓穴传送开放 **"
+    "translation": "** 15秒后墓穴传送开放 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒後に墓へ入れます **",
+      "CN": "** 您可在15秒后进入墓穴 **",
+      "KR": "** 15초 후에 묘실 입장이 가능합니다 **",
+      "TW": "您將在15秒內進入陵寢"
+    }
   },
   "** The doors will open in 25 seconds **": {
-    "translation": "** 门将在25秒后打开 **"
+    "translation": "** 门将在25秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒後に扉が開きます **",
+      "CN": "** 门将在25秒后打开 **",
+      "KR": "** 문이 25초 뒤에 열립니다 **",
+      "TW": "門將在25秒後打開"
+    }
   },
   "** The doors will open in 5 seconds **": {
-    "translation": "** 门将在5秒后打开 **"
+    "translation": "** 门将在5秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5秒後に扉が開きます **",
+      "CN": "** 门将在5秒后打开 **",
+      "KR": "** 문이 5초 뒤에 열립니다 **",
+      "TW": "門將在5秒後打開"
+    }
   },
   "** The next door opens in 15 seconds **": {
-    "translation": "** 下一扇门将在15秒后打开 **"
+    "translation": "** 下一扇门将在15秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒後に次の扉が開きます **",
+      "CN": "** 下一扇门将在15秒后打开 **",
+      "KR": "** 다음 문이 15초 뒤에 열립니다 **",
+      "TW": "下一道門將在15秒後開啟"
+    }
   },
   "** A random way will open in 10 seconds **": {
-    "translation": "** 10秒后将随机打开一条通道 **"
+    "translation": "** 10秒后将随机打开一条通道 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "【無作為なルート】10秒後に出現",
+      "CN": "** 随机路径将在 10 秒后开启 **",
+      "KR": "** 10초 후 랜덤 경로 개통 **",
+      "TW": "** 10 秒後將開啟隨機通道 **"
+    }
   },
   "** Boss Fight in 10s **": {
-    "translation": "** 10秒后进入Boss战 **"
+    "translation": "** 10秒后进入Boss战 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ボス戦】10秒後開始",
+      "CN": "** 首领战倒计时 10 秒 **",
+      "KR": "** 보스전 10초 전 **",
+      "TW": "** Boss 戰鬥 10 秒後開始 **"
+    }
   },
   "** Boss Fight in 5s **": {
-    "translation": "** 5秒后进入Boss战 **"
+    "translation": "** 5秒后进入Boss战 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ボス戦】5秒後開始",
+      "CN": "** 首领战倒计时 5 秒 **",
+      "KR": "** 보스전 5초 전 **",
+      "TW": "** Boss 戰鬥 5 秒後開始 **"
+    }
   },
   "** Belias is immune for fire and nades **": {
-    "translation": "** 贝利亚斯免疫火焰和手榴弹 **"
+    "translation": "** 贝利亚斯免疫火焰和手榴弹 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ベルシアス】ファイア・グレネードが効かない",
+      "CN": "** Belias 免疫火焰和手雷 **",
+      "KR": "** 벨리아스는 화염 및 수류탄에 면역입니다 **",
+      "TW": "** Belias 對火焰和手榴彈免疫 **"
+    }
   },
   "** Belias is defeated - Escape the tomb ! **": {
-    "translation": "** 贝利亚斯已被击败 - 逃离古墓！**"
+    "translation": "** 贝利亚斯已被击败 - 逃离古墓！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ベルシアス撃破】墓から脱出！",
+      "CN": "** Belias 已被击败 - 逃离墓穴！**",
+      "KR": "** 벨리아스 패배 - 무덤 탈출 ! **",
+      "TW": "** Belias 已被擊敗 - 逃出古墓！**"
+    }
   },
   "** The main door opens in 25 seconds **": {
-    "translation": "** 主门将在25秒后打开 **"
+    "translation": "** 主门将在25秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "【メインゲート】25秒後に開く",
+      "CN": "** 主门将在 25 秒后开启 **",
+      "KR": "** 메인 문 25초 후 개문 **",
+      "TW": "** 主門 25 秒後開啟 **"
+    }
   },
   "** The main door opens in 5 seconds **": {
-    "translation": "** 主门将在5秒后打开 **"
+    "translation": "** 主门将在5秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "【メインゲート】5秒後に開く",
+      "CN": "** 主门将在 5 秒后开启 **",
+      "KR": "** 메인 문 5초 후 개문 **",
+      "TW": "** 主門 5 秒後開啟 **"
+    }
   },
   "** Final door opens in 10 seconds! **": {
-    "translation": "** 最后一扇门将在10秒内打开！**"
+    "translation": "** 最后一扇门将在10秒内打开！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【最後の扉】10秒後に開く！",
+      "CN": "** 最终大门将在 10 秒后开启！**",
+      "KR": "** 최종 문 10초 후 개문! **",
+      "TW": "** 最終門 10 秒後開啟！**"
+    }
   },
   "** Teleporter will be ready in 10 seconds ! **": {
-    "translation": "** 传送器将在10秒后准备就绪！**"
+    "translation": "** 传送器将在10秒后准备就绪！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** テレポート装置が準備完了するまで10秒です！ **",
+      "CN": "**传送门将在 10 秒后就绪！**",
+      "KR": "** 텔레포터가 10초 후에 준비됩니다! **",
+      "TW": "**傳送門將在 10 秒後就緒！**"
+    }
   },
   "** Teleporter will be ready in 5 seconds ! **": {
-    "translation": "** 传送器将在5秒后准备就绪！**"
+    "translation": "** 传送器将在5秒后准备就绪！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** テレポート装置が準備完了するまで5秒です！ **",
+      "CN": "**传送门将在 5 秒后就绪！**",
+      "KR": "** 텔레포터가 5초 후에 준비됩니다! **",
+      "TW": "**傳送門將在 5 秒後就緒！**"
+    }
   },
   "** Congratulations - You won [EXTREME] **": {
-    "translation": "** 恭喜：你已经征服了 [极限] **"
+    "translation": "** 恭喜：你已经征服了 [极限] **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** おめでとうございます - あなたは[エクストリーム]で勝利しました**",
+      "CN": "**恭喜 - 您获得了 [极限模式]**",
+      "KR": "** 축하합니다 - [최고 난이도] 클리어! **",
+      "TW": "**恭喜 - 您獲勝 [極限模式]**"
+    }
   },
   "** [EPIC MODE] **": {
-    "translation": "** [史诗模式] **"
+    "translation": "** [史诗模式] **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** [エピックモード] **",
+      "CN": "**[史诗模式]**",
+      "KR": "** [에픽 모드] **",
+      "TW": "**[史詩模式]**"
+    }
   },
   "** Teleporters will be ready in 20 seconds ! **": {
-    "translation": "** 传送器将在20秒内准备就绪！**"
+    "translation": "** 传送器将在20秒内准备就绪！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** テレポート装置が準備完了するまで20秒です！ **",
+      "CN": "**传送门将在 20 秒后就绪！**",
+      "KR": "** 텔레포트어가 20초 후에 준비됩니다! **",
+      "TW": "**傳送門將在 20 秒後就緒！**"
+    }
   },
   "** Teleporters will be ready in 5 seconds ! **": {
-    "translation": "** 传送器将在5秒内准备就绪！ **"
+    "translation": "** 传送器将在5秒内准备就绪！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** テレポート装置が準備完了するまで5秒です！ **",
+      "CN": "**传送门将在 5 秒后就绪！**",
+      "KR": "** 텔레포트어가 5초 후에 준비됩니다! **",
+      "TW": "**傳送門將在 5 秒後就緒！**"
+    }
   },
   "** Gates will open in 15 seconds **": {
-    "translation": "** 大门将在15秒后打开 **"
+    "translation": "** 大门将在15秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 門が開くまで15秒 **",
+      "CN": "**大门将在 15 秒后开启**",
+      "KR": "** 게이트가 15초 후에 개방됩니다.",
+      "TW": "**大閘將在 15 秒後開啟**"
+    }
   },
   "** The arena will open in 20 seconds **": {
-    "translation": "** 竞技场将在20秒后开放 **"
+    "translation": "** 竞技场将在20秒后开放 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** アリーナが開くまで20秒 **",
+      "CN": "**竞技场将在 20 秒后开启**",
+      "KR": "** 아레나가 20초 후에 개방됩니다.",
+      "TW": "**競技場將在 20 秒後開啟**"
+    }
   },
   "** Nades do more damage (2s) **": {
     "translation": "** 使用高爆手雷造成更多伤害 (2秒) **",
-    "DoorCountDown": 2
+    "MultiLang": {
+      "US": "",
+      "JP": "グレネードのダメージ増加 (2秒)",
+      "CN": "**手雷伤害提升 (2秒)**",
+      "KR": "** 낙탄의 피해 증가 (2초) **",
+      "TW": "**手榴彈傷害增加（2秒）**"
+    }
   },
   "** Nades do more damage (8s) **": {
-    "translation": "** 使用高爆手雷造成更多伤害 (8秒) **"
+    "translation": "** 使用高爆手雷造成更多伤害 (8秒) **",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレネードのダメージ増加 (8秒)",
+      "CN": "**手雷伤害提升 (8秒)**",
+      "KR": "** 낙탄의 피해 증가 (8초) **",
+      "TW": "**手榴彈傷害增加（8秒）**"
+    }
   },
   "** The guardians are defeated - Escape ! **": {
-    "translation": "** 守卫者已被击败 - 撤退！**"
+    "translation": "** 守卫者已被击败 - 撤退！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "護衛部隊撃破 - 脱出！",
+      "CN": "**守卫已被击败——快逃！**",
+      "KR": "** 수호자들이 격파됨 - 탈출 ! **",
+      "TW": "**守衛已被消滅 - 逃跑！**"
+    }
   },
   "** ZOMBIE JAIL OPEN ! **": {
-    "translation": "** 僵尸来了！ **"
+    "translation": "** 僵尸来了！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビー刑務所解除！",
+      "CN": "**僵尸监狱大门已开启！**",
+      "KR": "** 좀비 감옥 개방 ! **",
+      "TW": "**殭屍監獄解鎖！**"
+    }
   },
   "** The final gate will open in 40 seconds **": {
-    "translation": "** 最后的大门将在40秒后打开 **"
+    "translation": "** 最后的大门将在40秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終ゲートが40秒後に開放されます",
+      "CN": "**最终大门将在40秒后开启**",
+      "KR": "** 최종 문이 40초 후에 열립니다 **",
+      "TW": "**最後一扇門將在40秒後開啟**"
+    }
   },
   "** The final gate will open in 5 seconds **": {
-    "translation": "** 最后的大门将在5秒后打开 **"
+    "translation": "** 最后的大门将在5秒后打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終ゲートが5秒後に開放されます",
+      "CN": "**最终大门将在5秒后开启**",
+      "KR": "** 최종 문이 5초 후에 열립니다 **",
+      "TW": "**最後一扇門將在5秒後開啟**"
+    }
   },
   "** The fence will break in 5s **": {
-    "translation": "** 栅栏将在5秒后断裂 **"
+    "translation": "** 栅栏将在5秒后断裂 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "フェンスが5秒後に崩壊します",
+      "CN": "**栅栏将在5秒内崩塌**",
+      "KR": "** 울타리가 5초 후 파쇄됩니다 **",
+      "TW": "**柵欄将在5秒後破損**"
+    }
   },
   "** The airship reactors are going to explode !! **": {
-    "translation": "** 飞船反应堆即将爆炸！！ **"
+    "translation": "** 飞船反应堆即将爆炸！！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "飛行船の反応炉が爆発します！！",
+      "CN": "**飞艇反应堆即将爆炸！！**",
+      "KR": "** 비행선 원자폭발 예정 !! **",
+      "TW": "**飛艇反應爐即將爆炸！！**"
+    }
   },
   "** Chaos has been defeated - RUN !!!!! **": {
-    "translation": "** 轮回王已被击败——快跑！！！ **"
+    "translation": "** 轮回王已被击败——快跑！！！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**カオスが撃破された - 走れ！！！！！**",
+      "CN": "** 混沌已被击败 - 快跑 !!!!! **",
+      "KR": "** 카오스가 패배했습니다 - 도주 !!!!! **",
+      "TW": "** 混沌已被擊敗 - 快跑 ！！！！ **"
+    }
   },
   "** Congratulations - You won [EPIC] **": {
-    "translation": "** 恭喜：你已经征服了 [史诗] **"
+    "translation": "** 恭喜：你已经征服了 [史诗] **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**おめでとうございます - [EPIC]で勝利しました**",
+      "CN": "** 恭喜你 - 你获得了 [史诗] **",
+      "KR": "** 축하합니다 - 당신은 [EPIC]에서 승리했습니다 **",
+      "TW": "** 恭喜 - 您獲勝 [史詩級] **"
+    }
   },
   "** [GOD MODE] **": {
-    "translation": "** [上帝模式] **"
+    "translation": "** [上帝模式] **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**[GOD MODE]**",
+      "CN": "** [神模式] **",
+      "KR": "** [GOD MODE] **",
+      "TW": "** [神模式] **"
+    }
   },
   "[ADMIN] Selected [GOD MODE] for next round.": {
-    "translation": "[管理员] 选择了[上帝模式]作为下一回合。"
+    "translation": "[管理员] 选择了[上帝模式]作为下一回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次のラウンドに[GOD MODE]を選択しました。",
+      "CN": "[管理员] 为下一轮选择了 [神模式]。",
+      "KR": "[ADMIN] 다음 라운드를 위해 [GOD MODE]를 선택했습니다.",
+      "TW": "[管理員] 已為下一回合選擇 [神模式]。"
+    }
   },
   "** Congratulations - You won [GODMODE] **": {
-    "translation": "** 恭喜：你已经征服了 [上帝] **"
+    "translation": "** 恭喜：你已经征服了 [上帝] **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**おめでとうございます - [GODMODE]で勝利しました**",
+      "CN": "** 恭喜你 - 你获得了 [神模式] **",
+      "KR": "** 축하합니다 - 당신은 [GODMODE]에서 승리했습니다 **",
+      "TW": "** 恭喜 - 您獲勝 [神模式] **"
+    }
   },
   "** THANKS FOR PLAYING **": {
-    "translation": "** 感谢游玩 **"
+    "translation": "** 感谢游玩 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ごプレイありがとうございました**",
+      "CN": "** 感谢游玩 **",
+      "KR": "** 플레이해 주셔서 감사합니다 **",
+      "TW": "** 感謝遊玩 **"
+    }
   },
   "** [ZM MODE] **": {
-    "translation": "[僵尸感染模式]"
+    "translation": "[僵尸感染模式]",
+    "MultiLang": {
+      "US": "",
+      "JP": "**[ZM MODE]**",
+      "CN": "** [僵尸模式] **",
+      "KR": "** [ZM MODE] **",
+      "TW": "** [殭屍模式] **"
+    }
   },
   "** NUKE IN 200 SECONDS **": {
-    "translation": "** 200秒后核爆 **"
+    "translation": "** 200秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核攻撃まで200秒**",
+      "CN": "** 200秒后核爆 **",
+      "KR": "** 핵공격 200초 후 발사 **",
+      "TW": "** 核彈襲擊倒數 200 秒 **"
+    }
   },
   "** NUKE IN 180 SECONDS **": {
-    "translation": "** 180秒后核爆 **"
+    "translation": "** 180秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核爆まであと3分**",
+      "CN": "** 180秒后核爆 **",
+      "KR": "** 핵폭발 180초 전 **",
+      "TW": "** 核彈發射倒數 180 秒 **"
+    }
   },
   "** NUKE IN 160 SECONDS **": {
-    "translation": "** 160秒后核爆 **"
+    "translation": "** 160秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核爆まであと2分40秒**",
+      "CN": "** 160秒后核爆 **",
+      "KR": "** 핵폭발 160초 전 **",
+      "TW": "** 核彈發射倒數 160 秒 **"
+    }
   },
   "** NUKE IN 140 SECONDS **": {
-    "translation": "** 140秒后核爆 **"
+    "translation": "** 140秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核爆まであと2分20秒**",
+      "CN": "** 140秒后核爆 **",
+      "KR": "** 핵폭발 140초 전 **",
+      "TW": "** 核彈發射倒數 140 秒 **"
+    }
   },
   "** NUKE IN 120 SECONDS **": {
-    "translation": "** 120秒后核爆 **"
+    "translation": "** 120秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核爆まであと2分**",
+      "CN": "** 120秒后核爆 **",
+      "KR": "** 핵폭발 120초 전 **",
+      "TW": "** 核彈發射倒數 120 秒 **"
+    }
   },
   "** NUKE IN 100 SECONDS **": {
-    "translation": "** 100秒后核爆 **"
+    "translation": "** 100秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核爆まであと1分40秒**",
+      "CN": "** 100秒后核爆 **",
+      "KR": "** 핵폭발 100초 전 **",
+      "TW": "** 核彈發射倒數 100 秒 **"
+    }
   },
   "** NUKE IN 80 SECONDS **": {
-    "translation": "** 80秒后核爆 **"
+    "translation": "** 80秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核爆まであと80秒**",
+      "CN": "** 80秒后核爆 **",
+      "KR": "** 핵폭발 80초 전 **",
+      "TW": "** 核彈發射倒數 80 秒 **"
+    }
   },
   "** NUKE IN 60 SECONDS **": {
-    "translation": "** 60秒后核爆 **"
+    "translation": "** 60秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核爆まであと60秒**",
+      "CN": "** 60秒后核爆 **",
+      "KR": "** 핵폭발 60초 전 **",
+      "TW": "** 核彈發射倒數 60 秒 **"
+    }
   },
   "** NUKE IN 40 SECONDS **": {
-    "translation": "** 40秒后核爆 **"
+    "translation": "** 40秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**核爆まであと40秒**",
+      "CN": "** 40秒后核爆 **",
+      "KR": "** 핵폭발 40초 전 **",
+      "TW": "** 核彈發射倒數 40 秒 **"
+    }
   },
   "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **": {
-    "translation": "** 10秒，正在将所有人传送到陆行鸟赛跑 **"
+    "translation": "** 10秒，正在将所有人传送到陆行鸟赛跑 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒後に全員をチョコボーレースへテレポート **",
+      "CN": "** 10秒后将所有人传送至鸸鹋大赛 **",
+      "KR": "** 10초 내에 모든 사람을 초콜로레이스장으로 텔레포트 **",
+      "TW": "** 10秒內將所有人傳送至風暴戰馬區 **"
+    }
   },
   "** TELEPORTING EVERYONE TO CHOCOBORACE **": {
-    "translation": "** 将所有人传送到陆行鸟赛跑 **"
+    "translation": "** 将所有人传送到陆行鸟赛跑 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 全員をチョコボーレースへテポート中 **",
+      "CN": "** 正在将所有人传送至鸸鹋大赛 **",
+      "KR": "** 모든 사람을 초콜로레이스장으로 텔레포트 **",
+      "TW": "** 將所有人傳送至風暴戰馬區 **"
+    }
   },
   "** ZOMBIES RELEASED IN 2 SECS **": {
     "translation": "** 僵尸将在2秒后释放 **",
-    "DoorCountDown": 2
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビ解放まであと2秒 **",
+      "CN": "** 2秒后释放僵尸 **",
+      "KR": "** 2초 내에 좀비 출시 **",
+      "TW": "** 2秒後釋放殭屍 **"
+    }
   },
   "** NUKE IN 20 SECONDS **": {
-    "translation": "** 20秒后核爆 **"
+    "translation": "** 20秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 核攻撃まであと20秒 **",
+      "CN": "** 20秒后核爆 **",
+      "KR": "** 20초 후에 핵폭발 **",
+      "TW": "** 20秒後發射核彈 **"
+    }
   },
   "** NUKE IN 10 SECONDS **": {
-    "translation": "** 10秒后核爆 **"
+    "translation": "** 10秒后核爆 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 核攻撃まであと10秒 **",
+      "CN": "** 10秒后核爆 **",
+      "KR": "** 10초 후에 핵폭발 **",
+      "TW": "** 10秒後發射核彈 **"
+    }
   },
   "[WINNER] Selected [GOD MODE] for next round.": {
-    "translation": "[胜者] 选择了[上帝模式]作为下一回合"
+    "translation": "[胜者] 选择了[上帝模式]作为下一回合",
+    "MultiLang": {
+      "US": "",
+      "JP": "[勝者] 次のラウンドに[ギドモード]を選択しました。",
+      "CN": "[获胜者] 选定 [神明模式] 用于下一轮。",
+      "KR": "[승리자] 다음 라운드에 [신 모드]를 선택했습니다.",
+      "TW": "[獲勝者] 已為下一輪選擇 [神格模式]。"
+    }
   },
   "** [INSANE DIFFICULTY ADDED] **": {
-    "translation": "** [增加了疯狂难度] **"
+    "translation": "** [增加了疯狂难度] **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** [インセン難易度を追加] **",
+      "CN": "** [已添加狂难度] **",
+      "KR": "** [어려움 난이도 추가됨] **",
+      "TW": "** [已添加極難難度] **"
+    }
   },
   "[ADMIN] Added [INSANE DIFFICULTY] for next round.": {
-    "translation": "[管理员] 设置了下回合添加 [疯狂难度]。"
+    "translation": "[管理员] 设置了下回合添加 [疯狂难度]。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[管理者] 次のラウンドに[インセン難易度]を追加しました。",
+      "CN": "[管理员] 为下一轮添加了 [狂难度]。",
+      "KR": "[관리자] 다음 라운드에 [어려움 난이도]를 추가했습니다.",
+      "TW": "[管理員] 已為下一輪添加 [極難難度]。"
+    }
   },
   "[ADMIN] Removed [INSANE DIFFICULTY] for next round.": {
-    "translation": "[管理员] 设置了下回合移除 [疯狂难度]。"
+    "translation": "[管理员] 设置了下回合移除 [疯狂难度]。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次回ラウンドの[インンス ディフィカルティ]を解除しました。",
+      "CN": "[管理员] 已移除 [疯狂难度]。",
+      "KR": "[ADMIN] 다음 라운드에 [매우 어려운 난이도]를 제거했습니다.",
+      "TW": "[管理員] 已移除下一輪的 [瘋狂難度]。"
+    }
   },
   "[ADMIN] Selected [HARD MODE] for next round.": {
-    "translation": "[管理员] 选择了[困难模式]作为下一回合。"
+    "translation": "[管理员] 选择了[困难模式]作为下一回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次回ラウンドの[ハード モード]を選択しました。",
+      "CN": "[管理员] 已选择下一轮 [困难模式]。",
+      "KR": "[ADMIN] 다음 라운드에 [어려운 모드]를 선택했습니다.",
+      "TW": "[管理員] 已為下一輪選擇 [困難模式]。"
+    }
   },
   "[ADMIN] Selected [EXTREME MODE] for next round.": {
-    "translation": "[管理员] 选择了[极限模式]作为下一回合。"
+    "translation": "[管理员] 选择了[极限模式]作为下一回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次回ラウンドの[エクストリーム モード]を選択しました。",
+      "CN": "[管理员] 已选择下一轮 [极限模式]。",
+      "KR": "[ADMIN] 다음 라운드에 [극한 모드]를 선택했습니다.",
+      "TW": "[管理員] 已為下一輪選擇 [極限模式]。"
+    }
   },
   "[ADMIN] Selected [EPIC MODE] for next round.": {
-    "translation": "[管理员] 选择了[史诗模式]作为下一回合。"
+    "translation": "[管理员] 选择了[史诗模式]作为下一回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次回ラウンドの[エピク モード]を選択しました。",
+      "CN": "[管理员] 已选择下一轮 [史诗模式]。",
+      "KR": "[ADMIN] 다음 라운드에 [오락 모드]를 선택했습니다.",
+      "TW": "[管理員] 已為下一輪選擇 [史詩模式]。"
+    }
   },
   "[ADMIN] Selected [ZM MODE] for next round.": {
-    "translation": "[管理员] 选择了[僵尸感染模式]作为下一回合。"
+    "translation": "[管理员] 选择了[僵尸感染模式]作为下一回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 次回ラウンドの[ZM モード]を選択しました。",
+      "CN": "[管理员] 已选择下一轮 [僵尸模式]。",
+      "KR": "[ADMIN] 다음 라운드에 [조ombie 모드]를 선택했습니다.",
+      "TW": "[管理員] 已為下一輪選擇 [殭屍模式]。"
+    }
   },
   "[ADMIN] Has set [EVENT MODE] for this map. Restarting round in 5 seconds.": {
-    "translation": "[管理员] 已为此地图设置 [连关模式]。5 秒后重新开始回合。"
+    "translation": "[管理员] 已为此地图设置 [连关模式]。5 秒后重新开始回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] このマップの[イベント モード]を設定しました。5秒後にラウンドを再開します。",
+      "CN": "[管理员] 为本地图设置 [事件模式]。5秒后重开回合。",
+      "KR": "[ADMIN] 해당 맵에 [이벤트 모드]를 설정했습니다. 5초 후 라운드 재시작.",
+      "TW": "[管理員] 已為本地圖設定 [活動模式]。五秒後重新開始回合。"
+    }
   },
   "[WINNER] Selected [EPIC MODE] for next round.": {
-    "translation": "[胜者] 选择了[史诗模式]作为下一回合"
+    "translation": "[胜者] 选择了[史诗模式]作为下一回合",
+    "MultiLang": {
+      "US": "",
+      "JP": "[WINNER] 次回ラウンドの[エピク モード]を選択しました。",
+      "CN": "[获胜者] 已选择下一轮 [史诗模式]。",
+      "KR": "[WINNER] 다음 라운드에 [오락 모드]를 선택했습니다.",
+      "TW": "[勝者] 已為下一輪選擇 [史詩模式]。"
+    }
   },
   "[ADMIN] Restarting round in 5 seconds.": {
-    "translation": "[管理员] 5秒后重新开始回合。"
+    "translation": "[管理员] 5秒后重新开始回合。",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ADMIN] 5秒後にラウンドを再開します。",
+      "CN": "5秒后重开回合。",
+      "KR": "[ADMIN] 5초 후 라운드 재시작.",
+      "TW": "[管理員] 五秒後重新開始回合。"
+    }
   },
   "[WINNER] Selected [EXTREME MODE] for next round": {
-    "translation": "[胜者] 选择了[极限模式]作为下一回合"
+    "translation": "[胜者] 选择了[极限模式]作为下一回合",
+    "MultiLang": {
+      "US": "",
+      "JP": "[WINNER] 次ラウンドは[EXTREME MODE]を選択",
+      "CN": "[获胜者] 为下一轮选择了 [极限模式]",
+      "KR": "[WINNER] 다음 라운드에 [EXTREME MODE]을(를) 선택했습니다",
+      "TW": "[獲勝者] 為下一輪選取 [極限模式]"
+    }
   },
   "[WINNER] Selected [HARD MODE] for next round": {
-    "translation": "[胜者] 选择了[困难模式]作为下一回合"
+    "translation": "[胜者] 选择了[困难模式]作为下一回合",
+    "MultiLang": {
+      "US": "",
+      "JP": "[WINNER] 次ラウンドは[HARD MODE]を選択",
+      "CN": "[获胜者] 为下一轮选择了 [困难模式]",
+      "KR": "[WINNER] 다음 라운드에 [HARD MODE]을(를) 선택했습니다",
+      "TW": "[獲勝者] 為下一輪選取 [困難模式]"
+    }
   },
   "[WINNER] Selected [NORMAL MODE] for next round": {
-    "translation": "[胜者] 选择了[普通模式]作为下一回合"
+    "translation": "[胜者] 选择了[普通模式]作为下一回合",
+    "MultiLang": {
+      "US": "",
+      "JP": "[WINNER] 次ラウンドは[NORMAL MODE]を選択",
+      "CN": "[获胜者] 为下一轮选择了 [普通模式]",
+      "KR": "[WINNER] 다음 라운드에 [NORMAL MODE]을(를) 선택했습니다",
+      "TW": "[獲勝者] 為下一輪選取 [普通模式]"
+    }
   },
   "**限制连跳**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Limit double jump",
+      "JP": "** 連続ジャンプ制限 **",
+      "CN": "",
+      "KR": "**연속 점프 제한**",
+      "TW": "**限制連跳**"
+    }
+  },
+  "** METEOR INBOUND **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 流星落下 **",
+      "CN": "** 陨石 Incoming **",
+      "KR": "** 유성 착지 **",
+      "TW": "**  meteor INBOUND **"
+    }
+  },
+  "** USE ELECTRO TO BREAK IT **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サイバー空間を攻撃せよ**",
+      "CN": "** 使用电磁力破坏它 **",
+      "KR": "** 전기로 파괴하세요 **",
+      "TW": "** 使用電擊來破壞它 **"
+    }
+  },
+  "** You have failed... **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 敗北しました... **",
+      "CN": "** 你失败了... **",
+      "KR": "** 실패했습니다... **",
+      "TW": "** 你失敗了... **"
+    }
+  },
+  "** There is an error in the level system. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   }
 }

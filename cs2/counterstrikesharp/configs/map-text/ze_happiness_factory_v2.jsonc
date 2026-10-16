@@ -1,0 +1,292 @@
+{
+  "你们再次来到了这个地方": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You have returned to this place once again.",
+      "JP": "再びこの場所に戻ってきた",
+      "CN": "",
+      "KR": "다시 그 장소에 도달했다",
+      "TW": "你們再次來到了這裡"
+    }
+  },
+  "这次一定要找到真相": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This time, you must uncover the truth.",
+      "JP": "今回は必ず真実を見つけ出すぞ",
+      "CN": "",
+      "KR": "이번에는 반드시 진실을 밝혀내야 해",
+      "TW": "這次一定要找到真相"
+    }
+  },
+  "后面就是老板的追兵": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Behind us are the boss's pursuers.",
+      "JP": "背後は社長を追う者たちだ",
+      "CN": "",
+      "KR": "뒤쪽은 사장의 추격자들이 있다",
+      "TW": "後面就是老闆的追兵"
+    }
+  },
+  "祝，武运昌隆": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Good luck in battle.",
+      "JP": "武運長久をお祈りします",
+      "CN": "",
+      "KR": "승리를 기원한다",
+      "TW": "祝，武運昌隆"
+    }
+  },
+  "*门将在 30 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Door opens in 30 seconds.*",
+      "JP": "*30秒後に扉が開きます*",
+      "CN": "",
+      "KR": "*문이 30초 후에 열립니다*",
+      "TW": "*門將在 30 秒後打開*"
+    }
+  },
+  "*门将在 10 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Door opens in 10 seconds.*",
+      "JP": "*10秒後に扉が開きます*",
+      "CN": "",
+      "KR": "*문이 10초 후에 열립니다*",
+      "TW": "*門將在 10 秒後打開*"
+    }
+  },
+  "电力系统恢复中.....": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Power system restoring.......",
+      "JP": "電力システムの復旧中.....",
+      "CN": "",
+      "KR": "전력 시스템 복구 중.....",
+      "TW": "電力系統恢復中....."
+    }
+  },
+  "感谢 莫等闲贤咸 提供的编译": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thanks to Mo Dengxian Xianxian for providing the build.",
+      "JP": "莫等闲贤咸さんによるコンパイルに感謝",
+      "CN": "",
+      "KR": "*모등순현한이 제공한 컴파일*",
+      "TW": "感謝 莫等閒賢咸 提供的編譯"
+    }
+  },
+  "*门将在 20 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The door will open in 20 seconds*",
+      "JP": "*20秒後にドアが開きます*",
+      "CN": "",
+      "KR": "*20초 후 문이 열립니다*",
+      "TW": "*門將在 20 秒後打開*"
+    }
+  },
+  "*门将在 5 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The door will open in 5 seconds*",
+      "JP": "*5秒後にドアが開きます*",
+      "CN": "",
+      "KR": "*5초 후 문이 열립니다*",
+      "TW": "*門將在 5 秒後打開*"
+    }
+  },
+  "*地板将在 10 秒后破碎*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The floor will break in 10 seconds*",
+      "JP": "*10秒後に床が崩壊します*",
+      "CN": "",
+      "KR": "*바닥이 10초後に 파손됩니다*",
+      "TW": "*地板將在 10 秒後破碎*"
+    }
+  },
+  "*门将在 25 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The door will open in 25 seconds*",
+      "JP": "*25秒後にドアが開きます*",
+      "CN": "",
+      "KR": "*25초 후 문이 열립니다*",
+      "TW": "*門將在 25 秒後打開*"
+    }
+  },
+  "* 20 *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "门将在 20 秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 20 seconds",
+      "JP": "門将在 20 秒后打开",
+      "CN": "",
+      "KR": "20초 후 문이 열립니다",
+      "TW": "門將在 20 秒後打開"
+    }
+  },
+  "*门将在 15 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The door will open in 15 seconds*",
+      "JP": "*15秒後にドアが開きます*",
+      "CN": "",
+      "KR": "*15초 후 문이 열립니다*",
+      "TW": "*門將在 15 秒後打開*"
+    }
+  },
+  "*电梯门将在 15 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The elevator doors will open in 15 seconds*",
+      "JP": "*15秒後にエレベーターのドアが開きます*",
+      "CN": "",
+      "KR": "*엘리베이터 문이 15秒后에 열립니다*",
+      "TW": "*電梯門將在 15 秒後打開*"
+    }
+  },
+  "*电梯将在 10 秒后离开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The elevator will depart in 10 seconds*",
+      "JP": "*10秒後にエレベーターが発車します*",
+      "CN": "",
+      "KR": "*엘리베이터가 10초後に 떠납니다*",
+      "TW": "*電梯將在 10 秒後離開*"
+    }
+  },
+  "*障碍物将在 10 秒后被清除*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*电梯门将在 20 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*左边的电梯快到了* ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*电梯门将在 5 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*电梯门将在 8 秒后关闭*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*门将在 20 秒打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*木板将在 20 秒后破碎*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*电梯门将在 25 秒后打开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "头顶上好像有什么B动静.......": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*下方控制台房间的玻璃是中国造的，要用一些特殊的方法打开......*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*警告！温度在升高！...........*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*警告！温度过高！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

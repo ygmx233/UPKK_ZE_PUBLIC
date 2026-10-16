@@ -1,8 +1,42 @@
 {
-  "* * * Hold this temple untill Steve does something * * *": {
-    "translation": "坚守这座寺庙直到史蒂夫有所行动"
+  "Map made by Puklica & Cuniczek": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：プクリツァ＆クニチェク",
+      "CN": "由 Puklica & Cuniczek 制作的地图",
+      "KR": "Map by Puklica & Cuniczek",
+      "TW": "地圖由 Puklica 與 Cuniczek 製作"
+    }
+  },
+  ">>> |LEVEL 1| <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> |レベル 1| <<<",
+      "CN": ">>> |LEVEL 1| <<<",
+      "KR": ">>> |LEVEL 1| <<<",
+      "TW": ">>> |等級 1| <<<"
+    }
   },
   "* * * Speed boat leaving in 6s * * *": {
-    "translation": "快艇将在6秒钟内离开"
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* * * 6秒後にスピードボートが発進 * * *",
+      "CN": "* * * 快艇将在 6 秒后出航 * * *",
+      "KR": "* * * 보트출발까지 6초 * * *",
+      "TW": "* * * 快艇即將於 6 秒後出發 * * *"
+    }
+  },
+  "* * * Hold this temple untill Steve does something * * *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* * * スティーブンが行動するまでこの神殿を守れ * * *",
+      "CN": "* * * 守护这座神庙，直到 Steve 采取行动 * * *",
+      "KR": "* * * 스티브가 조치를 취할 때까지 이 사원을 지키십시오. * * *",
+      "TW": "* * * 守住這座神廟，直到史蒂夫做出反應 * * *"
+    }
   }
 }

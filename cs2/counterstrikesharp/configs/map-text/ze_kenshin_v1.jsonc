@@ -1,83 +1,272 @@
 {
   "<<<地图原形:Crystar>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Map Prototype: Crystar>>>",
+      "JP": "<<<マップ原形：クリスタル>>>",
+      "CN": "",
+      "KR": "<<<<지도 원형: Crystar>>>",
+      "TW": "<<<地圖原形：Crystar>>>"
+    }
   },
   "僵尸5s后传送": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies teleport in 5s",
+      "JP": "ゾンビ5秒後にテレポート",
+      "CN": "丧尸5s后传送",
+      "KR": "좀Bi 5초 후 텔레포트",
+      "TW": "殭屍5秒後傳送"
+    }
   },
   "<<<等待20s>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Wait 20s>>>",
+      "JP": "<<<20秒待機>>>",
+      "CN": "",
+      "KR": "<<<<20초 대기>>>",
+      "TW": "<<<等待20秒>>>"
+    }
   },
   ">>>恢复已被拾起<<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Restored [items] picked up<<<",
+      "JP": ">>>拾得済みを回復<<<",
+      "CN": ">>>恢复已被拾取<<<",
+      "KR": ">>>이미 획득한 아이템 복원>>>",
+      "TW": ">>>恢復已被拾起<<<"
+    }
   },
   "<<<恢复1/3>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Restore 1/3>>>",
+      "JP": "<<<1/3回復>>>",
+      "CN": "<<<回复1/3>>>",
+      "KR": "<<<<1/3 회복>>>",
+      "TW": "<<<恢復1/3>>>"
+    }
   },
   "<<<僵尸10s后传送>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Zombies teleport in 10s>>>",
+      "JP": "<<<ゾンビ10秒後にテレポート>>",
+      "CN": "<<<僵尸10秒后传送>>",
+      "KR": "<<<<좀Bi 10초 후 텔레포트>>",
+      "TW": "<<<殭屍10秒後傳送>>"
+    }
   },
   "<<<恢复已就绪>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Restoration Ready>>>",
+      "JP": "<<<回復準備完了>>>",
+      "CN": "<<<恢复已完成>>>",
+      "KR": "<<<<복원 준비 완료>>>",
+      "TW": "<<<恢復已就緒>>>"
+    }
   },
   "<<<防守15s>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Defense 15s>>>",
+      "JP": "<<<15秒間防衛>>>",
+      "CN": "",
+      "KR": "<<<<15초 방어>>>",
+      "TW": "<<<防守15秒>>>"
+    }
   },
   "<<<防守25s>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Defend for 25s>>>",
+      "JP": "<<<25秒後ディフェンス>>>",
+      "CN": "",
+      "KR": "<<<방어 25초>>>",
+      "TW": "<<<防守25秒>>>"
+    }
   },
   "<<<僵尸3s后传送>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Teleport in 3s>>",
+      "JP": "<<<3秒後にゾンフィ teleport>>",
+      "CN": "<<<丧尸3s后传送>>>",
+      "KR": "<<<좀비 3초 후 이동>>",
+      "TW": "<<<殭屍3秒後傳送>>>"
+    }
   },
   ">>>推力已被拾起<<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Push Force picked up<<<",
+      "JP": ">>>推力アイテム回収完了<<<",
+      "CN": ">>>推力已拾取<<<",
+      "KR": ">>>추力气 수집됨<<<",
+      "TW": ">>>推力已拾取<<<"
+    }
   },
   "<<<防守30s>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Defend for 30s>>>",
+      "JP": "<<<30秒後ディフェンス>>>",
+      "CN": "",
+      "KR": "<<<방어 30초>>>",
+      "TW": "<<<防守30秒>>>"
+    }
   },
   ">>>剑核心就绪<<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Sword Core ready<<<",
+      "JP": ">>>剣コア起動<<<",
+      "CN": "",
+      "KR": ">>>칼 코어 준비 완료<<<",
+      "TW": ">>>劍核心就緒<<<"
+    }
   },
   "<<<僵尸15s后传送>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Teleport in 15s>>>",
+      "JP": "<<<15秒後にゾンビ teleport>>>",
+      "CN": "",
+      "KR": "<<<좀비 15초 후 이동>>>",
+      "TW": "<<<殭屍15秒後傳送>>>"
+    }
   },
   "<<<防守5s，注意撤退>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Defend for 5s, prepare to retreat>>>",
+      "JP": "<<<5秒後ディフェンス、撤退注意>>>",
+      "CN": "防御5秒，注意撤退>>",
+      "KR": "<<<방어 5초, 철수 주의>>>",
+      "TW": "<<<防守5秒，注意撤退>>>"
+    }
   },
   "Laser!!!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザー!!!",
+      "CN": "激光！！！",
+      "KR": "레이저!!!",
+      "TW": "雷射！！！"
+    }
   },
   "<<<恢复2/3>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Recover 2/3>>>",
+      "JP": "<<<回復2/3>>>",
+      "CN": "",
+      "KR": "<<<회복 2/3>>>",
+      "TW": "恢復2/3"
+    }
   },
   "<<<撤退！！！>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Retreat!!!>>>",
+      "JP": "<<<撤退！！！>>",
+      "CN": "",
+      "KR": "<<<후퇴!!!>>",
+      "TW": "撤退！！！"
+    }
   },
   "击碎它": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Shatter it",
+      "JP": "それを砕け",
+      "CN": "击破它",
+      "KR": "망쳐!",
+      "TW": "擊碎它"
+    }
   },
   "<<<防守10s>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Defend for 10s>>>",
+      "JP": "<<<10秒間防御>>>",
+      "CN": "",
+      "KR": "<<<방어 10초>>>",
+      "TW": "防守10秒"
+    }
   },
   "<<<等待30s>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Wait 30s>>>",
+      "JP": "<<<30秒待つ>>>",
+      "CN": "",
+      "KR": "<<<30초 대기>>>",
+      "TW": "等待30秒"
+    }
   },
   "<<<防守20s>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Defend for 20s>>>",
+      "JP": "<<<20秒間防御>>>",
+      "CN": "",
+      "KR": "<<<방어 20초>>>",
+      "TW": "防守20秒"
+    }
   },
   "<<<恢复3/3>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Restore 3/3>>>",
+      "JP": "<<<回復3/3>>>",
+      "CN": "",
+      "KR": "<<<회복 3/3>>>",
+      "TW": "恢復3/3"
+    }
   },
   "<<<僵尸5s后传送>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Teleport after 5s>>>",
+      "JP": "<<<5秒後にゾンビ転送>>",
+      "CN": "<<丧尸5s后传送>>",
+      "KR": "<<<좀비 5초 후 전송>>>",
+      "TW": "僵屍5秒後傳送"
+    }
   },
   "<<<守护者—赫拉克利特>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<Guardian—Heraclitus>>>",
+      "JP": "守護者―ヘラクレス",
+      "CN": "",
+      "KR": "'수호자—헤라클레이토스'",
+      "TW": "<<<守護者—赫拉克利特>>>"
+    }
   },
   ">>>飞剑已被拾起<<<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">>><< Flying Sword has been picked up >>><<",
+      "JP": ">>>飛行剣を拾いました<<<",
+      "CN": "",
+      "KR": ">>>날카로운 검을 얻었습니다<<<",
+      "TW": ">>>飛劍已被拾起<<<"
+    }
   },
   "喵哈哈~~~": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Meow hahaha~~~",
+      "JP": "にゃはは〜〜〜",
+      "CN": "",
+      "KR": "메에에에~~~~",
+      "TW": "喵哈哈~~~"
+    }
   }
 }

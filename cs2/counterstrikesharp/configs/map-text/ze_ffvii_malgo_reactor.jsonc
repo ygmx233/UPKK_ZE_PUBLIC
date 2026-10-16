@@ -1,0 +1,242 @@
+{
+  "**Map by Ma/l/go**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Ma/l/go 作成マップ**",
+      "CN": "地图作者：Ma/l/go",
+      "KR": "** 맵 제작: Ma/l/go**",
+      "TW": "地圖製作：Ma/l/go"
+    }
+  },
+  "**CS2 port by kaggel**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**kaggel によるCS2移植版**",
+      "CN": "CS2端口由kaggel移植",
+      "KR": "** CS2 포팅: kaggel**",
+      "TW": "CS2移植版：kaggel"
+    }
+  },
+  "<45>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<30>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<15>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<5>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<4>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<3>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<2>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<1>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "** HEAL Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**回復マテリアが発見されました。**",
+      "CN": "发现回复魔石。",
+      "KR": "** HEAL 마테리아를 찾았습니다. **",
+      "TW": "**發現療癒魔晶石。**"
+    }
+  },
+  "** BARRIER Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**バリアマテリアが発見されました。**",
+      "CN": "发现防御魔石。",
+      "KR": "** BARRIER 마테리아를 찾았습니다. **",
+      "TW": "**發現屏障魔晶石。**"
+    }
+  },
+  "** ULTIMA Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**アルテママテリアが発見されました。**",
+      "CN": "发现究极魔石。",
+      "KR": "** ULTIMA 마테리아를 찾았습니다. **",
+      "TW": "**發現絕命魔晶石。**"
+    }
+  },
+  "**Hold this area for 20 seconds!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**このエリアを20秒間維持！**",
+      "CN": "坚守阵地20秒！",
+      "KR": "** 이 구역을 20초간 유지하십시오! **",
+      "TW": "**守衛該區域20秒！**"
+    }
+  },
+  "** WIND Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ウィンドマテリアが発見されました。**",
+      "CN": "发现风之魔石。",
+      "KR": "** WIND 마테리아를 찾았습니다. **",
+      "TW": "**發現風屬性魔晶石。**"
+    }
+  },
+  "< Dodge this! >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<回避せよ！>",
+      "CN": "<躲避！>",
+      "KR": "< 피하기! >",
+      "TW": "<閃避一下！>"
+    }
+  },
+  "** FIRE Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ファイアマテリアが発見されました。**",
+      "CN": "发现火之魔石。",
+      "KR": "** FIRE 마테리아를 찾았습니다. **",
+      "TW": "**發現火屬性魔晶石。**"
+    }
+  },
+  "< All materias are disabled!! >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<すべての素材が無効化されました!!>",
+      "CN": "<所有材料已禁用!!>",
+      "KR": "<모든 재료가 비활성화되었습니다!!>",
+      "TW": "<所有材料已停用！！>"
+    }
+  },
+  "< RUN TO THE TELEPORT! >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<テレポートへ走れ！>",
+      "CN": "<前往传送点！>",
+      "KR": "<텔레포트까지 질주해!>",
+      "TW": "<衝向傳送點！>"
+    }
+  },
+  "** MIMIC Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Mimicマテリアを発見しました。 **",
+      "CN": "发现模仿魔晶石。",
+      "KR": "** 미미크 마테리아가 발견되었습니다. **",
+      "TW": "**已找到模仿魔晶塊。**"
+    }
+  },
+  "< Hold this area for 25 seconds! >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<このエリアを25秒間保持しろ！>",
+      "CN": "< 保持该区域 25 秒！ >",
+      "KR": "< 25초 동안 이 영역을 지켜주세요! >",
+      "TW": "< 保持這個區域 25 秒！>"
+    }
+  },
+  "** EARTH Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Earthマテリアを発見しました。 **",
+      "CN": "发现大地魔晶石。",
+      "KR": "** 에스카 마테리아가 발견되었습니다. **",
+      "TW": "**已找到大地魔晶塊。**"
+    }
+  },
+  "** BIO Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Bioマテリアを発見しました。 **",
+      "CN": "发现生化魔晶石。",
+      "KR": "** 비오 마테리아가 발견되었습니다. **",
+      "TW": "**已找到重電魔晶塊。**"
+    }
+  },
+  "** ICE Materia has been found. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Iceマテリアを発見しました。 **",
+      "CN": "发现冰霜魔晶石。",
+      "KR": "** 아이스 마테리아가 발견되었습니다. **",
+      "TW": "**已found冰霜魔晶塊。**"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "***DOOR OPENING IN 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後にドアが開きます",
+      "CN": "***20秒后开门***",
+      "KR": "20초 후 문 개방",
+      "TW": "***20秒後開門***"
+    }
+  },
+  "***DOOR OPENING IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にドアが開きます",
+      "CN": "***10秒后开门***",
+      "KR": "10초 후 문 개방",
+      "TW": "***10秒後開門***"
+    }
+  },
+  "***AFK TP IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKから10秒でテレポート",
+      "CN": "***10秒后传送离开***",
+      "KR": "10초 후 AFP 이동",
+      "TW": "***10秒後傳送至離線地點***"
+    }
+  },
+  "***GATE CLOSING IN 30 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にゲートが閉じます",
+      "CN": "***30秒后关闸***",
+      "KR": "30초 후 관문 폐쇄",
+      "TW": "***30秒後關門***"
+    }
+  }
+}

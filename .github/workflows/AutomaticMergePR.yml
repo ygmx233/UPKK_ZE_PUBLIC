@@ -1,0 +1,85 @@
+name: Auto Merge PRs
+
+on:
+  schedule:
+    - cron: '0 0 */1 * *'  # 每天 0:00 UTC（北京时间 8:00）
+  workflow_dispatch:
+    inputs:
+      title_keywords:
+        description: 'Comma-separated keywords to match PR titles'
+        required: false
+        default: '本地模型-dify,自动添加创意工坊地图'
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up title keywords
+        run: |
+          KEYWORDS="${{ github.event.inputs.title_keywords || '本地模型-dify,自动添加创意工坊地图' }}"
+          echo "KEYWORDS=$KEYWORDS" >> "$GITHUB_ENV"
+
+      - name: List and filter PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          echo "Title keywords: $KEYWORDS"
+
+          gh pr list --state open --json number,title,mergeable,author > prs.json
+
+          jq -r --arg keywords "$KEYWORDS" '
+            ($keywords
+              | split(",")
+              | map(gsub("^\\s+|\\s+$"; ""))
+              | map(select(length > 0))
+            ) as $kw
+            | .[]
+            | . as $pr
+            | select(any($kw[]; $pr.title | contains(.)))
+            | [$pr.number, $pr.title, $pr.mergeable, $pr.author.login]
+            | @tsv
+          ' prs.json > prs.txt
+
+          if [ ! -s prs.txt ]; then
+            echo "No matching PRs found."
+            exit 0
+          fi
+
+          while IFS=$'\t' read -r number title mergeable author; do
+            echo "PR #$number: $title ($mergeable, Author: $author)"
+
+            if [ "$author" != "github-actions[bot]" ] && \
+               [ "$author" != "e54385991" ] && \
+               [ "$author" != "app/github-actions" ]; then
+              gh issue comment "$number" --body "Auto-merge failed: PR author ($author) is not authorized."
+              continue
+            fi
+
+            if [ "$mergeable" = "UNKNOWN" ]; then
+              echo "Mergeable state is UNKNOWN, waiting..."
+              sleep 10
+              mergeable="$(gh pr view "$number" --json mergeable --jq '.mergeable')"
+              echo "Updated mergeable state: $mergeable"
+            fi
+
+            if [ "$mergeable" != "MERGEABLE" ]; then
+              gh issue comment "$number" --body "Auto-merge failed: Not mergeable ($mergeable)."
+              continue
+            fi
+
+            if gh pr merge "$number" --merge; then
+              gh issue comment "$number" --body "Auto-merge succeeded."
+            else
+              gh issue comment "$number" --body "Auto-merge failed: Check rules or conflicts."
+            fi
+          done < prs.txt

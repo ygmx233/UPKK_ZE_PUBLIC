@@ -1,0 +1,522 @@
+{
+  "~ Start in 15sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 15秒後開始 ～",
+      "CN": "~ 15秒后开始 ~",
+      "KR": "시작 15초 후",
+      "TW": "~ 15秒後開始 ~"
+    }
+  },
+  "~ Zombies come in 20sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies arrive in 20 seconds.",
+      "JP": "～ 20秒後にゾンビが出現 ～",
+      "CN": "~ 20秒后僵尸来袭 ~",
+      "KR": "좀비가 20초 후에 접근합니다 ~",
+      "TW": "~ 殭屍20秒內出現 ~"
+    }
+  },
+  "~ Resist ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 耐性 ～",
+      "CN": "~ 抵抗 ~",
+      "KR": "저항 ~",
+      "TW": "~ 抗性提升 ~"
+    }
+  },
+  "~ AFK tele enable in 15sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 15秒後にAFKテレポ有効化 ～",
+      "CN": "~ 挂机传送将在15秒后启用 ~",
+      "KR": "~ AFK 텔레포트 15초 후 활성화",
+      "TW": "~ AFK teleport啟用於15秒後 ~"
+    }
+  },
+  "~ Emergency TP enabled ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 緊急テレポート有効化 ～",
+      "CN": "~ 紧急传送已启用 ~",
+      "KR": "~ 응급 이동 활성화됨",
+      "TW": "~ 緊急TP已啟用 ~"
+    }
+  },
+  "~ Glass break in 5sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "~ Glass breaks in 5 seconds ~",
+      "JP": "～ 5秒後にガラス破裂 ～",
+      "CN": "~ 玻璃将在5秒后破碎 ~",
+      "KR": "~ 유리가 5초 후에 깨집니다 ~",
+      "TW": "~ 玻璃5秒後碎裂 ~"
+    }
+  },
+  "~ Firework has been picked up ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 花火を拾いました ～",
+      "CN": "~ 已拾取烟花 ~",
+      "KR": "~ 피르워크를 주웠습니다",
+      "TW": "~ 拾取了煙火 ~"
+    }
+  },
+  "~ Resist 40sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 40秒間耐性 ～",
+      "CN": "~ 抵抗40秒 ~",
+      "KR": "~ 저항 40초",
+      "TW": "~ 抗性40秒後解除 ~"
+    }
+  },
+  "~ 5sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~5秒以内~",
+      "CN": "~5秒后~",
+      "KR": "~ 5초 후 ~",
+      "TW": "約 5 秒"
+    }
+  },
+  "~ Zombies come in 15sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies arrive every 15 seconds",
+      "JP": "~ゾンビ出現まで15秒~",
+      "CN": "~15秒后出现僵尸~",
+      "KR": "~좀비 도착 15초 전~",
+      "TW": "殭屍即將來襲（15秒內）"
+    }
+  },
+  "~ Glass blocking the way ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~通路がガラスで塞がれる~",
+      "CN": "~前方被玻璃阻挡~",
+      "KR": "~벽을 막는 유리~",
+      "TW": "玻璃阻擋去路"
+    }
+  },
+  "~ Wait a sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~少し待って~",
+      "CN": "~请稍等~",
+      "KR": "~잠시만요~",
+      "TW": "稍等一下"
+    }
+  },
+  "~ Afk tele enable in 10sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~10秒後にアfkテレポート有効化~",
+      "CN": "~10秒后启用AFK传送~",
+      "KR": "~10초 후 아픽 여행 가능~",
+      "TW": "離線傳送功能將於 10 秒後啟用"
+    }
+  },
+  "~ Glass is now moving!! ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ガラスが動き始めました!!~",
+      "CN": "~玻璃已启动移动!!~",
+      "KR": "~유리가 움직이기 시작했습니다!!~",
+      "TW": "玻璃正在移動中！！"
+    }
+  },
+  "~ Watch your step!! ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~/足元に注意してください!!~",
+      "CN": "~请注意脚下!!~",
+      "KR": "~조심하세요!!~",
+      "TW": "請小心腳步！！"
+    }
+  },
+  "~ Zombie barrier enable ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ゾンバリア有効化~",
+      "CN": "~僵尸屏障已激活~",
+      "KR": "~좀비 장벽 활성화~",
+      "TW": "殭屍障礙已啟用"
+    }
+  },
+  "~ Zombie barrier disabled ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "〜 ゾービーの障壁が無効化された 〜",
+      "CN": "~ 丧尸护盾已解除 ~",
+      "KR": "~ 지뢰벽 활성화 해제 ~",
+      "TW": "~殭屍屏障已關閉~"
+    }
+  },
+  "~ 15sec until tele ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "〜 テレポートまで15秒 〜",
+      "CN": "~ 传送倒计时：15秒 ~",
+      "KR": "~ 테일링까지 15초 ~",
+      "TW": "~傳送倒計時15秒~"
+    }
+  },
+  "~ Push has been picked up ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "〜 押し物が回収された 〜",
+      "CN": "~ 已拾取击退效果 ~",
+      "KR": "~ 푸쉬 수집 완료 ~",
+      "TW": "~已拾取推進力道具~"
+    }
+  },
+  "!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "where is this?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここはどこだ？",
+      "CN": "这是哪里？",
+      "KR": "여기가 어딘가?",
+      "TW": "這是哪裡？"
+    }
+  },
+  "~ Survive 50sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "〜 50秒間生存せよ 〜",
+      "CN": "~ 存活时间：50秒 ~",
+      "KR": "~ 50초 생존 ~",
+      "TW": "~存活50秒~"
+    }
+  },
+  "~ Survive 30sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "〜 30秒間生存せよ 〜",
+      "CN": "~ 存活时间：30秒 ~",
+      "KR": "~ 30초 생존 ~",
+      "TW": "~存活30秒~"
+    }
+  },
+  "~ Survive 10sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "〜 10秒間生存せよ 〜",
+      "CN": "~ 存活时间：10秒 ~",
+      "KR": "~ 10초 생존 ~",
+      "TW": "~存活10秒~"
+    }
+  },
+  "WHAT IS THAT": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あれは何だ",
+      "CN": "那是什么？",
+      "KR": "저게 뭐지?",
+      "TW": "那是什麼？"
+    }
+  },
+  "OH SHIT!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マズい！",
+      "CN": "糟了！！",
+      "KR": "으악!!",
+      "TW": "靠！！！"
+    }
+  },
+  "~ AFK tele enable in 25sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ AFKテレポート有効化まで25秒~",
+      "CN": "~ 剩余25秒传送回AFK位置~",
+      "KR": "~ AFK 즉시 이동 25초 후 시작 ~",
+      "TW": "~ AFK 傳送將於 25 秒後啟動 ~"
+    }
+  },
+  "~ AFK tele enable in 5sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ AFKテレポート有効化まで5秒~",
+      "CN": "~ 剩余5秒传送回AFK位置~",
+      "KR": "~ AFK 즉시 이동 5초 후 시작 ~",
+      "TW": "~ AFK 傳送將於 5 秒後啟動 ~"
+    }
+  },
+  "~ Emergency TP currently not available >: ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ 緊急TPは現在利用できません >: ~",
+      "CN": "~ 紧急传送目前不可用 >: ~",
+      "KR": "~ 긴급 텔레포テーション 현재 사용 불가 >: ~",
+      "TW": "~ 緊急傳送目前無法使用 >: ~"
+    }
+  },
+  "~ Portal open in 15sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ ポータルオープンまで15秒~",
+      "CN": "~ 剩余15秒开启传送门~",
+      "KR": "~ 포탈 15초 후 개방 ~",
+      "TW": "~ 傳送門將於 15 秒後開啟 ~"
+    }
+  },
+  "~ Portal are now open ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ ポータルが開放されました~",
+      "CN": "~ 传送门已开启~",
+      "KR": "~ 포탈이 열렸습니다 ~",
+      "TW": "~ 傳送門已開啟 ~"
+    }
+  },
+  "~ Middle top portal open in 35sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ 中央上部ポータルオープンまで35秒~",
+      "CN": "~ 剩余35秒开启中路上方传送门~",
+      "KR": "~ 중앙 상부 포탈 35초 후 개방 ~",
+      "TW": "~ 中上方傳送門將於 35 秒後開啟 ~"
+    }
+  },
+  "~ Zombies come in 25 ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ ゾンビ出現まで25秒~",
+      "CN": "~ 剩余25秒生成僵尸~",
+      "KR": "~ 좀비 출현 25초 후 ~",
+      "TW": "~ 殭屍將在下 25 秒內抵達 ~"
+    }
+  },
+  "~ Upper portal open in 35sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ 上位ポータルが35秒後に開く ~",
+      "CN": "~ 上方传送门将在35秒后开启 ~",
+      "KR": "상단 포털 35초 후 개장",
+      "TW": "上方傳送門 35 秒後開啟"
+    }
+  },
+  "~ Last tele enable in 25sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ 最後のテレポが25秒後に有効化 ~",
+      "CN": "~ 最后一次传送到目标点将在25秒后解锁 ~",
+      "KR": "최종 텔레포트 25초 후 활성화",
+      "TW": "~最後一次傳送啟用倒數 25 秒~"
+    }
+  },
+  "~ Last tele enable ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ 最後のテレポが有効化されました ~",
+      "CN": "~ 最后一次传送到目标点已解锁 ~",
+      "KR": "최종 텔레포트 활성화",
+      "TW": "~最后一次传送启用~"
+    }
+  },
+  "~ Last AFK tele enable in 5sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ 最後のAFKテレポが5秒後に有効化 ~",
+      "CN": "~ 5秒后解除最后一次挂机点传送限制 ~",
+      "KR": "최종 AFK 텔레포트 5초 후 활성화",
+      "TW": "~最後一次 AFK 傳送啟用倒數 5 秒~"
+    }
+  },
+  "~ Portal will open in 15sec ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ ポータルが15秒後に開きます ~",
+      "CN": "~ 传送门将在15秒后开启 ~",
+      "KR": "포털 15초 후 개장",
+      "TW": "傳送門將于 15 秒後開啟"
+    }
+  },
+  "~ Portal are open now ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "~ Portals are now open ~",
+      "JP": "~ ポータルは現在オープンしています ~",
+      "CN": "~ 传送门已开启 ~",
+      "KR": "포털 현재 개장 중",
+      "TW": "~傳送門已開啟~"
+    }
+  },
+  "~ 50sec until ending ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ 終了まで50秒 ~",
+      "CN": "~ 距离结束还有50秒 ~",
+      "KR": "종료 50초 전",
+      "TW": "距离结束还有 50 秒"
+    }
+  },
+  "~ 30sec until ending ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~ 終了まで30秒 ~",
+      "CN": "~ 距离结束还有30秒 ~",
+      "KR": "종료 30초 전",
+      "TW": "距离结束还有 30 秒"
+    }
+  },
+  "~ 20sec until ending ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 終了まで約20秒 ～",
+      "CN": "~ 结束倒计时约20秒 ~",
+      "KR": "~종료 20초 전~",
+      "TW": "~距離結束剩20秒~"
+    }
+  },
+  "~ 10sec until ending ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 終了まで約10秒 ～",
+      "CN": "~ 结束倒计时约10秒 ~",
+      "KR": "~종료 10초 전~",
+      "TW": "~距離結束剩10秒~"
+    }
+  },
+  "~ WIN ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 勝利 ～",
+      "CN": "~ 胜利 ~",
+      "KR": "~승리~",
+      "TW": "~獲勝~"
+    }
+  },
+  "ze surf cherry blossom": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze surf cherry blossom",
+      "CN": "樱花冲浪图",
+      "KR": "지상 꽃게핼 맵",
+      "TW": "ze surf cherry blossom"
+    }
+  },
+  "Map by Chartapilus": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Map by Chartapilus",
+      "CN": "地图作者：Chartapilus",
+      "KR": "지도 제작: Chartapilus",
+      "TW": "地圖由 Chartapilus 製作"
+    }
+  },
+  "Port by 三百度幸运12121": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ported by Sanbaidu Lucky 12121",
+      "JP": "Port by 三百度幸运12121",
+      "CN": "港由 3百度幸运12121",
+      "KR": "포트 제작: 三百度幸运12121",
+      "TW": "移植版由 三百度幸运12121 製作"
+    }
+  },
+  "~ Only 2 uses ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～ 残り2回のみ ～",
+      "CN": "~ 仅剩2次使用机会 ~",
+      "KR": "~사용 횟수 2회만~",
+      "TW": "~僅限使用2次~"
+    }
+  },
+  "~ Emergency TP enable ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "～緊急テレポート有効化～",
+      "CN": "~ 紧急传送已启用 ~",
+      "KR": "~긴급 텔레포트 활성화~",
+      "TW": "~緊急傳送已啟用~"
+    }
+  },
+  "Secret": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "シークレット",
+      "CN": "机密",
+      "KR": "비밀",
+      "TW": "秘密"
+    }
+  },
+  "A Secret Story": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "秘密の物語",
+      "CN": "一段隐秘的故事",
+      "KR": "비밀스러운 이야기",
+      "TW": "一段祕辛故事"
+    }
+  },
+  "~ Zombies come in 30 ~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "〜 30分後にゾンビが襲来 〜",
+      "CN": "~ 第30波：僵尸来袭 ~",
+      "KR": "~ 좀비가 30 초 후에 등장합니다 ~",
+      "TW": "~ 殭屍還有 30 ~"
+    }
+  }
+}

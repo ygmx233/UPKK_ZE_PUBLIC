@@ -1,65 +1,222 @@
 {
   "10 seconds!": {
-    "translation": "10秒！"
+    "translation": "10秒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒だ！",
+      "CN": "还有10秒！",
+      "KR": "10초!",
+      "TW": "剩 10 秒！"
+    }
   },
   "Close the bunker door or...": {
-    "translation": "关闭掩体门，否则..."
+    "translation": "关闭掩体门，否则...",
+    "MultiLang": {
+      "US": "",
+      "JP": "避難所を閉めろ、さもなくば…",
+      "CN": "快关上防爆门，否则……",
+      "KR": "벙커 문을 닫거나...",
+      "TW": "關上掩體門，否則……"
+    }
   },
   "Door open in 30 seconds.": {
-    "translation": "门将在30秒后开启。"
+    "translation": "门将在30秒后开启。",
+    "MultiLang": {
+      "US": "",
+      "JP": "門が30秒後に開く。",
+      "CN": "门将30秒后打开。",
+      "KR": "문 30초 후 개방.",
+      "TW": "門將于 30 秒後開啟。"
+    }
   },
   "Door opening in 10 seconds.": {
-    "translation": "门将在10秒后开启。"
+    "translation": "门将在10秒后开启。",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に扉が開きます。",
+      "CN": "门将10秒后打开。",
+      "KR": "문 10초 후 개방.",
+      "TW": "門即將在 10 秒後開啟。"
+    }
   },
   "Door opening in 30 seconds.": {
-    "translation": "门将在30秒后开启。"
+    "translation": "门将在30秒后开启。",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に扉が開きます。",
+      "CN": "门将30秒后打开。",
+      "KR": "문 30초 후 개방.",
+      "TW": "門即將在 30 秒後開啟。"
+    }
   },
   "Elevator leaving in 5 seconds.": {
-    "translation": "电梯将在5秒后离开。"
+    "translation": "电梯将在5秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが5秒後に出発します。",
+      "CN": "电梯将在5秒后离开。",
+      "KR": "엘리베이터 5초 후 출발.",
+      "TW": "電梯將於 5 秒後離開。"
+    }
   },
   "Get in the bunker!": {
-    "translation": "快进掩体！"
+    "translation": "快进掩体！",
+    "MultiLang": {
+      "US": "",
+      "JP": "避難所に入れ！",
+      "CN": "快进避难所！",
+      "KR": "벙커로 들어오세요!",
+      "TW": "快進掩體！"
+    }
   },
   "Incoming nuke!!!": {
-    "translation": "核弹来了！！！"
+    "translation": "核弹来了！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "核攻撃接近！！！”",
+      "CN": "核弹来袭！！！",
+      "KR": "핵폭탄 투하!!!",
+      "TW": "核彈 Incoming！！！"
+    }
   },
   "Mini train leaving in 15 seconds.": {
-    "translation": "迷你列车将在15秒后离开。"
+    "translation": "迷你列车将在15秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミニトレインが15秒後に発車します。",
+      "CN": "迷你列车将在15秒后发车。",
+      "KR": "15초 후 미니 기차 출발",
+      "TW": "小火車十五秒後出發。"
+    }
   },
   "Security doors closing in 10 seconds.": {
-    "translation": "安全门将在10秒后关闭。"
+    "translation": "安全门将在10秒后关闭。",
+    "MultiLang": {
+      "US": "",
+      "JP": "保安用ドアが10秒後に閉まります。",
+      "CN": "安全门将在10秒后关闭。",
+      "KR": "보안문 10초 후 닫힘",
+      "TW": "安全門十分鐘後關閉。"
+    }
   },
   "Too late.": {
-    "translation": "太迟了。"
+    "translation": "太迟了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "手遅れです。",
+      "CN": "太晚了。",
+      "KR": "지나쳤습니다.",
+      "TW": "太遲了。"
+    }
   },
   "Tracks crashed ahead": {
-    "translation": "前方轨道发生碰撞事故"
+    "translation": "前方轨道发生碰撞事故",
+    "MultiLang": {
+      "US": "",
+      "JP": "先方の線路が破損しています。",
+      "CN": "前方轨道相撞",
+      "KR": "前方에 선로 파손",
+      "TW": "前方軌道相撞。"
+    }
   },
   "Train is leaving.": {
-    "translation": "火车正在离开。"
+    "translation": "火车正在离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "列車が発車します。",
+      "CN": "列车即将发车。",
+      "KR": "기차가 출발합니다.",
+      "TW": "火車即將出發。"
+    }
   },
   "Train leaving in 10 seconds.": {
-    "translation": "火车将在10秒后离开。"
+    "translation": "火车将在10秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "列車が10秒後に発車します。",
+      "CN": "列车将在10秒后发车。",
+      "KR": "10초 후 기차 출발",
+      "TW": "火車十分鐘後出發。"
+    }
   },
   "Train leaving in 25 seconds.": {
-    "translation": "火车将在25秒后离开。"
+    "translation": "火车将在25秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "列車が25秒後に発車します。",
+      "CN": "列车将在25秒后发车。",
+      "KR": "25초 후 기차 출발",
+      "TW": "火車25秒後出發。"
+    }
   },
   "Train leaving in 50 seconds.": {
-    "translation": "火车将在50秒后离开。"
+    "translation": "火车将在50秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "列車が50秒後に発車します。",
+      "CN": "列车将在50秒后发车。",
+      "KR": "50초 후 기차 출발",
+      "TW": "火車50秒後出發。"
+    }
   },
   "Tram leaving in 10 seconds.": {
-    "translation": "电车将在10秒后离开。"
+    "translation": "电车将在10秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "tram 10秒後に発車します。",
+      "CN": "缆车将在10秒后发车。",
+      "KR": "트롤리 10초 후에 출발합니다.",
+      "TW": "電車即將於 10 秒後離開。"
+    }
   },
   "Tram leaving in 20 seconds.": {
-    "translation": "电车将在20秒后离开。"
+    "translation": "电车将在20秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "tram 20秒後に発車します。",
+      "CN": "缆车将在20秒后发车。",
+      "KR": "트롤리 20초 후에 출발합니다.",
+      "TW": "電車即將於 20 秒後離開。"
+    }
   },
   "Tram leaving in 40 seconds.": {
-    "translation": "电车将在40秒后离开。"
+    "translation": "电车将在40秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "Tram 40秒後に発車します。",
+      "CN": "缆车将在40秒后发车。",
+      "KR": "트롤리 40초 후에 출발합니다.",
+      "TW": "電車即將於 40 秒後離開。"
+    }
   },
   "Tram leaving in 5 seconds.": {
-    "translation": "电车将在5秒后离开。"
+    "translation": "电车将在5秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "tram 5秒後に発車します。",
+      "CN": "缆车将在5秒后发车。",
+      "KR": "트롤리 5초 후에 출발합니다.",
+      "TW": "電車即將於 5 秒後離開。"
+    }
   },
   "Map made by Xquality.": {
-    "translation": ""
+    "translation": "地图作者：Xquality",
+    "MultiLang": {
+      "US": "",
+      "JP": "地図作成：Xquality",
+      "CN": "地图制作：Xquality",
+      "KR": "맵 제작: Xquality",
+      "TW": "地圖由 Xquality 製作。"
+    }
+  },
+  "Tram leaving in 45 seconds.": {
+    "translation": "电车将在45秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "Tram 45秒後に発車します。",
+      "CN": "缆车将在45秒后发车。",
+      "KR": "트롤리 45초 후에 출발합니다.",
+      "TW": "電車即將於 45 秒後離開。"
+    }
   }
 }

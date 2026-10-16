@@ -1,92 +1,302 @@
 {
   "** ... **": {
-    "translation": "** ... **"
+    "translation": "** ... **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** Moria is unstable! Run towards the stairs in  **": {
-    "translation": "** 莫瑞亚不稳定！向楼梯跑去 **"
+    "translation": "** 莫瑞亚不稳定！向楼梯跑去 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "モリアが不安定化！｛0｝内の階段へ逃げてください",
+      "CN": "**摩瑞亚不稳！在 **内跑向楼梯",
+      "KR": "모리아가 불안정합니다! %s초 후에 계단 쪽으로 이동하세요.",
+      "TW": "**摩瑞亞不穩定！在 **內跑向樓梯"
+    }
   },
   "** Protection ring will close in 15 s **": {
-    "translation": "** 保护圈将在15秒内关闭 **"
+    "translation": "** 保护圈将在15秒内关闭 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "プロテクションリングが閉じるまで15秒",
+      "CN": "**护盾将在15秒后关闭",
+      "KR": "보호 장결이 %s초 후에 닫힙니다.",
+      "TW": "**護盾將在15秒後關閉**"
+    }
   },
   "**(Zombies) The door to Khazad-Dum bridge is now open**": {
-    "translation": "** (僵尸) 通往卡扎督姆桥的门现在打开了 **"
+    "translation": "** (僵尸) 通往卡扎督姆桥的门现在打开了 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "(ゾンビ) カザド＝ドムの橋の扉が現在開いています",
+      "CN": "(僵尸)卡扎督姆大桥的门已开启",
+      "KR": "(좀비) 하즈다운담 교로의 문이 이제 열렸습니다.",
+      "TW": "**殭屍：卡扎督姆大橋門已開啟**"
+    }
   },
   "**1**": {
-    "translation": "** 1 **"
+    "translation": "** 1 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**2**": {
-    "translation": "** 2 **"
+    "translation": "** 2 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**3**": {
-    "translation": "** 3 **"
+    "translation": "** 3 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**4**": {
-    "translation": "** 4 **"
+    "translation": "** 4 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**5**": {
-    "translation": "** 5s **"
+    "translation": "** 5s **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**Balin's door closing/opening in 10 s**": {
-    "translation": "** 巴林的门将在10秒内关闭/打开 **"
+    "translation": "** 巴林的门将在10秒内关闭/打开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "バリンの扉が開く/閉じるまで10秒",
+      "CN": "**巴林的门将在10秒后关闭/开启",
+      "KR": "발린의문이 %s초 후에 닫힙니다/열립니다.",
+      "TW": "**巴林的門在10秒內關閉/開啟**"
+    }
   },
   "**Balrog coming to BALIN AND COLUMN ZONE in 15s**": {
-    "translation": "** 炎魔将在15秒后到达巴林和柱子区域 **"
+    "translation": "** 炎魔将在15秒后到达巴林和柱子区域 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "バルログがBALINおよびCOLUMNゾーンへ迫っています (15秒)",
+      "CN": "**炎魔将在15秒内抵达巴林和立柱区域",
+      "KR": "발로그가 %s초 후에 발린 및 열쇠 영역으로 접근합니다.",
+      "TW": "**炎魔將在15秒內抵達巴林與柱狀區**"
+    }
   },
   "**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**": {
-    "translation": "** 炎魔将在15秒后到达出生洞穴和梯子区域 **"
+    "translation": "** 炎魔将在15秒后到达出生洞穴和梯子区域 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "バルログがSPAWN CAVEおよびLADDERゾーンへ迫っています (15秒)",
+      "CN": "**炎魔将在15秒内抵达出生洞穴和梯子区域",
+      "KR": "발로그가 %s초 후에 스폰 동굴 및 사다리 영역으로 접근합니다.",
+      "TW": "**炎魔將在15秒內抵達出生洞穴與梯子區**"
+    }
   },
   "**Balrog coming to SUPERIOR STAIRS ZONE in 15s**": {
-    "translation": "** 炎魔将在15秒后到达上层楼梯区域 **"
+    "translation": "** 炎魔将在15秒后到达上层楼梯区域 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "バルログがSUPERIOR STAIRSゾーンへ迫っています (15秒)",
+      "CN": "**炎魔将在15秒内抵达上层楼梯区域",
+      "KR": "발로그가 %s초 후에 우수 계단 영역으로 접근합니다.",
+      "TW": "**炎魔將在15秒內抵達高級階梯區**"
+    }
   },
   "**Bring the ring to Khazad-Dum bridge to win easily**": {
-    "translation": "** 把戒指带到卡扎督姆桥可以轻松获胜 **"
+    "translation": "** 把戒指带到卡扎督姆桥可以轻松获胜 **",
+    "MultiLang": {
+      "US": "***Take the ring to Khazad-Dum bridge for an easy win***",
+      "JP": "リングをカザド＝ドムの橋まで運べば楽に勝利できます",
+      "CN": "将护盾带到卡扎督姆大桥即可轻松获胜",
+      "KR": "승리하려면 반지를 하즈다운담 교로로 가져가세요.",
+      "TW": "**將戒指帶往卡扎督姆大橋即可輕鬆獲勝**"
+    }
   },
   "**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**": {
-    "translation": "** 恭喜！戒指已经到达卡扎督姆！木桥已被摧毁 **"
+    "translation": "** 恭喜！戒指已经到达卡扎督姆！木桥已被摧毁 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "おめでとう！環状はカーザド＝ドゥームに到達した！木製の橋は破壊された",
+      "CN": "恭喜！魔戒已到达卡扎督姆，木桥已被摧毁",
+      "KR": "**축하합니다! 반지가 카자드두마에 도달했습니다! 목재 다리가 파괴되었습니다**",
+      "TW": "**恭喜！戒指已到達卡扎督姆！木橋已被摧毀**"
+    }
   },
   "**Gandalf in the middle**": {
-    "translation": "** 甘道夫在中间 **"
+    "translation": "** 甘道夫在中间 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "真ん中にガンダルフ",
+      "CN": "甘道夫在中间",
+      "KR": "**중앙의 간달프**",
+      "TW": "**甘道夫在中間**"
+    }
   },
   "**Gandalf is dead!**": {
-    "translation": "** 甘道夫死了！**"
+    "translation": "** 甘道夫死了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガンダルフは死んだ！",
+      "CN": "甘道夫已死！",
+      "KR": "**간달프가 사망했습니다!**",
+      "TW": "**甘道夫已死！**"
+    }
   },
   "**Gandalf is gone!**": {
-    "translation": "** 甘道夫消失了！**"
+    "translation": "** 甘道夫消失了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガンダルフは消えた！",
+      "CN": "甘道夫离开了！",
+      "KR": "**간달프가 사라졌습니다!**",
+      "TW": "**甘道夫消失了！**"
+    }
   },
   "**Gandalf staff has been picked!**": {
-    "translation": "** 甘道夫的法杖被捡到了！**"
+    "translation": "** 甘道夫的法杖被捡到了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガンダルフの杖が拾われた！",
+      "CN": "已捡起甘道夫的魔杖",
+      "KR": "**간달프의 지팡이를 획득했습니다!**",
+      "TW": "甘道夫的杖已被拾取！***"
+    }
   },
   "**Go to the Khazad-Dum bridge!**": {
-    "translation": "** 去卡扎督姆桥！**"
+    "translation": "** 去卡扎督姆桥！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "カーザド＝ドゥームの橋へ向かえ！",
+      "CN": "前往卡扎督姆大桥！",
+      "KR": "**카자드두마 다리로 이동하세요!**",
+      "TW": "**前往卡扎督姆橋！**"
+    }
   },
   "**Go!**": {
-    "translation": "** 走！**"
+    "translation": "** 走！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "行け！",
+      "CN": "走！",
+      "KR": "**돌진!**",
+      "TW": "**出發！**"
+    }
   },
   "**Humans have reached Balin's tomb! Resist 55 s**": {
-    "translation": "** 人类已经到达巴林的墓！坚持55秒 **"
+    "translation": "** 人类已经到达巴林的墓！坚持55秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "人類はバリンの墓に到達した！55秒間抵抗せよ",
+      "CN": "人类已到达巴林之墓，坚持55秒",
+      "KR": "**인간이 발린의 무덤에 도달했습니다! 55초 동안 저항하십시오**",
+      "TW": "**人類已到達巴林的墳墓！抵抗 55 秒**"
+    }
   },
   "**Map by: Hannibal [SPA] (Rafuron)**": {
-    "translation": "** 地图作者：Hannibal [SPA] (Rafuron) 翻译：Asteri3m **"
+    "translation": "** 地图作者：Hannibal [SPA] (Rafuron) 翻译：Asteri3m **",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成者: Hannibal [SPA] (Rafuron)",
+      "CN": "**地图制作者：Hannibal [SPA] (Rafuron)**",
+      "KR": "지도 제작: Hannibal [SPA] (Rafuron)",
+      "TW": "地圖製作者：Hannibal [SPA] (Rafuron)"
+    }
   },
   "**Protect Gandalf during 35s! He must break the bridge! **": {
-    "translation": "** 保护甘道夫35秒！他必须摧毁桥梁！**"
+    "translation": "** 保护甘道夫35秒！他必须摧毁桥梁！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒間、ガンドルフを守れ！彼は橋を壊す必要がある！",
+      "CN": "**在35秒内保护甘道夫！他必须炸毁大桥！**",
+      "KR": "35초 동안 간달프를 보호하세요! 그는 다리를 부수어야 합니다!",
+      "TW": "在35秒內保護甘道夫！他必須破壞橋樑！"
+    }
   },
   "**Resist 15 s**": {
-    "translation": "** 坚持15秒 **"
+    "translation": "** 坚持15秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間耐えよ",
+      "CN": "**坚守15秒**",
+      "KR": "15초 내 저항",
+      "TW": "堅持15秒"
+    }
   },
   "**Resist 30 s**": {
-    "translation": "** 坚持30秒 **"
+    "translation": "** 坚持30秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間耐えよ",
+      "CN": "**坚守30秒**",
+      "KR": "30초 내 저항",
+      "TW": "堅持30秒"
+    }
   },
   "**Saruman staff has been picked!**": {
-    "translation": "** 萨鲁曼的法杖被捡到了！**"
+    "translation": "** 萨鲁曼的法杖被捡到了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "サロマンの杖を拾った！",
+      "CN": "**已拾取萨鲁曼的法杖！**",
+      "KR": "사르마눈의 지팡이를 획득했습니다!",
+      "TW": "已取得薩魯曼法杖！"
+    }
   },
   "**Stay in the circle! Zombies can't go in!**": {
-    "translation": "** 待在圈内！僵尸不能进来！**"
+    "translation": "** 待在圈内！僵尸不能进来！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "円内に留まれ！ゾンビは中に入れない！",
+      "CN": "**留在圆圈内！丧尸进不来！**",
+      "KR": "원 안에 머무르세요! 좀비는 들어갈 수 없습니다!",
+      "TW": "待在圓圈内！殭屍無法進入！"
+    }
   },
   "**The ring has been picked!**": {
-    "translation": "** 戒指被捡到了！**"
+    "translation": "** 戒指被捡到了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "リングを拾った！",
+      "CN": "**已拾取魔戒！**",
+      "KR": "반지를 획득했습니다!",
+      "TW": "已取得魔戒！"
+    }
   },
   "**Zombies have been alerted!**": {
-    "translation": "** 僵尸已被警报！**"
+    "translation": "** 僵尸已被警报！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが警戒した！",
+      "CN": "**僵尸已被惊动！**",
+      "KR": "좀비가 각성했습니다!",
+      "TW": "殭屍已收到警報！"
+    }
   }
 }

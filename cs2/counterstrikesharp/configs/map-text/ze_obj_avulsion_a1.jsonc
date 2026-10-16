@@ -1,0 +1,752 @@
+{
+  "加拿大，魁北克，瓦斯卡加尼什：50°11'01.0\"N 77°26'50.6\"W，23：04": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Vasketaganish, Quebec, Canada: 50°11'01.0\"N 77°26'50.6\"W, 23:04",
+      "JP": "カナダ、ケベック州、ワスカガニッシュ：北緯50°11'01.0\"西経77°26'50.6\"W、23:04",
+      "CN": "",
+      "KR": "캐나다, 퀘벡주,瓦斯가니시: 50°11'01.0\"N 77°26'50.6\"W, 23:04",
+      "TW": "加拿大，魁北克省，瓦斯卡加尼什：50°11'01.0\"N 77°26'50.6\"W，23:04"
+    }
+  },
+  "黑山事件1个月以后": {
+    "translation": "",
+    "MultiLang": {
+      "US": "One month after the Black Mountain incident",
+      "JP": "ブラック・マウンテン事件から1ヶ月後",
+      "CN": "",
+      "KR": "흑산 사건 이후 1개월",
+      "TW": "黑山事件發生1個月後"
+    }
+  },
+  "“Hospice”：“在黑山事件以前，这一座设施是以大坝为掩护的数据运行中心，为黑山提供数据库存储和超算辅助，并一直以断断续续的修缮为由暂停了设施的运行以减少外来的关注。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Hospice\": \"Prior to the Black Mountain incident, this facility was a data operations center using the dam as cover. It provided database storage and supercomputing assistance for Black Mountain. Operations were repeatedly suspended under the guise of intermittent repairs to minimize outside attention.\"",
+      "JP": "「ホスピス」：「ブラック・マウンテン事件以前、この施設はダムの陰に隠れたデータ運用センターであり、ブラック・マウンチンのデータベース保存とスーパーコンピュータの計算支援を行っていました。外部からの関心を避けるため、断続的な修理を理由に施設の運用は停止されていました。」",
+      "CN": "",
+      "KR": "Hospice: 흑산 사건 이전, 이 시설은 댐을 위장하여 데이터 운영 센터로 사용되었으며, 흑산에 데이터베이스 저장 및 초고성능 컴퓨팅 보조를 제공했습니다. 외부의 관심을 줄이기 위해 시설 운영을 중단했고, 단속적인 수리를 명분으로 내세웠습니다.",
+      "TW": "\"Hospice\"：「在黑山事件之前，這座設施是以大壩為掩護的數據運營中心，負責為黑山提供資料庫儲存及超算輔助。為了減少外界關注，設施一直以斷断续续的修繕為藉口，暫停運作了。」"
+    }
+  },
+  "“Hospice”：“在联合帝国（Combine）入侵以后，为了不引起注意，实验员关闭了一切对外数据传输，给数据收集和转存抢到了时间，然而，一次意外事故直接导致了大坝的数据中心被曝光。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Hospice\": \"After the Combine invasion, to avoid detection, researchers cut all external data transmission. This bought time for data collection and transfer. However, an accidental incident directly exposed the dam's data center.\"",
+      "JP": "「ホスピス」：「ユニファイド・エンパイア（コンバイン）の侵攻後、目を惹かないようにするため、実験員たちはすべての外部データ転送を停止しました。これによりデータ収集と移行の時間を確保しましたが、ある事故によってダムのデータセンターが露見してしまいました。」",
+      "CN": "",
+      "KR": "Hospice: 합중국(Combine)의 침공 이후, 주목을 피하기 위해 연구원들은 모든 대외 데이터 전송을 중단했고, 이는 데이터 수집과 이전 시간을 벌 수 있게 해 주었습니다. 하지만 한 번의 사고로 인해 댐 데이터 센터가 노출되었습니다.",
+      "TW": "\"Hospice\"：「在聯合帝國（Combine）入侵之後，為了不引起注意，研究員切斷了所有對外數據傳輸，為數據收集與轉存爭取到了時間。然而，一次意外事故直接導致大壩的數據中心曝光。」"
+    }
+  },
+  "“Hospice”：“尽管联合帝国并未做出一些行动，只是封锁了这片区域，但后面发生了一系列事故，让我们的与大坝内部的联系被切断。此事颇为蹊跷，但线索已无从找起。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Hospice\": \"Although the Combine took no further action and simply sealed off the area, a series of subsequent accidents severed our connection with the interior of the dam. The matter is suspicious, but all leads have gone cold.\"",
+      "JP": "「ホスピス」：「ユニファイド・エンパイアが何らかの行動をとったわけではありませんでした。彼らは単にこの地域を封鎖しただけです。しかし、その後の一連の事故により、ダム内部との連絡が切断されてしまいました。これは非常に不可解ですが、手がかりは見つかりませんでした。」",
+      "CN": "",
+      "KR": "Hospice: 합성국이 일부 행동을 취하지 않고 단지 이 지역을 봉쇄했을 뿐이지만, 이후 발생한 일련의 사고로 인해 우리는 댐 내부와의 연락이 끊어졌습니다. 이 일은 매우 의문이 있으나, 단서는 더 이상 찾을 수 없습니다.",
+      "TW": "\"Hospice\"：「儘管聯合帝國並未採取進一步行動，僅封鎖了該區域，但隨後發生了一系列事故，切斷了我們與大壩內部的聯繫。此事颇为蹊蹺，但線索已无从尋起。」"
+    }
+  },
+  "“Hospice”：“本次行动代号为‘Sedative’。你们的任务是进入大坝内部，拿出被黑山封存的数据，你们会从大坝的侧方排水口进入，任务细节已上传至小队局域网。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Hospice\": \"This operation is codenamed 'Sedative'. Your mission is to enter the dam and retrieve data sealed by Black Mountain. You will approach via the dam's side drainage outlet. Mission details have been uploaded to the squad LAN.\"",
+      "JP": "「ホスピス」：「今回の作戦名は『SEDATIVE（鎮静剤）』です。你们的任务是进入大坝内部，拿出被黑山封存的数据，你们会从大坝的侧方排水口进入，任务细节已上传至小队局域网。」 -> 「今回の作戦名は『SEDATIVE（鎮静剤）』です。任務はダム内部へ侵入し、ブラック・マウンテンが封印したデータを回収することです。側面の排水口から潜入します。任務の詳細は小隊のローカルネットワークにアップロード済みです。」",
+      "CN": "",
+      "KR": "Hospice: 이번 작전의 암호명은 'Sedative'입니다. 당신의 임무는 댐 내부에 들어와 흑산이 봉인한 데이터를 회수하는 것입니다. 당신은 댐 측면의 배수구로 진입할 것이며, 임무 세부 사항은 소대 LAN에 업로드되었습니다.",
+      "TW": "\"Hospice\"：「本次行動代號為'Sedative'。你們的任務是進入大壩內部，取回黑山封存的數據。你們將從大壩側方的排水口進入，任務細節已上傳至小隊區域網路。」"
+    }
+  },
+  "“Hospice”：“因为这里是联合军控制区域，所以我们无法给你们提供任何有效空中支援，祝你们好运。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Hospice\": \"As this is a Combine-controlled zone, we cannot provide effective air support. Good luck.\"",
+      "JP": "「ホスピス」：「ここはユニファイド軍の管制区域であるため、有効な空中支援を提供することができません。幸運を祈ります。」",
+      "CN": "",
+      "KR": "Hospice: 이곳은 합중국 통제 구역이므로 저희는 어떠한 유효한 공중 지원도 제공할 수 없습니다. 행운을 빕니다.",
+      "TW": "\"Hospice\"：「由於此處為聯合軍控制區域，我們無法提供任何有效的空中支援。祝你們好運。」"
+    }
+  },
+  "“门要开了！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"The door is opening!\"",
+      "JP": "「扉が開く！」",
+      "CN": "",
+      "KR": "문이 열립니다!",
+      "TW": "\"門要開了！\""
+    }
+  },
+  "“去路全是感染者！他妈的，我们被堵住了！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"The path ahead is infested with Infected! Fuck, we're cut off!\"",
+      "JP": "先手が全員感染体だ！クソッ、詰めた！",
+      "CN": "",
+      "KR": "감염자들이 길을 막아뒀다! 썩을 놈의, 매몰됐다!",
+      "TW": "去路全是感染者！他媽的，我們被堵住了！"
+    }
+  },
+  "“子弹打漏了燃气管道！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"The bullets breached the gas line!\"",
+      "JP": "弾が燃气管道に穴を開けた！",
+      "CN": "",
+      "KR": "탄환이 가스 파이프를 뚫었어!",
+      "TW": "子彈打漏了燃氣管道！"
+    }
+  },
+  "“该死！全员准备！我们要掉下去了！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Damn it! Brace yourselves! We're going down!\"",
+      "JP": "くそっ！全員準備！墜落するぞ！",
+      "CN": "",
+      "KR": "썩을 놈! 전원 준비! 우리가 떨어진다!",
+      "TW": "該死！全員準備！我們要掉下去了！"
+    }
+  },
+  "“Hospice”：“……（电流声）……Se…………回……（电流声）……听……撤……”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Hospice\": \"……(static)… Se… return… (static)… copy… evac…\"\"",
+      "JP": "『Hospice』：「……（ノイズ）……Se…………戻……（ノイズ）……聞……撤……」",
+      "CN": "",
+      "KR": "Hospice\": \"……(전기 소리)……Se…………회……(전기 소리)……청……철수……\"",
+      "TW": "“Hospice”：“……（電流聲）……Se…………回……（電流聲）……聽……撤……”"
+    }
+  },
+  "15小时后……": {
+    "translation": "",
+    "MultiLang": {
+      "US": "15 hours later...",
+      "JP": "15時間後……",
+      "CN": "",
+      "KR": "15시간 후...",
+      "TW": "15小時後……"
+    }
+  },
+  "“？？”：“这里是AVULSION小队，已进入侧方排水口”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"??\": \"This is Squad AVULSION. We've entered the side drainage outlet.\"",
+      "JP": "『？？』：「AVULSION小隊、側方の排水口へ侵入しました」",
+      "CN": "",
+      "KR": "\"??\": \"여기는 AVULSION 대대, 측면 배수구로 진입함\"",
+      "TW": "“？？？”：“這裡是AVULSION小隊，已進入側方排水口”"
+    }
+  },
+  "“Nightingale”：“收到，排水上方有通道，你们可以从那里通过”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Nightingale\": \"Copy that. There's a passage above the drainage; you can go through it.\"",
+      "JP": "『Nightingale』：「了解、排水口上部に通路がある。そこから進め」",
+      "CN": "",
+      "KR": "\"Nightingale\": \"알겠음, 배수구 상부에 통로가 있음. 그곳으로 통과할 수 있다\"",
+      "TW": "“Nightingale”：“收到，排水上方有通道，你們可以從那裡通過”"
+    }
+  },
+  "队长：“入口处有很剧烈的战斗痕迹，管道也被损坏了”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"There's heavy combat damage at the entrance, and the pipes are breached.\"",
+      "JP": "隊長：「入口は激しい戦闘の痕跡だ。パイプも損傷している」",
+      "CN": "",
+      "KR": "대장: \"입구에 매우 격렬한 전투 흔적이 있으며, 파이프도 손상되었군\"",
+      "TW": "隊長：“入口處有很劇烈的戰鬥痕跡，管道也被損壞了”"
+    }
+  },
+  "“Nightingale”：“确认，应该是失联的Hospice小队，他们在这里作战过”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Nightingale\": \"Copy that. Should be the Lost Hospice team; they fought here before.\"",
+      "JP": "ナイチンゲール：了解、失通信したホスピス小隊のようです。彼らはここで戦闘を行っていました",
+      "CN": "",
+      "KR": "확인했습니다, 실종된 Hospice 소대원 같습니다. 이곳에서 전투를 벌였던 적이 있습니다",
+      "TW": "「夜鴉」：確認，應該是失聯的Hospice小隊，他們在這裡作戰過。"
+    }
+  },
+  "技术员：“区域电力已恢复”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"Area power restored.\"",
+      "JP": "技師：区域の電力が回復しました",
+      "CN": "",
+      "KR": "지역 전력 공급이 복구되었습니다",
+      "TW": "技術員：區域電力已恢復。"
+    }
+  },
+  "\"门马上要开了！\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"The door is about to open!\"",
+      "JP": "「ドアがすぐ開きます！」",
+      "CN": "",
+      "KR": "문이 곧 열립니다!",
+      "TW": "門馬上要開了！"
+    }
+  },
+  "队长：“这大坝内部居然还有这么庞大的防空设施”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"I can't believe there's such a massive air defense facility inside the dam.\"",
+      "JP": "隊長：“このダム内部に、これほど大規模な防空施設があったとは”",
+      "CN": "",
+      "KR": "이 댐 내부에 이렇게 방대한 대공 시설이 있다니",
+      "TW": "隊長：這大壩內部居然還有這麼龐大的防空設施。"
+    }
+  },
+  "技术员：“这片区域的门全他妈是防爆的，拆起来费劲的要死”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"Every door in this sector is fucking blast-proof. Getting them open is a pain in the ass.\"",
+      "JP": "技師：“このエリアの扉はすべて防爆仕様で、分解するのがめっちゃめんどくさいんだよね”",
+      "CN": "",
+      "KR": "이 구역의 문은 모두 방폭 구조라 수리하는 게 엄청난 고역이야",
+      "TW": "技術員：這片區域的門全他媽是防爆的，拆起來費勁的要死。"
+    }
+  },
+  "\"快完事了！全体准备！\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"It's almost done! Everyone, prepare!\"",
+      "JP": "「もうすぐ完了！全員準備！」",
+      "CN": "",
+      "KR": "거의 다 됐습니다! 전원에 준비!",
+      "TW": "快完事了！全體準備！"
+    }
+  },
+  "队长：“呼叫总部，我们已经来到设施主体，但这里发生过严重的脱轨事故”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"Calling HQ, we've reached the facility's main body, but there was a serious derailment incident here.\"",
+      "JP": "隊長：“本部へ連絡、施設本体に到達しました。ただし、ここで重大な脱線事故が発生しました”",
+      "CN": "",
+      "KR": "본부에게 보고합니다. 시설 본체에 도착했지만, 여기에서 심각한 전복 사고가 발생했습니다",
+      "TW": "隊長：呼叫總部，我們已經來到設施主體，但這裡發生過嚴重的脫軌事故。"
+    }
+  },
+  "“Nightingale”：“收到，维修通道下方似乎有一个站点，你们可以尝试通过那里绕进设施”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Nightingale\": \"Copy that. There seems to be a station below the maintenance tunnel; you can try entering the facility through there.\"",
+      "JP": "ナイチンゲール：了解、修復通路の下部に駅があるようです。そこから施設内へ回り込むことができます",
+      "CN": "",
+      "KR": "수령했습니다. 수리 통로 아래에 역이 있는 것 같습니다. 그곳을 통해 시설로 진입할 수 있을 것입니다",
+      "TW": "「夜鴉」：收到，維修通道下方似乎有一個站點，你們可以嘗試通過那裡繞進設施。"
+    }
+  },
+  "“准备进入！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Getting ready to enter!",
+      "JP": "突入準備完了！",
+      "CN": "",
+      "KR": "\"진입 준비!\"",
+      "TW": "準備進入！"
+    }
+  },
+  "技术员：“这个站点还在线，让我骇入一下，也许能得到有用的情报”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"This station is still online. Let me jack in and see if we can get some useful intel.\"",
+      "JP": "技術者：「このサイトは稼働中。ハッキングさせてもらう。有用な情報が得られるはずだ」",
+      "CN": "",
+      "KR": "기술자: \"이 스테이션은 여전히 온라인 상태입니다. 내가 해킹해서 유용한 정보를 알아내겠습니다.\"",
+      "TW": "技術員：「這個站點還在運作，讓我駭入一下，也許能得到有用的情報。」"
+    }
+  },
+  "队长：“明白，原地防守，给技术员争取时间”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"Copy that. Hold your position and defend here to buy the technician some time.\"",
+      "JP": "隊長：「了解。原地で防御態勢を取れ、技術者の作業時間を確保しろ」",
+      "CN": "",
+      "KR": "대장: \"알았어. 여기서 방어 태세를 유지하고 기술자에게 시간을 벌어줘.\"",
+      "TW": "隊長：「收到，原地防守，給技術員爭取時間。」"
+    }
+  },
+  "技术员：“完事了，可以后撤！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"All done. We can fall back!\"",
+      "JP": "技術者：「完了だ。退却可能！」",
+      "CN": "",
+      "KR": "기술자: \"작업 완료, 후퇴해도 됩니다!\"",
+      "TW": "技術員：「搞定了，可以後撤！」"
+    }
+  },
+  "队员：“这水下有动静！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Squad Member: \"Movement underwater!\"",
+      "JP": "隊員：「水中に動きがある！」「",
+      "CN": "",
+      "KR": "队员: \"수중에서 움직이는 것이 보입니다!\"",
+      "TW": "隊員：「這水下有動靜！」"
+    }
+  },
+  "队长：“别过去！有阔剑！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"Don't go over there! There's a S-mine!\"",
+      "JP": "隊長：「近づくな！『フクツボ』があるぞ！」",
+      "CN": "",
+      "KR": "대장: \"접근하지 마라! 프레이 미네가 있어!\"",
+      "TW": "隊長：「別過去！有闊劍地雷！」"
+    }
+  },
+  "队员：“我****，谁**在这种**地方放阔剑？”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Squad Member: \"Fuck... who the hell plants S-mines in a place like this?!\"",
+      "JP": "隊員：「くそったれ、こんな**場所どこが**”に”フクツボ”を置くんだ！？「",
+      "CN": "",
+      "KR": "队员: \"이****, 누가**在这种**곳에 프레이 미네를 설치한 거야?\"",
+      "TW": "隊員：「我****，誰**在这种**地方放闊劍地雷？」"
+    }
+  },
+  "队长：“总部，我们已经进入设施”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"HQ, we have breached the facility.\"",
+      "JP": "隊長：「本部、施設内へ進入完了」",
+      "CN": "",
+      "KR": "대장: \"본부, 우리는 시설에 진입했습니다.\"",
+      "TW": "隊長：「總部，我們已經進入設施。」"
+    }
+  },
+  "“Nightingale”：“……（沙沙声）”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Nightingale\": \"... (rustling sound)\"",
+      "JP": "ナイチンゲール：「……（サッサッという音）」",
+      "CN": "",
+      "KR": "“나이트게일”：“……(살랑살랑 소리)”",
+      "TW": "「夜鶯」：「……（沙沙聲）」"
+    }
+  },
+  "技术员：“骇入的站点提供了设施地图和基本权限，能帮我们走到数据中心”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"The hacked terminal provided the facility map and basic clearance. It can help us reach the data center.\"",
+      "JP": "技術者：「ハックされた端末から施設マップと基本権限を得ました。これでデータセンターまで行けます」",
+      "CN": "",
+      "KR": "기술자: “해킹된 스테이션에서 시설 지도와 기본 권한을 얻었으니, 데이터센터까지 도달할 수 있습니다.”",
+      "TW": "技術員：「駭入的站點提供了設施地圖和基本權限，能幫我們走到數據中心」"
+    }
+  },
+  "队长：“行，那就继续执行任务”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"Roger, continue with the mission.\"",
+      "JP": "隊長：「了解、任務を継続する」",
+      "CN": "",
+      "KR": "대장: “알았어, 계속 작전 수행해.”",
+      "TW": "隊長：「行，那就繼續執行任務」"
+    }
+  },
+  "“再坚持一会儿！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Hold on just a little longer!\"",
+      "JP": "「もう少し踏ん張れ！」",
+      "CN": "",
+      "KR": "“조금만 더 견뎌!”",
+      "TW": "「再堅持一會兒！」"
+    }
+  },
+  "“电闸已打开！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"The circuit breaker is open!\"",
+      "JP": "「ブレーカーON！」",
+      "CN": "",
+      "KR": "“전기 차단기 작동 완료!”",
+      "TW": "「電閘已打開！」"
+    }
+  },
+  "\"僵尸要从正门进来了！\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Zombies are coming through the front entrance!\"",
+      "JP": "「ゾンビが正門から侵入するぞ！」",
+      "CN": "",
+      "KR": "좀비가 정문을 통해 진입합니다!",
+      "TW": "\"殭屍要從正門進來了！\""
+    }
+  },
+  "“Nightingale”：“AVULSION，AVULSION，Nightingale呼叫，听到请回答”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Nightingale': 'AVULSION, AVULSION, this is Nightingale. Do you copy?'\"",
+      "JP": "ナイチンゲール：「アヴルション、アヴルション、ナイチンゲール呼叫、受信確認を」",
+      "CN": "",
+      "KR": "“나이트게일”: “AVULSION, AVULSION, 나이트게일 호출, 응답 바랍니다.”",
+      "TW": "「夜鶯」：「AVULSION，AVULSION，夜鶯呼叫，聽到請回答」"
+    }
+  },
+  "队长：“AVULSION收到，设施内部有信号屏蔽”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"AVULSION copies. There is signal jamming inside the facility.\"",
+      "JP": "隊長：「アヴルション受領。施設内部で信号妨害が発生している」",
+      "CN": "",
+      "KR": "대장: “AVULSION 수신, 시설 내부에 신호 방해가 발생했습니다.”",
+      "TW": "隊長：「AVULSION收到，設施內部有信號屏蔽」"
+    }
+  },
+  "队长：“这里没有人类了。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"There are no humans left here.\"",
+      "JP": "隊長：「ここには人間はいない」",
+      "CN": "",
+      "KR": "팀장: “여기엔 인간이 없습니다.”",
+      "TW": "隊長：「這裡沒有人類了。」"
+    }
+  },
+  "队长：“我们在路上看到一些荧光棒，看起来像是‘Hospice’小队留下的，但没有看到‘Hospice’小队的任何人。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"We spotted some glow sticks along the way, likely left by Team 'Hospice', but we didn't see any members of that team.\"",
+      "JP": "隊長：「道中で蛍光棒を見かけたが、どうやら『ホスピス』小隊のものらしい。ただし、『ホスピス』小隊の队员は見つからなかった」",
+      "CN": "",
+      "KR": "팀장: “길에서 형광봉을 여러 개 발견했습니다. ‘Hospice’小队가 남긴 것으로 보이지만, ‘Hospice’ 팀원 누구도 발견하지 못했습니다.”",
+      "TW": "隊長：「我們在路上看到一些螢光棒，看起來像是‘Hospice’小隊留下的，但沒有看到‘Hospice’小隊的任何人。」"
+    }
+  },
+  "技术员：“顶部有障碍物，我需要时间清理一下”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"There's debris at the top; I need some time to clear it.\"",
+      "JP": "テクニシャン：「上部に障害物がある。処理に時間がかかりそうだ」",
+      "CN": "",
+      "KR": "기술자: “위에 장애물이 있습니다. 정리할 시간이 필요합니다.”",
+      "TW": "技術員：「頂部有障礙物，我需要時間清理一下。」"
+    }
+  },
+  "队长：“我们在一个站点得到了设施内部的地图和基础权限，尽管在设施内没法与总部联系，但我们可以继续任务”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"We obtained internal facility maps and basic access permissions at a station. Although we can't contact headquarters from inside the facility, we can proceed with the mission.\"",
+      "JP": "隊長：「あるサイトから施設内のマップと基本権限を得た。施設内では本部と連絡が取れないが、任務は継続できる」",
+      "CN": "",
+      "KR": "팀장: “센터에서 시설 내부 지도와 기본 권한을 획득했습니다. 시설 내에서 본부와 통신할 수는 없으나, 임무는 계속 진행할 수 있습니다.”",
+      "TW": "隊長：「我們在一個站點得到了設施內部的地圖和基礎權限，儘管在設施內無法與總部聯繫，但我們可以繼續任務。」"
+    }
+  },
+  "“Nightingale”：“明白，任务继续，上方的破口可以进入服务器机房。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Nightingale\": \"Copy that. Mission continues. The breach above leads to the server room.\"",
+      "JP": "「ナイトンゲール」：「了解。任務継続、上部の穴からサーバー機房に入られる」",
+      "CN": "",
+      "KR": "“Nightingale”: “알겠습니다. 임무 계속 진행합니다. 상단 구멍을 통해 서버룸에 진입할 수 있습니다.”",
+      "TW": "「Nightingale」：「明白，任務繼續，上方的破口可以進入伺服器機房。」"
+    }
+  },
+  "技术员：“再给我10秒钟！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"Give me another 10 seconds!\"",
+      "JP": "テクニシャン：「あと10秒だけ待って！」",
+      "CN": "",
+      "KR": "기술자: “10초만 더 주세요!”",
+      "TW": "技術員：「再給我10秒鐘！」"
+    }
+  },
+  "“火马上灭了，准备进去！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"The fire will be out shortly. Get ready to enter!\"",
+      "JP": "「火勢が収まった、中に入る準備をして！」",
+      "CN": "",
+      "KR": "“불이 곧 꺼집니다. 진입 준비!”",
+      "TW": "「火馬上滅了，準備進去！」"
+    }
+  },
+  "\"45秒后进入\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Entering in 45 seconds\"",
+      "JP": "「45秒後に入場」",
+      "CN": "",
+      "KR": "\"45초 후 진입\"",
+      "TW": "\"45秒後進入\""
+    }
+  },
+  "技术员：“这里的火势太大了，我们的设备灭不了火！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"The fire here is too intense, our equipment can't extinguish it!\"",
+      "JP": "技術者：「ここは火勢が激しすぎて、機材では消せない！」",
+      "CN": "",
+      "KR": "기술자: \"여기 불씨가 너무 세서 우리 장비로는 진압할 수 없어요!\"",
+      "TW": "技術員：「這裡的火勢太大了，我們的設備無法撲滅！」"
+    }
+  },
+  "队长：“上面有输水管道，尝试用他们灭火”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: \"There are water pipes above, try using them to put out the fire.\"",
+      "JP": "隊長：「上部に給水パイプがある、それを使って消火を試みろ」",
+      "CN": "",
+      "KR": "대장: \"위에 급수관이 있으니, 그것으로 진압해 봐라.\"",
+      "TW": "隊長：「上面有輸水管道，試試看利用它們來滅火。」"
+    }
+  },
+  "“水洒下来了，坚持到火灭！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Water is coming down, hold on until the fire goes out!\"",
+      "JP": "水が降ってきた、火が消えるまで持ちこたえ！」",
+      "CN": "",
+      "KR": "\"물이 떨어지고 있어, 불이 꺼질 때까지 버텨!\"",
+      "TW": "\"水灑下來了，撐到火滅！\""
+    }
+  },
+  "“没有路了！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"There's no path left!\"",
+      "JP": "道がない！」",
+      "CN": "",
+      "KR": "\"길이 없어!\"",
+      "TW": "\"沒有路了！\""
+    }
+  },
+  "“想办法破窗去到对面！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Find a way to break the window and get to the other side!\"",
+      "JP": "窓を壊して向こう側へ行け！」",
+      "CN": "",
+      "KR": "\"창을 뚫어서 맞은편으로 가!\"",
+      "TW": "\"想辦法破窗到對面去！\""
+    }
+  },
+  "“还**有一扇窗户！再坚持一下！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"There's still one window left! Hold on a little longer!\"",
+      "JP": "あと**一扇の窓だ！もう少しだけ頑張れ！**",
+      "CN": "",
+      "KR": "\"**하나는 더 있다! 조금만 더 버텨라!\"",
+      "TW": "\"還**有一扇窗戶！再堅持一下！\""
+    }
+  },
+  "“这群怪物在拆了这个集装箱！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"This group of monsters is tearing apart the container!\"",
+      "JP": "このモンスターたちがコンテナを壊している！」",
+      "CN": "",
+      "KR": "\"이 몬스터들이 컨테이너를 찢어버리고 있다!\"",
+      "TW": "\"這群怪物正在拆這個集裝箱！\""
+    }
+  },
+  "“它们要攻进来了！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"They're breaking in!\"",
+      "JP": "彼らが侵入してくる！」",
+      "CN": "",
+      "KR": "\"그놈들이 돌파하려고 해!\"",
+      "TW": "\"它們要攻進來了！\""
+    }
+  },
+  "“去主控室的路被炸塌了！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The route to the main control room has been collapsed by an explosion!",
+      "JP": "メインコントロールルームへの道が爆破されて封鎖された！",
+      "CN": "",
+      "KR": "메인 컨트롤룸으로 가는 길이 폭발로 무너졌어!",
+      "TW": "主控室的通路被炸塌了！"
+    }
+  },
+  "“***！就差一点了！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "***! I was so close!",
+      "JP": "「***」！あと少しだったのに！",
+      "CN": "",
+      "KR": "***! 아차 싶었어!",
+      "TW": "***！就差一點了！"
+    }
+  },
+  "队长：“稳住，先建立防守！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Commander: \"Steady, establish a defensive position first!\"",
+      "JP": "隊長：」「状況を安定させ、まずは防御陣地を構築！」\n「技術者：」「案があります」",
+      "CN": "",
+      "KR": "대장: \"진정해, 일단 방어 체제부터 구축해!\"",
+      "TW": "隊長：「撐住，先建立防禦！」"
+    }
+  },
+  "技术员：“我有一计”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"I have a plan.\"",
+      "JP": "技術者：「我有個計策」",
+      "CN": "",
+      "KR": "기술자: \"좋은 생각이야.\"",
+      "TW": "技術員：「我有個計策」"
+    }
+  },
+  "队长：“？”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Commander: \"?\"",
+      "JP": "「隊長：」「？」\n「技術者：」「自分は1階の操作室に行き、龙门吊りのコンテナを使って皆さんをあそこに移送する方法を考えます」",
+      "CN": "",
+      "KR": "대장: \"?\"",
+      "TW": "隊長：「？」"
+    }
+  },
+  "技术员：“我去一层操作室，想办法通过龙门吊的集装箱把你们送过去”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Technician: \"I'll go to the Level 1 operations room and try to get you across using containers on the gantry crane.\"",
+      "JP": "技術員：「私が1階の操作室へ行き、ガントリークレーンのコンテナを使ってあなたたちを運ぶ方法を探します」",
+      "CN": "",
+      "KR": "기술자: \"1층 작동실로 내려가서 고리 크레인의 컨테이너를 이용해 너희들을 건너보내도록 해볼게.\"",
+      "TW": "技術員：「我去一層操作室，想辦法通過龍門吊的集装箱把你們送過去」"
+    }
+  },
+  "队长：“牛逼的，那也只能这样了，先防守，想办法找到去一层操作室的路。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Commander: \"That's brilliant. We'll do it that way. Hold the position for now, and try to find a path to the Level 1 operations room.\"",
+      "JP": "「隊長：」「それはすばらしい、それしかないな。まずは防衛を続け、1階の操作室への道を見つける手段を考えよう。」\n「『ドアがすぐに開く、もう少し頑張れ！』」",
+      "CN": "",
+      "KR": "대장: \"좋아, 그럼 그 방법밖엔 없군. 일단 방어하고 1층 작동실로 가는 길을 찾아보자.\"",
+      "TW": "隊長：「挺厲害的，那也只能這樣了，先防禦，想辦法找到去一層操作室的路。」"
+    }
+  },
+  "“门马上开，再撑一下！”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"The door is opening soon, hang in there!\"",
+      "JP": "もうすぐ開くから、もう少し我慢して！",
+      "CN": "",
+      "KR": "\"문이 곧 열려, 조금만 더 버텨!\"",
+      "TW": "門馬上開，再撐一下！」"
+    }
+  },
+  "“？？”：“这里是‘Sedative’，我是小队的技术员，以下是情况汇报……”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"??\": \"This is 'Sedative', the team's technician. Here is the situation report...\"",
+      "JP": "？？：「这里是『Sedative』，我是小队技术员，以下是情况汇报……」",
+      "CN": "",
+      "KR": "“??”: ‘这里是 Sedative，我是小队技术员。情况汇报如下……’",
+      "TW": "「？？？」：「這裡是『Sedative』，我是小隊的技術員，以下是情況匯報……」"
+    }
+  },
+  "“Sedative”：“我们在进入侧方排水口后被怪物们包夹，然后残留在管道的天然气发生爆炸，我们掉进水中，冲击波与塌方把我们与怪物隔开，但我们也损失了大半队员……”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Sedative\": \"We were caught in a pincer attack by monsters after entering the side drain. The residual natural gas in the pipes then exploded, sending us into the water. The shockwave and collapse separated us from the monsters, but we lost most of our team...\"",
+      "JP": "「Sedative」：「我们在进入侧方排水口后被怪物包夹，随后管道内残留的天然气发生爆炸。我们落水，冲击波与塌方将我们与怪物隔开，但队员也损失了近半……」",
+      "CN": "",
+      "KR": "“Sedative”: ‘측면 배수구로 진입한 후 저들에게 포위당했습니다. 이어 파이프 내부에 남아 있던 천연가스가 폭발하며 물속으로 떨어졌고, 충격파와 붕괴로 인해 우리는 저들과 격리되었습니다. 그러나 전원의 과반수를 잃었습니다……’",
+      "TW": "「Sedative」：「我們在進入側方排水口後被怪物們包夾，隨後殘留在管道的天然氣發生爆炸，我們掉入水中，衝擊波與塌方將我們與怪物隔開，但隊員也損失了大半……」"
+    }
+  },
+  "“我们的队长死了，电台也被炸坏，我们只能自己躲着怪物在暗处摸索……”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Our captain is dead, and the radio was destroyed in the blast. We had no choice but to hide from the monsters and navigate the darkness on our own...\"",
+      "JP": "「队长阵亡，电台也被炸毁，我们只能躲避怪物，在暗处自行摸索……」",
+      "CN": "",
+      "KR": "‘대队长도 숨졌고 라디오도 폭파되었습니다. 우리는 저들로부터 피하여 어둠 속에서 고군분투할 수밖에 없습니다……’",
+      "TW": "「我們的隊長已陣亡，電台也被炸壞，我們只能獨自躲避怪物，在暗處摸索……」"
+    }
+  },
+  "“如果你们路上看到了阔剑地雷，我只能说很抱歉，毕竟这是我们唯一的断后方式了，谁也不想在往前走的时候被怪物掏了后庭对吧？”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"If you see a claymore mine along the way, I'm sorry. It was our only way to cover our retreat. Nobody wants to get impaled from behind while moving forward, right?\"",
+      "JP": "「言归正传，如果你们在路上看到阔剑地雷，我只能说声抱歉。毕竟这是我们唯一的断后手段了。谁也不想前进的时候被怪物偷袭后背吧？」",
+      "CN": "",
+      "KR": "‘만약 여로에 스WORD MINE(표적 지뢰)를 보게 된다면, 그건 유감입니다. 적군 추적을 막는 우리唯一的 수단이니까요. 전진을 도중에 저들에게 뒷심을 맞는 게 좋겠나요?’",
+      "TW": "「言歸正傳，這裡是整個設施的數據中心，小隊為了掩護我進入中心全部犧牲了……」"
+    }
+  },
+  "“言归正传，这里是整个设施的数据中心，小队为了掩护我进入中心全部牺牲了……”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"To business. This is the data center of the entire facility. The team sacrificed themselves to cover my entry into the center...\"",
+      "JP": "「这里是整个设施的数据中心。为了掩护我进入核心，小队全员牺牲……」",
+      "CN": "",
+      "KR": "‘본론으로 돌아가자면, 이곳은 시설 전체의 데이터 센터입니다. 저에게 진입을 덮어주기 위해 작은 팀 전체가 희생되었습니다……’",
+      "TW": "「我知道我一個人也活不下去，所以我用所有的C4炸藥炸塌了來路，並啟動了設施內部的被動防禦系統，將這裡全部封鎖，這賦予了我收集數據的機會。」"
+    }
+  },
+  "“我知道我一个人也活不下去，所以用所有的C4炸药炸塌了来路，并激活的设施内部的被动防御设施，把这里全部封锁，给我收集这里数据的机会。\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"I knew I couldn't survive alone, so I used all the C4 explosives to collapse our path back and activated the facility's passive defense systems, sealing off this entire area. It bought me time to collect the data here.\"",
+      "JP": "「我知道独自一人生还无望，所以用所有的C4炸药炸毁了来路，并启动了设施内部的被动防御系统，完全封锁此处，只为争取收集数据的时间。」",
+      "CN": "",
+      "KR": "‘나 혼자서는 살아남기 어렵다고 판단했습니다. 그래서 진입로의 모든 C4炸药를 사용하여 낙반을 일으켰으며, 시설 내 수동 방어 시스템을 가동하여 이곳을 완전히 봉쇄했습니다. 이렇게 해서 제게 데이터를 수집할 기회를 주었으니까요.’",
+      "TW": "「這裡儲存了黑山的所有數據，甚至包括從未聽聞過的資料，涉及串聯共振的真相與原理分析，這些東西非常可疑……」"
+    }
+  },
+  "“这里存储了黑山的所有数据，甚至是从未听说过的数据，包括串联共振的真相和原理分析，这些东西非常可疑……”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"This place stores all of Black Mesa's data, including data we'd never heard of, such as the truth and principle analysis of series resonance. The nature of these items is highly suspicious...\"",
+      "JP": "这里存储着黑山基地的所有数据，甚至包含那些从未听说过的机密，包括串联共振的真相与原理分析。这些内容非常可疑……」",
+      "CN": "",
+      "KR": "여기에는 Black Mountain의 모든 데이터가 저장되어 있습니다. 아예 들어보지 못한 데이터들도 포함되는데, 여기에는 직렬 공명의 진상과 원리 분석 등이 포함되어 있으며, 매우 의심스럽습니다……’",
+      "TW": "「另外，這幾份文檔多次強調，被記錄為‘G-MAN’的人物是引發黑山事件的关键，他背後似乎隱藏著一股我們從未發現的龐大勢力。」"
+    }
+  },
+  "“另外，这几份文档多次强调这个被记录为‘G-MAN’的人物是引发黑山事件的关键，他的背后似乎有一个我们从未发现的庞大势力。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Additionally, several documents repeatedly emphasize that the individual recorded as 'G-MAN' was the key figure behind the Black Mesa incident. There seems to be a massive force behind him that we have never discovered.\"",
+      "JP": "另外，这几份文档多次强调，被称为‘G-MAN’的人物是引发黑山事件的关键。他的背后似乎隐藏着一个我们从未察觉的庞大势力。」",
+      "CN": "",
+      "KR": "또한, 이 문건들은 기록상 “G-MAN”으로 표기된 인물이 Black Mountain 사건의 핵심 원인임을 여러 번 강조합니다. 그 배후에는 우리가 미처 발견하지 못한 거대한 세력이 있는 것 같습니다.",
+      "TW": "此外，這些文件多次指出，被記錄為「G-MAN」的人物是引發黑山事件的关键，其背後似乎隱藏著一股我們尚未察覺的龐大勢力。"
+    }
+  },
+  "“看到这份报告的人，请务必将这些材料必须被转递出去，尽管当前无法验证其可信性，但这些线索必须被交付到外界，无论付出多大的牺牲。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Those who see this report, please ensure these materials are disseminated. Even though their verifiability cannot currently be confirmed, these leads must reach the outside world, regardless of the cost.",
+      "JP": "この報告書をご覧になった方は、どうかこれらの資料を必ず外部に転送してください。現時点ではその信頼性を検証できませんが、この手がかりは外界へと届けられなければなりません。多大な犠牲を払っても構いません。",
+      "CN": "",
+      "KR": "이 보고서를 접한 자는 이 자료들을 반드시 전달하시오. 현재 그 신뢰성을 검증할 수는 없으나, 이러한 단서들은 외부로 전달되어야 하며, 어떤 희생을 치르더라도 실행해야 합니다.",
+      "TW": "看到這份報告的人，請務必將這些材料轉遞出去，儘管當前無法驗證其可信度，但這些線索必須交付給外界，無論付出多大的犧牲。"
+    }
+  },
+  "“我已经把所有数据全部收集并整理好，硬盘就在放蓝图的桌子上，保存好它。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I have collected and organized all the data. The hard drive is on the desk with the blueprints. Keep it safe.",
+      "JP": "私は全てのデータを集めて整理しました。ハードディスクはブループリントが置かれている机の上にあります。それを大切に保管してください。",
+      "CN": "",
+      "KR": "모든 데이터를 수집하고 정리했습니다. 하드는 도면이 놓인 책상 위에 있습니다. 반드시 보호하세요.",
+      "TW": "我已經將所有資料蒐集並整理完畢，硬碟就放在藍圖旁的桌上，請妥善保管。"
+    }
+  },
+  "“愿不屈的星火得以延续。”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "May the unyielding spark endure.",
+      "JP": "屈しない火種が続いていくことを願う。",
+      "CN": "",
+      "KR": "折不하는星火이 이어지기를 빕니다.",
+      "TW": "願不屈的星火得以延續。"
+    }
+  }
+}

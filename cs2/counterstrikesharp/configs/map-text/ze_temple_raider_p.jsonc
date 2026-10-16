@@ -1,0 +1,112 @@
+{
+  "** ZE TEMPLE RAIDER **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "神廟強奪者",
+      "CN": "** 泽寺掠夺者 **",
+      "KR": "** 제 사원 파괴자 **",
+      "TW": "** 神殿盜賊 **"
+    }
+  },
+  "** MAP BY SLAYERDRAGON **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作者：SLAYERDRAGON",
+      "CN": "** 地图作者：SLAYERDRAGON **",
+      "KR": "** 맵 제작자: SLAYERDRAGON **",
+      "TW": "** 地圖作者：SLAYERDRAGON **"
+    }
+  },
+  "** HOLD THIS AREA UNTIL THE DOOR UNLOCKS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "このエリアを確保し、ドアが解放されるまで守れ",
+      "CN": "** 坚守此区域，直到门解锁 **",
+      "KR": "** 문이 잠금 해제될 때까지 이 위치를 방어하라 **",
+      "TW": "** 守住此區域，直到門解鎖 **"
+    }
+  },
+  "** SHOOT THE CRATES TO OPEN A WAY **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "木箱を射撃して道を開けろ",
+      "CN": "** 射击箱子以开辟道路 **",
+      "KR": "** 박스를 총격하여 길을 연다 **",
+      "TW": "** 射擊箱子以開通道路 **"
+    }
+  },
+  "** HOLD THE TEMPLE ENTRANCE **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "神殿の入り口を防衛せよ",
+      "CN": "** 守卫寺庙入口 **",
+      "KR": "** 사원 입구를 방어하라 **",
+      "TW": "** 守住神殿入口 **"
+    }
+  },
+  "** DOOR OPENS IN 5 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは5秒後に解放される",
+      "CN": "** 门将在5秒后开启 **",
+      "KR": "** 문이 5초 후에 열립니다 **",
+      "TW": "** 門将在 5 秒後打開 **"
+    }
+  },
+  "** FALL BACK **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "後退せよ",
+      "CN": "** 撤退 **",
+      "KR": "** 후퇴하라 **",
+      "TW": "** 撤退 **"
+    }
+  },
+  "** THE DRAGON IS CHARGING FOR A SUPERATTACK **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドラゴンが超攻撃の蓄積を行っている",
+      "CN": "** 巨龙正在蓄力超级攻击 **",
+      "KR": "** 드래곤이 슈퍼공격 모션 중입니다 **",
+      "TW": "** 龍正在蓄力進行超級攻擊 **"
+    }
+  },
+  "** USE THE CATAPULTS ON BOTH SIDES TO STAGGER HIM **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "左右のカタパルトを使って彼をよろめかせろ",
+      "CN": "**利用两侧的投石机使他失衡**",
+      "KR": "** 양쪽의 돌진기를 사용하여 그를 기동 **",
+      "TW": "使用兩側的投石機使他失衡"
+    }
+  },
+  "** THE DRAGON IS CHARGING FOR HIS FINAL ATTACK **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドラゴンが最終攻撃を狙っている",
+      "CN": "**巨龙正在蓄力发动最终攻击**",
+      "KR": "** 드래곤이 마지막 공격을 위해 돌진 중입니다 **",
+      "TW": "龍正蓄力進行最終攻擊"
+    }
+  },
+  "** HEALTH KIT ACQUIRED - 50s cooldown **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハルトキット取得 - 50秒クールダウン",
+      "CN": "**已获取急救包 - 50秒冷却时间**",
+      "KR": "** 체력 회복상자 획득 - 50초 쿨타임 **",
+      "TW": "已獲得急救包 - 冷卻時間50秒"
+    }
+  }
+}

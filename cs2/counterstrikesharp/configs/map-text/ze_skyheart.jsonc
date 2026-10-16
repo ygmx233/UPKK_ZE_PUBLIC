@@ -1,38 +1,162 @@
 {
   "\"Door op in 15S\"": {
-    "translation": "\"门将在15秒后打开\""
+    "translation": "\"门将在15秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開閉 15秒後",
+      "CN": "门将在15秒内开启",
+      "KR": "15초 후 문 개방",
+      "TW": "門將在 15S 後開啟"
+    }
   },
   "\"Door open in 10S\"": {
-    "translation": "\"门将在10秒后打开\""
+    "translation": "\"门将在10秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開閉 10秒後",
+      "CN": "门将在10秒内开启",
+      "KR": "10초 후 문 개방",
+      "TW": "門將在 10S 後開啟"
+    }
   },
   "\"TP in 30S\"": {
-    "translation": "\"传送将在30秒后进行\""
+    "translation": "\"传送将在30秒后进行\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "TP開始 30秒後",
+      "CN": "传送在30秒内可用",
+      "KR": "30초 후 TP 활성화",
+      "TW": "TP 將在 30S 後開啟"
+    }
   },
   "\"The other wall has disappeared\"": {
-    "translation": "\"另一堵墙已经消失\""
+    "translation": "\"另一堵墙已经消失\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "他の壁が消えた",
+      "CN": "另一面墙已消失",
+      "KR": "다른 벽이 사라졌습니다",
+      "TW": "另一面牆已消失"
+    }
   },
   "\"door open in 20S\"": {
-    "translation": "\"门将在20秒后打开\""
+    "translation": "\"门将在20秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア開閉 20秒後",
+      "CN": "门将在20秒内开启",
+      "KR": "20초 후 문 개방",
+      "TW": "門將在 20S 後開啟"
+    }
   },
   "\"push in CD600S\"": {
-    "translation": "\"推力CD 600\""
+    "translation": "\"推力CD 600\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "押下CD 600秒",
+      "CN": "推入冷却时间600秒",
+      "KR": "600초 후 푸시 가능",
+      "TW": "推擠 CD600S"
+    }
   },
   "\"used push\"": {
-    "translation": "\"已使用推力\""
+    "translation": "\"已使用推力\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "使用済み押下",
+      "CN": "已使用推送",
+      "KR": "푸시 사용 완료",
+      "TW": "已使用推擠"
+    }
   },
   "\"zmobie  TP enable in 10S\"": {
-    "translation": "\"僵尸传送将在10秒后\""
+    "translation": "\"僵尸传送将在10秒后\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "モンスター TP開始 10秒後",
+      "CN": "传送在10秒内可用",
+      "KR": "zmobie 10초 후 TP 활성화",
+      "TW": "zmobie TP 將在 10S 後啟用"
+    }
   },
   "\"zmobie will TP in here in 20S\"": {
-    "translation": "\"僵尸将在20秒后传送\""
+    "translation": "\"僵尸将在20秒后传送\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "zmobieがここにTPします 20秒後",
+      "CN": "zmobie将在20秒后传送至此",
+      "KR": "zmobie이 20초 후에 이곳으로TP합니다",
+      "TW": "zmobie將在20秒後傳送至這裡"
+    }
   },
   "\"zomvbieway open in 10S\"": {
-    "translation": "\"僵尸路将在10秒后打开\""
+    "translation": "\"僵尸路将在10秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "zomvbiewayが10秒後に開きます",
+      "CN": "zomvbieway将在10秒内开启",
+      "KR": "zomvbieway이 10초 후에 열립니다",
+      "TW": "zomvbie通道將在10秒後開啟"
+    }
   },
   "\"地图由爱莉希雅的大护法所制作，地图是我第一张地图，主要作为技术积累，可能存在很多问题请反馈让我知道。特别感谢7ychu5，seth特效支持，并且感谢CSZEMAPPER的各位大佬的指导！\"": {
-    "translation": "\"地图由爱莉希雅的大护法制作，这张地图是我第一张地图，主要作为技术积累，可能存在很多问题，请反馈让我知道。特别感谢7ychu5和Seth的特效支持，并感谢CSZEMAPPER的各位大佬的指导！翻译：Asteri3m\""
+    "translation": "\"地图由爱莉希雅的大护法制作，这张地图是我第一张地图，主要作为技术积累，可能存在很多问题，请反馈让我知道。特别感谢7ychu5和Seth的特效支持，并感谢CSZEMAPPER的各位大佬的指导！翻译：Asteri3m\"",
+    "MultiLang": {
+      "US": "This map was created by Elysia's chief guardian. It is my first map, primarily serving as a technical exercise. There may be many issues; please provide feedback so I can improve. Special thanks to 7ychu5 for VFX support, and to all the experts from CSZEMAPPER for your guidance!",
+      "JP": "このマップはアイリヒャの大護法によって作成されました。私の初のマップであり、技術習得を目的としています。多くの問題がある可能性がありますので、フィードバックをお願いします。特に7ychu5さんによるsethエフェクトのサポートと、CSZEMAPPERの皆様の指導に感謝します！",
+      "CN": "\"地图由爱莉希雅的大护法制作，这张地图是我第一张地图，主要作为技术积累，可能存在很多问题，请反馈让我知道。特别感谢7ychu5和Seth的特效支持，并感谢CSZEMAPPER的各位大佬的指导！翻译：Asteri3m\"",
+      "KR": "맵은 아이리히아의 대법호에 의해 제작되었습니다. 이 맵은 제가 만든 첫 번째 맵이며, 주로 기술 축적을 위한 목적입니다. 여러 문제가 있을 수 있으니 피드백을 보내주시면 감사하겠습니다. 7ychu5의 효과 지원, seth의 특수 효과 협력, 그리고 CSZEMAPPER의 모든 분들께 특별한 감사를 드립니다!",
+      "TW": "此地圖由愛莉希雅的大護法所製作，這是我第一張地圖，主要作為技術積累。可能存在的問題請反饋讓我知悉。特別感謝7ychu5的特效支持，並感謝CSZEMAPPER各位大佬的指導！"
+    }
   },
   "The wall has disappeared\"\"": {
-    "translation": "\"墙已消失\""
+    "translation": "\"墙已消失\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁が消えた",
+      "CN": "墙壁已经消失",
+      "KR": "벽이 사라졌습니다",
+      "TW": "牆壁已消失"
+    }
+  },
+  "“BOSS enable in 30S”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "BOSS有効化 30秒後",
+      "CN": "BOSS将在30秒后激活",
+      "KR": "BOSS가 30초 후에 활성화됩니다",
+      "TW": "BOSS將在30秒後啟動"
+    }
+  },
+  "“Teleport in 5S”": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "テレポート 5秒後",
+      "CN": "传送将在5秒内执行",
+      "KR": "5초 후에 텔레포트합니다",
+      "TW": "5秒後傳送"
+    }
+  },
+  "\"The way to the BOSS area will be destroyed in 30 seconds\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "BOSSエリアへの道は30秒後に崩壊します",
+      "CN": "通往BOSS区域的道路将在30秒后被摧毁",
+      "KR": "BOSS 지역으로 가는 길은 30초 후에 파괴됩니다",
+      "TW": "通往BOSS區域的路徑將在30秒後被摧毀"
+    }
+  },
+  "\"laser in comming\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザー発射開始",
+      "CN": "激光即将发射",
+      "KR": "레이저가 접근 중입니다",
+      "TW": "雷射即將到來"
+    }
   }
 }

@@ -1,0 +1,62 @@
+{
+  "The road will open in 30 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が30秒後に開く",
+      "CN": "道路将在30秒后开启",
+      "KR": "30초 후 길이 열립니다",
+      "TW": "道路將於30秒後開啟"
+    }
+  },
+  "The door will open in 40 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が40秒後に開く",
+      "CN": "门将在40秒后开启",
+      "KR": "40초 후 문이 열립니다",
+      "TW": "門將於40秒後開啟"
+    }
+  },
+  "Hold on for 30 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒お待ちください",
+      "CN": "坚持30秒",
+      "KR": "30초 버티기",
+      "TW": "請堅持30秒"
+    }
+  },
+  "The road will open in 25 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が25秒後に開く",
+      "CN": "道路将在25秒后开启",
+      "KR": "25초 후 길이 열립니다",
+      "TW": "道路將於25秒後開啟"
+    }
+  },
+  "The road will open in 40 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が40秒後に開く",
+      "CN": "道路将在40秒后开启",
+      "KR": "40초 후 길이 열립니다",
+      "TW": "道路將於40秒後開啟"
+    }
+  },
+  "<Thanks you for Playing>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<プレイしていただきありがとうございます>",
+      "CN": "<感谢您游玩>",
+      "KR": "<게임 감사합니다>",
+      "TW": "<感謝遊玩>"
+    }
+  }
+}

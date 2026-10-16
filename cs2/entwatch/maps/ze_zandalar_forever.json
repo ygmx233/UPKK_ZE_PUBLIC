@@ -1,106 +1,106 @@
 [
-    {
-        "Name": "weapladder",
-        "ShortName": "weapladder",
-        "Color": "{default}",
-        "HammerID": "4260",
-		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "zombieladder",
-        "ShortName": "zombieladder",
-        "Color": "{default}",
-        "HammerID": "4517",
-		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_knife",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "weapladder1",
-        "ShortName": "weapladder1",
-        "Color": "{default}",
-        "HammerID": "4588",
-		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "weapladder3",
-        "ShortName": "weapladder3",
-        "Color": "{default}",
-        "HammerID": "4620",
-		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    }
+  {
+    "Name": "墙",
+    "ShortName": "墙",
+    "Color": "{default}",
+    "HammerID": 4260,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ladderbutton",
+        "ButtonID": 4262,
+        "ButtonClass": "func_button",
+        "Filter": "gun_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "ZM 墙",
+    "ShortName": "ZM 墙",
+    "Color": "{default}",
+    "HammerID": 4517,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 4519,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zombiebutton",
+        "ButtonID": 4533,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_user:1",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 8
+      }
+    ]
+  },
+  {
+    "Name": "墙2",
+    "ShortName": "墙2",
+    "Color": "{default}",
+    "HammerID": 4588,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ladderbutton1",
+        "ButtonID": 4589,
+        "ButtonClass": "func_button",
+        "Filter": "gun_user1:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "墙3",
+    "ShortName": "墙3",
+    "Color": "{default}",
+    "HammerID": 4620,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ladderbutton3",
+        "ButtonID": 4621,
+        "ButtonClass": "func_button",
+        "Filter": "gun_user3:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  }
 ]

@@ -1,221 +1,732 @@
 {
   "** 1 **": {
-    "translation": "** 1s **"
+    "translation": "** 1s **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "** 1s **",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 2 **": {
-    "translation": "** 2s **"
+    "translation": "** 2s **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "** 2s **",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 3 **": {
-    "translation": "** 3s **"
+    "translation": "** 3s **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "** 3s **",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 4 **": {
-    "translation": "** 4s **"
+    "translation": "** 4s **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "** 4s **",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 5 **": {
-    "translation": "** 5s **"
+    "translation": "** 5s **",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "** 5s **",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 5 seconds left **": {
-    "translation": "** 剩余5秒 **"
+    "translation": "** 剩余5秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り5秒 **",
+      "CN": "** 剩余5秒 **",
+      "KR": "**남은 시간 5초**",
+      "TW": "** 剩餘 5 秒 **"
+    }
   },
   "** 5 seconds left**": {
-    "translation": "** 剩余5秒 **"
+    "translation": "** 剩余5秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り5秒**",
+      "CN": "** 剩余5秒**",
+      "KR": "**남은 시간 5초**",
+      "TW": "** 剩餘 5 秒**"
+    }
   },
   "** A player has picked up Earth Staff **": {
-    "translation": "** 一名玩家捡起了土 **"
+    "translation": "** 一名玩家捡起了土 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが地球の杖を拾いました **",
+      "CN": "** 一名玩家已拾取大地法杖 **",
+      "KR": "**플레이어가 지구 지팡이를 획득했습니다**",
+      "TW": "** 一名玩家拾取了大地杖 **"
+    }
   },
   "** A player has picked up Fire Staff **": {
-    "translation": "** 一名玩家捡起了火 **"
+    "translation": "** 一名玩家捡起了火 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが炎の杖を拾いました**",
+      "CN": "** 一名玩家已拾取火焰法杖 **",
+      "KR": "**플레이어가 불지팡이를 획득했습니다**",
+      "TW": "** 一名玩家拾取了烈焰杖 **"
+    }
   },
   "** A player has picked up Freeze Staff **": {
-    "translation": "** 一名玩家捡起了冰 **"
+    "translation": "** 一名玩家捡起了冰 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが氷の杖を拾いました**",
+      "CN": "** 一名玩家已拾取冰霜法杖 **",
+      "KR": "**플레이어가 얼음 지팡이를 획득했습니다**",
+      "TW": "** 一名玩家拾取了冰凍杖 **"
+    }
   },
   "** A player has picked up Heal Staff **": {
-    "translation": "** 一名玩家捡起了治疗 **"
+    "translation": "** 一名玩家捡起了治疗 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが治癒の杖を拾いました**",
+      "CN": "** 一名玩家已拾取治疗法杖 **",
+      "KR": "**플레이어가 회복 지팡이를 획득했습니다**",
+      "TW": "** 一名玩家拾取了治療杖 **"
+    }
   },
   "** A player has picked up Tornado Staff **": {
-    "translation": "** 一名玩家捡起了风 **"
+    "translation": "** 一名玩家捡起了风 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが竜巻の杖を拾いました**",
+      "CN": "** 一名玩家已拾取龙卷风法杖 **",
+      "KR": "**플레이어가 토네이도 지팡이를 획득했습니다**",
+      "TW": "** 一名玩家拾取了龍捲杖 **"
+    }
   },
   "** A player has picked up Ultimate Staff **": {
-    "translation": "** 一名玩家捡起了终极 **"
+    "translation": "** 一名玩家捡起了终极 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが究極の杖を拾いました**",
+      "CN": "** 一名玩家已拾取终极法杖 **",
+      "KR": "**플레이어가 궁극의 지팡이를 획득했습니다**",
+      "TW": "** 一名玩家拾取了終極杖 **"
+    }
   },
   "** FALL BACK **": {
-    "translation": "** 撤退 **"
+    "translation": "** 撤退 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 自動取得 **",
+      "CN": "** 回退 **",
+      "KR": "** FALL BACK **",
+      "TW": "** 失敗回退 **"
+    }
   },
   "** Hold 10 seconds **": {
-    "translation": "** 防守10秒 **"
+    "translation": "** 防守10秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒間押し続ける **",
+      "CN": "** 按住 10 秒 **",
+      "KR": "10초 동안 누르세요",
+      "TW": "** 按住 10 秒 **"
+    }
   },
   "** Hold 15 seconds **": {
-    "translation": "** 防守15秒 **"
+    "translation": "** 防守15秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒間押し続ける **",
+      "CN": "** 按住 15 秒 **",
+      "KR": "15초 동안 누르세요",
+      "TW": "** 按住 15 秒 **"
+    }
   },
   "** Hold 20 seconds **": {
-    "translation": "** 防守20秒 **"
+    "translation": "** 防守20秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒間押し続ける **",
+      "CN": "** 按住 20 秒 **",
+      "KR": "20초 동안 누르세요",
+      "TW": "** 按住 20 秒 **"
+    }
   },
   "** Hold 25 seconds **": {
-    "translation": "** 防守25秒 **"
+    "translation": "** 防守25秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒間押し続ける **",
+      "CN": "** 按住 25 秒 **",
+      "KR": "25초 동안 누르세요",
+      "TW": "** 按住 25 秒 **"
+    }
   },
   "** Hold 30 seconds **": {
-    "translation": "** 防守30秒 **"
+    "translation": "** 防守30秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒間押し続ける **",
+      "CN": "** 按住 30 秒 **",
+      "KR": "30초 동안 누르세요",
+      "TW": "** 按住 30 秒 **"
+    }
   },
   "** Hold for 10 seconds **": {
-    "translation": "** 防守10秒 **"
+    "translation": "** 防守10秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒間押し続ける **",
+      "CN": "** 按住 10 秒 **",
+      "KR": "10초 동안 길게 누르세요",
+      "TW": "** 按住 10 秒 **"
+    }
   },
   "** Hold for 15 seconds **": {
-    "translation": "** 防守15秒 **"
+    "translation": "** 防守15秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒間押し続ける **",
+      "CN": "** 按住 15 秒 **",
+      "KR": "15초 동안 길게 누르세요",
+      "TW": "** 按住 15 秒 **"
+    }
   },
   "** Hold for 20 seconds **": {
-    "translation": "** 防守20秒 **"
+    "translation": "** 防守20秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間押し続けてください",
+      "CN": "** 按住20秒 **",
+      "KR": "** 20초 동안 누르세요 **",
+      "TW": "**請持續按住20秒**"
+    }
   },
   "** Hold for 30 seconds **": {
-    "translation": "** 防守30秒 **"
+    "translation": "** 防守30秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間押し続けてください",
+      "CN": "** 按住30秒 **",
+      "KR": "** 30초 동안 누르세요 **",
+      "TW": "**請持續按住30秒**"
+    }
   },
   "** IT'S TIME TO CHOOSE A LEVEL!!! **": {
-    "translation": "** 该选择一个关卡了！！！ **"
+    "translation": "** 该选择一个关卡了！！！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベルを選択する時刻です!!!",
+      "CN": "** 是时候选择关卡了!!! **",
+      "KR": "** 레벨을 선택할 시간입니다!!!**",
+      "TW": "**該選擇關卡了！**"
+    }
   },
   "** Kill him or he kills you!!! **": {
-    "translation": "** 杀了他，否则他会杀了你！！！ **"
+    "translation": "** 杀了他，否则他会杀了你！！！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼を倒さなければ、彼に殺されてしまいます!!!",
+      "CN": "** 杀了他，或者他被你杀死!!! **",
+      "KR": "** 그를 죽이거나 그가 당신을 죽입니다!!!**",
+      "TW": "**殺死他，否則他會殺死你！**"
+    }
   },
   "** THANKS FOR PLAYING! **": {
-    "translation": "** 感谢游玩！ **"
+    "translation": "** 感谢游玩！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイしていただきありがとうございます!",
+      "CN": "** 感谢游玩! **",
+      "KR": "** 플레이해 주셔서 감사합니다!**",
+      "TW": "**感謝遊玩！**"
+    }
   },
   "** Teleport will open in 25 seconds **": {
-    "translation": "** 传送将在25秒内开启 **"
+    "translation": "** 传送将在25秒内开启 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "テレポータルは25秒後に開放されます",
+      "CN": "** 传送门将在25秒后开启 **",
+      "KR": "** 25초 후 텔레포트가 열립니다 **",
+      "TW": "**传送門將在25秒後開啟**"
+    }
   },
   "** Teleport will open in 30 seconds **": {
-    "translation": "** 传送将在30秒内开启 **"
+    "translation": "** 传送将在30秒内开启 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "テレポータルは30秒後に開放されます",
+      "CN": "** 传送门将在30秒后开启 **",
+      "KR": "** 30초 후 텔레포트가 열립니다 **",
+      "TW": "**传送門將在30秒後開啟**"
+    }
   },
   "** The doors will open in 20 seconds **": {
-    "translation": "** 门将在20秒内开启 **"
+    "translation": "** 门将在20秒内开启 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "門は20秒後に開きます",
+      "CN": "** 门将在20秒后打开 **",
+      "KR": "** 20초 후 문이 열립니다 **",
+      "TW": "**門將在20秒後打開**"
+    }
   },
   "** The doors will open in 25 seconds **": {
-    "translation": "** 门将在25秒内开启 **"
+    "translation": "** 门将在25秒内开启 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒後に扉が開きます **",
+      "CN": "** 大门将在25秒后开启 **",
+      "KR": "** 문이 25초 후 열립니다 **",
+      "TW": "** 門將在 25 秒後開啟 **"
+    }
   },
   "** Victory in 10 seconds. **": {
-    "translation": "** 胜利在10秒内到来。 **"
+    "translation": "** 胜利在10秒内到来。 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒後に勝利です。**",
+      "CN": "** 胜利倒计时10秒。 **",
+      "KR": "** 승리 조건까지 10초 **",
+      "TW": "** 勝利倒計時：10 秒。**"
+    }
   },
   "** Victory in 100 seconds. **": {
-    "translation": "** 胜利在100秒内到来。 **"
+    "translation": "** 胜利在100秒内到来。 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 100秒後に勝利です。**",
+      "CN": "** 胜利倒计时100秒。 **",
+      "KR": "** 승리 조건까지 100초 **",
+      "TW": "** 勝利倒計時：100 秒。**"
+    }
   },
   "** Victory in 150 seconds. **": {
-    "translation": "** 胜利在150秒内到来。 **"
+    "translation": "** 胜利在150秒内到来。 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 150秒後に勝利です。**",
+      "CN": "** 胜利倒计时150秒。 **",
+      "KR": "** 승리 조건까지 150초 **",
+      "TW": "** 勝利倒計時：150 秒。**"
+    }
   },
   "** Victory in 200 seconds. **": {
-    "translation": "** 胜利在200秒内到来。 **"
+    "translation": "** 胜利在200秒内到来。 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 200秒後に勝利です。**",
+      "CN": "** 胜利倒计时200秒。 **",
+      "KR": "** 승리 조건까지 200초 **",
+      "TW": "** 勝利倒計時：200 秒。**"
+    }
   },
   "** Victory in 230 seconds. **": {
-    "translation": "** 胜利在230秒内到来。 **"
+    "translation": "** 胜利在230秒内到来。 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 230秒後に勝利です。**",
+      "CN": "** 胜利倒计时230秒。 **",
+      "KR": "** 승리 조건까지 230초 **",
+      "TW": "** 勝利倒計時：230 秒。**"
+    }
   },
   "** Victory in 50 seconds. **": {
-    "translation": "** 胜利在50秒内到来。 **"
+    "translation": "** 胜利在50秒内到来。 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 50秒後に勝利です。**",
+      "CN": "** 胜利倒计时50秒。 **",
+      "KR": "** 승리 조건까지 50초 **",
+      "TW": "** 勝利倒計時：50 秒。**"
+    }
   },
   "** Victory! **": {
-    "translation": "** 胜利！ **"
+    "translation": "** 胜利！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 勝利！**",
+      "CN": "** 胜利！ **",
+      "KR": "** 승리! **",
+      "TW": "** 勝利！**"
+    }
   },
   "** WARMUP ROUND **": {
-    "translation": "** 热身回合 **"
+    "translation": "** 热身回合 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ウォーミングアップラウンド**",
+      "CN": "** 热身赛 **",
+      "KR": "** 예선 라운드 **",
+      "TW": "**熱身回合**"
+    }
   },
   "** YOU WON STAGE 1 **": {
-    "translation": "** 你赢得了关卡1 **"
+    "translation": "** 你赢得了关卡1 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ステージ1勝者**",
+      "CN": "** 您赢得了第 1 关 **",
+      "KR": "** 1스테이지 승리 **",
+      "TW": "**您已獲勝，第一關**"
+    }
   },
   "** YOU WON STAGE 2 **": {
-    "translation": "** 你赢得了关卡2 **"
+    "translation": "** 你赢得了关卡2 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ステージ2勝者**",
+      "CN": "** 您赢得了第 2 关 **",
+      "KR": "** 2스테이지 승리 **",
+      "TW": "**您已獲勝，第二關**"
+    }
   },
   "** YOU WON STAGE 3 **": {
-    "translation": "** 你赢得了关卡3 **"
+    "translation": "** 你赢得了关卡3 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ステージ3勝者**",
+      "CN": "** 您赢得了第 3 关 **",
+      "KR": "** 3스테이지 승리 **",
+      "TW": "**您已獲勝，第三關**"
+    }
   },
   "** YOU WON STAGE 4 **": {
-    "translation": "** 你赢得了关卡4 **"
+    "translation": "** 你赢得了关卡4 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ステージ4勝者**",
+      "CN": "** 您赢得了第 4 关 **",
+      "KR": "** 4스테이지 승리 **",
+      "TW": "**您已獲勝，第四關**"
+    }
   },
   "** YOU WON STAGE 5 **": {
-    "translation": "** 你赢得了关卡5 **"
+    "translation": "** 你赢得了关卡5 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ステージ5勝者**",
+      "CN": "** 您赢得了第 5 关 **",
+      "KR": "** 5스테이지 승리 **",
+      "TW": "**您已獲勝，第五關**"
+    }
   },
   "** YOU WON ZM ROUND **": {
-    "translation": "** 你赢得了ZM关 **"
+    "translation": "** 你赢得了ZM关 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ZMラウンド勝利**",
+      "CN": "** 您赢得了僵尸模式回合 **",
+      "KR": "** ZM 라운드 승리 **",
+      "TW": "**您已獲勝，殭屍模式回合**"
+    }
   },
   "*** 5 seconds left ***": {
-    "translation": "*** 剩余5秒 ***"
+    "translation": "*** 剩余5秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り5秒***",
+      "CN": "*** 剩余 5 秒 ***",
+      "KR": "*** 5초 남음 ***",
+      "TW": "*** 剩餘5秒 ***"
+    }
   },
   "*** FALL BACK ***": {
-    "translation": "*** 撤退 ***"
+    "translation": "*** 撤退 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 代替情報 ***",
+      "CN": "*** 回退至默认值 ***",
+      "KR": "*** FALL BACK ***",
+      "TW": "*** 後備譯文 ***"
+    }
   },
   "*** Grenades do more damage (5 seconds) ***": {
-    "translation": "*** 手榴弹造成更多伤害 5秒 ***"
+    "translation": "*** 手榴弹造成更多伤害 5秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** グレネードのダメージ増加（5秒間）***",
+      "CN": "*** 手榴弹伤害提升 (5秒) ***",
+      "KR": "*** Grenades do more damage (5 seconds) ***",
+      "TW": "*** 手榴彈傷害增加（5秒）***"
+    }
   },
   "*** Grenades do more damage. ***": {
-    "translation": "*** 手榴弹造成更多伤害 ***"
+    "translation": "*** 手榴弹造成更多伤害 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** グレネードのダメージ増加。***",
+      "CN": "*** 手榴弹伤害提升。***",
+      "KR": "*** Grenades do more damage. ***",
+      "TW": "*** 手榴彈傷害增加。***"
+    }
   },
   "*** He's dead. Run. ***": {
-    "translation": "*** 他死了。快跑。 ***"
+    "translation": "*** 他死了。快跑。 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 彼は死んだ。逃げろ。***",
+      "CN": "*** 他死了。快跑。***",
+      "KR": "*** He's dead. Run. ***",
+      "TW": "*** 他死了。快跑。***"
+    }
   },
   "*** Hold 20 seconds. ***": {
-    "translation": "*** 防守20秒。 ***"
+    "translation": "*** 防守20秒。 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒間保持。***",
+      "CN": "*** 坚持20秒。***",
+      "KR": "*** Hold 20 seconds. ***",
+      "TW": "*** 堅持20秒。***"
+    }
   },
   "*** Shoot on the Crystals!!! ***": {
-    "translation": "*** 射击水晶！！！ ***"
+    "translation": "*** 射击水晶！！！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 結晶を射撃！！！",
+      "CN": "*** 攻击水晶！！！***",
+      "KR": "*** Shoot on the Crystals!!! ***",
+      "TW": "*** 攻擊水晶！***"
+    }
   },
   ">> BOSS USED ELECTRO <<": {
-    "translation": ">> BOSS 使用了电 3秒 <<"
+    "translation": ">> BOSS 使用了电 3秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> BOSS USED ELECTRO <<",
+      "CN": ">> BOSS使用了闪电 <<",
+      "KR": ">> BOSS USED ELECTRO <<",
+      "TW": ">> BOSS 使用了電擊 <<"
+    }
   },
   ">> BOSS USED FIRE <<": {
-    "translation": ">> BOSS 使用了火 3秒 <<"
+    "translation": ">> BOSS 使用了火 3秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> BOSS USED FIRE <<",
+      "CN": ">> BOSS使用了火焰 <<",
+      "KR": ">> BOSS USED FIRE <<",
+      "TW": ">> BOSS 使用了火焰 <<"
+    }
   },
   ">> BOSS USED FREEZE <<": {
-    "translation": ">> BOSS 使用了冰冻 3秒 <<"
+    "translation": ">> BOSS 使用了冰冻 3秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> BOSS USED FREEZE <<",
+      "CN": ">> BOSS USED FREEZE <<",
+      "KR": ">> 보스가 얼음을 사용했습니다 <<",
+      "TW": ">> BOSS 使用凍結 <<"
+    }
   },
   ">> BOSS USED GRAVITY <<": {
-    "translation": ">> BOSS 使用了黑洞 3秒 <<"
+    "translation": ">> BOSS 使用了黑洞 3秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> BOSS USED GRAVITY <<",
+      "CN": ">> BOSS USED GRAVITY <<",
+      "KR": ">> 보스가 중력을 사용했습니다 <<",
+      "TW": ">> BOSS 使用重力 <<"
+    }
   },
   ">> BOSS USED TENTACLES <<": {
-    "translation": ">> BOSS 使用了触手 3秒 <<"
+    "translation": ">> BOSS 使用了触手 3秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> BOSS USED TENTACLES <<",
+      "CN": ">> BOSS USED TENTACLES <<",
+      "KR": ">> 보스가 촉수를 사용했습니다 <<",
+      "TW": ">> BOSS 使用觸手 <<"
+    }
   },
   ">> BOSS USED TORNADO <<": {
-    "translation": ">> BOSS 使用了风 3秒 <<"
+    "translation": ">> BOSS 使用了风 3秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> BOSS USED TORNADO <<",
+      "CN": ">> BOSS USED TORNADO <<",
+      "KR": ">> 보스가 토네이도를 사용했습니다 <<",
+      "TW": ">> BOSS 使用龍捲風 <<"
+    }
   },
   ">> BOSS USED ULTIMATE <<": {
-    "translation": ">> BOSS 使用了终极 3秒 <<"
+    "translation": ">> BOSS 使用了终极 3秒 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> BOSS USED ULTIMATE <<",
+      "CN": ">> BOSS USED ULTIMATE <<",
+      "KR": ">> 보스가 궁극기를 사용했습니다 <<",
+      "TW": ">> BOSS 使用大招 <<"
+    }
   },
   ">>*** MAP BY STK ***<<": {
-    "translation": ">>*** 地图由 STK 制作  翻译：Asteri3m***<<"
+    "translation": ">>*** 地图由 STK 制作  翻译：Asteri3m***<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> MAP BY STK <<<",
+      "CN": ">>> STAGE 1 <<<",
+      "KR": ">>> 맵 제작: STK <<<",
+      "TW": ">>*** 地圖製作者：STK ***<<"
+    }
   },
   ">>> STAGE 1 <<<": {
-    "translation": ">>> 关卡 1 <<<"
+    "translation": ">>> 关卡 1 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> STAGE 1 <<<",
+      "CN": ">>> STAGE 2 <<<",
+      "KR": ">>> 스테이지 1 <<<",
+      "TW": ">>> 階段 1 <<<"
+    }
   },
   ">>> STAGE 2 <<<": {
-    "translation": ">>> 关卡 2 <<<"
+    "translation": ">>> 关卡 2 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> STAGE 2 <<<<",
+      "CN": ">>> STAGE 3 <<<",
+      "KR": ">>> 스테이지 2 <<<",
+      "TW": ">>> 階段 2 <<<"
+    }
   },
   ">>> STAGE 3 <<<": {
-    "translation": ">>> 关卡 3 <<<"
+    "translation": ">>> 关卡 3 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 3 <<<",
+      "CN": ">>> 第三关 <<<",
+      "KR": ">>> 3Stage <<<",
+      "TW": ">>> 第三關 <<<"
+    }
   },
   ">>> STAGE 4<<<": {
-    "translation": ">>> 关卡 4<<<"
+    "translation": ">>> 关卡 4<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 4<<<",
+      "CN": ">>> 第四关 <<<",
+      "KR": ">>> 4Stage<<<",
+      "TW": ">>> 第四關<<<"
+    }
   },
   ">>> STAGE 5<<<": {
-    "translation": ">>> 关卡 5<<<"
+    "translation": ">>> 关卡 5<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 5<<<",
+      "CN": ">>> 第五关 <<<",
+      "KR": ">>> 5Stage<<<",
+      "TW": ">>> 第五關<<<"
+    }
   },
   ">>> THANKS FOR PLAYING <<<": {
-    "translation": ">>> 感谢游玩 <<<"
+    "translation": ">>> 感谢游玩 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイありがとうございます <<<",
+      "CN": ">>> 感谢游玩 <<<",
+      "KR": ">>> 플레이해주셔서 감사합니다 <<<",
+      "TW": ">>> 感謝遊玩 <<<"
+    }
   },
   ">>> ZM ROUND <<<": {
-    "translation": ">>> ZM关 <<<"
+    "translation": ">>> ZM关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ZM ラウンド <<<",
+      "CN": ">>> 僵尸回合 <<<",
+      "KR": ">>> ZM 라운드 <<<",
+      "TW": ">>> 殭屍回合 <<<"
+    }
   },
   "[ADMIN ROOM] Level changed to 1. Kill all in 5 sec!": {
-    "translation": "[管理员房间] 关卡切换到1，5秒内杀死所有人！"
+    "translation": "[管理员房间] 关卡切换到1，5秒内杀死所有人！",
+    "MultiLang": {
+      "US": "",
+      "JP": "[管理部屋] レベルが1に変更。5秒以内に全滅してください！",
+      "CN": "[管理员房间] 关卡已更改为 1。5秒内消灭所有目标！",
+      "KR": "[관리자 객실] 레벨이 1로 변경되었습니다. 5초 안에 모두 사살!",
+      "TW": "[管理員房間] 等級已更變為 1。5 秒內消滅所有敵人！"
+    }
   },
   "[ADMIN ROOM] Level changed to 2. Kill all in 5 sec!": {
-    "translation": "[管理员房间] 关卡切换到2，5秒内杀死所有人！"
+    "translation": "[管理员房间] 关卡切换到2，5秒内杀死所有人！",
+    "MultiLang": {
+      "US": "",
+      "JP": "[管理部屋] レベルが2に変更。5秒以内に全滅してください！",
+      "CN": "[管理员房间] 关卡已更改为 2。5秒内消灭所有目标！",
+      "KR": "[관리자 객실] 레벨이 2로 변경되었습니다. 5초 안에 모두 사살!",
+      "TW": "[管理員房間] 等級已更變為 2。5 秒內消滅所有敵人！"
+    }
   },
   "[ADMIN ROOM] Level changed to 3. Kill all in 5 sec!": {
-    "translation": "[管理员房间] 关卡切换到3，5秒内杀死所有人！"
+    "translation": "[管理员房间] 关卡切换到3，5秒内杀死所有人！",
+    "MultiLang": {
+      "US": "",
+      "JP": "[管理部屋] レベルが3に変更。5秒以内に全滅してください！",
+      "CN": "[管理员房间] 关卡已更改为 3。5秒内消灭所有目标！",
+      "KR": "[관리자 객실] 레벨이 3으로 변경되었습니다. 5초 안에 모두 사살!",
+      "TW": "[管理員房間] 等級已更變為 3。5 秒內消滅所有敵人！"
+    }
   },
   "[ADMIN ROOM] Level changed to 4. Kill all in 5 sec!": {
-    "translation": "[管理员房间] 关卡切换到4，5秒内杀死所有人！"
+    "translation": "[管理员房间] 关卡切换到4，5秒内杀死所有人！",
+    "MultiLang": {
+      "US": "",
+      "JP": "[アドミンルーム] レベルが4に変更されました。5秒以内に全滅させてください！",
+      "CN": "[管理员房间] 等级已变更为4。5秒内击杀所有人！",
+      "KR": "[ADMIN ROOM] 레벨이 4로 변경되었습니다. 5초 내 모든 적을 제거하세요!",
+      "TW": "[管理員房間] 等級已更改為 4。5 秒內消滅所有敵人！"
+    }
   },
   "[ADMIN ROOM] Level changed to 5. Kill all in 5 sec!": {
-    "translation": "[管理员房间] 关卡切换到5，5秒内杀死所有人！"
+    "translation": "[管理员房间] 关卡切换到5，5秒内杀死所有人！",
+    "MultiLang": {
+      "US": "",
+      "JP": "[アドミンルーム] レベルが5に変更されました。5秒以内に全滅させてください！",
+      "CN": "[管理员房间] 等级已变更为5。5秒内击杀所有人！",
+      "KR": "[ADMIN ROOM] 레벨이 5로 변경되었습니다. 5초 내 모든 적을 제거하세요!",
+      "TW": "[管理員房間] 等級已更改為 5。5 秒內消滅所有敵人！"
+    }
   },
   "[ADMIN ROOM] Level changed to 6(ZM ROUND). Kill all in 5 sec!": {
-    "translation": "[管理员房间] 关卡切换到6（ZM关），5秒内杀死所有人！"
+    "translation": "[管理员房间] 关卡切换到6（ZM关），5秒内杀死所有人！",
+    "MultiLang": {
+      "US": "",
+      "JP": "[アドミンルーム] レベルが6（ZMラウンド）に変更されました。5秒以内に全滅させてください！",
+      "CN": "[管理员房间] 等级已变更为6(ZM轮次)。5秒内击杀所有人！",
+      "KR": "[ADMIN ROOM] 레벨이 6(ZM 라운드)로 변경되었습니다. 5초 내 모든 적을 제거하세요!",
+      "TW": "[管理員房間] 等級已更改為 6(ZM 輪次)。5 秒內消滅所有敵人！"
+    }
   },
   "||| ZOMBIE ESCAPED! STAGE FAILED! |||": {
-    "translation": "||| 僵尸已逃脱！关卡失败！ |||"
+    "translation": "||| 僵尸已逃脱！关卡失败！ |||",
+    "MultiLang": {
+      "US": "",
+      "JP": "||| ゾンビ脱出！ステージ失敗！ |||",
+      "CN": "||| 僵尸逃脱！关卡失败！ |||",
+      "KR": "||| 좀비 탈출! 스테이지 실패! |||",
+      "TW": "||| 殭屍逃脫！階段失敗！ |||"
+    }
   }
 }

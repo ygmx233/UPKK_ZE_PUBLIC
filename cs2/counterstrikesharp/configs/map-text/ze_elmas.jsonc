@@ -1,0 +1,392 @@
+{
+  "-ı| 10 |ı-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 10 |ı-",
+      "JP": "-ı| 10 |ı-",
+      "CN": "-ı| 10 |ı-",
+      "KR": "-ı| 10 |ı-",
+      "TW": "-ı| 10 |ı-"
+    }
+  },
+  "-ı| 3 |ı-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 3 |ı-",
+      "JP": "-ı| 3 |ı-",
+      "CN": "-ı| 3 |ı-",
+      "KR": "-ı| 3 |ı-",
+      "TW": "-ı| 3 |ı-"
+    }
+  },
+  "-ı| 2 |ı-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 2 |ı-",
+      "JP": "-ı| 2 |ı-",
+      "CN": "-ı| 2 |ı-",
+      "KR": "-ı| 2 |ı-",
+      "TW": "-ı| 2 |ı-"
+    }
+  },
+  "-ı| 1 |ı-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 1 |ı-",
+      "JP": "-ı| 1 |ı-",
+      "CN": "-ı| 1 |ı-",
+      "KR": "-ı| 1 |ı-",
+      "TW": "-ı| 1 |ı-"
+    }
+  },
+  "| OPEN GO |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "| OPEN GO |",
+      "CN": "| 空房 |",
+      "KR": "| OPEN GO |",
+      "TW": "| OPEN GO |"
+    }
+  },
+  "| ZM TP 10 |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "| ZM TP 10 |",
+      "CN": "| ZM TP 10 |",
+      "KR": "| ZM TP 10 |",
+      "TW": "| ZM TP 10 |"
+    }
+  },
+  "| ZM TP 5 |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "| ZM TP 5 |",
+      "CN": "| ZM TP 5 |",
+      "KR": "| ZM TP 5 |",
+      "TW": "| ZM TP 5 |"
+    }
+  },
+  "-ı| 30 |ı-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 30 |ı-",
+      "JP": "-ı| 30 |ı-",
+      "CN": "-ı| 30 |ı-",
+      "KR": "-ı| 30 |ı-",
+      "TW": "-ı| 30 |ı-"
+    }
+  },
+  "-ı| 20 |ı-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 20 |ı-",
+      "JP": "-ı| 20 |ı-",
+      "CN": "-ı| 20 |ı-",
+      "KR": "-ı| 20 |ı-",
+      "TW": "-ı| 20 |ı-"
+    }
+  },
+  "-ı| 10 |ı- ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 10 |ı-",
+      "JP": "-ı| 10 |ı-",
+      "CN": "-ı| 10 |ı-",
+      "KR": "-ı| 10 |ı-",
+      "TW": "-ı| 10 |ı-"
+    }
+  },
+  "| OPEN ! GO BACK |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "| OPEN ! GO BACK |",
+      "CN": "| 开启！返回 |",
+      "KR": "열기! 뒤로가기",
+      "TW": "| 開！ 回去 |"
+    }
+  },
+  "-ı| 15 |ı- ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 15 |ı-",
+      "JP": "-ı| 15 |ı-",
+      "CN": "-ı| 15 |ı-",
+      "KR": "-ı| 15 |ı-",
+      "TW": "-ı| 15 |ı-"
+    }
+  },
+  "| OPEN |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "| OPEN |",
+      "CN": "| 开启 |",
+      "KR": "열기",
+      "TW": "| 開 |"
+    }
+  },
+  "-ı| 40 |ı-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 40 |ı-",
+      "JP": "-ı| 40 |ı-",
+      "CN": "-ı| 40 |ı-",
+      "KR": "-ı| 40 |ı-",
+      "TW": "-ı| 40 |ı-"
+    }
+  },
+  "| first way opening |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "| first way opening |",
+      "CN": "| 第一种开启方式 |",
+      "KR": "첫 번째 방법 오프닝",
+      "TW": "| 第一種方式開啟 |"
+    }
+  },
+  "| second way opening |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "| second way opening |",
+      "CN": "| 第二种开启方式 |",
+      "KR": "두 번째 방식 열기",
+      "TW": "| 第二種方式開啟 |"
+    }
+  },
+  "| all way open |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "全経路開放",
+      "CN": "全通",
+      "KR": "모든 길이 열림",
+      "TW": "所有通道開放"
+    }
+  },
+  "-ı| 5 |ı- ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-ı| 5 |ı-",
+      "JP": "-ı| 5 |ı-",
+      "CN": "-ı|5|ı-",
+      "KR": "5",
+      "TW": "5"
+    }
+  },
+  "-ı| WAY OPEN |ı- ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "-ı| 経路開放 |ı-",
+      "CN": "-ı|全通|ı-",
+      "KR": "길 열림",
+      "TW": "通道開放"
+    }
+  },
+  "| BOSS DOOR OPEN |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス扉開放",
+      "CN": "BOSS门开启",
+      "KR": "보스 문 열림",
+      "TW": "BOSS門開啟"
+    }
+  },
+  "| BOSS WAY CLOSING 15 |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "経路閉鎖開始15",
+      "CN": "通路关闭倒计时15",
+      "KR": "길 닫힘 15초 전",
+      "TW": "通道關閉倒計時15"
+    }
+  },
+  "| 10 |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| 5 |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| 3 |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| 2 |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| 1 |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "| WAY BREAK |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "経路破壊",
+      "CN": "通路破碎",
+      "KR": "통로 붕괴",
+      "TW": "通道崩塌"
+    }
+  },
+  "| WELCOME TO BOSS |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスルームへようこそ",
+      "CN": "欢迎进入BOSS战",
+      "KR": "보스전 Welcome",
+      "TW": "歡迎進入BOSS戰"
+    }
+  },
+  "| PUSH |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "押す",
+      "CN": "推送",
+      "KR": "눌러주세요",
+      "TW": "推動"
+    }
+  },
+  "| ZM WAY OPENING |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ZMウェイのオープニング",
+      "CN": "前方道路已开放",
+      "KR": "| ZM 게임 오프닝 |",
+      "TW": "| ZM 通路開啟 |"
+    }
+  },
+  "| SKILL BALL |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "スキルボール",
+      "CN": "技能球",
+      "KR": "| 스킬 볼 |",
+      "TW": "| 技能球 |"
+    }
+  },
+  "| BOSS DIE |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス爆死",
+      "CN": "BOSS阵亡",
+      "KR": "| 보스 사망 |",
+      "TW": "| 首領陣亡 |"
+    }
+  },
+  "| KILL THE ZOMBIES |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビを倒せ",
+      "CN": "消灭僵尸",
+      "KR": "| 좀비 처치하기 |",
+      "TW": "| 殲滅殭屍 |"
+    }
+  },
+  "| MAP CREATOR PLATIN |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップクリエイタープラチナ",
+      "CN": "地图创作者白金奖",
+      "KR": "| 맵 크리에이터 황금상 |",
+      "TW": "| 地圖創作者白金 |"
+    }
+  },
+  "* fire item pickup - 30 sec cooldown *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "火炎アイテム取得 - 30秒クールダウン",
+      "CN": "* 火焰道具拾取 - 30秒冷却 *",
+      "KR": "* 화염 아이템 획득 - 30초 재사용 대기시간 *",
+      "TW": "* 火焰物品拾取 - 冷卻時間 30 秒 *"
+    }
+  },
+  "| LASER ACTIVATED |": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザー作動中",
+      "CN": "激光已激活",
+      "KR": "| 레이저 활성화 |",
+      "TW": "| 雷射啟動 |"
+    }
+  },
+  "* wall item pickup - 60 sec cooldown *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁面アイテム取得 - 60秒クールダウン",
+      "CN": "* 墙壁道具拾取 - 60秒冷却 *",
+      "KR": "* 벽 아이템 획득 - 60초 재사용 대기시간 *",
+      "TW": "* 牆壁物品拾取 - 冷卻時間 60 秒 *"
+    }
+  },
+  "* slow item pickup - 30 sec cooldown *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* アイテム回収スロー - 30秒クールダウン *",
+      "CN": "* 缓慢拾取物品 - 30秒冷却 *",
+      "KR": "* 느린 아이템 픽업 - 30초 재사용 대기시간 *",
+      "TW": "* 緩慢拾取道具 - 冷卻時間 30 秒 *"
+    }
+  },
+  "* freeze item pickup - 30 sec cooldown *": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* アイテム回収フリーズ - 30秒クールダウン *",
+      "CN": "* 冻结物品拾取 - 30秒冷却 *",
+      "KR": "* 아이템 정지 효과 - 30초 재사용 대기시간 *",
+      "TW": "* 凍結拾取道具 - 冷卻時間 30 秒 *"
+    }
+  }
+}

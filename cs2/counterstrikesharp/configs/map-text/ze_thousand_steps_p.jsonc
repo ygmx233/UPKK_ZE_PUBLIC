@@ -1,158 +1,522 @@
 {
   "++Set next level to : EASY++": {
-    "translation": "++设置下一级为： 简单++"
+    "translation": "++设置下一级为： 简单++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++次のレベルを設定：イージー++",
+      "CN": "++下一关难度设置为：简单++",
+      "KR": "다음 레벨 설정: 쉬움",
+      "TW": "++將下一關卡設為：簡單++"
+    }
   },
   "++Set next level to : NORMAL++": {
-    "translation": "++设置下一级为： 正常++"
+    "translation": "++设置下一级为： 正常++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++次のレベルを設定：ノーマル++",
+      "CN": "++下一关难度设置为：普通++",
+      "KR": "다음 레벨 설정: 보통",
+      "TW": "++將下一關卡設為：普通++"
+    }
   },
   "++Set next level to : HARD++": {
-    "translation": "++设置下一级为： 困难++"
+    "translation": "++设置下一级为： 困难++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++次のレベルを設定：ハード++",
+      "CN": "++下一关难度设置为：困难++",
+      "KR": "다음 레벨 설정: 어려움",
+      "TW": "++將下一關卡設為：困難++"
+    }
   },
   "++Admin press Kill everyone++": {
-    "translation": "管理员杀死了所有人"
+    "translation": "管理员杀死了所有人",
+    "MultiLang": {
+      "US": "",
+      "JP": "++管理者による全プレイヤーキル++",
+      "CN": "++管理员按下：全员处决++",
+      "KR": "관리자 킬 모두",
+      "TW": "++管理員按下屠殺所有人++"
+    }
   },
   "++Difficulty level: EASY++": {
-    "translation": "++难度级别： 简单"
+    "translation": "++难度级别： 简单",
+    "MultiLang": {
+      "US": "",
+      "JP": "++難易度：イージー++",
+      "CN": "++当前难度等级：简单++",
+      "KR": "난이도: 쉬움",
+      "TW": "++難度等級：簡單++"
+    }
   },
   "++Reaching the end will raise the difficulty++": {
-    "translation": "++到达终点将提高难度++"
+    "translation": "++到达终点将提高难度++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++最後の到達で難度が上昇します++",
+      "CN": "++通关后难度将提升++",
+      "KR": "끝에 도달하면 난이도가 상승합니다.",
+      "TW": "++到達結尾會提高難度++"
+    }
   },
   "++Difficulty level: NORMAL++": {
-    "translation": "++难度级别： 正常++"
+    "translation": "++难度级别： 正常++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++難易度：ノーマル++",
+      "CN": "++当前难度等级：普通++",
+      "KR": "난이도: 보통",
+      "TW": "++難度等級：普通++"
+    }
   },
   "++This is the highest difficulty, good luck++": {
-    "translation": "++这是最高难度，祝你好运++"
+    "translation": "++这是最高难度，祝你好运++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++これが最高難度です、幸運を祈ります++",
+      "CN": "++这是最高难度，祝好运++",
+      "KR": "최고의 난이도입니다. 행운을 빕니다.",
+      "TW": "++這是最高難度，祝你好運++"
+    }
   },
   "++Difficulty level: HARD++": {
-    "translation": "++难度等级：HARD++"
+    "translation": "++难度等级：HARD++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++難易度：ハード++",
+      "CN": "++难度等级：困难++",
+      "KR": "++난이도: HARD++",
+      "TW": "++難度等級：困難++"
+    }
   },
   "++Zombies have made it past the cargo entrance, new spawn opening++": {
-    "translation": "+僵尸已经越过了货物入口，新的僵尸传送点开启++"
+    "translation": "+僵尸已经越过了货物入口，新的僵尸传送点开启++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ゾンビーが貨物入口を突破しました。新しいスポーンポイントが開きます++",
+      "CN": "++僵尸已突破货运入口，新增刷新点++",
+      "KR": "++저승귀신이 화물창구 문을 뚫고 진입했습니다. 새로운 생성 지점이 열렸습니다++",
+      "TW": "++殭屍已突破貨物入口，新增生成點++"
+    }
   },
   "++Hold them back!++": {
-    "translation": "++拖住他们！++"
+    "translation": "++拖住他们！++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++阻止しろ！++",
+      "CN": "++挡住它们！++",
+      "KR": "++저들을 막아라!++",
+      "TW": "++阻擋他們！++"
+    }
   },
   "++Zombies have made it past the high tower++": {
-    "translation": "++僵尸已越过高塔++"
+    "translation": "++僵尸已越过高塔++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ゾンビーが高塔を越えました++",
+      "CN": "++僵尸已突破高塔++",
+      "KR": "++저승귀신이 높은 탑을 지나쳤습니다++",
+      "TW": "++殭屍已突破高塔++"
+    }
   },
   "++Cut them off before they reach the tunnel!++": {
-    "translation": "++在他们到达隧道之前截住他们！++"
+    "translation": "++在他们到达隧道之前截住他们！++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++トンネルに着く前に食い止める！++",
+      "CN": "++在它们到达隧道前截断退路！++",
+      "KR": "++터널에 도달하기 전에 저들을 격파하라!++",
+      "TW": "++在他們進入隧道前阻斷去路！++"
+    }
   },
   "++Zombies have made it to the bridge, new spawn opening++": {
-    "translation": "++僵尸已到达桥梁，新的传送点++"
+    "translation": "++僵尸已到达桥梁，新的传送点++",
+    "MultiLang": {
+      "US": "++Zombies have reached the bridge, new spawn point open++",
+      "JP": "++ゾンビーが橋に到達しました。新しいスポーンポイントが開きます++",
+      "CN": "++僵尸已抵达桥梁，新增刷新点++",
+      "KR": "++저승귀신이 다리에 도달했습니다. 새로운 생성 지점이 열렸습니다++",
+      "TW": "++殭屍已抵達橋樑，新增生成點++"
+    }
   },
   "++Cut them off!++": {
-    "translation": "++干掉他们！++"
+    "translation": "++干掉他们！++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++阻止しろ！++",
+      "CN": "++截断它们！++",
+      "KR": "++저들을 차단하라!++",
+      "TW": "++阻斷他們！++"
+    }
   },
   "++Don't let them get any further!++": {
-    "translation": "++不要让他们再往前走了！++"
+    "translation": "++不要让他们再往前走了！++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++これ以上進めさせない！++",
+      "CN": "++别让它们再前进一步！++",
+      "KR": "++더 이상 접근하지 못하게 하라!++",
+      "TW": "++別讓他們再往前進！++"
+    }
   },
   "++Zombies have gotten past the middle gate, new spawn opening++": {
-    "translation": "++僵尸已经通过了中间的大门，新的传送点++"
+    "translation": "++僵尸已经通过了中间的大门，新的传送点++",
+    "MultiLang": {
+      "US": "++Zombies have passed the middle gate, new wave spawning++",
+      "JP": "++ゾンミが中門を突破しました、新しいスポーン地点が開きます++",
+      "CN": "++丧尸已突破中门，新刷新点开启++",
+      "KR": "좀비가 중문으로 진입했습니다. 새 스폰 지점이 열렸습니다.",
+      "TW": "殭屍已突破中段柵欄，新的生成點已開啟"
+    }
   },
   "++We're overriding the gates, should take about 15 seconds++": {
-    "translation": "++我们正在超越大门，应该需要15秒++"
+    "translation": "++我们正在超越大门，应该需要15秒++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ゲートを強制的に操作しています、完了まで約15秒++",
+      "CN": "++正在强制关闭闸门，预计耗时约15秒++",
+      "KR": "게이트를 재설정 중입니다. 약 15초가 소요됩니다.",
+      "TW": "我們正在覆蓋柵欄程式，預計約需15秒"
+    }
   },
   "++The two gates are lowering++": {
-    "translation": "++两扇大门正在降低++"
+    "translation": "++两扇大门正在降低++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++2つのゲートが下降しています++",
+      "CN": "++两道闸门正在下降++",
+      "KR": "두 개의 게이트가 하강 중입니다.",
+      "TW": "兩道柵欄正在下降"
+    }
   },
   "++We're overriding the gates, should take about 25 seconds++": {
-    "translation": "++我们正在超越城门，应该需要大约25秒++"
+    "translation": "++我们正在超越城门，应该需要大约25秒++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ゲートを強制的に操作しています、完了まで約25秒++",
+      "CN": "++正在强制关闭闸门，预计耗时约25秒++",
+      "KR": "게이트를 재설정 중입니다. 약 25초가 소요됩니다.",
+      "TW": "我們正在覆蓋柵欄程式，預計約需25秒"
+    }
   },
   "++The second bridge can now be broken++": {
-    "translation": "++第二座桥现在可以被打破++"
+    "translation": "++第二座桥现在可以被打破++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++2番目の橋を破壊できるようになりました++",
+      "CN": "++第二座桥梁现在可以破坏++",
+      "KR": "두 번째 다리를 파괴할 수 있습니다.",
+      "TW": "第二座橋樑現在可破壞"
+    }
   },
   "++The third bridge can now be broken++": {
-    "translation": "++第三座桥现在可以被打破++"
+    "translation": "++第三座桥现在可以被打破++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++3番目の橋を破壊できるようになりました++",
+      "CN": "++第三座桥梁现在可以破坏++",
+      "KR": "세 번째 다리를 파괴할 수 있습니다.",
+      "TW": "第三座橋樑現在可破壞"
+    }
   },
   "++The first bridge can now be broken++": {
-    "translation": "++第一座桥现在可以被打破++"
+    "translation": "++第一座桥现在可以被打破++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++1番目の橋を破壊できるようになりました++",
+      "CN": "++第一座桥梁现在可以破坏++",
+      "KR": "첫 번째 다리를 파괴할 수 있습니다.",
+      "TW": "第一座橋樑現在可破壞"
+    }
   },
   "++The big gate is opening- fall back if you are on the walkways++": {
-    "translation": "++大闸正在打开--如果你在人行道上，请后退++"
+    "translation": "++大闸正在打开--如果你在人行道上，请后退++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++大きな門が開きます、歩道にいる場合は退避してください++",
+      "CN": "++大门正在开启——如果你在步行道上，请立即撤退++",
+      "KR": "대문이 열립니다. 보도에 있다면 후퇴하십시오.",
+      "TW": "大柵門正在開啟——若您位於步道，請立即撤退"
+    }
   },
   "++The sliding gate is open, keep moving forward++": {
-    "translation": "++滑动门已打开，继续前进++"
+    "translation": "++滑动门已打开，继续前进++",
+    "MultiLang": {
+      "US": "",
+      "JP": "スライドゲートが開いています、前進を続けてください",
+      "CN": "滑动门已打开，继续前进",
+      "KR": "슬라이딩 게이트가 열렸습니다. 계속 전진하세요",
+      "TW": "滑動閘門已打開，繼續前進"
+    }
   },
   "++Try to find a good chokepoint so some of you can hold while the rest advance++": {
-    "translation": "++试着找到一个好的防守点，这样你们中的一些人可以守住，其他人前进++"
+    "translation": "++试着找到一个好的防守点，这样你们中的一些人可以守住，其他人前进++",
+    "MultiLang": {
+      "US": "",
+      "JP": "敵が集中しやすい狭い場所を探して、一部が押さえ残りが前進する準備をしてください",
+      "CN": "尽量找到一个良好的 chokepoint，部分人负责防守，其余人继续推进",
+      "KR": "일부 멤버는 방어에 집중하고 나머지는 전진하도록 최적의 저지점을 찾아보세요",
+      "TW": "努力找個好堵點，部分人防守，其他人推進"
+    }
   },
   "++We can see zombies behind you in the train station++": {
-    "translation": "++我们可以在火车站看到你们身后的僵尸++"
+    "translation": "++我们可以在火车站看到你们身后的僵尸++",
+    "MultiLang": {
+      "US": "",
+      "JP": "駅の中腹からゾンビが後方へ向かってます",
+      "CN": "我们看到你身后的火车站里有僵尸了",
+      "KR": "철도역 내부에서 너희 뒤에 좀비가 보입니다",
+      "TW": "我們看到你們身後火車站裡的殭屍"
+    }
   },
   "++Don't let them get too far or they'll open new spawn points!++": {
-    "translation": "++不要让他们走得太远，否则他们会打开新的传送点！++"
+    "translation": "++不要让他们走得太远，否则他们会打开新的传送点！++",
+    "MultiLang": {
+      "US": "",
+      "JP": "遠くに行かせないでください、新しいスポーン地点が開きます！",
+      "CN": "别让他们跑太远，否则他们会开启新的刷新点！",
+      "KR": "너무 멀리 내보내면 새로운 스폰 포인트가 열립니다! 막아주세요",
+      "TW": "別讓它們走太遠，否則會開啟新的刷怪點！"
+    }
   },
   "++Door One will open in 25 seconds++": {
-    "translation": "++一号门将在25秒后打开++"
+    "translation": "++一号门将在25秒后打开++",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア1が25秒後に開きます",
+      "CN": "一号门将在25秒后打开",
+      "KR": "1번 문이 25초 후에 열립니다",
+      "TW": "一號門將在 25 秒後開啟"
+    }
   },
   "++We see you, we're triggering the override++": {
-    "translation": "++我们看到你了，我们正在触发++"
+    "translation": "++我们看到你了，我们正在触发++",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなたたちが見えます、強制解除を行っています",
+      "CN": "已发现你，正在触发覆盖指令",
+      "KR": "목표 확인. 강제 개방 시스템을 발동합니다",
+      "TW": "我們看到你們了，正在觸發覆寫程式"
+    }
   },
   "++Door One opening in 10 seconds++": {
-    "translation": "++一号门在10秒内打开++"
+    "translation": "++一号门在10秒内打开++",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア1が10秒後に開きます",
+      "CN": "一号门将在10秒后打开",
+      "KR": "1번 문이 10초 후에 열립니다",
+      "TW": "一號門即將在 10 秒後開啟"
+    }
   },
   "++Door One will open in 20 seconds++": {
-    "translation": "++一号门20秒后打开++"
+    "translation": "++一号门20秒后打开++",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドア1が20秒後に開きます",
+      "CN": "一号门将在20秒后打开",
+      "KR": "1번 문이 20초 후에 열립니다",
+      "TW": "一號門將在 20 秒後開啟"
+    }
   },
   "++Door One will open in 40 seconds++": {
-    "translation": "++一号门将在40秒内打开++"
+    "translation": "++一号门将在40秒内打开++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ドアイーチが40秒後に開きます++",
+      "CN": "一扇门将在40秒后打开",
+      "KR": "++1번 출구가 40초 후 열립니다++",
+      "TW": "一號門將在40秒後開啟"
+    }
   },
   "++Door One will open in 45 seconds++": {
-    "translation": "++一号隧道门正在打开++"
+    "translation": "++一号隧道门正在打开++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ドアイーチが45秒後に開きます++",
+      "CN": "一扇门将在45秒后打开",
+      "KR": "++1번 출구가 45초 후 열립니다++",
+      "TW": "一號門將在45秒後開啟"
+    }
   },
   "++The sliding gate is opening++": {
-    "translation": "++滑动门正在打开++"
+    "translation": "++滑动门正在打开++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++スライディングゲートが開きます++",
+      "CN": "滑动门正在打开",
+      "KR": "++슬라이딩 게이트가 열리고 있습니다++",
+      "TW": "滑動門正在開啟"
+    }
   },
   "++That gate will take about half a minute to fully open++": {
-    "translation": "＋＋那扇门需要大约半分钟才能完全打开＋＋"
+    "translation": "＋＋那扇门需要大约半分钟才能完全打开＋＋",
+    "MultiLang": {
+      "US": "",
+      "JP": "++そのゲートは完全に開くまで約30秒かかります++",
+      "CN": "那扇门完全打开大约需要半分钟",
+      "KR": "++해당 게이트를 완전히 여는 데 약 30초가 걸립니다++",
+      "TW": "那道門大約需要半分鐘才能完全開啟"
+    }
   },
   "++Tunnel Door One is opening++": {
-    "translation": "++隧道一号门正在打开++"
+    "translation": "++隧道一号门正在打开++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++トンネルドアイーチが開きます++",
+      "CN": "隧道一扇门正在打开",
+      "KR": "++터널 도어 1호가 열리고 있습니다++",
+      "TW": "隧道一號門正在開啟"
+    }
   },
   "++Hold the ledge until the door is open++": {
-    "translation": "++守住窗台，直到门打开++"
+    "translation": "++守住窗台，直到门打开++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ドアが開くまで縁を握りしめてください++",
+      "CN": "抓住边缘直到门打开",
+      "KR": "++출구가 완전히 열릴 때까지 받침대에 매달려 있으세요++",
+      "TW": "抓住懸崖邊緣，直到門開啟"
+    }
   },
   "++The gate is lowering++": {
-    "translation": "++闸门正在下降++"
+    "translation": "++闸门正在下降++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ゲートが下がります++",
+      "CN": "大门正在下降",
+      "KR": "++게이트가 내려가고 있습니다++",
+      "TW": "柵欄正在下降"
+    }
   },
   "++The gate switch will be inside the building++": {
-    "translation": "++闸门开关在建筑物内++"
+    "translation": "++闸门开关在建筑物内++",
+    "MultiLang": {
+      "US": "",
+      "JP": "++ゲートのスイッチは建物内にあります++",
+      "CN": "闸门开关在建筑物内",
+      "KR": "++게이트 스위치는 건물 안에 있습니다++",
+      "TW": "柵欄開關位於建築物內"
+    }
   },
   "++We can see you out there. Those doors will take about 20 seconds to lower++": {
-    "translation": "++我们可以看到你在那里。这些门需要大约20秒钟才能放下++"
+    "translation": "++我们可以看到你在那里。这些门需要大约20秒钟才能放下++",
+    "MultiLang": {
+      "US": "",
+      "JP": "外が確認できます。あれらの扉は20秒後に開きます",
+      "CN": "++我们能看到你在那边。那些门大约需要20秒才会降下++",
+      "KR": "++너희를 보고 있어. 문이 내려가는 데 약 20초가 걸릴 거야++",
+      "TW": "++我們看得到你。門大約需要20秒才能降下++"
+    }
   },
   "++We hear you. We're overriding Tunnel Door Six++": {
-    "translation": "++我们听到了。++我们听到你的声音了。 我们正在重启隧道六号门++"
+    "translation": "++我们听到了。++我们听到你的声音了。 我们正在重启隧道六号门++",
+    "MultiLang": {
+      "US": "",
+      "JP": "聞こえています。6番トンネルドアをオーバーライドします",
+      "CN": "++我们听到了你的声音。正在覆盖六号隧道门控制指令++",
+      "KR": "++너희 소리를 들려. 터널 문 여섯을 강제 개방 중++",
+      "TW": "++我們聽到了。我們正在接管隧道門六號++"
+    }
   },
   "++Airstrike hits in 5 seconds++": {
-    "translation": "++空袭5秒后命中++"
+    "translation": "++空袭5秒后命中++",
+    "MultiLang": {
+      "US": "",
+      "JP": "空襲まであと5秒",
+      "CN": "++空袭将在5秒后抵达++",
+      "KR": "++공격기 투하 5초 전++",
+      "TW": "++空襲5秒後到達++"
+    }
   },
   "++4++": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "++3++": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "++2++": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "++1++": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "++Airstrike has hit. Welcome home++": {
-    "translation": "++空袭已命中 欢迎回家"
+    "translation": "++空袭已命中 欢迎回家",
+    "MultiLang": {
+      "US": "",
+      "JP": "空襲発射完了。お帰りなさい",
+      "CN": "++空袭已命中。欢迎回家++",
+      "KR": "++공격기 투하 완료. 환영해, 집으로 돌아왔어++",
+      "TW": "++空襲已到位。歡迎回家++"
+    }
   },
   "++Clear out any remaining runners and it'll be over++": {
-    "translation": "++清除剩余的逃兵，一切就结束了++"
+    "translation": "++清除剩余的逃兵，一切就结束了++",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げようとする者を始末すれば、すべて終わりです",
+      "CN": "++清除所有剩余逃跑者，任务就结束了++",
+      "KR": "++남아 있는 도주자들을 모두 처리하면 끝이야++",
+      "TW": "++清除所有剩餘的逃兵，一切就結束了++"
+    }
   },
   "++Map created by Officer_B++": {
-    "translation": "++地图作者：Officer_B++ 翻译：秋刀鱼++"
+    "translation": "++地图作者：Officer_B++ 翻译：秋刀鱼++",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：Officer_B",
+      "CN": "++地图由 Officer_B 制作++",
+      "KR": "++맵 제작: Officer_B++",
+      "TW": "++地圖由 Officer_B 製作++"
+    }
   },
   "++Tunnel Door Five is Opening++": {
-    "translation": "++隧道五号门开启++"
+    "translation": "++隧道五号门开启++",
+    "MultiLang": {
+      "US": "",
+      "JP": "5番トンネルドアが開放されます",
+      "CN": "++五号隧道门正在开启++",
+      "KR": "++터널 문 여섯이 개방 중++",
+      "TW": "++隧道門五號正在開啟++"
+    }
   },
   "++Tunnel Door Two is opening++": {
-    "translation": "++二号隧道门打开了++"
+    "translation": "++二号隧道门打开了++",
+    "MultiLang": {
+      "US": "",
+      "JP": "2番トンネルドアが開放されています",
+      "CN": "++二号隧道门正在开启++",
+      "KR": "++터널 문 두 번이 개방 중++",
+      "TW": "++隧道門二號正在開啟++"
+    }
   }
 }

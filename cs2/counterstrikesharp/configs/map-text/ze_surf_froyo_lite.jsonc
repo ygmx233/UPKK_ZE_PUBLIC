@@ -1,0 +1,472 @@
+{
+  "▲MAP BY 酸奶▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "▲MAP BY 酸奶▲",
+      "JP": "▲マップ作成：酸奶▲",
+      "CN": "",
+      "KR": "▲지도: 酸奶▲",
+      "TW": "▲地圖製作：酸奶▲"
+    }
+  },
+  "▲PORT BY Charlie AND 酸奶▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "▲PORT BY Charlie AND 酸奶▲",
+      "JP": "▲ポート制作：Charlie & 酸奶▲",
+      "CN": "",
+      "KR": "▲포트: Charlie AND 酸奶▲",
+      "TW": "▲移植開發：Charlie 與 酸奶▲"
+    }
+  },
+  "▲WELCOME TO FROYO WORLD▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲FROYOの世界へようこそ▲",
+      "CN": "▲欢迎来到FROYO世界▲",
+      "KR": "▲FROYO 월드에 오신 것을 환영합니다▲",
+      "TW": "▲歡迎來到 FROYO 世界▲"
+    }
+  },
+  "▲LET'S ENJOY A FANTASTIC TRIP▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ファンタスティックな旅を楽しもう▲",
+      "CN": "▲让我们享受一段神奇的旅程▲",
+      "KR": "▲환상적인 여행을 즐겨주세요▲",
+      "TW": "▲享受這段奇妙的旅程▲"
+    }
+  },
+  "▲WARM UP ROUND▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ウォーミングアップラウンド▲",
+      "CN": "▲热身环节▲",
+      "KR": "▲준비 운동 람▲",
+      "TW": "▲熱身回合▲"
+    }
+  },
+  "▲GENERATING FROYO WORLD IN 3 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲FROYOの世界を3秒で生成中▲",
+      "CN": "▲3秒后生成FROYO世界▲",
+      "KR": "▲FROYO 월드 생성 중 (3초)▲",
+      "TW": "▲FROYO 世界生成中，剩餘 3 秒▲"
+    }
+  },
+  "▲GENERATING FROYO WORLD IN 2 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲FROYOの世界を2秒で生成中▲",
+      "CN": "▲2秒后生成FROYO世界▲",
+      "KR": "▲FROYO 월드 생성 중 (2초)▲",
+      "TW": "▲FROYO 世界生成中，剩餘 2 秒▲"
+    }
+  },
+  "▲GENERATING FROYO WORLD IN 1 SECOND▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲FROYOの世界を1秒で生成中▲",
+      "CN": "▲1秒后生成FROYO世界▲",
+      "KR": "▲FROYO 월드 생성 중 (1초)▲",
+      "TW": "▲FROYO 世界生成中，剩餘 1 秒▲"
+    }
+  },
+  "▲BOSS STAR▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ボス★▲",
+      "CN": "▲BOSS之星▲",
+      "KR": "▲보스별▲",
+      "TW": "▲BOSS星星▲"
+    }
+  },
+  "▲A TRAVELLER HAS PICKED SHOCK RING▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者がショックリングを拾いました▲",
+      "CN": "▲一名旅行者已拾取震荡戒指▲",
+      "KR": "▲여행자가 쇼크 반지를 획득했습니다▲",
+      "TW": "▲一名旅行者撿取了衝擊戒指▲"
+    }
+  },
+  "▲WELL! IF THE COUNT OF TRAVELLERS IS LESS THAN HALF,ALL ZOMBIES WILL BE TELEPORTED IN 60 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者の数が半分未満の場合、60秒後にすべてのゾンビがテレポートされます▲",
+      "CN": "▲好！如果旅行者数量不足一半，所有僵尸将在60秒后传送到位。▲",
+      "KR": "▲참고! 여정객 수 2분의 1 미만 시, 해골은 60초 후 모든 텔레포트가 시작됩니다▲",
+      "TW": "▲如果旅客人數少於一半，所有殭屍將在60秒後傳送###。"
+    }
+  },
+  "▲A TRAVELLER HAS PICKED HALO CRYSTAL▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者がハロクリスタルを拾いました▲",
+      "CN": "▲一名旅行者拾取了光环水晶。▲",
+      "KR": "여행자가 헤일로 크리스탈을 획득했습니다.",
+      "TW": "▲一名旅行者撿取了聖環水晶▲"
+    }
+  },
+  "▲A ZOMBIE HAS PICKED FEAR CRYSTAL▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ゾンビが恐怖の結晶を拾いました▲",
+      "CN": "▲一名僵尸拾取了恐惧水晶。▲",
+      "KR": "여정객은 공포 결정을 얻었습니다.",
+      "TW": "▲一名殭屍撿取了恐懼水晶▲"
+    }
+  },
+  "▲IF THE COUNT OF TRAVELLERS IS MORE THAN HALF,ALL ZOMBIES WILL BE TELEPORTED IN 20 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者の数が半数を超える場合、20秒後にすべてのゾンビがテレポートされます▲",
+      "CN": "▲如果旅行者数量超过一半，所有僵尸将在20秒后传送到位。▲",
+      "KR": "▲해골이 20초 내에 텔레포트를 시도합니다. 해골의 수 2분의 1 초과 시, 모든 해골은 텔레포트됩니다.▲",
+      "TW": "▲如果旅客人數多於一半，所有殭屍將在20秒後傳送###。"
+    }
+  },
+  "▲A TRAVELLER HAS PICKED SNOWSTORM CRYSTAL▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者がスノーストームクリスタルを拾いました▲",
+      "CN": "▲一名旅行者拾取了暴风水晶。▲",
+      "KR": "여행자가 폭풍 크리스탈을 획득했습니다.",
+      "TW": "▲一名旅行者撿取了風暴水晶▲"
+    }
+  },
+  "▲HOLD STAR FOR 60 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "★を60秒間押し続ける▲",
+      "CN": "▲守护星光60秒。▲",
+      "KR": "별 60초 보유▲",
+      "TW": "▲持有星星達60秒###。"
+    }
+  },
+  "▲A TRAVELLER HAS PICKED LIGHTWALL CRYSTAL▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者がライトウォールクリスタルを取得▲",
+      "CN": "▲一名旅行者拾取了光墙水晶。▲",
+      "KR": "▲트래블러가 라이트월 크리스탈을 획득했습니다▲",
+      "TW": "▲一名旅行者撿取了光牆水晶▲"
+    }
+  },
+  "▲A ZOMBIE HAS PICKED HEALTH CRYSTAL▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ゾンビがヘルスクリスタルを取得▲",
+      "CN": "▲一名僵尸拾取了生命水晶。▲",
+      "KR": "▲좀비가 헬스 크리스탈을 획득했습니다▲",
+      "TW": "▲殭屍撿取了生命水晶▲"
+    }
+  },
+  "▲30 SECONDS LEFT▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲残り30秒▲",
+      "CN": "▲剩余30秒▲",
+      "KR": "▲남은 시간 30초▲",
+      "TW": "▲剩餘 30 秒▲"
+    }
+  },
+  "▲A TRAVELLER HAS PICKED ROAR CRYSTAL▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者がロアクリスタルを取得▲",
+      "CN": "▲旅行者已选择咆哮水晶▲",
+      "KR": "▲트래블러가 로어 크리스탈을 획득했습니다▲",
+      "TW": "▲一名旅行者撿取了咆哮水晶▲"
+    }
+  },
+  "▲5 SECONDS LEFT▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲残り5秒▲",
+      "CN": "▲剩余5秒▲",
+      "KR": "▲남은 시간 5초▲",
+      "TW": "▲剩餘 5 秒▲"
+    }
+  },
+  "▲ZOMBIES WILL COME IN 20 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ゾンビが20秒後に出現▲",
+      "CN": "▲20秒后僵尸将出现▲",
+      "KR": "▲좀비가 20초 후에 진입합니다▲",
+      "TW": "▲殭屍將在 20 秒後出現▲"
+    }
+  },
+  "▲PRESS THE RED BUTTON AND ENTER THE CASTLE▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲赤いボタンを押して城へ入る▲",
+      "CN": "▲按下红色按钮并进入城堡▲",
+      "KR": "▲빨간 버튼을 누르고 성 안으로 들어갑니다▲",
+      "TW": "▲按下紅色按鈕並進入城堡▲"
+    }
+  },
+  "▲WOOD DOOR WILL OPEN IN 10 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲木製の扉が10秒後に開く▲",
+      "CN": "▲10秒后木门将开启▲",
+      "KR": "▲나무 문이 10초 후에 열립니다▲",
+      "TW": "▲木門將在 10 秒後開啟▲"
+    }
+  },
+  "▲FIND AND TOUCH THE FROYO▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲フローズンを探して触れよう▲",
+      "CN": "▲寻找并触碰冻酸奶▲",
+      "KR": "▲프로요를 찾고 만져라▲",
+      "TW": "▲尋找並觸摸冰淇淋▲"
+    }
+  },
+  "▲HOLD FOR 75 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲75秒間押し続けて下さい▲",
+      "CN": "▲持续按住75秒▲",
+      "KR": "▲75초 동안 유지하라▲",
+      "TW": "▲按住75秒▲"
+    }
+  },
+  "▲ALL ZOMBIES WILL BE TELEPORTED IN 10 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲10秒後に全ゾンビがテレポートします▲",
+      "CN": "▲所有僵尸将在10秒后传送到位▲",
+      "KR": "▲10초 후 모든 좀비가 워프됩니다▲",
+      "TW": "▲10秒後所有殭屍將被传送▲"
+    }
+  },
+  "▲ZOMBIES WILL COME IN 15 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲15秒後にゾンビが登場します▲",
+      "CN": "▲僵尸将在15秒后出现▲",
+      "KR": "▲15초 후 좀비가 등장합니다▲",
+      "TW": "▲15秒後殭屍將會出現▲"
+    }
+  },
+  "▲THE TELEPORTION CRYSTAL WILL BE ACTIVE IN 45 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲テレポートクリスタルが45秒後に作動します▲",
+      "CN": "▲传送水晶将在45秒后激活▲",
+      "KR": "▲45초 후 워프 크리스탈이 활성화됩니다▲",
+      "TW": "▲傳送水晶將在45秒後激活▲"
+    }
+  },
+  "▲THE TELEPORTION CRYSTAL IS ACTIVE▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲テレポートクリスタルは準備完了です▲",
+      "CN": "▲传送水晶已激活▲",
+      "KR": "▲워프 크리스탈이 활성화되었습니다▲",
+      "TW": "▲傳送水晶已激活▲"
+    }
+  },
+  "▲BOSS STAR WILL APPEAR IN 10 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲10秒後にボススターが出現します▲",
+      "CN": "▲Boss星星将在10秒后出现▲",
+      "KR": "▲10초 후 보스 스타가 나타납니다▲",
+      "TW": "▲10秒後將出現Boss★###★###★###★###★"
+    }
+  },
+  "▲YOU HAVE 120S TO FIGHT BOSS STAR▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ボススターとの戦闘には120秒の時間があります▲",
+      "CN": "▲你有120秒时间击败Boss星星▲",
+      "KR": "▲보스 스타와 120초 동안 전투하십시오▲",
+      "TW": "▲您有120秒的時間挑戰Boss★###★###★###★###★"
+    }
+  },
+  "▲HEGRENADE CAN GIVE BOSS STAR MORE DAMAGE▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ヘグレンデはボススターにより多くのダメージを与えることができます▲",
+      "CN": "▲HEG手榴弹可对Boss星星造成更多伤害▲",
+      "KR": "▲헤그네이드는 보스 스타에게 더 큰 피해를 줍니다▲",
+      "TW": "▲手榴彈可對星星BOSS造成額外傷害▲"
+    }
+  },
+  "▲YOU HAVE 90 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ボススターと戦う時間として90秒が与えられています▲",
+      "CN": "▲你有90秒时间击败Boss星星▲",
+      "KR": "▲보스 스타와 싸우는 데 90초가 주어집니다▲",
+      "TW": "▲您有90秒時間挑戰星星BOSS▲"
+    }
+  },
+  "▲YOU HAVE 60 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ボススターと戦う時間として60秒が与えられています▲",
+      "CN": "▲你有60秒时间挑战Boss星▲",
+      "KR": "▲보스 스타와 싸우는 데 60초가 주어집니다▲",
+      "TW": "▲您有60秒時間挑戰星星BOSS▲"
+    }
+  },
+  "▲YOU HAVE 30 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ボススターと戦う時間として30秒が与えられています▲",
+      "CN": "▲你有30秒时间挑战Boss星▲",
+      "KR": "▲보스 스타와 싸우는 데 30초가 주어집니다▲",
+      "TW": "▲您有30秒時間挑戰星星BOSS▲"
+    }
+  },
+  "▲WELL! BOSS STAR WAS DEFEATED! THE STAR PLATFORM WILL RISE IN 10 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲よくできました！ボススターは倒されました！10秒後にスタープラットフォームが上昇します▲",
+      "CN": "▲太棒了！Boss星已被击败！星台将在10秒后升起▲",
+      "KR": "▲좋습니다! 보스 스타가 격파되었습니다! 10초 후 별 플랫폼이 상승합니다▲",
+      "TW": "▲太棒了！星星BOSS已被擊敗！星型平台將在10秒後升起▲"
+    }
+  },
+  "▲A TRAVELLER HAS PICKED BOSS STAR'S ULTIMATE: WAVE▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者がボススターの究極スキルを取得しました：波▲",
+      "CN": "▲一位旅行者获得了Boss星的终极能力：浪潮▲",
+      "KR": "▲여행자가 보스 스타의 궁극기: 파동을 획득했습니다▲",
+      "TW": "▲一位旅者獲取了星星BOSS的最終奧義：波動▲"
+    }
+  },
+  "▲ZOMBIES WILL COME IN 12 SECONDS▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ゾンビが12秒後に出現します▲",
+      "CN": "▲僵尸将在12秒后出现▲",
+      "KR": "▲12초 후 좀비가 도착합니다▲",
+      "TW": "▲殭屍將在12秒後湧入▲"
+    }
+  },
+  "▲30 SECONDS LEFT TO WIN▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲勝利までに30秒残っています▲",
+      "CN": "▲胜利倒计时30秒▲",
+      "KR": "▲승리를 위해 30초 남았습니다▲",
+      "TW": "▲剩餘30秒即可獲勝▲"
+    }
+  },
+  "▲4 SECONDS LEFT▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲あと4秒▲",
+      "CN": "▲剩余4秒▲",
+      "KR": "▲나머지 4초▲",
+      "TW": "▲剩餘4秒▲"
+    }
+  },
+  "▲3 SECONDS LEFT▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲あと3秒▲",
+      "CN": "▲剩余3秒▲",
+      "KR": "▲나머지 3초▲",
+      "TW": "▲剩餘3秒▲"
+    }
+  },
+  "▲2 SECONDS LEFT▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲あと2秒▲",
+      "CN": "▲还剩2秒▲",
+      "KR": "▲나머지 2초▲",
+      "TW": "▲剩餘2秒▲"
+    }
+  },
+  "▲1 SECOND LEFT▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲あと1秒▲",
+      "CN": "▲还剩1秒▲",
+      "KR": "▲나머지 1초▲",
+      "TW": "▲剩餘1秒▲"
+    }
+  },
+  "▲ZOMBIES! FEEL FROYO'S FORCE! BALABALA...▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲ゾンビ！フロヨのパワーを味わえ！バラーラ…▲",
+      "CN": "▲僵尸们！感受弗罗伊的力量吧！巴拉巴拉……▲",
+      "KR": "▲저승사자! 플로요의 힘을 느껴라! 바랄발라...▲",
+      "TW": "▲殭屍！感受弗羅果的力量！巴拉巴拉...▲"
+    }
+  },
+  "▲TRAVELLERS SUCCEED▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者の成功▲",
+      "CN": "▲旅行者成功▲",
+      "KR": "▲여행자가 성공함▲",
+      "TW": "▲旅行者成功▲"
+    }
+  },
+  "▲A TRAVELLER HAS PICKED UNKNOWN CRYSTAL▲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "▲旅行者が未知のクリスタルを拾った▲",
+      "CN": "▲一名旅行者拾取了未知水晶▲",
+      "KR": "▲여행자가 미지의 수정을 획득함▲",
+      "TW": "▲一名旅行者撿拾了未知的水晶▲"
+    }
+  }
+}

@@ -1,53 +1,192 @@
 {
   "** Practice Mode **": {
-    "translation": "**练习模式**"
+    "translation": "**练习模式**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 練習モード **",
+      "CN": "练习模式",
+      "KR": "** 연습 모드 **",
+      "TW": "** 練習模式 **"
+    }
   },
   "** ze_Tensor_of_Ice - ver.1.1.1 **": {
-    "translation": "** ze_Tensor_of_Ice-版本1.1.1 翻译：Asteri3m **"
+    "translation": "** ze_Tensor_of_Ice-版本1.1.1 翻译：Asteri3m **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ze_Tensor_of_Ice - ver.1.1.1 **",
+      "CN": "** ze_Tensor_of_Ice - ver.1.1.1 **",
+      "KR": "** ze_Tensor_of_Ice - ver.1.1.1 **",
+      "TW": "** ze_Tensor_of_Ice - ver.1.1.1 **"
+    }
   },
   "< 15 >": {
-    "translation": "<15秒>"
+    "translation": "<15秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<15秒>",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< 25 >": {
-    "translation": "<25秒>"
+    "translation": "<25秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<25秒>",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< 30 >": {
-    "translation": "<30秒>"
+    "translation": "<30秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<30秒>",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< 35 >": {
-    "translation": "<35秒>"
+    "translation": "<35秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<35秒>",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< 40 >": {
-    "translation": "<40秒>"
+    "translation": "<40秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<40秒>",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< 5 >": {
-    "translation": "<5秒>"
+    "translation": "<5秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<5秒>",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">> Admin set to Normal Mode <<": {
-    "translation": ">>管理员设置为普通模式<<"
+    "translation": ">>管理员设置为普通模式<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理者が通常モードに設定 <<",
+      "CN": ">> 管理员已设置为普通模式 <<",
+      "KR": ">> 관리자가 일반 모드로 설정함 <<",
+      "TW": ">> 管理員設定為一般模式 <<"
+    }
   },
   ">> Admin set to Practice Mode <<": {
-    "translation": ">>管理员设置为练习模式<<"
+    "translation": ">>管理员设置为练习模式<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理者が練習モードに設定 <<",
+      "CN": ">> 管理员已设置为练习模式 <<",
+      "KR": ">> 관리자가 연습 모드로 설정함 <<",
+      "TW": ">> 管理員設定為練習模式 <<"
+    }
   },
   ">> Restart round... <<": {
-    "translation": ">>重启回合...<<"
+    "translation": ">>重启回合...<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ラウンドを再開... <<",
+      "CN": ">> 重新开始回合... <<",
+      "KR": ">> 라운드 재시작 중... <<",
+      "TW": ">> 重新開始回合... <<"
+    }
   },
   "|| 10 ||": {
-    "translation": "||10秒||"
+    "translation": "||10秒||",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "||10秒||",
+      "KR": "",
+      "TW": ""
+    }
   },
   "|| 30 ||": {
-    "translation": "||30秒||"
+    "translation": "||30秒||",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "||30秒||",
+      "KR": "",
+      "TW": ""
+    }
   },
   "|| 60 ||": {
-    "translation": "||60秒||"
+    "translation": "||60秒||",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "||60秒||",
+      "KR": "",
+      "TW": ""
+    }
   },
   "|| Failed ||": {
-    "translation": "||失败||"
+    "translation": "||失败||",
+    "MultiLang": {
+      "US": "",
+      "JP": "|| 失敗 ||",
+      "CN": "|| 失败 ||",
+      "KR": "|| 실패 ||",
+      "TW": "|| 失敗 ||"
+    }
   },
   "~ 10 ~": {
-    "translation": "~10秒~"
+    "translation": "~10秒~",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "~10秒~",
+      "KR": "",
+      "TW": ""
+    }
   },
   "~ 15 ~": {
-    "translation": "~15秒~"
+    "translation": "~15秒~",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "~15秒~",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "** ze_Tensor_of_Ice - ver.1.1.2 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ze_Tensor_of_Ice - ver.1.1.2 **",
+      "CN": "** ze_Tensor_of_Ice - ver.1.1.2 **",
+      "KR": "** ze_Tensor_of_Ice - ver.1.1.2 **",
+      "TW": "** ze_Tensor_of_Ice - ver.1.1.2 **"
+    }
+  },
+  "** ze_Tensor_of_Ice - ver.1.1.3b **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ze_Tensor_of_Ice - ver.1.1.3b **",
+      "CN": "** ze_Tensor_of_Ice - ver.1.1.3b **",
+      "KR": "** ze_Tensor_of_Ice - ver.1.1.3b **",
+      "TW": "** ze_Tensor_of_Ice - ver.1.1.3b **"
+    }
   }
 }

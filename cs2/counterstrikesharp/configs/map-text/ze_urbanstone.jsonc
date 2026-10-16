@@ -1,176 +1,622 @@
 {
   "!!! BOX SPAWNER !!!": {
-    "translation": "!!!箱子生成器!!!"
+    "translation": "!!!箱子生成器!!!",
+    "MultiLang": {
+      "US": "!!! BOX SPawner !!!",
+      "JP": "!!! ボックススポナー !!!",
+      "CN": "!!! 箱子生成器 !!!",
+      "KR": "!!! 박스 스�너 !!!",
+      "TW": "!!! 方塊生成器 !!!"
+    }
   },
   "< 6 PLAYERS - MAX SPEED >": {
-    "translation": "<6名玩家-最大速度>"
+    "translation": "<6名玩家-最大速度>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< 6 プレイヤー - 最大速度 >",
+      "CN": "<6名玩家-最大速度>",
+      "KR": "< 6 명까지 - 최대 속도 >",
+      "TW": "< 6 門-player - MAX SPEED >"
+    }
   },
   "< BREAK TRAM >": {
-    "translation": "<破坏电车>"
+    "translation": "<破坏电车>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<破坏电车>",
+      "KR": "",
+      "TW": "<破 tram >"
+    }
   },
   "< CATCH BOX  >": {
-    "translation": "<捕捉箱子>"
+    "translation": "<捕捉箱子>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< カッチボックス >",
+      "CN": "<捕捉箱子>",
+      "KR": "< 잡아라 박스 >",
+      "TW": "< 捕捉箱子 >"
+    }
   },
   "< FAN ACTIVATING >": {
-    "translation": "<风扇正在启动>"
+    "translation": "<风扇正在启动>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ファン活性化中>",
+      "CN": "<风扇正在启动>",
+      "KR": "< 팬 활성화 >",
+      "TW": "<ファン活性化中>"
+    }
   },
   "< HUMANS - PROTECT THE CART >": {
-    "translation": "<人类-保护手推车>"
+    "translation": "<人类-保护手推车>",
+    "MultiLang": {
+      "US": "",
+      "JP": "HUMANS - 車を守れ >",
+      "CN": "<人类-保护手推车>",
+      "KR": "HUMANS - 카트를 보호하세요 >",
+      "TW": "人類 - 保護小車"
+    }
   },
   "< PUSH CART >": {
-    "translation": "<推动手推车>"
+    "translation": "<推动手推车>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<カートを押す>",
+      "CN": "<推动手推车>",
+      "KR": "< 카트 밀기 >",
+      "TW": "推車"
+    }
   },
   "< THROW NADE IN HOLE >": {
-    "translation": "<往洞里扔手雷>"
+    "translation": "<往洞里扔手雷>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<穴にナーデ投げる>",
+      "CN": "<往洞里扔手雷>",
+      "KR": "<홀에 넛드 던지기 >",
+      "TW": "拋手榴彈入洞穴>"
+    }
   },
   "< TO SPAWN CRATE >": {
-    "translation": "<以生成箱子>"
+    "translation": "<以生成箱子>",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 出現キット <<<",
+      "CN": "<以生成箱子>",
+      "KR": "< 생성 상자 >",
+      "TW": "< 憲兵出匣 >"
+    }
   },
   "< USE BLOCKS FOR COVER  >": {
-    "translation": "<使用方块作为掩护>"
+    "translation": "<使用方块作为掩护>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ブロックでカバーユース>",
+      "CN": "<使用方块作为掩护>",
+      "KR": "< 블록을 사용하여 숨어라 >",
+      "TW": "使用障礙物掩護"
+    }
   },
   "< ZOMBIES - DESTROY THE CART >": {
-    "translation": "<僵尸-摧毁手推车>"
+    "translation": "<僵尸-摧毁手推车>",
+    "MultiLang": {
+      "US": "",
+      "JP": "Zombies - カートを破壊する >",
+      "CN": "<僵尸-摧毁手推车>",
+      "KR": "[ZOMBIES - 카트 파괴]",
+      "TW": "<殭屍 - 破壞貨車>"
+    }
   },
   "<< BOX SPAWNED >>": {
-    "translation": "<<箱子已生成>>"
+    "translation": "<<箱子已生成>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ボックス生成 >>",
+      "CN": "<< 已生成箱子 >>",
+      "KR": "<< 박스 스폰됨 >>",
+      "TW": "<< 方塊已生成 >>"
+    }
   },
   "<< CART DESTROYED >>": {
-    "translation": "<<手推车已被摧毁>>"
+    "translation": "<<手推车已被摧毁>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< カート破壊 >>",
+      "CN": "<< 矿车已摧毁 >>",
+      "KR": "<< 카트 파괴됨 >>",
+      "TW": "<< 手推車已摧毀 >>"
+    }
   },
   "<< CHECKPOINT 1 >>": {
-    "translation": "<<检查点1>>"
+    "translation": "<<检查点1>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< チェックポイント 1 >>",
+      "CN": "<< 检查点 1 >>",
+      "KR": "<< 체크포인트 1 >>",
+      "TW": "<< 檢查點 1 >>"
+    }
   },
   "<< CHECKPOINT 2 >>": {
-    "translation": "<<检查点2>>"
+    "translation": "<<检查点2>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< チェックポイント 2 >>",
+      "CN": "<< 检查点 2 >>",
+      "KR": "<< 체크포인트 2 >>",
+      "TW": "<< 檢查點 2 >>"
+    }
   },
   "<< CHECKPOINT 3 >>": {
-    "translation": "<<检查点3>>"
+    "translation": "<<检查点3>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< チェックポイント 3 >>",
+      "CN": "<< 检查点 3 >>",
+      "KR": "<< 체크포인트 3 >>",
+      "TW": "<< 檢查點 3 >>"
+    }
   },
   "<< CHECKPOINT 4 >>": {
-    "translation": "<<检查点4>>"
+    "translation": "<<检查点4>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< チェックポイント 4 >>",
+      "CN": "<< 检查点 4 >>",
+      "KR": "<< 체크포인트 4 >>",
+      "TW": "<< 檢查點 4 >>"
+    }
   },
   "<< CHECKPOINTS >>": {
-    "translation": "<<检查点>>"
+    "translation": "<<检查点>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< チェックポイント >",
+      "CN": "<< 检查点 >>",
+      "KR": "<< 체크포인트들 >>",
+      "TW": "<< 檢查點 >>"
+    }
   },
   "<< DEFEND HERE >>": {
-    "translation": "<<在这里防守>>"
+    "translation": "<<在这里防守>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ここを防御せよ >>",
+      "CN": "<< 在此防守 >>",
+      "KR": "<< 여기서 방어 >>",
+      "TW": "<< 在此防守 >>"
+    }
   },
   "<< DOOR CLOSING 5 SECONDS >>": {
-    "translation": "<<门将在5秒后关闭>>"
+    "translation": "<<门将在5秒后关闭>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 5秒後、ドアが閉まります >>",
+      "CN": "<< 门将在5秒后关闭 >>",
+      "KR": "<< 문 닫힘 5초 후 >>",
+      "TW": "<< 門將於5秒後關閉 >>"
+    }
   },
   "<< DOOR CLOSING >>": {
-    "translation": "<<门正在关闭>>"
+    "translation": "<<门正在关闭>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ドアが閉まっています >>",
+      "CN": "<< 门即将关闭 >>",
+      "KR": "<< 문 닫힘 >>",
+      "TW": "<< 門即將關閉 >>"
+    }
   },
   "<< DOOR OPEN 10 SECONDS >>": {
-    "translation": "<<门将在10秒后开启>>"
+    "translation": "<<门将在10秒后开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒間、ドアが開いています >>",
+      "CN": "<< 门将开启10秒 >>",
+      "KR": "<< 문 열림 10초 후 >>",
+      "TW": "<< 門將開啟10秒 >>"
+    }
   },
   "<< DOOR OPEN 15 SECONDS >>": {
-    "translation": "<<门将在15秒后开启>>"
+    "translation": "<<门将在15秒后开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 15秒間、ドアが開いています >>",
+      "CN": "<< 门将开启15秒 >>",
+      "KR": "<< 문 열림 15초 후 >>",
+      "TW": "<< 門將開啟15秒 >>"
+    }
   },
   "<< DOOR OPEN 20 SECONDS >>": {
-    "translation": "<<门将在20秒后开启>>"
+    "translation": "<<门将在20秒后开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒間、ドアが開いています >>",
+      "CN": "<< 门将开启20秒 >>",
+      "KR": "<< 문 열림 20초 후 >>",
+      "TW": "<< 門將開啟20秒 >>"
+    }
   },
   "<< DOOR OPEN 25 SECONDS >>": {
-    "translation": "<<门将在25秒后开启>>"
+    "translation": "<<门将在25秒后开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 25秒間、ドアが開いています >>",
+      "CN": "<< 门将开启25秒 >>",
+      "KR": "<< 문 열림 25초 후 >>",
+      "TW": "<< 門將開啟25秒 >>"
+    }
   },
   "<< DOOR OPEN >>": {
-    "translation": "<<门已开启>>"
+    "translation": "<<门已开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ドアが開いています >>",
+      "CN": "<< 门即将开启 >>",
+      "KR": "<< 문 열림 >>",
+      "TW": "<< 門開啟 >>"
+    }
   },
   "<< DOOR OPENING 10 SECONDS >>": {
-    "translation": "<<门将在10秒后开启>>"
+    "translation": "<<门将在10秒后开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒後、ドアが開きます >>",
+      "CN": "<<门开启倒计时：10秒>>",
+      "KR": "<< 문 열림 10초 후 >>",
+      "TW": "<< 大門開放 10 秒 >>"
+    }
   },
   "<< DOOR OPENING 15 SECONDS >>": {
-    "translation": "<<门将在15秒后开启>>"
+    "translation": "<<门将在15秒后开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 15秒後、ドアが開きます >>",
+      "CN": "<<门开启倒计时：15秒>>",
+      "KR": "<< 문 열림 15초 후 >>",
+      "TW": "<< 大門開放 15 秒 >>"
+    }
   },
   "<< DOOR OPENING 20 SECONDS >>": {
-    "translation": "<<门将在20秒后开启>>"
+    "translation": "<<门将在20秒后开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒後、ドアが開きます >>",
+      "CN": "<<门开启倒计时：20秒>>",
+      "KR": "<< 문 열림 20초 후 >>",
+      "TW": "<< 大門開放 20 秒 >>"
+    }
   },
   "<< DOOR OPENING 8 SECONDS >>": {
-    "translation": "<<门将在8秒后开启>>"
+    "translation": "<<门将在8秒后开启>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 8秒後、ドアが開きます >>",
+      "CN": "<<门开启倒计时：8秒>>",
+      "KR": "<< 문 열림 8초 후 >>",
+      "TW": "<< 大門開放 8 秒 >>"
+    }
   },
   "<< FALL BACK >>": {
-    "translation": "<<撤退>>"
+    "translation": "<<撤退>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 後退せよ >>",
+      "CN": "<<撤退>>",
+      "KR": "<< 후퇴 >>",
+      "TW": "<< 後退 >>"
+    }
   },
   "<< FINAL DOOR CLOSING 30 SECONDS >>": {
-    "translation": "<<最后一扇门将在30秒后关闭>>"
+    "translation": "<<最后一扇门将在30秒后关闭>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒後、最後のドアが閉まります >>",
+      "CN": "<<最终门锁关闭倒计时：30秒>>",
+      "KR": "<< 최종 문 닫힘 30초 전 >>",
+      "TW": "<< 最終大門關閉 30 秒 >>"
+    }
   },
   "<< KEEP ZOMBIES OFF TRAM >>": {
-    "translation": "<<防守僵尸远离电车>>"
+    "translation": "<<防守僵尸远离电车>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 路面電車にゾンジを近づけないでください >>",
+      "CN": "<<守住电车，别让僵尸靠近>>",
+      "KR": "<< 트램에 좀비 접근 금지 >>",
+      "TW": "<< 阻止殭屍上電車 >>"
+    }
   },
   "<< LEFT BRIDGE ACTIVE >>": {
-    "translation": "<<左桥已激活>>"
+    "translation": "<<左桥已激活>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 左の橋が稼働中 >>",
+      "CN": "<<左侧通道已启用>>",
+      "KR": "<< 좌측 교량 활성 >>",
+      "TW": "<< 左側橋樑啟動 >>"
+    }
   },
   "<< LEVEL 1 - CHECKPOINTS WON >>": {
-    "translation": "<<第一关-检查点已获得>>"
+    "translation": "<<第一关-检查点已获得>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< レベル 1 - チェックポイント獲得 >>",
+      "CN": "<< 第1关 - 已通关检查点 >>",
+      "KR": "<< 레벨 1 -检查점 획득>",
+      "TW": "<< 第 1 關 - 已完賽檢查點 >>"
+    }
   },
   "<< LEVEL 1 - NO CHECKPOINTS WON >>": {
-    "translation": "<<第一关-未获得检查点>>"
+    "translation": "<<第一关-未获得检查点>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< レベル 1 - チェックポイント未獲得 >>",
+      "CN": "<< 第1关 - 未通关检查点 >>",
+      "KR": "<< 레벨 1 - 체크포인트 미획득>>",
+      "TW": "<< 第 1 關 - 未完賽檢查點 >>"
+    }
   },
   "<< LEVEL 1 >>": {
-    "translation": "<<第一关 翻译：Asteri3m>>"
+    "translation": "<<第一关 翻译：Asteri3m>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< レベル 1 >>",
+      "CN": "<< 第1关 >>",
+      "KR": "<< 레벨 1 >>",
+      "TW": "<< 第 1 關 >>"
+    }
   },
   "<< LEVEL 2 >>": {
-    "translation": "<<第二关>>"
+    "translation": "<<第二关>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< レベル 2 >>",
+      "CN": "<< 第2关 >>",
+      "KR": "<< 레벨 2 >>",
+      "TW": "<< 第 2 關 >>"
+    }
   },
   "<< LIFT LEAVING 15 SECONDS >>": {
-    "translation": "<<电梯将在15秒后离开>>"
+    "translation": "<<电梯将在15秒后离开>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< エレベーター発車 15秒前 >>",
+      "CN": "<< 电梯将在15秒后离开 >>",
+      "KR": "<< 리프트 출발 15초 전 >>",
+      "TW": "<< 電梯將離開：剩餘 15 秒 >>"
+    }
   },
   "<< LIFT LEAVING >>": {
-    "translation": "<<电梯正在离开>>"
+    "translation": "<<电梯正在离开>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< エレベーター発車 >>",
+      "CN": "<< 电梯即将离开 >>",
+      "KR": "<< 리프트 출발 >>",
+      "TW": "<< 電梯即將離開 >>"
+    }
   },
   "<< MAP COMPLETE - CHECKPOINTS >>": {
-    "translation": "<<地图完成-检查点>>"
+    "translation": "<<地图完成-检查点>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< マップ完了 - チェックポイント >>",
+      "CN": "<< 地图完成 - 已通关检查点 >>",
+      "KR": "<< 맵 완료 - 체크포인트>",
+      "TW": "<< 地圖完成 - 已完賽檢查點 >>"
+    }
   },
   "<< MAP COMPLETE - NO CHECKPOINTS >>": {
-    "translation": "<<地图完成-未获得检查点>>"
+    "translation": "<<地图完成-未获得检查点>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< マップ完了 - チェックポイント未獲得 >>",
+      "CN": "<< 地图完成 - 未通关检查点 >>",
+      "KR": "<< 맵 완료 - 체크포인트 미획득>>",
+      "TW": "<< 地圖完成 - 未完賽檢查點 >>"
+    }
   },
   "<< NO CHECKPOINTS >>": {
-    "translation": "<<未获得检查点>>"
+    "translation": "<<未获得检查点>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< チェックポイントなし >>",
+      "CN": "<< 无检查点 >>",
+      "KR": "<< 체크포인트 없음 >>",
+      "TW": "<<無存檔點>>"
+    }
   },
   "<< PRESS AND HOLD >>": {
-    "translation": "<<按住>>"
+    "translation": "<<按住>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 押し続けてください >>",
+      "CN": "<< 按住 >>",
+      "KR": "<< 누르고 계속하기 >>",
+      "TW": "<<按住>>"
+    }
   },
   "<< RIGHT BRIDGE ACTIVE >>": {
-    "translation": "<<右桥已激活>>"
+    "translation": "<<右桥已激活>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 右側の橋 アクティブ >>",
+      "CN": "<< 右侧桥激活 >>",
+      "KR": "<< 오른쪽 브릿지 활성화 >>",
+      "TW": "<<右側橋樑啟動>>"
+    }
   },
   "<<< BUILD TOWER TO PLATFORM >>>": {
-    "translation": "<<<建造塔到平台>>>"
+    "translation": "<<<建造塔到平台>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< プラットフォームへタワーを建造 >>>",
+      "CN": "<<< 建造塔至平台 >>>",
+      "KR": "<<< 플랫폼에 탑 건설 >>>",
+      "TW": "<<<建造通往平台的高塔>>>"
+    }
   },
   "<<< CAUTION : FAN AUTOMATIC START >>>": {
-    "translation": "<<<注意：风扇自动启动>>>"
+    "translation": "<<<注意：风扇自动启动>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 注意 : ファンの自動起動 >>>",
+      "CN": "<<< 注意：风扇自动启动 >>>",
+      "KR": "<<< 주의 : 팬 자동 시작 >>>",
+      "TW": "<<<警告：風扇自動啟動中>>>"
+    }
   },
   "<<< CHECKPOINT 1 >>>": {
-    "translation": "<<<检查点1>>>"
+    "translation": "<<<检查点1>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< チェックポイント1 >>>",
+      "CN": "<<< 检查点 1 >>>",
+      "KR": "<<< 체크포인트 1 >>>",
+      "TW": "<<<存檔點 1>>>"
+    }
   },
   "<<< CHECKPOINT 2 >>>": {
-    "translation": "<<<检查点2>>>"
+    "translation": "<<<检查点2>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< チェックポイント2 >>>",
+      "CN": "<<< 检查点 2 >>>",
+      "KR": "<<< 체크포인트 2 >>>",
+      "TW": "<<<存檔點 2>>>"
+    }
   },
   "<<< CHECKPOINT 3 >>>": {
-    "translation": "<<<检查点3>>>"
+    "translation": "<<<检查点3>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< チェックポイント3 >>>",
+      "CN": "<<< 检查点 3 >>>",
+      "KR": "<<< 체크포인트 3 >>>",
+      "TW": "<<<存檔點 3>>>"
+    }
   },
   "<<< CHECKPOINT 4 >>>": {
-    "translation": "<<<检查点4>>>"
+    "translation": "<<<检查点4>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< チェックポイント 4 >>>",
+      "CN": "<<< 检查点 4 >>>",
+      "KR": "<<< 체크포인트 4 >>>",
+      "TW": "<<< 檢查點 4 >>>"
+    }
   },
   "<<< CHECKPOINT 5 >>>": {
-    "translation": "<<<检查点5>>>"
+    "translation": "<<<检查点5>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< チェックポイント 5 >>>",
+      "CN": "<<< 检查点 5 >>>",
+      "KR": "<<< 체크포인트 5 >>>",
+      "TW": "<<< 檢查點 5 >>>"
+    }
   },
   "<<< DEFEND HERE >>>": {
-    "translation": "<<<在这里防守>>>"
+    "translation": "<<<在这里防守>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ここで防御せよ >>>",
+      "CN": "<<< 在此防守 >>>",
+      "KR": "<<< 이곳에서 방어 >>>",
+      "TW": "<<< 在此防禦 >>>"
+    }
   },
   "<<< DOOR OPEN >>>": {
-    "translation": "<<<门已开启>>>"
+    "translation": "<<<门已开启>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 扉が開く >>>",
+      "CN": "<<< 门已开启 >>>",
+      "KR": "<<< 문 열림 >>>",
+      "TW": "<<< 門已開啟 >>>"
+    }
   },
   "<<< FALL BACK >>>": {
-    "translation": "<<<撤退>>>"
+    "translation": "<<<撤退>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 後退せよ >>>",
+      "CN": "<<< 撤退 >>>",
+      "KR": "후퇴 >>>",
+      "TW": "<<< 後退 >>>"
+    }
   },
   "<<< LAST DOOR  OPEN >>>": {
-    "translation": "<<<最后一扇门已开启>>>"
+    "translation": "<<<最后一扇门已开启>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<<最後の扉が開く>>>",
+      "CN": "<<< 最后一扇门已开启 >>>",
+      "KR": "<<< 마지막 문 열림 >>>",
+      "TW": "<<< 最後一道門已開啟 >>>"
+    }
   },
   "<<< ZOMBIE DETECTED >>>": {
-    "translation": "<<<检测到僵尸>>>"
+    "translation": "<<<检测到僵尸>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビ発見 >>>",
+      "CN": "<<< 检测到僵尸 >>>",
+      "KR": "<< 좀비 감지 >>",
+      "TW": "<<< 發現殭屍 >>>"
+    }
   },
   "<< STEPS OPEN >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 扉が開く >>",
+      "CN": "<< 脚步声显示门已开启 >>",
+      "KR": "<< 단계 열림 >>",
+      "TW": "<< 門已開啟 >>"
+    }
+  },
+  "<< DOOR OPEN 30 SECONDS >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒後にドアが開きます >>",
+      "CN": "<<",
+      "KR": "<< 문 30초 후 개방 >>",
+      "TW": "<< 門將在 30 秒後開啟 >>"
+    }
+  },
+  "<< DOOR OPENING >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ドアが開く >>",
+      "CN": "<< 门正在打开 >>",
+      "KR": "<< 문이 열림 >>",
+      "TW": "<< 門開啟 >>"
+    }
+  },
+  "< DEFEND HERE - ONE PERSON TURN OFF FAN  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<< FANS STOPPED >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ファンが止まる >>",
+      "CN": "<< 风扇已停止 >>",
+      "KR": "<< 팬 정지 >>",
+      "TW": "<< 風扇已停止 >>"
+    }
   }
 }

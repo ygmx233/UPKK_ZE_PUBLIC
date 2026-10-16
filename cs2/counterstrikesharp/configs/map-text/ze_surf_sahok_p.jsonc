@@ -1,0 +1,102 @@
+{
+  "**The door will open in 45 seconds. Cover!!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが45秒後に開きます。掩護せよ！",
+      "CN": "大门将在45秒后打开。找掩护！！",
+      "KR": "**45초 후 문이 열립니다. 숨으세요!**",
+      "TW": "大門將在45秒後開啟，尋求掩護！"
+    }
+  },
+  "**Door is open 10 sec**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒でドアが開く",
+      "CN": "门已开启，持续10秒",
+      "KR": "**문 10초 개방**",
+      "TW": "門已打開10秒"
+    }
+  },
+  "**Elevator is leaving in 35s**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが35秒後に発車します",
+      "CN": "电梯将在35秒后离开",
+      "KR": "**엘리베이터 35초 후 이동**",
+      "TW": "電梯將在35秒後離開"
+    }
+  },
+  "**Elevator is leaving in 5s**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが5秒後に発車します",
+      "CN": "电梯将在5秒后离开",
+      "KR": "**엘리베이터 5초 후 이동**",
+      "TW": "電梯將在5秒後離開"
+    }
+  },
+  "**Boat will arrive in 30 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボートが30秒後に到着します",
+      "CN": "船只将在30秒后到达",
+      "KR": "**배 30초 후 도착**",
+      "TW": "船隻將於30秒後抵達"
+    }
+  },
+  "** Boss Fight in 10s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス戦闘開始まで10秒",
+      "CN": "Boss战将在10秒后开始",
+      "KR": "**Boss전 10초 후 시작**",
+      "TW": "Boss戰將在10秒後開始"
+    }
+  },
+  "** Boss Fight in 5s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス戦闘開始まで5秒",
+      "CN": "Boss战将在5秒后开始",
+      "KR": "**Boss전 5초 후 시작**",
+      "TW": "Boss戰將在5秒後開始"
+    }
+  },
+  "** Nades do more damage **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレネードのダメージ増加",
+      "CN": "手榴弹伤害更高",
+      "KR": "**낙하물이 더 많은 피해를 줍니다**",
+      "TW": "手榴彈傷害提升"
+    }
+  },
+  "** Boss is dead - Escape ! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボスは倒れた！ 脱出せよ **",
+      "CN": "Boss已死——逃跑！",
+      "KR": "보스 처치 - 탈출!",
+      "TW": "Boss已殞命 快逃！"
+    }
+  },
+  "**The door will open in 30 seconds. Cover!!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒後に扉が開く。庇って！！**",
+      "CN": "门将在30秒后打开，掩护！",
+      "KR": "문이 30초 뒤에 열립니다. 엎드리세요!!",
+      "TW": "門將在30秒後開啟 防守！"
+    }
+  }
+}

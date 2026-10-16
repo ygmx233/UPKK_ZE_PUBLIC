@@ -1,149 +1,492 @@
 {
   "After the right road meets, wait for the left team mate": {
-    "translation": "右边的道路开启后，请等待左边的队友"
+    "translation": "右边的道路开启后，请等待左边的队友",
+    "MultiLang": {
+      "US": "",
+      "JP": "右の道が合流した後、左側の味方を待機させる",
+      "CN": "大路汇合后，等左边队友",
+      "KR": "오른쪽 길이 합류하면 왼쪽 동료를 기다려",
+      "TW": "右側道路匯合後，等待左側隊友"
+    }
   },
   "Be prepared as if something is rising": {
-    "translation": "做好准备，仿佛有什么东西在升起"
+    "translation": "做好准备，仿佛有什么东西在升起",
+    "MultiLang": {
+      "US": "",
+      "JP": "何かが現れるものとして準備を整える",
+      "CN": "保持警戒，可能有东西在往上涌",
+      "KR": "뭔가가 떠오르는 것처럼 준비해",
+      "TW": "保持高度警戒，防範突發狀況"
+    }
   },
   "From here you can reach my house directly": {
-    "translation": "从这里你可以直接到达我的家"
+    "translation": "从这里你可以直接到达我的家",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここから直接私の家に到着できる",
+      "CN": "从这里可以直接到我房子",
+      "KR": "여기서 내 집으로 바로 갈 수 있어",
+      "TW": "從此處可直接到達我家"
+    }
   },
   "Gather on the left and wait for the meeting": {
-    "translation": "聚集在左边，等待集合"
+    "translation": "聚集在左边，等待集合",
+    "MultiLang": {
+      "US": "",
+      "JP": "左側で集まり、合流を待つ",
+      "CN": "在左边集合，等会合",
+      "KR": "왼쪽으로 모여서 합류를 기다려",
+      "TW": "向左側集結並等待會合"
+    }
   },
   "I am optimistic about the road under your feet. How come back? Do you understand?": {
-    "translation": "我对你脚下的路很感兴趣。如何原路返回？你明白吗？"
+    "translation": "我对你脚下的路很感兴趣。如何原路返回？你明白吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "足元の道は安心できる。なぜ戻った？理解しているか？",
+      "CN": "我对脚下的路很乐观。怎么回去？你明白吗？",
+      "KR": "네 발 아래의길을 낙관하고 있어. 왜 돌아가는지 이해했어?",
+      "TW": "我對你腳下的道路感到樂觀。怎麼回去？你明白嗎？"
+    }
   },
   "I feel the earth shaking": {
-    "translation": "我感觉到地在震动"
+    "translation": "我感觉到地在震动",
+    "MultiLang": {
+      "US": "I feel the ground tremble",
+      "JP": "大地が揺れているのが感じられる",
+      "CN": "我感到大地震颤",
+      "KR": "지진이 느껴져",
+      "TW": "我感覺到大地震動"
+    }
   },
   "I remember here, here is my back mountain": {
-    "translation": "我记得这里，这里是我的后山"
+    "translation": "我记得这里，这里是我的后山",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここは覚えておく、裏山だ",
+      "CN": "我记得这里，这里是我的后山",
+      "KR": "여기 기억나. 내 뒷산이야",
+      "TW": "我记得这里，这里是我家后山"
+    }
   },
   "I saw the hilt. I found a chance to get ready for the sword": {
-    "translation": "我看到了剑柄。我找到机会得到这把剑"
+    "translation": "我看到了剑柄。我找到机会得到这把剑",
+    "MultiLang": {
+      "US": "I saw the hilt. I got ready for the sword.",
+      "JP": "鞘が見えた。剣の準備を整える好機を見つけた",
+      "CN": "我看到了剑柄。我找到机会准备拔剑",
+      "KR": "칼집을 봤어. 검을 채비할 기회를 찾았어",
+      "TW": "我看到了刀柄。我找到了一個準備拔劍的機會"
+    }
   },
   "I'll inject strength into this sword": {
-    "translation": "我会把力量注入这把剑"
+    "translation": "我会把力量注入这把剑",
+    "MultiLang": {
+      "US": "",
+      "JP": "この剣に力を与えます",
+      "CN": "我要将力量注入这把剑",
+      "KR": "이 검에 힘을 불어넣겠네",
+      "TW": "我將注入力量於此劍"
+    }
   },
   "Initiate the zombie side in 4 seconds": {
-    "translation": "僵尸将在4秒后释放"
+    "translation": "僵尸将在4秒后释放",
+    "MultiLang": {
+      "US": "",
+      "JP": "4秒後にゾンビ側を開始します",
+      "CN": "4秒后启动僵尸阶段",
+      "KR": "4초 후 좀비 측 진행 시작",
+      "TW": "四秒後啟動殭屍側"
+    }
   },
   "No, the mountain is shaking": {
-    "translation": "不，山在震动"
+    "translation": "不，山在震动",
+    "MultiLang": {
+      "US": "",
+      "JP": "いいえ、山が揺れています",
+      "CN": "不，整座山都在震动",
+      "KR": "아니, 산이 흔들리고 있어",
+      "TW": "不，山在搖晃"
+    }
   },
   "Please hold here for 18 seconds": {
-    "translation": "请在这里防守18秒"
+    "translation": "请在这里防守18秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここに18秒間待機してください",
+      "CN": "请在此等待18秒",
+      "KR": "여기서 18초간 대기해 주세요",
+      "TW": "請在此處等待十八秒"
+    }
   },
   "Something seems to have disappeared": {
-    "translation": "似乎有什么东西消失了"
+    "translation": "似乎有什么东西消失了",
+    "MultiLang": {
+      "US": "",
+      "JP": "何か消えたようです",
+      "CN": "好像有什么东西消失了",
+      "KR": "어 qualcosa 사라진 것 같군",
+      "TW": "似乎有東西消失了"
+    }
   },
   "Something strange will happen": {
-    "translation": "会发生一些奇怪的事情"
+    "translation": "会发生一些奇怪的事情",
+    "MultiLang": {
+      "US": "",
+      "JP": "奇妙なことが起こるでしょう",
+      "CN": "即将发生奇怪的事情",
+      "KR": "이상한 일이 일어날 거야",
+      "TW": "將發生一些奇怪的事"
+    }
   },
   "The cave is blocked, damn it ": {
-    "translation": "洞穴被堵住了，真该死"
+    "translation": "洞穴被堵住了，真该死",
+    "MultiLang": {
+      "US": "",
+      "JP": "洞窟が塞がってる、くそ",
+      "CN": "洞穴被堵住了，该死",
+      "KR": "동굴이 막혔다, 젠장!",
+      "TW": "洞穴被堵住了，該死"
+    }
   },
   "The first door on the left will open in 20 seconds": {
-    "translation": "左边的第一个门将在20秒内打开"
+    "translation": "左边的第一个门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "左から2つ目の扉が20秒後に開きます",
+      "CN": "左侧第一扇门将在20秒后打开",
+      "KR": "왼쪽 첫 문이 20초 후에 열립니다",
+      "TW": "左邊的第一個門將在20秒後開啟"
+    }
   },
   "The first door on the right will open in 20 seconds": {
-    "translation": "右边的第一个门将在20秒内打开"
+    "translation": "右边的第一个门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "右端の最初の扉は20秒後に開きます",
+      "CN": "右侧第一扇门将在20秒后打开",
+      "KR": "오른쪽 첫 번째 문이 20초 후에 열립니다",
+      "TW": "右側第一道門將在20秒後開啟"
+    }
   },
   "The second door on the left will open in 20 seconds": {
-    "translation": "左边的第二个门将在20秒内打开"
+    "translation": "左边的第二个门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "左端から2番目の扉は20秒後に開きます",
+      "CN": "左侧第二扇门将在20秒后打开",
+      "KR": "왼쪽 두 번째 문이 20초 후에 열립니다",
+      "TW": "左側第二道門將在20秒後開啟"
+    }
   },
   "The second door on the right will open in 20 seconds": {
-    "translation": "右边的第二个门将在20秒内打开"
+    "translation": "右边的第二个门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "右端から2番目の扉は20秒後に開きます",
+      "CN": "右侧第二扇门将在20秒后打开",
+      "KR": "오른쪽 두 번째 문이 20초 후에 열립니다",
+      "TW": "右側第二道門將在20秒後開啟"
+    }
   },
   "There seems to be no road above": {
-    "translation": "上面似乎没有路"
+    "translation": "上面似乎没有路",
+    "MultiLang": {
+      "US": "It seems there is no path above.",
+      "JP": "上には道路がないようです",
+      "CN": "上方似乎没有道路",
+      "KR": "위쪽에 길들이 보이지 않습니다",
+      "TW": "上方似乎沒有道路"
+    }
   },
   "Very good. You made it through in 20 seconds": {
-    "translation": "很好。你在20秒内通过了"
+    "translation": "很好。你在20秒内通过了",
+    "MultiLang": {
+      "US": "Very good. You did it in 20 seconds.",
+      "JP": "とても良いですね。20秒で通過しました",
+      "CN": "做得很好。你在20秒内成功通过",
+      "KR": "훌륭합니다. 20초 내에 통과했습니다",
+      "TW": "非常好。你在20秒內成功通過了"
+    }
   },
   "Wait a minute, I seem to have seen this sword before ": {
-    "translation": "等一下，我好像以前见过这把剑"
+    "translation": "等一下，我好像以前见过这把剑",
+    "MultiLang": {
+      "US": "",
+      "JP": "ちょっと待って、この剣はどこかで見たことがあるような気がする",
+      "CN": "等一下，我似乎见过这把剑",
+      "KR": "잠깐, 이 검을 전에 본 적이 있는 것 같습니다",
+      "TW": "等等，我好像以前看過這把劍"
+    }
   },
   "Warning: Zombie launches near the road": {
-    "translation": "警告：僵尸在侧路发起进攻"
+    "translation": "警告：僵尸在侧路发起进攻",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告：道路付近でゾンビーが出現します",
+      "CN": "警告：僵尸在道路附近出现",
+      "KR": "경고: 폭발물이 길 근처에서 발사됩니다",
+      "TW": "警告：道路附近有殭屍射擊"
+    }
   },
   "Warning: trap is activated": {
-    "translation": "3秒-警告：陷阱已启动"
+    "translation": "3秒-警告：陷阱已启动",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告：トラップが発動しました",
+      "CN": "警告：陷阱已触发",
+      "KR": "경고: 함정이 활성화되었습니다",
+      "TW": "警告：陷阱已啟動"
+    }
   },
   "Warning: zombies open near the road": {
-    "translation": "警告：僵尸侧路打开"
+    "translation": "警告：僵尸侧路打开",
+    "MultiLang": {
+      "US": "Warning: zombies approaching near the road",
+      "JP": "警告：道路付近でゾンビが開放",
+      "CN": "警告：道路附近出现僵尸",
+      "KR": "경고: 도로 근처에서 좀비가 나타납니다",
+      "TW": "警告：殭屍即將從道路附近出現"
+    }
   },
   "Wooden boat leaves after 7S": {
-    "translation": "木船将在7秒后离开"
+    "translation": "木船将在7秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "木製ボートは7秒後に departure",
+      "CN": "木船将在7秒后离开",
+      "KR": "7초 후 목조 보트가 출항합니다",
+      "TW": "木船將在7秒後離開"
+    }
   },
   "You need to defend for 23 seconds.": {
-    "translation": "你需要防守23秒"
+    "translation": "你需要防守23秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなたは23秒間守らなければなりません。",
+      "CN": "你需要坚守23秒。",
+      "KR": "23초 동안 방어해야 합니다.",
+      "TW": "您需要防禦23秒。"
+    }
   },
   "Zombie checkerboard teleport": {
-    "translation": "僵尸在棋盘上传送"
+    "translation": "僵尸在棋盘上传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビチェッカーボードテレポート",
+      "CN": "僵尸棋盘传送已开启",
+      "KR": "좀비 체스판 텔레포트",
+      "TW": "殭屍棋盤傳送門開啟"
+    }
   },
   "Zombie shortcut open": {
-    "translation": "僵尸侧路打开"
+    "translation": "僵尸侧路打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの近道が開放",
+      "CN": "僵尸捷径已开启",
+      "KR": "좀비 지름길 개방",
+      "TW": "殭屍捷徑已開啟"
+    }
   },
   "Zombie teleport will turn on in 30 seconds": {
-    "translation": "僵尸传送将在30秒内开启"
+    "translation": "僵尸传送将在30秒内开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にゾンビテレポートがオンになります",
+      "CN": "僵尸传送将在30秒后启动",
+      "KR": "30초 후 좀비 텔레포트가 활성화됩니다",
+      "TW": "殭屍傳送功能將於30秒後啟動"
+    }
   },
   "Zombie teleportation will teleport in 5 seconds ": {
-    "translation": "僵尸传送将在5秒内进行"
+    "translation": "僵尸传送将在5秒内进行",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後にゾンビテレポートが始まります",
+      "CN": "僵尸传送将在5秒内执行",
+      "KR": "5초 후에 좀비 텔레포트가 발동합니다",
+      "TW": "殭屍將于5秒後進行傳送"
+    }
   },
   "Zombie transfer has started": {
-    "translation": "僵尸传送已开始"
+    "translation": "僵尸传送已开始",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ転送が開始されました",
+      "CN": "僵尸传送已启动",
+      "KR": "좀비 이동이 시작되었습니다",
+      "TW": "殭屍轉移已開始"
+    }
   },
   "Zombie transmission also has 13S": {
-    "translation": "僵尸传送还有13秒"
+    "translation": "僵尸传送还有13秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ伝播も13秒で発生",
+      "CN": "僵尸传输仍有13S",
+      "KR": "존재 전파도 13초",
+      "TW": "殭屍傳播持續13秒"
+    }
   },
   "Zombies approaching the road": {
-    "translation": "僵尸正在接近道路"
+    "translation": "僵尸正在接近道路",
+    "MultiLang": {
+      "US": "",
+      "JP": "道路に近づいてくるゾンビ",
+      "CN": "逼近道路的僵尸",
+      "KR": "도로를 향한 좀비 접근",
+      "TW": "殭屍正在接近道路"
+    }
   },
   "Zombies are still transmitted after 5S": {
-    "translation": "僵尸将在5秒后传送"
+    "translation": "僵尸将在5秒后传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後もゾンビが発生中",
+      "CN": "5秒后仍有僵尸传输",
+      "KR": "5초 후에도 존재인 전파 계속",
+      "TW": "殭屍在5秒後仍持續傳播"
+    }
   },
   "Zombies are still transmitted after 7S": {
-    "translation": "僵尸将在7秒后传送"
+    "translation": "僵尸将在7秒后传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "7秒後もゾンビが発生中",
+      "CN": "7秒后仍有僵尸传输",
+      "KR": "7초 후에도 존재인 전파 계속",
+      "TW": "殭屍在7秒後仍持續傳播"
+    }
   },
   "hold 20s": {
-    "translation": "防守20秒"
+    "translation": "防守20秒",
+    "MultiLang": {
+      "US": "hold for 20s",
+      "JP": "20秒間キープ",
+      "CN": "按住20秒",
+      "KR": "20초 유지",
+      "TW": "按住20秒"
+    }
   },
   "tip:You can't pass on the chessboard You must pass on the chess piece": {
-    "translation": "提示：你不能直接通过棋盘，你必须在棋子上通过"
+    "translation": "提示：你不能直接通过棋盘，你必须在棋子上通过",
+    "MultiLang": {
+      "US": "tip:You can't move the board; you must move the piece.",
+      "JP": "ヒント: チェス盤を通過できません。チェスピースを通過する必要があります",
+      "CN": "提示：棋盘上无法传送，必须传递棋子",
+      "KR": "팁: 체스판에서 통과할 수 없습니다. 체스 조각에서 통과해야 합니다",
+      "TW": "提示：您無法在棋盤上傳播，必須在棋子上傳播"
+    }
   },
   "we need hold 40s": {
-    "translation": "我们需要防守40秒"
+    "translation": "我们需要防守40秒",
+    "MultiLang": {
+      "US": "We need to hold for 40s",
+      "JP": "40秒間キープする必要があります",
+      "CN": "需要按住40秒",
+      "KR": "40초 유지 필요",
+      "TW": "需要按住40秒"
+    }
   },
   "you need hold 14s": {
-    "translation": "你需要防守14秒"
+    "translation": "你需要防守14秒",
+    "MultiLang": {
+      "US": "you need to hold for 14s",
+      "JP": "14秒間キープする必要があります",
+      "CN": "需要按住14秒",
+      "KR": "14초 유지 필요",
+      "TW": "需要按住14秒"
+    }
   },
   "you need hold 15s": {
-    "translation": "你需要防守15秒"
+    "translation": "你需要防守15秒",
+    "MultiLang": {
+      "US": "you need to hold for 15s",
+      "JP": "15秒間保持する必要があります",
+      "CN": "你需要持续15秒",
+      "KR": "15초 동안 유지하세요",
+      "TW": "你需要持續按住 15 秒"
+    }
   },
   "you need hold 20s": {
-    "translation": "你需要防守20秒"
+    "translation": "你需要防守20秒",
+    "MultiLang": {
+      "US": "you need to hold for 20s",
+      "JP": "20秒間保持する必要があります",
+      "CN": "你需要持续20秒",
+      "KR": "20초 동안 유지하세요",
+      "TW": "你需要持續按住 20 秒"
+    }
   },
   "you need hold 22s": {
-    "translation": "你需要防守22秒"
+    "translation": "你需要防守22秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "22秒間保持する必要があります",
+      "CN": "你需要持续22秒",
+      "KR": "22초 동안 유지하세요",
+      "TW": "你需要持續按住 22 秒"
+    }
   },
   "you need hold 25s": {
-    "translation": "你需要防守25秒"
+    "translation": "你需要防守25秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間保持する必要があります",
+      "CN": "你需要持续25秒",
+      "KR": "25초 동안 유지하세요",
+      "TW": "你需要持續按住 25 秒"
+    }
   },
   "you need hold 30s": {
-    "translation": "你需要防守30秒"
+    "translation": "你需要防守30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間保持する必要があります",
+      "CN": "你需要持续30秒",
+      "KR": "30초 동안 유지하세요",
+      "TW": "你需要持續按住 30 秒"
+    }
   },
   "you need hold 40s": {
-    "translation": "你需要防守40秒"
+    "translation": "你需要防守40秒",
+    "MultiLang": {
+      "US": "you need to hold for 40s",
+      "JP": "40秒間保持する必要があります",
+      "CN": "你需要持续40秒",
+      "KR": "40초 동안 유지하세요",
+      "TW": "你需要持續按住 40 秒"
+    }
   },
   "you need hold 45s": {
-    "translation": "你需要防守45秒"
+    "translation": "你需要防守45秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "45秒間保持する必要があります",
+      "CN": "你需要持续45秒",
+      "KR": "45초 동안 유지하세요",
+      "TW": "你需要持續按住 45 秒"
+    }
   },
   "you need hold 60s": {
-    "translation": "你需要防守60秒"
+    "translation": "你需要防守60秒",
+    "MultiLang": {
+      "US": "you need to hold for 60s",
+      "JP": "60秒間保持する必要があります",
+      "CN": "你需要持续60秒",
+      "KR": "60초 동안 유지하세요",
+      "TW": "你需要持續按住 60 秒"
+    }
   },
   "zombie coming watch you back": {
-    "translation": "僵尸来了，小心你的后方"
+    "translation": "僵尸来了，小心你的后方",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾombiesが近づいてきている。後ろを監視しろ",
+      "CN": "僵尸来了，注意背后",
+      "KR": "좀비가 뒤에서 오고 있어 주의해",
+      "TW": "殭屍來了，小心後方"
+    }
   }
 }

@@ -1,299 +1,992 @@
 {
   "...": {
-    "translation": "..."
+    "translation": "...",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "...",
+      "KR": "",
+      "TW": ""
+    }
   },
   "1 minute left": {
-    "translation": "剩余60秒"
+    "translation": "剩余60秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り1分",
+      "CN": "剩余 1 分钟",
+      "KR": "1분 남음",
+      "TW": "剩餘 1 分鐘"
+    }
   },
   "10 seconds left": {
-    "translation": "剩余10秒"
+    "translation": "剩余10秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒",
+      "CN": "剩余 10 秒",
+      "KR": "10초 남음",
+      "TW": "剩餘 10 秒"
+    }
   },
   "30 seconds left": {
-    "translation": "剩余30秒"
+    "translation": "剩余30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り30秒",
+      "CN": "剩余 30 秒",
+      "KR": "30초 남음",
+      "TW": "剩餘 30 秒"
+    }
   },
   "5 seconds left": {
-    "translation": "剩余5秒"
+    "translation": "剩余5秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒",
+      "CN": "剩余 5 秒",
+      "KR": "5초 남음",
+      "TW": "剩餘 5 秒"
+    }
   },
   "A car! We could make some use of it if it works...": {
-    "translation": "这有一辆车！如果它能工作，我们可以利用它…"
+    "translation": "这有一辆车！如果它能工作，我们可以利用它…",
+    "MultiLang": {
+      "US": "",
+      "JP": "車だ！動けば役に立つかもしれないな…",
+      "CN": "一辆汽车！如果它能用的话，或许能派上用场……",
+      "KR": "자동차가 나타났다! 작동한다면 무언가 도움이 될지도…",
+      "TW": "一輛車！如果還能運作，或許可以派上用場……"
+    }
   },
   "A fuel can has been found": {
-    "translation": "找到一个燃料罐"
+    "translation": "找到一个燃料罐",
+    "MultiLang": {
+      "US": "",
+      "JP": "燃料バケツを発見",
+      "CN": "已找到燃料罐",
+      "KR": "연료 캔 발견",
+      "TW": "發現一個燃油罐"
+    }
   },
   "ADMINROOM - RESTARTING ROUND": {
-    "translation": "管理员房间-正在重启回合"
+    "translation": "管理员房间-正在重启回合",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理ルーム - ラウンドを再開中",
+      "CN": "管理员房间 - 重新开始回合",
+      "KR": "ADMINROOM - 라운드 재시작",
+      "TW": "管理員房間 - 重新開始回合"
+    }
   },
   "ADMINROOM - STAGE 1 SET": {
-    "translation": "管理员房间-第一关"
+    "translation": "管理员房间-第一关",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理ルーム - ステージ1設定",
+      "CN": "管理员房间 - 第 1 阶段已设置",
+      "KR": "ADMINROOM - 스테이지 1 설정",
+      "TW": "管理員房間 - 設定第一階段"
+    }
   },
   "ADMINROOM - STAGE 2 SET": {
-    "translation": "管理员房间-第二关"
+    "translation": "管理员房间-第二关",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理ルーム - ステージ2セット",
+      "CN": "管理员房间 - 第2关已设置",
+      "KR": "ADMINROOM - 스테이지 2 설정",
+      "TW": "管理室 - 第二關卡設定"
+    }
   },
   "ADMINROOM - STAGE 3 SET": {
-    "translation": "管理员房间-第三关"
+    "translation": "管理员房间-第三关",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理ルーム - ステージ3セット",
+      "CN": "管理员房间 - 第3关已设置",
+      "KR": "ADMINROOM - 스테이지 3 설정",
+      "TW": "管理室 - 第三關卡設定"
+    }
   },
   "Boxes will move again in 10 seconds": {
-    "translation": "箱子将在10秒后再次移动"
+    "translation": "箱子将在10秒后再次移动",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に箱が再び動きます",
+      "CN": "方块将在10秒后再次移动",
+      "KR": "상자가 10초 후에 다시 움직입니다",
+      "TW": "箱子將在 10 秒後再次移動"
+    }
   },
   "Boxes will move again in 15 seconds": {
-    "translation": "箱子将在15秒后再次移动"
+    "translation": "箱子将在15秒后再次移动",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に箱が再び動きます",
+      "CN": "方块将在15秒后再次移动",
+      "KR": "상자가 15초 후에 다시 움직입니다",
+      "TW": "箱子將在 15 秒後再次移動"
+    }
   },
   "Bring it back to the car!": {
-    "translation": "把它带回车里！"
+    "translation": "把它带回车里！",
+    "MultiLang": {
+      "US": "",
+      "JP": "クルマまで持って帰って！",
+      "CN": "把它带回车上！",
+      "KR": "차를 가지고 오세요!",
+      "TW": "把它帶回車上！"
+    }
   },
   "Button pressed": {
-    "translation": "按钮已按下"
+    "translation": "按钮已按下",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタンを押した",
+      "CN": "按键按下",
+      "KR": "버튼 눌림",
+      "TW": "按鈕已按下"
+    }
   },
   "Buttons pressed": {
-    "translation": "按钮已按下"
+    "translation": "按钮已按下",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタンが押された",
+      "CN": "按键已按下",
+      "KR": "버튼 눌러짐",
+      "TW": "按鈕已被按下"
+    }
   },
   "Defend for 15 seconds": {
-    "translation": "防守15秒"
+    "translation": "防守15秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間防衛せよ",
+      "CN": "防守15秒",
+      "KR": "15초간 방어",
+      "TW": "防禦 15 秒"
+    }
   },
   "Defend for 20 seconds": {
-    "translation": "防守20秒"
+    "translation": "防守20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間防御しろ",
+      "CN": "坚守20秒",
+      "KR": "20초 동안 방어하세요",
+      "TW": "防守20秒"
+    }
   },
   "Defend for 25 seconds": {
-    "translation": "防守25秒"
+    "translation": "防守25秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間防御しろ",
+      "CN": "坚守25秒",
+      "KR": "25초 동안 방어하세요",
+      "TW": "防守25秒"
+    }
   },
   "Defend until something happens": {
-    "translation": "防守直到发生某些事情"
+    "translation": "防守直到发生某些事情",
+    "MultiLang": {
+      "US": "",
+      "JP": "何かが起きるまで防御しろ",
+      "CN": "坚持到有情况发生",
+      "KR": "무슨 일이 생길 때까지 방어하세요",
+      "TW": "撐到有什麼異狀為止"
+    }
   },
   "Defend until the door opens": {
-    "translation": "防守直到门打开"
+    "translation": "防守直到门打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開くまで防御しろ",
+      "CN": "坚持到门打开",
+      "KR": "문이 열릴 때까지 방어하세요",
+      "TW": "撐到門打開為止"
+    }
   },
   "Defend until we get the car moving again!": {
-    "translation": "防守直到我们再次让车动起来！"
+    "translation": "防守直到我们再次让车动起来！",
+    "MultiLang": {
+      "US": "",
+      "JP": "車が出発するまで防御しろ！",
+      "CN": "坚持到车重新启动！",
+      "KR": "차를 다시 움직일 때까지 방어하세요!",
+      "TW": "撐到車子重新發動！"
+    }
   },
   "Door is opening": {
-    "translation": "门正在开启"
+    "translation": "门正在开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いている",
+      "CN": "门正在打开",
+      "KR": "문이 열리고 있습니다",
+      "TW": "門正在打開"
+    }
   },
   "Door is opening in 40 seconds": {
-    "translation": "门将在40秒后开启"
+    "translation": "门将在40秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒後にドアが開く",
+      "CN": "门将在40秒后打开",
+      "KR": "문에서 40초 후 열립니다",
+      "TW": "門將在40秒後打開"
+    }
   },
   "Door is opening in 5 seconds": {
-    "translation": "门将在5秒后开启"
+    "translation": "门将在5秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後にドアが開く",
+      "CN": "门将在5秒后打开",
+      "KR": "문에서 5초 후 열립니다",
+      "TW": "門將在5秒後打開"
+    }
   },
   "Door opens in 10 seconds": {
-    "translation": "门将在10秒后开启"
+    "translation": "门将在10秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが10秒後に開きます",
+      "CN": "门将在10秒后开启",
+      "KR": "10초 후에 문이 열립니다",
+      "TW": "門將在 10 秒後開啟"
+    }
   },
   "Door opens in 15 seconds": {
-    "translation": "门将在15秒后开启"
+    "translation": "门将在15秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが15秒後に開きます",
+      "CN": "门将在15秒后开启",
+      "KR": "15초 후에 문이 열립니다",
+      "TW": "門將在 15 秒後開啟"
+    }
   },
   "Door opens in 20 seconds": {
-    "translation": "门将在20秒后开启"
+    "translation": "门将在20秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが20秒後に開きます",
+      "CN": "门将在20秒后开启",
+      "KR": "20초 후에 문이 열립니다",
+      "TW": "門將在 20 秒後開啟"
+    }
   },
   "Door opens in 25 seconds": {
-    "translation": "门将在25秒后开启"
+    "translation": "门将在25秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが25秒後に開きます",
+      "CN": "门将在25秒后开启",
+      "KR": "25초 후에 문이 열립니다",
+      "TW": "門將在 25 秒後開啟"
+    }
   },
   "Door opens in 5 seconds": {
-    "translation": "门将在5秒后开启"
+    "translation": "门将在5秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが5秒後に開きます",
+      "CN": "门将在5秒后开启",
+      "KR": "5초 후에 문이 열립니다",
+      "TW": "門將在 5 秒後開啟"
+    }
   },
   "Doors are opening": {
-    "translation": "门正在开启"
+    "translation": "门正在开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いています",
+      "CN": "门正在开启",
+      "KR": "문이 열리는 중입니다",
+      "TW": "門正在開啟"
+    }
   },
   "Double doors open in 20 seconds": {
-    "translation": "双扇门将在20秒后开启"
+    "translation": "双扇门将在20秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "二重戸が20秒後に開きます",
+      "CN": "双扇门将在20秒后开启",
+      "KR": "20초 후에 두꺼운 문이 열립니다",
+      "TW": "雙扇門將在 20 秒後開啟"
+    }
   },
   "Double doors open in 5 seconds": {
-    "translation": "双扇门将在5秒后开启"
+    "translation": "双扇门将在5秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "二重戸が5秒後に開きます",
+      "CN": "双扇门将在5秒后开启",
+      "KR": "5초 후에 두꺼운 문이 열립니다",
+      "TW": "雙扇門將在 5 秒後開啟"
+    }
   },
   "Elevator leaves in 20 seconds": {
-    "translation": "电梯将在20秒后离开"
+    "translation": "电梯将在20秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター、20秒後に発進",
+      "CN": "电梯将在20秒后离开",
+      "KR": "엘리베이터가 20초 후 출발합니다",
+      "TW": "電梯将在20秒後離開"
+    }
   },
   "Elevator leaves in 5 seconds": {
-    "translation": "电梯将在5秒后离开"
+    "translation": "电梯将在5秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター、5秒後に発進",
+      "CN": "电梯将在5秒后离开",
+      "KR": "엘리베이터가 5초 후 출발합니다",
+      "TW": "电梯将在5秒后离开"
+    }
   },
   "Fall back!": {
-    "translation": "后退！"
+    "translation": "后退！",
+    "MultiLang": {
+      "US": "",
+      "JP": "後退！",
+      "CN": "快回来！",
+      "KR": "뒤로 물러서!",
+      "TW": "后退！"
+    }
   },
   "Find another button": {
-    "translation": "找另一个按钮"
+    "translation": "找另一个按钮",
+    "MultiLang": {
+      "US": "",
+      "JP": "別のボタンを探す",
+      "CN": "找找其他按钮吧",
+      "KR": "다른 버튼을 찾아라",
+      "TW": "找另一个按钮"
+    }
   },
   "Gate is opening": {
-    "translation": "大门正在开启"
+    "translation": "大门正在开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲート開いている",
+      "CN": "闸门正在开启",
+      "KR": "문이 열립니다",
+      "TW": "大门正在开启"
+    }
   },
   "Gate opens in 10 seconds": {
-    "translation": "大门将在10秒后开启"
+    "translation": "大门将在10秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲート、10秒後に開放",
+      "CN": "闸门将在10秒后开启",
+      "KR": "문이 10초 후 열립니다",
+      "TW": "大门将在10秒後開啟"
+    }
   },
   "Gate opens in 15 seconds": {
-    "translation": "大门将在15秒后开启"
+    "translation": "大门将在15秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲート、15秒後に開放",
+      "CN": "闸门将在15秒后开启",
+      "KR": "문이 15초 후 열립니다",
+      "TW": "闸门将在15秒后开启"
+    }
   },
   "Get in! Door is closing in 5 seconds": {
-    "translation": "快进来！门将在5秒后关闭"
+    "translation": "快进来！门将在5秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "搭乗！扉が5秒後に閉鎖",
+      "CN": "快进来！门将在5秒后关闭",
+      "KR": "타세요! 문이 5초 후 닫힙니다",
+      "TW": "快上！門将在5秒後關閉"
+    }
   },
   "Get ready to jump": {
-    "translation": "准备跳跃"
+    "translation": "准备跳跃",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャンプの準備をして",
+      "CN": "准备跳跃",
+      "KR": "점프 준비해",
+      "TW": "準備跳躍"
+    }
   },
   "Good job!": {
-    "translation": "干得好！"
+    "translation": "干得好！",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやった！",
+      "CN": "干得好！",
+      "KR": "잘 했어!",
+      "TW": "幹得好！"
+    }
   },
   "Hold until the door opens": {
-    "translation": "继续防守直到门打开"
+    "translation": "继续防守直到门打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開くまで待つ",
+      "CN": "坚持到门打开",
+      "KR": "문이 열릴 때까지 눌러라",
+      "TW": "持續按住直到門打開"
+    }
   },
   "Hold until we break the boxes": {
-    "translation": "继续防守直到我们打破箱子"
+    "translation": "继续防守直到我们打破箱子",
+    "MultiLang": {
+      "US": "",
+      "JP": "箱を壊すまで待つ",
+      "CN": "坚持到我们打破箱子",
+      "KR": "상자가 부서질 때까지 눌러라",
+      "TW": "持續按住直到我們將盒子打破"
+    }
   },
   "Hold until we figure something out": {
-    "translation": "继续防守直到我们想出解决办法"
+    "translation": "继续防守直到我们想出解决办法",
+    "MultiLang": {
+      "US": "",
+      "JP": "何か解決策を見付けるまで待つ",
+      "CN": "坚持到我们有办法",
+      "KR": "뭔가 생각날 때까지 눌러라",
+      "TW": "持續按住直到我們想出辦法"
+    }
   },
   "Hold until we get the gate open!": {
-    "translation": "继续防守直到我们打开大门！"
+    "translation": "继续防守直到我们打开大门！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが開くまで待て！",
+      "CN": "坚持到我们把门打开！",
+      "KR": "게이트가 열릴 때까지 눌러라!",
+      "TW": "持續按住直到我們將柵欄打開！"
+    }
   },
   "JUMP!": {
-    "translation": "跳！"
+    "translation": "跳！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャンプ！",
+      "CN": "跳！",
+      "KR": "점프!",
+      "TW": "跳！"
+    }
   },
   "Kill any remaining zombies!": {
-    "translation": "杀死逃离的僵尸！"
+    "translation": "杀死逃离的僵尸！",
+    "MultiLang": {
+      "US": "",
+      "JP": "残りのゾンビを処理しろ！",
+      "CN": "消灭剩余的僵尸！",
+      "KR": "남은 좀비들을 처치하라!",
+      "TW": "消滅所有剩餘的殭屍！"
+    }
   },
   "Lever found": {
-    "translation": "杠杆已找到"
+    "translation": "杠杆已找到",
+    "MultiLang": {
+      "US": "",
+      "JP": "レバー発見",
+      "CN": "发现杠杆",
+      "KR": "레버 발견",
+      "TW": "已找到槓桿"
+    }
   },
   "Main sewer system doors opening soon": {
-    "translation": "主下水道系统的门即将开启"
+    "translation": "主下水道系统的门即将开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "メイン下水道の扉、まもなく開放",
+      "CN": "主下水道系统门即将开启",
+      "KR": "주 하수구 문 곧 개방",
+      "TW": "主下水道系統大門即將開啟"
+    }
   },
   "Map is starting": {
-    "translation": "游戏开始"
+    "translation": "游戏开始",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ開始中",
+      "CN": "地图已开始",
+      "KR": "맵 시작",
+      "TW": "地圖開始進行"
+    }
   },
   "Map starts in 30 seconds": {
-    "translation": "游戏将在30秒后开始"
+    "translation": "游戏将在30秒后开始",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ開始まであと30秒",
+      "CN": "30秒后开始游戏",
+      "KR": "맵 30초 후 시작",
+      "TW": "地圖將在 30 秒後開始"
+    }
   },
   "Platform called": {
-    "translation": "平台已呼叫"
+    "translation": "平台已呼叫",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォーム到着",
+      "CN": "平台已呼叫",
+      "KR": "플랫폼 호출 중",
+      "TW": "平台已呼喚"
+    }
   },
   "Platform is here, get on it!": {
-    "translation": "平台来了，快上去！"
+    "translation": "平台来了，快上去！",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォーム設置、飛び乗り！",
+      "CN": "平台就位，快上去！",
+      "KR": "플랫폼 도착, 탑승!",
+      "TW": "平台已到，請立即登車！"
+    }
   },
   "Resist until the door opens!": {
-    "translation": "抵抗直到门打开！"
+    "translation": "抵抗直到门打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開くまで耐えろ！",
+      "CN": "坚持到门打开！",
+      "KR": "문이 열릴 때까지 저항하세요!",
+      "TW": "撐到門開啟為止！"
+    }
   },
   "STAGE 1 COMPLETE": {
-    "translation": "第一关完成 翻译：Asteri3m"
+    "translation": "第一关完成 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1 クリア",
+      "CN": "第一阶段完成",
+      "KR": "STAGE 1 완료",
+      "TW": "第一階段完成"
+    }
   },
   "STAGE 2 COMPLETE": {
-    "translation": "第二关完成 翻译：Asteri3m"
+    "translation": "第二关完成 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2クリア",
+      "CN": "第2阶段完成",
+      "KR": "STAGE 2 COMPLETE",
+      "TW": "第二關完成"
+    }
   },
   "STAGE 3 COMPLETE": {
-    "translation": "第三关完成 翻译：Asteri3m"
+    "translation": "第三关完成 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3クリア",
+      "CN": "第3阶段完成",
+      "KR": "STAGE 3 COMPLETE",
+      "TW": "第三關完成"
+    }
   },
   "STAGE FAILED - OUT OF TIME": {
-    "translation": "关卡失败-超时"
+    "translation": "关卡失败-超时",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ失敗 - タイムアウト",
+      "CN": "第3阶段失败 - 超时",
+      "KR": "STAGE FAILED - OUT OF TIME",
+      "TW": "階段失敗 - 時間耗盡"
+    }
   },
   "Search the boxes for a fuel canister": {
-    "translation": "在箱子中搜索燃料罐"
+    "translation": "在箱子中搜索燃料罐",
+    "MultiLang": {
+      "US": "",
+      "JP": "箱の中から燃料缶を検索せよ",
+      "CN": "在箱子中搜索燃料罐",
+      "KR": "Search the boxes for a fuel canister",
+      "TW": "在箱子中搜尋燃料桶"
+    }
   },
   "Security system has been alerted": {
-    "translation": "安全系统已被警报"
+    "translation": "安全系统已被警报",
+    "MultiLang": {
+      "US": "",
+      "JP": "セキュリティシステムが警告を発しました",
+      "CN": "安全系统已报警",
+      "KR": "Security system has been alerted",
+      "TW": "安全系統已發出警報"
+    }
   },
   "Stage 1 - Awakening": {
-    "translation": "第一关-觉醒"
+    "translation": "第一关-觉醒",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1 - 覚醒",
+      "CN": "第1阶段 - 觉醒",
+      "KR": "Stage 1 - Awakening",
+      "TW": "第一關 - 覺醒"
+    }
   },
   "Stage 2 - Inner Facility": {
-    "translation": "第二关-内部设施"
+    "translation": "第二关-内部设施",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2 - 内部施設",
+      "CN": "第2阶段 - 内部设施",
+      "KR": "Stage 2 - Inner Facility",
+      "TW": "第二關 - 內部設施"
+    }
   },
   "Stage 3 - Iron Fortress": {
-    "translation": "第三关-钢铁堡垒"
+    "translation": "第三关-钢铁堡垒",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3 - 鉄の砦",
+      "CN": "第3阶段 - 钢铁堡垒",
+      "KR": "Stage 3 - Iron Fortress",
+      "TW": "第三關 - 鐵堡"
+    }
   },
   "Stage 4 -": {
-    "translation": "第四关-"
+    "translation": "第四关-",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ4 -",
+      "CN": "第4关 -",
+      "KR": "Stage 4 -",
+      "TW": "第4關 -"
+    }
   },
   "TO BE CONTINUED...": {
-    "translation": "待续..."
+    "translation": "待续...",
+    "MultiLang": {
+      "US": "",
+      "JP": "つづく...",
+      "CN": "未完待续……",
+      "KR": "계속될...",
+      "TW": "待續…"
+    }
   },
   "Temple door opens in 25 seconds": {
-    "translation": "神庙门将在25秒后开启"
+    "translation": "神庙门将在25秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "寺院の扉が25秒後に開きます",
+      "CN": "庙门将于25秒后打开",
+      "KR": "사원 문이 25초 후에 열립니다",
+      "TW": "廟門將在25秒後開啟"
+    }
   },
   "Temple door opens in 5 seconds": {
-    "translation": "神庙门将在5秒后开启"
+    "translation": "神庙门将在5秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "寺院の扉が5秒後に開きます",
+      "CN": "庙门将于5秒后打开",
+      "KR": "사원 문이 5초 후에 열립니다",
+      "TW": "廟門將在5秒後開啟"
+    }
   },
   "The boxes have stopped": {
-    "translation": "箱子已停止"
+    "translation": "箱子已停止",
+    "MultiLang": {
+      "US": "",
+      "JP": "箱が停止しました",
+      "CN": "箱子已停止移动",
+      "KR": "상자가 멈췄습니다",
+      "TW": "箱子已停止移動"
+    }
   },
   "The car has enough fuel for a little more!": {
-    "translation": "车的燃料还够用一点！"
+    "translation": "车的燃料还够用一点！",
+    "MultiLang": {
+      "US": "",
+      "JP": "車にはまだ少し給油の余地があります！",
+      "CN": "燃油还够再开一会儿！",
+      "KR": "자동차에 연료가 조금 더 있습니다!",
+      "TW": "油箱裡還有足夠的燃油！"
+    }
   },
   "The car has ran out of fuel...": {
-    "translation": "车已经没油了…"
+    "translation": "车已经没油了…",
+    "MultiLang": {
+      "US": "",
+      "JP": "車の燃料が切れました…",
+      "CN": "汽车已经没油了……",
+      "KR": "자동차가 연료를 다 썼습니다...",
+      "TW": "汽車已經耗盡燃油……"
+    }
   },
   "The door has opened!": {
-    "translation": "门已开启！"
+    "translation": "门已开启！",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開きました！",
+      "CN": "门已打开！",
+      "KR": "문이 열렸습니다!",
+      "TW": "門已開啟！"
+    }
   },
   "The gate appears to be stuck": {
-    "translation": "大门似乎卡住了"
+    "translation": "大门似乎卡住了",
+    "MultiLang": {
+      "US": "",
+      "JP": "_GATE_OPEN_FAIL_\":\"ゲートが開かない…",
+      "CN": "大门似乎卡住了",
+      "KR": "문이 잠겨 있는 것 같습니다",
+      "TW": "機關好像卡住了"
+    }
   },
   "The gate is about to open!": {
-    "translation": "大门即将打开！"
+    "translation": "大门即将打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "_GATE_START_OPN_\":\"いざ、開門！",
+      "CN": "大门即将开启！",
+      "KR": "문이 곧 열립니다!",
+      "TW": "機關即將開啟！"
+    }
   },
   "The gate should open soon! Keep holding!": {
-    "translation": "大门应该很快就会打开！继续防守！"
+    "translation": "大门应该很快就会打开！继续防守！",
+    "MultiLang": {
+      "US": "",
+      "JP": "_HOLD_ON_\":\"もうすぐ開くよ…押しているのを忘れないでね！",
+      "CN": "大门应该很快就会打开！坚持住！",
+      "KR": "문이 곧 열릴 것입니다! 계속 누르고 있으세요!",
+      "TW": "機關應該很快就會打開！繼續撐住！"
+    }
   },
   "There are boxes incoming again!": {
-    "translation": "又有箱子来了！"
+    "translation": "又有箱子来了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "_BOXES_COMING!_\":\"また箱が近づいてくるぞ…",
+      "CN": "又有一批箱子过来了！",
+      "KR": "상자가 또 들어옵니다!",
+      "TW": "又有箱子來了！"
+    }
   },
   "There are boxes incoming, we should get on them!": {
-    "translation": "有箱子来了，我们应该上去！"
+    "translation": "有箱子来了，我们应该上去！",
+    "MultiLang": {
+      "US": "",
+      "JP": "_GET_ON_THE_BOXES!_\":\"箱が近づくよ！乗ろう…",
+      "CN": "有箱子过来了，我们应该跳上去！",
+      "KR": "상자가 들어옵니다! 타는 게 좋겠습니다!",
+      "TW": "有箱子來了，我們應該站上去！"
+    }
   },
   "There is a platform incoming!": {
-    "translation": "有个平台来了！"
+    "translation": "有个平台来了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "_PLATFORM_COMING!_\":\"次のプラットフォームが近づいてくる！",
+      "CN": "有一块平台过来了！",
+      "KR": "플랫폼이 들어옵니다!",
+      "TW": "有平台過來了！"
+    }
   },
   "This is our last hold. Resist!": {
-    "translation": "这是我们的最后防守。抵抗！"
+    "translation": "这是我们的最后防守。抵抗！",
+    "MultiLang": {
+      "US": "",
+      "JP": "_LAST_HOLD..._\":\"最後の踏ん張りだよ…粘れ！",
+      "CN": "这是我们的最后一次坚持。稳住！",
+      "KR": "마지막 누르기입니다. 버티세요!",
+      "TW": "這是我們最後一次堅持。忍耐住！"
+    }
   },
   "This place seems to have traps as well": {
-    "translation": "这个地方似乎也有陷阱"
+    "translation": "这个地方似乎也有陷阱",
+    "MultiLang": {
+      "US": "",
+      "JP": "_TRAPS_HERE.._\":\"ここには罠もあるみたいだ…",
+      "CN": "这个地方似乎也有陷阱",
+      "KR": "여기에도 함정이 있는 것 같습니다",
+      "TW": "這裡似乎也有陷阱"
+    }
   },
   "Use the car to break the grates!": {
-    "translation": "用车子打破格栅！"
+    "translation": "用车子打破格栅！",
+    "MultiLang": {
+      "US": "",
+      "JP": "車両で金網を壊せ！",
+      "CN": "用车撞开格栅！",
+      "KR": "차량을 사용하여 그릴을 파괴하세요!",
+      "TW": "用車輛撞開柵欄！"
+    }
   },
   "Use the car to get the bridge down!": {
-    "translation": "用车子把桥放下来！"
+    "translation": "用车子把桥放下来！",
+    "MultiLang": {
+      "US": "",
+      "JP": "車両で橋を降りてこ！",
+      "CN": "用车放平桥梁！",
+      "KR": "차량을 사용하여 다리를 내리세요!",
+      "TW": "用車輛把橋放下！"
+    }
   },
   "Warmup round": {
-    "translation": "热身回合"
+    "translation": "热身回合",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングアップラウンド",
+      "CN": "热身赛",
+      "KR": "준비 라운드",
+      "TW": "熱身輪"
+    }
   },
   "Watch out for barriers up ahead!": {
-    "translation": "小心前方的障碍物！"
+    "translation": "小心前方的障碍物！",
+    "MultiLang": {
+      "US": "",
+      "JP": "前方にバリヤー注意！",
+      "CN": "前方有障碍物，请注意！",
+      "KR": "앞으로 장벽에 주의하세요!",
+      "TW": "注意前方有障礙物！"
+    }
   },
   "Water levels lowering": {
-    "translation": "水位正在降低"
+    "translation": "水位正在降低",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位が下がっています",
+      "CN": "水位正在下降",
+      "KR": "수위 하락 중",
+      "TW": "水位下降"
+    }
   },
   "Water levels rising": {
-    "translation": "水位正在上升"
+    "translation": "水位正在上升",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位が上がっています",
+      "CN": "水位正在上升",
+      "KR": "수위 상승 중",
+      "TW": "水位上升"
+    }
   },
   "Water levels rising in 30 seconds": {
-    "translation": "水位将在30秒后上升"
+    "translation": "水位将在30秒后上升",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に水位が上昇します",
+      "CN": "30秒后水位将开始上升",
+      "KR": "30초 후 수위 상승",
+      "TW": "30秒後水位開始上升"
+    }
   },
   "Water will rise again in 25 seconds": {
-    "translation": "水位将在25秒后再次上升"
+    "translation": "水位将在25秒后再次上升",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒後に水位が再上昇します",
+      "CN": "25秒后水位将再次上升",
+      "KR": "25초 후 수위 재상승",
+      "TW": "25秒後水位將再次上升"
+    }
   },
   "We cannot pass through the barrier! Get down!": {
-    "translation": "我们无法通过障碍物！趴下！"
+    "translation": "我们无法通过障碍物！趴下！",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁は突破できない！伏せ！",
+      "CN": "我们穿不过屏障！快趴下！",
+      "KR": "장애물을 돌파할 수 없어! 낮아져!",
+      "TW": "我們無法通過屏障！快趴下！"
+    }
   },
   "We have to press both buttons to progress": {
-    "translation": "我们必须按下两个按钮才能继续"
+    "translation": "我们必须按下两个按钮才能继续",
+    "MultiLang": {
+      "US": "",
+      "JP": "両方のボタンを押さないと進めない",
+      "CN": "我们必须同时按下两个按钮才能继续前进",
+      "KR": "둘 다 눌러야 진행 가능해",
+      "TW": "我們必須同時按下兩個按鈕才能前進"
+    }
   },
   "We need to get the water level higher": {
-    "translation": "我们需要把水位提高"
+    "translation": "我们需要把水位提高",
+    "MultiLang": {
+      "US": "",
+      "JP": "水位をもう少し上げなければならない",
+      "CN": "我们需要提高水位",
+      "KR": "물 높이를 더 올려야 해",
+      "TW": "我們需要提高水位"
+    }
   },
   "We only have about 4 minutes left to leave this place": {
-    "translation": "我们只有大约240秒的时间离开这个地方"
+    "translation": "我们只有大约240秒的时间离开这个地方",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここから出るまであと約4分だ",
+      "CN": "我们只有大约4分钟时间离开这里",
+      "KR": "이곳을 빠져나갈 시간이 4분 남았어",
+      "TW": "我們只剩下約4分鐘的時間離開這裡"
+    }
   },
   "We only have about 5 minutes left to leave this place": {
-    "translation": "我们只有大约300秒的时间离开这个地方"
+    "translation": "我们只有大约300秒的时间离开这个地方",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここから出るまであと約5分だ",
+      "CN": "我们只有大约5分钟时间离开这里",
+      "KR": "이곳을 빠져나갈 시간이 5분 남았어",
+      "TW": "我們只剩下約5分鐘的時間離開這裡"
+    }
   },
   "We should be more careful": {
-    "translation": "我们应该更加小心"
+    "translation": "我们应该更加小心",
+    "MultiLang": {
+      "US": "",
+      "JP": "もっと気をつけないと",
+      "CN": "我们应该更加小心",
+      "KR": "조심해야 해",
+      "TW": "我們應該更加小心"
+    }
   },
   "Last doors are opening": {
-    "translation": "最后的门正在打开"
+    "translation": "最后的门正在打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の扉が開いた",
+      "CN": "最后一批大门正在开启",
+      "KR": "마지막 문이 열려",
+      "TW": "最後的大門正在開啟"
+    }
   },
   "Last doors are closing in 10 seconds": {
-    "translation": "最后的门将在10秒后关闭"
+    "translation": "最后的门将在10秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の扉が10秒後に閉まる",
+      "CN": "最后一批大门将在10秒内关闭",
+      "KR": "10초 후 마지막 문이 닫혀",
+      "TW": "最後的大門將在10秒內關閉"
+    }
   },
   "Last doors are closing": {
-    "translation": "最后的门正在关闭"
+    "translation": "最后的门正在关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の扉が閉まり始めている",
+      "CN": "最后的门即将关闭",
+      "KR": "마지막 문이 닫힙니다",
+      "TW": "最後的大門即將關閉"
+    }
   },
   "Last doors closing in 5 seconds": {
-    "translation": "最后的门将在5秒后关闭"
+    "translation": "最后的门将在5秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の扉を5秒後に閉鎖",
+      "CN": "最后的门将在5秒后关闭",
+      "KR": "마지막 문 5초 후 폐쇄",
+      "TW": "最後的大門將在5秒後關閉"
+    }
   }
 }

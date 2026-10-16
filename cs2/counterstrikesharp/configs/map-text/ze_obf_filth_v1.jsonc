@@ -1,389 +1,1292 @@
 {
   "*无线电*: 干得漂亮,士兵们,看来你们顺利上列车了.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Well done, soldiers. Looks like you made it onto the train successfully.",
+      "JP": "*無線*: よくやりました、隊員諸君。無事に乗車できたようですな。",
+      "CN": "",
+      "KR": "*무선 전신*: 잘했어, 병사들. 너희가 무사히 열차에 탑승한 것 같군.",
+      "TW": "*無線電*：幹得漂亮，士兵們，看來你們順利登上列車了。"
+    }
   },
   "<Ver 1.2> 修复部分卡门导致的BUG,第一个外场空气墙消失延迟,Minigun推力小加强.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Ver 1.2> Fixed bugs causing some entities to get stuck, delayed removal of the first exterior air wall, increased Minigun thrust.",
+      "JP": "<Ver 1.2> 一部のカームにより発生するバグを修正、最初の外場空气壁消失の遅延を修正、Minigunの推力を強化。",
+      "CN": "",
+      "KR": "<Ver 1.2> 일부 맷집으로 인한 버그 수정, 첫 번째 외부 공기 벽 소멸 지연 시간 조정, 미니건 추력 강화.",
+      "TW": "<Ver 1.2> 修復部分卡門導致的BUG，第一個外場空氣牆消失延遲，Minigun推力強化。"
+    }
   },
   "*无线电*: 现在我将调整你们的行动代号为Filth.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: I am now reassigning your operation codename to Filth.",
+      "JP": "*無線*: 次に你们的行動コードを「Filth（汚物）」に調整する。",
+      "CN": "",
+      "KR": "*무선 전신*: 이제 너희의 작전 명칭을 'Filth'로 조정하겠다.",
+      "TW": "*無線電*：現在我將調整你們的行動代號為Filth。"
+    }
   },
   "<收到,长官.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Received, sir.>",
+      "JP": "<受け取った、長官。>",
+      "CN": "",
+      "KR": "<받aleza, 장관.>",
+      "TW": "<收到,長官.>"
+    }
   },
   "<呼叫指挥部,这里是代号Filth,火车已经到隧道半程了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Call headquarters, this is Code Filth. The train has reached the halfway point in the tunnel.)>",
+      "JP": "<本部へ呼び出し,私 here is フィルス,列車はトンネルの半分に到着した.>",
+      "CN": "",
+      "KR": "<본부 호출, đây가 필스의 대명호. 기차는 이미 터널 중간에 도달했음.>>",
+      "TW": "<呼叫總部指揮，這裡是代號Filth，火車已經到隧道半程了。>"
+    }
   },
   "<那头机械巨兽几乎抹去了我们一半的战士,我们需要增援.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "That mechanical behemoth nearly halved our warriors' numbers; we need reinforcement.",
+      "JP": "その機械的巨大な Monsters は私たちの半分以上の戦士を失わせた。援軍が必要だ。",
+      "CN": "",
+      "KR": "그 거대한 기계 포식자가 거의 우리 반의 전사들을消灭了我们一半的战士, 我们需要增援.我们需要增援.",
+      "TW": "那頭機械巨獸幾乎抹去了我們1半的戰士,我們需要增援."
+    }
   },
   "*无线电*: 明白了,我会派遣一支精锐部队前往你们的坐标附近.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Understood. I will dispatch an elite team to coordinates near your position.",
+      "JP": "*無線*: 了解した。貴様らの座標付近へ精鋭部隊を派遣する。",
+      "CN": "",
+      "KR": "*무선 전신*: 알겠군. 너희 좌표 근처에 정예 부대를 파견하겠다.",
+      "TW": "*無線電*：明白了，我會派遣一支精銳部隊前往你們的座標附近。"
+    }
   },
   "*无线电*: 代号Filth,关于NPST行动的协议...": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Codename Filth, regarding the NPST operation protocol...",
+      "JP": "*無線*: 行動コードFilth、NPST作戦の協議について…",
+      "CN": "",
+      "KR": "*무선 전신*: Filth 작전 명 하에, NPST 작전 관련 절차...",
+      "TW": "*無線電*：代號Filth，關於NPST行動的協議..."
+    }
   },
   "<等下,那是什么动静?>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Wait, what's that noise?>",
+      "JP": "<ちょっと待て、何の音だい?>",
+      "CN": "等下，那是什么声音？",
+      "KR": "<잠깐, 그 소리는什么呢?>",
+      "TW": "<等等，那是什麼响動?>"
+    }
   },
   "<他妈的,终究还是发生了吗..>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">Fuck, did it really happen in the end..>",
+      "JP": "他妈の、终究还是发生了嗎..",
+      "CN": "",
+      "KR": "타마의,终究还是发生了吗..",
+      "TW": "他妈的，終究還是發生了嗎.."
+    }
   },
   "*无线电*: 代号Filth,发生什么了,赶紧回复.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Codename Filth, what's happening? Respond immediately.",
+      "JP": "*無線*: 行動コードFilth、何があった？速やかに報告しろ。",
+      "CN": "",
+      "KR": "*무선 전신*: Filth 작전 명, 무슨 일이냐? 즉시 회신해.",
+      "TW": "*無線電*：代號Filth，發生什麼了，趕緊回覆。"
+    }
   },
   "<后车厢的队友被病毒异化了,他们在攻击列车!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[The teammate in the rear compartment has been virus-altered and is attacking the train!]",
+      "JP": "後ろの車両の teammate がウイルスによって異常に変化し、他们正在袭击列车！",
+      "CN": "后备厢的队友被病毒感染了，他们正在攻击列车!",
+      "KR": "후차厢의 팀원이 바이러스로 변했다. 그들은 기차를 공격하고 있다!",
+      "TW": "後車廂的隊友被病毒異化了，他們在攻擊列車!"
+    }
   },
   "<长官,你收到了吗....长官,指挥部!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Commander, did you receive it... Commander, HQ!",
+      "JP": "長官、受け取りましたか....長官、本部へ!",
+      "CN": "",
+      "KR": "장관, 받으셨나요....장관, 본부!]",
+      "TW": "長官,你收到了嗎....長官,總部!"
+    }
   },
   "<去你妈的,信号被切断了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Go to hell, signal dropped!",
+      "JP": "",
+      "CN": "去你的，信号被切断了！",
+      "KR": "<간다리가 끊겼다 !!}",
+      "TW": "去你的，信號被切斷了！"
+    }
   },
   "<所有人抓稳!我们必须让列车脱轨了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "All aboard hold tight! We need to derail the train!",
+      "JP": "全ての人間、しっかり抓めて！私たちは列車を脱軌させなければならない！>",
+      "CN": "",
+      "KR": "<모두牢牢抓紧!我们必须让列车出轨了!?>",
+      "TW": "所有人抓穩!我们必须讓列車脫軌了!"
+    }
   },
   "<我靠..我们还活着..看来还没到该死去的时候.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Wow.. We're still alive.. Seems we're not meant to die yet.|>",
+      "JP": "",
+      "CN": "",
+      "KR": "< 내가 의지... 우리는 아직 살아있구나... 죽을 때가 아직对照检查되지 않았어.>",
+      "TW": "我靠..我們還活著..看来还没到該死去的時候."
+    }
   },
   "<隧道前面已经被严重污染了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The tunnel ahead has been severely polluted.",
+      "JP": "<トンネルの先はすでに深刻な汚染に遭っています。>",
+      "CN": "隧道前方已被严重污染。",
+      "KR": "<터널 앞이 이미 심각하게 오염되었다.>>",
+      "TW": "<隧道前已嚴重受汙染。>"
+    }
   },
   "<我们得想办法绕出去,也许还能找到新的列车.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to find a way out around here; maybe we can also find a new train.",
+      "JP": "我々は外に出る方法を考えなければならず、新しい列車を見つけられるかもしれません。",
+      "CN": "",
+      "KR": "우리가eway找办法绕出去 maybe还能找到新列车 >",
+      "TW": "我們得想辦法繞出去,也許還能找到新的列車。"
+    }
   },
   "<但愿我们能挺过去.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "May we endure.",
+      "JP": "但願我們能挺過去.",
+      "CN": "",
+      "KR": "<이번에도 우리가 견디면 좋겠어.>",
+      "TW": "願我們能挺過去."
+    }
   },
   "<出发吧,士兵们,武运隆昌.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Depart, soldiers, may your arms flourish.",
+      "JP": "出発吧,士兵们,武運隆昌。",
+      "CN": "",
+      "KR": "출발합시다, 군사들, 무경장성.",
+      "TW": "出發吧,士兵們,武運隆昌。"
+    }
   },
   "<这门卡住了,去找个东西给他撬开.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This door is stuck, find something to pry it open.",
+      "JP": "この扉が開かないので、撬開用のものを探してcoming.>> <<",
+      "CN": "",
+      "KR": "<이 문이 막혀 있습니다. 다른 도구로 열 수 있는 것을 찾아보세요.>",
+      "TW": "這門卡住了,去找個東西給他撬開."
+    }
   },
   "<嗯...但愿这玩意起点作用.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Well... hoping this thing works from the start.|><br>>",
+      "JP": "<ええ…このやつで何か効果が出ることを願うよ.>>",
+      "CN": "<嗯...但愿这玩意有点用.>>",
+      "KR": "<음... 그래도 이 물건이 효과를 발휘하길 기대한다.>",
+      "TW": "<嗯...但願這玩意有點用處.>>"
+    }
   },
   "<给我点时间干开它.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Give me some time to take care of it.)",
+      "JP": "<少々お待ちください。を始める。>",
+      "CN": "给我点时间搞掂它.",
+      "KR": "<다시 도전해보는 시간을 줘.>>",
+      "TW": "<給我點時間幹開它.>>"
+    }
   },
   "<牛魔的酬宾,没电了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[Niumo's Reward, Out of Mana!]",
+      "JP": "牛魔の酬宾,没电了!",
+      "CN": "",
+      "KR": "우물-Token의 상품, 전력이 떨어졌습니다!",
+      "TW": "牛魔的酬賓,沒電了!"
+    }
   },
   "<靠边站,我要动点蛮力了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Stand aside, I'm gonna use some muscle.",
+      "JP": "<側面に退いてくれ.私は少し力を使いたい.|>> <<>",
+      "CN": "靠边站,我要用点力气了.",
+      "KR": "< 生命周期 bên cạnh, 내가 몇몇 무력을 사용해야 한다.>>",
+      "TW": "靠邊站,我要動點蠻力了."
+    }
   },
   "<正在开启大门.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Opening the door>.",
+      "JP": "<門が開かれています.>",
+      "CN": "",
+      "KR": "<문이 열리고 있습니다.>",
+      "TW": "<正在開啟大門>."
+    }
   },
   "<<< 30 >>>": {
-    "translation": "<<< 30s >>>"
+    "translation": "<<< 30s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< 20 >>>": {
-    "translation": "<<< 20s >>>"
+    "translation": "<<< 20s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< 10 >>>": {
-    "translation": "<<< 10s >>>"
+    "translation": "<<< 10s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< 05 >>>": {
-    "translation": "<<< 5s >>>"
+    "translation": "<<< 5s >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<这板车挡路了,得赶紧推开.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This cart is in the way, need to push it aside quickly.",
+      "JP": "この荷車が邪魔なので、早速外してね。",
+      "CN": "",
+      "KR": "이 카트가 길을 차지하고 있어 빨리 밀어내야 한다.",
+      "TW": "這板車挡路了,得赶紧推开."
+    }
   },
   "<呼...这玩意还挺重的..>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Hehe... This thing is quite heavy....>",
+      "JP": "<呼吸…このやつ結構 Heavy…>",
+      "CN": "<呼……这玩意还挺沉的……>",
+      "KR": "<호..., 이 물건이挺重的...>",
+      "TW": "<呼...這玩意還挺重的..>"
+    }
   },
   "<那些是..同盟的直升机?>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Those are... the allies' helicopters?",
+      "JP": "Those are...同盟的直升机?",
+      "CN": "",
+      "KR": "그those는... 동맹의 helicopter?",
+      "TW": ""
+    }
   },
   "<不行,得加快脚步了..>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<No time to waste, need to hurry up>",
+      "JP": "不行、速度 harusagi  NEED TO BE FASTER..",
+      "CN": "",
+      "KR": "",
+      "TW": "不行,得加快腳步了.."
+    }
   },
   "*???*: 我们正在离开收容区.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*???*: We are evacuating the containment zone.",
+      "JP": "*???*: 収容区域から離脱中。",
+      "CN": "",
+      "KR": "*???*: 저희가 격리 구역을 떠납니다.",
+      "TW": "*??*：我們正在離開收容區。"
+    }
   },
   "*???*: 收容计划已失效,重复,收容计划已失效.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*???*: Containment protocol is no longer in effect. Repeat, containment protocol is no longer in effect.",
+      "JP": "*???*: 収容計画は無効、繰り返し、収容計画は無効。",
+      "CN": "",
+      "KR": "*???*: 격리 계획 무효, 반복합니다. 격리 계획 무효.",
+      "TW": "*??*：收容計劃已失效，重複，收容計劃已失效。"
+    }
   },
   "*???*: ..化合物已经彻底破坏,结束通话.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*???*: The compound is completely compromised. End transmission.",
+      "JP": "化合物は完全に分解した。通話を終了する。",
+      "CN": "",
+      "KR": "*???*: ..化合物이 완전히 파괴되었습니다. 전화를 끊겠습니다.",
+      "TW": "*???*：化合物已徹底破壞，結束通訊。"
+    }
   },
   "<原来是他们干的..可恶..他们到底是什么人.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[It's them... Damn... Who are they, really.]",
+      "JP": "",
+      "CN": "",
+      "KR": "<원래他们是干的..可恶..他们到底是什么人.>",
+      "TW": "原來是他們幹的..可惡..他們到底是什么人."
+    }
   },
   "<有一批武装人员从直升机下来了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">> There is a group of armed personnel landing from the helicopter! <<",
+      "JP": "<武装人員がヘリコプターから降車しました!]",
+      "CN": "",
+      "KR": "한helicopter에서一批武装人员下来了!",
+      "TW": "<有1批武裝人員從直升機下來了!>"
+    }
   },
   "<应该就是总部口中的精锐部队了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Should be the elite force mentioned by headquarters.",
+      "JP": "应该是本部所说的精锐部队了.",
+      "CN": "应该是总部所说的精锐部队了.",
+      "KR": "",
+      "TW": "應該就是總部口中的眼鏡 Squad 了."
+    }
   },
   "<..你们刚从一座大楼逃出来了?那一定是场恶战吧.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "You just escaped from a building? That must have been a tough battle.",
+      "JP": "..あなたたちは剛から一 building 逃げ出しましたね。それほど激戦だったのかもしれませんね。",
+      "CN": "",
+      "KR": "",
+      "TW": "<..你們剛從1座大樓逃出来了?那1定是1場惡戰吧.>"
+    }
   },
   "<你们应该也有行动代号..代号Vertigo?我没猜错吧.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "You should have an operational code name... Code Name Vertigo? I didn't guess wrong, did I.?",
+      "JP": "あなたたちも行動代号があるよね..代号Vertigo?間違っていない hopefully.",
+      "CN": "",
+      "KR": "",
+      "TW": "你們應該也有行動代號..代號Vertigo?我没猜错吧."
+    }
   },
   "<看来不爱说话啊,罢了,任务重要.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Seems you don't like talking much. Well, the task is important.>>",
+      "JP": "看来不爱说话啊, 罢了, タスク重要.",
+      "CN": "",
+      "KR": "<말이 적네 봤대,嗐, 임무가 중요해.>",
+      "TW": "看来不爱說話啊,罷了,任務重要."
+    }
   },
   "<小心点,那桶化合物泄露了,从管道绕过去.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Be careful, that compound spilled, go around the pipe.",
+      "JP": "<気をつけて、その化合物が漏れた-barrel-から管を回って行こう。>>",
+      "CN": "",
+      "KR": "<주의를 기울여, 그 화합물이 새어나갔다. 파이프를 피해서 지나가도록.>",
+      "TW": "<小心點，那桶化學物泄漏了，從管道繞過去.>>"
+    }
   },
   "*无线电*: 这个是..代号Filth?": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: This is... Call sign Filth?",
+      "JP": "これは…コードネームFilth？",
+      "CN": "",
+      "KR": "*무전*: 이것은.. Filth 부대인가요?",
+      "TW": "*無線電*：這裡是……代號Filth？"
+    }
   },
   "*无线电*: 不敢相信你们都还活着.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Can't believe you're all still alive.",
+      "JP": "全員が生きているとは信じられない。",
+      "CN": "",
+      "KR": "*무전*: 다들 살아 있어 믿기 어렵군요.",
+      "TW": "*無線電*：真不敢相信你們還活著。"
+    }
   },
   "<我们跟增援汇合了,我们要怎么离开这里,长官.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We've met up with the reinforcements, sir. How do we get out of here?",
+      "JP": "<増援が合流しました、ここからどうするべきですか、長官．>",
+      "CN": "",
+      "KR": "<우리와 지원군이 합류했습니다, 여기서 어떻게 탈출할지 장관,>",
+      "TW": "我們跟增援匯合了,我们要怎麼離開這裡,長官."
+    }
   },
   "*无线电*: 我们在尝试重新定位你们的坐标,坚持下去!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: We are trying to re-acquire your coordinates. Hold on!",
+      "JP": "座標の再特定を試みている。持ちこたえて！",
+      "CN": "",
+      "KR": "*무전*:你们的 좌표를 다시 찾는 중입니다! 버티세요!",
+      "TW": "*無線電*：我們正嘗試重新定位你們的座標，堅守崗位！"
+    }
   },
   "*无线电*: 去更开阔的地方联系我们,祝你们好运.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Move to a more open area and contact us again. Good luck.",
+      "JP": "より開けた場所で連絡せよ。幸運を祈る。",
+      "CN": "",
+      "KR": "*무전*: 더 넓은 공간으로 나가서 연락하세요. 행운을 빕니다.",
+      "TW": "*無線電*：前往更開闊的地方重新聯絡，祝你們好運。"
+    }
   },
   "<大门即将解锁.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will unlock soon.",
+      "JP": "門が既に解錠されます.",
+      "CN": "",
+      "KR": "<대문이 곧 잠금해제될 예정입니다.>",
+      "TW": "大门即將解鎖."
+    }
   },
   "<正在解锁大门.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Unlocking door now>.",
+      "JP": "<ゲートを開錠中.>",
+      "CN": "",
+      "KR": "<문을 해제 중입니다.>",
+      "TW": "<正在解鎖大门.*>"
+    }
   },
   "<我们是没法进那个电力室了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We can't go into that power room anymore.",
+      "JP": "我々はあの電力室に入ることはできなさそうだ。",
+      "CN": "我们无法进入那个电力室了.",
+      "KR": "우리는 그 전기실에 들어갈 수 없으나.",
+      "TW": "我們是無法進那個電力室了."
+    }
   },
   "<用枪打碎那个玻璃吧,给里面控制台来上一梭子.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Use the gun to shatter that glass and dump a magazine into the console inside.",
+      "JP": "用銃でそのガラスを砕き、中にあるコントロールボックスに一発撃ち込む。",
+      "CN": "",
+      "KR": "<총으로 그 유리打破吧,裡面的控制台來個連發。>",
+      "TW": "用槍打碎那個玻璃吧,給裡面控制台來上1梭子."
+    }
   },
   "<啊哈!打中了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Ah! Hit!",
+      "JP": "<あ呵！命中した。>",
+      "CN": "",
+      "KR": "아하! 맞췄다.",
+      "TW": ""
+    }
   },
   "准备行动": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Prepare for action",
+      "JP": "行動準備完了",
+      "CN": "",
+      "KR": "작전 준비",
+      "TW": "準備行動"
+    }
   },
   "门正在开启": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Door is opening",
+      "JP": "ドアが開き始める",
+      "CN": "",
+      "KR": "문 열림",
+      "TW": "門正在開啟"
+    }
   },
   "<正在重启电梯..>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Restarting elevator..>",
+      "JP": "<エレベーターを再起動中..>",
+      "CN": "",
+      "KR": "<엘리베이터를 재시작 중..>",
+      "TW": "<正在重新啟動電梯..>"
+    }
   },
   "<坏了,这电梯不运作啊!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Shit, this elevator isn't working!]",
+      "JP": "<壊れたな、このエレベーター動かないよ！>",
+      "CN": "",
+      "KR": "<📐, 이 엘리베이터가 작동하지 않아!]",
+      "TW": "<坏了,這電梯不运作啊!>"
+    }
   },
   "<那些僵尸正在扒开电梯门!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Those zombies are tearing at the elevator door!",
+      "JP": "那些ゾンビはエレベーターの扉をあけています!",
+      "CN": "",
+      "KR": "<그those僵尸正在扒开电梯门!>",
+      "TW": "那些殭屍正在扒開電梯門!"
+    }
   },
   "<我把电梯底板踹烂了,快跳下去!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "I kicked the elevator floor open, jump now!",
+      "JP": "elevatorの床を破壊したので早く跳ねろ!",
+      "CN": "",
+      "KR": "<나는 엘리베이터 바닥을 찼어, 빨리下去=!>",
+      "TW": "我把電梯底板踹爛了,快跳下去!"
+    }
   },
   "<按下那个按钮关上门!应该能拖住他们一会.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Press that button to shut the door! Should buy us some time.",
+      "JP": "<<押してそのボタンで扉を閉める！少しは Buying時間ができるだろう．>>",
+      "CN": "点击那个按钮关门！应该能拖住他们1会儿.",
+      "KR": "<그 버튼을 누르고 문을 닫아! 잠시는对他们拖住吧.>>",
+      "TW": "按下那個按鈕關上門！應該能拖住他們1會。"
+    }
   },
   "<正在关闭电梯门.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Elevator doors closing>|>",
+      "JP": "<エレベーター Doors are closing.>",
+      "CN": "",
+      "KR": "<엘리베이터 문을 닫고 있습니다.>",
+      "TW": "<正在關閉電梯門.>"
+    }
   },
   "<这破铁疙瘩撑不了多久的.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This rusty piece of junk won't last long.",
+      "JP": "この破りきずたはあくまで一時的なものだ.",
+      "CN": "",
+      "KR": "<이这种方式撑不了多久的.>",
+      "TW": "這破鐵疙瘩撐不了久的."
+    }
   },
   "<我们从厕所绕过去.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We go around via the bathroom.",
+      "JP": "<トイレ側から绕って行きます。>",
+      "CN": "",
+      "KR": "<우리 화장실 쪽으로 갑시다.>",
+      "TW": "我們從廁所繞過去。"
+    }
   },
   "<正在强行打开这扇门.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Forcing open this door>.",
+      "JP": "<この扉を強制的に開けている中.>>",
+      "CN": "",
+      "KR": "<이 문을 강제로 열고 있습니다.*>*",
+      "TW": "<正在强行打開這扇門.>"
+    }
   },
   "<给我点时间...>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Give me some time...>",
+      "JP": "<少し時間が必要です...>",
+      "CN": "",
+      "KR": "<간단히 시간을 주세요...>",
+      "TW": "<給我點時間...>"
+    }
   },
   "<看来只能从下水口穿过去了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "It seems we can only pass through the drain.",
+      "JP": "看来只能从下水道过去。",
+      "CN": "看来只能从下水道过去。",
+      "KR": "<보아하니唯有下水道可以通行.>",
+      "TW": "<看来只能從下水道過过去了.>>"
+    }
   },
   "<应该差不多了,做好准备!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">> Should be about ready, get prepared!<<",
+      "JP": "べき差不多了, 準備做好!",
+      "CN": "差不多了，做好准备！",
+      "KR": "<약간의 시간이 더 필요하지만, 준비를 마)__完成翻译，请继续。>",
+      "TW": "應該差不多了,做好準備!"
+    }
   },
   "<正在试着打开这扇门..>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Trying to open this door..>",
+      "JP": "<この扉を開こうとしている..\" >",
+      "CN": "",
+      "KR": "<이 문을 열려고 시도중...>",
+      "TW": "<正在試著打開這扇門..>"
+    }
   },
   "<快进来,门在关闭!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Come in fast, the door is closing!>",
+      "JP": "<早く入って来い、扉が閉まってる！>",
+      "CN": "快进来，门在关闭！",
+      "KR": "<빨리 들어와, 문이 닫히고 있다!]",
+      "TW": "<快進來，門在關閉！>"
+    }
   },
   "<尝试重启这门的动力..>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Trying to restart this one...>",
+      "JP": "<試験的に再起動する気力...>",
+      "CN": "",
+      "KR": "<이 문을 재시도하는 힘...>",
+      "TW": "<試圖重新啟動這門的動力..>"
+    }
   },
   "<这会花不少时间..给我坚持住!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This will take some time... Hold on for me!",
+      "JP": "これは時間がかかるよ…我だいたい耐えて!\");",
+      "CN": "",
+      "KR": "<이게 좀 시간이 걸릴 거다... 네가 버텨내!\" >",
+      "TW": "這會花不少時間..給我堅持住!"
+    }
   },
   "*无线电*: 代号Filth,你们已经接近中转站了.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Call sign Filth, you are approaching the transit station.",
+      "JP": "コードネームFilth、你們は中継駅に近づいている。",
+      "CN": "",
+      "KR": "*무전*: Filth 부대, 여러분이 중계소에 가까워지고 있습니다.",
+      "TW": "*無線電*：代號Filth，你們已接近中轉站。"
+    }
   },
   "*无线电*: 就在后院工厂外面.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Just outside the backyard factory.",
+      "JP": "*無線*: もう裏庭の工場外だ",
+      "CN": "",
+      "KR": "*무선*: 마당 뒤편 공장 바로 바깥이야.",
+      "TW": "*無線電*: 就在後院工廠外面。"
+    }
   },
   "*无线电*: 记住,绝对不能让病毒一起逃跑.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Remember, absolutely do not let those viruses escape together.",
+      "JP": "*無線*: 忘れるな、ウイルスを逃げさせてはならん",
+      "CN": "",
+      "KR": "*무선*: 명심해, 절대 그 바이러스들을 함께 도망치게 해서는 안 돼.",
+      "TW": "*無線電*: 記住，絕對不能讓病毒一起逃跑。"
+    }
   },
   "*无线电*: 不惜一切代价,结束通话.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: At all costs, end the call.",
+      "JP": "*無線*: あらゆる犠牲を払ってでも、会話を終わらせろ",
+      "CN": "",
+      "KR": "*무선*: 어떤 수를 써서든, 통화를 종료해야 해.",
+      "TW": "*無線電*: 不惜一切代價，結束通話。"
+    }
   },
   "<快进来!我要关上这个门了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Come in fast! I'm going to close this door!",
+      "JP": "<早く入って来な！このドア closing 时だ！>",
+      "CN": "快来里面!我要关门了!",
+      "KR": "<快来吧! 문을 닫으려고doing so now.!>",
+      "TW": "快進來!我要關上這個門了!"
+    }
   },
   "*无线电*: 代号Filth,我定位到你们的位置了.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Code name Filth, I have located your position.",
+      "JP": "*無線*: コード名フィルス、貴様方の位置を特定した",
+      "CN": "",
+      "KR": "*무선*: Filth 호출부호, 너희 위치를 확인했어.",
+      "TW": "*無線電*: 代號Filth，我定位到你們的位置了。"
+    }
   },
   "*无线电*: 你们所在区域有中转站,刚好有一辆未启动的列车.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: There is a transit station in your area, with an idle train just waiting.",
+      "JP": "*無線*: その区域内に中継所がある。ちょうど運転していない列車が一両ある",
+      "CN": "*无线电*: 你们所在的区域有1个转运站，正好有1列未启动的列车。",
+      "KR": "*무선*: 너희가 있는 구역에 환승역이 있고, 시동을 걸지 않은 열차가 한 대 준비되어 있어.",
+      "TW": "*無線電*: 你們所在區域有中轉站，剛好有一輛未啟動的列車。"
+    }
   },
   "*无线电*: 去搭乘列车继续你们的任务,位置发到面板上了.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Take the train to continue your mission. The location has been sent to your display.",
+      "JP": "*無線*: その列車に乗り、任務を続行せよ。位置はパネルに表示した",
+      "CN": "",
+      "KR": "*무선*: 그 열차를 타고 임무를 계속 진행해. 위치는 패널에 보냈어.",
+      "TW": "*無線電*: 去搭乘列車繼續你們的任務，位置發到面板上了。"
+    }
   },
   "*无线电*: 但是,切记,你不能让那些病毒一起出去.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: However, remember strictly, you cannot let those viruses escape together.",
+      "JP": "*無線*: しかし、忘れずに、ウイルスを一緒に逃げさせてはならん",
+      "CN": "",
+      "KR": "*무선*: 하지만 명심해,那些 바이러스들을 함께 밖으로 내보내서는 안 돼.",
+      "TW": "*無線電*: 但是，切記，你不能讓那些病毒一起出去。"
+    }
   },
   "*无线电*: 虽然很艰巨,但是你必须就地摧毁他们,结束通话.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Although it is a daunting task, you must destroy them on-site. End the call.",
+      "JP": "*無線*: 困難極まりないが、現地での破壊を命じる。これを以て会話を終わらせる",
+      "CN": "",
+      "KR": "*무선*: 힘들겠지만, 현장에서 즉시 그들을 파괴해야 해. 통화를 끝내야 해.",
+      "TW": "*無線電*: 雖然很艱巨，但是你必須就地摧毀他們，結束通話。"
+    }
   },
   "<他们准备攻破这里了,准备撤离!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "They are preparing to break through here, prepare to evacuate!",
+      "JP": "彼らはここを攻めようとしているので、準備して避難しなさい!",
+      "CN": "",
+      "KR": "그들은 여기를 공격할 준비가 되었다, 철수 준비!/>>",
+      "TW": "他们準備攻破這裡了,準備撤離!"
+    }
   },
   "<正在关闭01号大门.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Closing Gate 01>.",
+      "JP": "<01号大门正在关闭中.>",
+      "CN": "",
+      "KR": "<01호 문을 닫고 있습니다.>>",
+      "TW": "<正在關閉01號大門.>"
+    }
   },
   "<正在打开02号大门...>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Opening Gate 02...",
+      "JP": "<02号大门を開いている中...>",
+      "CN": "",
+      "KR": "<02호 문을 열고 있습니다...>",
+      "TW": "<正在打開02號大門...>"
+    }
   },
   "<等下,电源被他们切断了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">> Next, power has been cut off by them!",
+      "JP": "<待て、電源が切断された!]",
+      "CN": "",
+      "KR": "<잠시, 전원이 차단되었습니다!]",
+      "TW": "等下,電源被他們切斷了!"
+    }
   },
   "<应该会有备用电源,给我拖住他们!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "There should be an emergency power source, buy me some time!",
+      "JP": "<予備電源があるはずだ、彼らを待たせろ！>",
+      "CN": "",
+      "KR": "<예备份 应该 有 备用 电源, 我 来 拖住 他们!>>",
+      "TW": "應該會有備用電源,給我拖住他們!"
+    }
   },
   "<02号大门启动了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate No.2 has been activated!",
+      "JP": "02号ゲートが動いた！",
+      "CN": "第2号大门启动了!",
+      "KR": "<2호 문이 작동開始翻译>",
+      "TW": "02號大門啟動了!"
+    }
   },
   "<..前面到处都是化合物.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "..<..Compounds are everywhere in front.>>",
+      "JP": "前には化合物が随处可见。",
+      "CN": "",
+      "KR": "..<전면에 화합물들이 널려 있어>.",
+      "TW": "前面 Everywhere 都 是 化合物 Compounds ."
+    }
   },
   "<看来得搭个快车了,赶紧启动这玩意.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Looks like we need a ride. Better get this going fast.",
+      "JP": "",
+      "CN": "",
+      "KR": "<빠른 교통수단을 이용해야겠어, 빨리 이것을 작동시켜야 해.>>",
+      "TW": "看来得搭個快車了,赶紧啟動這玩意。"
+    }
   },
   "<就差一点了..>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Just a little more..>",
+      "JP": "＜あと少しだ..'＞",
+      "CN": "",
+      "KR": "",
+      "TW": "就差1點了.."
+    }
   },
   "<快跑!他们要爬上来了！>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Run fast! They're climbing up!",
+      "JP": "<急げ！彼らが上ってくるぞ！>",
+      "CN": "",
+      "KR": "",
+      "TW": "快跑!他們要爬上來了！"
+    }
   },
   "<你先别急,这要花点时间...>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Don't rush this will take some time...>",
+      "JP": "<あなたは急いでもらいません。これには時間が必要です...>",
+      "CN": "",
+      "KR": "<너 먼저 서두르지 마세요, 이건 시간이 걸리겠어요...>",
+      "TW": "你先別急，這要花點時間..."
+    }
   },
   "<动作快点,都给我滚上火车头!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Action quickly, all of you get on the locomotive!",
+      "JP": "動作を早めて、全員が車頭に乗れ!",
+      "CN": "<快行动,全都给我挤上火车头!]",
+      "KR": "행동快来点,都给我滚上火车头!",
+      "TW": "動作快點,都給我擠上火車頭!"
+    }
   },
   "<我往载货的车厢连接处按了炸弹!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<I planted a bomb at the connection of the cargo cars!]",
+      "JP": "<荷物を積んだ車両の接合部に爆弾をセットした!]",
+      "CN": "我把炸弹按在载货的车厢连接处!",
+      "KR": "<폭탄을 수송차량 연결부분에 설치Did!]",
+      "TW": "我往載貨的車廂連接處按了炸彈!"
+    }
   },
   "<不用管车厢的僵尸,他们会跟这工厂一起下地狱!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Don't worry about the zombies in the carriage; they'll go to hell with this factory!",
+      "JP": "車内のゾンビは気にしないで、彼らも工場と一緒におびえの地に降りていこう！",
+      "CN": "",
+      "KR": "<열차厢的僵尸不用管,他们会和这工厂一起下地狱!>",
+      "TW": "不用管車廂的殭屍，他們會跟這工厂1起下地獄!"
+    }
   },
   "<准备引爆!给我下地狱吧!哈哈哈!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Prepare to detonate! Go to hell! Haha!",
+      "JP": "準備爆発させろ！私が地獄へ行きなさい！ハハハ！",
+      "CN": "",
+      "KR": "준비해라 폭발시킬 것이야! 넌 저승으로 가거라! hysteria hysteria!",
+      "TW": "準備引爆!給我下地獄吧!哈哈哈!"
+    }
   },
   "<总部,我们引爆了工厂和病毒并成功脱身,任务完成!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[Headquarters, we detonated the factory and the virus and successfully evacuated, task completed!]",
+      "JP": "总部、工場とウイルスを爆破し成功して脱出しました！任務完了！",
+      "CN": "",
+      "KR": "<본부, 우리는 공장을 폭파하고 바이러스를 터뜨리고 성공적으로 탈출했습니다. 임무 완료!>",
+      "TW": "<總部，我們引爆了工廠和病毒並成功脱身，任務完成！>"
+    }
   },
   "*无线电*: 干得漂亮代号Filth,我以为又要失去一批优秀的战士..": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Nice work, Codename Filth. I thought we'd lost another batch of excellent soldiers...",
+      "JP": "*無線機*: よくやった、コードネームフィルス。優秀な戦士たちを失うところだったよ…",
+      "CN": "",
+      "KR": "*무선전*: 잘했어, Filth 코드. 나는 또优秀的한 전사들을 잃을 줄 알았어..",
+      "TW": "*無線電*: 做得好，代號Filth。我以為又要失去一批優秀的戰士……"
+    }
   },
   "*无线电*: 因为代号Vertigo,全军覆没.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Because of Codename Vertigo, the entire unit was wiped out.",
+      "JP": "*無線機*: コードネームベルティゴの部隊、全滅。",
+      "CN": "",
+      "KR": "*무선전*: 코드 Vertigo, 전군 멸망.",
+      "TW": "*無線電*: 因為代號Vertigo，全軍覆沒。"
+    }
   },
   "*无线电*: 僵尸击垮了生锈的信号塔,摧毁了惟一的救援.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: The zombies took down the rusted signal tower, destroying our only chance of rescue.",
+      "JP": "*無線機*: ゾンビが錆びついた信号塔を破壊し、唯一の救援手段も潰滅させた。",
+      "CN": "*无线电*: 僵尸推翻了锈蚀的信号塔，摧毁了唯1的救援。",
+      "KR": "*무선전*: 좀비들이 녹슨 신호탑을 무너뜨려, 유일한 구조 구원을 파괴했다.",
+      "TW": "*無線電*: 殭屍擊垮了生鏽的信號塔，摧毀了唯一的救援。"
+    }
   },
   "<什么!这...这不可能,那我们的增援部队是..>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "What! This... This is impossible. So our reinforcement troops are...",
+      "JP": "何か! この...これは不可能だ、それじゃ私たちの補給隊は...",
+      "CN": "",
+      "KR": "<무슨! 이...이 불가능해, 그러면 우리 지원군은...>",
+      "TW": "什麼！這...這不可能，那我們的增援部隊是.."
+    }
   },
   "*无线电*: ..他们是代号Reescape,是NPST行动成败的关键..": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: ..They are Codename Reescape, the key to the success or failure of Operation NPST..",
+      "JP": "*無線機*: …彼らはコードネース『リーエスケープ』、NPST作戦の成否を握る鍵だ。",
+      "CN": "",
+      "KR": "*무선전*: ..그들은 코드 Reescape, NPST 작전의 성패를 가르는 핵심..",
+      "TW": "*無線電*: ……他們是代號Reescape，是NPST行動成敗的關鍵……"
+    }
   },
   "<报告总部,已经承接代号Filth的遗志.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Report headquarters, we have taken up the legacy of code name Filth.",
+      "JP": "報告本部、すでに代號Filthの遺志を継承した。",
+      "CN": "",
+      "KR": "<본부로 보고,代言号Filth的遗志已承接完毕.>",
+      "TW": "報告總部,已經承接代號Filth的遺志."
+    }
   },
   "*无线电*: 收到了,代号Rescape,NPST在等你们.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Copy that, Codename Rescape. NPST is awaiting your arrival.",
+      "JP": "*無線機*: 了解、コードネームリスケープ、NPSTが待っている。",
+      "CN": "",
+      "KR": "*무선전*: 수신, 코드 Rescape, NPST가 여러분을 기다립니다.",
+      "TW": "*無線電*: 收到了，代號Rescape。NPST在等你們。"
+    }
   },
   "<列车长,全速前进!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[Train Conductor, full speed ahead!]",
+      "JP": "列車長、最高速で進みます！",
+      "CN": "",
+      "KR": "<열차장, 최대 속도로前行!*>>",
+      "TW": "<火車長，全速前進！>"
+    }
   },
   "-- 检测到 低于38个人 存活 --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "-- Detected fewer than 38 survivors --",
+      "JP": "-- 生存者 38名未満を検出 --",
+      "CN": "",
+      "KR": "-- 38명 미만 생존 확인 --",
+      "TW": "-- 檢測到存活人數低於38人 --"
+    }
   },
   "<长官..我们人员损失惨重...>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Commander... We suffered heavy casualties...",
+      "JP": "長官..人員損失甚鉅...",
+      "CN": "",
+      "KR": "장관... 우리 팀 손실이 심각합니다...",
+      "TW": "長官..我們人員損失慘重..."
+    }
   },
   "-- 结局: 尘归尘,土归土. --": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "-- Ending: Dust to dust, ashes to ashes. --",
+      "JP": "-- 結末: 塵は塵に還る、土は土に還る。 --",
+      "CN": "",
+      "KR": "-- 엔딩: 먼지는 먼지로, 흙은 흙으로 돌아간다. --",
+      "TW": "-- 結局：塵歸塵，土歸土。 --"
+    }
   },
   "<...但是,我们会竭尽全力完成使命.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<...But we will do our utmost to complete the mission.>",
+      "JP": "<...しかし、私たちはmissionを全力で果たそうとする。>",
+      "CN": "",
+      "KR": "<...하지만, 우리는 임무를 최선을 다해 수행할 것입니다.>",
+      "TW": "<...但是,我們會竭盡全力完成使命.>"
+    }
   },
   "<代号Filth,通话结束...(挂断)>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[Code Filth, Call Ended... (Hang Up)]",
+      "JP": "代号Filth,通話終了...(切断)",
+      "CN": "",
+      "KR": "[대호Filth, 통화종료...(/Area Out)]",
+      "TW": "代號Filth，通話結束...(挂斷)"
+    }
   },
   "<该死啊,我们失去太多战友了...>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it, we've lost too many comrades...",
+      "JP": "该死啊,私たちが失った戦友が多い...]",
+      "CN": "",
+      "KR": "該死아, 우리는太多的战友失去了...",
+      "TW": "該死啊，我們失去太多戰友了..."
+    }
   },
   "<恐怕..是没法拖到炸弹爆炸了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[Fearfully... it can't be dragged until the bomb explodes.]",
+      "JP": "恐らく…爆弾が爆発するまで待てない Возможно... не получится дождаться взрыва бомбы.",
+      "CN": "",
+      "KR": "",
+      "TW": "恐怕..<eways>是没法拖到炸弹爆炸了.</ways>"
+    }
   },
   "<只有一个办法去完成任务了.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<The only way to complete the task is this.>>",
+      "JP": "しかない方法がある。",
+      "CN": "",
+      "KR": "<한 가지 방법밖에 없어.Task를 완료할 수 있다.>",
+      "TW": "[只能用這個方法來完成任務.]"
+    }
   },
   "<不惜一切代价!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": ">> At all costs!",
+      "JP": "<何が ook でも!!>",
+      "CN": "",
+      "KR": "<모든 것을 포기하지 않고!]",
+      "TW": "不惜1切代價!"
+    }
   },
   "<工厂电源在重启了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Factory power rebooting!",
+      "JP": "<工場電源が再起動しました！>",
+      "CN": "工厂电源重启中!",
+      "KR": "[공장 전원이 재시작 중!]",
+      "TW": ".Factory電源已重新啟動!"
+    }
   },
   "<大概要60秒恢复电力.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Approximately 60 seconds to recharge power.",
+      "JP": "約60秒で電力を回復します。",
+      "CN": "大约需要60秒恢复电力.",
+      "KR": "<약 60초로 전력을 회복합니다.>",
+      "TW": "<大概要60秒恢復電力.>>"
+    }
   },
   "<士兵们,死守阵线!.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Soldiers, hold the line!",
+      "JP": "兵士たち、陣線を死守せよ.!",
+      "CN": "士兵们，死守阵地!",
+      "KR": "군人们,固守阵地!",
+      "TW": "士兵們,死守陣線!."
+    }
   },
   "<电力接通了!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Power connected!",
+      "JP": "電力接通了!",
+      "CN": "",
+      "KR": "<전기가 들어왔습니다!]",
+      "TW": "電力接通了!"
+    }
   },
   "<已经无路可退了...>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Already no way to retreat...",
+      "JP": "すでに後ろに道はなく...",
+      "CN": "",
+      "KR": "< 이미 도로가 없어졌나...>",
+      "TW": "已經無路可退了..."
+    }
   },
   "<..这是我们最后一战.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This will be our final battle.",
+      "JP": "これは最後の戦いだ。<..",
+      "CN": "",
+      "KR": "이것은 우리 마지막 전투입니다.",
+      "TW": "這是我們最後1戰."
+    }
   },
   "*无线电*: 你们需要去重启工厂电源.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: You need to restart the power supply at the factory.",
+      "JP": "*無線機*: 工場への電力供給を再開始する必要がある。",
+      "CN": "",
+      "KR": "*무선전*: 공장 전원을 재시동해야 합니다.",
+      "TW": "*無線電*: 你們需要去重啟工廠電源。"
+    }
   },
   "<别让这些锌渣逃出去...一起他妈下地狱吧!>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Don't let these zinc slag escape... Let them all go to hell!",
+      "JP": "THESE 鉛渣 别想跑出去...一起 下地獄去吧!",
+      "CN": "",
+      "KR": "< näm니这些东西不要逃出去...一起下去见鬼去吧!>",
+      "TW": "別讓這些錦渣逃出去...1起他媽下地獄吧!"
+    }
   },
   "*无线电*: 电源接通了我才能远程预热炸弹.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: I need the power on to remotely preheat the bombs.",
+      "JP": "*無線*: 電源が入って初めて、爆弾を遠隔から予熱できます。",
+      "CN": "",
+      "KR": "*무선 통신*: 전원이 연결되어야 원격으로 폭탄을 예열할 수 있습니다.",
+      "TW": "*無線電*：電源接通後，我才能遠程預熱炸彈。"
+    }
   },
   "<< 最后50秒... >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< 50 seconds remaining... >>",
+      "JP": "<< 残り50秒... >>",
+      "CN": "",
+      "KR": "<< 마지막 50초... >>",
+      "TW": "<< 倒數最後50秒... >>"
+    }
   },
   "*无线电*: 把大门防守住,直到你们上火车能刚好引爆.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*Radio*: Hold the gate until your train departs and triggers the explosion.",
+      "JP": "*無線*: 列車に揺られる直前まで、門を防衛してください。",
+      "CN": "*无线电*: 把大门守好，等到你们上火车刚好引爆。",
+      "KR": "*무선 통신*: 열차에 탑승해서 폭탄을 정확하게引爆할 수 있을 때까지 문을 지켜주세요.",
+      "TW": "*無線電*：守住大門，直到你們上車並及時引爆。"
+    }
   },
   "<能跟你们战斗是我毕生的荣幸.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<It is my lifelong honor to fight with you.>",
+      "JP": "能とあなた方戦闘できるのは一生の幸いです.",
+      "CN": "<能跟你们战斗是我的1生之荣.>>",
+      "KR": "<우리와 싸울 수 있어 평생의 영광이었어요.>>",
+      "TW": "<能跟你們战斗是我畢生的榮幸.>>"
+    }
   },
   "<愿我们...在另一个世界相见吧.>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "May we meet again in another world.",
+      "JP": "<別の世界で再会できるように。>",
+      "CN": "",
+      "KR": "<우리...... 다른 세상에서 만나리라.>",
+      "TW": "願我們...在另1個世界相見吧."
+    }
   },
   "<Ver 1.3> Minigun重置,管道触发修改等.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<Ver 1.3> Minigun reset, pipe trigger adjustments, etc.",
+      "JP": "<Ver 1.3> ミニガンのリセット、パイプトリガーの変更など。",
+      "CN": "<Ver 1.3> 缔造者机枪重置，管道触发修改等",
+      "KR": "<Ver 1.3> 미네건 리셋, 파이프 트리거 수정 등.",
+      "TW": "<Ver 1.3> 迷你槍重置、管道觸發修改等。"
+    }
   }
 }

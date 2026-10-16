@@ -1,89 +1,292 @@
 {
   "1": {
-    "translation": "1"
+    "translation": "1",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "2": {
-    "translation": "2"
+    "translation": "2",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "3": {
-    "translation": "3"
+    "translation": "3",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "4": {
-    "translation": "4"
+    "translation": "4",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "5": {
-    "translation": "5s"
+    "translation": "5s",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "GO!": {
-    "translation": "走！"
+    "translation": "走！",
+    "MultiLang": {
+      "US": "",
+      "JP": "GO!",
+      "CN": "GO!",
+      "KR": "시작!",
+      "TW": "GO！"
+    }
   },
   "Get in the kart now!": {
-    "translation": "快上卡丁车！"
+    "translation": "快上卡丁车！",
+    "MultiLang": {
+      "US": "",
+      "JP": "今すぐカートに乗れ！",
+      "CN": "Get in the kart now!",
+      "KR": "지금 바로 차에 타세요!",
+      "TW": "立刻上卡丁車！"
+    }
   },
   "Get on the airship now!": {
-    "translation": "快上飞艇！"
+    "translation": "快上飞艇！",
+    "MultiLang": {
+      "US": "",
+      "JP": "今すぐ飛行船に乗れ！",
+      "CN": "Get on the airship now!",
+      "KR": "비행선으로 곧장 이동하세요!",
+      "TW": "立刻登上飛空艇！"
+    }
   },
   "Look out the zombies on the street.": {
-    "translation": "小心街上的僵尸。"
+    "translation": "小心街上的僵尸。",
+    "MultiLang": {
+      "US": "Watch out for zombies on the street.",
+      "JP": "街のゾンビに注意だ。",
+      "CN": "Look out the zombies on the street.",
+      "KR": "거리의 좀비에 주의를 기울이세요.",
+      "TW": "注意街上殭屍的動態。"
+    }
   },
   "Mission compelet.": {
-    "translation": "任务完成。"
+    "translation": "任务完成。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミッション完了。",
+      "CN": "Mission compelet.",
+      "KR": "임무 완료.",
+      "TW": "任務完成。"
+    }
   },
   "NUKE!": {
-    "translation": "核弹！"
+    "translation": "核弹！",
+    "MultiLang": {
+      "US": "",
+      "JP": "NUKE!",
+      "CN": "NUKE!",
+      "KR": "핵폭발!",
+      "TW": "核彈！"
+    }
   },
   "One wheel has been found.": {
-    "translation": "找到一个轮子了。"
+    "translation": "找到一个轮子了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "車輪が一つ見つかった。",
+      "CN": "One wheel has been found.",
+      "KR": "휠 하나를 발견했습니다.",
+      "TW": "已找到其中一個車輪。"
+    }
   },
   "Ooch!Pirate Captain blocked us!": {
-    "translation": "哦！海盗船长挡住了我们！"
+    "translation": "哦！海盗船长挡住了我们！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウフ！海賊の船長が私たちをブロックした！",
+      "CN": "Ooch!Pirate Captain blocked us!",
+      "KR": "아차! 해적 선장이 우리를 막았습니다!",
+      "TW": "喔！海盜船長擋住了我們的去路！"
+    }
   },
   "Our popkart is ready!Let's go!": {
-    "translation": "我们的跑跑卡丁车准备好了！走吧！"
+    "translation": "我们的跑跑卡丁车准备好了！走吧！",
+    "MultiLang": {
+      "US": "",
+      "JP": "私たちのポッカード、準備完了！行こう！",
+      "CN": "我们的卡丁车已就绪！出发吧！",
+      "KR": "우리 팝카트가 준비되었어요! 같이 가요!",
+      "TW": "我們的_popkart_已就緒！出發！"
+    }
   },
   "Our popkart will be ready in 25 seconds.": {
-    "translation": "我们的跑跑卡丁车将在25秒后准备好。"
+    "translation": "我们的跑跑卡丁车将在25秒后准备好。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポッカードは25秒後に準備が整います。",
+      "CN": "我们的卡丁车将在 25 秒后就绪。",
+      "KR": "우리 팝카트가 25초 후에 준비됩니다.",
+      "TW": "我們的_popkart_將在 25 秒後就緒。"
+    }
   },
   "Please wait 30 seconds.": {
-    "translation": "请等待30秒。"
+    "translation": "请等待30秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒お待ちください。",
+      "CN": "请等待 30 秒。",
+      "KR": "30초 동안 기다려 주세요.",
+      "TW": "請等待 30 秒。"
+    }
   },
   "Please wait another 25 seconds": {
-    "translation": "请再等25秒。"
+    "translation": "请再等25秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "あと25秒お待ちください",
+      "CN": "请再等待 25 秒。",
+      "KR": "25초 더 기다려 주세요.",
+      "TW": "請再等待 25 秒。"
+    }
   },
   "The airship will come in 40 seconds.": {
-    "translation": "飞艇将在40秒后到达。"
+    "translation": "飞艇将在40秒后到达。",
+    "MultiLang": {
+      "US": "",
+      "JP": "飛行船は40秒後に到着します。",
+      "CN": "飞艇将在 40 秒后到达。",
+      "KR": "비행선이 40초 후에 도착합니다.",
+      "TW": "飛艇將於 40 秒後抵達。"
+    }
   },
   "The box will be broken in 10 seconds.": {
-    "translation": "箱子将在10秒后破裂。"
+    "translation": "箱子将在10秒后破裂。",
+    "MultiLang": {
+      "US": "",
+      "JP": "箱は10秒後に壊れます。",
+      "CN": "箱子将在 10 秒后破裂。",
+      "KR": "상자가 10초 후에 부숴집니다.",
+      "TW": "箱子將在 10 秒後打破。"
+    }
   },
   "The box will be cleared in 20 seconds.": {
-    "translation": "箱子将在20秒后清理完毕。"
+    "translation": "箱子将在20秒后清理完毕。",
+    "MultiLang": {
+      "US": "",
+      "JP": "箱は20秒後にクリアされます。",
+      "CN": "箱子将在 20 秒后清空。",
+      "KR": "상자가 20초 후에 정리됩니다.",
+      "TW": "箱子將於 20 秒內清除完畢。"
+    }
   },
   "The door will be open in 30 seconds.": {
-    "translation": "门将在30秒后打开。"
+    "translation": "门将在30秒后打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は30秒後に開きます。",
+      "CN": "门将在 30 秒后打开。",
+      "KR": "문이 30초 후에 열립니다.",
+      "TW": "門將在 30 秒後開啟。"
+    }
   },
   "The door will open in 15 seconds.": {
-    "translation": "门将在15秒后打开。"
+    "translation": "门将在15秒后打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は15秒後に開きます。",
+      "CN": "大门将在15秒后打开。",
+      "KR": "문이 15초 후에 열립니다.",
+      "TW": "大門將在15秒後開啟。"
+    }
   },
   "The door will open in 30 seconds.": {
-    "translation": "门将在30秒后打开。"
+    "translation": "门将在30秒后打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は30秒後に開きます。",
+      "CN": "大门将在30秒后打开。",
+      "KR": "문이 30초 후에 열립니다.",
+      "TW": "大門將在30秒後開啟。"
+    }
   },
   "The popkart will leave in 45 seconds.": {
-    "translation": "跑跑卡丁车将在45秒后离开。"
+    "translation": "跑跑卡丁车将在45秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポプカートは45秒後に出発します。",
+      "CN": "Popkart将在45秒后离开。",
+      "KR": "폭죽이 45초 후에 발사됩니다.",
+      "TW": "Popkart將在45秒後離開。"
+    }
   },
   "The street will be clear in 8 seconds.": {
-    "translation": "街道将在8秒后清理完毕。"
+    "translation": "街道将在8秒后清理完毕。",
+    "MultiLang": {
+      "US": "",
+      "JP": "道路は8秒後に交通整理されます。",
+      "CN": "街道将在8秒后清空。",
+      "KR": "길은 8초 후에 정리됩니다.",
+      "TW": "街道將在8秒後清空。"
+    }
   },
   "We can pass here in 30 seconds.": {
-    "translation": "我们可以在30秒后通过这里。"
+    "translation": "我们可以在30秒后通过这里。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここを通過できるのは30秒後です。",
+      "CN": "30秒后我们可以从此处通过。",
+      "KR": "우리는 여기서 30초 뒤에 통과할 수 있습니다.",
+      "TW": "我們可以在30秒後通過這裡。"
+    }
   },
   "We have 45 seconds to find the items in the squre.": {
-    "translation": "我们有45秒的时间在广场找到物品。"
+    "translation": "我们有45秒的时间在广场找到物品。",
+    "MultiLang": {
+      "US": "",
+      "JP": "広場でアイテムを見つけるのに45秒かかります。",
+      "CN": "我们有45秒的时间在广场寻找物品。",
+      "KR": "마광장에서 물건을 찾을 시간이 45초 남았습니다.",
+      "TW": "我們在廣場上有45秒的時間來尋找物品。"
+    }
   },
   "We will leave here in 10 seconds.": {
-    "translation": "我们将在10秒后离开。"
+    "translation": "我们将在10秒后离开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここは10秒後に出発します。",
+      "CN": "我们将在10秒后离开这里。",
+      "KR": "우리는 여기서 10초 후에 떠날 것입니다.",
+      "TW": "我們將在10秒後離開這裡。"
+    }
   },
   "谁家小马！": {
-    "translation": "谁家小马！ 翻译：Asteri3m"
+    "translation": "谁家小马！ 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "What pony is that!",
+      "JP": "誰の小馬だ！",
+      "CN": "谁家小马！ 翻译：Asteri3m",
+      "KR": "누가 이 어린 말인가!",
+      "TW": "誰家的小馬！"
+    }
   }
 }

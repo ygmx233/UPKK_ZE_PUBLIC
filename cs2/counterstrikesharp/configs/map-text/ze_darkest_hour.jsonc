@@ -1,26 +1,82 @@
 {
   "*********practice mode*********": {
-    "translation": "*********练习模式*********"
+    "translation": "*********练习模式*********",
+    "MultiLang": {
+      "US": "",
+      "JP": "*********プラクティスモード*********",
+      "CN": "*********练习模式*********",
+      "KR": "*******연습 모드*********",
+      "TW": "*********練習模式*********"
+    }
   },
   "Boss has been weakened": {
-    "translation": "Boss 被削弱了"
+    "translation": "Boss 被削弱了",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスが弱体化しました",
+      "CN": "Boss已削弱",
+      "KR": "보스가 약화되었습니다",
+      "TW": "Boss已減弱"
+    }
   },
   "defend 15 seconds": {
-    "translation": "防守 15 秒"
+    "translation": "防守 15 秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間防御してください",
+      "CN": "坚守15秒",
+      "KR": "15초간 방어",
+      "TW": "防禦15秒"
+    }
   },
   "doors open in 20 seconds": {
-    "translation": "门在 20 秒后打开"
+    "translation": "门在 20 秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が開きます",
+      "CN": "门将在20秒后开启",
+      "KR": "20초 후 문이 열립니다",
+      "TW": "大門20秒後開啟"
+    }
   },
   "doors open in 25 seconds": {
-    "translation": "门在 25 秒后打开"
+    "translation": "门在 25 秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒後に扉が開きます",
+      "CN": "门将在25秒后开启",
+      "KR": "25초 후 문이 열립니다",
+      "TW": "大門25秒後開啟"
+    }
   },
   "goodluck & havefun": {
-    "translation": "祝你好运，玩得开心 翻译：Ayanami♪"
+    "translation": "祝你好运，玩得开心 翻译：Ayanami♪",
+    "MultiLang": {
+      "US": "",
+      "JP": "頑張って楽しんできてください",
+      "CN": "祝好运，玩得开心",
+      "KR": "행운을 빕니다 &楽しもう",
+      "TW": "祝好运 & 遊得開心"
+    }
   },
   "normal mode enable": {
-    "translation": "正常模式启用"
+    "translation": "正常模式启用",
+    "MultiLang": {
+      "US": "",
+      "JP": "ノーマルモードが有効になりました",
+      "CN": "普通模式已启用",
+      "KR": "일반 모드 활성화",
+      "TW": "正常模式已啟用"
+    }
   },
   "practice mode enable": {
-    "translation": "练习模式启用"
+    "translation": "练习模式启用",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラクティスモードが有効になりました",
+      "CN": "练习模式已启用",
+      "KR": "연습 모드 활성화",
+      "TW": "練習模式已啟用"
+    }
   }
 }

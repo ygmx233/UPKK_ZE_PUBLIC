@@ -1,77 +1,252 @@
 {
   "[There's fumes going through the vents! Get out of there!]": {
-    "translation": "通风口有烟雾，快离开"
+    "translation": "通风口有烟雾，快离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "換気口からガスが発生してる！そこを離れろ！",
+      "CN": "通风管道里有毒气！快离开！",
+      "KR": "배기관에서 유독 가스가 흘러나옵니다! 거기서 나가세요!",
+      "TW": "廢氣正從通風口灌入！快逃！"
+    }
   },
   "**[1]**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**[2]**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**[3]**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**[4]**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**[5]**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "[Suicide Bombers Inbound: ETA 1 Minute.]": {
-    "translation": "自杀式炸弹来袭 预计到达时间1分钟"
+    "translation": "自杀式炸弹来袭 预计到达时间1分钟",
+    "MultiLang": {
+      "US": "",
+      "JP": "自爆テロリスト接近：到着まで1分。",
+      "CN": "自杀式袭击者接近：预计到达时间1分钟。",
+      "KR": "자살범접근 예정: ETA 1분.",
+      "TW": "自殺炸彈襲擊：預計 1 分鐘後到達。"
+    }
   },
   "[Get in that hole behind the boxes!]": {
-    "translation": "躲进箱子后面的洞里！"
+    "translation": "躲进箱子后面的洞里！",
+    "MultiLang": {
+      "US": "",
+      "JP": "箱の裏にある穴に潜れ！",
+      "CN": "快躲到箱子后面的洞里！",
+      "KR": "상자 뒤 구덩이로 들어가세요!",
+      "TW": "快躲進箱子後面的坑洞！"
+    }
   },
   "[Airstrike Inbound: ETA 1 minute.]": {
-    "translation": "空袭来袭 预计1分钟后到达"
+    "translation": "空袭来袭 预计1分钟后到达",
+    "MultiLang": {
+      "US": "",
+      "JP": "空襲接近：到着まで1分。",
+      "CN": "空袭来袭：预计到达时间1分钟。",
+      "KR": "공습 접근 예정: ETA 1분.",
+      "TW": "空襲即將來襲：預計 1 分鐘後到達。"
+    }
   },
   "[Remember! No man gets left behind.]": {
-    "translation": "记住，一个都不能少"
+    "translation": "记住，一个都不能少",
+    "MultiLang": {
+      "US": "",
+      "JP": "忘れるな！仲間を見捨ててはいけない！",
+      "CN": "记住！绝不抛弃任何战友。",
+      "KR": "기억하세요! 절대 동료는 버리지 않습니다.",
+      "TW": "記住！絕不拋下任何同伴！"
+    }
   },
   "[Grab a gun from the armory! We need to move.]": {
-    "translation": "从武器库拿把枪 我们得走了"
+    "translation": "从武器库拿把枪 我们得走了",
+    "MultiLang": {
+      "US": "",
+      "JP": "武器庫から銃を持ってこい！移動する必要がある。",
+      "CN": "从军械库拿把枪！我们必须撤离。",
+      "KR": "무기고에서 총을 챙겨주세요! 우리가 이동해야 합니다.",
+      "TW": "去軍火庫拿槍！我們必須趕快行動。"
+    }
   },
   "[Don't let them through! Get into the freezer ASAP.]": {
-    "translation": "别让他们过去，尽快进入冷冻室"
+    "translation": "别让他们过去，尽快进入冷冻室",
+    "MultiLang": {
+      "US": "",
+      "JP": "通さないで！できる限り早く冷蔵庫の中に入れ！",
+      "CN": "别让他们进来！赶紧进冷藏室！",
+      "KR": "통하지 못하게 막으세요! 얼음고장으로 서둘러 들어가세요.",
+      "TW": "別讓他們通過！快進冷藏庫！"
+    }
   },
   "[And make sure you close it!]": {
-    "translation": "把门关上"
+    "translation": "把门关上",
+    "MultiLang": {
+      "US": "",
+      "JP": "それに、必ず蓋を閉めろ！",
+      "CN": "并且确认把门关好！",
+      "KR": "그리고 문 꼭 닫으세요!",
+      "TW": "還有，一定要把門關好！"
+    }
   },
   "[Keep them back while I open this door.]": {
-    "translation": "让他们退后，我打开这扇门"
+    "translation": "让他们退后，我打开这扇门",
+    "MultiLang": {
+      "US": "",
+      "JP": "[私がこのドアを開けるまで、彼らを止めておいて。]",
+      "CN": "[我把它们扣下，你先去开门。]",
+      "KR": "[문이 열릴 때까지 저들을 막아줘]",
+      "TW": "我來開門，你們先頂住。"
+    }
   },
   "[Don't touch those lasers!]": {
-    "translation": "别碰那些激光！"
+    "translation": "别碰那些激光！",
+    "MultiLang": {
+      "US": "",
+      "JP": "[あのレーザーには触るな！]",
+      "CN": "[别碰那些激光！]",
+      "KR": "[그 레이저에 손대지 마!]",
+      "TW": "別碰那些雷射光束！"
+    }
   },
   "[Shit! This is going to take some time. Hold them off!]": {
-    "translation": "该死，这需要点时间，拖住他们"
+    "translation": "该死，这需要点时间，拖住他们",
+    "MultiLang": {
+      "US": "",
+      "JP": "[やばい！これ、時間がかかるぞ。なんとか持ちこたえてくれ！]",
+      "CN": "[该死！这需要点时间，拖住他们！]",
+      "KR": "[ crap! 시간이 좀 걸리겠군. 계속 막아줘!]",
+      "TW": "該死！這得花點時間，先擋住他們！"
+    }
   },
   "[Somebody turn right and get us an airstrike!]": {
-    "translation": "右转，给我们来个空袭"
+    "translation": "右转，给我们来个空袭",
+    "MultiLang": {
+      "US": "",
+      "JP": "[誰か、右側から呼び寄せて、航空支援を呼んでくれ！]",
+      "CN": "[派人去右边呼叫空袭支援！]",
+      "KR": "[누가든 오른쪽으로 가서 항공 지원 요청해!]",
+      "TW": "有人去右側呼叫空中支援！"
+    }
   },
   "[Spare rifles on that wall for anybody unarmed.]": {
-    "translation": "墙壁上有备用步枪"
+    "translation": "墙壁上有备用步枪",
+    "MultiLang": {
+      "US": "",
+      "JP": "[武器を持たない者は、あの壁にある予備銃を持っていけ。]",
+      "CN": "[墙上备有步枪，手无寸铁的人可以拿。]",
+      "KR": "[무장하지 않은 사람은 벽 쪽 소총을 가져가라.]",
+      "TW": "牆上有備用步槍，沒武器的拿去吧。"
+    }
   },
   "[Somebody get through that hole and let the rest of us through.]": {
-    "translation": "谁能穿过那个洞 让我们其他人过去"
+    "translation": "谁能穿过那个洞 让我们其他人过去",
+    "MultiLang": {
+      "US": "",
+      "JP": "[誰か、あそこからの穴を突破して、我々が通り抜けられるようにしてくれ。]",
+      "CN": "[有人从那个洞里出去，让我们其他人通过。]",
+      "KR": "[누가든 그 구멍으로 들어가서 나머지 우리를 통행하게 해라.]",
+      "TW": "有人從那個洞穿過去，讓其他人跟過來。"
+    }
   },
   "[Open them crazy cells and get us out of here!]": {
-    "translation": "打开那些疯狂的牢房 带我们离开这里"
+    "translation": "打开那些疯狂的牢房 带我们离开这里",
+    "MultiLang": {
+      "US": "",
+      "JP": "[あんな狂った刑務所を開け、我々をここから逃がしてくれ！]",
+      "CN": "[打开那些疯狂的牢房，带我们离开这里！]",
+      "KR": "[미친 창고 문을 열어서 여기에서 우리를 빼내!",
+      "TW": "打開那些瘋狂的牢房，帶我們出去！"
+    }
   },
   "[Grab some 'nades and blow the limbs off 'em.]": {
-    "translation": "拿几颗手雷，炸掉他们的四肢"
+    "translation": "拿几颗手雷，炸掉他们的四肢",
+    "MultiLang": {
+      "US": "",
+      "JP": "[手榴弾を持って、あの連中の手足を吹き飛ばせ。]",
+      "CN": "[拿手榴弹，炸断他们的四肢。]",
+      "KR": "[수류탄을 챙겨서 저들을 무력화해.]",
+      "TW": "拿幾顆手榴彈，把他們的四肢炸掉。"
+    }
   },
   "[And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]": {
-    "translation": "我们得在空袭来临前找到出路] 拖住他们，直到门关上"
+    "translation": "我们得在空袭来临前找到出路] 拖住他们，直到门关上",
+    "MultiLang": {
+      "US": "",
+      "JP": "そして、あいつらの空襲が届く前に从这里脱出する手だてを見つけないと！扉が閉じるまで連中は阻止し続けろ。",
+      "CN": "[而且我们需要在空袭到来前找到出路！挡住他们，直到门关上。]",
+      "KR": "[그 airstrikes가 시작되기 전에 여기서 탈출할 방법을 찾아야 해! 문이 닫힐 때까지 그들을 저지해 줘.]",
+      "TW": "我們必須在空襲到來前找到逃離這裡的方法！擋住他們，直到門關上。"
+    }
   },
   "[Get through that gate up ahead and don't let them in.]": {
-    "translation": "穿过前面的门 别让他们进来"
+    "translation": "穿过前面的门 别让他们进来",
+    "MultiLang": {
+      "US": "",
+      "JP": "前のゲートを通り抜け、連中が中に入らないようにしろ。",
+      "CN": "[通过前面的栅栏门，别让他们进来。]",
+      "KR": "[앞쪽의 문을 통과하고 그들이 들어오지 못하게 막아줘.]",
+      "TW": "通過前方的大門，別讓他們進來。"
+    }
   },
   "[Freezer's Open!]": {
-    "translation": "冷冻室打开！"
+    "translation": "冷冻室打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "冷凍庫、開放！",
+      "CN": "[冰箱已开启！]",
+      "KR": "[냉동기 작동!]",
+      "TW": "[急凍機關已開啟]"
+    }
   },
   "[Freezer's Closed!]": {
-    "translation": "冷冻室关闭"
+    "translation": "冷冻室关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "冷凍庫、閉鎖！",
+      "CN": "[冰箱已关闭！]",
+      "KR": "[냉동기 정지!]",
+      "TW": "[急凍機關已關閉]"
+    }
   }
 }

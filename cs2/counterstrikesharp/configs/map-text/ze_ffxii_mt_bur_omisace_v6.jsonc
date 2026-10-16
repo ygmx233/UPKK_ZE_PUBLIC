@@ -1,0 +1,2312 @@
+{
+  "!! For better game experience, set your Graphical settings on High and Brightness 100% !!": {
+    "translation": "**为了更好的游戏体验，请将视频值预设设置为高，亮度设置为100%！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "!! より良いゲーム体験のために、グラフィック設定は最高、明るさは100%にしてください !!",
+      "CN": "!! 为了获得更佳的游戏体验，请将图形设置调整为“高”，并将亮度设置为 100% !!",
+      "KR": "!! 더 나은 게임 경험을 위해 그래픽 설정을 높음, 밝기를 100%로 설정하세요 !!",
+      "TW": "!! 為獲得更佳遊戲體驗，請將圖形設定設為高、亮度設為100% !!"
+    }
+  },
+  "**A player has picked up Aero Magick**": {
+    "translation": "**一位玩家获得了风**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがエーロ魔法を獲得しました**",
+      "CN": "**某玩家拾取了风之魔法**",
+      "KR": "**플레이어가 에어로 마그틱을 수집했습니다**",
+      "TW": "**一名玩家拾取了風之魔法**"
+    }
+  },
+  "**A player has picked up Aqua Magick**": {
+    "translation": "**一位玩家获得了水**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがアクア魔法を獲得しました**",
+      "CN": "**某玩家拾取了水之魔法**",
+      "KR": "**플레이어가 아쿠아 마그틱을 수집했습니다**",
+      "TW": "**一名玩家拾得了水之魔法**"
+    }
+  },
+  "**A player has picked up Cortahombres**": {
+    "translation": "**一位玩家获得了大剑**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがコルタホームブスを探出した**",
+      "CN": "**某玩家拾取了柯塔霍姆巴**",
+      "KR": "**플레이어가 코타 HOMBRAS를 수집했습니다**",
+      "TW": "**一名玩家拾取了巨人護盾**"
+    }
+  },
+  "**A player has picked up Crystal Shield**": {
+    "translation": "**一位玩家获得了水晶盾墙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがクリスタルシールドを手に入れた**",
+      "CN": "**某玩家拾取了水晶护盾**",
+      "KR": "**플레이어가 크리스탈 실드를 수집했습니다**",
+      "TW": "**一名玩家拾得了水晶盾牌**"
+    }
+  },
+  "**A player has picked up Cure Magick**": {
+    "translation": "**一位玩家获得了奶**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがキュア魔法を獲得しました**",
+      "CN": "**某玩家拾取了治疗魔法**",
+      "KR": "**플레이어가 치유 마그틱을 수집했습니다**",
+      "TW": "**一名玩家拾取了治療魔法**"
+    }
+  },
+  "**A player has picked up Damage Magick**": {
+    "translation": "**一位玩家获得了ZM 秒杀**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがダメージ魔法を探出した**",
+      "CN": "**某玩家拾取了伤害魔法**",
+      "KR": "**플레이어가 데미지 마그틱을 수집했습니다**",
+      "TW": "**一名玩家拾取了傷害魔法**"
+    }
+  },
+  "**A player has picked up Dark Magick**": {
+    "translation": "**一位玩家获得了黑洞**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがダーク魔法を探出した**",
+      "CN": "**某玩家拾取了黑暗魔法**",
+      "KR": "**플레이어가 다크 마그틱을 수집했습니다**",
+      "TW": "**一名玩家拾取了黑暗魔法**"
+    }
+  },
+  "**A player has picked up Dragon Whisker**": {
+    "translation": "**一位玩家获得了龙须(火球)**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがドラゴンウィスカーを取得しました",
+      "CN": "一名玩家已拾取龙须",
+      "KR": "\"드래곤 휘슬러를 획득한 플레이어가 나타났습니다\"",
+      "TW": "一名玩家拾取了龍鬚"
+    }
+  },
+  "**A player has picked up Empyrean Rod**": {
+    "translation": "**一位玩家获得了天空法杖(免抓)**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがエンペリアンロッドを取得しました",
+      "CN": "一名玩家已拾取天界杖",
+      "KR": "\"임피리안 로드를 획득한 플레이어가 나타났습니다\"",
+      "TW": "一名玩家拾取了天界杖"
+    }
+  },
+  "**A player has picked up Ensanguined Shield**": {
+    "translation": "**一位玩家获得了血染盾墙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが ensanguinedシールドを取得しました",
+      "CN": "一名玩家已拾取血染盾",
+      "KR": "\"얼룩이 묻은 방패를 획득한 플레이어가 나타났습니다\"",
+      "TW": "一名玩家拾取了染血盾牌"
+    }
+  },
+  "**A player has picked up Fear Magick**": {
+    "translation": "**一位玩家获得了ZM 恐惧**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがフィアマジックを取得しました",
+      "CN": "一名玩家已拾取恐惧魔法",
+      "KR": "\"무서운 마법을 익힌 플레이어가 나타났습니다\"",
+      "TW": "一名玩家拾取了恐懼魔法"
+    }
+  },
+  "**A player has picked up Fire Magick**": {
+    "translation": "**一位玩家获得了火**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがファイアマジックを取得しました",
+      "CN": "一名玩家已拾取火焰魔法",
+      "KR": "\"불의 마법을 익힌 플레이어가 나타났습니다\"",
+      "TW": "一名玩家拾取了火焰魔法"
+    }
+  },
+  "**A player has picked up Invisible Magick**": {
+    "translation": "**一位玩家获得了ZM 隐身**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがイグノラブル魔法を取得しました",
+      "CN": "一名玩家已拾取隐形魔法",
+      "KR": "\"투명 마법을 익힌 플레이어가 나타났습니다\"",
+      "TW": "一名玩家拾取了隱形魔法"
+    }
+  },
+  "**A player has picked up Judge Drace**": {
+    "translation": "**一位玩家获得了ZM 多蕾丝**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがジャッジデースを取得しました",
+      "CN": "一名玩家已拾取审判者德雷斯",
+      "KR": "\"판사 드레이스를 획득한 플레이어가 나타났습니다\"",
+      "TW": "一名玩家拾取了裁判官德瑞斯"
+    }
+  },
+  "**A player has picked up Limit Break Magick**": {
+    "translation": "**一位玩家获得了极限突破(终极)**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがリミットブレイク魔法を取得しました",
+      "CN": "一名玩家已拾取极限爆发魔法",
+      "KR": "\"임계 마법을 익힌 플레이어가 나타났습니다\"",
+      "TW": "一名玩家拾取了無限突破魔法"
+    }
+  },
+  "**A player has picked up Loxley Bow**": {
+    "translation": "**一位玩家获得了洛克斯利之弓**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがロクスレイボウを拾いました",
+      "CN": "玩家拾取了洛克斯利弓",
+      "KR": "플레이어가 록슬리 활을 획득했습니다",
+      "TW": "有玩家拾取了洛克斯利弓箭"
+    }
+  },
+  "**A player has picked up Poison Magick**": {
+    "translation": "**一位玩家获得了毒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがポイズン魔術を拾いました",
+      "CN": "玩家拾取了毒魔法",
+      "KR": "플레이어가 독 마그닉을 획득했습니다",
+      "TW": "有玩家拾取了毒液魔法"
+    }
+  },
+  "**A player has picked up Sand Magick**": {
+    "translation": "**一位玩家获得了流沙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがサンド魔術を拾いました",
+      "CN": "玩家拾取了沙魔法",
+      "KR": "플레이어가 모래 마그닉을 획득했습니다",
+      "TW": "有玩家拾取了沙魔術"
+    }
+  },
+  "**A player has picked up The Devileye**": {
+    "translation": "**一位玩家获得了双手弩**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがザ・デヴィルアイを拾いました",
+      "CN": "玩家拾取了恶魔之眼",
+      "KR": "플레이어가 사귀안을 획득했습니다",
+      "TW": "有玩家拾得了魔鬼之眼"
+    }
+  },
+  "**A player has picked up Thunder Magick**": {
+    "translation": "**一位玩家获得了雷电**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがサンダー魔術を拾いました",
+      "CN": "玩家拾取了雷电魔法",
+      "KR": "플레이어가 천둥 마그닉을 획득했습니다",
+      "TW": "有玩家拾取了雷電魔法"
+    }
+  },
+  "**A player has picked up Ultimate Blade**": {
+    "translation": "**一位玩家获得了究极之剑(弹药)**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがアルティメットブレイドを拾いました",
+      "CN": "玩家拾取了终极之剑",
+      "KR": "플레이어가 울티메이트 블레이드를 획득했습니다",
+      "TW": "有玩家拾得了終極刀劍"
+    }
+  },
+  "**A player has picked up Zombie Dark Magick**": {
+    "translation": "**一位玩家获得了ZM 黑洞**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがゾンビダーク魔術を拾いました",
+      "CN": "玩家拾取了僵尸暗黑魔法",
+      "KR": "플레이어가 좀비 다크 마그닉을 획득했습니다",
+      "TW": "有玩家拾取了殭屍暗黑魔法"
+    }
+  },
+  "**Admin set Maximum Tenberry quest** ": {
+    "translation": "**管理员已一键完成冬贝利任务**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者がMaximum Tenberryクエストを設定しました",
+      "CN": "管理员已设置最大甜浆果任务",
+      "KR": "관리자가 최대 텐베리 퀘스트를 설정했습니다",
+      "TW": "管理員設定了最大甜莓任務"
+    }
+  },
+  "**All Bergan attacks do double damage!**": {
+    "translation": "**裁判长贝甘的所有攻击将造成双倍伤害！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ベルガンの攻撃は全て2倍ダメージ！**",
+      "CN": "所有伯根单位的攻击伤害翻倍！",
+      "KR": "모든 베르간의 공격이 쌍배 피해량!",
+      "TW": "**所有伯根生物造成的傷害加倍！**"
+    }
+  },
+  "**Antechamber will open in 35 seconds**": {
+    "translation": "**前厅将在35秒后开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒後に別室が開きます",
+      "CN": "前厅将在35秒后开启",
+      "KR": "외호실 개방까지 35초",
+      "TW": "**前廳將在35秒後開啟**"
+    }
+  },
+  "**Buttons in the admin room have been unlocked!**": {
+    "translation": "**管理员房间的按钮已解锁！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理室のボタンが解放されました！",
+      "CN": "管理员室的按钮已解锁！",
+      "KR": "관리자실의 단추가 잠금 해제되었습니다!",
+      "TW": "管理員室的按鈕已解鎖！**"
+    }
+  },
+  "**Catwalk Gate will open in 20 seconds**": {
+    "translation": "**走廊门将在20秒后开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に歩道扉が開きます",
+      "CN": "步行天桥闸门将在20秒后开启",
+      "KR": "계단형 출입구 개방까지 20초",
+      "TW": "**天橋門將在20秒後開啟**"
+    }
+  },
+  "**Defend here for 25 seconds until the gates open**": {
+    "translation": "**在门开启前在这里防守25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "gate が開くまで25秒間ここで防衛せよ",
+      "CN": "在此防守25秒，直到闸门打开",
+      "KR": "출입구가 열릴 때까지 25초간 방어하세요",
+      "TW": "在此防守25秒，直到柵門開啟"
+    }
+  },
+  "**Defend here for 30 seconds until the gates open**": {
+    "translation": "**在门开启前在这里防守30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "gate が開くまで30秒間ここで防衛せよ",
+      "CN": "在此防守30秒，直到闸门打开",
+      "KR": "출입구가 열릴 때까지 30초간 방어하세요",
+      "TW": "在此防守30秒，直到柵門開啟"
+    }
+  },
+  "**Get out of the middle now!**": {
+    "translation": "**现在赶快离开中间！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "今すぐ中央から離れろ！",
+      "CN": "立刻离开中间区域！",
+      "KR": "중간 지점에서 즉시 대피하세요!",
+      "TW": "**立即離開中間區域！**"
+    }
+  },
+  "**Get to the teleport to to avoid death!**": {
+    "translation": "**赶紧到传送点以避免死亡！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "死を避けるためテレポートへ向かえ！",
+      "CN": "前往传送点以避免死亡！",
+      "KR": "즉시 텔레포터로 이동해 죽음을 피하세요!",
+      "TW": "前往传送點以避免死亡！"
+    }
+  },
+  "**Hold here for 28 seconds until the teleport is enabled!**": {
+    "translation": "**在传送点启用前在此防守28秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**テレポーションが有効になるまで28秒間ここを押してください！**",
+      "CN": "**在此处坚守 28 秒，直到传送门开启！**",
+      "KR": "**텔레포트가 활성화될 때까지 28초간 여기를 유지하세요!**",
+      "TW": "**在此待命28秒，直到傳送啟動！**"
+    }
+  },
+  "**Hold here! Gates will open in 8 seconds!**": {
+    "translation": "**在此防守！大门将在8秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ここを押してください！8秒以内にゲートが開きます！**",
+      "CN": "**在此处坚守！闸门将在 8 秒后开启！**",
+      "KR": "**여기를 유지하세요! 게이트가 8초 후에 열립니다!**",
+      "TW": "**在此待命！8秒後開啟大門！**"
+    }
+  },
+  "**Hold this area for 17 seconds!**": {
+    "translation": "**在此区域防守17秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**このエリアを17秒間キープしてください！**",
+      "CN": "**在此区域坚守 17 秒！**",
+      "KR": "**이 지역을 17초간 유지하세요!**",
+      "TW": "**佔領此區域17秒！**"
+    }
+  },
+  "**Judge Bergan has cased Flash of Burning Souls!**": {
+    "translation": "**裁判长贝甘施放了燃灵闪光！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ベルガンが「焔魂の一閃」を発動しました！**",
+      "CN": "法官伯格安已施展灵魂灼烧之光！**",
+      "KR": "**심판 베르간이 불타는 영혼의 빛을 발동시켰습니다!",
+      "TW": "**法官伯格安使用了靈魂烈焰！**"
+    }
+  },
+  "**Judge Bergan has casted 1000 Needles!**": {
+    "translation": "**裁判长贝甘施放了千本针！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ベルガンが「千本の針」を発動しました！**",
+      "CN": "法官伯格安已释放千针咒！",
+      "KR": "**심판 베르간이 천침을 발동시켰습니다!",
+      "TW": "**法官伯格安使用了千針！**"
+    }
+  },
+  "**Judge Bergan has casted Aura of Water!**": {
+    "translation": "**裁判长贝甘施放了水之光环！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ベルガンが「水のオーラ」を発動しました！**",
+      "CN": "法官伯格安已施展水之光环！",
+      "KR": "**심판 베르상이 수기의 aura를 발동시켰습니다!",
+      "TW": "**法官伯格安使用了水之氣場！**"
+    }
+  },
+  "**Judge Bergan has casted Blazing Surge!**": {
+    "translation": "**裁判长贝甘施放了炽热冲击！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ベルガンが「灼熱の急襲」を発動しました！**",
+      "CN": "法官伯格安已施展烈焰冲击！",
+      "KR": "**심판 베르간이 불타오르는 돌진를 발동시켰습니다!",
+      "TW": "**法官伯格安使用了烈焰衝刺！**"
+    }
+  },
+  "**Judge Bergan has casted Ceremony of the Nether!**": {
+    "translation": "**裁判长贝甘施放了冥界仪式！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ベルガンが「冥府の儀式」を発動しました！**",
+      "CN": "法官伯格安已施展幽冥仪式！",
+      "KR": "**심판 베르간이 황천 의식을 발동시켰습니다!",
+      "TW": "**法官伯格安使用了幽冥儀式！**"
+    }
+  },
+  "**Judge Bergan has casted Dedication Aura!**": {
+    "translation": "**裁判长贝甘施放了奉献光环！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャッジ・バーガン、献身のオーラを発動！",
+      "CN": "法官伯根已施放专注光环！",
+      "KR": "**심판자 버간이 헌신의 아우라를 발동했습니다!**",
+      "TW": "法官柏根已施放奉獻光環！"
+    }
+  },
+  "**Judge Bergan has casted Flash of Shattering!**": {
+    "translation": "**裁判长贝甘施放了破碎闪光！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャッジ・バーガン、粉砕の一閃を発動！",
+      "CN": "法官伯根已施放碎击闪光！",
+      "KR": "**심판자 버간이 깨트의闪光을 발동했습니다!**",
+      "TW": "法官柏根已施放碎擊閃電！"
+    }
+  },
+  "**Judge Bergan has casted Frost Bolt!**": {
+    "translation": "**裁判长贝甘施放了冰霜箭！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャッジ・バーガン、フロストボルトを発射！",
+      "CN": "法官伯根已施放寒冰箭！",
+      "KR": "**심판자 버간이 서리 알수를 발동했습니다!**",
+      "TW": "法官柏根已施放冰霜飛彈！"
+    }
+  },
+  "**Judge Bergan has casted Frost Fury!**": {
+    "translation": "**裁判长贝甘施放了冰霜狂怒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャッジ・バーガン、フローズンフューリーを発動！",
+      "CN": "法官伯根已施放霜怒！",
+      "KR": "**심판자 버간이 서리의 격노를 발동했습니다!**",
+      "TW": "法官柏根已施放寒冰狂怒！"
+    }
+  },
+  "**Judge Bergan has casted Gift of Plagues!**": {
+    "translation": "**裁判长贝甘施放了瘟疫之赐！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャッジ・バーガン、疫病の恵み発動！",
+      "CN": "法官伯根已施放瘟疫馈赠！",
+      "KR": "**심판자 버간이 역병의 선물을 발동했습니다!**",
+      "TW": "法官柏根已施放疫病恩賜！"
+    }
+  },
+  "**Judge Bergan has casted Illusion of Souls!**": {
+    "translation": "**裁判长贝甘施放了灵魂幻影！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャッジ・バーガン、ソウルオブイリュージョンを発動！",
+      "CN": "法官伯根已施放灵魂幻象！",
+      "KR": "**심판자 버간이 영혼의 환상을 발동했습니다!**",
+      "TW": "法官柏根已施放靈魂幻象！"
+    }
+  },
+  "**Judge Bergan has casted Moon Blast!**": {
+    "translation": "**裁判长贝甘施放了月之爆发！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャッジ・バーガン、ムーンブラストを発射！",
+      "CN": "法官伯根已施放月击！",
+      "KR": "**심판자 버간이 달의 폭발을 발동했습니다!**",
+      "TW": "法官柏根已施放月焰冲击！"
+    }
+  },
+  "**Judge Bergan has casted Rage of Magic!**": {
+    "translation": "**裁判长贝甘施放了狂怒魔法！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャッジ・バーガン、魔界の怒りを解き放つ！",
+      "CN": "法官伯根已施放魔法之怒！",
+      "KR": "**심판자 버간이 마법의 격노를 발동했습니다!**",
+      "TW": "法官柏根已施放魔法狂怒！"
+    }
+  },
+  "**Judge Bergan has casted Severance of the Arcane!**": {
+    "translation": "**裁判长贝甘施放了魔法割裂！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ベルガンは「秘術断ち」を詠唱した！",
+      "CN": "法官伯格安施展了【法理切割】！",
+      "KR": "**배건 판사가 '요소의 분절'을 발동했습니다!**",
+      "TW": "**法官柏根使用了「破除秘法」！**"
+    }
+  },
+  "**Judge Bergan has casted Soul Siphon!**": {
+    "translation": "**裁判长贝甘施放了灵魂汲取！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ベルガンは「魂吸い上げ」を詠唱した！",
+      "CN": "法官伯格安施展了【灵魂吸取】！",
+      "KR": "**배건 판사가 '혼 영취'를 발동했습니다!**",
+      "TW": "**法官柏根使用了「汲取靈魂」！**"
+    }
+  },
+  "**Judge Bergan has casted Spell of Demon Fire!**": {
+    "translation": "**裁判长贝甘施放了恶魔火焰咒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ベルガンは「悪魔の火」を詠唱した！",
+      "CN": "法官伯格安施展了【恶魔之火】！",
+      "KR": "**배건 판사가 '악마의 불꽃 주문'을 발동했습니다!**",
+      "TW": "**法官柏根使用了「惡魔火焰咒語」！**"
+    }
+  },
+  "**Judge Bergan has casted Tranquility Wave!**": {
+    "translation": "**裁判长贝甘施放了宁静之波！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ベルガンは「静穏の波動」を詠唱した！",
+      "CN": "法官伯格安施展了【平静之波】！",
+      "KR": "**배건 판사가 '평온의 파동'을 발동했습니다!**",
+      "TW": "**法官柏根使用了「靜謐波動」！**"
+    }
+  },
+  "**Judge Bergan has casted Wind Salvo!**": {
+    "translation": "**裁判长贝甘施放了风之冲击！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ベルガンは「風弾の連射」を詠唱した！",
+      "CN": "法官伯格安施展了【风矢齐射】！",
+      "KR": "**배건 판사가 '바람 일제사격'을 발동했습니다!**",
+      "TW": "**法官柏根使用了「風暴齊射」！**"
+    }
+  },
+  "**Judge Bergan is going to throw his blade! Do not stay together!**": {
+    "translation": "**裁判长贝甘即将投掷他的武器！不要聚在一起！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ベルガンが剣を投げようとしています！離れてください！",
+      "CN": "法官伯格安即将掷出飞刀！请勿聚集在一起！",
+      "KR": "**배건 판사가 검을 던질 예정입니다! 가까운 곳에 서 있지 마세요!**",
+      "TW": "**法官柏根準備投擲他的武器！不要站在一起！**"
+    }
+  },
+  "**Judge Bergan summons Esper Adrammelech!**": {
+    "translation": "**裁判长贝甘召唤了愤怒之灵帝亚德拉梅利克！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ベルガンがエスパー・アドラメレフを召喚した！",
+      "CN": "法官伯格安召唤了灵兽阿德摩梅雷克！",
+      "KR": "**배건 판사는 정령 '아드라메르네크'를 소환합니다!**",
+      "TW": "**法官柏根召喚出靈魄亞達梅列克！**"
+    }
+  },
+  "**Judge Bergan summons Esper Chaos!**": {
+    "translation": "**裁判长贝甘召唤了轮回王卡奥斯！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ベルガンがエスパー・カオスを召喚した！",
+      "CN": "法官伯格安召唤了灵兽混沌！",
+      "KR": "**배건 판사는 정령 '카오스'를 소환합니다!**",
+      "TW": "**法官柏根召喚出靈魄混沌！**"
+    }
+  },
+  "**Judge Bergan summons Esper Famfirt!**": {
+    "translation": "**裁判长贝甘召唤了暗黑之云珐姆弗里特！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**判事ベルガンがエスパー・ファムフリトを召喚!**",
+      "CN": "法官伯根召唤了灵神法姆弗特！",
+      "KR": "판사 버간이 에스퍼 팔미페르트를 소환한다!",
+      "TW": "**審判長柏加南召喚聖靈法姆弗特！**"
+    }
+  },
+  "**Judge Bergan summons Esper Shemhazai!**": {
+    "translation": "**裁判长贝甘召唤了密告者修米哈萨！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**判事ベルガンがエスパー・シェンハザイを召喚!**",
+      "CN": "法官伯根召唤了灵神谢姆哈扎伊！",
+      "KR": "판사 버간이 에스퍼 세문자이를 소환한다!",
+      "TW": "**審判長柏加南召喚聖靈謝姆哈茲艾！**"
+    }
+  },
+  "**Judge Bergan summons Esper Ultima!**": {
+    "translation": "**裁判长贝甘召唤了圣天使阿鲁偍玛！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**判事ベルガンがエスパー・アルティマを召喚!**",
+      "CN": "法官伯根召唤了灵神乌尔蒂玛！",
+      "KR": "판사 버간이 에스퍼 울티마를 소환한다!",
+      "TW": "**審判長柏加南召喚聖靈最後之願！**"
+    }
+  },
+  "**Judge Bergan summons Esper Zodiark!**": {
+    "translation": "**裁判长贝甘召唤了戒律王佐迪亚克！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**判事ベルガンがエスパー・ゾディアークを召喚!**",
+      "CN": "法官伯根召唤了灵神佐迪亚克！",
+      "KR": "판사 버간이 에스퍼 조디어크를 소환한다!",
+      "TW": "**審判長柏加南召喚聖靈佐迪亚克！**"
+    }
+  },
+  "**Judge Gabranth has casted Armageddon!**": {
+    "translation": "**裁判长伽布拉斯施放了末日！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**判事ガブランスがアームゲドンを発動!**",
+      "CN": "加布兰斯法官已施放绝命一击！",
+      "KR": "판사 가브란트가 아르마게돈을 시전했다!",
+      "TW": "**審判長加布蘭施放天罰！**"
+    }
+  },
+  "**Judge Gabranth has casted Barrier of Voidness!**": {
+    "translation": "**裁判长伽布拉斯施放了虚空屏障！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**判事ガブランスが虚空の障壁を発動!**",
+      "CN": "加布兰斯法官已施放虚无屏障！",
+      "KR": "판사 가브란트가 무의 경계를 시전했다!",
+      "TW": "**審判長加布蘭施放虛無屏障！**"
+    }
+  },
+  "**Judge Gabranth has casted Cruel Paralysis!**": {
+    "translation": "**裁判长伽布拉斯施放了残酷麻痹！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**判事ガブランスが残酷な麻痺を発動!**",
+      "CN": "加布兰斯法官已施放残酷麻痹！",
+      "KR": "판사 가브란트가 잔인한 마비를 시전했다!",
+      "TW": "**審判長加布蘭施放殘酷麻痹！**"
+    }
+  },
+  "**Judge Gabranth has casted Ferocity of Darkness!**": {
+    "translation": "**裁判长伽布拉斯施放了黑暗之力！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**判事ガブランスが闇の猛威を発動!**",
+      "CN": "加布兰斯法官已施放暗之威猛！",
+      "KR": "판사 가브란트가 암흑의 격렬함을 시전했다!",
+      "TW": "**審判長加布蘭施放黑暗狂暴！**"
+    }
+  },
+  "**Judge Gabranth has casted Frost Bolt!**": {
+    "translation": "**裁判长伽布拉斯施放了冰霜箭！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ガブランが『フローズンボルト』を発動！",
+      "CN": "**加布兰斯审判官已施放霜冻之箭！**",
+      "KR": "**재판관 가브란스가 서리 폭탄을 발사했습니다!**",
+      "TW": "法官加布蘭斯釋放了霜之箭！"
+    }
+  },
+  "**Judge Gabranth has casted Fury of Courage!**": {
+    "translation": "**裁判长伽布拉斯施放了勇者之怒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ガブランが『フューリーオブカレッジ』を発動！",
+      "CN": "**加布兰斯审判官已施放愤怒之力！**",
+      "KR": "**재판관 가브란스가 분노의 용기를 발사했습니다!**",
+      "TW": "法官加布蘭斯釋放了勇氣之怒！"
+    }
+  },
+  "**Judge Gabranth has casted Melt Skulls!**": {
+    "translation": "**裁判长伽布拉斯施放了融骨！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ガブランが『メルトスカルズ』を発動！",
+      "CN": "**加布兰斯审判官已施放熔骨之术！**",
+      "KR": "**재판관 가브란스는 해골을 녹입니다!**",
+      "TW": "法官加布蘭斯釋放了熔骨術！"
+    }
+  },
+  "**Judge Gabranth has casted Past Heroism!**": {
+    "translation": "**裁判长伽布拉斯施放了昔日英勇！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ガブランが『パストヒーロイズム』を発動！",
+      "CN": "**加布兰斯审判官已施放昔日勇毅！**",
+      "KR": "**재판관 가브란스의 과거의 용기가 발사되었습니다!**",
+      "TW": "法官加布蘭斯釋放了昔日英雄！"
+    }
+  },
+  "**Judge Gabranth has casted Shadow Assault!**": {
+    "translation": "**裁判长伽布拉斯施放了影袭！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ガブランが『シャドウアサルト』を発動！",
+      "CN": "**加布兰斯审判官已施放暗影突袭！**",
+      "KR": "**재판관 가브란스가 그림자 공세를 발사했습니다!**",
+      "TW": "法官加布蘭斯釋放了暗影襲擊！"
+    }
+  },
+  "**Judge Gabranth has casted Spell of Sustenance!**": {
+    "translation": "**裁判长伽布拉斯施放了维持之咒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ガブランが『スペルオブサステイナンス』を発動！",
+      "CN": "**加布兰斯审判官已施放生命维系术！**",
+      "KR": "**재판관 가브란스의 유지의 주문이 발사되었습니다!**",
+      "TW": "法官加布蘭斯釋放了生命維持術！"
+    }
+  },
+  "**Judge Gabranth has casted Voidness Bolt!**": {
+    "translation": "**裁判长伽布拉斯施放了虚空之箭！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "裁判官ガブランが『ヴォイドネスボルト』を発動！",
+      "CN": "**加布兰斯审判官已施放虚无之箭！**",
+      "KR": "**재판관 가브란스가 공허의 화살을 발사했습니다!**",
+      "TW": "法官加布蘭斯釋放了虛空之箭！"
+    }
+  },
+  "**Level has been changed on Hard Mode** ": {
+    "translation": "**难度已更改为困难**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ハardモードでレベルが変更されました",
+      "CN": "**困难模式等级已更改**",
+      "KR": "**하드 모드에서 레벨이 변경되었습니다**",
+      "TW": "已將難度改為困難模式"
+    }
+  },
+  "**Level has been changed on Legend Mode** ": {
+    "translation": "**难度已更改为传奇**",
+    "MultiLang": {
+      "US": "",
+      "JP": "レジェンドモードでレベルが変更されました",
+      "CN": "传奇模式下关卡已更改",
+      "KR": "레전드 모드에서 레벨이 변경되었습니다",
+      "TW": "傳奇模式中已變更等級"
+    }
+  },
+  "**Level has been changed on Normal Mode** ": {
+    "translation": "**难度已更改为普通**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ノーマルモードでレベルが変更されました",
+      "CN": "普通模式下关卡已更改",
+      "KR": "노멀 모드에서 레벨이 변경되었습니다",
+      "TW": "普通模式中已變更等級"
+    }
+  },
+  "**Level has been changed on Ultimate Mode** ": {
+    "translation": "**难度已更改为终极**",
+    "MultiLang": {
+      "US": "",
+      "JP": "アルティメットモードでレベルが変更されました",
+      "CN": "终极模式下关卡已更改",
+      "KR": "얼티밋 모드에서 레벨이 변경되었습니다",
+      "TW": "極限模式中已變更等級"
+    }
+  },
+  "**Map Ported by Waffel. Thanks to NiceShot with helping.**": {
+    "translation": "**地图移植：Waffel，感谢NiceShot的帮助。翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：Waffel。NiceShot氏の協力に感謝します。",
+      "CN": "地图由Waffel制作，感谢NiceShot提供帮助。",
+      "KR": "Waffel 작도, NiceShot의协助에 감사드립니다",
+      "TW": "地圖由 Waffel 製作，感謝 NiceShot 的協助。"
+    }
+  },
+  "**Map Status: No Stripper!**": {
+    "translation": "**地图状态：No Stripper！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ状態：ストッパーなし！",
+      "CN": "地图状态：无Stripper！",
+      "KR": "지도 상태: 스트리퍼 없음!",
+      "TW": "地圖狀態：無條帶！"
+    }
+  },
+  "**Nades do more damage**": {
+    "translation": "**手雷能造成更多伤害**",
+    "MultiLang": {
+      "US": "",
+      "JP": "nade\"が与えるダメージが増加",
+      "CN": "手雷伤害增加",
+      "KR": "나이프가 더 많은 피해를 입힙니다",
+      "TW": "榴彈造成更多傷害"
+    }
+  },
+  "**Press all statues to interrupt the attack**": {
+    "translation": "**按下所有雕像以打断攻击**",
+    "MultiLang": {
+      "US": "",
+      "JP": "すべての像を押して攻撃を中断する",
+      "CN": "激活所有雕像以打断攻击",
+      "KR": "모든 상상을 눌러 공격을 중단하세요",
+      "TW": "按下所有雕像以中斷攻擊"
+    }
+  },
+  "**Sanctuary Keeper has casted Annihilate!**": {
+    "translation": "**圣地守护兽施放了毁灭！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "サンクチュアリキーパー\"が\"アナイヒレーション\"を発動！",
+      "CN": "圣所守卫已施放湮灭！",
+      "KR": "성역 수호자가 안니힐레이션을 발동했습니다!",
+      "TW": "聖所守衛已施放湮滅！"
+    }
+  },
+  "**Sanctuary Keeper has casted Carnage of Phantoms!**": {
+    "translation": "**圣地守护兽施放了幻影屠戮！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "聖域守護者は『幻影乱れ』を発動した！",
+      "CN": "庇护所守护者已释放幻影灾祸！",
+      "KR": "성역 수호자가 환영의 학살을 발동했습니다!",
+      "TW": "聖殿守護者已施放幻靈災難！"
+    }
+  },
+  "**Sanctuary Keeper has casted Flare of Freezing!**": {
+    "translation": "**圣地守护兽施放了冰冻之光！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "聖域守護者は『凍結炎』を発動した！",
+      "CN": "庇护所守护者已释放冰冻烈焰！",
+      "KR": "성역 수호자가 얼어붙는 불꽃을 발동했습니다!",
+      "TW": "聖殿守護者已施放極寒爆裂！"
+    }
+  },
+  "**Sanctuary Keeper has casted Hymn of Balance!**": {
+    "translation": "**圣地守护兽施放了均衡颂歌！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "聖域守護者は『均衡の賛歌』を発動した！",
+      "CN": "庇护所守护者已释放平衡圣歌！",
+      "KR": "성역 수호자가 균형의 노래를 발동했습니다!",
+      "TW": "聖殿守護者已施放平衡頌歌！"
+    }
+  },
+  "**Sanctuary Keeper has casted Interruption Seal!**": {
+    "translation": "**圣地守护兽施放了阻断印记！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "聖域守護者は『妨害結界』を発動した！",
+      "CN": "庇护所守护者已释放中断封印！",
+      "KR": "성역 수호자가 방해의 인장을 발동했습니다!",
+      "TW": "聖殿守護者已施放中斷封印！"
+    }
+  },
+  "**Sanctuary Keeper has casted Mind Tempest!**": {
+    "translation": "**圣地守护兽施放了心灵风暴！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "聖域守護者は『精神嵐』を発動した！",
+      "CN": "庇护所守护者已释放心灵风暴！",
+      "KR": "성역 수호자가 정신 폭풍을 발동했습니다!",
+      "TW": "聖殿守護者已施放心靈風暴！"
+    }
+  },
+  "**Sanctuary Keeper has casted Shadow Blast!**": {
+    "translation": "**圣地守护兽施放了暗影爆发！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "聖域守護者は『シャドウブラスト』を発動した！",
+      "CN": "庇护所守护者已释放暗影爆裂！",
+      "KR": "성역 수호자가 그림자 폭발을 발동했습니다!",
+      "TW": "聖殿守護者已施放暗影爆破！"
+    }
+  },
+  "**Sanctuary Keeper has casted Solar Orb!**": {
+    "translation": "**圣地守护兽施放了日耀之球！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "聖域守護者は『ソラールオーブ』を発動した！",
+      "CN": "庇护所守护者已释放太阳星轨！",
+      "KR": "성역 수호자가 태양의 구체를 발동했습니다!",
+      "TW": "聖殿守護者已施放日珥！"
+    }
+  },
+  "**Sanctuary Keeper has casted Wave of Redemption!**": {
+    "translation": "**圣地守护兽施放了救赎浪潮！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "聖域守護者は『救済の波動』を発動した！",
+      "CN": "庇护所守护者已释放救赎之潮！",
+      "KR": "성역 수호자가 구원의 파도를 발동했습니다!",
+      "TW": "聖殿守護者已施放救贖狂濤！"
+    }
+  },
+  "**Sanctuary Keeper has casted Wind Rage!**": {
+    "translation": "**圣地守护兽施放了狂风之怒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "『聖域の番人』が「嵐」を詠唱した！",
+      "CN": "庇护所卫士已施放【狂风之怒】！",
+      "KR": "\"**성역 수호자가 바람의 분노를 발동시켰습니다!**\"",
+      "TW": "聖所守衛已釋放風怒！"
+    }
+  },
+  "**Stage completed!**": {
+    "translation": "**关卡完成！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージクリアです！",
+      "CN": "关卡完成！",
+      "KR": "\"**스테이지 클리어!**\"",
+      "TW": "关卡已完成！"
+    }
+  },
+  "**The Adrammelech has vanquished!**": {
+    "translation": "**愤怒之灵帝亚德拉梅利克已被击败！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "『アドラメレフ』を撃破しました。",
+      "CN": "亚巴顿已讨伐成功！",
+      "KR": "\"\"\"",
+      "TW": "亞達瑪列克已被討伐！"
+    }
+  },
+  "**The Behemoth has vanquished!**": {
+    "translation": "**贝希摩斯已被击败！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "『ベヒーモス』を撃破しました。",
+      "CN": "比蒙巨兽已讨伐成功！",
+      "KR": "\"\"\"",
+      "TW": "巨獸已被討伐！"
+    }
+  },
+  "**The Gates of Temple will open in 35 seconds!**": {
+    "translation": "**神殿大门将在35秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "神殿の扉が35秒後に開きます！",
+      "CN": "神殿之门将在35秒后开启！",
+      "KR": "\"**신전 문이 35초 후에 열립니다!**\"",
+      "TW": "神廟的大門將在35秒後開啟！"
+    }
+  },
+  "**The Gates of Temple will open soon!**": {
+    "translation": "**神殿大门即将开启！-35秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "神殿の扉がまもなく開きます...",
+      "CN": "神殿之门即将开启！",
+      "KR": "\"\"\"",
+      "TW": "神廟的大門即將開啟！"
+    }
+  },
+  "**The Sanctuary Keeper has vanquished!**": {
+    "translation": "**圣地守护兽已被击败！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "『聖域の番人』を撃破しました。",
+      "CN": "庇护所卫士已被讨伐！",
+      "KR": "\"**성역 수호자가 제압되었습니다!**\"",
+      "TW": "聖所守衛已被討伐！"
+    }
+  },
+  "**The airship will take us to the Sky Fortress Bahamut in 35 seconds**": {
+    "translation": "**飞艇将在35秒后带我们前往空中要塞巴哈姆特**",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒後に空飛ぶ要塞バハムトへ向かいます。",
+      "CN": "35秒后，飞艇将载我们前往天空要塞巴哈姆特。",
+      "KR": "\"**비행기가 35초 후 바하무트 성채로 우리를 태웁니다.**\"",
+      "TW": "飛船將在35秒後帶我們前往天空堡壘 Bahamut"
+    }
+  },
+  "**The gates will open in 10 seconds**": {
+    "translation": "**大门将在10秒后开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが10秒後に開きます",
+      "CN": "大门将在10秒后开启",
+      "KR": "출구가 10초 후 개방됩니다",
+      "TW": "大門將在 10 秒後開啟"
+    }
+  },
+  "**The gates will open in 15 seconds**": {
+    "translation": "**大门将在15秒后开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが15秒後に開きます",
+      "CN": "大门将在15秒后开启",
+      "KR": "출구가 15초 후 개방됩니다",
+      "TW": "大門將在 15 秒後開啟"
+    }
+  },
+  "**The gates will open in 20 seconds**": {
+    "translation": "**大门将在20秒后开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが20秒後に開きます",
+      "CN": "大门将在20秒后开启",
+      "KR": "출구가 20초 후 개방됩니다",
+      "TW": "大門將在 20 秒後開啟"
+    }
+  },
+  "**The gates will open in 25 seconds!**": {
+    "translation": "**大门将在25秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが25秒後に開きます！",
+      "CN": "大门将在25秒后开启！",
+      "KR": "출구가 25초 후 개방됩니다!",
+      "TW": "大門將在 25 秒後開啟！"
+    }
+  },
+  "**The gates will open in 30 seconds**": {
+    "translation": "**大门将在30秒后开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが30秒後に開きます",
+      "CN": "大门将在30秒后开启",
+      "KR": "출구가 30초 후 개방됩니다",
+      "TW": "大門將在 30 秒後開啟"
+    }
+  },
+  "**The way is open! Keep running!**": {
+    "translation": "**道路已开启！快跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が開いた！走り続けるんだ！",
+      "CN": "路已开通！快跑！",
+      "KR": "길이 열렸습니다! 계속 뛰세요!",
+      "TW": "道路已開！繼續奔跑！"
+    }
+  },
+  "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**": {
+    "translation": "**你必须杀死所有僵尸才能获胜**",
+    "MultiLang": {
+      "US": "",
+      "JP": "勝つには全てのゾンビを倒さなければなりません",
+      "CN": "你必须消灭所有僵尸才能获胜",
+      "KR": "승리를 위해 모든 좀비를 사멸해야 합니다",
+      "TW": "你必須消滅所有殭屍才能獲勝"
+    }
+  },
+  "**You are too slow**": {
+    "translation": "**你太慢了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなたが遅すぎます",
+      "CN": "你太慢了",
+      "KR": "너무 느립니다",
+      "TW": "你太慢了"
+    }
+  },
+  "**You have beaten Mt Bur Omisace! Congratulations! **": {
+    "translation": "**你已经通关了神都布尔奥米塞斯！恭喜！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**あなたもついにバオム・オミサセの山頂を制覇！おめでとう！**",
+      "CN": "你成功攻破了墓奥米塞斯！恭喜！",
+      "KR": "**당신은 무르 오미사이스 산을 정복했습니다! 축하합니다!**",
+      "TW": "你已經擊退了布爾·奧米薩斯山！恭喜！"
+    }
+  },
+  "**[Ashe] Not again... Shoot him because he will never leave us alone!**": {
+    "translation": "**[艾雪] 别再犹豫了，射击他吧，因为他永远不会让我们安宁！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[アッシュ] またか…！射殺しろ。二度と俺たちを許さん！",
+      "CN": "[艾歇] 不是又要... 开枪，他绝不会放过我们的！",
+      "KR": "[아셰] 또 다시... 쏴! 그는 우리를 계속 괴롭힐 거야!",
+      "TW": "[阿雪] 別再來了……射擊他，否則他不會放過我們！"
+    }
+  },
+  "**[Balthier] Anyway we need to get out of here! Imperial reinforcements incoming!**": {
+    "translation": "**[巴尔弗雷亚] 不管怎样，我们得离开这里！帝国增援来了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュター] とにかくここを離れるぞ！帝国軍の援軍が来る！",
+      "CN": "[巴尔图尔] 总之我们需要离开这里！帝国援军正在接近！",
+      "KR": "[발티에] 어쨌든 여기서 나가야 해! 제국군 reinforcements가 도착하고 있어!",
+      "TW": "[巴蒂爾] 總之我們得趕快離開這裡！帝國援軍即將到達！"
+    }
+  },
+  "**[Balthier] Don't let the zombies get through the main gate! **": {
+    "translation": "**[巴尔弗雷亚] 不要让僵尸通过大门！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュター] ゾンビに本門を突破されるな！",
+      "CN": "[巴尔图尔] 别让丧尸从正门突破！",
+      "KR": "[발티에] 주 게이트를 통해 좀비가 통과하지 못하게 해!",
+      "TW": "[巴蒂爾] 別讓殭屍穿過主門！"
+    }
+  },
+  "**[Balthier] Don't let them get to the balcony!**": {
+    "translation": "**[巴尔弗雷亚] 不要让他们到达阳台！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュター] 彼らがバルコニーに近づくのを許すな！",
+      "CN": "[巴尔图尔] 别让他们靠近阳台！",
+      "KR": "[발티에] 발코니로 다가오는 걸 막아!",
+      "TW": "[巴蒂爾] 別讓它們靠近陽台！"
+    }
+  },
+  "**[Balthier] Get on board. If we don't fly immediately they'll shoot us down!**": {
+    "translation": "**[巴尔弗雷亚] 快上船。如果我们不立即起飞，他们就会把我们击落！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュター] 乗り込め。今すぐ飛び立たんとしたら撃墜されてしまう！",
+      "CN": "[巴尔图尔] 快上船。如果我们不立刻起飞，他们就会把我们打下来！",
+      "KR": "[발티에] 타세요. 당장 이 비행기를 띄우지 않으면 적들이 우리들을 격추시킬 거예요!",
+      "TW": "[巴蒂爾] 快上船。如果不及時起飛，他們會擊落我們！"
+    }
+  },
+  "**[Balthier] He set his very bones about with manufacted nethicite**": {
+    "translation": "**[巴尔弗雷亚] 他用人造破魔石强化了自己的体质**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュター] 彼は生肉に人工ネシティットを植え込んだ。",
+      "CN": "[巴尔图尔] 他用人造奈提希特填充了自己的骨骼",
+      "KR": "[발티에] 그 자는 인조 네디시타의 뼈로 자신의 골격을 재구성했다",
+      "TW": "[巴蒂爾] 他用製造出的奈提希特（Nethicite）強化了自己的骨骼"
+    }
+  },
+  "**[Balthier] It's a dead end!**": {
+    "translation": "**[巴尔弗雷亚] 这是死胡同！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュター] 行き止まりだ！",
+      "CN": "[巴尔图尔] 此路不通！",
+      "KR": "[발티에] 끝이 없네!",
+      "TW": "[巴蒂爾] 是死胡同！"
+    }
+  },
+  "**[Balthier] Watch out! They are shooting us!**": {
+    "translation": "**[巴尔弗雷亚] 小心！他们在攻击我们！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バルタリア] 気をつけろ！敵が撃ちかけている！",
+      "CN": "[巴尔蒂斯] 小心！他们在向我们射击！",
+      "KR": "[발티어] 조심해! 우리를 향해 쏜다!",
+      "TW": "[巴爾弗雷] 小心！他們在射擊我們！"
+    }
+  },
+  "**[Balthier] We have to hold this area for 20 seconds! Get ready!**": {
+    "translation": "**[巴尔弗雷亚] 我们必须在这个区域坚持20秒！准备好！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バルタリア] このエリアを20秒間維持する必要がある！準備しろ！",
+      "CN": "[巴尔蒂斯] 我们必须守住这片区域20秒！准备战斗！",
+      "KR": "[발티어] 이 지역을 20초간 방어해야 해! 준비!",
+      "TW": "[巴爾弗雷] 我們必須守住這個區域 20 秒！準備好！"
+    }
+  },
+  "**[Balthier] We need to get to the engines on the left and right side**": {
+    "translation": "**[巴尔弗雷亚] 我们需要到达左右两侧的引擎**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バルタリア] 左右のエンジンへ向かうんだ",
+      "CN": "[巴尔蒂斯] 我们需要前往左右两侧的引擎处",
+      "KR": "[발티어] 좌우쪽 엔진으로 가야 해",
+      "TW": "[巴爾弗雷] 我們必須前往左側和右側的引擎"
+    }
+  },
+  "**[Balthier] When all engines are stopped the exit gate will be automatically opened!**": {
+    "translation": "**[巴尔弗雷亚] 当所有引擎停止时，出口门会自动打开！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バルタリア] すべてのエンジンを停止すると、出口のゲートが自動的に開く！",
+      "CN": "[巴尔蒂斯] 当所有引擎都停止运转时，出口闸门将自动打开！",
+      "KR": "[발티어] 모든 엔진이 멈추면 출구 게이트가 자동으로 열린다!",
+      "TW": "[巴爾弗雷] 當所有引擎都停止運轉時，出口閘門將自動開啟！"
+    }
+  },
+  "**[Bash] Adrammelech blocked the path! Shoot him before is too late!**": {
+    "translation": "**[巴修] 愤怒之灵帝亚德拉梅利克挡住了路！在为时已晚之前，射击他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] アドラメレックが道を塞いだ！間に合うように撃て！",
+      "CN": "[巴什] 德拉梅雷克挡住了去路！趁现在还来得及，把它射下来！",
+      "KR": "[배시] 아드라메르렉이 길을 막았다! 너무 늦기 전에 쏴!",
+      "TW": "[巴什] 亞德拉姆梅列克阻擋了道路！趕快射擊他，別太遲！"
+    }
+  },
+  "**[Bash] Adrammelech vanquished! Path is clear!**": {
+    "translation": "**[巴修] 愤怒之灵帝亚德拉梅利克已被击败！道路已清理！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] アドラメレック倒された！道は通れる！",
+      "CN": "[巴什] 德拉梅雷克已被消灭！道路已清理！",
+      "KR": "[배시] 아드라메르렉이 격파되었다! 길이 막힘 해제!",
+      "TW": "[巴什] 亞德拉姆梅列克已被擊敗！道路已清空！"
+    }
+  },
+  "**[Bash] Behemoth has casted its final attack! Kill him quickly!**": {
+    "translation": "**[巴修] 贝希摩斯施放了最后的攻击！快点杀了他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] ベヒーモスが最後の攻撃を仕掛けてきた！素早く始末しろ！",
+      "CN": "[巴什] 贝希摩斯已发动最后一击！快杀了它！",
+      "KR": "[배시] 베히모스가 최종 공격을 발동했다! 빨리 처치해!",
+      "TW": "[巴什] 貝希摩斯已施展其最終攻擊！迅速擊殺他！"
+    }
+  },
+  "**[Bash] Defeat Gabrath before reinforcements come!**": {
+    "translation": "**[巴修] 在增援到来之前击败伽布拉斯！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] 援軍が来る前にガブラスを倒せ！",
+      "CN": "[巴什] 在援军赶到之前击败加布拉特！",
+      "KR": "[배시] 증원군이 오기 전에 가브라스를 물리쳐!",
+      "TW": "[巴什] 在援軍到來之前擊敗加布拉特！"
+    }
+  },
+  "**[Bash] Destroy the activation crystal or we'll all stay here forever**": {
+    "translation": "**[巴修] 摧毁激活水晶，否则我们将永远留在这里**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 起動水晶を破壊しろ、さもないと私たちは永遠 here にとどまることになる",
+      "CN": "[巴什] 摧毁激活水晶，否则我们将永远留在这里",
+      "KR": "[야생파] 활성화 결정체를 파괴하지 않으면 우리 모두 여기서 영원히 갇히게 돼.",
+      "TW": "[巴什] 摧毀啟動水晶，否則我們將永遠留在此地"
+    }
+  },
+  "**[Bash] Don't let zombies cross the bridge! Its last hold defend until something happen!": {
+    "translation": "**[巴修] 不要让僵尸过桥！这是最后的防线，坚守直到发生什么变化！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] ゾンビが橋を渡るな！最後の砦は、何が起きても防衛しろ！",
+      "CN": "[巴什] 别让丧尸通过桥梁！这座桥是我们最后的防线，撑到援军到来！",
+      "KR": "[야생파] 좀비들이 다리를 건너게 하지 마! 마지막 방어가 뭔가가 일어나기 전에 지속되어야 해!",
+      "TW": "[巴什] 別讓殭屍過橋！這是最後一道防線，堅守到事件發生！"
+    }
+  },
+  "**[Bash] Don't let zombies get to the boss fight platform!**": {
+    "translation": "**[巴修] 不要让僵尸到达Boss战平台！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] ゾンビがボス戦のプラットフォームに到達するな！",
+      "CN": "[巴什] 别让丧尸靠近首领战平台！",
+      "KR": "[야생파] 좀비들이 보스 전장 플랫폼에 접근하는 것을 허용하지 마!",
+      "TW": "[巴什] 別讓殭屍到達 Boss 戰平台！"
+    }
+  },
+  "**[Bash] Don't stay on sides! Get to the middle now!**": {
+    "translation": "**[巴修] 不要待在两侧！现在就赶到中间！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 両側に立つな！今すぐ中央に行け！",
+      "CN": "[巴什] 别待在两侧！立刻到中间来！",
+      "KR": "[야생파] 옆으로 머무르지 마! 지금 중앙으로 오!",
+      "TW": "[巴什] 別待在一側！立刻到中間來！"
+    }
+  },
+  "**[Bash] Finally! Venat is dead! Now we can deal with Bergan!**": {
+    "translation": "**[巴修] 终于！维涅斯死了！现在我们可以对付贝甘了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] よかった！ベナットを倒した！これでベルガンを処理できる！",
+      "CN": "[巴什] 终于！维纳特已死！现在我们来解决伯格安！",
+      "KR": "[야생파] 드디어! 베나트가 사망했다! 이제 베르간을 처리할 수 있어!",
+      "TW": "[巴什] 終於！維納特已死！現在我們可以對付伯根了！"
+    }
+  },
+  "**[Bash] Find the way to the Hall of The Light and talk with Gran Kiltias**": {
+    "translation": "**[巴修] 寻找光之大厅，与格兰基尔蒂亚斯对话**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 光のホールへの道を見つけて、グラン・キルティアスと話せ",
+      "CN": "[巴什] 找到前往光之殿堂的路，与格兰·基尔提亚斯对话",
+      "KR": "[야생파] 빛의 홀로 가는 길을 찾아 그란 킬리아스와 대화해.",
+      "TW": "[巴什] 尋找通往光明大廳的路，並與葛蘭·基爾提亞斯交談"
+    }
+  },
+  "**[Bash] Gabranth is defeated - Escape!**": {
+    "translation": "**[巴修] 伽布拉斯已被击败 - 快跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] ガブラントを倒した - 逃亡せよ！",
+      "CN": "[巴什] 加百列已被击败——快逃！",
+      "KR": "[야생파] 가브란스 패배 - 탈출!",
+      "TW": "[巴什] 加布蘭已被擊敗——撤退！"
+    }
+  },
+  "**[Bash] Get to the fountain! Fast!**": {
+    "translation": "**[巴修] 快到喷泉！快！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 噴水に行け！速く！",
+      "CN": "[巴什] 快去喷泉！快！",
+      "KR": "[야생파] 분수대로 어서 가!",
+      "TW": "[巴什] 去噴泉那裡！快點！"
+    }
+  },
+  "**[Bash] Hurry and find a way to the lower parts of the Hall!**": {
+    "translation": "**[巴修] 快找个办法到达大殿的下层！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] 急いでホール下部への抜け道を見つけろ！",
+      "CN": "[巴什] 快想办法去到大厅下层！",
+      "KR": "[샤시] 서둘러 정원의 하층부로 갈 방법을 찾아라!",
+      "TW": "[巴什] 趕緊想辦法前往神殿下方的區域！"
+    }
+  },
+  "**[Bash] Imperial Army trying to block the temple!**": {
+    "translation": "**[巴修] 帝国军队试图封锁神殿！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] 帝軍が神殿封鎖を試みているぞ！",
+      "CN": "[巴什] 帝国军队正试图封锁神殿！",
+      "KR": "[샤시] 제국군이 사원을 차단하려 한다!",
+      "TW": "[巴什] 帝國軍隊企圖封鎖神廟！"
+    }
+  },
+  "**[Bash] In its long history Mt Bur-Omisace has never fallen under the control of any foreign power**": {
+    "translation": "**[巴修] 在漫长的历史中，神都布尔奥米塞斯从未被任何外来势力控制**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] モル・オミサシ山は長い歴史の中で外国の支配を受けたことがない。",
+      "CN": "[巴什] 在漫长的历史中，慕鲁－奥米萨齐山从未受任何外国势力控制",
+      "KR": "[샤시] 시 대성관의 오랜 역사 속에서, 외국 세력의 통제를 받은 적은 단 한 번도 없다",
+      "TW": "[巴什] 在悠久的歷史中，慕爾-歐米亞塞山從未落入任何外國勢力的控制。"
+    }
+  },
+  "**[Bash] It's last hold! Be ready to escape!**": {
+    "translation": "**[巴修] 这是最后的防守！准备好逃跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] 最後の砦だ！逃げ准备的をしろ！",
+      "CN": "[巴什] 这里是最后的据点！准备撤离！",
+      "KR": "[샤시] 마지막 거점이다! 퇴각 준비를 해라!",
+      "TW": "[巴什] 這是最後的防線！準備好撤退！"
+    }
+  },
+  "**[Bash] It's the Adrammelech Shoot before it's too late!**": {
+    "translation": "**[巴修] 这是愤怒之灵帝亚德拉梅利克，快击败他，别等到太晚！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] アドラメレックの射撃を間に合わせろ！",
+      "CN": "[巴什] 是阿德朗梅莱希的射击，再不快就来不及了！",
+      "KR": "[샤시] 아드라마르레흐가 쏘기 전에 저격해야 한다!",
+      "TW": "[巴什] 就是現在，對亞當梅列赫開火，別太遲了！"
+    }
+  },
+  "**[Bash] Judge Bergan has casted his final attack! Kill him quickly!**": {
+    "translation": "**[巴修] 裁判长贝甘施放了他的最后攻击！快点杀了他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] 裁判官ベルガンが最終攻撃を仕掛けてきた！速やかに撃て！",
+      "CN": "[巴什] 法官伯格安已发动最终攻击！赶紧杀了他！",
+      "KR": "[샤시] 판사 베르가나의 마지막 공격이 발동되었다! 빨리 처치하라!",
+      "TW": "[巴什] 法官貝爾根已發動最終攻擊！趕快消滅他！"
+    }
+  },
+  "**[Bash] Judge Bergan used Magicite! We have to kill him!**": {
+    "translation": "**[巴修] 裁判长贝甘使用了魔石！我们必须快点杀了他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] 裁判官ベルガンはマジカイトを使った！仕留めるのだ！",
+      "CN": "[巴什] 法官伯格安使用了魔法石！我们必须杀了他！",
+      "KR": "[샤시] 판사 베르가나가 마력을 소모했다! 우리를 처치해야 한다!",
+      "TW": "[巴什] 法官貝爾根使用了魔石！我們必須消滅他！"
+    }
+  },
+  "**[Bash] Juge Bergan has summoned Venat! Kill him before is too late**": {
+    "translation": "**[巴修] 裁判长贝甘召唤了维涅斯！在为时已晚之前杀了他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] 裁判官ベルガンはヴェナートを召喚した！間に合う前に仕留めろ！",
+      "CN": "[巴什] 法官伯格安召唤了维纳特！快在他完成之前杀了他！",
+      "KR": "[샤시] 판사 베르가나가 베나트를 소환했다! 너무 늦기 전에 처치하라",
+      "TW": "[巴什] 法官貝爾根召喚了薇娜特！在太遲之前消滅他！"
+    }
+  },
+  "**[Bash] Kingdom and Empire both formed a pact to guarantee the holy city's independence": {
+    "translation": "**[巴修] 王国和帝国达成了一项协议，以保证这座圣城的独立**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】王国と帝国は両方とも聖都の独立を保証する条約を結んだ",
+      "CN": "[Bash] 王国与帝国已缔结盟约，保障圣城的独立",
+      "KR": "[배시] 왕국과 제국은 모두 성도의 독립을 보장하기 위해 동맹을 체결했다",
+      "TW": "[Bash]王國與帝國均已缔結協議，保證聖城的獨立地位"
+    }
+  },
+  "**[Bash] Look out! The Imperial Army is attacking!!**": {
+    "translation": "**[巴修] 小心！帝国军队正在攻击！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】気を付けろ！帝国軍が攻撃している！！",
+      "CN": "[Bash] 小心！帝国军队正在进攻！！",
+      "KR": "[배시] 주의해! 제국군이 공격하고 있다!!",
+      "TW": "[Bash]小心！帝國軍隊正在攻擊！！"
+    }
+  },
+  "**[Bash] Main engines are about to explode! Warning grab something!**": {
+    "translation": "**[巴修] 主引擎即将爆炸！警告，快抓住些什么！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】メインエンジンが爆発する！警告、何かに掴まれ！",
+      "CN": "[Bash] 主引擎即将爆炸！快找东西抓住！",
+      "KR": "[배시] 주 엔진이 폭발하려고 해! 경고, 무엇인가를 잡아!",
+      "TW": "[Bash]主引擎即將爆炸！警告：抓住一樣東西！"
+    }
+  },
+  "**[Bash] Main engines could explode at any moment don't stay here too long!**": {
+    "translation": "**[巴修] 主引擎随时可能爆炸，不要在这里待太久！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】メインエンジンはいつでも爆発するかもしれない！ここに長く滞在するな！",
+      "CN": "[Bash] 主引擎随时可能爆炸，别在这里停留太久！",
+      "KR": "[배시] 주 엔진이 언제든지 폭발할 수 있으니 너무 오래 머물지 마!",
+      "TW": "[Bash]主引擎隨時可能爆炸，不要在這裡待太久！"
+    }
+  },
+  "**[Bash] Nades do more damage**": {
+    "translation": "**[巴修] 手雷能造成更多伤害**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】ナデスはより多くのダメージを与える",
+      "CN": "[Bash] 手榴弹造成更多伤害",
+      "KR": "[배시] 너드는 더 많은 피해를 입힌다",
+      "TW": "[Bash]手榴彈傷害更高"
+    }
+  },
+  "**[Bash] On the understanding that Kiltia's followers would exempt themselves from political dealings in other lands**": {
+    "translation": "**[巴修] 基尔提亚的信徒不会干预其他国家的政治事务**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】キルティアの信者が他の土地での政治的関与から免除されることを理解した上で",
+      "CN": "[Bash] 前提是基尔提亚的追随者豁免在其他地区的政治事务",
+      "KR": "[배시] 킬티아의 추종자들이 타국의 정치적 이해관계에 관여하지 않는다는 전제 하에",
+      "TW": "[Bash]前提是基爾提亞的追隨者免於參與其他國家的政治事務"
+    }
+  },
+  "**[Bash] Prepare for battle! Do not get close or you will die immediately!**": {
+    "translation": "**[巴修] 准备战斗！不要试图靠近，否则你会立刻死去！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】戦闘準備を始めよ！近づくな、そうしないと即死する！",
+      "CN": "[Bash] 准备战斗！不要靠近，否则你会立即死亡！",
+      "KR": "[배시] 전투 준비를 해라! 가까이 가면 즉시 죽는다!",
+      "TW": "[Bash]準備戰鬥！不要靠近，否則會立即死亡！"
+    }
+  },
+  "**[Bash] Remember trust no one!**": {
+    "translation": "**[巴修] 记住，谁也不要相信！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】誰も信用するな！",
+      "CN": "[Bash] 记住，不要相信任何人！",
+      "KR": "[배시] 누구도 믿지 마!",
+      "TW": "[Bash]記住：別相信任何人！"
+    }
+  },
+  "**[Bash] Some of your items can damage the boss**": {
+    "translation": "**[巴修] 你的一些神器可以对Boss造成伤害**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] アイテムの一部がボスを損害する可能性があります",
+      "CN": "[重击] 部分物品会对Boss造成伤害",
+      "KR": "[남발] 일부 아이템이 보스를 해칠 수 있습니다",
+      "TW": "[連擊] 您的部分道具會對老闆造成傷害"
+    }
+  },
+  "**[Bash] The Guard has vanquished! Keep runing!**": {
+    "translation": "**[巴修] 卫兵已被击败！快跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 守護者が倒れました！逃げ続けましょう！",
+      "CN": "[重击] 守卫已被击败！继续推进！",
+      "KR": "[남발] 가드를 물리쳤습니다! 계속 돌진하세요!",
+      "TW": "[連擊] 守衛已被擊敗！請繼續奔跑！"
+    }
+  },
+  "**[Bash] The Guard of the gates. If we want to escape we have to defeat him!**": {
+    "translation": "**[巴修] 大门的卫兵。如果我们想逃跑，就必须击败他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 門番です。脱出するには彼を倒さなければなりません！",
+      "CN": "[重击] 城门守卫。如果我们想逃脱，就必须击败他！",
+      "KR": "[남발] 문지기입니다. 탈출하려면 그를 쓰러뜨려야 합니다!",
+      "TW": "[連擊] 門戶守衛。如果我們想逃出去，就必須擊敗他！"
+    }
+  },
+  "**[Bash] The Imperial Army has blocked the entrance! We must defeat them before it is too late!**": {
+    "translation": "**[巴修] 帝国军队封锁了入口！我们必须在为时已晚之前击败他们！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 帝国軍が入口を封鎖しました！遅れる前に彼らを倒さなければなりません！",
+      "CN": "[重击] 帝国军队封锁了入口！我们必须赶在他们到来之前击败他们！",
+      "KR": "[남발] 제국군이 입구를 차단했습니다! 늦기 전에 그들을 물리쳐야 합니다!",
+      "TW": "[連擊] 帝國軍隊封鎖了入口！我們必須在太遲之前擊敗他們！"
+    }
+  },
+  "**[Bash] The Imperial Army set fire to the temples!** ": {
+    "translation": "**[巴修] 帝国军队纵火焚烧神殿！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 帝国軍は神殿に火を付けました！",
+      "CN": "[重击] 帝国军队点燃了神庙！",
+      "KR": "[남발] 제국군이 사원을 불태웠습니다!",
+      "TW": "[連擊] 帝國軍隊燒毀了神殿！"
+    }
+  },
+  "**[Bash] The Sanctuary Keeper has casted its final attack! Kill him quickly!**": {
+    "translation": "**[巴修] 圣地守护兽施放了最后的攻击！快点杀了他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 聖域の守りが最後の攻撃を仕掛けました！早く彼を倒してください！",
+      "CN": "[重击] 圣所守护者已发动最终攻击！迅速击杀他！",
+      "KR": "[남발] 성지 수호자가 최종 공격을 준비했습니다! 빠르게 처치하세요!",
+      "TW": "[連擊] 聖所守護者釋放了最終攻擊！請迅速將其消滅！"
+    }
+  },
+  "**[Bash] The crystal has been destroyed! It takes 15 seconds to fully activate!**": {
+    "translation": "**[巴修] 水晶已被摧毁！需要15秒才能完全激活！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] クリスタルが破壊されました！完全活性化まで15秒かかります！",
+      "CN": "[重击] 水晶已被摧毁！完全激活需要15秒！",
+      "KR": "[남발] 결정체가 파괴되었습니다! 완전 활성화까지 15초가 걸립니다!",
+      "TW": "[連擊] 水晶已被摧毀！完全啟動需要15秒！"
+    }
+  },
+  "**[Bash] The exit is right in front of us! Get ready for the final battle** ": {
+    "translation": "**[巴修] 出口就在我们面前！准备好最后的战斗！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Bash] 出口は目の前にあります！最後の戦闘の準備をしてください",
+      "CN": "[重击] 出口就在眼前！准备好迎接最终战斗吧",
+      "KR": "[남발] 출구가 눈앞에 있습니다! 최종 전투를 준비하세요!",
+      "TW": "[連擊] 出口就在我們面前！準備進行最終戰鬥"
+    }
+  },
+  "**[Bash] The gates are open. We have finally entered the temple**": {
+    "translation": "**[巴修] 大门已开启。我们终于进入了神殿**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】門が開いた。ついに寺に進入したぞ",
+      "CN": "[巴什]大门已开。我们终于进入了神殿",
+      "KR": "[배쉬] 성문이 열렸다. 드디어 사원에 들어왔다.",
+      "TW": "[巴什] 大門已開啟。我們終於進入了神殿。"
+    }
+  },
+  "**[Bash] The goal is clear - destroy the airship and defeat Judge Gabranth!**": {
+    "translation": "**[巴修] 目标明确 - 摧毁飞艇并击败裁判长伽布拉斯！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】目的は明確だ。空を蹴破り、ガブランス裁判官を倒せ！",
+      "CN": "[巴什]目标明确——摧毁空中战舰并击败加布兰斯审判官！",
+      "KR": "[배쉬] 목표는 명확하다. 하늘선을 파괴하고 가브리안트 판사를 격파하자!",
+      "TW": "[巴什] 目標很明確——摧毀空中飛艇並擊敗法官加布蘭斯！"
+    }
+  },
+  "**[Bash] The last guard has vanquished! Now we can meet Gran Kiltias!**": {
+    "translation": "**[巴修] 最后的卫兵已被击败！现在我们可以见到格兰基尔蒂亚斯！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】最後の衛兵も撃破した！これでグラン・キルティアスと会えるぞ！",
+      "CN": "[巴什]最后的守卫已被歼灭！现在我们可以去见格兰·基尔提亚斯了！",
+      "KR": "[배쉬] 마지막 경비가 제거되었다! 이제 그란 킬티아스와会面할 수 있다!",
+      "TW": "[巴什] 最後一名守衛已被擊潰！現在我們可以拜見格蘭·基爾提阿斯！"
+    }
+  },
+  "**[Bash] The temple was built here by believers**": {
+    "translation": "**[巴修] 这座神殿是由信徒建造的**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】寺は信者によってここにつくられた",
+      "CN": "[巴什]这座神殿是由信徒们在此建造的",
+      "KR": "[배쉬] 사원은 신앙도들이 이곳에 세웠다.",
+      "TW": "[巴什] 神殿是由信徒們在此建立的。"
+    }
+  },
+  "**[Bash] There are accounts of the holy city here dating back to writings from the age of the Galtean Alliance**": {
+    "translation": "**[巴修] 这里有关于圣城的记载，追溯到加尔特联盟时代的文献**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】聖域都市の記録は、ガルテア同盟時代の文献にまで遡れる",
+      "CN": "[巴什]关于这座圣城有据可查，其历史可以追溯到伽尔台亚同盟时代的文献记载",
+      "KR": "[배쉬] 이곳의 신성한 도시에 대해서는 갈테안 동맹 시대의 기록에도 명시되어 있다.",
+      "TW": "[巴什] 這裡有神聖城市的記載，追溯至伽爾特安同盟時代的文獻。"
+    }
+  },
+  "**[Bash] There should be a control panel next to each of them! Turn off the engines and run away as fast as possible!**": {
+    "translation": "**[巴修] 每个引擎旁边应该都有一个控制面板！关闭引擎后尽快逃跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】その隣には制御パネルがあるはずだ！エンジンを停止し、できるだけ早く逃げろ！",
+      "CN": "[巴什]每台引擎旁边应该都有一个控制面板！切断动力源，然后尽快逃跑！",
+      "KR": "[배쉬] 각각 옆에 제어 패널이 있을 것이다! 엔진을 정지시키고 가능한 한 빨리 도망치자!",
+      "TW": "[巴什] 它們旁邊應該有控制面板！關閉引擎，然後盡快逃離！"
+    }
+  },
+  "**[Bash] They did it to mark the place where the founder of the Light of Kiltia began to spread the teachings**": {
+    "translation": "**[巴修] 他们这样做是为了标记基尔提亚教创始人传播教义的地方**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】キルティアの光の創始者が教えを広め始めた場所を示すために",
+      "CN": "[巴什]他们这样做是为了标记基尔提亚之光创立者开始传播教义的地点",
+      "KR": "[배쉬] 그것은 라이트 오브 킬티아의 창시자가 교리를 펼치기 시작한 곳을 표시하기 위함이었다.",
+      "TW": "[巴什] 他們這樣做是為了標記基爾提亞之光創始人開始傳揚教義的地點。"
+    }
+  },
+  "**[Bash] To be sure that the Sky Fortress will blow up we have to block the power supply from the three engines**": {
+    "translation": "**[巴修] 为了确保空中要塞爆炸，我们必须切断三台引擎的电源**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】天空要塞を確実に爆破するためには、三つのエンジンからの電力供給を遮断する必要がある",
+      "CN": "[巴什]为确保空中要塞会爆炸，我们必须切断三台引擎的动力供给",
+      "KR": "[배쉬] 하늘 요새가 폭발하는 것을 확실히 하기 위해 세 엔진의 전원 공급을 차단해야 한다.",
+      "TW": "[巴什] 要確保空中堡壘會爆炸，我們必須切斷來自三個引擎的動力供應。"
+    }
+  },
+  "**[Bash] We do not know they set additional traps for us! Be vigilant! Hold here for 20 seconds!** ": {
+    "translation": "**[巴修] 我们不知道他们是否为我们设置了额外的陷阱！保持警惕！在此防守20秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】追加の罠をしかけてくるやつらを私たちは知らない！警戒しろ！ここを20秒間守れ！",
+      "CN": "[巴什]我们不知道他们为我们设下了额外的陷阱！保持警惕！在此坚守20秒！",
+      "KR": "[배시] 그들이 추가 함정을 설치했다는 건我们还 모르지만! 경계하십시오! 20초간 여기를 방어하세요!",
+      "TW": "[巴什] 我們不知道他們還設下了什麼陷阱！保持警惕！在這裡撐住20秒！"
+    }
+  },
+  "**[Bash] We finally made it! Welcome to the Sky Fortress Bahamut!**": {
+    "translation": "**[巴修] 我们终于到了！欢迎来到空中要塞巴哈姆特！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】ついにたどり着いた！空の要塞バッハムートへようこそ！",
+      "CN": "[巴什]我们终于成功了！欢迎来到天空要塞 Bahamut！",
+      "KR": "[배시] 우리가 드디어 도착했다! 천공의 요새 바하무트에 오신 것을 환영한다!",
+      "TW": "[巴什] 我們終於成功了！歡迎來到天空堡壘 Bahamut！"
+    }
+  },
+  "**[Bash] We must hurry before they destroy the whole temple!**": {
+    "translation": "**[巴修] 我们必须快点，才能在他们摧毁整个神殿之前逃离！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】神殿が破壊される前に急ぎだ！",
+      "CN": "[巴什]我们必须赶在他们摧毁整个寺庙之前行动！",
+      "KR": "[배시] 그들이 신전을 완전히 파괴하기 전에 서둘러야 한다!",
+      "TW": "[巴什] 在他們摧毀整個神殿之前，我們必須加快腳步！"
+    }
+  },
+  "**[Bash] We need to hold this area for 15 seconds!** ": {
+    "translation": "**[巴修] 我们需要在此区域守住15秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】このエリアを15秒間守るんだ！",
+      "CN": "[巴什]我们需要在此区域坚守15秒！",
+      "KR": "[배시] 이 지역을 15초간 유지해야 합니다!",
+      "TW": "[巴什] 我们需要在此区域坚守15秒！"
+    }
+  },
+  "**[Bash] We shouldn't have come in here. Let's get out of here while we still can!**": {
+    "translation": "**[巴修] 我们本不该进来。趁还来得及，赶快离开这里！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】ここに入るべきじゃなかったよ。まだ間に合ううちに引き下がろう！",
+      "CN": "[巴什]我们真不该进来。趁现在还能离开，赶紧撤吧！",
+      "KR": "[배시] 여긴 들어오는 게 아니었어. 가능한 한 빨리 빠져나가자!",
+      "TW": "[巴什] 我們不該闖進這裡的。趁現在還能走，趕快離開吧！"
+    }
+  },
+  "**[Bash] Well done! Hold this area for 40 seconds until the gates open!**": {
+    "translation": "**[巴修] 干得好！在大门开启前在此区域防守40秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】よくやった！門が開くまで40秒間、このエリアを守れ！",
+      "CN": "[巴什]干得好！在城门打开前在此区域坚守40秒！",
+      "KR": "[배시] 잘했다! 게이트가 열릴 때까지 40초간 이 지역을 방어하라!",
+      "TW": "[巴什] 做得好！守住這個區域40秒，直到城門開啟！"
+    }
+  },
+  "**[Bash] Well done! The Path is clear! RUN!**": {
+    "translation": "**[巴修] 干得好！道路畅通！快跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】よくやった！道は通れたぞ！走れ！",
+      "CN": "[巴什]干得好！道路已清空！快跑！",
+      "KR": "[배시] 잘했다! 경로가 깨끗하다! 도망치자!",
+      "TW": "[巴什] 做得好！道路已開！快跑！"
+    }
+  },
+  "**[Bash] Well done! You interrupted the attack and now you may attack Judge Berga**": {
+    "translation": "**[巴修] 干得好！你中断了攻击，现在可以攻击裁判长贝甘了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【バッシュ】よくやった！攻撃を妨害したな。今こそジャッジ・ベルガを攻撃しろ",
+      "CN": "[巴什]干得好！你成功阻止了袭击，现在可以攻击法官贝尔加了。",
+      "KR": "[배시] 잘했다! 그들은 공격을 방해당했고 이제 주Judge 베르가를 공격할 수 있다",
+      "TW": "[巴什] 做得好！你成功打斷了攻擊，現在你可以攻擊法官貝爾加。"
+    }
+  },
+  "**[Bash] Yes! It's the Sanctuary Keeper! The most dangerous guard! We must kill him before he kills us!**": {
+    "translation": "**[巴修] 是的！这是圣地守护兽！最危险的守卫！我们必须在他杀了我们之前杀了他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【打撃】そうだ！それは聖域の番人だ！最も危険な警備員だ！彼が私たちを殺す前に、彼を倒さなければならない！",
+      "CN": "【猛击】对！那是圣地守护者！最危险的守卫！我们必须在他杀死我们之前除掉他！",
+      "KR": "[Bash] 응! 성域 지킴이다! 가장 위험한 경비원이다! 우리보다 먼저 그를 죽여야 해!",
+      "TW": "【猛擊】是的！他是守護者！最危險的敵人！我們必須先下手為強，在他殺死我們之前消滅他！"
+    }
+  },
+  "**[Bash] You can't do any harm to Judge Bergan until you destroy the moonlight!**": {
+    "translation": "**[巴修] 在你摧毁月之爆发前，无法对裁判长贝甘造成伤害！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【打撃】ムーンライトを破壊するまで、ジャッジ・ベルガンに危害を加えることはできない！",
+      "CN": "【猛击】在摧毁月光之前，你们无法对法官伯根造成任何伤害！",
+      "KR": "[Bash] 달빛을 파괴하기 전까지는 판사 베르간에게 손상을 입힐 수 없다!",
+      "TW": "【猛擊】在摧毀月光護盾之前，你無法對法官伯根造成任何傷害！"
+    }
+  },
+  "**[Bash] stay focused! I have a feeling this isn't the end!**": {
+    "translation": "**[巴修] 保持警惕！我有种感觉，这还没有结束！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【打撃】集中しろ！これは終わりじゃないって気がする！",
+      "CN": "【猛击】保持专注！我有一种感觉，这还不是终点！",
+      "KR": "[Bash] 집중해! 이건 끝이 아닐 것 같아!",
+      "TW": "【猛擊】保持專注！我有種預感這還沒結束！"
+    }
+  },
+  "**[Gabranth] Ha Defend?! You!?**": {
+    "translation": "**[伽布拉斯] 哈，防守？！你！？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ガブランス】ハ？防御だと？お前が！",
+      "CN": "[加布兰兹] 哈，防御？！你？！",
+      "KR": "[Gabranth] 하, 방어?! 너라고?!",
+      "TW": "【加布蘭斯】哈，防禦？你？！"
+    }
+  },
+  "**[SECURITY ALERT] All engines shut down! The main gate will open in 25 second!**": {
+    "translation": "**[安全警报] 所有引擎已关闭！主门将在25秒后开启！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【セキュリティアラート】すべてのエンジンが停止しました！メインゲートが25秒後に開放されます！",
+      "CN": "[安全警报] 所有引擎已关闭！主闸门将在25秒后打开！",
+      "KR": "[SECURITY ALERT] 모든 엔진이 정지했습니다! 메인 게이트가 25초 후에 열립니다!",
+      "TW": "[安全警報]所有引擎已關閉！主門將在25秒後開啟！"
+    }
+  },
+  "**[SECURITY ALERT] Engine 01 has been stopped manually!**": {
+    "translation": "**[安全警报] 引擎01已手动停止！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【セキュリティアラート】エンジン01が手動で停止されました！",
+      "CN": "[安全警报] 引擎01已手动停止！",
+      "KR": "[SECURITY ALERT] 엔진 01이 수동으로 정지되었습니다!",
+      "TW": "[安全警報]引擎01已手動停止！"
+    }
+  },
+  "**[SECURITY ALERT] Engine 02 has been stopped manually!**": {
+    "translation": "**[安全警报] 引擎02已手动停止！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【セキュリティアラート】エンジン02が手動で停止されました！",
+      "CN": "[安全警报] 引擎02已手动停止！",
+      "KR": "[SECURITY ALERT] 엔진 02가 수동으로 정지되었습니다!",
+      "TW": "[安全警報]引擎02已手動停止！"
+    }
+  },
+  "**[SECURITY ALERT] Engine 03 has been stopped manually!**": {
+    "translation": "**[安全警报] 引擎03已手动停止！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【セキュリティアラート】エンジン03が手動で停止されました！",
+      "CN": "[安全警报] 引擎03已手动停止！",
+      "KR": "[SECURITY ALERT] 엔진 03이 수동으로 정지되었습니다!",
+      "TW": "[安全警報]引擎03已手動停止！"
+    }
+  },
+  "**[Setzer] Anyway find and talk with Gran Kiltias. Hope he acknowledge her as the rightful heir to the throne of Dalmasca!**": {
+    "translation": "**[萨查] 不管怎样，找格兰基尔蒂亚斯谈谈。希望他承认她是达尔玛斯卡王室的合法继承者！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ゼッター] とにかく、グラン・キルティアスを探して話せ。ダラスカ王位継承者としての彼女の地位を認めさせるのだ",
+      "CN": "【塞泽】总之找到并和格兰·基尔提亚斯谈谈。希望他能承认她为达马斯卡王国的合法继承人！",
+      "KR": "[Setzer] 어쨌든 그란 킬티아스를 찾아 대화하라. 그가 발리사카 왕좌의 합법적 후계자로 그를 인정하기를 바란다!",
+      "TW": "[Setzer] 總之去找葛拉妮西塔斯交談吧。希望他能承認她是達馬斯卡王位的正統繼承者！"
+    }
+  },
+  "**[Setzer] Dark clouds begin to gather over Temple Grounds. This is a bad sign**": {
+    "translation": "**[萨查] 黑云开始在神殿上空聚集。这是个坏兆头**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ゼッター] 神殿周辺の空が暗くなってきた。不吉な予感だ",
+      "CN": "【塞泽】圣地周围开始聚集乌云。这是个不好的预兆",
+      "KR": "[Setzer] 성지 주변에 어둠의 구름이 몰려오고 있다. 이는 나쁜 징조다",
+      "TW": "[Setzer] 神殿周邊的天空開始聚集黑雲。這不是個好兆頭"
+    }
+  },
+  "**[Setzer] Good luck!**": {
+    "translation": "**[萨查] 祝好运！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ゼッター] 幸運を祈る",
+      "CN": "【塞泽】祝你好运！",
+      "KR": "[Setzer] 행운을 빈다!",
+      "TW": "[Setzer] 祝你好運！"
+    }
+  },
+  "**[Setzer] Hold on! They blocking the path!**": {
+    "translation": "**[萨查] 防守住！他们封锁了道路！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ゼッター] ちょっと待て！道が塞がっている！",
+      "CN": "【塞泽】等等！他们挡住了去路！",
+      "KR": "[Setzer] 잠깐! 그들이 길을 막고 있다!",
+      "TW": "[Setzer] 等一下！他們把路堵住了！"
+    }
+  },
+  "**[Setzer] The temple is being attacked by the guardians!**": {
+    "translation": "**[萨查] 神殿正受到守护者的攻击！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ゼッター] 神殿を守る守護神たちが襲いかかってくるぞ！",
+      "CN": "【塞泽】神殿正遭到守护者的攻击！",
+      "KR": "[Setzer] 성에 수호자들이 공격을 가하고 있다!",
+      "TW": "[Setzer] 神殿正遭到守護者的攻擊！"
+    }
+  },
+  "**[Setzer] Watch out! We clean them out!**": {
+    "translation": "**[萨查] 小心！我们去清理掉他们！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ゼッター] 注意しろ！一掃するから！",
+      "CN": "【塞泽】小心！我们把它们清除掉！",
+      "KR": "[Setzer] 조심해! 다 제거하자!",
+      "TW": "[Setzer] 小心！我們消滅他們！"
+    }
+  },
+  "**[Setzer] We have finally arrived. Welcome to Mt Bur-Omisace**": {
+    "translation": "**[萨查] 我们终于到了。欢迎来到神都布尔奥米塞斯**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ゼッター] さて、到着だ。マク・オミサセ山へようこそ",
+      "CN": "【塞泽】我们终于到了。欢迎来到布欧-奥密赛斯山",
+      "KR": "[Setzer] 마침내 도착했다. 부르-오미사케 산에 오신 것을 환영한다",
+      "TW": "[Setzer] 我們終於到了。歡迎來到布爾-奧米薩奇山"
+    }
+  },
+  "**[Setzer] We hit! We hit! We have to fly! So far you're on your own! Good luck**": {
+    "translation": "**[萨查] 我们被击中了！我们被击中了！我们必须起飞！到目前为止，你得靠自己！祝你好运！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ゼッター] 命中した！撃ち込んだ！我々は飛行する。あとはお前次第だ！幸運を祈る",
+      "CN": "【塞泽】命中！命中！我们必须起飞！到目前为止你都靠自己了！祝你好运",
+      "KR": "[Setzer] 명중! 명중했다! 비행할 시간이야. 지금까지 당신은 혼자였지! 행운을 빈다",
+      "TW": "[Setzer] 成功了！成功了！我們必須飛走！從這裡起你自己照顧自己了！祝你好運"
+    }
+  },
+  "**[Setzer] We meet soon after Ashe talk to Al-Cid Margrace of Rozarria!**": {
+    "translation": "**[萨查] 在艾雪与罗扎利亚帝国的阿尔希德·马格拉斯交谈后，我们很快就会见面！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[セットサー] アシェがローザリア王国のアル・シッド・マルグレーユと会談した直後、我々は再会する！",
+      "CN": "[塞泽尔] 阿什和罗拉比亚的阿尔西德·马尔格拉斯交谈后，我们很快就见面了！",
+      "KR": "[Setzer] 아쉐가 로자리아의 알시드 마그라스와 대화한 후, 우리는 곧 만나게 됩니다!",
+      "TW": "[塞澤爾]我們不久後會在羅扎利亞與艾榭和阿爾西德·馬格格拉斯會面！"
+    }
+  },
+  "**[Setzer] You have to go the rest of the way on your own. Flying closer is prohibited!**": {
+    "translation": "**[萨查] 你必须独自走完剩下的路。禁止飞行！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[セットサー] この先は自力で移動してもらう。これ以上近づいての飛行は禁止だ！",
+      "CN": "[塞泽尔] 剩下的路你需要自己走。禁止靠近飞行！",
+      "KR": "[Setzer] 나머지 경로는 혼자 다녀야 합니다. 더 가까운 비행은 금지되어 있습니다!",
+      "TW": "[塞澤爾]剩下的路程你得靠自己走了。禁止再靠近飛行！"
+    }
+  },
+  "**[Tonberry] Congratulations! There is your reward!**": {
+    "translation": "**[冬贝利] 恭喜！这是你的奖励！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] おめでとう！これが君への報酬だ！",
+      "CN": "[汤伯利] 恭喜你！这是你的奖励！",
+      "KR": "[토너리] 축하합니다! 여기 당신의 보상입니다!",
+      "TW": "[頓寶瑞]恭喜！這是你的獎勵！"
+    }
+  },
+  "**[Tonberry] Hello my friends! I sell and buy rare items! Take a look through my assortment**": {
+    "translation": "**[冬贝利] 你好，我的朋友们！我正在出售和收购稀有物品！快来看看吧**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] よう来たよ、友だち！稀有なアイテムを仕入れていますよ。私の品揃えをご覧ください。",
+      "CN": "[汤伯利] 你好，朋友们！我买卖稀有物品！浏览一下我的商品",
+      "KR": "[토너리] 반갑습니다 친구들이여! 나는 희귀 아이템을 사고 팝니다! 내 진열품을 살펴보세요",
+      "TW": "[頓寶瑞]你好，朋友們！我買賣稀有物品！來看看我的商品陣容吧。"
+    }
+  },
+  "**[Tonberry] I lost my Workshop Keys could you help we find them?**": {
+    "translation": "**[冬贝利] 我丢失了我的工作坊钥匙，你能帮我找一下吗？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] 工作場のキーを紛失しちゃった。見つけてくれない？",
+      "CN": "[汤伯利] 我的工坊钥匙丢了，你能帮我们要找吗？",
+      "KR": "[토너리] 저는 작업실 열쇠를 잃어버렸는데, 찾아주는 수고를 해주시겠습니까?",
+      "TW": "[頓寶瑞]我弄丟了工坊鑰匙，你能幫我們找到它嗎？"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 1 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我1把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだ全てのキーが見つからないのか？あと1つ持ってこなくちゃだめだ",
+      "CN": "[汤伯利] 还没有找到所有的钥匙？你需要再给我带来1个钥匙",
+      "KR": "[토너리] 아직도 모든 열쇠를 찾지 못하셨나요? 저에게 1개의 열쇠 더 가져오셔야 합니다",
+      "TW": "[頓寶瑞]還沒找到所有鑰匙嗎？你需要再給我1把鑰匙。"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 2 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我2把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだ全てのキーが見つからないのか？あと2つ持ってこなくちゃだめだ",
+      "CN": "[汤伯利] 还没有找到所有的钥匙？你需要再给我带来2个钥匙",
+      "KR": "[토너리] 아직도 모든 열쇠를 찾지 못하셨나요? 저에게 2개의 열쇠 더 가져오셔야 합니다",
+      "TW": "[頓寶瑞]還沒找到所有鑰匙嗎？你需要再給我2把鑰匙。"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 3 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我3把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだ全てのキーが見つからないのか？あと3つ持ってこなくちゃだめだ",
+      "CN": "[汤伯利] 还没有找到所有的钥匙？你需要再给我带来3个钥匙",
+      "KR": "[토너리] 아직도 모든 열쇠를 찾지 못하셨나요? 저에게 3개의 열쇠 더 가져오셔야 합니다",
+      "TW": "[頓寶瑞]還沒找到所有鑰匙嗎？你需要再給我3把鑰匙。"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 4 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我4把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだすべての鍵を見つけていない？あと4つの鍵を持ってきてください",
+      "CN": "[唐博里]还没找到所有钥匙？你还需要再给我4把钥匙",
+      "KR": "[-tonberry] 여전히 모든 열쇠를 찾지 못하셨나요? 추가로 4개의 열쇠를 더 가져다 주세요",
+      "TW": "[唐布理] 還沒找到所有的鑰匙？您還需要給我4把更多的鑰匙"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 5 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我5把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだすべての鍵を見つけていない？あと5つの鍵を持ってきてください",
+      "CN": "[唐博里]还没找到所有钥匙？你还需要再给我5把钥匙",
+      "KR": "[tonberry] 여전히 모든 열쇠를 찾지 못하셨나요? 추가로 5개의 열쇠를 더 가져다 주세요",
+      "TW": "[唐布理] 還沒找到所有的鑰匙？您還需要給我5把更多的鑰匙"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 6 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我6把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだすべての鍵を見つけていない？あと6つの鍵を持ってきてください",
+      "CN": "[唐博里]还没找到所有钥匙？你还需要再给我6把钥匙",
+      "KR": "[tonberry] 여전히 모든 열쇠를 찾지 못하셨나요? 추가로 6개의 열쇠를 더 가져다 주세요",
+      "TW": "[唐布理] 還沒找到所有的鑰匙？您還需要給我6把更多的鑰匙"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 7 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我7把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだすべての鍵を見つけていない？あと7つの鍵を持ってきてください",
+      "CN": "[唐博里]还没找到所有钥匙？你还需要再给我7把钥匙",
+      "KR": "[tonberry] 여전히 모든 열쇠를 찾지 못하셨나요? 추가로 7개의 열쇠를 더 가져다 주세요",
+      "TW": "[唐布理] 還沒找到所有的鑰匙？您還需要給我7把更多的鑰匙"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 8 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我8把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだすべての鍵を見つけていない？あと8つの鍵を持ってきてください",
+      "CN": "[唐博里]还没找到所有钥匙？你还需要再给我8把钥匙",
+      "KR": "[tonberry] 여전히 모든 열쇠를 찾지 못하셨나요? 추가로 8개의 열쇠를 더 가져다 주세요",
+      "TW": "[唐布理] 還沒找到所有的鑰匙？您還需要給我8把更多的鑰匙"
+    }
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 9 more keys**": {
+    "translation": "**[冬贝利] 还没找到所有钥匙吗？你需要再给我9把钥匙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] まだすべての鍵を見つけていない？あと9つの鍵を持ってきてください",
+      "CN": "[唐博里]还没找到所有钥匙？你还需要再给我9把钥匙",
+      "KR": "[tonberry] 여전히 모든 열쇠를 찾지 못하셨나요? 추가로 9개의 열쇠를 더 가져다 주세요",
+      "TW": "[唐布理] 還沒找到所有的鑰匙？您還需要給我9把更多的鑰匙"
+    }
+  },
+  "**[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all Keys**": {
+    "translation": "**[冬贝利] 作为感谢，当你找到所有钥匙时，下回合开始我会给你一个小礼物**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] 感謝の印として、次にすべての鍵を返す時にお小遣いを差し上げます",
+      "CN": "[唐博里]谢谢你的帮助，作为感谢，下次你归还所有钥匙时，我会送你一份小礼物",
+      "KR": "[tonberry] 감사합니다. 감사의 뜻으로 다음에 모든 열쇠를 돌려주시는 작은 선물을 드리겠습니다",
+      "TW": "[唐布理] 多謝您的幫助，下次您歸還所有鑰匙時，我會送您一份小禮物作為感謝"
+    }
+  },
+  "**[Tonberry] Thanks for your help now I can go back to my own**": {
+    "translation": "**[冬贝利] 感谢你的帮助，现在我可以回到自己的地方了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[トンベリ] ありがとう、今は自分の元に戻れる",
+      "CN": "[唐博里]谢谢你的帮助，现在我可以回到我自己那了",
+      "KR": "[tonberry] 도와주셔서 감사합니다. 이제 저는 제 곳으로 돌아갈 수 있습니다",
+      "TW": "[唐布理] 多謝您的幫助，現在我可以回到自己的家了"
+    }
+  },
+  "**[Vaan] Is that who I think it is!?**": {
+    "translation": "**[梵] 是我想的那个人吗！？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ヴァン】あの人物は誰なの！？",
+      "CN": "[范] 是我想的那个人吗！？",
+      "KR": "[반] 그 내가 생각한那个人이야!?",
+      "TW": "[梵] 是我想的那個人嗎！？"
+    }
+  },
+  "**[Vaan] Judge Gabranth has casted his final attack! Kill him quickly!**": {
+    "translation": "**[梵] 裁判长伽布拉斯施放了他的最后攻击！快点杀了他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ヴァン】ガブランス裁判長の最後の攻撃が決まった！素早く仕留めろ！",
+      "CN": "[范] 加布兰斯法官已经使用了最后一种攻击！快杀了他！",
+      "KR": "[반] 자브란스 판사가 마지막 공격을 펼쳤어! 빨리 처치해!",
+      "TW": "[梵] 嘉班特法官已使出最後一招！快打倒他！"
+    }
+  },
+  "**[Vaan] Look! There is clean path! Keep running!**": {
+    "translation": "**[梵] 看！那是条没人的道路！快跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ヴァン】あっ！そこに安全な道がある！続けて走れ！",
+      "CN": "[范] 看！那里是一条干净的路径！继续前进吧！",
+      "KR": "[반] 봐! 깨끗한 길이 있어! 계속 달리는 거야!",
+      "TW": "[梵] 看！那條路沒有障礙物！快跑！"
+    }
+  },
+  "**[Vaan] We have to get out of here before the main gates collapses!** ": {
+    "translation": "**[梵] 我们必须在主门倒塌之前离开这里！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ヴァン】メインゲートが崩壊する前にここで逃げ出す必要がある！",
+      "CN": "[范] 在大门倒塌之前，我们必须离开这里！",
+      "KR": "[반] 메인 게이트가 무너지기 전에 여기를 벗어나야 해!",
+      "TW": "[梵] 在正門崩塌之前，我們得離開這裡！"
+    }
+  },
+  "**[Vaan] What's that!? Cactus...**": {
+    "translation": "**[梵] 那是什么！？仙人掌...**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ヴァン】あれは何！？サボテーン…",
+      "CN": "[范] 那是什么！仙人掌……",
+      "KR": "[반] 그게 뭐야!? 선인장...",
+      "TW": "[梵] 那是什麼！？仙人掌……"
+    }
+  },
+  "**[Vossler York Azelas] Break one of these beams and an alarm will sound summoning the guard**": {
+    "translation": "**[沃斯勒·约克·阿泽拉斯] 打破其中一根梁，警报就会响起，守卫会被召唤**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【フォスラー・ヨーク・アゼラス】この柱を一つ壊すと警報が鳴って、衛兵を呼び寄せるんだ",
+      "CN": "[沃瑟·约克·阿扎拉斯] 折断其中一根横梁将会触发警报并召唤守卫",
+      "KR": "[보슬러 요크 아제라스] 이 빔 중 하나를 부수면 경보가 울리고 경비대를 소환해",
+      "TW": "[佛斯勒·約克·亞澤拉斯] 打斷其中一根樑柱就會觸發警報，召喚守衛。"
+    }
+  },
+  "**[Vossler York Azelas] It is a mechanism to detect intruders within the ship**": {
+    "translation": "**[沃斯勒·约克·阿泽拉斯] 这是一个检测船内入侵者的机制**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【フォスラー・ヨーク・アゼラス】これは、船内の侵入者を検知するための装置だ",
+      "CN": "[沃瑟·约克·阿扎拉斯] 这是一个检测飞船内入侵者的机关",
+      "KR": "[보슬러 요크 아제라스] 그것은 선내 침입자를 감지하는 장치야",
+      "TW": "[佛斯勒·約克·亞澤拉斯] 這是用來偵探船內入侵者的機關。"
+    }
+  },
+  "**[Vossler York Azelas] See that blurred gates**": {
+    "translation": "**[沃斯勒·约克·阿泽拉斯] 看那模糊的大门**",
+    "MultiLang": {
+      "US": "",
+      "JP": "【フォスラー・ヨーク・アゼラス】あの霞んだ門を見てくれ",
+      "CN": "[沃瑟·约克·阿扎拉斯] 看到那扇模糊的闸门了吗",
+      "KR": "[보슬러 요크 아제라스] 저 흐릿한 게이트 봐",
+      "TW": "[佛斯勒·約克·亞澤拉斯] 看到那道模糊的門了嗎？"
+    }
+  },
+  "**[Vossler York Azelas] The alarm should cease after a time! But it's better to avoid drawing unnecessary attention!**": {
+    "translation": "**[沃斯勒·约克·阿泽拉斯] 警报会在一段时间后停止！但最好避免引起不必要的注意！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ヴォスラー・ヨーク・アゼラス] アラームはある程度で止まるはずだ！でも、余計な注目を集めないに越したことはないぞ！",
+      "CN": "警报应该会在一段时间后停止！但最好还是避免引起不必要的注意！",
+      "KR": "[보슬러 요크 아자라스] 알람은 시간이 지나면 중단되어야 합니다! 하지만 불필요한 주목을 끄지 않는 것이 좋습니다!",
+      "TW": "[沃絲勒·約克·阿澤拉斯]警報應該一段時間後就會停止！但還是盡量避免引人注目！"
+    }
+  },
+  "**[Vossler York Azelas] Wait. A word of caution before we set out!**": {
+    "translation": "**[沃斯勒·约克·阿泽拉斯] 等等。在我们出发之前，有一句警告！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ヴォスラー・ヨーク・アゼラス] ちょっと待て。出発する前に忠告しておこう！",
+      "CN": "[沃丝勒·约克·阿扎勒斯] 等等。出发前说一句忠告！",
+      "KR": "[보슬러 요크 아자라스] 잠깐, 출발하기 전 경고 한 마디!",
+      "TW": "[沃絲勒·約克·阿澤拉斯]等一下。出發前再提醒一句！"
+    }
+  },
+  "WARMUP": {
+    "translation": "**热身回合**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーミングアップ",
+      "CN": "热身",
+      "KR": "준비 시간",
+      "TW": "熱身"
+    }
+  },
+  "[Bash] Hurry up! Sanctuary Keeper power up his abilities!**": {
+    "translation": "**[巴修] 快点！圣地守护兽正在增强他的能力！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] はよ動け！聖域守護者が能力を強化するぞ！",
+      "CN": "[巴什] 快点！庇护所守护者能力提升了！",
+      "KR": "[배쉬] 서두르세요! 성역 수호자가 능력을 발동합니다!**",
+      "TW": "[巴什]快點！聖域守護者發動能力了！"
+    }
+  },
+  "[Bash] Judge is dead! Keep running!!**": {
+    "translation": "**[巴修] 裁判长死了！快跑！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "[バッシュ] ジャッジは死亡！走り続けろ！！",
+      "CN": "[巴什] 法官已死！继续逃跑！！",
+      "KR": "[배쉬] 판사가 살해당했습니다! 계속 달아나세요!!**",
+      "TW": "[巴什]法官死了！快跑！！"
+    }
+  },
+  "**A player has picked up Judge Zargabaath**": {
+    "translation": "**一位玩家获得了ZM 扎尔伽巴斯**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが判事ザルガバースを拾った",
+      "CN": "玩家捡到了法官扎尔加巴斯的衣服",
+      "KR": "플레이어가 판자르가바타를 획득했습니다.",
+      "TW": "一名玩家拾取了裁決者扎爾加巴特"
+    }
+  },
+  "**Map Update: 30/01/2025**": {
+    "translation": "地图更新：30/01/2025",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ更新: 2025/01/30",
+      "CN": "地图更新：2025/01/30",
+      "KR": "지도 업데이트: 2025년 1월 30일",
+      "TW": "地圖更新：2025/01/30"
+    }
+  },
+  "**Judge Gabranth summons Esper Chaos!**": {
+    "translation": "裁判长伽布拉斯召唤了轮回王卡奥斯！",
+    "MultiLang": {
+      "US": "",
+      "JP": "判事ガブランスがエスパー・カオスを召喚！",
+      "CN": "加布拉斯法官召唤出幻兽混沌！",
+      "KR": "판사 가브란스가 에스퍼 차오스를 소환합니다!",
+      "TW": "裁決者加布蘭斯召喚了幻獸混沌！"
+    }
+  },
+  "**Judge Gabranth summons Esper Exodus!**": {
+    "translation": "裁判长伽布拉斯召唤了审判之灵树埃克斯狄斯！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ガブランスが召喚エセダースを呼び出す！**",
+      "CN": "**加布兰斯审判官召唤使贤伊甸！**",
+      "KR": "**판사 가브란트스 에스퍼 엑소더스를 소환합니다!**",
+      "TW": "**法官加布蘭索召喚靈神亞歷山大！**"
+    }
+  },
+  "**Judge Gabranth summons Esper Zodiark!**": {
+    "translation": "裁判长伽布拉斯召唤了戒律王佐迪亚克！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ガブランスが召喚エソダーレを呼び出す！**",
+      "CN": "**加布兰斯审判官召唤使贤佐迪亚克！**",
+      "KR": "**판사 가브란트스 에스버 조디악을 소환합니다!**",
+      "TW": "**法官加布蘭索召喚靈神佐迪亚克！**"
+    }
+  },
+  "**Map Update: 07/02/2025**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ更新: 2025年07月02日",
+      "CN": "**地图更新：2025年07月02日**",
+      "KR": "**지도 업데이트: 2025/07/02**",
+      "TW": "**地圖更新：2025/07/02**"
+    }
+  },
+  "**Map Update: 20/02/2025**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ更新: 2025年02月20日",
+      "CN": "**地图更新：2025年02月20日**",
+      "KR": "**지도 업데이트: 2025/02/20**",
+      "TW": "**地圖更新：2025/02/20**"
+    }
+  },
+  "**Judge Gabranth summons Esper Ultima!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ガブランスが召喚エソウルスを呼び出す！**",
+      "CN": "**加布兰斯审判官召唤使贤终极魔法！**",
+      "KR": "**판사 가브란트스 에스퍼 알티마를 소환합니다!**",
+      "TW": "**法官加布蘭索召喚靈神烏爾特玛！**"
+    }
+  },
+  "**[Bash] Well done! You interrupted the attack and now you may attack Judge Bergan**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[強打] 見事！攻撃を中断し、裁判官ベルガンを攻撃できるようになりました。",
+      "CN": "[连击] 完美！你成功打断了攻击，现在可以攻击伯格伦审判官了。",
+      "KR": "**[타격] 훌륭합니다! 공격을 방해했고 이제 판사 베르간을 공격할 수 있습니다.",
+      "TW": "**[猛擊] 做得好！你打斷了攻擊，現在你可以攻擊法官柏根。**"
+    }
+  },
+  "**Map Update: 01/05/2025**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ更新: 2025年05月01日",
+      "CN": "**地图更新：2025年05月01日**",
+      "KR": "**지도 업데이트: 2025/01/05**",
+      "TW": "**地圖更新：2025/05/01**"
+    }
+  },
+  "**Judge Gabranth summons Esper Belias!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**裁判官ガブランスが召喚エソベロスを呼び出す！**",
+      "CN": "**加布兰斯审判官召唤使贤贝尔迪亚斯！**",
+      "KR": "**판사 가브란트스 에스페 비엘리아스를 소환합니다!**",
+      "TW": "**法官加布蘭索召喚靈神貝利阿斯！**"
+    }
+  },
+  "**Map Update: 13/06/2025**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ更新：2025年6月13日",
+      "CN": "**地图更新：2025年6月13日**",
+      "KR": "**지도 업데이트: 2025년 6월 13일**",
+      "TW": "**地圖更新：2025年6月13日**"
+    }
+  },
+  "**Map Update: 09/09/2025**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ更新：2025年9月9日",
+      "CN": "**地图更新：2025年9月9日**",
+      "KR": "**지도 업데이트: 2025년 9월 9일**",
+      "TW": "**地圖更新：2025年9月9日**"
+    }
+  },
+  "**Map Update: 11/01/2026**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ更新：2026年1月11日",
+      "CN": "**地图更新：2026年1月11日**",
+      "KR": "**지도 업데이트: 2026년 1월 11일**",
+      "TW": "**地圖更新：2026年1月11日**"
+    }
+  },
+  "**Map Update: 24/01/2026**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ更新：2026年1月24日",
+      "CN": "**地图更新：2026年1月24日**",
+      "KR": "**지도 업데이트: 2026년 1월 24일**",
+      "TW": "**地圖更新：2026年1月24日**"
+    }
+  },
+  "**Judge Gabranth summons Esper Mateus!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジョギンサー裁判官がエスパーメーテウスを召喚！",
+      "CN": "裁判加布拉斯召唤出英灵玛提乌斯！",
+      "KR": "**재판관 가브랑스가 esper 마테우스를 소환합니다!**",
+      "TW": "判官加布蘭提斯召喚精靈魔石瑪提烏斯！"
+    }
+  },
+  "**Low gravity has been enabled**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "低重力モードが有効になりました",
+      "CN": "已启用低重力模式",
+      "KR": "**중력 저하 기능이 활성화되었습니다**",
+      "TW": "已啟用低重力模式"
+    }
+  },
+  "**Map Update: 25/04/2026**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**マップアップデート: 25/04/2026**",
+      "CN": "**地图更新: 25/04/2026**",
+      "KR": "**맵 업데이트: 25/04/2026**",
+      "TW": "**地圖更新: 25/04/2026**"
+    }
+  }
+}

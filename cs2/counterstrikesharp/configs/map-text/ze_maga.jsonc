@@ -1,0 +1,932 @@
+{
+  "--Map by Yawsome--": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "--Yawsomeによるマップ--",
+      "CN": "--地图由 Yawsone 制作--",
+      "KR": "--Yawsome 제작 맵--",
+      "TW": "--Yawssome 製作--"
+    }
+  },
+  "Door opening in 30 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが30秒後に開く",
+      "CN": "30秒后开门",
+      "KR": "30초 후 문이 열립니다",
+      "TW": "還有 30 秒門就會打開"
+    }
+  },
+  "This place is guarded by zombie like creatures! Don't let them touch you!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この場所はゾンビのような生物によって警備されている！彼らに触れさせないで！",
+      "CN": "这个地方有僵尸般的怪物守卫！别让它们碰到你！",
+      "KR": "이 곳은 좀비 같은 생물들이 감시하고 있습니다! 그들한테 건드리지 마세요!",
+      "TW": "這裡有殭屍般的生物守護！別讓他們碰到你！"
+    }
+  },
+  "The soul must be kept in that Temple! Open the door!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "その魂を神殿に保管しなさい！ドアを開け！",
+      "CN": "必须将灵魂留在神殿中！打开门！",
+      "KR": "영혼은 반드시 사원에서 보호해야 합니다! 문을 여세요!",
+      "TW": "靈魂必須留在神殿內！把門打開！"
+    }
+  },
+  "Get inside quick and keep the zombies out!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "素早く中に入り、ゾンビを外に閉め出せ！",
+      "CN": "赶紧进去，把僵尸挡在外面！",
+      "KR": "빠르게 안으로 들어가 좀비들을 막아주세요!",
+      "TW": "快進去，把殭屍擋在外面！"
+    }
+  },
+  "Ok, we're safe from the zombies for a moment.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "よし、一時的にゾンビからは安全だ。",
+      "CN": "好的，暂时远离了僵尸。",
+      "KR": "좋아요, 잠시나마 좀비로부터 안전합니다.",
+      "TW": "好，我們暫時對殭屍安全了。"
+    }
+  },
+  "Secure the soul from the altar.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "祭壇から魂を確保する。",
+      "CN": "从祭坛处获取灵魂。",
+      "KR": "제단에서 영혼을 회수하세요.",
+      "TW": "從祭壇取得靈魂。"
+    }
+  },
+  "I don't like this place, very dangerous.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここは気に入らないな。非常に危険だ。",
+      "CN": "我不喜欢这个地方，非常危险。",
+      "KR": "이 곳은 싫어요. 너무 위험합니다.",
+      "TW": "我不喜歡這裡，非常危險。"
+    }
+  },
+  "That window's not going to hold much longer.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あの窓はもう少しで壊れそうだ。",
+      "CN": "这扇窗户撑不了多久了。",
+      "KR": "그 창문은 얼마 버티지 못할 거야.",
+      "TW": "這扇窗戶撐不了多久了。"
+    }
+  },
+  "Let's find a way out of here. Get that rear door open!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "从这里逃げ出す方法を見つけよう。後部の扉を開けろ！",
+      "CN": "我们找个出口离开这里。把后门打开！",
+      "KR": "빠져나갈 방법을 찾아. 뒷문 열려고!",
+      "TW": "我們得找出路，把後門打開！"
+    }
+  },
+  "Door opens in 10 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が10秒後に開く！",
+      "CN": "门将在10秒后开启！",
+      "KR": "10초 후 문 개방!",
+      "TW": "門將在10秒後開啟！"
+    }
+  },
+  "The window broke! Fall back!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "窓が割れた！後退だ！",
+      "CN": "窗户碎了！撤退！",
+      "KR": "창문 파괴! 후퇴!",
+      "TW": "窗戶破裂了！撤退！"
+    }
+  },
+  "Door opening in 45 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が45秒後に開きます",
+      "CN": "门将在45秒后开启",
+      "KR": "45초 후 문 개방",
+      "TW": "門將在45秒後開啟"
+    }
+  },
+  "Good thing Epstein is dead and this place largely abandoned, many evil things happened here before.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エプスタインが死んでここがほとんど放棄されているのは幸いだ。以前、ここで多くの悪事が行われていたから。",
+      "CN": "幸好埃普斯坦已经死了，这里也基本荒废了，但过去这里曾发生过许多邪恶的事。",
+      "KR": "에프슈타인이 죽었고 여기는 대부분 버려진 상태라 다행이야. 여기서는以前 여러 악행이 자행되었거든.",
+      "TW": "幸好的是愛普斯坦已死，這裡也大部分荒廢了，以前這裡發生過許多邪惡的事情。"
+    }
+  },
+  "We should not linger too long.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "長くとどまってはいけない。",
+      "CN": "我们不宜在此久留。",
+      "KR": "너무 오래 머물지 말자.",
+      "TW": "我們不應該在這裡逗留太久。"
+    }
+  },
+  "Door opening in 20 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が20秒後に開きます",
+      "CN": "门将在20秒后开启",
+      "KR": "20초 후 문 개방",
+      "TW": "門將在20秒後開啟"
+    }
+  },
+  "Package secured!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "荷物確保！",
+      "CN": "包裹已密封！",
+      "KR": "패키지 확보 완료!",
+      "TW": "包裹已封存！"
+    }
+  },
+  "Grab all that intel! If Trump won't release these files we will!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あの情報をすべて掴め！トランプがこれらのファイルを公開しないなら、我々がやる！",
+      "CN": "夺取所有情报！如果特朗普不公开这些文件，我们就这么做！",
+      "KR": "모든 정보를 회수해! 트럼프가 이 파일들을 공개하지 않으면 우리가 할게!",
+      "TW": "快把所有情報帶走！如果川普不釋出這些檔案，我們會！"
+    }
+  },
+  "The window broke! FALL BACK!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "窓が割れた！後退せよ！",
+      "CN": "窗户破了！快速撤退！",
+      "KR": "창문이 깨졌다! 후퇴해!",
+      "TW": "視窗破了！後撤！"
+    }
+  },
+  "Our route back to the helis is compromised!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターへの退路が危険だ！",
+      "CN": "返回直升机的路线已暴露！",
+      "KR": "헬기로 돌아가는 경로가 노출됐다!",
+      "TW": "我們返回直升機的路線已暴露！"
+    }
+  },
+  "We'll have to go through the tunnels.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トンネルを通って行かなければならん。",
+      "CN": "我们得走隧道。",
+      "KR": "터널을 통과해야 해.",
+      "TW": "我們得從隧道走。"
+    }
+  },
+  "Keep the zombies back!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンキーを押し留めよ！",
+      "CN": "挡住僵尸！",
+      "KR": "좀비들을 막아라!",
+      "TW": "阻擋殭屍！"
+    }
+  },
+  "All aboard! Don't get left behind!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "全員搭乗！取り残されるな！",
+      "CN": "全体上车！别掉队！",
+      "KR": "모두 탑승! 뒤처지지 마라!",
+      "TW": "全員上車！別被落下了！"
+    }
+  },
+  "Welcome to Juarez.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "フアレスへようこそ。",
+      "CN": "欢迎来到华雷斯。",
+      "KR": "후아레스에 오신 것을 환영합니다.",
+      "TW": "歡迎來到華雷斯。"
+    }
+  },
+  "We'll have to use the smuggler tunnels to get back into the USA": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "密輸者用のトンネルを使って米国に戻らなければなりません",
+      "CN": "我们必须利用走私隧道返回美国",
+      "KR": "미국으로 돌아가려면 밀수 통로를 이용해야 해.",
+      "TW": "我們必須利用走私隧道返回美國"
+    }
+  },
+  "Keep the zombies back whilst we open the tunnel gate!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トンネルのゲートを開く間、ゾンディを押し留めてください！",
+      "CN": "在我们打开隧道门时，挡住僵尸！",
+      "KR": "우리가 터널 문을 여는 동안 좀비를 막아줘!",
+      "TW": "在我們打開隧道門時，拖住殭屍！"
+    }
+  },
+  "30 Seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒です！",
+      "CN": "30秒！",
+      "KR": "30초 후!",
+      "TW": "30秒後！"
+    }
+  },
+  "Close this first gate to buy us some time! 10 Seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "このゲートを閉じて時間を稼げ！10秒だ！",
+      "CN": "先关闭这扇闸门，为我们争取时间！10秒！",
+      "KR": "첫 번째 문을 닫아 시간을 벌어줘! 10초 후!",
+      "TW": "先關閉這道門，為我們爭取一些時間！剩10秒！"
+    }
+  },
+  "OK RUN!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "了解、走れ！",
+      "CN": "好的，跑！",
+      "KR": "그래, 도망쳐!",
+      "TW": "好，快跑！"
+    }
+  },
+  "Lift leaving in 30 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リフトが30秒後に発車します",
+      "CN": "电梯将在30秒后离开",
+      "KR": "엘리베이터 출발 30초 전",
+      "TW": "電梯30秒後離開"
+    }
+  },
+  "Lift leaving in 20 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リフトが20秒後に発車します",
+      "CN": "电梯将在20秒后离开",
+      "KR": "엘리베이터 출발 20초 전",
+      "TW": "電梯20秒後離開"
+    }
+  },
+  "Lift leaving in 10 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リフトが10秒後に発車します",
+      "CN": "电梯将在10秒后离开",
+      "KR": "엘리베이터 출발 10초 전",
+      "TW": "電梯10秒後離開"
+    }
+  },
+  "Lift leaving in 5 seconds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "リフトが5秒後に出発します",
+      "CN": "电梯将在5秒后离开",
+      "KR": "리프트가 5초 후 출발합니다.",
+      "TW": "電梯即將離開，剩5秒"
+    }
+  },
+  "Is this a test?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "これはテストですか？",
+      "CN": "这是测试吗？",
+      "KR": "이것은 테스트입니까?",
+      "TW": "這是測試嗎？"
+    }
+  },
+  "Choose a side!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "側を選択してください！",
+      "CN": "选择阵营！",
+      "KR": "편을 선택하세요!",
+      "TW": "選擇一方！"
+    }
+  },
+  "We must pass this U.S. Border test in order to enter!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "米国国境検問所を通過する必要があります！",
+      "CN": "我们必须通过这个美国边境测试才能进入！",
+      "KR": "입국하기 위해 반드시 미국 국경 테스트를 통과해야 합니다!",
+      "TW": "我們必須通過這個美國邊境測試才能入境！"
+    }
+  },
+  "The zombies are hot on our heels! Think fast!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが追ってきています！素早く考えてください！",
+      "CN": "僵尸紧跟在后面！快思考！",
+      "KR": "좀비가 쫓아옵니다! 빨리 생각하세요!",
+      "TW": "殭屍緊追在後！快速思考！"
+    }
+  },
+  "Door opening in 10 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが10秒後に開きます。",
+      "CN": "门将在10秒后打开。",
+      "KR": "문이 10초 후 열립니다.",
+      "TW": "大門即將開啟，剩10秒。"
+    }
+  },
+  "\"Congratulations, you passed the test!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「Congratulations, you passed the test!\"\"",
+      "CN": "恭喜，你通过了测试！",
+      "KR": "\"축하합니다. 테스트를 통과하셨습니다!\"",
+      "TW": "「恭喜，你通過了測試！」"
+    }
+  },
+  "\"You may now enter the U.S.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "\"You may now enter the U.S.\"",
+      "CN": "你现在可以进入美国了。",
+      "KR": "\"이제 미국에 입국하셔도 됩니다.\"",
+      "TW": "「您現在可以入境美國。」"
+    }
+  },
+  "Door opening in 20 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが20秒後に開きます。",
+      "CN": "大门将在20秒后开启。",
+      "KR": "문이 20초 후에 열립니다.",
+      "TW": "大門将在20秒後開啟。"
+    }
+  },
+  "Those zombies are still chasing us, Hold them back!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あのゾンビはまだ私たちを追いかけている！引き留めろ！",
+      "CN": "那些丧尸还在追击我们，拖住它们！",
+      "KR": "좀비가 우리를 쫓아오고 있습니다! 저들을 붙잡으세요!",
+      "TW": "殭屍還在追我們，把他們阻擋住！"
+    }
+  },
+  "There's the border! It will open for us but we can't let the zombies in, DEFEND!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "国境だ！これで我々は通れるが、ゾンビは入れさせてはいけない。防衛せよ！",
+      "CN": "边境线到了！门会为我们打开，但绝不能放丧尸进去，死守！",
+      "KR": "국경입니다! 우리가 통과하면 문이 열리지만 좀비들이 들어오게 해서는 안 됩니다. 방어하세요!",
+      "TW": "邊境到了！大門會為我們開啟，但絕不能讓殭屍闖入，防禦！"
+    }
+  },
+  "QUICK, GET INSIDE THE WHITE HOUSE!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "早く！ホワイトハウスの中に入れ！",
+      "CN": "快！进白宫！",
+      "KR": "빨리, 백악관 안으로 들어가세요!",
+      "TW": "快！進入白宮！"
+    }
+  },
+  "The zombies have followed us here, WATCH OUT!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビがここまでの追手を追ってきたぞ。注意しろ！",
+      "CN": "丧尸追到这儿了，小心！",
+      "KR": "좀비들이 우리를 따라왔습니다. 조심하세요!",
+      "TW": "殭屍追到這裡了，小心！"
+    }
+  },
+  "Door opening in 30 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが30秒後に開きます。",
+      "CN": "大门将在30秒后开启。",
+      "KR": "문이 30초 후에 열립니다.",
+      "TW": "大門将在30秒後開啟。"
+    }
+  },
+  "FALL BACK TO THE OVAL OFFICE!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Oval 事務所へ後退しろ！",
+      "CN": "退守椭圆形办公室！",
+      "KR": "타원실로 후퇴하세요!",
+      "TW": "撤退至橢圓辦公室！"
+    }
+  },
+  "THE COLONNADE WINDOWS ARE BREAKING WATCH OUT!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コロネードの窓が割れるぞ。注意しろ！",
+      "CN": "柱廊窗被打破了，小心！",
+      "KR": "열주 식당의 창문이 깨지고 있습니다. 조심하세요!",
+      "TW": "柱廊窗戶正在破碎，小心！"
+    }
+  },
+  "THE 3 GLASS DOORS ARE GOING TO BREAK! DEFEND!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "3枚のガラス扉が割れる！防御しろ！",
+      "CN": "三扇玻璃门即将破裂！防御！",
+      "KR": "유리 문 3개가 깨질 예정입니다! 방어하십시오!",
+      "TW": "三扇玻璃門即將破碎！守衛！"
+    }
+  },
+  "Garden Security Doors Activated.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "庭園セキュリティドア作動。",
+      "CN": "花园安全门已激活。",
+      "KR": "정원 보안 문 작동 중.",
+      "TW": "花園防禦門已啟動。"
+    }
+  },
+  "Some of the doors are malfunctioning!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "一部の扉が異常動作している！",
+      "CN": "部分门禁出现故障！",
+      "KR": "문 일부에 오작동이 발생했습니다!",
+      "TW": "部分門出現故障！"
+    }
+  },
+  "DOOR 2 IS GOING TO OPEN! DEFEND!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉2が開く！防御しろ！",
+      "CN": "2号门即将开启！防御！",
+      "KR": "문 2호가 열릴 예정입니다! 방어하십시오!",
+      "TW": "2號門即將開啟！守衛！"
+    }
+  },
+  "DOOR 1 IS GOING TO OPEN AGAIN! DEFEND!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "また扉1が開く！防御しろ！",
+      "CN": "1号门再次即将开启！防御！",
+      "KR": "문 1호가 다시 열릴 예정입니다! 방어하십시오!",
+      "TW": "1號門即將再次開啟！守衛！"
+    }
+  },
+  "OK, THE OVAL OFFICE IS SECURE FOR NOW!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "よし、 Oval 事務所は一時的に安全だ！",
+      "CN": "好的，椭圆形办公室暂时安全！",
+      "KR": "좋습니다. 현관실은 일시적으로 보안이 확보되었습니다!",
+      "TW": "好的，橢圓辦公室暫時安全了！"
+    }
+  },
+  "Lift doors closing in 10 seconds.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター扉が10秒後に閉まります。",
+      "CN": "电梯门将在10秒后关闭。",
+      "KR": "엘리베이터 문이 10초 안에 닫힙니다.",
+      "TW": "電梯門將在10秒後關閉。"
+    }
+  },
+  "Door opening in 30 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が30秒後に開きます！",
+      "CN": "门将30秒后开启！",
+      "KR": "문이 30초 이내에 열립니다!",
+      "TW": "門將在30秒後開啟！"
+    }
+  },
+  "Door closing in 10 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が10秒後に閉じます！",
+      "CN": "门将在10秒后关闭！",
+      "KR": "문 닫힘 10초 후!",
+      "TW": "門将在10秒后關閉！"
+    }
+  },
+  "Doors closing in 10 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が10秒後に閉じます！",
+      "CN": "大门将在10秒后关闭！",
+      "KR": "문 닫힘 10초 후!",
+      "TW": "門将於10秒後關閉！"
+    }
+  },
+  "VANCE: Muahahaha, FORGET TRUMP, THE PRESIDENCY IS MINE!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "VANCE：フッフッフッ、トランプなんか忘れろ！大統領の座は俺のものだ！",
+      "CN": "万斯：哇哈哈哈，忘掉特朗普吧，总统之位是我的了！",
+      "KR": "밴스: 후후후, 트럼프 따위 잊어라, 대통령 자리는 나의 것이오!",
+      "TW": "萬斯：慕哈哈哈，忘掉特朗普吧，總統之位是我的了！"
+    }
+  },
+  "VANCE: I SHALL TAKE IT AND THEN MY MASTERS WILL CONTROL AMERICA, AND THE WORLD!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "VANCE：俺がそれを握れば、俺の主達はアメリカを、そして世界を支配する！",
+      "CN": "万斯：我要夺取政权，随后我的主人将控制美国，进而掌控世界！",
+      "KR": "밴스: 내가 그것을 차지하면, 내 주군들이 미국과 세계를 지배할 것이오!",
+      "TW": "萬斯：我將佔據它，然後我的主人們將控制美國，以及世界！"
+    }
+  },
+  "VANCE: YOU CAN NOT DEFEAT ME, I AM A SHAPESHIFTER, A MOCKINGBIRD!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "VANCE：お前には俺を倒せない。俺は変化怪、囀る鳥だ！",
+      "CN": "万斯：你无法战胜我，我是变形者，是模仿鸟！",
+      "KR": "밴스: 나를 이길 수 없소! 나는 모습 변신자가요, 농담하는 새가!",
+      "TW": "萬斯：你無法擊敗我，我是變身者，是仿生人！"
+    }
+  },
+  "VANCE: NOW MY MINIONS WILL DESTROY YOU!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "VANCE：今、俺の手下がお前を粉砕してやる！",
+      "CN": "万斯：现在让我的仆从消灭你吧！",
+      "KR": "밴스: 이제 내 부하들이 너를 파괴할 것이오!",
+      "TW": "萬斯：現在我的手下將摧毀你們！"
+    }
+  },
+  "ZOMBIES INCOMING!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンジ接近中！",
+      "CN": "僵尸来袭！",
+      "KR": "좀비 도래!",
+      "TW": "喪屍來襲！"
+    }
+  },
+  "Door closing in 20 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が20秒後に閉じます！",
+      "CN": "门将在20秒后关闭！",
+      "KR": "문 닫힘 20초 후!",
+      "TW": "門将在20秒後關閉！"
+    }
+  },
+  "SHOOT!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "射撃！",
+      "CN": "开火！",
+      "KR": "발사!",
+      "TW": "射擊！"
+    }
+  },
+  "DEMON KING: I WILL BRIBE YOUR POLITICIANS!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "魔王：私はあなたの政治家を収賄するだろう！",
+      "CN": "魔王：我要贿赂你的政客！",
+      "KR": "악마의 왕: 네 정치인들을 매수하겠다!",
+      "TW": "魔王：我會賄賂你們的政客！"
+    }
+  },
+  "DEMON KING: I WILL CENSOR YOUR SPEECH!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "魔王：あなたの表現を検閲するだろう！",
+      "CN": "魔王：我要审查你的言论！",
+      "KR": "악마의 왕: 너의 발언을 검열하겠다!",
+      "TW": "魔王：我會審查你的言論！"
+    }
+  },
+  "DEMON KING: I WILL BLACKMAIL OR ASSASSINATE YOU!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "魔王：私はあなたを黒幕で脅迫するか暗殺する！",
+      "CN": "魔王：我要敲诈或暗杀你！",
+      "KR": "악마의 왕: 너를 협박하거나 암살하겠어!",
+      "TW": "魔王：我會洩務或暗殺你！"
+    }
+  },
+  "DEMON KING: STAND UP AND FACE ME!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "魔王：立ち向かえ！",
+      "CN": "魔王：站起来面对我！",
+      "KR": "악마의 왕: 일어나 내 앞에서는서!",
+      "TW": "魔王：站起來面對我！"
+    }
+  },
+  "ICE Agent: \"Congratulations, you passed the test!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ICEエージェント：「おめでとう、テストに合格しました！」",
+      "CN": "ICE特工：“恭喜，你通过了测试！”",
+      "KR": "ICE 요원: \"축하합니다, 테스트에 합격했습니다!\"",
+      "TW": "ICU護士：「恭喜，你通過了測試！」"
+    }
+  },
+  "ICE Agent: \"You may now enter the U.S.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ICEエージェント：「これで米国に入国できます。」",
+      "CN": "ICE特工：“你现在可以进入美国。”",
+      "KR": "ICE 요원: \"지금부터 미국 입국이 가능합니다.\"",
+      "TW": "ICU護士：「你現在可以進入美國了。」"
+    }
+  },
+  "WE'RE ENTERING THE WHITE HOUSE BUNKER": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "大統領地下壕に進入中",
+      "CN": "我们正在进入白宫地下掩体",
+      "KR": "우리는 백악관 벙커에 진입한다",
+      "TW": "我們正在進入白宮地堡"
+    }
+  },
+  "TO DRAIN THE SWAMP WE MUST CLEAR THE TUNNELS UNDER WASHINGTON DC": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "湿地帯を乾かすには、ワシントンDC地下のトンネルを清掃しなければならない",
+      "CN": "要排干沼泽，我们必须清理华盛顿特区地下的隧道",
+      "KR": "늪을 정화하려면 워싱턴 DC 지하 터널을 없애야 합니다",
+      "TW": "要抽乾沼澤，我們必須清除華盛頓特區地下的隧道"
+    }
+  },
+  "BE ON YOUR GUARD, THERE ARE OLDER AND FOULER THINGS THAN ZOMBIES IN THE DEEP PLACES OF THE WORLD": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "警戒せよ。世界の深淵にはゾンビよりも古く、もっと邪悪なものが潜んでいる",
+      "CN": "保持警惕，在这个世界上深不可测的地方，有些比僵尸更古老、更邪恶的存在",
+      "KR": "경계를 잘 유지하십시오. 지상의 깊숙한 곳에는 좀비보다 더 오래되고 음란한 존재들이 있습니다",
+      "TW": "保持警惕，在世界的深處有著比殭屍更古老、更骯髒的事物"
+    }
+  },
+  "VANCE: YOU CAN NOT DEFEAT ME, I AM A SHAPESHIFTER!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヴァンス：私を倒すことはできない。私は変化の魔術師だ！",
+      "CN": "万斯：你无法击败我，我是一个变形者！",
+      "KR": "밴스: 나를 이길 수 없습니다, 나는 변신술사입니다!",
+      "TW": "萬斯：你打不贏我的，我是個變形成！"
+    }
+  },
+  "TRUMP: I'VE BROUGHT TOGETHER THE BEST ROCKET MEN": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トランプ：最も優秀なロケット男子たちをまとめ上げた",
+      "CN": "特朗普：我已召集了最顶尖的火箭专家",
+      "KR": "트럼프: 가장 우수한 로켓 엔지니어들을 모아놓았습니다",
+      "TW": "特朗普：我召集了最頂尖的火箭專家"
+    }
+  },
+  "TRUMP: THEY HAVE BUILT A SPACESHIP TO TAKE US TO MARS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トランプ：私たちが火星へ行くための宇宙船を建造した",
+      "CN": "特朗普：他们建造了一艘宇宙飞船，将带我们前往火星",
+      "KR": "트럼프: 우리를 화성으로 보낼 우주선을 만들었습니다",
+      "TW": "特朗普：他們建造了一艘太空船，載我們前往火星"
+    }
+  },
+  "TRUMP: I NEED YOU TO GO TO MARS FOR A TOP SECRET MISSION": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トランプ：極秘任務で火星へ行ってほしい",
+      "CN": "特朗普：我需要你执行一项绝密任务前往火星",
+      "KR": "트럼프: 당신은 기밀 작전을 위해 화성으로 가야 합니다",
+      "TW": "特朗普：我需要你前往火星執行一項高度機密任務"
+    }
+  },
+  "TRUMP: I SAY YOU'RE THE BEST OF THE BEST, NOBODY DOES IT QUITE LIKE YOU": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トランプ：お前が一番だと断言する。誰よりも秀でている",
+      "CN": "特朗普：我说你是最好的中的佼佼者，无人能及你",
+      "KR": "트럼프: 나는 당신이 최고 중의 최고라고 말하고 싶습니다, 당신만큼 잘하는 사람은 없습니다",
+      "TW": "特朗普：我說你是最優秀中的佼佼者，沒有人像你一樣出色"
+    }
+  },
+  "TRUMP: BUT FIRST WE MUST DRAIN THE SWAMP OR CONGRESS WILL NOT APPROVE THE LAUNCH": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トランプ：まず湿地帯を乾かさねば、議会は打上げを承認しないだろう",
+      "CN": "但首先我们必须排干沼泽，否则国会不会批准发射",
+      "KR": "트럼프: 하지만 먼저 우리는 늪을 말려야 합니다, 그렇지 않으면 의회는 발사를 승인하지 않을 것입니다",
+      "TW": "特朗普：但首先我們必須抽乾沼澤，否則國會不會批准發射"
+    }
+  },
+  "TRUMP: GO AND DEFEAT THE MONSTER THAT IS CONTROLLING CONGRESS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トランプ：連中を倒せ！議会上院を乗っ取っているモンスターを!",
+      "CN": "特朗普：去击败控制国会的怪物",
+      "KR": "트럼프: 의회를 조종하는 괴물을 가서 물리쳐라",
+      "TW": "特朗普：去擊潰掌控國會的怪獸"
+    }
+  },
+  "DEMON KING: I WILL BRIBE OR BLACKMAIL YOUR POLITICIANS!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "魔王：お前の政治家に賄賂を送るか、ブラックメールかけるぞ！",
+      "CN": "魔王：我要贿赂或敲诈你们的政客！",
+      "KR": "악마 왕: 너희 정치인들을 뇌물 공탁이나 검은 협박으로 조작하겠다!",
+      "TW": "魔王：我會賄賂或勒索你的政客！"
+    }
+  },
+  "DEMON KING: I WILL ASSASSINATE YOU!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "魔王：お前を暗殺するわ！",
+      "CN": "魔王：我要刺杀你！",
+      "KR": "악마 왕: 너를 암살하겠다!",
+      "TW": "魔王：我會刺殺你！"
+    }
+  },
+  "DEFEND AGAINST ZOMBIES!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビに防衛戦を仕掛けろ！",
+      "CN": "抵御僵尸进攻！",
+      "KR": "좀비를 방어하라!",
+      "TW": "抵禦殭屍攻擊！"
+    }
+  },
+  "Lift leaving in 10 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "飛び出すまであと10秒です！",
+      "CN": "飞船将于10秒后离开！",
+      "KR": "이륙 10초 후!",
+      "TW": "登機口將在 10 秒後關閉！"
+    }
+  },
+  "Spaceship door opening in 30 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "宇宙船の扉が30秒後に開きます！",
+      "CN": "飞船舱门将在30秒后开启！",
+      "KR": "우주선 문 개방 30초 후!",
+      "TW": "太空船門將在 30 秒後開啟！"
+    }
+  },
+  "Spaceship door closing in 10 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "宇宙船の扉が10秒後に閉じます。",
+      "CN": "飞船舱门将在10秒后关闭！",
+      "KR": "우주선 문 닫힘 10초 후!",
+      "TW": "太空船門將在 10 秒後關閉！"
+    }
+  },
+  "INITIATE LAUNCH PROCEDURE": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "発射手続きを開始せよ！",
+      "CN": "启动发射程序",
+      "KR": "발사 절차 시작",
+      "TW": "啟動發射程序"
+    }
+  },
+  "LIFT OFF IN 30": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "離陸まで30秒",
+      "CN": "30秒后发射",
+      "KR": "이륙 30초 전",
+      "TW": "30秒後升空"
+    }
+  },
+  "TRUMP: CONGRATULATIONS TROOPS, YOU DID IT": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トランプ：おめでとうございます戦士たち、偉業を成し遂げました",
+      "CN": "特朗普：恭喜各位，你们做到了",
+      "KR": "트럼프: 축하합니다, 병사들아. 너희가 해냈어.",
+      "TW": "川普：恭喜各位軍人，你們做到了"
+    }
+  },
+  "TRUMP: NOW ON TO MARS, GOOD LUCK!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "トランプ：いよいよ火星へ。幸運を祈る！",
+      "CN": "特朗普：接下来前往火星，祝好运！",
+      "KR": "트럼프: 이제 화성으로 향합니다. 행운을 빕니다!",
+      "TW": "川普：接下來前往火星，祝好運！"
+    }
+  },
+  "Door closing in 15 seconds!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後にドアが閉まります！",
+      "CN": "门将在15秒后关闭！",
+      "KR": "문 닫힘까지 15초",
+      "TW": "門即將在15秒後關閉！"
+    }
+  },
+  "Terminate the last zombies!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後のゾンビを倒せ！",
+      "CN": "消灭最后的僵尸！",
+      "KR": "마지막 좀비들을 처치하라!",
+      "TW": "消滅最後一隻殭屍！"
+    }
+  }
+}

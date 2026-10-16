@@ -1,0 +1,522 @@
+{
+  "< WARMUP >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< WARMUP ENDING IN 5 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< ADMIN HAS SET TO LEVEL 3 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Where am i again?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここはどこだっけ？",
+      "CN": "我在哪儿？",
+      "KR": "내가 어디 있지?",
+      "TW": "我又在哪裡了？"
+    }
+  },
+  "Ah we are on top": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ああ、頂上だ",
+      "CN": "啊，我们在上面",
+      "KR": "아, 여기가 꼭대기군",
+      "TW": "啊，我們在頂部了。"
+    }
+  },
+  "That the face mention": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "顔が言っていたことだね",
+      "CN": "那是提到的脸",
+      "KR": "얼굴에 언급된 것이야",
+      "TW": "那是臉部的提及。"
+    }
+  },
+  "This place looks huge": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この場所、めっちゃ広そう",
+      "CN": "这个地方看起来很大",
+      "KR": "이 곳 거대한 것 같네",
+      "TW": "這裡看起來好大。"
+    }
+  },
+  "I Wonder what is up above": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "上には何が...",
+      "CN": "我想知道上面有什么",
+      "KR": "위에는 무슨 일이 있을까 궁금하다",
+      "TW": "我想知道上面有什麼。"
+    }
+  },
+  "Guess i will climb to find out": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "調べてみよう、登るだけだろ",
+      "CN": "我得爬上去看看",
+      "KR": "알아보러 올라가 보자",
+      "TW": "猜我會爬上去看看。"
+    }
+  },
+  "The gate opened by itself again": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "また門が勝手に開いた",
+      "CN": "门又自己开了",
+      "KR": "게이트가 또 자동으로 열렸어",
+      "TW": "門又自動開了。"
+    }
+  },
+  "Might be yeah?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "多分、そうかもね？",
+      "CN": "也许吧？",
+      "KR": "아마도?",
+      "TW": "可能是吧？"
+    }
+  },
+  "Do the face know that i am here?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "顔が知っているような顔？",
+      "CN": "这张脸知道我在这里吗？",
+      "KR": "얼굴이 있는지 나를 여기 있다고 아는 거야?",
+      "TW": "那张臉知道我在這裡嗎？"
+    }
+  },
+  "Yet another gate": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "また別のゲート",
+      "CN": "又是另一道门",
+      "KR": "또 다른 문",
+      "TW": "又是另一扇門"
+    }
+  },
+  "Why is the creator of this map likes gate": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "このマップの製作者はなぜゲートを好むのか",
+      "CN": "为什么地图创作者对门情有独钟",
+      "KR": "왜 이 맵의 작성자는 문을 좋아하지?",
+      "TW": "為什麼這幅地圖的創作者這麼喜歡門呢？"
+    }
+  },
+  "There are too many gates since i came": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "私が来てからゲートが多すぎる",
+      "CN": "自从我来到这里，门的数量实在太多了",
+      "KR": "내가 온 이후로 문이 너무 많아졌어.",
+      "TW": "自從來到這裡，這裡的門實在太多了"
+    }
+  },
+  "To this world.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この世界へ。",
+      "CN": "降临到这个世界",
+      "KR": "이 세계로.",
+      "TW": "來到這個世界。"
+    }
+  },
+  "Now the gate is opening": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "今、ゲートが開く",
+      "CN": "此刻，门正在开启",
+      "KR": "지금 문이 열리고 있어.",
+      "TW": "現在，門正在開啟"
+    }
+  },
+  "The creator seems not pleased": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "製作者はどうやら満足していないようだ",
+      "CN": "创作者似乎并不高兴",
+      "KR": "작성자는 만족하지 않는 것 같아.",
+      "TW": "創作者似乎不太高興"
+    }
+  },
+  "Better watch my words for now": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "今のところは自分の言葉に気をつけるべきだろう",
+      "CN": "暂时还是谨言慎行为好",
+      "KR": "현재는 내 말을 조심하는 게 좋겠어.",
+      "TW": "現在還是謹慎措辭為好"
+    }
+  },
+  "We should go to the corner": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "角に行こう",
+      "CN": "我们要去角落",
+      "KR": "구석으로 가야 해",
+      "TW": "我們應該去角落"
+    }
+  },
+  "Elevator going up in 30 second": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが30秒後に始動します",
+      "CN": "电梯将在30秒后上行",
+      "KR": "엘리베이터 30초 후 상승",
+      "TW": "電梯即將上行，剩餘30秒"
+    }
+  },
+  "Elevator going up in 35 Second": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターが35秒後に始動します",
+      "CN": "电梯将在35秒后上行",
+      "KR": "엘리베이터 35초 후 상승",
+      "TW": "電梯即將上行，剩餘35秒"
+    }
+  },
+  "Defend middle for 45 second": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "中央を守る：残り45秒",
+      "CN": "在中间防守45秒",
+      "KR": "중앙 지점 45초간 방어",
+      "TW": "守衛中段區域，持續45秒"
+    }
+  },
+  "Woah it moves": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "おやおや、動くじゃないか",
+      "CN": "哇，它在动",
+      "KR": "우와, 움직여!",
+      "TW": "哇，它在動！"
+    }
+  },
+  "My vision is turning to black.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "視界が黒くなっていく。",
+      "CN": "我的视线逐渐变黑。",
+      "KR": "시야가 점점 어두워져.",
+      "TW": "我的視線正變得黑暗。"
+    }
+  },
+  "< WELCOME >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< HA HA HA >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< I AM MAD >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< FACE ME FOR THE LAST TIME >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< I WILL BE WAITING >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< ON TOP OF THE WORLD >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< THE FACE IS CASTING SUPERNOVA >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< RUN BEFORE I BLOW THIS PLACE UP >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< YOU WILL DIE >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< IMPRESSIVE >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Gate is opening in 15 second": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが15秒後に開きます",
+      "CN": "大门将在15秒后打开",
+      "KR": "게이트 15초 후 개방",
+      "TW": "門戶即將開啟，剩餘15秒"
+    }
+  },
+  "a White cube": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "白い立方体",
+      "CN": "一个白立方体",
+      "KR": "흰색 큐브",
+      "TW": "白色立方體"
+    }
+  },
+  "Maybe i should touch it": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "もしかして、これを触れ",
+      "CN": "也许我该碰一下它",
+      "KR": "아마도 내가 그것을 만져야 할 것 같다",
+      "TW": "也許我該觸碰它"
+    }
+  },
+  "The cube is moving up": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "立方体が上へ動いてる",
+      "CN": "方块正在向上移动",
+      "KR": "큐브가 위로 이동하고 있다",
+      "TW": "方塊正在向上移動"
+    }
+  },
+  "The gate is opening": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが開く",
+      "CN": "大门正在打开",
+      "KR": "게이트가 열리고 있다",
+      "TW": "門正在開啟"
+    }
+  },
+  "The way is split into three": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が三つに分かれる",
+      "CN": "前方有三条路可供选择",
+      "KR": "길은 세 갈래로 나뉜다",
+      "TW": "道路分為三岔"
+    }
+  },
+  "You hear a voice from above": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "上から声が聞こえる",
+      "CN": "你听到来自上方的声音",
+      "KR": "위에서 목소리가 들린다",
+      "TW": "你聽到一個來自上方的聲音"
+    }
+  },
+  "Dont give up when you hit rock bottom": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "底辺でくじけないでよ",
+      "CN": "在谷底时不要放弃",
+      "KR": "바닥에 닿았을 때 포기하지 마라",
+      "TW": "在谷底時不要放棄"
+    }
+  },
+  "< Bottom Gate >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "A cube sitting in both of the fountain": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "両方の噴水についてる立方体",
+      "CN": "有一个方块坐落在这座喷泉里",
+      "KR": "분수대에 자리한 큐브 한 개",
+      "TW": "兩個噴泉中都坐落著方塊"
+    }
+  },
+  "I will touch it": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "これを触れるよ",
+      "CN": "我会去触碰它",
+      "KR": "내가 그걸 만질 거야",
+      "TW": "我將觸碰它"
+    }
+  },
+  "The big gate seems to open": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "大きな扉が開くようだ",
+      "CN": "大门似乎打开了",
+      "KR": "큰 문이 열리는 것 같습니다",
+      "TW": "巨大的城門似乎已經開啟"
+    }
+  },
+  "I really should keep going": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "やはり進まねばならない",
+      "CN": "我确实应该继续前进",
+      "KR": "계속 나아가야겠어요",
+      "TW": "我確實應該繼續前行"
+    }
+  },
+  "A weird shaped gate blocking our way": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "不可解な形状の扉が道を塞いでいる",
+      "CN": "一扇形状奇怪的门挡住了我们的去路",
+      "KR": "길을 막는 이상한 모양의 문",
+      "TW": "一道形狀怪異的大門阻擋住去路"
+    }
+  },
+  "The door seems to open": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開く気配がある",
+      "CN": "门似乎打开了",
+      "KR": "문이 열리는 것 같습니다",
+      "TW": "這扇門似乎已經開啟"
+    }
+  },
+  "It knows that we are present": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "我々の存在を感知しているらしい",
+      "CN": "它知道我们就在此处",
+      "KR": "우리가 존재한다는 것을 알고 있습니다",
+      "TW": "它知道我們在此"
+    }
+  }
+}

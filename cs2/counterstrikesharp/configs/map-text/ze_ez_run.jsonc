@@ -1,0 +1,322 @@
+{
+  ">>>地图作者  ze探险家<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Map Author: Explorer Ze",
+      "JP": ">>>マップ作者 ze冒険家<<<",
+      "CN": "",
+      "KR": ">>> 지도 제작자 ze탐험가 <<<",
+      "TW": ">>>地圖作者  ze探險家<<<"
+    }
+  },
+  ">>>大门即将打开 30 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate opening in 30 seconds",
+      "JP": ">>>ゲートが間もなく開きます 30秒<<<",
+      "CN": "",
+      "KR": ">>> 문이 곧 열립니다 30초 남음 <<<",
+      "TW": ">>>大門即將打開 30 seconds<<<"
+    }
+  },
+  ">>>僵尸即将传送 10 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies teleporting in 10 seconds",
+      "JP": ">>>ゾンテイがテレポータルしてきます 10秒<<<",
+      "CN": "",
+      "KR": ">>> 좀비가 곧 전송됩니다 10초 남음 <<<",
+      "TW": ">>>殭屍即將傳送 10 seconds<<<"
+    }
+  },
+  ">>>大门即将打开 20 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate opening in 20 seconds",
+      "JP": ">>>ゲートが間もなく開きます 20秒<<<",
+      "CN": "",
+      "KR": ">>> 문이 곧 열립니다 20초 남음 <<<",
+      "TW": ">>>大門即將打開 20 seconds<<<"
+    }
+  },
+  ">>>最后防守 20 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Final defense in 20 seconds",
+      "JP": ">>>最終防衛 20秒<<<",
+      "CN": "",
+      "KR": ">>> 마지막 방어 20초 남음 <<<",
+      "TW": ">>>最後防守 20 seconds<<<"
+    }
+  },
+  ">>>传送 20 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleporting in 20 seconds",
+      "JP": ">>>テレポータル 20秒<<<",
+      "CN": "",
+      "KR": ">>> 전송 20초 남음 <<<",
+      "TW": ">>>傳送 20 seconds<<<"
+    }
+  },
+  ">>>大门即将关闭 10 seconds<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate closing in 10 seconds",
+      "JP": ">>>ゲートが間もなく閉じます 10秒<<<",
+      "CN": "",
+      "KR": ">>> 문이 곧 닫힙니다 10초 남음 <<<",
+      "TW": ">>>大門即將關閉 10 seconds<<<"
+    }
+  },
+  ">>>有一个秘密被发现了<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A secret has been discovered",
+      "JP": ">>>秘密が見つかりました<<<",
+      "CN": "",
+      "KR": ">>> 비밀 하나가 발견되었습니다 <<<",
+      "TW": ">>>有一個秘密被發現了<<<"
+    }
+  },
+  ">>>你相信阴引力吗<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Do you believe in negative gravity?",
+      "JP": "「陰の引力」を信じるか？",
+      "CN": "",
+      "KR": "음의 인력을 믿으시나요?",
+      "TW": "你相信陰陰力嗎"
+    }
+  },
+  ">>>我很尊敬第一个吃蘑菇的人<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I greatly respect the first person to eat a mushroom.",
+      "JP": "最初のキノコ食者には敬意を表するがな。",
+      "CN": "",
+      "KR": "그 첫 버섯을 먹은 사람을 존경합니다.",
+      "TW": "我很尊敬第一個吃蘑菇的人"
+    }
+  },
+  ">>>因为说不定是有毒的呢<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "After all, it might be poisonous.",
+      "JP": "もし有毒だったらどうする？",
+      "CN": "",
+      "KR": "유독일 수 있으니까요.",
+      "TW": "因為說不定是有毒的呢"
+    }
+  },
+  ">>>迪奥<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Dio",
+      "JP": "ディオ！",
+      "CN": "",
+      "KR": "디오",
+      "TW": "迪斯"
+    }
+  },
+  ">>>等我得心应手后<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Once I have mastered it...",
+      "JP": "私が自在に操れるようになったら…",
+      "CN": "",
+      "KR": "내가 능숙해지면...",
+      "TW": "等我得心應手後"
+    }
+  },
+  ">>>我一定会让你觉醒<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I will definitely make you awaken.",
+      "JP": "お前を覚醒させる！",
+      "CN": "",
+      "KR": "당신이 각성하는 것을 보게 될 것입니다.",
+      "TW": "我一定會讓你覺醒"
+    }
+  },
+  ">>>人类终究是要上天堂的<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Humanity is destined to go to heaven.",
+      "JP": "人間は最終的に天国に至るのだ。",
+      "CN": "",
+      "KR": "인간은 결국 천국에 올라가야 합니다.",
+      "TW": "人類終究是要上天堂的"
+    }
+  },
+  ">>>最后再说一遍<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Let me say this one last time.",
+      "JP": "最後に言っておくが…",
+      "CN": "",
+      "KR": "마지막으로 한 번 더 말합니다.",
+      "TW": "最後再說一遍"
+    }
+  },
+  ">>>时间要加速了<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Time is about to accelerate.",
+      "JP": ">>>時間が加速する<<<",
+      "CN": "",
+      "KR": "시간이 가속됩니다",
+      "TW": "時間正在加速"
+    }
+  },
+  ">>>下来吧<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Come down.",
+      "JP": ">>>降りてこい<<<",
+      "CN": "",
+      "KR": "내려오세요",
+      "TW": "下來吧"
+    }
+  },
+  ">>>螺旋阶梯<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Helix Ladder",
+      "JP": ">>>螺旋階段<<<",
+      "CN": "",
+      "KR": "나선형 계단",
+      "TW": "螺旋階梯"
+    }
+  },
+  ">>>独角仙<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Horned Beetle",
+      "JP": ">>>カブトムシ<<<",
+      "CN": "",
+      "KR": "장수코뿔 beetle",
+      "TW": "獨角仙"
+    }
+  },
+  ">>>废墟街道<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ruined Streets",
+      "JP": ">>>廃墟の街並み<<<",
+      "CN": "",
+      "KR": "폐허 거리",
+      "TW": "廢墟街道"
+    }
+  },
+  ">>>无花果塔<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fig Tree Tower",
+      "JP": ">>>無花果塔<<<",
+      "CN": "",
+      "KR": "무화과탑",
+      "TW": "無花果塔"
+    }
+  },
+  ">>>苦伤道<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Path of Sorrows",
+      "JP": ">>>苦難の道<<<",
+      "CN": "",
+      "KR": "고난의 길",
+      "TW": "苦傷道"
+    }
+  },
+  ">>>特异点<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Abyssal Point",
+      "JP": ">>>特異点<<<",
+      "CN": "",
+      "KR": "특이점",
+      "TW": "特異點"
+    }
+  },
+  ">>>乔托<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Jotaro",
+      "JP": "ジョット",
+      "CN": "",
+      "KR": "조토",
+      "TW": "喬托"
+    }
+  },
+  ">>>天使<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Angel",
+      "JP": "天使",
+      "CN": "",
+      "KR": "천사",
+      "TW": "天使"
+    }
+  },
+  ">>>紫阳花<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hydrangea",
+      "JP": "紫陽花",
+      "CN": "",
+      "KR": "hydratengia",
+      "TW": "紫陽花"
+    }
+  },
+  ">>>秘密皇帝<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Secret Emperor",
+      "JP": "秘密の皇帝",
+      "CN": "",
+      "KR": "비밀 황제",
+      "TW": "秘密皇帝"
+    }
+  },
+  ">>>话已至此<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "With these words,",
+      "JP": "話はここまでだ",
+      "CN": "",
+      "KR": "이쯤에서 말이 끝이야",
+      "TW": "話已至此"
+    }
+  },
+  ">>>MADE IN HEAVEN<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "MADE IN HEAVEN",
+      "CN": "《天堂制造的》",
+      "KR": "MADE IN HEAVEN",
+      "TW": "MADE IN HEAVEN"
+    }
+  },
+  ">>>天堂制造<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Heaven's Design",
+      "JP": "天国作り",
+      "CN": "",
+      "KR": "천국 창작",
+      "TW": "天堂製造"
+    }
+  },
+  ">>>我以神的名义命令你退下<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "In the name of God, I command you to stand down.",
+      "JP": "私は神の名において、汝に退去を命じる",
+      "CN": "",
+      "KR": "나는 신의 이름으로 당신에게 물러나라고 명령합니다.",
+      "TW": "我以神的名義命令你退下"
+    }
+  }
+}

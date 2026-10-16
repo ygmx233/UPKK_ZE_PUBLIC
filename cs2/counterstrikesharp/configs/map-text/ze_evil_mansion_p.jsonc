@@ -1,173 +1,572 @@
 {
   " ** Zombies are trapped for 15 secs or til CTs find a solution.**": {
-    "translation": "**僵尸被困15秒或直到CT找到解决办法。**"
+    "translation": "**僵尸被困15秒或直到CT找到解决办法。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビは15秒間、またはCTが解決策を見つけるまで閉じ込められる。",
+      "CN": "** 僵尸将被困住15秒，直到CT找到解决方案。**",
+      "KR": "좀비들이 15초 동안 격리되거나 CT가 해결책을 찾을 때까지 갇혀 있습니다.",
+      "TW": "**殭屍被困 15 秒，或直到 CT 找到解決方案。**"
+    }
   },
   " **Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**": {
-    "translation": "**瓦伦西亚博士：守住门！我会用剩下的气体制作一颗核弹！**"
+    "translation": "**瓦伦西亚博士：守住门！我会用剩下的气体制作一颗核弹！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** バレンシア博士：ドアを守れ！残りのガスで核を生成する！",
+      "CN": "**瓦伦西亚博士： 守住这扇门！ 我将用剩余的气体制造核武器！**",
+      "KR": "발렌시아 박사: 문 지키세요! 남은 가스로 원폭을 만들겁니다!",
+      "TW": "**瓦倫西亞博士：守住這扇門！我會用剩餘的氣體製造成核彈！**"
+    }
   },
   " **Dr. Valencia: I might need to expell some gas soon.**": {
-    "translation": "**瓦伦西亚博士：我可能很快就需要释放一些气体。**"
+    "translation": "**瓦伦西亚博士：我可能很快就需要释放一些气体。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** バレンシア博士：もうすぐガスを排出する必要があるかもしれない。",
+      "CN": "**瓦伦西亚博士：我可能需要尽快排放一些气体。**",
+      "KR": "발렌시아 박사: 곧 가스를 방출해야 할 것 같습니다.",
+      "TW": "**瓦倫西亞博士：我可能得 soon 排放一些氣體。**"
+    }
   },
   " **Dr. Valencia: TAKE THIS!!!**": {
-    "translation": "**瓦伦西亚博士：接招吧！！！**"
+    "translation": "**瓦伦西亚博士：接招吧！！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** バレンシア博士：これを受け取れ！！！",
+      "CN": "**瓦伦西亚博士： TAKE THIS!!!**",
+      "KR": "발렌시아 박사: 받아라!!!",
+      "TW": "**瓦倫西亞博士：接招吧！！！**"
+    }
   },
   " -=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-": {
-    "translation": "-=瓦伦西亚博士：门开了！让开！！！=-"
+    "translation": "-=瓦伦西亚博士：门开了！让开！！！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=バレンシア博士： 扉が開いた！ 進め！！!=-",
+      "CN": "-=瓦伦西亚博士： 门开了！ 让路！！!=-",
+      "KR": "-=발렌시아 박사: 문 열림! 통과하!!=-",
+      "TW": "-=瓦倫西亞博士： 門已開啟！ 讓出路！！!=-"
+    }
   },
   " -=Dr. Valencia:  Door opening in 5.=-": {
-    "translation": "-=瓦伦西亚博士：门在5秒内打开。=-"
+    "translation": "-=瓦伦西亚博士：门在5秒内打开。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=バレンシア博士： 5秒後に扉が開きます。=-",
+      "CN": "-=瓦伦西亚博士： 5秒后门将打开。=-",
+      "KR": "-=발렌시아 박사: 문 5초 후 개방.-=",
+      "TW": "-=瓦倫西亞博士： 門將在 5 秒後開啟。=-"
+    }
   },
   "**Does this copter have enough fuel?**": {
-    "translation": "**这架直升机有足够的燃料吗？**"
+    "translation": "**这架直升机有足够的燃料吗？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** このヘリコプターには十分な燃料があるか？",
+      "CN": "**这架直升机有足够的燃料吗？**",
+      "KR": "이 헬리콥터에 연료가 충분합니까?",
+      "TW": "**這架直升機有足夠的燃料嗎？**"
+    }
   },
   "**Dr Valencia:  Ok... I'll open the door.**": {
-    "translation": "**瓦伦西亚博士：好吧……我会打开门。**"
+    "translation": "**瓦伦西亚博士：好吧……我会打开门。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** バレンシア博士：わかった…扉を開ける。",
+      "CN": "**瓦伦西亚博士： 好的...我会打开门。**",
+      "KR": "발렌시아 박사: 알았어요... 문을 열겠습니다.",
+      "TW": "**瓦倫西亞博士： 好吧...我會打開門。**"
+    }
   },
   "**Dr Valencia: Give me 15 seconds.**": {
-    "translation": "**瓦伦西亚博士：给我15秒。**"
+    "translation": "**瓦伦西亚博士：给我15秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヴァレンシア医師: 15秒ください。**",
+      "CN": "**瓦伦西亚博士：给我15秒。**",
+      "KR": "발렌시아 박사: 15초만 기다려 줘.",
+      "TW": "華倫西亞博士：給我15秒。"
+    }
   },
   "**Dr. Valencia:  1...**": {
-    "translation": "**瓦伦西亚博士：1...**"
+    "translation": "**瓦伦西亚博士：1...**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヴァレンシア医師: 1...**",
+      "CN": "**瓦伦西亚博士：1...**",
+      "KR": "발렌시아 박사:  1...",
+      "TW": "華倫西亞博士：一……"
+    }
   },
   "**Dr. Valencia:  2...**": {
-    "translation": "**瓦伦西亚博士：2...**"
+    "translation": "**瓦伦西亚博士：2...**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヴァレンシア医師: 2...**",
+      "CN": "**瓦伦西亚博士：2...**",
+      "KR": "발렌시아 박사:  2...",
+      "TW": "華倫西亞博士：二……"
+    }
   },
   "**Dr. Valencia:  I'm in the john!**": {
-    "translation": "**瓦伦西亚博士：我在厕所！**"
+    "translation": "**瓦伦西亚博士：我在厕所！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヴァレンシア医師: トイレに行ってるの！**",
+      "CN": "**瓦伦西亚博士：我正在厕所！**",
+      "KR": "발렌σια 박사: 변기에 들어가!",
+      "TW": "華倫西亞博士：我去上廁所了！"
+    }
   },
   "**Dr. Valencia:  Nuke in 3...**": {
-    "translation": "**瓦伦西亚博士：核弹在3秒内引爆...**"
+    "translation": "**瓦伦西亚博士：核弹在3秒内引爆...**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヴァレンシア医師: 核攻撃まであと3...**",
+      "CN": "**瓦伦西亚博士：核弹发射倒数3...**",
+      "KR": "발렌시아 박사: 핵탄두 3...",
+      "TW": "華倫西亞博士：核彈倒數3……"
+    }
   },
   "**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**": {
-    "translation": "**瓦伦西亚博士：你怎么敢破坏我的厕所！**"
+    "translation": "**瓦伦西亚博士：你怎么敢破坏我的厕所！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヴァレンシア医師: わがタンクを割ってどうするの！」",
+      "CN": "**瓦伦西亚博士：竟敢摔坏我的杯子！！！",
+      "KR": "발렌시아 박사: 왜 내 캔을 뭉개?!",
+      "TW": "華倫西亞博士：你們竟敢打破我的罐子！"
+    }
   },
   "**GET TO THE MANSION!**": {
-    "translation": "**赶快到豪宅！**"
+    "translation": "**赶快到豪宅！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**マナーに急げ！**",
+      "CN": "前往庄园！**",
+      "KR": "맨션으로 이동해!",
+      "TW": "前往莊園！"
+    }
   },
   "**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**": {
-    "translation": "**Lightning：来些深入的交流吧如何伙计们？按下红色按钮！！**"
+    "translation": "**Lightning：来些深入的交流吧如何伙计们？按下红色按钮！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**サンダーボルト: じゃあ、ハードコアなS&Mでもしよっか？赤いボタンを押して！！**",
+      "CN": "**闪电：来点硬核的BDSM怎么样？各位！按下红色按钮！！**",
+      "KR": "번개: 하드코어 SM 좀 할까? 빨간 버튼을 누르라구!!",
+      "TW": "閃電俠：你們這些 hardcore S&M 愛好者，按鈕在哪裡？快按紅色按鈕！！"
+    }
   },
   "**Lightning: Oooo Yeah!!! Did that hurt?**": {
-    "translation": "**Lightning：哦耶！！很痛吗？**"
+    "translation": "**Lightning：哦耶！！很痛吗？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "サンダース：おぉ〜っ！痛かった？",
+      "CN": "**闪电：吼吼吼！爽吧？疼吗？**",
+      "KR": "\"번개: 오오! 잘나?! 고했니?\"",
+      "TW": "閃電：喔耶！！！痛嗎？"
+    }
   },
   "**Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**": {
-    "translation": "**美少女战士：嘿，男孩们！我好了！来贴贴吧！**"
+    "translation": "**美少女战士：嘿，男孩们！我好了！来贴贴吧！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**セーラームーン：おーい、男の子たち！　めっちゃ性欲旺盛！　触って！**",
+      "CN": "**水手月亮：嘿，宝贝们！我好色啊！快来摸我！**",
+      "KR": "\"세일러 문:hey 남자들아! 나 성욕 많단다! 날 만져봐!\"",
+      "TW": "**水兵月亮：嘿男孩們！我好淫穢！來摸我！**"
+    }
   },
   "**Sailor Moon: I'M CUMMIN FOR YOU!**": {
-    "translation": "**美少女战士：我来找你们了！**"
+    "translation": "**美少女战士：我来找你们了！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**セーラームーン：お前を孕んでやる！！",
+      "CN": "**水手月亮：我要来了！！！**",
+      "KR": "\"세일러 문: 난 곧 질주해줄께!\"",
+      "TW": "水手月亮：我現在就要來了！"
+    }
   },
   "**Those Planks Look Oftly Flimsy!**": {
-    "translation": "**那些木板看起来非常脆弱！**"
+    "translation": "**那些木板看起来非常脆弱！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "あの板、妙に頼りないぞ！",
+      "CN": "**那些木板看起来特别脆弱！**",
+      "KR": "\"그 나무 널빤지들 너무 뻣뻣해 보이는데!\"",
+      "TW": "那些木板看起來弱不禁風！"
+    }
   },
   "**Zombies ate the main gate!**": {
-    "translation": "**僵尸吃掉了主门！**"
+    "translation": "**僵尸吃掉了主门！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビがメインゲートを食い千切った！",
+      "CN": "**僵尸吃掉了主大门！**",
+      "KR": "\" 좀비들이 주문을 먹어버렸어!\"",
+      "TW": "殭屍吃掉了正門！"
+    }
   },
   "**Zombies held back for 5 seconds.**": {
-    "translation": "**僵尸被阻挡5秒。**"
+    "translation": "**僵尸被阻挡5秒。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビは5秒間攻撃を自粛した。",
+      "CN": "**僵尸坚持了5秒。**",
+      "KR": "\"좀비들은 5초 동안 멈춰 섰다.\"",
+      "TW": "殭屍阻擋了5秒。"
+    }
   },
   "-= For comments, find me on the SCA clan forums!=-": {
-    "translation": "-=有任何意见，请在SCA论坛上找我！=-"
+    "translation": "-=有任何意见，请在SCA论坛上找我！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-= ご意見・ご要望は SCA クランフォーラムまで =-",
+      "CN": "-= 如有意见，请到SCA氏族论坛找我 =-",
+      "KR": "-= 의견은 SCA 클랜 포럼에서 찾아줘!=-}",
+      "TW": "-= 如有意見，請至 SCA 公會論壇找我 =-"
+    }
   },
   "-= SCACLAN.COM >> 50.31.65.61:27015 =-": {
-    "translation": "-= v =-"
+    "translation": "-= v =-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-= SCACLAN.COM >> 50.31.65.61:27015 =-",
+      "CN": "-= SCACLAN.COM >> 50.31.65.61:27015 =-",
+      "KR": "-= SCACLAN.COM >> 50.31.65.61:27015 =-",
+      "TW": "-= SCACLAN.COM >> 50.31.65.61:27015 =-"
+    }
   },
   "-=5 seconds remaining.=-": {
-    "translation": "-=剩余5秒。=-"
+    "translation": "-=剩余5秒。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒",
+      "CN": "-=剩余5秒。=-",
+      "KR": "시간 5초 남음",
+      "TW": "-=倒數 5 秒。=-"
+    }
   },
   "-=A Player Has Been Raped By Sailormoon.=-": {
-    "translation": "-=一个玩家被美少女战士贴贴了。=-"
+    "translation": "-=一个玩家被美少女战士贴贴了。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-セーラーむすめによってレイプされたプレイヤーがいます。=-",
+      "CN": "-=一名玩家被水手moon强奸。=-",
+      "KR": "플레이어가セーラームーン에게 강간당했습니다.",
+      "TW": "-=一位玩家被水手月亮性侵。=-"
+    }
   },
   "-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-": {
-    "translation": "-=门卡住了！找另一条出路！=-"
+    "translation": "-=门卡住了！找另一条出路！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが固執！他の出口を探せ！",
+      "CN": "-=门卡住了！寻找其他出路！=-",
+      "KR": "문이 틀어졌습니다! 다른 탈출구를 찾으세요!",
+      "TW": "-=門卡住了！尋找其他出路！=-"
+    }
   },
   "-=DOOR OPENED! Zombies held back for 5 seconds.=-": {
-    "translation": "-=门开了！僵尸被阻挡5秒。=-"
+    "translation": "-=门开了！僵尸被阻挡5秒。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いた！ゾンビを5秒間阻止。",
+      "CN": "-=门已打开！僵尸被阻挡5秒。=-",
+      "KR": "문이 열렸습니다! 좀비들이 5초간 막힘",
+      "TW": "-=門已打開！殭屍被阻擋 5 秒。=-"
+    }
   },
   "-=Defense System Activated.=-": {
-    "translation": "-=防御系统已激活。=-"
+    "translation": "-=防御系统已激活。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "防衛システム作動",
+      "CN": "-=防御系统已激活。=-",
+      "KR": "방어 시스템 가동",
+      "TW": "-=防禦系統已啟動。=-"
+    }
   },
   "-=Defense System Activated=-": {
-    "translation": "-=防御系统已激活=-"
+    "translation": "-=防御系统已激活=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "防衛システム作動",
+      "CN": "-=防御系统已激活。=-",
+      "KR": "방어 시스템 가동",
+      "TW": "-=防禦系統已啟動。=-"
+    }
   },
   "-=Detonating=-": {
-    "translation": "-=引爆中=-"
+    "translation": "-=引爆中=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "爆発中",
+      "CN": "-=引爆中。=-",
+      "KR": "폭발 중",
+      "TW": "-=引爆中=-"
+    }
   },
   "-=Door opened!  Zombies held back 5 seconds.=-": {
-    "translation": "-=门开了！僵尸被阻挡5秒。=-"
+    "translation": "-=门开了！僵尸被阻挡5秒。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いた！ゾンビを5秒間阻止。",
+      "CN": "-=门已打开！僵尸被阻挡5秒。=-",
+      "KR": "문이 열렸습니다! 좀비들이 5초간 막힘",
+      "TW": "-=門已打開！殭屍被阻擋 5 秒。=-"
+    }
   },
   "-=Door opens in 10 seconds.=-": {
-    "translation": "-=门在10秒内打开。=-"
+    "translation": "-=门在10秒内打开。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=ドアが10秒後に開く=-",
+      "CN": "-=门将在10秒后打开。-=",
+      "KR": "문 10초 후 개방",
+      "TW": "-=門將在 10 秒後開啟。=-"
+    }
   },
   "-=Door opens in 20 seconds.=-": {
-    "translation": "-=门在20秒内打开。=-"
+    "translation": "-=门在20秒内打开。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=ドアが20秒後に開く=-",
+      "CN": "-=门将在20秒后打开。-=",
+      "KR": "문 20초 후 개방",
+      "TW": "-=門將在 20 秒後開啟。=-"
+    }
   },
   "-=Door opens in 5 seconds.=-": {
-    "translation": "-=门在5秒内打开。=-"
+    "translation": "-=门在5秒内打开。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=ドアが5秒後に開く=-",
+      "CN": "-=门将在5秒后打开。-=",
+      "KR": "문 5초 후 개방",
+      "TW": "-=門將在 5 秒後開啟。=-"
+    }
   },
   "-=Find Dr. Valencia=-": {
-    "translation": "-=找到瓦伦西亚博士=-"
+    "translation": "-=找到瓦伦西亚博士=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=バレンシア博士を探す=-",
+      "CN": "-=找到瓦伦西亚博士。-=",
+      "KR": "발렌시아 박사 찾기",
+      "TW": "-=尋找瓦倫西亞博士。=-"
+    }
   },
   "-=Force her out!=-": {
-    "translation": "-=把她逼出来！=-"
+    "translation": "-=把她逼出来！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=彼女を強制排除する=-",
+      "CN": "-=强行将其逼出。-=",
+      "KR": "강제로 밖으로 밀어내기",
+      "TW": "-=強制逼出！=-"
+    }
   },
   "-=Helicopter Departing in 10 Seconds.=-": {
-    "translation": "-=直升机将在10秒内起飞。=-"
+    "translation": "-=直升机将在10秒内起飞。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=ヘリコプター10秒後に離陸=-",
+      "CN": "-=直升机将在10秒后起飞。-=",
+      "KR": "헬리콥터 10초 후 이륙",
+      "TW": "-=直升機即將於 10 秒後離開。=-"
+    }
   },
   "-=Hold here for 20 seconds=-": {
-    "translation": "-=在这里防守20秒=-"
+    "translation": "-=在这里防守20秒=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=ここで20秒間待機=-",
+      "CN": "-=在此坚守20秒。-=",
+      "KR": "20초간 대기",
+      "TW": "-=在此防守 20 秒。-"
+    }
   },
   "-=Hold here for 30 Seconds.=-": {
-    "translation": "-=在这里防守30秒。=-"
+    "translation": "-=在这里防守30秒。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=ここで30秒間待機=-",
+      "CN": "-=在此坚守30秒。-=",
+      "KR": "30초간 대기",
+      "TW": "-=在此防守 30 秒。=-"
+    }
   },
   "-=Hold here for 40 seconds=-": {
-    "translation": "-=在这里防守40秒=-"
+    "translation": "-=在这里防守40秒=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-ここで40秒間停止しなさい=-",
+      "CN": "-=坚持住40秒=-",
+      "KR": "-=40초 동안 여기 고정=-",
+      "TW": "=-請在此停留40秒=-"
+    }
   },
   "-=MAYDAY! MAYDAY!!!=-": {
-    "translation": "-=紧急呼救！紧急呼救！！！=-"
+    "translation": "-=紧急呼救！紧急呼救！！！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-MAYDAY! MAYDAY!!=-",
+      "CN": "-=求救！求救！！=-",
+      "KR": "-=메이데이! 메이데이!!=-",
+      "TW": "=-MAYDAY！MAYDAY！！=-"
+    }
   },
   "-=Main door opens in 10 seconds!=-": {
-    "translation": "-=主门在10秒内打开！=-"
+    "translation": "-=主门在10秒内打开！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-メインドアーが10秒後に開放されます=-",
+      "CN": "-=主门10秒后开启=-",
+      "KR": "-=주요 문 10초 후 열림=-",
+      "TW": "=-主門將於10秒後開啟=-"
+    }
   },
   "-=Map By Westsiderain=-": {
-    "translation": "-=地图由Westsiderain制作 翻译：Asteri3m=-"
+    "translation": "-=地图由Westsiderain制作 翻译：Asteri3m=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-マップ制作：ウェストサイダーレイン=-",
+      "CN": "-=地图由 Westsiderain 制作=-",
+      "KR": "-=맵 제작: Westsiderain=-",
+      "TW": "=-地圖製作人：Westsiderain=-"
+    }
   },
   "-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-": {
-    "translation": "-=特别感谢SCA服务器进行测试！=-"
+    "translation": "-=特别感谢SCA服务器进行测试！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-ベータテストにご協力いただいたSCAサーバー様に特別なお礼-=--",
+      "CN": "-=特别感谢 SCA 服务器参与Beta测试=-",
+      "KR": "-=베타 테스팅을 위한 SCA 서버에 특별한 감사=-",
+      "TW": "=-特別感謝SCA伺服器團隊參與Beta測試=-"
+    }
   },
   "-=Thanks for playing Evil Mansion!=-": {
-    "translation": "-=感谢游玩邪恶公馆！=-"
+    "translation": "-=感谢游玩邪恶公馆！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-Evil Mansionをお遊びいただきありがとうございます=-",
+      "CN": "-=感谢游玩《邪恶公馆》=-",
+      "KR": "-=Evil Mansion 플레이해 주셔서 감사합니다=-",
+      "TW": "=-感謝遊玩《邪惡莊園》=-"
+    }
   },
   "-=Toilet Defense System Activated=-": {
-    "translation": "-=厕所防御系统已激活=-"
+    "translation": "-=厕所防御系统已激活=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-トイレ防衛システム作動=-",
+      "CN": "-=厕所防御系统已激活=-",
+      "KR": "-=화장실 방어 시스템 활성화=-",
+      "TW": "=-馬桶防禦系統已啟動=-"
+    }
   },
   "-=WE'RE GOING DOWN!=-": {
-    "translation": "-=我们要坠毁了！=-"
+    "translation": "-=我们要坠毁了！=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "=-俺たちは墜落する！=-",
+      "CN": "-=我们要坠毁了=-",
+      "KR": "-=우리는 가라앉는다=-",
+      "TW": "=-我們墜落了=-"
+    }
   },
   "-=Zombies advance in 15 seconds.=-": {
-    "translation": "-=僵尸将在15秒内推进。=-"
+    "translation": "-=僵尸将在15秒内推进。=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが15秒後に接近します。",
+      "CN": "-=僵尸将在15秒内进攻。=-",
+      "KR": "지속적으로 좀비가 진행합니다. 15초 이내.",
+      "TW": "-=殭屍即將入侵，距離15秒。=-"
+    }
   },
   "-=Zombies released in 3 seconds=-": {
-    "translation": "-=僵尸将在3秒内释放=-"
+    "translation": "-=僵尸将在3秒内释放=-",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが3秒後に解放されます。",
+      "CN": "-=3秒后释放僵尸=-",
+      "KR": "-=좀비 방출 3초 후=-",
+      "TW": "-=3秒後釋放殭屍=-"
+    }
   },
   "WE'RE GOING DOWN!!!": {
-    "translation": "我们要坠毁了！！！"
+    "translation": "我们要坠毁了！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "俺たちは沈む！！",
+      "CN": "我们要下潜了！！！",
+      "KR": "우리는 내려가고 있다!!!",
+      "TW": "我們要下樓了！！！"
+    }
   },
   "** Zombies are trapped for 15 secs or til CTs find a solution.**": {
-    "translation": "**僵尸被困15秒或直到CT找到解决办法。**"
+    "translation": "**僵尸被困15秒或直到CT找到解决办法。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビは15秒間、またはCTが解決策を見つけるまで閉じ込められる。**",
+      "CN": "** 僵尸将被困15秒，直到CT找到解决方案。**",
+      "KR": "** 좀비는 15초 동안 또는 CT가 해결책을 찾을 때까지 갇혀 있습니다.**",
+      "TW": "** 殭屍被困住15秒，或直到反恐精英找到解決方法。**"
+    }
   },
   "**Dr. Valencia: I might need to expell some gas soon.**": {
-    "translation": "**瓦伦西亚博士：我可能很快就需要释放一些气体。**"
+    "translation": "**瓦伦西亚博士：我可能很快就需要释放一些气体。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヴァレンシア博士：もう間もなくガスを放出する必要があるかも。**",
+      "CN": "**瓦伦西亚博士：我可能需要尽快释放一些气体。**",
+      "KR": "**발렌시아 박사: 나는 곧 가스를 발산해야 할지도 몰라.**",
+      "TW": "**瓦倫西亞博士：我可能很快就需要排放一些氣體。**"
+    }
   },
   "-=Dr. Valencia:  Door opening in 5.=-": {
-    "translation": "瓦伦西亚博士：门在5秒内打开。"
+    "translation": "瓦伦西亚博士：门在5秒内打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=ヴァレンシア博士： 5秒後にドアが開きます。=-",
+      "CN": "-=瓦伦西亚博士：门将在5秒后打开。=-",
+      "KR": "-=발렌시아 박사: 5초 후 문이 열립니다.-=",
+      "TW": "-=瓦倫西亞博士：門將在5秒後開啟。=-"
+    }
   },
   "-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-": {
-    "translation": "瓦伦西亚博士：门开了！让开！！！"
+    "translation": "瓦伦西亚博士：门开了！让开！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "-=ヴァレンシア博士： ドア開放！ 通れ！！!=-",
+      "CN": "-=瓦伦西亚博士：门已打开！让开！！!=-",
+      "KR": "-=발렌시아 박사: 문 열림! 길을 비켜!!!!=-",
+      "TW": "-=瓦倫西亞博士： 門已開啟！ 讓開！！!=-"
+    }
   },
   "**Dr. Valencia: TAKE THIS!!!**": {
-    "translation": "瓦伦西亚博士：接招吧！！！"
+    "translation": "瓦伦西亚博士：接招吧！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヴァレンシア博士： これを受け取れ！！！**",
+      "CN": "**瓦伦西亚博士：接招！！！**",
+      "KR": "**발렌시아 박사: 이를 받아라!!!**",
+      "TW": "**瓦倫西亞博士：接招！！！**"
+    }
   },
   "**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**": {
-    "translation": "瓦伦西亚博士：守住门！我会用剩下的气体制作一颗核弹！"
+    "translation": "瓦伦西亚博士：守住门！我会用剩下的气体制作一颗核弹！",
+    "MultiLang": {
+      "US": "",
+      "JP": "**バレンシア博士: ドアを閉めて！ あとわずかのガスで核を呼び出すわ！」",
+      "CN": "**瓦伦西亚博士：挡住门！我将利用剩余的燃气来合成一枚核弹！**",
+      "KR": "**발렌시아 박사: 문을 지켜! 남은 가스로 핵을 만들게!**",
+      "TW": "**瓦倫西亞博士： 撐住那扇門！我會用剩餘的瓦斯捏出一顆核彈！**"
+    }
   }
 }

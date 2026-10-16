@@ -1,0 +1,2522 @@
+{
+  "\u0004有人被撅爆了: \u0003Q弹咖喱鱼蛋头\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "⚠️ ヨフゲー 発立: キャド笑蝶タ子アト, 原因=ディスコネクト",
+      "JP": "有人が打ち破れました: 韘涡カリイ鱼子タイル, 原因=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾여 죽었음: \u0003Q弹카레어구머리\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: Q彈咖哩魚蛋頭, 原因=斷開連接"
+    }
+  },
+  "*** ze_changing_room ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ze_changing_room ***",
+      "CN": "*** 更衣室 ***",
+      "KR": "*** ze_changing_room ***",
+      "TW": "*** ze_changing_room ***"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003三第\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "⚠️ ヨフゲー 発立: 三第, 原因=ディスコネクト",
+      "JP": "有人が打ち破れました: 三第, 原因=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾여 죽었음: \u0003삼째\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: 三第, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003RabbitSaturation\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "⚠️ ヨフゲー 発立: RabbitSaturation, 原因=ディスコネクト",
+      "JP": "有人が打ち破れました: RabbitSaturation, 原因=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾여 죽었음: \u0003RabbitSaturation\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: RabbitSaturation, 原因=斷開連接"
+    }
+  },
+  "Map by wolfkk": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Map by wolfkk",
+      "CN": "地图由 wolfkk 制作",
+      "KR": "Map by wolfkk",
+      "TW": "地圖由 wolfkk 製作"
+    }
+  },
+  "*** Thanks for Luffaren's models and sounds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** Luffarenのモデルと音响に感谢 ***",
+      "CN": "*** 感谢 Luffaren 提供的模型和音效 ***",
+      "KR": "*** Luffaren의 모델과 사운드에 감사 ***",
+      "TW": "*** 感謝 Luffaren 提供的模型與音效 ***"
+    }
+  },
+  "*** Thanks for your play ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** お回りいたしに感谢 ***",
+      "CN": "*** 感谢您的游玩 ***",
+      "KR": "*** 당신의 플레이에 감사 ***",
+      "TW": "*** 感謝您的遊玩 ***"
+    }
+  },
+  "**  wait 20s  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**  wait 20s  **",
+      "CN": "** 等待 20 秒 **",
+      "KR": "**  20초 기다림  **",
+      "TW": "** 等待 20 秒 **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003鸿园的君主 应哲\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "⚠️ ヨフゲー 発立: 鸿园の主府 応哲, 原因=ディスコネクト",
+      "JP": "\u0004誰かが接続を失いました: \u0003鴻園の君主 應哲\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "누군가 접속이 끊어졌습니다: 군주 영철, 이유=연결 끊김",
+      "TW": "有人被撅爆了: 鴻園的君主 應哲, 原因=斷開連接"
+    }
+  },
+  "**  圣诞老人带来了许多礼物  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** 圣诞老人が許多雲的禮物を送った **",
+      "JP": "** 聖誕老人が多くの贈り物を持ってきた **",
+      "CN": "",
+      "KR": "** 산타 할아버지가 많은 선물을 가져왔습니다 **",
+      "TW": "**  聖誕老人帶來了許多禮物  **"
+    }
+  },
+  "** Santa Claus brought many gifts   **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Santa Claus brought many gifts   **",
+      "CN": "** 圣诞老人带来了许多礼物   **",
+      "KR": "** Santa Claus brought many gifts   **",
+      "TW": "** Santa Claus brought many gifts   **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003姬宫真步\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "⚠️ ヨフゲー 発立: 姬宮真步, 原因=ディスコネクト",
+      "JP": "\u0004誰かが接続を失いました: \u0003姫宮真歩\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "누군가 접속이 끊어졌습니다: 시키미야 마호, 이유=연결 끊김",
+      "TW": "有人被撅爆了: 姬宮真步, 原因=斷開連接"
+    }
+  },
+  "**  wait 45s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 45秒待ってください **",
+      "CN": "** 等待 45 秒 **",
+      "KR": "** 45초 대기 중 **",
+      "TW": "**  wait 45s **"
+    }
+  },
+  "**  这个好像卡住了 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** これはカードしているようです **",
+      "JP": "** このメッセージは止まっているようです **",
+      "CN": "",
+      "KR": "** 잠시 멈춘 것 같습니다 **",
+      "TW": "**  這個好像卡住了 **"
+    }
+  },
+  "** This seems to be stuck. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** This seems to be stuck. **",
+      "CN": "** 这似乎卡住了。**",
+      "KR": "This seems to be stuck. **",
+      "TW": "** This seems to be stuck. **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003时墨_Luck\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "⚠️ ヨフゲー 発立: 时墨_Luck, 原因=ディスコネクト",
+      "JP": "\u0004誰かが接続を失いました: \u0003時墨_Luck\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "누군가 접속이 끊어졌습니다: 스즈미 Luck, 이유=연결 끊김",
+      "TW": "有人被撅爆了: 時墨_Luck, 原因=斷開連接"
+    }
+  },
+  "**  model by Luffaren  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Luffaren によるモデル **",
+      "CN": "由 Luffaren 制作模型",
+      "KR": "** Luffaren 제작 모델 **",
+      "TW": "** Luffaren 的模型 **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003sumrio\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Person was kicked out: summary, reason=disconnected\"",
+      "JP": "有人が哩び矢にされました: 椄sumrio,\n原因=断続",
+      "CN": "",
+      "KR": "\u0004누군가 강타를 받음: \u0003sumrio\u0001, \u0005연결 끊김",
+      "TW": "\u0004有人被撅爆了: \u0003sumrio\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "**  wait 40s  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 40秒寰揚 **",
+      "CN": "等待 40 秒",
+      "KR": "** 40초 대기 **",
+      "TW": "** 等待40秒 **"
+    }
+  },
+  "**  wait 30s  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒宸揚 **",
+      "CN": "等待 30 秒",
+      "KR": "** 30초 대기 **",
+      "TW": "** 等待30秒 **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003TURK Парень\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Person was kicked out: TURK Парень, reason=disconnected\"",
+      "JP": "有人が哩び矢にされました: 楄TURK男子,\n原因=断続",
+      "CN": "",
+      "KR": "\u0004누군가 강타를 받음: \u0003TURK Парень\u0001, \u0005연결 끊김",
+      "TW": "\u0004有人被撅爆了: \u0003TURK Парень\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "**  wait 35s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 35秒宸揚 **",
+      "CN": "等待 35 秒",
+      "KR": "** 35초 대기 **",
+      "TW": "** 等待35秒 **"
+    }
+  },
+  "**  wait 25s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒宸揚 **",
+      "CN": "等待 25 秒",
+      "KR": "** 25초 대기 **",
+      "TW": "** 等待25秒 **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Tlipoca\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Person was kicked out: Tlipoca, reason=disconnected\"",
+      "JP": "有人が哩び矢にされました: 楄Tlipoca,\n原因=断続",
+      "CN": "",
+      "KR": "\u0004누군가 강타를 받음: \u0003Tlipoca\u0001, \u0005연결 끊김",
+      "TW": "\u0004有人被撅爆了: \u0003Tlipoca\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "**  圣诞老人请你吃披萨  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Santa Claus is treating you to pizza **",
+      "JP": "サンタがあなたにピザをふるまいます",
+      "CN": "",
+      "KR": "산타 할아버지가 피자 대접하러 왔습니다",
+      "TW": "聖誕老人請你吃披薩"
+    }
+  },
+  "**  Santa Claus invites you to eat pizza  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "サンタがあなたにピザを食べに来ました",
+      "CN": "圣诞老人邀请您吃披萨",
+      "KR": "성탄절 산타클로스가 피자를 먹으러 오신다",
+      "TW": "聖誕老人邀請你吃披薩"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003湛你太美\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Person was kicked out: 湛你太美, reason=disconnected\"",
+      "JP": "ある者が切断されました: \u0003あなたは素晴らしい\u0001, \u0005理由は接続が切断された",
+      "CN": "",
+      "KR": "%s님이 끊어졌습니다: 연결 오류로 인해断开连接, 이유=연결 끊김",
+      "TW": "someone was busted by:"
+    }
+  },
+  "**  wait 15s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒待ってください",
+      "CN": "等待 15 秒",
+      "KR": "15초 기다려 주세요",
+      "TW": "等待15秒"
+    }
+  },
+  "**  wait 15s other door **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "他のドアで15秒待ってください",
+      "CN": "在另一个门口等待 15 秒",
+      "KR": "다른 문에서 15초 기다려 주세요",
+      "TW": "在其他門後等待15秒"
+    }
+  },
+  "**  wait 25s  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒待ってください",
+      "CN": "** 等待25秒 **",
+      "KR": "25초 기다려 주세요",
+      "TW": "等待25秒"
+    }
+  },
+  "** wait 15s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒待ってください",
+      "CN": "** 等待15秒 **",
+      "KR": "15초 기다려 주세요",
+      "TW": "等待15秒"
+    }
+  },
+  "** 恭喜你击败了邪恶筋肉圣诞人 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Congratulations on defeating the evil muscular Santa **",
+      "JP": "悪の筋肉サンタを倒しました！おめでとう！",
+      "CN": "",
+      "KR": "축하합니다! 악마성筋의 크리스마스 클로스를 물리쳤습니다",
+      "TW": "恭喜你擊敗了邪惡的肌肉聖誕人"
+    }
+  },
+  "** you kill evil santa **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** あなたが悪意あるサンタを倒した **",
+      "CN": "** 你杀死了邪恶的圣诞老人 **",
+      "KR": "** 당신은 나쁜 산타를 처치합니다 **",
+      "TW": "**你殺死了邪惡的聖誕老人**"
+    }
+  },
+  "**  ??:谁唤醒了我  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** ??: Who woke me up? **",
+      "JP": "**  ??:誰が目覚めさせたのか **",
+      "CN": "",
+      "KR": "**  ?? : 누가 나를 깨웠나 **",
+      "TW": "**？：誰喚醒了我**"
+    }
+  },
+  "**  ??:who wake me up  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**  ??:who wake me up  **",
+      "CN": "**  ???:谁吵醒了我 **",
+      "KR": "**  ?? : 누가 나를 깨웠나 **",
+      "TW": "**？：誰把我叫醒的**"
+    }
+  },
+  "**  ??:你们这群弱子  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** ??: You bunch of weaklings **",
+      "JP": "**  ??:お前ら弱者ども **",
+      "CN": "",
+      "KR": "**  ?? : 너희 약자들아 **",
+      "TW": "**？：你們這群廢物**"
+    }
+  },
+  "**  ??:you loser  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**  ??:you loser  **",
+      "CN": "**  ??:你个废物 **",
+      "KR": "**  ?? : 너희 멍청이들아 **",
+      "TW": "**？：你這個敗類**"
+    }
+  },
+  "**  你击败了♂王，但是一股黑暗的力量即将涌来 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** You defeated King ♀, but a dark force is about to surge forward **",
+      "JP": "**  ♂王を撃破したが、やがて闇の力が襲いかかってくる **",
+      "CN": "",
+      "KR": "당신은 ♀왕을 처치했지만, 어둡의 힘이 곧 밀려올 것입니다 **",
+      "TW": "**你擊敗了♂王，但一股黑暗力量即將來襲**"
+    }
+  },
+  "**  you kill king of billy,the dark is coming **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**  you kill king of billy,the dark is coming **",
+      "CN": "** 你杀死了比利之王，黑暗降临了 **",
+      "KR": "당신은 빌리의 왕을 처치했지만, 어둠이 곧 찾아올 것입니다 **",
+      "TW": "**你殺死了比利王，黑暗即將降臨**"
+    }
+  },
+  "**  蓝天谴来干你了  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Blue Sky's punishment is coming for you **",
+      "JP": "**  青空の怒りがあなたを襲う **",
+      "CN": "",
+      "KR": "푸른 하늘이 당신을 꾸짖는다 **",
+      "TW": "**天罰將降臨在你身上**"
+    }
+  },
+  "**  it will fuck you  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**  君をぶっ飛ばすよ **",
+      "CN": "** 这会让你遭殃的 **",
+      "KR": "바보처럼 굴지 마라",
+      "TW": "** 這會讓你慘爆 **"
+    }
+  },
+  "**  wait 40s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 40秒待って **",
+      "CN": "** 等待40秒 **",
+      "KR": "40초 기다려",
+      "TW": "** 等待 40 秒 **"
+    }
+  },
+  "**  孩子们我回来了  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Children, I am back **",
+      "JP": "** 子供たち、ただいま **",
+      "CN": "",
+      "KR": "아이들, 내가 돌아왔어",
+      "TW": "** 孩子們，我回來了 **"
+    }
+  },
+  "**  i am back ,did you miss me  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** かえってきたよ、会いたかったか？ **",
+      "CN": "** 我回来了，你想我吗 **",
+      "KR": "내가 돌아왔네, 내가 그리웠니?",
+      "TW": "** 我回來了，你們想我嗎？**"
+    }
+  },
+  "**  wait 20s drive **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒間運転してください **",
+      "CN": "** 等待 20s 驾驶 **",
+      "KR": "20초 동안 운전을 기다려",
+      "TW": "** 倒車等待 20 秒 **"
+    }
+  },
+  "**  wait 35s  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 35秒待って **",
+      "CN": "** 等待 35s **",
+      "KR": "35초 기다려",
+      "TW": "** 等待 35 秒 **"
+    }
+  },
+  "**  史莱克发现了你在偷吃他的生日蛋糕！  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Shrek discovered you stealing his birthday cake! **",
+      "JP": "** スレックがあなたの盗み食いを見つけた！誕生日のケーキだよ！ **",
+      "CN": "",
+      "KR": "슈렉이 너에게 그의 생일 케이크를 훔쳐 먹는 것을 발견했다!",
+      "TW": "** 史萊克發現你在偷吃他的生日蛋糕！**"
+    }
+  },
+  "**  Shrek found you sneaking a bite of his birthday cake!  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Shrek found you sneaking a bite of his birthday cake! **",
+      "CN": "** 史瑞克发现你在偷吃他的生日蛋糕！",
+      "KR": "Shrek found you sneaking a bite of his birthday cake!",
+      "TW": "** 史瑞克發現你正在偷吃他的生日蛋糕！**"
+    }
+  },
+  "**  wait 55s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 55秒待機 **",
+      "CN": "** 等待 55s **",
+      "KR": "**  55초 대기 **",
+      "TW": "** 等待55秒 **"
+    }
+  },
+  "**  黄天谴来杀你全家了  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Yellow Sky's punishment is here to kill your entire family **",
+      "JP": "** 黄天が降りて、お前の家族皆を殺すぞ **",
+      "CN": "",
+      "KR": "**  하늘의 심판이 너의 온 가족을 쓸어버린다 **",
+      "TW": "** 黃天譴來殺你全家了 **"
+    }
+  },
+  "**  Heaven will punish you and come to kill your entire family  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 天国はあなたを罰し、あなたの家族皆を殺しに来るでしょう **",
+      "CN": "** 天堂会惩罚你并来杀光你的全家 **",
+      "KR": "**  하늘이 네게 벌을 내려 온 가족을 죽이러 온다 **",
+      "TW": "** Heaven will punish you and come to kill your entire family **"
+    }
+  },
+  "**  wait 50s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 50秒待機 **",
+      "CN": "** 等待 50s **",
+      "KR": "**  50초 대기 **",
+      "TW": "** 等待50秒 **"
+    }
+  },
+  "**  wait 30s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒待機 **",
+      "CN": "** 等待 30s **",
+      "KR": "**  30초 대기 **",
+      "TW": "** 等待30秒 **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003✪|Depressive(AFK)\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: ✪|Depressive(AFK) , Reason=Disconnected",
+      "JP": "\u0004誰かが蹴り上げられた: \u0003✪|憂鬱(AFK)\u0001, \u0005原因=接続切断",
+      "CN": "",
+      "KR": "\u0004 누군가가 강탈당했습니다: \u0003✪|우울함(AFK)\u0001, \u0005사유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003✪|Depressive(AFK)\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "** push **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プッシュ **",
+      "CN": "** 推 **",
+      "KR": "** 밀기 **",
+      "TW": "** 推進 **"
+    }
+  },
+  "** wall **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 壁 **",
+      "CN": "** 墙 **",
+      "KR": "** 벽 **",
+      "TW": "** 牆壁 **"
+    }
+  },
+  "** more zm **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** more zm **",
+      "CN": "** 更多僵尸 **",
+      "KR": "** 더 많은 증 **",
+      "TW": "** 更多殭屍 **"
+    }
+  },
+  "**  恭喜击败了那个男人  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Congratulations on defeating that man **",
+      "JP": "** あの男を倒したことをお祝いします **",
+      "CN": "",
+      "KR": "** 그 남자를 격파했습니다  **",
+      "TW": "** 恭喜擊敗那個男人  **"
+    }
+  },
+  "**  you kill that man  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** あなたはその男を殺しました **",
+      "CN": "** 你杀死了那个人 **",
+      "KR": "** 당신은 그 남자를 죽였습니다  **",
+      "TW": "** 你殺死了那個男人  **"
+    }
+  },
+  "**  今天是蛋白粉折扣日，邪恶筋肉人成群结队的前去买蛋白粉  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** Today is Protein Powder Discount Day, and evil muscle-men flock to buy protein powder **",
+      "JP": "** 今日はプロテインパウダーの値下げ日です。邪悪な筋肉男たちがこぞってプロテインを買いにいきます。**",
+      "CN": "",
+      "KR": "** 오늘은 단백질 파우더 할인날, 사악한 근육질 남자아이들이 몰려와서 단백질을 구매합니다  **",
+      "TW": "** 今天是蛋白粉折扣日，邪惡筋肉人成群結隊的前去購買蛋白粉  **"
+    }
+  },
+  "**  Today is protein powder discount day, and evil santa are flocking to buy protein powder.  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 今日はプロテインパウダーの値下げ日です。邪悪なサンタが殺到してプロテインを買っています。**",
+      "CN": "** 今天是蛋白粉折扣日，邪恶的圣诞老人们纷纷前来购买蛋白粉。 **",
+      "KR": "** 오늘은 단백질 파우더 할인날이고, 사악한 산타들이 몰려와서 단백질을 구매합니다.  **",
+      "TW": "** Today is protein powder discount day, and evil santa are flocking to buy protein powder.  **"
+    }
+  },
+  "**  已激活飞进天台的跳台  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The jump pad to the rooftop has been activated",
+      "JP": "** ルーフに飛ぶ飛び込み台がアクティブになりました **",
+      "CN": "",
+      "KR": "** 옥상으로 날아가는 점프 플랫폼이 활성화되었습니다  **",
+      "TW": "** 已啟用飛向天台的跳台  **"
+    }
+  },
+  "**  The diving platform that flies to the rooftop has been activated  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ルーフに飛ぶ飛び込み台がアクティブになりました。**",
+      "CN": "** 通往屋顶的飞越潜水平台已激活 **",
+      "KR": "** 옥상으로 날아가는 다이빙 플랫폼이 활성화되었습니다  **",
+      "TW": "** The diving platform that flies to the rooftop has been activated  **"
+    }
+  },
+  "**  我去居然是一个大镰刀  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Wow, it's a giant scythe",
+      "JP": "** なんと大きな鎌だ **",
+      "CN": "",
+      "KR": "** 이거 큰 낫이다  **",
+      "TW": "** 我去居然是一個大鐮刀  **"
+    }
+  },
+  "** It is a big sickle.   **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "それは大きな鎌です。",
+      "CN": "这是一把巨大的镰刀。",
+      "KR": "거대한 낫입니다.",
+      "TW": "這是一個巨大的鐮刀。"
+    }
+  },
+  "**  我去大镰刀居然被你打死了  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I can't believe you killed the giant scythe",
+      "JP": "大鎌が君に倒された。",
+      "CN": "",
+      "KR": "대장칼을 내가 죽였군.",
+      "TW": "我去，大鐮刀居然被你打死了。"
+    }
+  },
+  "**   the Great Scythe  killed by you.  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "グレートサイスがあなたに倒されました。",
+      "CN": "你杀死了大镰刀守护者。",
+      "KR": "당신이 대장칼을 처치했습니다.",
+      "TW": "被您擊敗的大鐮刀。"
+    }
+  },
+  "**  thanks for your playing  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイありがとうございます。",
+      "CN": "** 感谢游玩 **",
+      "KR": "플레이해 주셔서 감사합니다.",
+      "TW": "感謝您的遊玩"
+    }
+  },
+  "**  Map by wolfkk  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成: wolfkk",
+      "CN": "** wolfkk 制作的地图 **",
+      "KR": "맵 제작자: wolfkk",
+      "TW": "地圖由 wolfkk 製作"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003米克法官\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "%s was kicked out: Judge Mick, Reason: Disconnected",
+      "JP": "\u0004誰かが蹴り倒された: \u0003裁判官ミーク\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "플레이어가 꺾였습니다: \u0003판사 미크\u0001, \u0005연결 끊김",
+      "TW": "有人被撅爆了: 米克法官, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003我永远喜欢里见光钻小姐QAQ\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "%s was kicked out: I always love Satomi Kimizono QAQ, Reason: Disconnected",
+      "JP": "\u0004誰かが蹴り倒された: \u0003私はいつも里見光钻さんを好きだQAQ\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "플레이어가 꺾였습니다: \u0003나야, 리사미 치토세!QAQ\u0001, \u0005연결 끊김",
+      "TW": "有人被撅爆了: 我永远喜歡里見光鑽小姐QAQ, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003OTs-14\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "%s was kicked out: OTs-14, Reason: Disconnected",
+      "JP": "\u0004誰かが蹴り倒された: \u0003OTs-14\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "플레이어가 꺾였습니다: \u0003OTs-14\u0001, \u0005연결 끊김",
+      "TW": "有人被撅爆了: OTs-14, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003九哥\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "%s was kicked out: Brother Jiu, Reason: Disconnected",
+      "JP": "\u0004接続違反発生: \u0003九哥\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾였습니다: \u0003구오\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 九哥, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003男人小黑\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "%s was kicked out: Man Xiaohei, Reason: Disconnected",
+      "JP": "\u0004接続違反発生: \u0003男人小黑\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾였습니다: \u0003남성 검은옷\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 男人小黑, 原因=斷開連接"
+    }
+  },
+  "**  wait 10  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒待機 **",
+      "CN": "** 等待10 **",
+      "KR": "**  10초 대기 **",
+      "TW": "**  wait 10  **"
+    }
+  },
+  "**  wait 20s **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒待機 **",
+      "CN": "** 等待20秒 **",
+      "KR": "**  20초 대기 **",
+      "TW": "**  wait 20s **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003不忘不想不忆\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: 不忘不想不忆, Reason=Disconnected",
+      "JP": "\u0004接続違反発生: \u0003不忘不想不忆\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾였습니다: \u0003不忘不想不忆\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 不忘不想不憶, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003桜島麻衣\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: 桜島麻衣, Reason=Disconnected",
+      "JP": "\u0004接続違反発生: \u0003桜島麻衣\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾였습니다: \u0003사쿠라지마 아이\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 桜島麻衣, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003星屑Eclipse\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: 星屑Eclipse, Reason=Disconnected",
+      "JP": "\u0004接続違反発生: \u0003星屑Eclipse\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾였습니다: \u0003별가루 Eclipse\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 星屑Eclipse, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003德井妮可\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: 德井妮可, Reason=Disconnected",
+      "JP": "\u0004接続違反発生: \u0003德井妮可\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "\u0004누군가 꺾였습니다: \u0003더링 니콜\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 德井妮可, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003DevilTai\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: DevilTai, Reason=Disconnected",
+      "JP": "{0}が切断されました: {1}, {2}=切断",
+      "CN": "",
+      "KR": "\u0004누군가가 퇴장했습니다: \u0003DevilTai\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003DevilTai\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003卡兔A\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: 卡兔A, Reason=Disconnected",
+      "JP": "{0}が切断されました: {1}, {2}=切断",
+      "CN": "",
+      "KR": "\u0004누군가가 퇴장했습니다: \u0003카兔A\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003卡兔A\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003de_gula:德古拉\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: de_gula:德古拉, Reason=Disconnected",
+      "JP": "{0}が切断されました: {1}, {2}=切断",
+      "CN": "",
+      "KR": "\u0004누군가가 퇴장했습니다: \u0003de_gula:드라큘라\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003de_gula:德古拉\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003COCO\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone has been disconnected: COCO, Reason=Disconnected",
+      "JP": "{0}が切断されました: {1}, {2}=切断",
+      "CN": "",
+      "KR": "\u0004누군가가 퇴장했습니다: \u0003COCO\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003COCO\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003厄斐琉斯\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got screwed: \u0003Aphelios\u0007, \u0005Reason=Disconnected",
+      "JP": "{0}が切断されました: {1}, {2}=切断",
+      "CN": "",
+      "KR": "\u0004누군가가 퇴장했습니다: \u0003에페이루스\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003厄斐琉斯\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003雪村千绘莉\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got screwed: \u0003Senmura Chiyo\u0007, \u0005Reason=Disconnected",
+      "JP": "{0}が切断されました: {1}, {2}=切断",
+      "CN": "",
+      "KR": "\u0004누군가가 퇴장했습니다: \u0003유키무라 치에리\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003雪村千繪莉\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003雨落無聲\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got screwed: \u0003RainFallsSilently\u0007, \u0005Reason=Disconnected",
+      "JP": "{0}が切断されました: {1}, {2}=切断",
+      "CN": "",
+      "KR": "\u0004누군가가 퇴장했습니다: \u0003우락무성\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003雨落無聲\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003深海\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got screwed: \u0003DeepSea\u0007, \u0005Reason=Disconnected",
+      "JP": "{0}が切断されました: {1}, {2}=切断",
+      "CN": "",
+      "KR": "\u0004누군가가 퇴장했습니다: \u0003심해\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003深海\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003長尾景虎\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got screwed: \u0003Nagao Kagetora\u0007, \u0005Reason=Disconnected",
+      "JP": "ディバル断迷しました: 長尾景虎  原因=断迷",
+      "CN": "",
+      "KR": "가자 달려가: 쏱를 가는 불처를 판깨서 열립",
+      "TW": "\u0004有人被撅爆了: \u0003長尾景虎\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003看看你后面呢\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got screwed: \u0003LookBehindYou\u0007, \u0005Reason=Disconnected",
+      "JP": "ディバル断迷しました: 后を見てくれ  原因=断迷",
+      "CN": "",
+      "KR": "가자 달려가: 그대로 달군거",
+      "TW": "\u0004有人被撅爆了: \u0003看看你後面呢\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Telling_Stories\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got screwed: \u0003Telling_Stories\u0007, \u0005Reason=Disconnected",
+      "JP": "ディバル断迷しました: Telling_Stories  原因=断迷",
+      "CN": "",
+      "KR": "가자 달려가: Telling_Stories",
+      "TW": "\u0004有人被撅爆了: \u0003Telling_Stories\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003我不会玩\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got screwed: \u0003Icanthandleit\u0007, \u0005Reason=Disconnected",
+      "JP": "ディバル断迷しました: 手頊が分からんない  原因=断迷",
+      "CN": "",
+      "KR": "가자 달려가: 운용을 무력",
+      "TW": "\u0004有人被撅爆了: \u0003我不會玩\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003nokikon\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Server] Connection lost: nokikon",
+      "JP": "ディバル断迷しました: nokikon  原因=断迷",
+      "CN": "",
+      "KR": "가자 달려가: nokikon",
+      "TW": "\u0004有人被撅爆了: \u0003nokikon\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003萌梦♪\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Server] Connection lost: 萌梦♪",
+      "JP": "ディバル断迷しました: 萌夢､  原因=断迷",
+      "CN": "",
+      "KR": "가자 달려가: 무원♦",
+      "TW": "\u0004有人被撅爆了: \u0003萌夢♪\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003STRAIT JACKET\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Server] Connection lost: STRAIT JACKET",
+      "JP": "ディバル断迷しました: STRAIT JACKET  原因=断迷",
+      "CN": "",
+      "KR": "가자 달려가: STRAIT JACKET",
+      "TW": "\u0004有人被撅爆了: \u0003STRAIT JACKET\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Sakiri❤\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Server] Connection lost: Sakiri❤",
+      "JP": "ディバル断迷しました: Sakiri❡  原因=断迷",
+      "CN": "",
+      "KR": "가자 달려가: Sakiri❡",
+      "TW": "\u0004有人被撅爆了: \u0003Sakiri❤\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Pan*.24\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Server] Connection lost: Pan*.24",
+      "JP": "{0}が接続を切断しました: {1}\n理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 somebody 가 분리되었습니다: \u0003Pan*.24\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: Pan*.24, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003讟纞礻画凉\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Server] Connection lost: 讟纞礻画凉",
+      "JP": "{0}が接続を切断しました: {1}\n理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 somebody 가 분리되었습니다: \u0003讟纞礻画凉\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 讟纞礻画凉, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Звезда :\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Server] Connection lost: Звезда :",
+      "JP": "{0}が接続を切断しました: {1}\n理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 somebody 가 분리되었습니다: \u0003Звезда :\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: Звезда :, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003naxienian\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Server] Connection lost: naxienian",
+      "JP": "{0}が接続を切断しました: {1}\n理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 somebody 가 분리되었습니다: \u0003naxienian\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: naxienian, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Oz_Lin\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Disconnected: Oz_Lin",
+      "JP": "{0}が接続を切断しました: {1}\n理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 somebody 가 분리되었습니다: \u0003Oz_Lin\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: Oz_Lin, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003艾莉·麦克道威尔\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Disconnected: Ellly McDowell",
+      "JP": "{0}が接続を切断しました: {1}\n理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 somebody 가 분리되었습니다: \u0003艾莉·麦克道威尔\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 艾莉·麥克道威爾, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Xllenn\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Disconnected: Xllenn",
+      "JP": "{0}が接続を切断しました: {1}\n理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 somebody 가 분리되었습니다: \u0003Xllenn\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: Xllenn, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003♡魔法少女・チノ♡\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Disconnected: ♡Magical Girl·Chino♡",
+      "JP": "{\"text\": \"誰かが爆撃された: ♡魔法少女・チノ♡, 原因=接続が切れました\"}",
+      "CN": "有人被撅爆了: ♡魔法少女・チノ♡，原因=断开连接",
+      "KR": "\u0004 somebody 가 분리되었습니다: \u0003♡魔法少女・チノ♡\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: ♡魔法少女・チノ♡, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003PotatoVN\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Disconnected: PotatoVN",
+      "JP": "{0}が接続を切断しました: {1}\n理由=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 폭사했습니다: \u0003PotatoVN\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被踢爆了：\u0003PotatoVN\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "**  什么？更多的哲学？  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** What? More philosophy? **",
+      "JP": "什么？更多的哲学？",
+      "CN": "",
+      "KR": "**  뭐? 또 철학이야? **",
+      "TW": "**  什麼？更多的哲學？  **"
+    }
+  },
+  "**  What? More philosophy?  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "What? More philosophy?",
+      "CN": "** What? More philosophy? **",
+      "KR": "**  What? More philosophy?  **",
+      "TW": "**  What? More philosophy?  **"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003kundao\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Disconnected: kundao",
+      "JP": "有人被撅爆了: kundao, 原因=断开连接",
+      "CN": "",
+      "KR": "\u0004누군가 폭사했습니다: \u0003kundao\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被踢爆了：\u0003kundao\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003AS\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Disconnected: AS",
+      "JP": "有人被撅爆了: AS, 原因=断开连接",
+      "CN": "",
+      "KR": "\u0004누군가 폭사했습니다: \u0003AS\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被踢爆了：\u0003AS\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u000349021018\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player was disconnected: \u000349021018\u0001, \u0005Reason=Disconnected",
+      "JP": "有人被撅爆了: 49021018, 原因=断开连接",
+      "CN": "",
+      "KR": "\u0004누군가 폭사했습니다: \u000349021018\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被踢爆了：\u000349021018\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003土豆上仙\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player was disconnected: \u0003土豆上仙\u0001, \u0005Reason=Disconnected",
+      "JP": "有人被撅爆了: 土豆上仙, 原因=断开连接",
+      "CN": "",
+      "KR": "\u0004누군가 폭사했습니다: \u0003土豆上仙\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被踢爆了：\u0003土豆上仙\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Wolfkk\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player was disconnected: \u0003Wolfkk\u0001, \u0005Reason=Disconnected",
+      "JP": "有人被撅爆了: Wolfkk, 原因=断开连接",
+      "CN": "",
+      "KR": "\u0004누군가 폭사했습니다: \u0003Wolfkk\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被踢爆了：\u0003Wolfkk\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Deoka\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player was disconnected: \u0003Deoka\u0001, \u0005Reason=Disconnected",
+      "JP": "有人被撅爆了: Deoka, 原因=断开连接",
+      "CN": "",
+      "KR": "\u0004 누군가가 꺾여 폭파됨: \u0003Deoka\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被擊殺：Deoka\n原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Simo Häyhä\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player was disconnected: \u0003Simo Häyhä\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Simo Häyhä\u0001, \u0005理由=切断されました",
+      "CN": "",
+      "KR": "\u0004 누군가가 꺾여 폭파됨: \u0003Simo Häyhä\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被擊殺：Simo Häyhä\n原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003ススメ☆オトメ\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player was disconnected: \u0003ススメ☆オトメ\u0001, \u0005Reason=Disconnected",
+      "JP": "{\"text\": \"誰かが爆撃された: ススメ☆オトメ, 原因=接続が切れました\"}",
+      "CN": "有人被撅爆了: ススメ☆オトメ，原因=断开连接",
+      "KR": "\u0004 누군가가 꺾여 폭파됨: \u0003ススメ☆オトメ\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被擊殺：ススメ☆オトメ\n原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003愿你天天好睡\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player was disconnected: \u0003愿你天天好睡\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003愿你天天好睡\u0001, \u0005理由=切断されました",
+      "CN": "",
+      "KR": "\u0004 누군가가 꺾여 폭파됨: \u0003愿你天天好睡\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被擊殺：愿你天天好睡\n原因=斷線"
+    }
+  },
+  "ex": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ex",
+      "CN": "ex",
+      "KR": "ex",
+      "TW": "ex"
+    }
+  },
+  "stage3": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3",
+      "CN": "第3关",
+      "KR": "stage3",
+      "TW": "第三關"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003ayh119\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player was disconnected: \u0003ayh119\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003ayh119\u0001, \u0005理由=切断されました",
+      "CN": "",
+      "KR": "\u0004 누군가가 꺾여 폭파됨: \u0003ayh119\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被擊殺：ayh119\n原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Luiro\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{{name}} has disconnected: \u0003Luiro\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Luiro\u0001, \u0005理由=切断されました",
+      "CN": "",
+      "KR": "\u0004 누군가가 꺾여 폭파됨: \u0003Luiro\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被擊殺：Luiro\n原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Gustov\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{{name}} has disconnected: \u0003Gustov\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Gustov\u0001, \u0005理由=切断されました",
+      "CN": "",
+      "KR": "\u0004 Someone got screwed: \u0003Gustov\u0001, \u0005 Reason = Disconnected",
+      "TW": "有人被撅爆了: Gustov，原因：斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Akani\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{{name}} has disconnected: \u0003Akani\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Akani\u0001, \u0005理由=切断されました",
+      "CN": "",
+      "KR": "\u0004 Someone got screwed: \u0003Akani\u0001, \u0005 Reason = Disconnected",
+      "TW": "有人被撅爆了: Akani，原因：斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Orin\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{{name}} has disconnected: \u0003Orin\u0001, \u0005Reason=Disconnected",
+      "JP": "プレイヤーが接続を切断しました: Orin",
+      "CN": "",
+      "KR": "\u0004 Someone got screwed: \u0003Orin\u0001, \u0005 Reason = Disconnected",
+      "TW": "有人被撅爆了: Orin，原因：斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Hau\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{{name}} has disconnected: \u0003Hau\u0001, \u0005Reason=Disconnected",
+      "JP": "プレイヤーが接続を切断しました: Hau",
+      "CN": "",
+      "KR": "\u0004 Someone got screwed: \u0003Hau\u0001, \u0005 Reason = Disconnected",
+      "TW": "有人被撅爆了: Hau，原因：斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Kao\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{{name}} has disconnected: \u0003Kao\u0001, \u0005Reason=Disconnected",
+      "JP": "プレイヤーが接続を切断しました: Kao",
+      "CN": "",
+      "KR": "\u0004 Someone got screwed: \u0003Kao\u0001, \u0005 Reason = Disconnected",
+      "TW": "有人被撅爆了: Kao，原因：斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Hobart\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{{name}} has disconnected: \u0003Hobart\u0001, \u0005Reason=Disconnected",
+      "JP": "プレイヤーが接続を切断しました: Hobart",
+      "CN": "",
+      "KR": "\u0004 Someone got screwed: \u0003Hobart\u0001, \u0005 Reason = Disconnected",
+      "TW": "有人被撅爆了: Hobart，原因：斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Hogarth\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{{name}} has disconnected: \u0003Hogarth\u0001, \u0005Reason=Disconnected",
+      "JP": "プレイヤーが接続を切断しました: Hogarth",
+      "CN": "",
+      "KR": "\u0004 Someone got screwed: \u0003Hogarth\u0001, \u0005 Reason = Disconnected",
+      "TW": "有人被撅爆了: Hogarth，原因：斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Feliz\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Feliz\u0001, \u0005Reason=Disconnected",
+      "JP": "プレイヤーが接続を切断しました: Feliz",
+      "CN": "",
+      "KR": "\u0004 Someone got screwed: \u0003Feliz\u0001, \u0005 Reason = Disconnected",
+      "TW": "有人被撅爆了: Feliz，原因：斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Frank\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Frank\u0001, \u0005Reason=Disconnected",
+      "JP": "プレイヤーが接続を切断しました: Frank",
+      "CN": "",
+      "KR": "\u0004누군가 접속이 끊겼습니다: \u0003Frank\u0001, \u0005원인=접속 끊김",
+      "TW": "4有人被撅爆了: 3Frank\u0001, 5原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Francis\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Francis\u0001, \u0005Reason=Disconnected",
+      "JP": "プレイヤーが接続を切断しました: Francis",
+      "CN": "",
+      "KR": "\u0004누군가 접속이 끊겼습니다: \u0003Francis\u0001, \u0005원인=접속 끊김",
+      "TW": "4有人被撅爆了: 3Francis\u0001, 5原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Faultline\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Faultline\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Faultline\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 접속이 끊겼습니다: \u0003Faultline\u0001, \u0005원인=접속 끊김",
+      "TW": "4有人被撅爆了: 3Faultline\u0001, 5原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Marlin\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Marlin\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Marlin\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 접속이 끊겼습니다: \u0003Marlin\u0001, \u0005원인=접속 끊김",
+      "TW": "4有人被撅爆了: 3Marlin\u0001, 5原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Comb\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Comb\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Comb\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 접속이 끊겼습니다: \u0003Comb\u0001, \u0005원인=접속 끊김",
+      "TW": "4有人被撅爆了: 3Comb\u0001, 5原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Striker\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Striker\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Striker\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 접속이 끊겼습니다: \u0003Striker\u0001, \u0005원인=접속 끊김",
+      "TW": "4有人被撅爆了: 3Striker\u0001, 5原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Han\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Han\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Han\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 접속이 끊겼습니다: \u0003Han\u0001, \u0005원인=접속 끊김",
+      "TW": "4有人被撅爆了: 3Han\u0001, 5原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Reaper\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{Someone} was eliminated by: {Reaper}, Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Reaper\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004누군가 접속이 끊겼습니다: \u0003Reaper\u0001, \u0005원인=접속 끊김",
+      "TW": "4有人被撅爆了: 3Reaper\u0001, 5原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Hood\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{Someone} was eliminated by: {Hood}, Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Hood\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "군임 피리가 몇예 : \u0003Hood\u0001, \u0005관련 = 열기",
+      "TW": "\u0004有人被撅爆了: \u0003Hood\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Bluefish\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{Someone} was eliminated by: {Bluefish}, Reason=Disconnected",
+      "JP": "\u0004誰かが強制退出しました: \u0003Bluefish\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "군임 피리가 몇예 : \u0003Bluefish\u0001, \u0005관련 = 열기",
+      "TW": "\u0004有人被撅爆了: \u0003Bluefish\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Kadeem\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{Someone} was eliminated by: {Kadeem}, Reason=Disconnected",
+      "JP": "\u0004誰かが接続を失いました: \u0003Kadeem\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "군임 피리가 몇예 : \u0003Kadeem\u0001, \u0005관련 = 열기",
+      "TW": "\u0004有人被撅爆了: \u0003Kadeem\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Wiscar\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{Someone} was eliminated by: {Wiscar}, Reason=Disconnected",
+      "JP": "\u0004誰かが接続を失いました: \u0003Wiscar\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "군임 피리가 몇예 : \u0003Wiscar\u0001, \u0005관련 = 열기",
+      "TW": "\u0004有人被撅爆了: \u0003Wiscar\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Sal\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{Someone} was eliminated by: {Sal}, Reason=Disconnected",
+      "JP": "\u0004誰かが接続を失いました: \u0003Sal\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "군임 피리가 몇예 : \u0003Sal\u0001, \u0005관련 = 열기",
+      "TW": "\u0004有人被撅爆了: \u0003Sal\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Shadow\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{Someone} was eliminated by: {Shadow}, Reason=Disconnected",
+      "JP": "\u0004誰かが接続を失いました: \u0003Shadow\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "군임 피리가 몇예 : \u0003Shadow\u0001, \u0005관련 = 열기",
+      "TW": "\u0004有人被撅爆了: \u0003Shadow\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Orlow\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{Someone} was eliminated by: {Orlow}, Reason=Disconnected",
+      "JP": "\u0004誰かが接続を失いました: \u0003Orlow\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "군임 피리가 몇예 : \u0003Orlow\u0001, \u0005관련 = 열기",
+      "TW": "\u0004有人被撅爆了: \u0003Orlow\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Milenski\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} {Player|male}: Reason=Disconnection",
+      "JP": "\u0004誰かが接続を失いました: \u0003Milenski\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "군임 피리가 몇예 : \u0003Milenski\u0001, \u0005관련 = 열기",
+      "TW": "\u0004有人被撅爆了: \u0003Milenski\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Aggressor\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} {Aggressor|male}: Reason=Disconnection",
+      "JP": "\u0004誰かが接続を失いました: \u0003Aggressor\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "어국자가 판렼되었습니다: 에이경 소유\nAggressor\u0001, 배운=연겸 중식",
+      "TW": "有人被撅爆了:\u0003Aggressor\u0001,\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Heave\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} {Heave|male}: Reason=Disconnection",
+      "JP": "\u0004誰かが接続を失いました: \u0003Heave\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "어국자가 판렼되었습니다: 자동체 Heave\u0001, 배운=연겸 중식",
+      "TW": "有人被撅爆了:\u0003Heave\u0001,\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Terrington\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} {Terrington|male}: Reason=Disconnection",
+      "JP": "\bsomeone has been broken by butt: \u0003Terrington\u0001, \u0005reason=disconnected",
+      "CN": "",
+      "KR": "어국자가 판렼되었습니다: 자동체 Terrington\u0001, 배운=연겸 중식",
+      "TW": "有人被撅爆了:\u0003Terrington\u0001,\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Juuvy\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} {Juuvy|male}: Reason=Disconnection",
+      "JP": "\bsomeone has been broken by butt: \u0003Juuvy\u0001, \u0005reason=disconnected",
+      "CN": "",
+      "KR": "어국자가 판렼되었습니다: 자동체 Juuvy\u0001, 배운=연겸 중식",
+      "TW": "有人被撅爆了:\u0003Juuvy\u0001,\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Firwood\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} {Firwood|male}: Reason=Disconnection",
+      "JP": "\bsomeone has been broken by butt: \u0003Firwood\u0001, \u0005reason=disconnected",
+      "CN": "",
+      "KR": "어국자가 판렼되었습니다: 자동체 Firwood\u0001, 배운=연겸 중식",
+      "TW": "有人被撅爆了:\u0003Firwood\u0001,\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Severn\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} {Severn|male}: Reason=Disconnection",
+      "JP": "\bsomeone has been broken by butt: \u0003Severn\u0001, \u0005reason=disconnected",
+      "CN": "",
+      "KR": "어국자가 판렼되었습니다: 자동체 Severn\u0001, 배운=연겸 중식",
+      "TW": "有人被撅爆了:\u0003Severn\u0001,\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Shaur\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} {Shaur|male}: Reason=Disconnection",
+      "JP": "\bsomeone has been broken by butt: \u0003Shaur\u0001, \u0005reason=disconnected",
+      "CN": "",
+      "KR": "어국자가 판렼되었습니다: 자동체 Shaur\u0001, 배운=연겸 중식",
+      "TW": "有人被撅爆了:\u0003Shaur\u0001,\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Sam\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Sam\u0001, \u0005reason=disconnected",
+      "JP": "\bsomeone has been broken by butt: \u0003Sam\u0001, \u0005reason=disconnected",
+      "CN": "",
+      "KR": "어국자가 판렼되었습니다: 자동체 Sam\u0001, 배운=연겸 중식",
+      "TW": "有人被撅爆了:\u0003Sam\u0001,\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Kong\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Kong\u0001, \u0005reason=disconnected",
+      "JP": "\bsomeone has been broken by butt: \u0003Kong\u0001, \u0005reason=disconnected",
+      "CN": "",
+      "KR": "사항이 경근을 이낼: 가세 KONG, 음식=캐리 체결",
+      "TW": "有人被撅爆了: Kong\u0001，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Orlo\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Orlo\u0001, \u0005reason=disconnected",
+      "JP": "\bsomeone has been broken by butt: \u0003Orlo\u0001, \u0005reason=disconnected",
+      "CN": "",
+      "KR": "사항이 경근은 이낼: 가세 ORLO, 음식=캐리 체결",
+      "TW": "有人被撅爆了: Orlo\u0001，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Litmow\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Litmow\u0001, \u0005reason=disconnected",
+      "JP": "\u0004誰かが接続を切断しました: \u0003Litmow\u0001, \u0005理由=接続解除",
+      "CN": "",
+      "KR": "사항이 경근은 이낼: 가세 LITMOW, 음식=캐리 체결",
+      "TW": "有人被撅爆了: Litmow\u0001，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Vypa\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Vypa\u0001, \u0005reason=disconnected",
+      "JP": "\u0004誰かが接続を切断しました: \u0003Vypa\u0001, \u0005理由=接続解除",
+      "CN": "",
+      "KR": "사항이 경근은 이낼: 가세 VYPA, 음식=캐리 체결",
+      "TW": "有人被撅爆了: Vypa\u0001，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Guerrilla\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Guerrilla\u0001, \u0005reason=disconnected",
+      "JP": "\u0004誰かが接続を切断しました: \u0003Guerrilla\u0001, \u0005理由=接続解除",
+      "CN": "",
+      "KR": "사항이 경근은 이낼: 가세 GUERRILLA, 음식=캐리 체결",
+      "TW": "有人被撅爆了: Guerrilla\u0001，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Doc\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Doc\u0001, \u0005reason=disconnected",
+      "JP": "\u0004誰かが接続を切断しました: \u0003Doc\u0001, \u0005理由=接続解除",
+      "CN": "",
+      "KR": "사항이 경근은 이낼: 가세 DOC, 음식=캐리 체결",
+      "TW": "有人被撅爆了: Doc\u0001，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Sails\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got fucked: \u0003Sails\u0001, \u0005reason=disconnected",
+      "JP": "\u0004誰かが接続を切断しました: \u0003Sails\u0001, \u0005理由=接続解除",
+      "CN": "",
+      "KR": "사항이 경근은 이낼: 가세 SAILS, 음식=캐리 체결",
+      "TW": "有人被撅爆了: Sails\u0001，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Dabisi\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got jackstruck: \u0003Dabisi\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが接続を切断しました: \u0003Dabisi\u0001, \u0005理由=接続解除",
+      "CN": "",
+      "KR": "사항이 경근은 이낼: 가세 DABISI, 음식=캐리 체결",
+      "TW": "有人被撅爆了: Dabisi\u0001，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Boxcar\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got jackstruck: \u0003Boxcar\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが接続を切断しました: \u0003Boxcar\u0001, \u0005理由=接続解除",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 죽었습니다: \u0003Boxcar\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: Boxcar，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Masthead\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got jackstruck: \u0003Masthead\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが接続を切断しました: \u0003Masthead\u0001, \u0005理由=接続解除",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 죽었습니다: \u0003Masthead\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: Masthead，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Longwa\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got jackstruck: \u0003Longwa\u0001, \u0005Reason=Disconnected",
+      "JP": "ディスコネクトしました: 長腰",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 죽었습니다: \u0003Longwa\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: Longwa，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Imaru\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got jackstruck: \u0003Imaru\u0001, \u0005Reason=Disconnected",
+      "JP": "ディスコネクトしました: 今音",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 죽었습니다: \u0003Imaru\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: Imaru，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003YouhSe\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got jackstruck: \u0003YouhSe\u0001, \u0005Reason=Disconnected",
+      "JP": "ディスコネクトしました: YouhSe",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 죽었습니다: \u0003YouhSe\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: YouhSe，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003RexMercer\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got jackstruck: \u0003RexMercer\u0001, \u0005Reason=Disconnected",
+      "JP": "ディスコネクトしました: RexMercer",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 죽었습니다: \u0003RexMercer\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: RexMercer，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003碎觉觉\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone got jackstruck: \u0003SuiJueJue\u0001, \u0005Reason=Disconnected",
+      "JP": "ディスコネクトしました: 榴見",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 죽었습니다: \u0003碎觉觉\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: 碎覺覺，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003一般路过索拉里斯黑色闪光\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone has been terminated: \u0003Cosmic Flash passing through Solaris\u0001, \u0005Reason=Disconnected",
+      "JP": "ディスコネクトしました: 一般過ぐ索拉リス黒色流光",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 죽었습니다: \u0003一般路过索拉里斯黑色闪光\u0001, \u0005원인=연결 끊김",
+      "TW": "有人被撅爆了: 一般路過索拉里斯黑色閃光，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003一般路过提瓦特金色闪光\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone has been terminated: \u0003Golden Flash passing through Teyvat\u0001, \u0005Reason=Disconnected",
+      "JP": "ディスコネクトしました: 一般過ぐ提瓦特金色流光",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 끊겼습니다: \u0003일반적인 티바르트의 금빛 반사\u0001, \u0005원인=접속 끊김",
+      "TW": "有人被撅爆了: 一般路过提瓦特金色闪光, 原因=断开连接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003菜菜鱼\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone has been terminated: \u0003Cai Cai Yu\u0001, \u0005Reason=Disconnected",
+      "JP": "ディスコネクトしました: 菜菜魚",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 끊겼습니다: \u0003채채어\u0001, \u0005원인=접속 끊김",
+      "TW": "有人被撅爆了: 菜菜鱼, 原因=断开连接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003ʚ蛋挞不是挞ɞ\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone has been terminated: \u0003※蛋挞不是扭※\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制切断されました: \u0003ʚエッグタルトじゃないɞ\u0001, \u0005理由=接続終了",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 끊겼습니다: \u0003ʚ달걀타트는 타가 아닙니다ɞ\u0001, \u0005원인=접속 끊김",
+      "TW": "有人被撅爆了: ʚ蛋挞不是挞ɞ, 原因=断开连接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003满目皆星河\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone has been terminated: \u0003Stars fill the view\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制切断されました: \u0003満天の星空\u0001, \u0005理由=接続終了",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 끊겼습니다: \u0003눈에 가득한 성하\u0001, \u0005원인=접속 끊김",
+      "TW": "有人被撅爆了: 满目皆星河, 原因=断开连接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003逆战·\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone has been terminated: \u0003Nirvana Ops·\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制切断されました: \u0003逆戦·\u0001, \u0005理由=接続終了",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 끊겼습니다: \u0003니자전·\u0001, \u0005원인=접속 끊김",
+      "TW": "有人被撅爆了: 逆战·, 原因=断开连接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003你好\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone has been terminated: \u0003Hello\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制切断されました: \u0003こんにちは\u0001, \u0005理由=接続終了",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 끊겼습니다: \u0003안녕하세요\u0001, \u0005원인=접속 끊김",
+      "TW": "有人被撅爆了: 你好, 原因=断开连接"
+    }
+  },
+  "\u0004有人被撅爆了: \u000301\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone has been terminated: \u000301\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制切断されました: \u000301\u0001, \u0005理由=接続終了",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 끊겼습니다: \u000301\u0001, \u0005원인=접속 끊김",
+      "TW": "有人被撅爆了: 01, 原因=断开连接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003雪月花\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\\u0004Someone got fucked: \\u0003Snow Moon Flower\\u0001, \\u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制切断されました: \u0003雪月花\u0001, \u0005理由=接続終了",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 끊겼습니다: \u0003설월화\u0001, \u0005원인=접속 끊김",
+      "TW": "有人被撅爆了: 雪月花, 原因=断开连接"
+    }
+  },
+  "stage2": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "stage2",
+      "CN": "第2关",
+      "KR": "스테이지 2",
+      "TW": "第二關"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003？ ？ ？\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\\u0004Someone got fucked: \\u0003? ? ?\\u0001, \\u0005Reason=Disconnected",
+      "JP": "\u0004誰かが強制切断されました: \u0003？ ？ ？\u0001, \u0005理由=接続終了",
+      "CN": "",
+      "KR": "\u0004플레이어가 강타당했습니다: \u0003？ ？ ？\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003？ ？ ？\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003流萤+烧鸡=流萤酱！！！\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\\u0004Someone got fucked: \\u0003Firefly + Chicken = Firefly-chan!!!\\u0001, \\u0005Reason=Disconnected",
+      "JP": "サーバー接続エラー: 流萤+烧鸡=流萤酱！！！\n切断理由：接続解除",
+      "CN": "",
+      "KR": "\u0004플레이어가 강타당했습니다: \u0003성검+소세지=성검ちゃん！！！\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003流螢+燒雞=流螢醬！！！\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003九五少年\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\\u0004Someone got fucked: \\u0003Nine-Five Youth\\u0001, \\u0005Reason=Disconnected",
+      "JP": "サーバー接続エラー: 九五少年\n切断理由：接続解除",
+      "CN": "",
+      "KR": "\u0004플레이어가 강타당했습니다: \u0003구오위소년\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003九五少年\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003cloddog\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\\u0004Someone got fucked: \\u0003cloddog\\u0001, \\u0005Reason=Disconnected",
+      "JP": "サーバー接続エラー: cloddog\n切断理由：接続解除",
+      "CN": "",
+      "KR": "\u0004플레이어가 강타당했습니다: \u0003cloddog\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003cloddog\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Opavo\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\\u0004Someone got fucked: \\u0003Opavo\\u0001, \\u0005Reason=Disconnected",
+      "JP": "サーバー接続エラー: Opavo\n切断理由：接続解除",
+      "CN": "",
+      "KR": "\u0004플레이어가 강타당했습니다: \u0003Opavo\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003Opavo\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003七 月、\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\\u0004Someone got fucked: \\u0003July.\\u0001, \\u0005Reason=Disconnected",
+      "JP": "サーバー接続エラー: 七月、\n切断理由：接続解除",
+      "CN": "",
+      "KR": "\u0004플레이어가 강타당했습니다: \u0003칠월、\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003七 月、\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003牢大牌直升机\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\\u0004Someone got fucked: \\u0003Lao Da Pai Helicopter\\u0001, \\u0005Reason=Disconnected",
+      "JP": "サーバー接続エラー: 牢大牌直升机\n切断理由：接続解除",
+      "CN": "",
+      "KR": "\u0004플레이어가 강타당했습니다: \u0003牢大牌 헬리콥터\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003牢大牌直升機\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003一一l\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was killed by a headbutt: \u0003一一l\u0001, \u0005Reason=Disconnected",
+      "JP": "サーバー接続エラー: 一一l\n切断理由：接続解除",
+      "CN": "",
+      "KR": "{0}님이 접속이 끊겼습니다: 이유=연결 해제",
+      "TW": "有人被撅爆了: 一一l\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003精神老伙\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was killed by a headbutt: \u0003精神老伙\u0001, \u0005Reason=Disconnected",
+      "JP": "サーバー接続エラー: 精神老伙\n切断理由：接続解除",
+      "CN": "",
+      "KR": "{0}님이 접속이 끊겼습니다: 이유=연결 해제",
+      "TW": "有人被撅爆了: 精神老伙\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003用核彈炸蒼蠅\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was killed by a headbutt: \u0003用核彈炸蒼蠅\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004某プレイヤーが爆破されました: \u0003核でハエを叩く\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "{0}님이 접속이 끊겼습니다: 이유=연결 해제",
+      "TW": "有人被撅爆了: 用核彈炸蒼蠅\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003bhnl\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was killed by a headbutt: \u0003bhnl\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004某プレイヤーが爆破されました: \u0003bhnl\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "{0}님이 접속이 끊겼습니다: 이유=연결 해제",
+      "TW": "有人被撅爆了: bhnl\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003倚月叹流年\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was killed by a headbutt: \u0003倚月叹流年\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004某プレイヤーが爆破されました: \u0003倚月叹流年\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "{0}님이 접속이 끊겼습니다: 이유=연결 해제",
+      "TW": "有人被撅爆了: 倚月叹流年\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Myrddin\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was killed by a headbutt: \u0003Myrddin\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004某プレイヤーが爆破されました: \u0003Myrddin\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "{0}님이 접속이 끊겼습니다: 이유=연결 해제",
+      "TW": "有人被撅爆了: Myrddin\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Chisa\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was killed by a headbutt: \u0003Chisa\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004某プレイヤーが爆破されました: \u0003Chisa\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "{0}님이 접속이 끊겼습니다: 이유=연결 해제",
+      "TW": "有人被撅爆了: Chisa\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003俺様™\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was killed by a headbutt: \u0003俺様™\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004某プレイヤーが爆破されました: \u0003俺様™\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "{0}님이 접속이 끊겼습니다: 이유=연결 해제",
+      "TW": "有人被撅爆了: 俺様™\u0001，\u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003X1lenN\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "X1lenN disconnected",
+      "JP": "\u0004某プレイヤーが爆破されました: \u0003X1lenN\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\"X1lenN\"님이 연결이 끊겼습니다",
+      "TW": "\u0004有人被撅爆了: \u0003X1lenN\u0001, \u0005原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003甘い甘い夢\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Sweet Dreams disconnected",
+      "JP": "",
+      "CN": "��有人被撅爆了: \u0003\u0004甘い甘い夢\u001b\u0005原因=断开连接",
+      "KR": "\"甘い甘い夢\"님이 연결이 끊겼습니다",
+      "TW": "\u0004有人被撅爆了: \u0003甘い甘い夢\u0001, \u0005原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003星际星光\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Starry Starlight disconnected",
+      "JP": "\u0004某プレイヤーが爆破されました: \u0003星际星光\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\"星际星光\"님이 연결이 끊겼습니다",
+      "TW": "\u0004有人被撅爆了: \u0003星际星光\u0001, \u0005原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003koi\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "koi disconnected",
+      "JP": "接続切断: \u0003koi\u0001",
+      "CN": "",
+      "KR": "\"koi\"님이 연결이 끊겼습니다",
+      "TW": "\u0004有人被撅爆了: \u0003koi\u0001, \u0005原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003千恋\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Senren disconnected",
+      "JP": "接続切断: \u0003千恋\u0001",
+      "CN": "",
+      "KR": "\"千恋\"님이 연결이 끊겼습니다",
+      "TW": "\u0004有人被撅爆了: \u0003千恋\u0001, \u0005原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Denchik\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Denchik disconnected",
+      "JP": "接続切断: \u0003Denchik\u0001",
+      "CN": "",
+      "KR": "\"Denchik\"님이 연결이 끊겼습니다",
+      "TW": "\u0004有人被撅爆了: \u0003Denchik\u0001, \u0005原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Baka\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Baka disconnected",
+      "JP": "接続切断: \u0003Baka\u0001",
+      "CN": "",
+      "KR": "\"Baka\"님이 연결이 끊겼습니다",
+      "TW": "\u0004有人被撅爆了: \u0003Baka\u0001, \u0005原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003北部玄驹不是专注轻机枪\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Kitasan Black is not specializing in LMGs disconnected",
+      "JP": "接続切断: \u0003北部玄驹不是专注轻机枪\u0001",
+      "CN": "",
+      "KR": "\"北部玄驹不是专注轻机枪\"님이 연결이 끊겼습니다",
+      "TW": "\u0004有人被撅爆了: \u0003北部玄驹不是专注轻机枪\u0001, \u0005原因=斷線"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Tom\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Tom has been disconnected: \u0003Tom\u0001, \u0005Reason=Disconnected",
+      "JP": "接続切断: \u0003Tom\u0001",
+      "CN": "",
+      "KR": "가사 열화: 캐락 처가 = 열화",
+      "TW": "有人被撅爆了: Tom, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Godly Kid\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Godly Kid has been disconnected: \u0003Godly Kid\u0001, \u0005Reason=Disconnected",
+      "JP": "接続切断: \u0003Godly Kid\u0001",
+      "CN": "",
+      "KR": "가사 열화: 캐락 처가 = 열화",
+      "TW": "有人被撅爆了: Godly Kid, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003IbuKi\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004IbuKi has been disconnected: \u0003IbuKi\u0001, \u0005Reason=Disconnected",
+      "JP": "接続切断: \u0003IbuKi\u0001",
+      "CN": "",
+      "KR": "가사 열화: 캐락 처가 = 열화",
+      "TW": "有人被撅爆了: IbuKi, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003望 永远滴神\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004望 永远滴神 has been disconnected: \u0003望 永远滴神\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが殴られて爆死しました: \u0003望 永遠の神\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "가사 열화: 캐락 처가 = 열화",
+      "TW": "有人被撅爆了: 望 永遠滴神, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003仁礼栖梦\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004仁礼栖梦 has been disconnected: \u0003仁礼栖梦\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが殴られて爆死しました: \u0003仁礼栖夢\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "가사 열화: 캐락 처가 = 열화",
+      "TW": "有人被撅爆了: 仁禮栖夢, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003萌萌坐下\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004萌萌坐下 has been disconnected: \u0003萌萌坐下\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが殴られて爆死しました: \u0003萌萌着席\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "가사 열화: 캐락 처가 = 열화",
+      "TW": "有人被撅爆了: 萌萌坐下, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003崂山靓仔sulay\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004崂山靓仔sulay has been disconnected: \u0003崂山靓仔sulay\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが殴られて爆死しました: \u0003崂山イケメンsulay\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "가사 열화: 캐락 처가 = 열화",
+      "TW": "有人被撅爆了: 嶗山靚仔sulay, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Ayanami♪\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Ayanami♪ has been disconnected: \u0003Ayanami♪\u0001, \u0005Reason=Disconnected",
+      "JP": "\u0004誰かが殴られて爆死しました: \u0003Ayanami♪\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "가사 열화: 캐락 처가 = 열화",
+      "TW": "有人被撅爆了: Ayanami♪, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003thewasteland\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} was kicked: {name}, Reason=Disconnected",
+      "JP": "\u0004誰かが殴られて爆死しました: \u0003thewasteland\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 누군가가 격파되었습니다: \u0003thewasteland\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003thewasteland\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003死兔子\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} was kicked: {name}, Reason=Disconnected",
+      "JP": "\u0004誰かが殴られて爆死しました: \u0003死人兔\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 누군가가 격파되었습니다: \u0003死兔子\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003死兔子\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003どうして\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} was kicked: {name}, Reason=Disconnected",
+      "JP": "",
+      "CN": "有人被撅爆了: \u0003\u0004どうして\u001b\u0005原因=断开连接",
+      "KR": "\u0004 누군가가 격파되었습니다: \u0003どうして\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003どうして\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Thinkto\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} was kicked: {name}, Reason=Disconnected",
+      "JP": "\u0004誰かが殴られて爆死しました: \u0003Thinkto\u0001, \u0005理由=接続切断",
+      "CN": "",
+      "KR": "\u0004 누군가가 격파되었습니다: \u0003Thinkto\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003Thinkto\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003/Ko 零度可樂\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} was kicked: {name}, Reason=Disconnected",
+      "JP": "\u0004誰かがバグで接続切断: \u0003/Ko 零度可樂\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "\u0004 누군가가 격파되었습니다: \u0003/Ko 제로 콜라\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003/Ko 零度可樂\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003玩一辈子星痕共鸣喵\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} was kicked: {name}, Reason=Disconnected",
+      "JP": "\u0004誰かがバグで接続切断: \u0003一生星痕コネクトしてね喵\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "\u0004 누군가가 격파되었습니다: \u0003평생 성운 공명喵\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003玩一辈子星痕共鳴喵\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003提耶拉\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} was kicked: {name}, Reason=Disconnected",
+      "JP": "\u0004誰かがバグで接続切断: \u0003ティエラ\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "\u0004 누군가가 격파되었습니다: \u0003提耶拉\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003提耶拉\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003yuriZero\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{0} was kicked: {name}, Reason=Disconnected",
+      "JP": "\u0004誰かがバグで接続切断: \u0003yuriZero\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "\u0004 누군가가 격파되었습니다: \u0003yuriZero\u0001, \u0005 이유=연결 끊김",
+      "TW": "有人被撅爆了: \u0003yuriZero\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003✪Chiffon Cafe'\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: Chiffon Cafe'\nReason: Disconnected",
+      "JP": "\u0004誰かがバグで接続切断: \u0003✪Chiffon Cafe'\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "대볼 습체가 ì¹­í¯ Ã¦ì–\" Chiffon Cafe' 리ì´ì\"ê°€ ë결되ìë¦´ë¨",
+      "TW": "\u0003✪Chiffon Cafe'\u0001 因 原因=斷開連接 而被踢出"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Dr1zzLe\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: Dr1zzLe\nReason: Disconnected",
+      "JP": "\u0004誰かがバグで接続切断: \u0003Dr1zzLe\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "대볼 습체가 ì¹­íïç\"Dr1zzLeì»ê°€ ë결되ìë¦´ë¨",
+      "TW": "\u0003Dr1zzLe\u0001 因 原因=斷開連接 而被踢出"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Nolan\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: Nolan\nReason: Disconnected",
+      "JP": "\u0004誰かがバグで接続切断: \u0003Nolan\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "대볼 습체가 ì¹­í³é\"Nolanì»ê°€ ë결되ìë¦´ë¨",
+      "TW": "\u0003Nolan\u0001 因 原因=斷開連接 而被踢出"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003mamamia\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: mamamia\nReason: Disconnected",
+      "JP": "\u0004誰かがバグで接続切断: \u0003mamamia\u0001, \u0005原因=切断",
+      "CN": "",
+      "KR": "대볼 습체가 ì¹­ííç\"mamamiaì»ê°€ ë결되ìë¦´ë¨",
+      "TW": "\u0003mamamia\u0001 因 原因=斷開連接 而被踢出"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003XY 小徐子\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: XY 小徐子\nReason: Disconnected",
+      "JP": "\u0004接続が切断されました: \u0003XY 小徐子\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "대볼 습체가 ì¹­íóì\"XY 센세ì»ê°€ ë결되ìë¦´ë¨",
+      "TW": "\u0003XY 小徐子\u0001 因 原因=斷開連接 而被踢出"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003497130446\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: 497130446\nReason: Disconnected",
+      "JP": "\u0004接続が切断されました: \u0003497130446\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "대볼 습체가 ì¹­íëç\"497130446ì»ê°€ ë결되ìë¦´ë¨",
+      "TW": "\u0003497130446\u0001 因 原因=斷開連接 而被踢出"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003沢城みゆき\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: 沢城みゆき\nReason: Disconnected",
+      "JP": "",
+      "CN": "有人被撅爆了: \u0003\u0004沢城みゆき\u001b\u0005原因=断开连接",
+      "KR": "대볼 습체가 ì¹­íîÇ\"¹è\b2´센가ë»ì»ê°€ ë결되ìë¦´ë¨",
+      "TW": "\u0003沢城みゆき\u0001 因 原因=斷開連接 而被踢出"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Do4rz\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: Do4rz\nReason: Disconnected",
+      "JP": "\u0004接続が切断されました: \u0003Do4rz\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "대볼 습체가 ì¹­íñç\"Do4rzì»ê°€ ë결되ìë¦´ë¨",
+      "TW": "\u0003Do4rz\u0001 因 原因=斷開連接 而被踢出"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003你的Timing是我哒\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: {0} Connection Lost",
+      "JP": "\u0004接続が切断されました: \u0003あなたのタイミングは私のものです\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "국임이 칼리고 교계가 몇다: 달립같있는 시기가 국임인 바다.\n교계인: 칼리",
+      "TW": "有人在遊戲中斷線: \u0003你的Timing是我哒\u0001, \u0005原因=連接已中斷"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003potencia\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: {0} Connection Lost",
+      "JP": "\u0004接続が切断されました: \u0003potencia\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "국임이 칼리고 교계가 몇다: potenco\n교계인: 칼리",
+      "TW": "有人在遊戲中斷線: \u0003potencia\u0001, \u0005原因=連接已中斷"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003𝓜𝓲𝓷𝓪𝓽𝓸𝓾凑\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: {0} Connection Lost",
+      "JP": "\u0004接続が切断されました: \u0003𝓜𝓲𝓷𝓪𝓽𝓸𝓾\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "국임이 칼리고 교계가 몇다: Mina기\n교계인: 칼리",
+      "TW": "有人在遊戲中斷線: \u0003𝓜𝓲𝓷𝓪𝓽𝓸𝓾凑\u0001, \u0005原因=連接已中斷"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003꧁J̖̖i̖̖n̖̖_C̖̖꧂\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: {0} Connection Lost",
+      "JP": "\u0004接続が切断されました: \u0003꧁J̖̖i̖̖n̖̖_C̖̖꧂\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "국임이 칼리고 교계가 몇다: Jin C\n교계인: 칼리",
+      "TW": "有人在遊戲中斷線: \u0003꧁J̖̖i̖̖n̖̖_C̖̖꧂\u0001, \u0005原因=連接已中斷"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003rain\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: {0} Connection Lost",
+      "JP": "\u0004接続が切断されました: \u0003rain\u0001, \u0005理由=切断",
+      "CN": "",
+      "KR": "국임이 칼리고 교계가 몇다: rain\n교계인: 칼리",
+      "TW": "有人在遊戲中斷線: \u0003rain\u0001, \u0005原因=連接已中斷"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003村濑真琴\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: {0} Connection Lost",
+      "JP": "プレイヤーが接続を切断しました: 村濑真琴, 理由=切断",
+      "CN": "",
+      "KR": "국임이 칼리고 교계가 몇다: Murase Makoto\n교계인: 칼리",
+      "TW": "有人在遊戲中斷線: \u0003村濑真琴\u0001, \u0005原因=連接已中斷"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003小咪哈基\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: {0} Connection Lost",
+      "JP": "プレイヤーが接続を切断しました: 小咪哈基, 理由=切断",
+      "CN": "",
+      "KR": "국임이 칼리고 교계가 몇다: XiaoMi Hajima\n교계인: 칼리",
+      "TW": "有人在遊戲中斷線: \u0003小咪哈基\u0001, \u0005原因=連接已中斷"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003绿色健康上网\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got disconnected: {0} Connection Lost",
+      "JP": "プレイヤーが接続を切断しました: 绿色健康上网, 理由=切断",
+      "CN": "",
+      "KR": "국임이 칼리고 교계가 몇다: Green Health Internet\n교계인: 칼리",
+      "TW": "有人在遊戲中斷線: \u0003綠色健康上網\u0001, \u0005原因=連接已中斷"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Shadow.\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got screwed: Shadow. (Reason: Disconnected)",
+      "JP": "プレイヤーが接続を切断しました: Shadow., 理由=切断",
+      "CN": "",
+      "KR": "가입 잔규발생: 세이도 Shadow.⁠기, 이유=캐이콜 반단",
+      "TW": "\u001b有人被撅爆了: \u0003Shadow.\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003spitfire\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got screwed: spitfire (Reason: Disconnected)",
+      "JP": "プレイヤーが接続を切断しました: spitfire, 理由=切断",
+      "CN": "",
+      "KR": "가입 잔규발생: 세이도 spitfire⁠기, 이유=캐이콜 반단",
+      "TW": "\u001b有人被撅爆了: \u0003spitfire\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003L0ser\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got screwed: L0ser (Reason: Disconnected)",
+      "JP": "プレイヤーが接続を切断しました: L0ser, 理由=切断",
+      "CN": "",
+      "KR": "가입 잔규발생: 세이도 L0ser⁠기, 이유=캐이콜 반단",
+      "TW": "\u001b有人被撅爆了: \u0003L0ser\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003B站直播—椎名小夜音\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got screwed: Bilibili Live - Shiina Sayne (Reason: Disconnected)",
+      "JP": "プレイヤーが接続を切断しました: B站直播—椎名小夜音, 理由=切断",
+      "CN": "",
+      "KR": "가입 잔규발생: 세이도 B애해 추솜-시나 소야이⁠기, 이유=캐이콜 반단",
+      "TW": "\u001b有人被撅爆了: \u0003B站直播—椎名小夜音\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Above&Beyond\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got screwed: Above&Beyond (Reason: Disconnected)",
+      "JP": "プレイヤーが接続を切断しました: Above&Beyond, 理由=切断",
+      "CN": "",
+      "KR": "가입 잔규발생: 세이도 Above&Beyond⁠기, 이유=캐이콜 반단",
+      "TW": "\u001b有人被撅爆了: \u0003Above&Beyond\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003好女孩の貼門桃\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got screwed: Good Girl's贴在门桃 (Reason: Disconnected)",
+      "JP": "",
+      "CN": "有人被撅爆了: \u0003\u0004好女孩の貼門桃\u001b\u0005原因=断开连接",
+      "KR": "가입 잔규발생: 세이도 화과 탑즈모⁠기, 이유=캐이콜 반단",
+      "TW": "\u001b有人被撅爆了: \u0003好女孩の貼門桃\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003白花タンポポ\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got screwed: Baihua Tanpopo (Reason: Disconnected)",
+      "JP": "",
+      "CN": "有人被撅爆了: \u0003\u0004白花タンポポ\u001b\u0005原因=断开连接",
+      "KR": "가입 잔규발생: 세이도 화처타체봍봍⁠기, 이유=캐이콜 반단",
+      "TW": "\u001b有人被撅爆了: \u0003白花タンポポ\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Asterism\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Someone got screwed: Asterism (Reason: Disconnected)",
+      "JP": "\u0004ユーザーが接続を失いました: \u0003Asterism\u0001, \u0005原因=Disconnected",
+      "CN": "",
+      "KR": "가입 잔규발생: 세이도 Asterism⁠기, 이유=캐이콜 반단",
+      "TW": "\u001b有人被撅爆了: \u0003Asterism\u0001, \u0005原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003翻斗花园突破手\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{4}Someone got bent over: {3}Dump Truck Garden Breaker{1}, {5}Reason=Disconnected",
+      "JP": "\u0004ユーザーが接続を失いました: \u0003ひまわり区突破者\u0001, \u0005原因=Disconnected",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 나갔다: \u0003굴뚝정원 돌파수\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 翻斗花園突破手，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003独照峨眉峰\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{4}Someone got bent over: {3}Solo Mount Meifei{1}, {5}Reason=Disconnected",
+      "JP": "\u0004ユーザーが接続を失いました: \u0003峨眉山に独り照る\u0001, \u0005原因=Disconnected",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 나갔다: \u0003독조태평봉\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 獨照峨眉峰，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003怡\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{4}Someone got bent over: {3}Yi{1}, {5}Reason=Disconnected",
+      "JP": "\u0004ユーザーが接続を失いました: \u0003怡\u0001, \u0005原因=Disconnected",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 나갔다: \u0003이라\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 怡，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003不等于≠\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{4}Someone got bent over: {3}Not Equal≠{1}, {5}Reason=Disconnected",
+      "JP": "\u0004ユーザーが接続を失いました: \u0003不等≠\u0001, \u0005原因=Disconnected",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 나갔다: \u0003부등호≠\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 不等於≠，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003我一定是个憨批\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{4}Someone got bent over: {3}I must be a dumbass{1}, {5}Reason=Disconnected",
+      "JP": "\u0004ユーザーが接続を失いました: \u0003私、本当にアホだ\u0001, \u0005原因=Disconnected",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 나갔다: \u0003나는 틀림없이 바보다\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 我一定是個憨批，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003❀𝔐𝔢𝔪𝔬𝔯♪\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{4}Someone got bent over: {3}❀𝔐𝔢𝔪𝔬𝔯♪{1}, {5}Reason=Disconnected",
+      "JP": "\u0004ユーザーが接続を失いました: \u0003❀𝔐𝔢𝔪𝔬𝔯♪\u0001, \u0005原因=Disconnected",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 나갔다: \u0003❀𝔐𝔢𝔪𝔬𝔯♪\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: ❀𝔐𝔢𝔪𝔬𝔯♪，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003＊\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{4}Someone got bent over: {3}＊{1}, {5}Reason=Disconnected",
+      "JP": "\u0004ユーザーが接続を失いました: \u0003＊\u0001, \u0005原因=Disconnected",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 나갔다: \u0003＊\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: ＊，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003空門\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "{4}Someone got bent over: {3}KuMon{1}, {5}Reason=Disconnected",
+      "JP": "某人が褪ばれて終了しました: 空門, 原因=断級",
+      "CN": "",
+      "KR": "\u0004누군가가 꺾여 나갔다: \u0003공문\u0001, \u0005이유=연결 끊김",
+      "TW": "有人被撅爆了: 空門，原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003奈亚\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was violently rejected: \u0003Naiya\u0001, \u0005Reason=Disconnected",
+      "JP": "某人が褪ばれて終了しました: 奈亚, 原因=断級",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 해제되었습니다: \u0003네야\u0001, \u0005이유=접속 끊김",
+      "TW": "有人被撅爆了: 奈亞, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u0003Lemon\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was violently rejected: \u0003Lemon\u0001, \u0005Reason=Disconnected",
+      "JP": "某人が褪ばれて終了しました: Lemon, 原因=断級",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 해제되었습니다: \u0003레몬\u0001, \u0005이유=접속 끊김",
+      "TW": "有人被撅爆了: Lemon, 原因=斷開連接"
+    }
+  },
+  "\u0004有人被撅爆了: \u000376561198362863749\u0001, \u0005原因=断开连接": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\u0004Someone was violently rejected: \u000376561198362863749\u0001, \u0005Reason=Disconnected",
+      "JP": "某人が褪ばれて終了しました: 76561198362863749, 原因=断級",
+      "CN": "",
+      "KR": "\u0004누군가가 접속 해제되었습니다: \u000376561198362863749\u0001, \u0005이유=접속 끊김",
+      "TW": "有人被撅爆了: 76561198362863749, 原因=斷開連接"
+    }
+  },
+  "\" \u0007FF0000你被披萨神惩罚了\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\" \u0007FF0000You have been punished by the Pizza God\"",
+      "JP": "FF0000君はペッツア神に罰罰されました",
+      "CN": "",
+      "KR": "\" \u0007FF0000피자신의 저주를 받았습니다\"",
+      "TW": "你被披薩神懲罰了"
+    }
+  }
+}

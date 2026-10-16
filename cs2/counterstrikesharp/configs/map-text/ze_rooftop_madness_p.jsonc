@@ -1,0 +1,542 @@
+{
+  "*** Map by Soft Serve ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ソフト・サーブ作成のマップ ***",
+      "CN": "*** 地图制作：Soft Serve ***",
+      "KR": "*** Soft Serve가 제작한 맵입니다 ***",
+      "TW": "*** 地圖製作人：Soft Serve ***"
+    }
+  },
+  "*** Human items can be found in blue containers ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 青色のコンテナから人間のアイテムを取得できます ***",
+      "CN": "*** 人类物品位于蓝色容器中 ***",
+      "KR": "*** 파란색 컨테이너에서 인간 관련 아이템을 찾을 수 있습니다 ***",
+      "TW": "*** 人類道具存放於藍色容器內 ***"
+    }
+  },
+  "*** Zombie items unlocking in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビのアンロックまであと5秒 ***",
+      "CN": "*** 僵尸物品解锁倒计时：5秒 ***",
+      "KR": "*** 좀비 관련 아이템 5초 후 해제 ***",
+      "TW": "*** 殭屍道具將在5秒後解鎖 ***"
+    }
+  },
+  "*** Boosters unlocking in 60 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ブースター Unlock までの残り時間: 60秒 ***",
+      "CN": "*** 增益道具解锁倒计时：60秒 ***",
+      "KR": "*** 부스터 60초 후 해제 ***",
+      "TW": "*** 強化道具將在60秒後解鎖 ***"
+    }
+  },
+  "*** Boosters unlocking in 30 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ブースター Unlock までの残り時間: 30秒 ***",
+      "CN": "*** 增益道具解锁倒计时：30秒 ***",
+      "KR": "*** 부스터 30초 후 해제 ***",
+      "TW": "*** 強化道具將在30秒後解鎖 ***"
+    }
+  },
+  "*** UFO leaving in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** UFO離陸まであと5秒 ***",
+      "CN": "*** UFO将在5秒后离开 ***",
+      "KR": "*** UFO 5초 후 이륙 ***",
+      "TW": "*** UFO將在5秒後離開 ***"
+    }
+  },
+  "*** Boosters unlocking in 10 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ブースター Unlock までの残り時間: 10秒 ***",
+      "CN": "*** 增益道具解锁倒计时：10秒 ***",
+      "KR": "*** 부스터 10초 후 해제 ***",
+      "TW": "*** 強化道具將在10秒後解鎖 ***"
+    }
+  },
+  "*** Seagull leaving in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ウミカモメ離陸まであと5秒 ***",
+      "CN": "*** 海鸥将在5秒后离开 ***",
+      "KR": "*** 갈매기 5초 후 이륙 ***",
+      "TW": "*** 海鷗將在5秒後離開 ***"
+    }
+  },
+  "*** Pool leaving in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** プール退場まで5秒 ***",
+      "CN": "*** 5秒后离开池子 ***",
+      "KR": "*** 5초 후에 풀장 퇴장 ***",
+      "TW": "*** 5秒後离开池区 ***"
+    }
+  },
+  "*** Decoy has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 囮アイテムを獲得しました ***",
+      "CN": "*** 已获取诱饵 ***",
+      "KR": "*** 미끼 획득함 ***",
+      "TW": "*** 已獲得诱饵 ***"
+    }
+  },
+  "*** Helicopter arriving in 30 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヘリコプター到着まで30秒 ***",
+      "CN": "*** 直升机将在30秒后到达 ***",
+      "KR": "*** 30초 후 헬리콥터 도착 ***",
+      "TW": "*** 直升机30秒後抵達 ***"
+    }
+  },
+  "*** Helicopter arriving in 15 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヘリコプター到着まで15秒 ***",
+      "CN": "*** 直升机将在15秒后到达 ***",
+      "KR": "*** 15초 후 헬리콥터 도착 ***",
+      "TW": "*** 直升机15秒後抵達 ***"
+    }
+  },
+  "*** Helicopter is approaching ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヘリコプター接近中 ***",
+      "CN": "*** 直升机正在接近 ***",
+      "KR": "*** 헬리콥터 접근 중 ***",
+      "TW": "*** 直升机即將接近 ***"
+    }
+  },
+  "*** Umbrella has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 傘アイテムを獲得しました ***",
+      "CN": "*** 已获取伞包 ***",
+      "KR": "*** 우산 획득함 ***",
+      "TW": "*** 已獲得傘具 ***"
+    }
+  },
+  "*** Pod has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ポッドアイテムを獲得しました ***",
+      "CN": "*** 已获取空投箱 ***",
+      "KR": "*** 포드 획득함 ***",
+      "TW": "*** 已獲得彈射艙模組 ***"
+    }
+  },
+  "*** DDR has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** DDRアイテムを獲得しました ***",
+      "CN": "*** 已获取DDR ***",
+      "KR": "*** DDR 획득함 ***",
+      "TW": "*** 已獲得DDR模組 ***"
+    }
+  },
+  "*** Forklift has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***フォークリフトを入手しました***",
+      "CN": "*** 已获得叉车 ***",
+      "KR": "*** Forklift has been acquired ***",
+      "TW": "*** 已取得叉車 ***"
+    }
+  },
+  "*** Nade Crate has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ナードクレーターを入手しました***",
+      "CN": "*** 已获得手雷箱 ***",
+      "KR": "*** Nade Crate has been acquired ***",
+      "TW": "*** 已取得手榴彈箱 ***"
+    }
+  },
+  "*** WARNING! Escape vehicles are about to leave! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***警告！逃走車両が出発します！***",
+      "CN": "*** 警告！逃逸载具即将离开！***",
+      "KR": "*** WARNING! Escape vehicles are about to leave! ***",
+      "TW": "*** 警告！逃生載具即將離去！***"
+    }
+  },
+  "*** Rainbow Road has been reached ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***レインボーロードに到達しました***",
+      "CN": "*** 已到达彩虹公路 ***",
+      "KR": "*** Rainbow Road has been reached ***",
+      "TW": "*** 已抵達彩虹公路 ***"
+    }
+  },
+  "*** Teleporting humans in 10 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***10秒後に人間をテレポート***",
+      "CN": "*** 10 秒后传送人类 ***",
+      "KR": "*** Teleporting humans in 10 seconds ***",
+      "TW": "*** 10秒後傳送人類***"
+    }
+  },
+  "*** Teleporting zombies in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***5秒後にゾンビをテレポート***",
+      "CN": "*** 5 秒后传送僵尸 ***",
+      "KR": "*** Teleporting zombies in 5 seconds ***",
+      "TW": "*** 5秒後傳殭屍***"
+    }
+  },
+  "*** Pipe leaving in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***パイプ5秒後に出発***",
+      "CN": "*** 管道将在 5 秒后离开***",
+      "KR": "*** Pipe leaving in 5 seconds ***",
+      "TW": "*** 5秒後管道啟動離去程序***"
+    }
+  },
+  "*** Cabin leaving in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***キャビン5秒後に出発***",
+      "CN": "*** 小屋将在 5 秒后离开***",
+      "KR": "*** Cabin leaving in 5 seconds ***",
+      "TW": "*** 5秒後船艙啟動離去程序***"
+    }
+  },
+  "*** Porch leaving in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ポーチ 5秒後に離脱 ***",
+      "CN": "*** 5秒后离开前院 ***",
+      "KR": "*** 현관문 나가는 중 5초 후 ***",
+      "TW": "***門廊將在5秒後離開***"
+    }
+  },
+  "*** Lawn leaving in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 芝生 5秒後に離脱 ***",
+      "CN": "*** 5秒后离开草坪 ***",
+      "KR": "*** 잔디밭 나가는 중 5초 후 ***",
+      "TW": "***草坪將在5秒後離開***"
+    }
+  },
+  "*** Gravity Zombie has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** グラビティゾンビ を獲得しました ***",
+      "CN": "*** 已获取重力僵尸 ***",
+      "KR": "*** 중력 좀비가 획득되었습니다 ***",
+      "TW": "***已獲得重力殭屍***"
+    }
+  },
+  "*** Wind Zombie has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ウィンドゾンビ を獲得しました ***",
+      "CN": "*** 已获取风力僵尸 ***",
+      "KR": "*** 바람 좀비가 획득되었습니다 ***",
+      "TW": "***已獲得風力殭屍***"
+    }
+  },
+  "*** Lift 2 activating in 10 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** リフト2 10秒後に作動 ***",
+      "CN": "*** 10秒后启动电梯2 ***",
+      "KR": "*** 리프트 2 발사 10초 후 ***",
+      "TW": "***起重機2將在10秒後啟動***"
+    }
+  },
+  "*** Force Gun has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** フォースガン を獲得しました ***",
+      "CN": "*** 已获取力场枪 ***",
+      "KR": "*** 포스 건을 획득했습니다 ***",
+      "TW": "***已獲得力場槍***"
+    }
+  },
+  "*** Barrel Zombie has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** バレルゾンビ を獲得しました ***",
+      "CN": "*** 已获取桶装僵尸 ***",
+      "KR": "*** 배럴 좀비가 획득되었습니다 ***",
+      "TW": "***已獲得桶裝殭屍***"
+    }
+  },
+  "*** Mega Zombie has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** メガゾンビ を獲得しました ***",
+      "CN": "*** 已获取巨型僵尸 ***",
+      "KR": "*** 메가 좀비가 획득되었습니다 ***",
+      "TW": "***已獲得巨形殭屍***"
+    }
+  },
+  "*** Lift 3 activating in 10 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 3番エレベーター、10秒後に稼働開始 ***",
+      "CN": "*** 3号电梯将在10秒后启动 ***",
+      "KR": "*** 3번 엘리베이터 10초 후 작동 시작 ***",
+      "TW": "*** 第3部電梯將在10秒後啟動 ***"
+    }
+  },
+  "*** Lift 1 activating in 10 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 1番エレベーター、10秒後に稼働開始 ***",
+      "CN": "*** 1号电梯将在10秒后启动 ***",
+      "KR": "*** 1번 엘리베이터 10초 후 작동 시작 ***",
+      "TW": "*** 第1部電梯將在10秒後啟動 ***"
+    }
+  },
+  "*** Fire Zombie has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ファイヤージャンキーを獲得しました ***",
+      "CN": "*** 已获得火僵尸 ***",
+      "KR": "*** 화염 좀비 획득 ***",
+      "TW": "*** 已獲得「火焰殭屍」 ***"
+    }
+  },
+  "*** Laser Zombie has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レーザージャンキーを獲得しました ***",
+      "CN": "*** 已获得激光僵尸 ***",
+      "KR": "*** 레이저 좀비 획득 ***",
+      "TW": "*** 已獲得「雷射殭屍」 ***"
+    }
+  },
+  "*** Dragonslayer has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドラゴンスレイヤーを獲得しました ***",
+      "CN": "*** 已获得屠龙者 ***",
+      "KR": "*** 드래곤 슬레이어 획득 ***",
+      "TW": "*** 已獲得「屠龍者」 ***"
+    }
+  },
+  "*** Tetromino has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** テトロミノを獲得しました ***",
+      "CN": "*** 已获得四连方块 ***",
+      "KR": "*** 테트로미노 획득 ***",
+      "TW": "*** 已獲得「俄羅斯方塊」 ***"
+    }
+  },
+  "*** Bouncy Bed has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 跳ねるベッドを獲得しました ***",
+      "CN": "*** 已获得弹力床 ***",
+      "KR": "*** 바운시 베드 획득 ***",
+      "TW": "*** 已獲得「彈力床」 ***"
+    }
+  },
+  "*** Zombies have escaped... and they're calling for reinforcements! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビーが脱出した…そして援軍を呼んでいる！ ***",
+      "CN": "*** 僵尸们逃跑了……并且正在呼叫援军！ ***",
+      "KR": "*** 좀비가 탈출했습니다... 그리고 추가援병을 부르고 있습니다! ***",
+      "TW": "*** 殭屍逃脫……並呼叫了增援！ ***"
+    }
+  },
+  "*** Screwdriver has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドライバーを入手しました ***",
+      "CN": "*** 已获得螺丝刀 ***",
+      "KR": "*** 드라이버를 획득했습니다 ***",
+      "TW": "*** 已获得螺絲起子 ***"
+    }
+  },
+  "*** Hammer has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ハンマーを入手しました ***",
+      "CN": "*** 已获得锤子 ***",
+      "KR": "*** 망치를 획득했습니다 ***",
+      "TW": "*** 已获得锤子 ***"
+    }
+  },
+  "*** Freeze Mines have been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 凍結マインを入手しました ***",
+      "CN": "*** 已获得冰冻地雷 ***",
+      "KR": "*** 프리즈 마인을 획득했습니다 ***",
+      "TW": "*** 已获得冰霜地雷 ***"
+    }
+  },
+  "*** Haunted house! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** お化け屋敷！ ***",
+      "CN": "*** 鬼屋！***",
+      "KR": "*** 유령 집! ***",
+      "TW": "*** 鬼屋！***"
+    }
+  },
+  "*** Molotov has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** モロトフを入手しました ***",
+      "CN": "*** 已获得莫洛托夫鸡尾酒 ***",
+      "KR": "*** 몰로토프를 획득했습니다 ***",
+      "TW": "*** 已获得燃烧瓶 ***"
+    }
+  },
+  "*** Good job. You've reached the end ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** お疲れ様でした。ゴールに到達しました ***",
+      "CN": "*** 干得好。你已到达终点 ***",
+      "KR": "*** 잘했어요. 게임 끝입니다 ***",
+      "TW": "*** 做得好。你已抵达终点 ***"
+    }
+  },
+  "*** Nuke in 120 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 核爆発まで120秒 ***",
+      "CN": "*** 核弹将在120秒后发射 ***",
+      "KR": "*** 핵폭탄 120초 후 폭발 ***",
+      "TW": "*** 核弹将在 120 秒后发射 ***"
+    }
+  },
+  "*** Nuke in 90 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 核爆発まで90秒 ***",
+      "CN": "*** 核弹将在90秒后发射 ***",
+      "KR": "*** 핵폭탄 90초 후 폭발 ***",
+      "TW": "*** 核弹将在 90 秒后发射 ***"
+    }
+  },
+  "*** Teleporting slowpokes in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にテレポートするのろまたち ***",
+      "CN": "***5秒后传送磨蹭的人***",
+      "KR": "*** 5초 내에 느린 친구들 텔레포트중 ***",
+      "TW": "*** 5秒內傳送怠工者 ***"
+    }
+  },
+  "*** Nuke in 60 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 60秒後に核爆発 ***",
+      "CN": "***60秒后核爆***",
+      "KR": "*** 60초 후 핵폭발 ***",
+      "TW": "*** 60秒後核爆 ***"
+    }
+  },
+  "*** Nuke in 30 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後に核爆発 ***",
+      "CN": "***30秒后核爆***",
+      "KR": "*** 30초 후 핵폭발 ***",
+      "TW": "*** 30秒後核爆 ***"
+    }
+  },
+  "*** Nuke in 15 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後に核爆発 ***",
+      "CN": "***15秒后核爆***",
+      "KR": "*** 15초 후 핵폭발 ***",
+      "TW": "*** 15秒後核爆 ***"
+    }
+  },
+  "*** Nuke in 5 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後に核爆発 ***",
+      "CN": "***5秒后核爆***",
+      "KR": "*** 5초 후 핵폭발 ***",
+      "TW": "*** 5秒後核爆 ***"
+    }
+  },
+  "*** C4 has been acquired ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** C4を設置しました ***",
+      "CN": "***已获取C4炸药***",
+      "KR": "*** C4를 획득했습니다 ***",
+      "TW": "*** 已獲得C4炸藥 ***"
+    }
+  }
+}

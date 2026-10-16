@@ -1,110 +1,362 @@
 {
   ">>> |LEVEL 1| <<<": {
-    "translation": ">>> |第1关| <<<"
+    "translation": ">>> |第1关| <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル1",
+      "CN": ">>> |第1层| >>>",
+      "KR": ">>> |Lv. 1| <<<",
+      "TW": ">>> |LEVEL 1| <<<"
+    }
   },
   ">>> |LEVEL 2| <<<": {
-    "translation": ">>> |第2关| <<<"
+    "translation": ">>> |第2关| <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル2",
+      "CN": ">>> |第2层| >>>",
+      "KR": ">>> |Lv. 2| <<<",
+      "TW": ">>> |LEVEL 2| <<<"
+    }
   },
   ">>> |LEVEL 3| <<<": {
-    "translation": ">>> |第3关| <<<"
+    "translation": ">>> |第3关| <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル3",
+      "CN": ">>> |第3层| >>>",
+      "KR": ">>> |Lv. 3| <<<",
+      "TW": ">>> |LEVEL 3| <<<"
+    }
   },
   "Fall back we can walk across the door.": {
-    "translation": "撤退，我们可以进门。"
+    "translation": "撤退，我们可以进门。",
+    "MultiLang": {
+      "US": "",
+      "JP": "後ろへ下がり、ドアを渡れ。",
+      "CN": "退回，我们可以穿过那扇门。",
+      "KR": "문 너머로 후퇴할 수 있습니다.",
+      "TW": "墮落後我們可以穿過門。"
+    }
   },
   "Fall back!": {
-    "translation": "撤退！"
+    "translation": "撤退！",
+    "MultiLang": {
+      "US": "",
+      "JP": "後退せよ！",
+      "CN": "后退！",
+      "KR": "후퇴!",
+      "TW": "後退！"
+    }
   },
   "Final doors are going to close in 30 seconds! Resist!": {
-    "translation": "最终大门将在30秒后关闭！防守！"
+    "translation": "最终大门将在30秒后关闭！防守！",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後のドアが30秒後に閉まります！耐えろ！",
+      "CN": "最后一道门将30秒后关闭！抵抗！",
+      "KR": "최종 문이 30초 후 닫힙니다! 저항하세요!",
+      "TW": "最終的大門將在30秒後關閉！抵抗！"
+    }
   },
   "Hold for 15 seconds.": {
-    "translation": "防守15秒。"
+    "translation": "防守15秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間、押し続けよ。",
+      "CN": "坚守15秒。",
+      "KR": "15초간 버티세요.",
+      "TW": "堅持15秒。"
+    }
   },
   "Hold here until the blue sponge drops, then get in the tub!": {
-    "translation": "在这里防守到蓝色海绵掉下来，然后进入浴缸！"
+    "translation": "在这里防守到蓝色海绵掉下来，然后进入浴缸！",
+    "MultiLang": {
+      "US": "",
+      "JP": "青いスポンプが落ちるまでここから動くな、その後バスイン！",
+      "CN": "坚守此处，直到蓝色海绵掉落，然后进入浴缸！",
+      "KR": "파란 스펀지가 떨어질 때까지 여기서 대기한 다음, 욕조에 타세요!",
+      "TW": "在這裡撐到藍色海綿掉落，然後進去浴缸！"
+    }
   },
   "Hold on for a few seconds.": {
-    "translation": "防守几秒钟。"
+    "translation": "防守几秒钟。",
+    "MultiLang": {
+      "US": "",
+      "JP": "少し待ってください。",
+      "CN": "稍等几秒。",
+      "KR": "잠시만 기다려주세요.",
+      "TW": "請稍等幾秒。"
+    }
   },
   "Kill all zombies inside!": {
-    "translation": "杀死里面所有的僵尸！"
+    "translation": "杀死里面所有的僵尸！",
+    "MultiLang": {
+      "US": "",
+      "JP": "内部のゾンビをすべて倒してください！",
+      "CN": "击杀所有僵尸！",
+      "KR": "내부에 있는 모든 좀비를 처치하세요!",
+      "TW": "消滅所有在範圍內的殭屍！"
+    }
   },
   "Map made by Puklica & Cuniczek": {
-    "translation": "地图作者：Puklica & Cuniczek"
+    "translation": "地图作者：Puklica & Cuniczek",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作：Puklica & Cuniczek",
+      "CN": "地图由 Puklica 和 Cuniczek 制作",
+      "KR": "맵 제작: Puklica & Cuniczek",
+      "TW": "地圖由 Puklica & Cuniczek 製作"
+    }
   },
   "Mouse trap has been picked up.": {
-    "translation": "老鼠夹已被拾取。"
+    "translation": "老鼠夹已被拾取。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネズミ捕獲器を拾いました。",
+      "CN": "已拾取老鼠夹。",
+      "KR": "쥐덫을 획득했습니다.",
+      "TW": "已取得捕鼠器。"
+    }
   },
   "Resist for 25 seconds.": {
-    "translation": "防守25秒。"
+    "translation": "防守25秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間耐えてください。",
+      "CN": "坚持 25 秒。",
+      "KR": "25초간 버티세요.",
+      "TW": "堅持 25 秒。"
+    }
   },
   "Resist for 30 seconds.": {
-    "translation": "防守30秒。"
+    "translation": "防守30秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間耐えてください。",
+      "CN": "坚持 30 秒。",
+      "KR": "30초간 버티세요.",
+      "TW": "堅持 30 秒。"
+    }
   },
   "Resist until the wall breaks.": {
-    "translation": "防守到墙破裂。"
+    "translation": "防守到墙破裂。",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁が壊れるまで耐えてください。",
+      "CN": "坚持到墙壁破裂。",
+      "KR": "벽이 무너지는 동안 버티세요.",
+      "TW": "堅持到牆壁破壞為止。"
+    }
   },
   "Seems like there is no way to escape.": {
-    "translation": "看来没有逃脱的办法。"
+    "translation": "看来没有逃脱的办法。",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出する方法はないようです。",
+      "CN": "看来无路可逃了。",
+      "KR": "탈출할 방법이 없어 보이는군요.",
+      "TW": "看來沒有逃脫的方法。"
+    }
   },
   "Sponge builder has been picked up.": {
-    "translation": "海绵块已被拾取。"
+    "translation": "海绵块已被拾取。",
+    "MultiLang": {
+      "US": "",
+      "JP": "スポンジビルダーを持ち上げた。",
+      "CN": "海绵搭建者已被拾取。",
+      "KR": "스펀지 건설자가 들어 올려졌습니다.",
+      "TW": "海綿已拾取。"
+    }
   },
   "That's it! Break the shelf support.": {
-    "translation": "就是这样！打破架子的支撑。"
+    "translation": "就是这样！打破架子的支撑。",
+    "MultiLang": {
+      "US": "",
+      "JP": "これでだ！棚の支柱を壊せ。",
+      "CN": "就是这样！打破架子支撑。",
+      "KR": "그래요! 선반 지지대를 부수세요.",
+      "TW": "就是這了！破壞架子支撐。"
+    }
   },
   "The Rubber Duck has been defeated.": {
-    "translation": "橡皮鸭 93x最强boss 已被打败。"
+    "translation": "橡皮鸭 93x最强boss 已被打败。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラバーダックが倒れた。",
+      "CN": "橡皮鸭已被击败。",
+      "KR": "고무 오리가 격파되었습니다.",
+      "TW": "橡皮鴨已被擊敗。"
+    }
   },
   "The path has been cleared.": {
-    "translation": "道路已清理。"
+    "translation": "道路已清理。",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が開いた。",
+      "CN": "路径已清除。",
+      "KR": ".path가 열렸습니다.",
+      "TW": "道路已開通。"
+    }
   },
   "The path is blocked. Fall back!": {
-    "translation": "道路已被堵住。撤退！"
+    "translation": "道路已被堵住。撤退！",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が塞がれた。後退だ！",
+      "CN": "路径被阻塞。撤退！",
+      "KR": "path가 막혔습니다. 후퇴하세요!",
+      "TW": "道路受阻！後撤！"
+    }
   },
   "The sponge has been defeated! Run!": {
-    "translation": "海绵已被打败！快跑！"
+    "translation": "海绵已被打败！快跑！",
+    "MultiLang": {
+      "US": "",
+      "JP": "スポンジを倒した！逃げろ！",
+      "CN": "海绵已被击败！快跑！",
+      "KR": "스펀지가 격파되었습니다! 도망치세요!",
+      "TW": "海綿已被擊敗！快跑！"
+    }
   },
   "There is no way around.": {
-    "translation": "没有其他路了。"
+    "translation": "没有其他路了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "迂回する道はない。",
+      "CN": "无路可走。",
+      "KR": "돌아서 갈 길이 없습니다.",
+      "TW": "沒有別的路可走。"
+    }
   },
   "Toilet paper has been rolled down. Fall back!": {
-    "translation": "卫生纸已展开。撤退！"
+    "translation": "卫生纸已展开。撤退！",
+    "MultiLang": {
+      "US": "",
+      "JP": "トイレットペーパーが巻き下げられた。後退だ！",
+      "CN": "厕纸已滚落。撤退！",
+      "KR": "화장지가 내려졌습니다. 후퇴하세요!",
+      "TW": "衛生紙已展開。後撤！"
+    }
   },
   "We are trapped! Resist!": {
-    "translation": "我们被困住了！防守！"
+    "translation": "我们被困住了！防守！",
+    "MultiLang": {
+      "US": "",
+      "JP": "罠にかかった！抵抗しろ！",
+      "CN": "我们被困住了！坚持住！",
+      "KR": "우리 갇혔어! 저항해!",
+      "TW": "我們被困住了！抵抗！"
+    }
   },
   "We can enter through that hole! Fall back!": {
-    "translation": "我们可以通过那个洞进入！撤退！"
+    "translation": "我们可以通过那个洞进入！撤退！",
+    "MultiLang": {
+      "US": "",
+      "JP": "あの穴から入れる！退却だ！",
+      "CN": "我们可以从那个洞进去！撤退！",
+      "KR": "그 구멍으로 진입할 수 있어! 후퇴해!",
+      "TW": "我們可以從那個洞進去！撤退！"
+    }
   },
   "We can use the hairdryer to reach the shelf!": {
-    "translation": "我们可以用吹风机到达架子！"
+    "translation": "我们可以用吹风机到达架子！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘアドライヤーを使って棚に届くぞ！",
+      "CN": "我们可以用吹风机够到架子！",
+      "KR": "헤어드라이러를 사용해 선반에 닿을 수 있어!",
+      "TW": "我們可以用吹風機够到架子！"
+    }
   },
   "We have to clear the soap out of the way to be able to climb up.": {
-    "translation": "我们必须移动肥皂才能爬上去。"
+    "translation": "我们必须移动肥皂才能爬上去。",
+    "MultiLang": {
+      "US": "",
+      "JP": "石鹸をどかさないとなかなか登れない。",
+      "CN": "我们必须把肥皂挪开才能爬上去。",
+      "KR": "올라가기 위해 비누를 치워야 해.",
+      "TW": "我們必須把肥皂移開才能爬上去。"
+    }
   },
   "We'll have to enter the boiler. Resist!": {
-    "translation": "我们必须进入锅炉。防守！"
+    "translation": "我们必须进入锅炉。防守！",
+    "MultiLang": {
+      "US": "",
+      "JP": "暖炉の中に入らなければならん。抵抗しろ！",
+      "CN": "我们必须进入锅炉。坚持住！",
+      "KR": "보일러 안으로 들어가야 해. 저항해!",
+      "TW": "我們得進入鍋爐。抵抗！"
+    }
   },
   "We'll have to jump outside and walk across the mirror.": {
-    "translation": "我们必须跳到外面且穿过镜子。"
+    "translation": "我们必须跳到外面且穿过镜子。",
+    "MultiLang": {
+      "US": "",
+      "JP": "外に跳んで、鏡の上を渡らねばならん。",
+      "CN": "我们得跳出去，走过镜子。",
+      "KR": "밖으로 점프해서 거울 위를 건너야 해.",
+      "TW": "我們得跳到外面並走過鏡子。"
+    }
   },
   "We'll have to roll down the toilet paper to safely climb down.": {
-    "translation": "我们必须等待卷纸降下后才能安全地往下爬。"
+    "translation": "我们必须等待卷纸降下后才能安全地往下爬。",
+    "MultiLang": {
+      "US": "",
+      "JP": "トイレットペーパーを巻き取って、安全に降りなければならない。",
+      "CN": "我们必须把卫生纸卷起来才能安全爬下去。",
+      "KR": "안전하게 내려가기 위해 화장지 종이를 말아야 해.",
+      "TW": "我們得把衛生紙捲下來才能安全地爬下去。"
+    }
   },
   "You have won first level!": {
-    "translation": "你赢得了第1关！"
+    "translation": "你赢得了第1关！",
+    "MultiLang": {
+      "US": "",
+      "JP": "第1レベルクリア！",
+      "CN": "恭喜通关第一关！",
+      "KR": "1레벨을 클리어했습니다!",
+      "TW": "你獲得了第一關的勝利！"
+    }
   },
   "You have won the map! Congratulations!": {
-    "translation": "全图通关！恭喜！"
+    "translation": "全图通关！恭喜！",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップをクリアしました！おめでとうございます！",
+      "CN": "恭喜！您已赢得本地图！",
+      "KR": "맵을 클리어하셨습니다! 축하합니다!",
+      "TW": "你贏得了這張地圖！恭喜！"
+    }
   },
   "|Admin Room| *** MAP SLAYING EVERYONE ***": {
-    "translation": "|管理员房间| *** 地图正在击杀所有人 ***"
+    "translation": "|管理员房间| *** 地图正在击杀所有人 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "|管理者ルーム| *** MAP SLAYING EVERYONE ***",
+      "CN": "|管理房间|*** 击杀全图玩家 ***",
+      "KR": "|관리자 방| *** 모든 플레이어 처리 ***",
+      "TW": "|管理員房間| *** 地圖：全殲所有人 ***"
+    }
   },
   "|Admin Room|***Map has changed difficulty to LEVEL 1 ***": {
-    "translation": "|管理员房间| ***已变更为第1关 ***"
+    "translation": "|管理员房间| ***已变更为第1关 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "|管理者ルーム|***マップの難易度がレベル1に変更されました***",
+      "CN": "|管理房间|*** 地图难度已调整为等级 1 ***",
+      "KR": "|관리자 방|*** 맵 난이도가 레벨 1로 변경되었습니다 ***",
+      "TW": "|管理員房間|*** 地圖難度已變更為等級 1 ***"
+    }
   },
   "|Admin Room|***Map has changed difficulty to LEVEL 2 ***": {
-    "translation": "|管理员房间| ***已变更为第2关 ***"
+    "translation": "|管理员房间| ***已变更为第2关 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "|管理者ルーム|***マップの難易度がレベル2に変更されました***",
+      "CN": "|管理房间|*** 地图难度已调整为等级 2 ***",
+      "KR": "|관리자 방|*** 맵 난이도가 레벨 2로 변경되었습니다 ***",
+      "TW": "|管理員房間|*** 地圖難度已變更為等級 2 ***"
+    }
   }
 }

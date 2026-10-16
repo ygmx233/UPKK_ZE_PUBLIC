@@ -1,0 +1,1372 @@
+{
+  "**Version 0.1.0.6**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バージョン 0.1.0.6",
+      "CN": "版本 0.1.0.6",
+      "KR": "**버전 0.1.0.6**",
+      "TW": "**版本 0.1.0.6**"
+    }
+  },
+  "**ze_Resident_Evil_3**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze_Resident_Evil_3",
+      "CN": "ze_Resident_Evil_3",
+      "KR": "**ze_Resident_Evil_3**",
+      "TW": "** ze_Resident_Evil_3**"
+    }
+  },
+  "**Original L4D2 map by Roku**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "元オリジナル L4D2 マップ作成：Roku",
+      "CN": "原始 L4D2 地图由 Roku 制作",
+      "KR": "**원래 L4D2 맵 제작: Roku**",
+      "TW": "**Original L4D2 map by Roku**"
+    }
+  },
+  "**Full Remake by HaRyDe. Kuroki. Microsoft**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "完全リメイク作成：HaRyDe、Kuroki、Microsoft",
+      "CN": "完全重制由 HaRyDe、Kuroki、Microsoft 完成",
+      "KR": "**완전 리메이크 제작자: HaRyDe, Kuroki, Microsoft**",
+      "TW": "**Full Remake by HaRyDe. Kuroki. Microsoft**"
+    }
+  },
+  "**Special thanks: Headsh. Kotya. Friend. Tilgep. Vanyarin. LeXeR. NiceShot**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "特別感謝：Headsh、Kotya、Friend、Tilgep、Vanyarin、LeXeR、NiceShot",
+      "CN": "特别鸣谢：Headsh、Kotya、Friend、Tilgep、Vanyarin、LeXeR、NiceShot",
+      "KR": "**특별 감사: Headsh, Kotya, Friend, Tilgep, Vanyarin, LeXeR, NiceShot**",
+      "TW": "**Special thanks: Headsh. Kotya. Friend. Tilgep. Vanyarin. LeXeR. NiceShot**"
+    }
+  },
+  "**Warmup Round -- The game will start in 40 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォームアップラウンド -- ゲーム開始まで40秒",
+      "CN": "热身回合 -- 游戏将在 40 秒后开始",
+      "KR": "**전투 준비 라운드 -- 게임이 40초 뒤에 시작됩니다**",
+      "TW": "**Warmup Round -- The game will start in 40 seconds**"
+    }
+  },
+  "**Warmup Round -- The game will start in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォームアップラウンド -- ゲーム開始まで20秒",
+      "CN": "热身回合 -- 游戏将在 20 秒后开始",
+      "KR": "**전투 준비 라운드 -- 게임이 20초 뒤에 시작됩니다**",
+      "TW": "**Warmup Round -- The game will start in 20 seconds**"
+    }
+  },
+  "**Warmup Round -- The game will start in 5 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォームアップラウンド -- ゲーム開始まで5秒",
+      "CN": "热身回合 -- 游戏将在 5 秒后开始",
+      "KR": "**전투 준비 라운드 -- 게임이 5초 뒤에 시작됩니다**",
+      "TW": "**Warmup Round -- The game will start in 5 seconds**"
+    }
+  },
+  "**Normal Mode**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ノーマルモード",
+      "CN": "**普通模式**",
+      "KR": "**일반 모드**",
+      "TW": "**普通模式**"
+    }
+  },
+  "**The door will open in 5 seconds -- Get ready**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後に扉が開きます。準備してください",
+      "CN": "**门将在5秒后打开——做好准备**",
+      "KR": "**문이 5초 후에 열립니다 -- 준비하세요**",
+      "TW": "**門将在5秒後打開——準備好**"
+    }
+  },
+  "**Let's begin...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "始めましょう……",
+      "CN": "**让我们开始吧...**",
+      "KR": "**시작하겠습니다...**",
+      "TW": "**我們開始吧...**"
+    }
+  },
+  "**The doors to the 1st floor will open in 5 sec**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "1階の扉が5秒後に開きます",
+      "CN": "**一楼的大门将在5秒后打开**",
+      "KR": "**1층 출입구가 5초 후에 열립니다**",
+      "TW": "**一樓的門将在5秒後打開**"
+    }
+  },
+  "**Apartments doors will open soon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "アパートのドアが開きます",
+      "CN": "**公寓大门即将开启**",
+      "KR": "**아파트 문이 곧 열릴 예정입니다**",
+      "TW": "**公寓門即將打開**"
+    }
+  },
+  "**RPD back gate will open in 10 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "RPD裏口が10秒後に開きます",
+      "CN": "**R.P.D.后门将在10秒后开启**",
+      "KR": "**RPD 후문은 10초 후에 열립니다**",
+      "TW": "RPD後門将在10秒後打開**"
+    }
+  },
+  "**Raccoon City is in total turmoil...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラクーンシティは完全な混乱状態……",
+      "CN": "**浣熊市已陷入一片混乱……**",
+      "KR": "**락콘시티가 완전한 혼란에 빠졌습니다...**",
+      "TW": "**浣熊市陷入一片混亂...**"
+    }
+  },
+  "**We may be able to escape if we get to the train station**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "駅に辿りつけば、脱出できるかもしれません",
+      "CN": "**如果我们能到达火车站，或许就能逃脱**",
+      "KR": "**우리는 기차역에 도달하면 탈출할 수 있을 것입니다**",
+      "TW": "**如果我們能到達火車站，也許能夠逃脫**"
+    }
+  },
+  "**FALL BACK**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**フェールバック**",
+      "CN": "**备用方案**",
+      "KR": "**폴백**",
+      "TW": "**緊急狀況**"
+    }
+  },
+  "**Let's go there -- We'll think of what to do once we're there**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**そこへ行こう。そこでどうするか考える**",
+      "CN": "**我们先去那里再说——到了再想对策。**",
+      "KR": "**저기로 가자 -- 어떻게 할지는 그 때 가서 생각하자**",
+      "TW": "**前往該地——到了再想辦法。**"
+    }
+  },
+  "**RPD main gate will open in 25 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**RCPDメインゲートは25秒後に開く**",
+      "CN": "警局正门将在25秒后开启**",
+      "KR": "RPD 본 정문 25초 후 개장",
+      "TW": "**RPD 正門將在 25 秒後開啟。**"
+    }
+  },
+  "**Shop doors will open in 7 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ショップの扉は7秒後に開く**",
+      "CN": "**商店门将在7秒后开启**",
+      "KR": "상점 문 7초 후 개장",
+      "TW": "**商店捲門將在 7 秒後開啟。**"
+    }
+  },
+  "**Door will open in 10 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**扉は10秒後に開く**",
+      "CN": "**门将在10秒后开启**",
+      "KR": "문 10초 후 개장",
+      "TW": "**門將在 10 秒後開啟。**"
+    }
+  },
+  "**Office doors will open in 8 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**事務所の扉は8秒後に開く**",
+      "CN": "**办公区域门将在8秒后开启**",
+      "KR": "사무실 문 8초 후 개장",
+      "TW": "**辦公室門將在 8 秒後開啟。**"
+    }
+  },
+  "**Note: Umbrella Corp announced a change in the primary distribution point for our products**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**注：アンブレラ社は主要な製品配布拠点を変更したことを発表しました**",
+      "CN": "**注：保护伞公司宣布更改主要产品销售点**",
+      "KR": "참고: Umbrella Corp는 제품 주요 유통拠点 변경을 발표했습니다",
+      "TW": "**備註：保護傘公司宣布將更改產品的主要配送點。**"
+    }
+  },
+  "**Note: I dont understand why they in such a rush. I send you the coordinates for their new base soon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**注：彼らがなぜそんな急ぎなのか理解できない。今頃、新しい拠点の座標を送っている**",
+      "CN": "**注：我不明白他们为何如此匆忙。稍后我会将新基地坐标发送给你。**",
+      "KR": "참고: 왜 그들이 그렇게 급하게 움직이는지 모르겠습니다. 곧 그들의 새 기지의 좌표를 보내드리겠습니다",
+      "TW": "**備註：我不明白他們為何如此匆忙。稍後我會將他們新基地的座標發送給您。**"
+    }
+  },
+  "**Office back alley door will open in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "事務所の裏口が20秒後に開きます",
+      "CN": "办公室后巷门将在20秒后开启",
+      "KR": "사무실 후면 골목문이 20초 후에 열립니다",
+      "TW": "辦公樓後巷門將在20秒後開啟"
+    }
+  },
+  "**Gate will open in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "門が15秒後に開きます",
+      "CN": "大门将在15秒后开启",
+      "KR": "문이 15초 후에 열립니다",
+      "TW": "校門將在15秒後開啟"
+    }
+  },
+  "**We found a wrench -- Door opens in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レンチを発見 -- 15秒後にドアが開きます",
+      "CN": "找到一把扳手——门将在15秒后开启",
+      "KR": "렌치를 찾았습니다 -- 문이 15초 후에 열립니다",
+      "TW": "我們找到了扳手——門將在15秒後開啟"
+    }
+  },
+  "**Looks like this road is blocked too**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この道も封鎖されているようだ",
+      "CN": "看起来这条路也被堵住了",
+      "KR": "이 길도 막혀 있는 것 같습니다",
+      "TW": "這條路看起來也阻塞了"
+    }
+  },
+  "**Let's go through the parking lot**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "駐車場を通過しよう",
+      "CN": "我们要穿过停车场",
+      "KR": "주차장으로 가요",
+      "TW": "我們穿過停車場吧"
+    }
+  },
+  "**The door to the parking lot will open in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "駐車場のドアが20秒後に開きます",
+      "CN": "通往停车场的门将在20秒后开启",
+      "KR": "주차장 문이 20초 후에 열립니다",
+      "TW": "停車場的門將在20秒後開啟"
+    }
+  },
+  "**We found a blue gem**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "青い宝石を発見した",
+      "CN": "发现一颗蓝色宝石",
+      "KR": "파란 보석을 찾았습니다",
+      "TW": "我們找到了藍色寶石"
+    }
+  },
+  "**Defend here for 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここで20秒間防衛せよ",
+      "CN": "在此防守20秒",
+      "KR": "20초 동안 여기서 방어하세요",
+      "TW": "在此防禦20秒"
+    }
+  },
+  "**This gem might be useful to us later -- Let's keep it for now**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**この宝石は将来役に立つかもしれない -- 今は取っておこう**",
+      "CN": "这枚宝石以后可能用得上——先留着",
+      "KR": "이 보석은 나중에 유용할지도 모른다 -- 일단 보관해 두자",
+      "TW": "**這顆寶STONE稍後或許派得上用場 -- 先留著吧**"
+    }
+  },
+  "**5 seconds left**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**残り5秒**",
+      "CN": "剩余5秒",
+      "KR": "남은 시간 5초",
+      "TW": "**倒數5秒**"
+    }
+  },
+  "**This button's fuse is busted -- The door will not open**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**このボタンの火打ち石が壊れている -- 扉は開かない**",
+      "CN": "按钮保险丝损坏——门无法打开",
+      "KR": "이 버튼의 퓨즈가 고장났다 -- 문이 열리지 않는다",
+      "TW": "按鈕保險絲壞了 -- 門無法開啟**"
+    }
+  },
+  "**Maybe we can find a replacement fuse at the power plant**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**発電所で新しい火打ち石を見つけられるかもしれない**",
+      "CN": "也许能在发电厂找到替代的保险丝",
+      "KR": "전력사에서 교체용 퓨즈를 찾을 수 있을지도 모른다",
+      "TW": "**也許我們能在發電廠找到替換的保險絲**"
+    }
+  },
+  "**We used the wrench to repair the generator**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**レンチを使って発電機を修理した**",
+      "CN": "我们用扳手修好了发电机",
+      "KR": "렌치를 사용하여 발전기를 수리했다",
+      "TW": "我們用扳手修復了發電機**"
+    }
+  },
+  "**Door will open in 25 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**25秒後に扉が開く**",
+      "CN": "25秒后门将打开",
+      "KR": "문이 25초 뒤에 열린다",
+      "TW": "**門將在25秒後開啟**"
+    }
+  },
+  "**Door will open in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**15秒後に扉が開く**",
+      "CN": "15秒后门将打开",
+      "KR": "문이 15초 뒤에 열린다",
+      "TW": "**門將在15秒後開啟**"
+    }
+  },
+  "**There's been reports of Nemesis lurking around the area -- 120s**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ネメシスの出没が確認されている -- 120秒**",
+      "CN": "据报告，复仇女神徘徊在此区域——120秒",
+      "KR": "이 지역에서 네메시스의 출몰 보고가 있었다 -- 120초",
+      "TW": "**據報有Nemesis在該區域出沒 -- 120秒**"
+    }
+  },
+  "**We need to find that fuse and get out of here before it's too late!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ファインドを見つけ出して、手遅れになる前にここを脱出するんだ！",
+      "CN": "我们必须找到保险丝，在来不及之前离开这里！",
+      "KR": "**시간이 얼마 남지 않았으니 퓨즈를 찾아서 빨리 여기서 나가자!**",
+      "TW": "我們必須找到那根保險絲，在太遲之前離開這裡！"
+    }
+  },
+  "**The storage door will open soon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "保管庫の扉がすぐに開く",
+      "CN": "储物室门即将打开",
+      "KR": "**저장고 문이 곧 열립니다**",
+      "TW": "儲存庫門即將開啟"
+    }
+  },
+  "**Note: I put the fuse in storage. People have gone mad and are devouring each other. I advise you to leave the city at the first opportunity**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "メモ：フェーズを保管庫に入れた。人々は気絶し、互いを食べ合っている。最初の機会を見つけて市を離れることを勧める",
+      "CN": "笔记：我将保险丝放在了储物室。人们已经陷入疯狂并开始互相吞噬。我建议你尽快离开这座城市",
+      "KR": "**메모: 퓨즈를 저장고에 숨겼습니다. 사람들이 미쳐서 서로를 삼키고 있습니다. 기회가 되면 최대한 빨리 도시를 떠나라**",
+      "TW": "備註：我將保險絲放在儲存庫裡。人們已經發瘋並互相吞噬。我建議您一有機會就離開這座城市"
+    }
+  },
+  "**60 seconds left**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り60秒",
+      "CN": "剩余60秒",
+      "KR": "**남은 시간 60초**",
+      "TW": "剩餘 60 秒"
+    }
+  },
+  "**15 seconds left**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り15秒",
+      "CN": "剩余15秒",
+      "KR": "**남은 시간 15초**",
+      "TW": "剩餘 15 秒"
+    }
+  },
+  "**You took too long**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "時間がかかりすぎた",
+      "CN": "你太慢了",
+      "KR": "**시간을 너무 많이 소비했습니다**",
+      "TW": "您花太久了"
+    }
+  },
+  "**The back door is locked -- We need to find the key to open it**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "後方のドアが施錠されている――開けるための鍵を見つける必要がある",
+      "CN": "后门已锁 -- 我们需要找到钥匙才能打开",
+      "KR": "**뒷문이 잠겨 있습니다 -- 열쇠를 찾아야 합니다**",
+      "TW": "後門已鎖定 -- 我們需要找到鑰匙才能打開它"
+    }
+  },
+  "**Admin has selected S.T.A.R.S. Mode as next stage**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者は次のステージとしてS.T.A.R.S.モードを選択しました",
+      "CN": "管理员已选择S.T.A.R.S.模式作为下一关卡",
+      "KR": "**관리자가 다음 스테이지로 S.T.A.R.S. 모드를 선택했습니다**",
+      "TW": "管理員已選定 S.T.A.R.S. 模式作為下一階段"
+    }
+  },
+  "**Hard Mode**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ハードモード**",
+      "CN": "**困难模式**",
+      "KR": "** 하드 모드 **",
+      "TW": "**困難模式**"
+    }
+  },
+  "**We found a Saw**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ノコギリを発見しました**",
+      "CN": "**我们发现了一把锯子**",
+      "KR": "** 톱을 발견했습니다**",
+      "TW": "**我們找到了鋸子**"
+    }
+  },
+  "**Books shop door will open in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "書店のドアは20秒後に開きます**",
+      "CN": "**书店门将在20秒后打开**",
+      "KR": "** 서점 문이 20초 후에 열립니다**",
+      "TW": "**書籍商店大門將在 20 秒後開啟**"
+    }
+  },
+  "**We found a First-Aid Spray**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**応急スプレーを発見しました**",
+      "CN": "**我们发现了一个急救喷雾**",
+      "KR": "** 응급 스프레이를 발견했습니다**",
+      "TW": "**我們找到了急救噴霧**"
+    }
+  },
+  "**Note: I left the password to the safe on the shelf of William Shakespeares Tragedies in the bookstore**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "注：金庫のパスワードは、書店のウィリアム・シェイクスピアの悲劇の本棚に残してきました**",
+      "CN": "**注意：我把保险箱的密码留在了书店莎士比亚悲剧系列的书架上**",
+      "KR": "** 메모: 금고 비밀번호는 서점의 윌리엄 셰익스피어 비극 책 선반에 놔뒀습니다**",
+      "TW": "**備註：我已將保險箱的密碼留在書店莎士比亞悲劇系列的書架上**"
+    }
+  },
+  "**Admin has selected Akuma Mode as next stage**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者が次のステージとして悪魔モードを選択しました**",
+      "CN": "**管理员已选择阿库玛模式作为下一阶段**",
+      "KR": "** 관리자가 다음 스테지로 악마 모드를 선택했습니다**",
+      "TW": "管理員已將下一關卡選定為阿庫馬模式**"
+    }
+  },
+  "**We found the Rocket Launcher**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ロケットランチャーを発見しました**",
+      "CN": "**我们发现了火箭发射器**",
+      "KR": "** 로켓 발사기를 발견했습니다**",
+      "TW": "**我們找到了火箭筒**"
+    }
+  },
+  "**Akumu / 悪 夢 Mode**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**Akumu / Evil Dream Mode**",
+      "JP": "**悪夢モード**",
+      "CN": "",
+      "KR": "** 악몽 Mode**",
+      "TW": "**Akumu / 惡夢模式**"
+    }
+  },
+  "**What's happening to us?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "僕たちに何が起きてるの？",
+      "CN": "**我们的身体发生了什么变化？**",
+      "KR": "우리가 지금 무슨 일이?",
+      "TW": "我們怎麼了？"
+    }
+  },
+  "**This virus... it's eating us alive!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "このウイルス……僕らを食い尽くしてる！",
+      "CN": "这种病毒……它正在吞噬我们！",
+      "KR": "이 바이러스... 우리 몸을 갉아먹고 있어!",
+      "TW": "這病毒……正在將我們吞噬！"
+    }
+  },
+  "**Version 0.1.1.2**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**バージョン0.1.1.2**",
+      "CN": "**版本 0.1.1.2**",
+      "KR": "버전 0.1.1.2",
+      "TW": "**版本 0.1.1.2**"
+    }
+  },
+  "**The doors to the 2nd floor will open in 5 sec**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "2階への扉は5秒後に開きます",
+      "CN": "二楼大门将在5秒后开启",
+      "KR": "**2층으로 가는 문이 5초 후에 열립니다**",
+      "TW": "二樓的門會在5秒後開啟"
+    }
+  },
+  "**Gate will open in 17 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "門は17秒後に開きます",
+      "CN": "闸门将于17秒后开启",
+      "KR": "**문이 17초 후에 개방됩니다**",
+      "TW": "大門將在17秒後開啟"
+    }
+  },
+  "**We found a wrench -- Door opens in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レンチを発見しました -- 扉が20秒後に開きます",
+      "CN": "我们找到了扳手——门将在20秒后开启",
+      "KR": "**렌치를 찾았습니다 -- 문이 20초 후에 열립니다**",
+      "TW": "我們找到了一把扳手——門將在20秒後開啟"
+    }
+  },
+  "**We found a fuse**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒューズを発見しました",
+      "CN": "我们找到了保险丝",
+      "KR": "** 퓨즈를 찾았습니다**",
+      "TW": "我們找到了保險絲"
+    }
+  },
+  "**This side is overrun with zombies -- We need to get out through the back door**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この側はゾンビで埋め尽くされています -- 裏口から脱出する必要があります",
+      "CN": "这一侧被丧尸占领——我们需要从后门逃脱",
+      "KR": "**저쪽에 좀비가 넘쳐납니다 -- 뒷문으로 나가야 합니다**",
+      "TW": "這側已被喪屍淹沒——我們需要從後門逃走"
+    }
+  },
+  "**We fixed the button with the fuse! The door will open soon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒューズでボタンを修理しました！扉はもうすぐ開きます",
+      "CN": "我们用保险丝修好了按钮！门即将开启",
+      "KR": "**퓨즈로 버튼을 수리했습니다! 곧 문이 열립니다**",
+      "TW": "我們用保險絲修復了按鈕！門即將開啟"
+    }
+  },
+  "**Note: Some madman bit Robert on the arm. A policeman pulled him away and we managed to escape**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "注記：ある狂人がロバートの腕にかじりつきました。警官が彼を引き離したため、私たちは脱出できました",
+      "CN": "注意：有个疯子咬了罗伯特的胳膊。一名警察把他拉开，我们才得以逃脱",
+      "KR": "**참고: 누군가 로버트의 팔을 물었습니다. 경찰관이 그를 떼어내 저희는 피신했습니다**",
+      "TW": "筆記：某個瘋子咬傷了羅伯特的的手臂。一名警察把他拉開了，我們得以成功逃脫"
+    }
+  },
+  "**We found the key -- Defend for 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "鍵を発見しました -- 20秒間防衛してください",
+      "CN": "我们找到了钥匙——坚持防守20秒",
+      "KR": "**열쇠를 찾았습니다 -- 20초간 방어해 주세요**",
+      "TW": "我們找到了鑰匙——請防禦20秒"
+    }
+  },
+  "**Note: I wanted to get the rifle from the basement. but I forgot where you hid the key. We are going to the hospital and will wait for you there**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "メモ：地下室のライフルを取りたかったけど、鍵をどこに置いたか忘れてしまった。病院に行きますので、そこでお待ちください。",
+      "CN": "备注：我打算去地下室拿步枪。但我忘了钥匙藏哪儿了。我们会去医院，到那儿等你。",
+      "KR": "참고: 다락방의 소총을 챙겨가고 싶었지만, 열쇠를 어디에 뒀는지 까먹었어요. 병원에서 기다리겠습니다.",
+      "TW": "說明：我想去地下室拿步槍，但忘記你藏鑰匙的地方了。我們會到醫院等你"
+    }
+  },
+  "**Alleyway door will open in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "路地の扉は15秒後に開きます",
+      "CN": "小巷门将在15秒后开启。",
+      "KR": "15초 후 골목길 문이 열립니다",
+      "TW": "小巷門15秒後開啟"
+    }
+  },
+  "**Two gems are missing from that pedestal**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "その台座から2つの宝石が見つからない",
+      "CN": "展台上缺少了两枚宝石。",
+      "KR": "소쿠리에 보석이 둘 이상 사라졌습니다.",
+      "TW": "那個基座上少了兩顆寶石"
+    }
+  },
+  "**Looks like this blue gem we found will come in handy. But where will we find the other one?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "見つけたこの青い宝石は役に立ちそうだ。では、もう1つの宝石はどこで見つかるだろうか？",
+      "CN": "看来我们找到的这枚蓝宝石会派上用场。但另一枚又该去哪儿找呢？",
+      "KR": "이번 파란색 보석이 분명히 도움이 될 것 같아요. 다른 하나는 어디에 있을까요?",
+      "TW": "看來我們找到的這顆藍寶石會派上用場。但另一顆要從哪裡取得呢？"
+    }
+  },
+  "**Raccoon Press doors will open in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ラッコンのプレス社の扉は20秒後に開きます",
+      "CN": "浣熊出版社的大门将在20秒后开启。",
+      "KR": "Raccoon Press 문이 20초 후 열립니다",
+      "TW": "浣熊新聞社門20秒後開啟"
+    }
+  },
+  "**Defend until the power comes back up**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "電源が戻ってくるまで防衛せよ",
+      "CN": "坚持防守，直到电源恢复。",
+      "KR": "전원이 복구될 때까지 방어하세요.",
+      "TW": "堅守到電源恢復"
+    }
+  },
+  "**Upper office door will open in 5 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "上のオフィスの扉は5秒後に開きます",
+      "CN": "楼上办公室的门将在5秒后开启。",
+      "KR": "5초 후 2층 사무실 문이 열립니다",
+      "TW": "上層辦公室門5秒後開啟"
+    }
+  },
+  "**Let's grab what we need and get out of here**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "必要なものを手に入れたら、ここを離れよう",
+      "CN": "拿上我们需要的东西，然后赶紧离开这里。",
+      "KR": "필요한 것만 챙겨서 빨리 벗어나자.",
+      "TW": "把我們需要的東西帶走，然後離開這裡"
+    }
+  },
+  "**We found a green gem**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "緑の宝石を見つけた",
+      "CN": "我们发现了一颗绿色宝石",
+      "KR": "**보석 한 개를 발견했습니다**",
+      "TW": "我們發現了一顆綠色寶石"
+    }
+  },
+  "**We can use these two gems on that pedestal over at the City Hall!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この二つの宝石、市庁舎の台座に使えるはず！",
+      "CN": "我们可以用这两颗宝石激活市政厅前的那个基座！",
+      "KR": "**보석 두 개는 시청 중앙에 있는 받침대 위에 넣으세요!**",
+      "TW": "我們可以把這兩顆寶石放到市政廳的那個基座上！"
+    }
+  },
+  "**We used both gems -- The Raccoon City Hall will open soon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "二つの宝石を使ってみたところ、ラcoonシティの市庁舎がすぐに開いた",
+      "CN": "我们已使用了全部两颗宝石——浣熊市市政厅即将开放",
+      "KR": "**보석 두 개를 모두 사용했습니다. 곧 라쿤 시티 시청이 열립니다**",
+      "TW": "兩顆寶石都用上了——浣熊市市政廳將不久開放"
+    }
+  },
+  "**Museum doors will open in 10 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "博物館の扉は10秒後に開きます",
+      "CN": "博物馆大门将在10秒后开启",
+      "KR": "**전시관 문이 10초 안에 열립니다**",
+      "TW": "博物館的大門將在10秒後打開"
+    }
+  },
+  "**Note: Mom disappeared somewhere and Dad went looking for her. He told me not to open the door to anyone until he returned**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "メモ：ママが行方不明になっているようで、パパは彼女を探しに出かけています。彼は誰もドアを開けないよう私に伝えていました",
+      "CN": "注：妈妈不知去了哪里，爸爸去找她了。他告诉我，在他回来之前不要给任何人开门",
+      "KR": "**참고: 엄마는 어디론가 사라졌고 아빠는 그녀를 찾으러 가셨습니다. 아빠께서 돌아오기 전까지 누구에게도 문을 열어주시면 안 된다고 하셨어요**",
+      "TW": "筆記：媽媽不知去了哪裡，爸爸正找她。他吩咐我在他回來之前，別開門給任何人"
+    }
+  },
+  "**Note: For now I place my dolls all over the museum. My mother will be happy when she sees them**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "メモ：今はお人形を博物館中に置いています。ママがそれらを見ると喜んでくれるでしょう",
+      "CN": "注：目前我把所有娃娃摆满了博物馆。妈妈看到它们一定会很开心",
+      "KR": "**참고: 저는 잠시 박물관 곳곳에 인형을 두겠습니다. 엄마께서 그걸 보시면 정말 기뻐하실 거예요**",
+      "TW": "筆記：目前我把娃娃放在博物館各處。媽媽看到時一定會很高興"
+    }
+  },
+  "**This lever may come in handy**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "このレバーが役に立つかもしれません",
+      "CN": "这个杠杆或许派得上用场",
+      "KR": "**이 레버가 요긴하게 쓰일 것 같아요**",
+      "TW": "這根槓桿也許會派上用場"
+    }
+  },
+  "**Museum window will open in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "博物館の窓は15秒後に開きます",
+      "CN": "博物馆窗户将在15秒后打开",
+      "KR": "**전시관 창문이 15초 안에 열립니다**",
+      "TW": "博物館的窗戶將在15秒後打開"
+    }
+  },
+  "**Seems like we need a crank to roll that door open**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうやら、あのドアを開けるにはクランクが必要らしい",
+      "CN": "看起来我们需要一个曲柄才能打开那扇门",
+      "KR": "드레스레어가 없으면 이 문을 열 수 없을 것 같네요",
+      "TW": "看來我們需要一個手搖柄才能打開那扇門"
+    }
+  },
+  "**Good thing we found one along the way... right?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "幸いにも道中で一つ見つけたんだ。…よね？",
+      "CN": "幸好我们在路上找到了一个...对吧？",
+      "KR": "길에서 하나를 찾아 다행이에요... 맞죠?",
+      "TW": "好險我們在路上找到了……對吧？"
+    }
+  },
+  "**10 seconds left to open the door**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒でドアが開くぞ",
+      "CN": "开门还剩10秒",
+      "KR": "문을 열 때까지 10초 남았습니다",
+      "TW": "距離門打開還有 10 秒"
+    }
+  },
+  "**You didn't crank the door open in time.**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "間に合わなかった！",
+      "CN": "你没有及时摇开那扇门。",
+      "KR": "시간 안에 문을 열지 못했습니다.",
+      "TW": "你沒能及時搖開那扇門。"
+    }
+  },
+  "**We found a battery**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バッテリーを発見したよ",
+      "CN": "我们发现了一个电池",
+      "KR": "배터리를 찾았습니다",
+      "TW": "我們找到了一個電池"
+    }
+  },
+  "**Defend here for 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここを15秒間守れ！",
+      "CN": "在此防守15秒",
+      "KR": "15초 동안 여기에서 방어하세요",
+      "TW": "在這裡守衛 15 秒"
+    }
+  },
+  "**Smells like there's a gas leak...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガス漏れしてる匂いがする…",
+      "CN": "好像有煤气泄漏的气味...",
+      "KR": "가스 누출 냄새가 나는군요...",
+      "TW": "聞起來好像有瓦斯洩漏……"
+    }
+  },
+  "**Oh no... Nemesis must be planning to blow up the gas station -- GET OUT OF HERE NOW!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "まずい…ネメシスが、ガスステーションを爆破しようとしているはずだ!! 速やかに退去せよ！",
+      "CN": "天哪...复仇女神似乎打算炸掉加油站——快离开这里！",
+      "KR": "저런... 네메시스가 주유소를 폭파하려고 하는 것이 분명합니다! 지금 나가셔야 합니다!",
+      "TW": "不好了…… Nemesis 顯然正打算引燃加油站——現在立刻離開！"
+    }
+  },
+  "**Door will open in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが20秒後に開きます",
+      "CN": "门将在20秒后打开",
+      "KR": "**문이 20초 후에 열립니다**",
+      "TW": "門將在20秒後開啟"
+    }
+  },
+  "**This entire place is a ticking timebomb**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この場所全体が爆発のリスクを抱えています",
+      "CN": "这个地方就是个定时炸弹",
+      "KR": "**이 장소 전체가 폭탄처럼 느껴집니다**",
+      "TW": "整間地方就像一顆定時炸彈！"
+    }
+  },
+  "**We need to find the train's steering wheel in 120 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "120秒以内に電車の操舵装置を見つけましょう",
+      "CN": "我们必须在120秒内找到火车的方向盘",
+      "KR": "**열차의 핸들을 120초 내에 찾아야 합니다**",
+      "TW": "我們需要在120秒內找到列車的轉向盤"
+    }
+  },
+  "**Train station door will open in 8 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "駅前のドアが8秒後に開きます",
+      "CN": "火车站大门将在8秒后打开",
+      "KR": "**역문에 8초 후에 열립니다**",
+      "TW": "車站門將在8秒後開啟"
+    }
+  },
+  "**Or else this whole place will blow up and we'll die**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あるいはこの場所全体が吹き飛び、我々は死んでしまう",
+      "CN": "否则这整片区域都会爆炸，我们全都完蛋了",
+      "KR": "**아니면 이 모든 곳이 폭발해서 우리가 죽을 수도 있습니다**",
+      "TW": "否則我們整個人都會被炸死！"
+    }
+  },
+  "**Nice job! The train will leave in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "いい仕事ですね！電車が20秒後に発車します",
+      "CN": "干得好！火车将在20秒后发车",
+      "KR": "**완벽한 일입니다! 20초 후에 열차가 나갈 예정입니다**",
+      "TW": "乾得好！列車將在20秒後離開"
+    }
+  },
+  "**We need to keep these zombies out of the train so we can escape the city**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "死屍を電車から遠ざけて、都市から脱出する必要があるんだ",
+      "CN": "我们需要挡住僵尸，不让它们登上火车，这样才能逃离这座城市",
+      "KR": "**이들이 열차에 들어가지 못하게 해야 합니다**",
+      "TW": "我們必須阻止那些殭屍上列車，然後才能逃離城市"
+    }
+  },
+  "**Damnit! The tunnel has been blown up!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "酷い！トンネルが爆破された！",
+      "CN": "该死！隧道被炸毁了！",
+      "KR": "**다행입니다! 터널이 폭발했습니다!**",
+      "TW": "該死！隧道被炸成了碎紙片！"
+    }
+  },
+  "**We're gonna have to take a different path**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "違うルートを通るしかない",
+      "CN": "我们得换条路走了",
+      "KR": "다른 경로를 따라야 할 것 같군",
+      "TW": "我們得換條路走"
+    }
+  },
+  "**Doors will close in 5 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後に扉が閉まります",
+      "CN": "门将在5秒后关闭",
+      "KR": "문이 5초 후에 닫힙니다",
+      "TW": "五秒後門將關閉"
+    }
+  },
+  "**The Nemesis has been incapacitated -- This is our chance!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネメシスを無力化した！今がチャンスだ！",
+      "CN": "复仇者已被制服——这是我们的机会！",
+      "KR": "네메시스가 제압되었습니다 -- 이제가 우리 기회입니다!",
+      "TW": "追殺者已被擊倒——現在正是好機會！"
+    }
+  },
+  "**Escape from that facility immediately -- We're going to blow it up with Nemesis in it!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "施設から逃げてすぐに撤退しよう。ネメシスを中に封じ込んで爆破する！",
+      "CN": "立即逃离该设施——我们要将它连同里面的复仇者一起炸毁！",
+      "KR": "시설에서 즉시 탈출하세요! 네메시스가 갇힌 채로 폭파할 예정입니다!",
+      "TW": "立刻逃出那棟設施，我們要用追殺者當炸藥引信。"
+    }
+  },
+  "**Shop doors will open in 10 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ショップのドアが10秒後に開きます",
+      "CN": "**商店大门将在10秒后开启**",
+      "KR": "상점 문이 10초 후에 열립니다",
+      "TW": "商店大門將在 10 秒後開啟"
+    }
+  },
+  "**We found a Combat Shotgun**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コンバットショットガンを見つけた",
+      "CN": "**我们找到了一把战斗霰弹枪**",
+      "KR": "전투용 산탄총을 찾았습니다",
+      "TW": "我們找到了一把戰鬥霰彈槍"
+    }
+  },
+  "**Shotgun is out of ammo**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ショットガンの弾切れだ",
+      "CN": "**霰弹枪没弹药了**",
+      "KR": "산탄총 탄약이 없습니다",
+      "TW": "霰彈槍沒彈藥了"
+    }
+  },
+  "**We found a crank**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "クランクを見つけた",
+      "CN": "**我们找到了一个曲柄**",
+      "KR": "크랭크를 찾았습니다",
+      "TW": "我們找到了一個曲柄"
+    }
+  },
+  "**We used the crank -- Defend here until the door opens**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "クランクを使った -- ドアが開くまでここで防衛しろ",
+      "CN": "**我们使用了曲柄 -- 在这里防守直到门打开**",
+      "KR": "크랭크를 사용했습니다 -- 문이 열릴 때까지 이곳을 지키세요",
+      "TW": "我們使用了曲柄 -- 在此防守直到大門開啟"
+    }
+  },
+  "**You have 120 seconds to extract the battery out of the compartment**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コンパートメントからバッテリーを取り出すまで120秒だ",
+      "CN": "**你有120秒时间从隔间取出电池**",
+      "KR": "배터리를 격실에서 꺼내기 위해 120초가 있습니다",
+      "TW": "你有 120 秒從艙室取出電池"
+    }
+  },
+  "**We need to be fast before Nemesis catches up to us**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ネメシスが追いつく前に急がないと",
+      "CN": "**我们得赶快，不然追踪者会追上我们**",
+      "KR": "네메시스가 따라잡기 전에 서둘러야 합니다",
+      "TW": "我們必須動作快，在追跡者趕上我們之前"
+    }
+  },
+  "**We found our escape vehicle! The train will leave in 35 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出用の乗り物を見つけた！列車が35秒後に発車する",
+      "CN": "**我们找到了逃生交通工具！列车将在35秒后发车**",
+      "KR": "탈출 수단을 찾았습니다! 열차가 35초 후에 출발합니다",
+      "TW": "我們找到了逃生載具！火車將在 35 秒後開走"
+    }
+  },
+  "**Train will leave in 10 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**10秒後に列車が発車します**",
+      "CN": "火车将在10秒后出发",
+      "KR": "**10초 후 열차가 출발합니다**",
+      "TW": "火車將在 10 秒後開走"
+    }
+  },
+  "**Normal Mode - Ending A cleared!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ノーマルモード - エンディングA クリア！**",
+      "CN": "普通模式 - 结局A通关！",
+      "KR": "**노말 모드 - 엔딩 A 클리어!**",
+      "TW": "普通模式 - 結局 A 通關！"
+    }
+  },
+  "**Normal Mode completed! Moving onto Hard Mode...**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ノーマルモード クリア！ハードモードへ移行します...**",
+      "CN": "普通模式完成！进入困难模式...",
+      "KR": "**노말 모드 완료! 하드 모드로 이동합니다...**",
+      "TW": "普通模式完成！進入困難模式..."
+    }
+  },
+  "**Admin has selected Akumu Mode as next stage**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**管理者が次のステージとして悪夢モードを選択しました**",
+      "CN": "管理员已选择噩梦模式作为下一阶段",
+      "KR": "**관리자가 악몽 모드를 다음 스테이지로 선택했습니다**",
+      "TW": "管理員已選擇惡夢模式作為下一關卡"
+    }
+  },
+  "**ADMIN PRESSED KILL ALL BUTTON**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**管理者が全員キルボタンを押しました**",
+      "CN": "管理员按下了全灭按钮",
+      "KR": "**관리자가 모두 죽이기 버튼을 눌렀습니다**",
+      "TW": "管理員按下了全滅按鈕"
+    }
+  },
+  "**Version 0.2.1.1**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**Admin has selected Hard Mode as next stage**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**Gate will open in 14 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**Books shop door will open in 17 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**Note: This zombie outbreak is similar to the one at Spencer Mansion. so I think theyre somehow related. I send you a full countdown soon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**We found the Survival Knife**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**60 seconds left until the explosion**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**One power source has been restored -- We need more!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**That's it! -- Try to operate the control panel now**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**The sewer will open in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**You are too slow**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**looks like we hurt him very well**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**Service door will open in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**The sewer door will open in 10 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**We need to wait until the steam turns off**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**Looks like the virus is mutating fastest here. We need to get out of here as soon as possible**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**The sewer door will open in 30 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**The door to the boiler room will open in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**Need to look around. maybe we manage to find something useful here**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**The door to the factory will open in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "**Nemesis is in its desperation phase**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

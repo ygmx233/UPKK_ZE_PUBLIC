@@ -1,0 +1,2022 @@
+{
+  "New quiz set prepared.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "新しいクイズセットが準備されました。",
+      "CN": "新的问答集已准备就绪。",
+      "KR": "새 퀴즈 세트를 준비했습니다.",
+      "TW": "已準備好新的測驗套組。"
+    }
+  },
+  "** VERSION 1.2 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**バージョン 1.2**",
+      "CN": "** 版本 1.2 **",
+      "KR": "** 버전 1.2 **",
+      "TW": "** 版本 1.2 **"
+    }
+  },
+  "<| QUIZ RULES -  ANSWER EACH QUESTION |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| CORRECT ANSWER - NO DAMAGE |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| WRONG ANSWER - 20 HP DAMAGE |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| NO PICK - 40 HP DAMAGE |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "[TIMER] Run started.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[タイマー] ルーレット開始。",
+      "CN": "[计时器] 运行开始。",
+      "KR": "[타이머] 런 시작.",
+      "TW": "[計時器] 挑戰已開始。"
+    }
+  },
+  "<| DOOR OPENING IN 15 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| DOOR OPEN |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| WALL BREAK IN 15 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| WALL BROKEN |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Stage 1: choose A/B/C.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1：A/B/Cを選択。",
+      "CN": "第1阶段：选择A/B/C。",
+      "KR": "스테이지 1: A/B/C 중 선택.",
+      "TW": "第一階段：選擇 A/B/C。"
+    }
+  },
+  "Stage 1: correct was B. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1：正解はB。不正解でHP -20。未選択でHP -40。",
+      "CN": "第1阶段：正确答案为B。答错扣20 HP。未选扣40 HP。",
+      "KR": "스테이지 1: 정답은 B입니다. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "第一階段：正確答案為 B。答錯扣 20 HP。未選擇扣 40 HP。"
+    }
+  },
+  "<| DOOR OPENING IN 20 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Stage 2: choose A/B/C.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2：A/B/Cを選択。",
+      "CN": "第2阶段：选择A/B/C。",
+      "KR": "스테이지 2: A/B/C 중 선택.",
+      "TW": "第二階段：選擇 A/B/C。"
+    }
+  },
+  "Stage 2: correct was A. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2：正解はA。不正解でHP -20。未選択でHP -40。",
+      "CN": "第2阶段：正确答案为A。答错扣20 HP。未选扣40 HP。",
+      "KR": "스테이지 2: 정답은 A입니다. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "第二階段：正確答案為 A。答錯扣 20 HP。未選擇扣 40 HP。"
+    }
+  },
+  "<| HUMAN TELEPORT IN 5 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| ZOMBIE TELEPORT IN 5 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Stage 3: choose A/B/C.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3：A/B/Cを選択。",
+      "CN": "第3阶段：选择A/B/C。",
+      "KR": "스테이지 3: A/B/C 중 선택.",
+      "TW": "第三階段：選擇 A/B/C。"
+    }
+  },
+  "Stage 3: correct was C. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第3ステージ：正解はC。不正解で-20HP。未選択で-40HP。",
+      "CN": "第3关：正确答案为C。错误-20HP。未选-40HP。",
+      "KR": "3스테이지: 정답은 C. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "第3關：正確選項為C。答錯扣20 HP。未作答扣40 HP。"
+    }
+  },
+  "<| DOOR OPEN IN 15 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| WALL BREAK IN 10 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Stage 4: choose A/B/C.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第4ステージ：A/B/Cから選択。",
+      "CN": "第4关：选择A/B/C。",
+      "KR": "4스테이지: A/B/C 중 하나를 선택하세요.",
+      "TW": "第4關：請選擇A/B/C。"
+    }
+  },
+  "Stage 4: correct was B. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第4ステージ：正解はB。不正解で-20HP。未選択で-40HP。",
+      "CN": "第4关：正确答案为B。错误-20HP。未选-40HP。",
+      "KR": "4스테이지: 정답은 B. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "第4關：正確選項為B。答錯扣20 HP。未作答扣40 HP。"
+    }
+  },
+  "<| PLATFORM LEAVE IN 15 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| JUMP TO SIDE |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| DOOR OPEN 20 SECONDS|>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| PLAY YOUR CARDS RIGHT |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| PICK IF NEXT CARD WILL BE HIGHER OR LOWER TO PREVIOUS CARD |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| GUESS WRONG = 15 HP DAMAGE |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| GUESS RIGHT = 12 HP HEAL |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| NO PICK = 20 HP DAMAGE |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| PYCR STARTS IN 10 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Play Your Cards Right: START!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイ・ユーア・カードズ・ライト：スタート！",
+      "CN": "牌运大挑战：开始！",
+      "KR": "카드 게임: 시작!",
+      "TW": "牌局風雲：開始！"
+    }
+  },
+  "<| NEXT CARD - CHOOSE |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Play Your Cards Right: COMPLETE.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイ・ユーア・カードズ・ライト：クリア。",
+      "CN": "牌运大挑战：完成。",
+      "KR": "카드 게임: 완료.",
+      "TW": "牌局風雲：完成。"
+    }
+  },
+  "<| DOOR OPEN 10 SECONDS|>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| TARGET RANGE - SHOOT 8 TARGETS TO OPEN DOOR|>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Targets: 8. You have 8s.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ターゲット数：8。手持ちは8枚。",
+      "CN": "目标数：8。你的手牌有8。",
+      "KR": "목표수: 8. 보유 카드는 8입니다.",
+      "TW": "目標數：8。你持有8張牌。"
+    }
+  },
+  "[TARGET RANGE] Your aim has the commitment issues of a flaky Wi-Fi signal.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] あなたの aiming は安定しないWi-Fi回線のように信頼性に欠ける。",
+      "CN": "[瞄准范围] 你的准星像不稳定的Wi-Fi信号一样，总爱玩消失。",
+      "KR": "[조준 범위] 당신의 조준 감은 불안정한 와이파이 신호만큼 신뢰가 없습니다.",
+      "TW": "[TARGET RANGE] 你的瞄準穩定度，不如不穩定的 Wi-Fi 訊號。"
+    }
+  },
+  "[TARGET RANGE] Your crosshair placement is in a long-distance relationship.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] あなたのクロスヘアの配置は、遠距離恋愛状態にある。",
+      "CN": "[瞄准范围] 你的准星定位处于异地恋模式。",
+      "KR": "[조준 범위] 당신의 크로스해어 위치는 장거리 관계인듯합니다.",
+      "TW": "[TARGET RANGE] 你的準星定位，跟目標處於異地戀。"
+    }
+  },
+  "[TARGET RANGE] I’ve seen AFKs land more hits.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] AFKでもより多くのヒットを見てきた。",
+      "CN": "[目标射程] 我见过挂机的人造成的伤害更高。",
+      "KR": "[사격장] 애팩이 더 많은 타격을 입힌 것을 봤다.",
+      "TW": "[目標範圍] 我見过的挂机玩家擊中的次數都更多。"
+    }
+  },
+  "[TARGET RANGE] Those shots had zero intention.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] その shots には意図がゼロだった。",
+      "CN": "[目标射程] 那些射击毫无准心。",
+      "KR": "[사격장] 그 명중에는 의도가 전혀 없었다.",
+      "TW": "[目標範圍] 那些射擊完全沒有準頭。"
+    }
+  },
+  "Target Range cleared.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ターゲットレンジクリア。",
+      "CN": "目标射程挑战完成。",
+      "KR": "사격장 클리어.",
+      "TW": "瞄準訓練場已清空。"
+    }
+  },
+  "<| WALL BREAK 20 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Stage 5: choose A/B/C.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ5：A/B/Cを選択。",
+      "CN": "第5关：选择 A/B/C。",
+      "KR": "5단계: A/B/C 선택.",
+      "TW": "階段 5：選擇 A/B/C。"
+    }
+  },
+  "Stage 5: correct was A. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ5：正解はA。不正解でHP-20、未選択でHP-40。",
+      "CN": "第5关：正确答案为 A。答错扣20点HP。未作答扣40点HP。",
+      "KR": "5단계: 정답은 A. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "階段 5：正確答案為 A。錯誤扣 20 HP。未選擇扣 40 HP。"
+    }
+  },
+  "<| DOOR OPEN IN 20 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| WALL BREAK 30 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| GET IN QUICK |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| SHOWDOWN - HUMANS vs ZOMBIES |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| SHOWDOWN - HIGHEST SCORE WINS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<| SHOWDOWN START IN 10 SECONDS |>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "Showdown starting...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "showdown 開始...",
+      "CN": "对决即将开始……",
+      "KR": "결승전 시작...",
+      "TW": "對決即將開始……"
+    }
+  },
+  "[SHOWDOWN] Question 1 started.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[showdown] 問題1 開始。",
+      "CN": "[对决] 第1题开始。",
+      "KR": "[결승전] 질문 1 시작.",
+      "TW": "[對決] 第 1 題已開始。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: B. Humans +3, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[showdown] 正解はB。人間+3、ゾンビ+0。",
+      "CN": "[对决] 正确答案：B。人类+3，僵尸+0。",
+      "KR": "[결승전] 정답: B. 인간 +3, 좀비 +0.",
+      "TW": "[對決] 正確答案：B。人類 +3，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Question 2 started.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 質問2開始。",
+      "CN": "[对决] 第2题开始。",
+      "KR": "[SHOWDOWN] 질문 2 시작.",
+      "TW": "【對決】問題 2 開始。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: C. Humans +2, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 正解はC。人間+2、ゾンビ+0。",
+      "CN": "[对决] 正确答案：C。人类+2，僵尸+0。",
+      "KR": "[SHOWDOWN] 정답: C. 인간 +2, 좀비 +0.",
+      "TW": "【對決】正確答案：C。人類 +2，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Question 3 started.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 質問3開始。",
+      "CN": "[对决] 第3题开始。",
+      "KR": "[SHOWDOWN] 질문 3 시작.",
+      "TW": "【對決】問題 3 開始。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: B. Humans +4, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 正解はB。人間+4、ゾンビ+0。",
+      "CN": "[对决] 正确答案：B。人类+4，僵尸+0。",
+      "KR": "[SHOWDOWN] 정답: B. 인간 +4, 좀비 +0.",
+      "TW": "【對決】正確答案：B。人類 +4，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Question 4 started.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 質問4開始。",
+      "CN": "[对决] 第4题开始。",
+      "KR": "[SHOWDOWN] 질문 4 시작.",
+      "TW": "【對決】問題 4 開始。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: A. Humans +1, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 正解はA。人間+1、ゾンビ+0。",
+      "CN": "[对决] 正确答案：A。人类+1，僵尸+0。",
+      "KR": "[SHOWDOWN] 정답: A. 인간 +1, 좀비 +0.",
+      "TW": "【對決】正確答案：A。人類 +1，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Question 5 started.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 質問5開始。",
+      "CN": "[对决] 第5题开始。",
+      "KR": "[SHOWDOWN] 질문 5 시작.",
+      "TW": "【對決】問題 5 開始。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: B. Humans +1, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 正解はB。人間+1、ゾンビ+0。",
+      "CN": "[对决] 正确答案：B。人类+1，僵尸+0。",
+      "KR": "[SHOWDOWN] 정답: B. 인간 +1, 좀비 +0.",
+      "TW": "【對決】正確答案：B。人類 +1，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Question 6 started.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 第6問開始。",
+      "CN": "[SHOWDOWN] 第6题开始。",
+      "KR": "[SHOWDOWN] 6번 문제 시작.",
+      "TW": "[SHOWDOWN] 第6題開始。"
+    }
+  },
+  "[SHOWDOWN] Question 7 started.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 第7問開始。",
+      "CN": "[SHOWDOWN] 第7题开始。",
+      "KR": "[SHOWDOWN] 7번 문제 시작.",
+      "TW": "[SHOWDOWN] 第7題開始。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: C. Humans +1, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 正解：C。人間+1、ゾンビ+0。",
+      "CN": "[SHOWDOWN] 正确答案：C。人类+1，丧尸+0。",
+      "KR": "[SHOWDOWN] 정답: C. 인간 +1, 좀비 +0.",
+      "TW": "[SHOWDOWN] 正確答案：C。人類 +1，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Humans win! H:13 Z:0": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 人間の勝利！ H:13 Z:0",
+      "CN": "[SHOWDOWN] 人类获胜！H:13 Z:0",
+      "KR": "[SHOWDOWN] 인간 승리! H:13 Z:0",
+      "TW": "[SHOWDOWN] 人類獲勝！人：13 殭：0"
+    }
+  },
+  "[SHOWDOWN][MVP] Humans MVP: 男人小黑 - 5 correct": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[SHOWDOWN][MVP] Humans MVP: 男人小黑 - 5 correct",
+      "JP": "[SHOWDOWN][MVP] 人間部門MVP：男の子コクロ - 正解5問",
+      "CN": "",
+      "KR": "[SHOWDOWN][MVP] 인간 MVP: 男性 다크클로더 - 5 정답",
+      "TW": "[SHOWDOWN][MVP] 人類MVP：男人小黑 - 答對5題"
+    }
+  },
+  "[SHOWDOWN][MVP] Zombies MVP: none": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN][MVP] ゾンビ部門MVP：なし",
+      "CN": "[SHOWDOWN][MVP] 丧尸MVP：无",
+      "KR": "[SHOWDOWN][MVP] 좀비 MVP: 없음",
+      "TW": "[SHOWDOWN][MVP] 殭屍MVP：無"
+    }
+  },
+  "[FINAL] === Combined awards ===": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[FINAL] === 総合表彰 ===",
+      "CN": "[FINAL] === 综合奖项 ===",
+      "KR": "[FINAL] === 통합 상금 ===",
+      "TW": "[FINAL] === 合併獎項 ==="
+    }
+  },
+  "[TIMER] Run finished: 17:31.296": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TIMER] 終了：17:31.296",
+      "CN": "[TIMER] 计时结束：17:31.296",
+      "KR": "[TIMER] 런 종료: 17:31.296",
+      "TW": "[TIMER] 跑畢時間：17:31.296"
+    }
+  },
+  "Stage 3: correct was A. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3：正解はA。誤答でHP-20、未回答でHP-40。",
+      "CN": "第3关：正确答案为A。答错扣20点生命值。未选择扣40点生命值。",
+      "KR": "스테이지 3: 정답은 A. 오답 시 -20 HP. 미선택 시 -40 HP.",
+      "TW": "第三關：正確答案是 A。選錯扣 20 HP。不選扣 40 HP。"
+    }
+  },
+  "[TARGET RANGE] Your trigger discipline is great. Aim discipline? Not so much.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] 引き金への配慮は素晴らしいね。でも、照準のコントロールはどうだろう？",
+      "CN": "[目标范围] 你的开火纪律很棒。瞄准纪律？就呵呵了。",
+      "KR": "[타겟 레인지] 유도 장치는 훌륭하군. 조준 태도는? 그렇진 않아.",
+      "TW": "[目標區間] 你的發射紀律很棒，但瞄準紀律呢？就不一定了。"
+    }
+  },
+  "Stage 5: correct was C. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ5：正解はC。誤答でHP-20、未回答でHP-40。",
+      "CN": "第5关：正确答案为C。错误答案扣20点HP。未选择扣40点HP。",
+      "KR": "스테이지 5: 정답은 C. 오답 시 -20 HP. 미선택 시 -40 HP.",
+      "TW": "第五關：正確答案是 C。選錯扣 20 HP。不選扣 40 HP。"
+    }
+  },
+  "Stage 6: choose A/B/C.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ6：A/B/Cを選択。",
+      "CN": "第6关：选择A/B/C。",
+      "KR": "스테이지 6: A/B/C 선택.",
+      "TW": "第六關：可選 A/B/C。"
+    }
+  },
+  "Stage 6: correct was B. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ6：正解はB。誤答でHP-20、未回答でHP-40。",
+      "CN": "第6关：正确答案为B。错误答案扣20点HP。未选择扣40点HP。",
+      "KR": "스테이지 6: 정답은 B. 오답 시 -20 HP. 미선택 시 -40 HP.",
+      "TW": "第六關：正確答案是 B。選錯扣 20 HP。不選扣 40 HP。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: C. Humans +5, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[決着戦] 正解：C。人間+5、ゾンビ+0。",
+      "CN": "[终极对决] 正确答案：C。人类+5，僵尸+0。",
+      "KR": "[쇼다운] 정답: C. 인간군 +5, 좀비군 +0.",
+      "TW": "[決戰] 正確答案：C。人類 +5，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: A. Humans +0, Zombies +1.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[決着戦] 正解：A。人間+0、ゾンビ+1。",
+      "CN": "[终极对决] 正确答案：A。人类+0，僵尸+1。",
+      "KR": "[쇼다운] 정답: A. 인간군 +0, 좀비군 +1.",
+      "TW": "[決戰] 正確答案：A。人類 +0，殭屍 +1。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: B. Humans +0, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[決着戦] 正解：B。人間+0、ゾンビ+0。",
+      "CN": "[终极对决] 正确答案：B。人类+0，僵尸+0。",
+      "KR": "[쇼다운] 정답: B. 인간군 +0, 좀비군 +0.",
+      "TW": "[決戰] 正確答案：B。人類 +0，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: B. Humans +1, Zombies +1.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 正解：B。人類 +1、ゾンビ +1",
+      "CN": "[终极对决] 正确答案：B。人类+1，僵尸+1。",
+      "KR": "[SHOWDOWN] 정답: B. 인간 +1, 좀비 +1.",
+      "TW": "[對決] 正確答案：B。人類+1，殭屍+1。"
+    }
+  },
+  "[SHOWDOWN] Humans win! H:9 Z:2": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 人類の勝利！ H:9 Z:2",
+      "CN": "[最终对决] 人类胜利！H:9 Z:2",
+      "KR": "[SHOWDOWN] 인간 승리! H:9 Z:2",
+      "TW": "[對決] 人類獲勝！H:9 Z:2"
+    }
+  },
+  "[SHOWDOWN][MVP] Humans MVP: 怡 - 2 correct": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[SHOWDOWN][MVP] Humans MVP: 怡 - 2 correct",
+      "JP": "[SHOWDOWN][MVP] 人類MVP: 怡 - 正解数 2",
+      "CN": "",
+      "KR": "[SHOWDOWN][MVP] 인간 MVP: 怡 - 2회 정답",
+      "TW": "[對決][MVP] 人類MVP：怡 - 2題正確"
+    }
+  },
+  "[SHOWDOWN][MVP] Zombies MVP: 桜島麻衣 — 1 correct": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[SHOWDOWN][MVP] Zombies MVP: Maaya Sakurajima — 1 correct",
+      "JP": "[SHOWDOWN][MVP] ゾンビMVP: 桜島麻衣 — 正解数 1",
+      "CN": "",
+      "KR": "[SHOWDOWN][MVP] 좀비 MVP: 桜島麻衣 — 1회 정답",
+      "TW": "[對決][MVP] 殭屍MVP：桜島麻衣 — 1題正確"
+    }
+  },
+  "[TIMER] Run finished: 16:13.328": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TIMER] 走行終了：16:13.328",
+      "CN": "[计时器] 跑步结束：16:13.328",
+      "KR": "[TIMER] 런 종료: 16:13.328",
+      "TW": "[計時器] 跑完時間：16:13.328"
+    }
+  },
+  "** VERSION 1.3 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** バージョン 1.3 **",
+      "CN": "** 版本 1.3 **",
+      "KR": "** 버전 1.3 **",
+      "TW": "** 版本 1.3 **"
+    }
+  },
+  "Stage 1: correct was C. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1：正解は C。不正解 -20 HP。未選択 -40 HP",
+      "CN": "第1阶段：正确答案为C。答错扣20HP。不选扣40HP。",
+      "KR": "Stage 1: 정답은 C였습니다. 오답 -20 HP. 선택 안 함 -40 HP.",
+      "TW": "關卡1：正確答案為C。答錯-20 HP。未選擇-40 HP。"
+    }
+  },
+  "[TARGET RANGE] Your bullets are sightseeing in the next map.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] あなたの弾は次のマップで見物されています。",
+      "CN": "[目标范围] 你的子弹正在下一个地图观光。",
+      "KR": "[TARGET RANGE] 당신의 총알이 다음 맵에서 관광 중입니다.",
+      "TW": "[目標範圍] 你的子彈在下一個地圖進行觀光。"
+    }
+  },
+  "Stage 2: correct was C. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2：正解はC。不正解でHP-20、未回答でHP-40。",
+      "CN": "第2阶段：正确答案为C。答错扣20HP。不选扣40HP。",
+      "KR": "스테이지 2: 정답은 C. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "第2關：正確答案為C。答錯扣20HP。未選擇扣40HP。"
+    }
+  },
+  "Stage 3: correct was B. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3：正解はB。不正解でHP-20、未回答でHP-40。",
+      "CN": "第3阶段：正确答案为B。答错扣20HP。不选扣40HP。",
+      "KR": "스테이지 3: 정답은 B. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "第3關：正確答案為B。答錯扣20HP。未選擇扣40HP。"
+    }
+  },
+  "[TARGET RANGE] Your bullets are socially distancing from the targets.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] あなたの弾はターゲットから社会的距離を保っていますね。",
+      "CN": "[目标范围] 你的子弹与目标保持着社交距离。",
+      "KR": "[사격 범위] 당신의 총알이 목표물과 사회적 거리를 두고 있네요.",
+      "TW": "[目標範圍] 您的子彈與目標保持了社交距離。"
+    }
+  },
+  "[TARGET RANGE] You’re pre-firing the air. The air is winning.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 空を先に撃ってますか？空が勝ちました。",
+      "CN": "[攻击范围] 你在预射空气。空气正在胜利。",
+      "KR": "[사격 범위] 당신은 공기를 먼저 쏘고 있습니다. 공기가 이기고 있군요.",
+      "TW": "[目標範圍] 您在空氣中預射。空氣勝出。"
+    }
+  },
+  "[TARGET RANGE] Ever considered melee?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 接近戦を考えてみたことありますか？",
+      "CN": "[攻击范围] 考虑过近战吗？",
+      "KR": "[사격 범위] 근접전을 고려해 본 적은 있으신가요?",
+      "TW": "[目標範圍] 曾考慮過近身格鬥嗎？"
+    }
+  },
+  "Stage 5: correct was B. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ5：正解はB。不正解でHP-20、未回答でHP-40。",
+      "CN": "第5阶段：正确答案是B。选错 -20 HP。不选 -40 HP。",
+      "KR": "스테이지 5: 정답은 B. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "第5關：正確答案為B。答錯扣20HP。未選擇扣40HP。"
+    }
+  },
+  "Stage 6: correct was C. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ6：正解はC。不正解でHP-20、未回答でHP-40。",
+      "CN": "第6阶段：正确答案是C。选错 -20 HP。不选 -40 HP。",
+      "KR": "스테이지 6: 정답은 C. 오답 시 -20 HP, 미선택 시 -40 HP.",
+      "TW": "第6關：正確答案為C。答錯扣20HP。未選擇扣40HP。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: C. Humans +1, Zombies +3.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[SHOWDOWN] 正解：C。人間+1、ゾンビ+3。",
+      "CN": "[最终对决] 正确答案：C。人类 +1，僵尸 +3。",
+      "KR": "[ showdown ] 정답: C. 인간 +1, 좀비 +3.",
+      "TW": "[最終對決] 正確答案：C。人類+1，殭屍+3。"
+    }
+  },
+  "Stage 2: correct was B. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2: 正解はB。誤答でHP -20、未選択でHP -40。",
+      "CN": "第2阶段：正确答案是B。选错 -20 HP。不选 -40 HP。",
+      "KR": "2단계: 정답은 B. 오답 시 -20 HP. 무선택 시 -40 HP.",
+      "TW": "第2關：正確答案為 B。答錯扣 20 HP。未作答扣 40 HP。"
+    }
+  },
+  "[TARGET RANGE] I’ve seen potatoes with better recoil control.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[標的範囲] じゃがいもの方が反動制御が上手いと思うよ。",
+      "CN": "[攻击范围] 我见过后坐力控制得更好的土豆。",
+      "KR": "[타겟 레인지] 감자보다 사격 반동이 덜한 적을 본 적이 없네.",
+      "TW": "[射擊場] 我見過後坐力控制得比馬鈴薯還好的槍。"
+    }
+  },
+  "[TARGET RANGE] Your bullets are allergic to center mass.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[標的範囲] お前の弾は、中心部位にアレルギーがあるらしい。",
+      "CN": "[攻击范围] 你的子弹对躯干中心有过敏反应。",
+      "KR": "[타겟 레인지] 너의 총알은 관통에 알레르기가 있는 모양이다.",
+      "TW": "[射擊場] 你的子彈對軀幹中心區域過敏。"
+    }
+  },
+  "[TARGET RANGE] You just invented negative headshots.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[標的範囲] お前はまさに『ノーヘッドショット』を創始したな。",
+      "CN": "[目标范围] 你刚刚发明了反向爆头。",
+      "KR": "[타겟 레인지] 너는 음수 헤드샷을 발명했군.",
+      "TW": "[射擊場] 你剛發明了負數爆頭。"
+    }
+  },
+  "[TARGET RANGE] You missed so hard the target gained confidence.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[標的範囲] 見損ない方が半端なくて、標的が自信を取り戻してしまった。",
+      "CN": "[目标范围] 你射得太离谱，靶子都对自己产生信心了。",
+      "KR": "[타겟 레인지] 너무 빗나가서 표적이 자신감을 얻었어.",
+      "TW": "[射擊場] 你瞄得這麼離譜，靶子都變得有自信了。"
+    }
+  },
+  "[TARGET RANGE] Stop flinching—it's not the targets shooting at you.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[標的範囲] 小刻みに震えるなよ——撃っているのはお前じゃない。",
+      "CN": "[目标范围] 别畏缩——又不是靶子在射你。",
+      "KR": "[타겟 레인지] 오줌 싸지 마—표적이 총을 쏘는 게 아니야.",
+      "TW": "[射擊場] 別躲了——又不是靶子在打你。"
+    }
+  },
+  "[TARGET RANGE] Those weren’t warning shots. That was all you had.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[標的範囲] それはお注意一発じゃなかった。残弾はそれだけだったんだ。",
+      "CN": "[目标范围] 那些不是示警射击。那已经是你所有的弹药了。",
+      "KR": "[타겟 레인지] 경고 사격이 아니었어. 너는 그거밖에 없었지.",
+      "TW": "[射擊場] 那不是警告開火。那是你所有的子彈了。"
+    }
+  },
+  "[TARGET RANGE] That was suppressing fire against your own dignity.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[標的範囲] それはお前の尊厳を徹底的に抑え込む射撃だったな。",
+      "CN": "[目标范围] 你那叫对尊严进行压制火力。",
+      "KR": "[타겟 레인지] 그것은 너의 자존심에 대한 진압 사격이었어.",
+      "TW": "[射擊場] 那叫對你自己的尊嚴進行壓制射擊。"
+    }
+  },
+  "[TARGET RANGE] Even stormtroopers are laughing.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標距離] 嵐の弾丸も笑ってるぞ。",
+      "CN": "[目标范围] 连帝国冲锋队都在笑你。",
+      "KR": "[목표 범위] 스톰트루퍼들이 웃고 있어요.",
+      "TW": "[目標距離] 連風暴兵都在笑。"
+    }
+  },
+  "[TARGET RANGE] Missed it. Try shooting the targets, not the walls.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標距離] 外れたな。壁じゃなくターゲットを撃て。",
+      "CN": "[目标范围] 打偏了。试着射靶子，而不是墙壁。",
+      "KR": "[목표 범위] 놓쳤네요. 벽이 아닌 과녁을 쏘세요.",
+      "TW": "[目標距離] 沒打中。試著射擊目標，而不是牆壁。"
+    }
+  },
+  "[TARGET RANGE] You treat hitboxes like conspiracy theories.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標距離] お前のヒットボックスは陰謀論扱いか？",
+      "CN": "[目标范围] 你把命中判定箱当成阴谋论来看待。",
+      "KR": "[목표 범위] 히트박스를 음모론 취급하시네요.",
+      "TW": "[目標距離] 你把碰撞箱當作陰謀理論了。"
+    }
+  },
+  "[TARGET RANGE] You warm up sometime today or?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標距離] 今日中にウォームアップ終わるのか？",
+      "CN": "[目标范围] 你今天有热身吗？",
+      "KR": "[목표 범위] 오늘따라 타격감이 없으신가요?",
+      "TW": "[目標距離] 你今天到底暖不暖機？"
+    }
+  },
+  "[TARGET RANGE] Try aiming at the target, not your future regrets.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標距離] 未来の後悔じゃなく、ターゲットを目がけて撃て。",
+      "CN": "[目标范围] 试着瞄准靶子，别瞄准你未来的后悔。",
+      "KR": "[목표 범위] 과녁을 노리세요. 장래의 후회는 쏘지 마시고.",
+      "TW": "[目標距離] 試著瞄準目標，而不是你將來的懊悔。"
+    }
+  },
+  "[TARGET RANGE] You’re flicking like you’re swatting flies.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標距離] お前のフリックはハエを払う感じだぞ。",
+      "CN": "[目标范围] 你的甩枪动作像是在拍蚊子。",
+      "KR": "[목표_RANGE] 파리 떼를 몰아치는 듯한 플리킹이시네요.",
+      "TW": "[目標距離] 你的轉槍像是要拍蒼蠅。"
+    }
+  },
+  "[TARGET RANGE] Your aim is so shaky I’m offering it a chair.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標距離] お前の aiming が揺れすぎて、椅子を貸してあげたくなる。",
+      "CN": "[目标范围] 你的准星抖得这么厉害，我都想给它搬把椅子。",
+      "KR": "[목표_RANGE] 조준기가 너무 떨려서 의자를 드리고 싶을 지경입니다.",
+      "TW": "[目標距離] 你的準度抖到我都要給它一張椅子。"
+    }
+  },
+  "[TARGET RANGE] If missing was a rank, you’d be Global.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標距離] 外れがランクなら、お前はGlobalだろ。",
+      "CN": "[目标范围] 如果空枪算等级，你早就全球旗了。",
+      "KR": "[목표_RANGE] 실력이 '글로벌'이라면 빠뜨리는 것도 명맥이 통하겠군요.",
+      "TW": "[目標距離] 如果漏射能算階級，你早就全球精英了。"
+    }
+  },
+  "[TARGET RANGE] That miss had confidence though. Unjustified.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] 外れたけど自信はあるよ。根拠はないけど。\n[ターゲットレンジ] 外れたけど、やる気は十分だ。根拠はないに等しいが。",
+      "CN": "[目标范围] 那发空枪还挺自信。虽然没道理。",
+      "KR": "[타겟 범위] 저 미스는 자기만족이었지. 근거 없이.",
+      "TW": "[目標範圍] 那發空槍倒是挺有自信的，完全是無端猜測。"
+    }
+  },
+  "[TARGET RANGE] At least the wall’s getting some attention.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] せめて壁は注目されている。\n[ターゲットレンジ] ま、壁には注目が集まっているようだ。",
+      "CN": "[目标范围] 至少墙壁得到了你的关注。",
+      "KR": "[타겟 범위] 어쨌든 벽은 주목을 받고 있어.",
+      "TW": "[目標範圍] 總算牆壁有受到一些關注了。"
+    }
+  },
+  "[TARGET RANGE] Bots are sending you coaching offers.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] ボットからコーチングのオファーが届いている。\n[ターゲットレンジ] ボットからコーチングのオファーが届いてるぞ。",
+      "CN": "[目标范围] 机器人都在向你发送教练邀请。",
+      "KR": "[타겟 범위] 봇들이 당신에게 코칭 제안을 보내고 있어.",
+      "TW": "[目標範圍] 機器人正在發送你的陪練邀請。"
+    }
+  },
+  "[TARGET RANGE] You’re tapping like you’re afraid of the gun.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] 銃を恐れているかのようにタップしている。\n[ターゲットレンジ] 銃が怖いのか、 tapping がチープだぞ。",
+      "CN": "[目标区域] 你的点击动作显得像是在害怕这把枪。",
+      "KR": "[타겟 범위] 권총이 무서운 것처럼 클릭하고 있어.",
+      "TW": "[目標範圍] 你射擊的速度好像怕槍會壞掉似的。"
+    }
+  },
+  "[TARGET RANGE] You’re aiming where the targets used to be… in another timeline.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] 的があった場所に向けて照準を合わせている…違うタイムラインだが。\n[ターゲットレンジ] 的があったはずの場所、いや、別の時間軸の方に向けて狙っている…んだな。",
+      "CN": "[目标区域] 你瞄准的地方……在另一个时间线里才是靶子所在之处。",
+      "KR": "[타겟 범위] 당신은 다른 타임라인에서 적이 존재했던 곳에 조준하고 있어…",
+      "TW": "[目標範圍] 你射擊的目標位置……是另一個時間線裡的舊靶位。"
+    }
+  },
+  "[TARGET RANGE] Those targets died of boredom, not bullets.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象Range] 的は弾丸ではなく、退屈で死んだ。\n[ターゲットレンジ] 的は撃たれて倒れたんじゃない、飽き死したんだ。",
+      "CN": "[目标区域] 那些靶子是被无聊杀死的，不是被子弹。",
+      "KR": "[타겟 범위] 그곳의 적들은 총에 죽은 게 아니라, 심심해서 죽었어.",
+      "TW": "[目標範圍] 那些標靶是無聊致死的，不是被子彈擊毀的。"
+    }
+  },
+  "[TARGET RANGE] You’re aiming at the hitbox’s extended family.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象Range] 当たり判定の大家族に向かって照準を合わせている。\n[ターゲットレンジ] ヒットボックスの『親戚筋』に向けて狙っているわけだ。",
+      "CN": "[目标区域] 你瞄准的是命中判定框的亲戚们。",
+      "KR": "[타겟 범위] 당신은 히트박스의 확张大가족에게 조준하고 있어.",
+      "TW": "[目標範圍] 你瞄準的是碰撞箱的延伸親戚們。"
+    }
+  },
+  "Stage 1: correct was A. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1：正解はA。不正解でHP -20。無選択でHP -40。\nステージ1：正解はA。誤答でHP -20、選択肢なしでHP -40。",
+      "CN": "第1阶段：正确得分为A。错误扣20点生命值。未选择扣40点生命值。",
+      "KR": "1페이즈: 정답은 A. 오답 시 -20 HP. 무선택 시 -40 HP.",
+      "TW": "第一關：答對得 A 分，答錯扣 20 HP。不選扣 40 HP。"
+    }
+  },
+  "Stage 4: correct was A. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ4：正解はAでした。間違いでHP-20。選択せずに終了でHP-40。",
+      "CN": "第4阶段：正确答案为A。错误答案扣除20点生命值。未选择扣除40点生命值。",
+      "KR": "스테이지 4: 정답은 A. 오답 -20 HP, 미선택 -40 HP.",
+      "TW": "第4關：正確答案為A。答錯扣20點HP。未作答扣40點HP。"
+    }
+  },
+  "[TARGET RANGE] Friendly reminder: bullets go towards targets.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] 念のため：弾丸は的に向かいます。",
+      "CN": "[射程精准] 友情提醒：子弹是射向目标的。",
+      "KR": "[사거리 범위] 다정하게 말씀드립니다: 총알은 목표물을 향해갑니다.",
+      "TW": "[目標範圍] 友情提醒：子彈會飛向指定目標。"
+    }
+  },
+  "[TARGET RANGE] Try turning your monitor on this time.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] この度はモニターをオンにしてみてください。",
+      "CN": "[射程精准] 这次试试把你的显示器打开吧。",
+      "KR": "[사거리 범위] 이번에는 모니터를 켜고 놀아주세요.",
+      "TW": "[目標範圍] 這回試著把你的螢幕打開再玩吧。"
+    }
+  },
+  "[TARGET RANGE] Your bullets are scared of commitment.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] 弾丸はコミットすることを恐れています。",
+      "CN": "[射程精准] 你的子弹似乎害怕承担责任。",
+      "KR": "[사거리 범위] 당신의 총알은 충실함을 무서워하네요.",
+      "TW": "[目標範圍] 你的子彈似乎有點害怕承諾。"
+    }
+  },
+  "[TARGET RANGE] Your crosshair is having an existential crisis.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] クロスヘアは存在意義の危機に瀕しています。",
+      "CN": "[射程精准] 你的准星正在经历存在主义危机。",
+      "KR": "[사거리 범위] 당신의 조준성이 존재주의적 위기에 빠졌습니다.",
+      "TW": "[目標範圍] 你的準星正經歷存在主義危機。"
+    }
+  },
+  "[TARGET RANGE] Aim assist called—said 'no thanks'.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] 射撃アシストから電話がありました──『ありがとう、ちょっと断させて』と言われました。",
+      "CN": "[射程精准] 你开启了辅助瞄准——结果它说‘不谢了’。",
+      "KR": "[사거리 범위] 조준 보조 요청—‘괜찮다’ 거절.",
+      "TW": "[目標範圍] 射擊輔助已呼叫——它說「不用了，多謝」。"
+    }
+  },
+  "[TARGET RANGE] If accuracy was money, you’d be in debt.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] もし射撃精度がお金なら、あなたは既に借金漬けです。",
+      "CN": "[射程精准] 如果精准度能当钱花，你现在应该负债累累。",
+      "KR": "[사거리 범위] 정확성이 돈이었다면, 당신은 이미 파산했을 겁니다.",
+      "TW": "[目標範圍] 如果準確度能當錢花，你早就倒債了。"
+    }
+  },
+  "[TARGET RANGE] The crosshair moved. The skill didn’t.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲットレンジ] クロスヘアは動いた。スキルのほうは動きませんよ。",
+      "CN": "[射程精准] 准星移动了，但技术没变。",
+      "KR": "[사거리 범위] 조준점은 움직였지만, 실력은 그렇지 않았습니다.",
+      "TW": "[目標範圍] 準星移動了，但技術沒變。"
+    }
+  },
+  "[TARGET RANGE] Your bullets took a scenic route and never came back.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] 貴方の弾は観光路線を辿り、二度と戻って来なかった。",
+      "CN": "[目标射程] 你的子弹走了观光路线，再也没回来。",
+      "KR": "[TARGET RANGE] 총알이 여행은 재미있었지만, 돌아오지 못했어요.",
+      "TW": "[目標範圍] 你的子彈選擇了環遊世界，而且沒再回來。"
+    }
+  },
+  "[TARGET RANGE] Recoil: 1. You: 0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] 反動：1. 貴方：0.",
+      "CN": "[目标射程] 后坐力：1。你：0。",
+      "KR": "[TARGET RANGE] 반동: 1. 당신: 0.",
+      "TW": "[目標範圍] 後坐力比：你 1. 我 0。"
+    }
+  },
+  "[TARGET RANGE] That was suppressing fire with no one to suppress.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] それはお相手がいなかった鎮圧射撃だった。",
+      "CN": "[目标射程] 这是毫无压制目标的压制火力。",
+      "KR": "[TARGET RANGE] 상대가 없는 억지 화력입니다.",
+      "TW": "[目標範圍] 這波壓制射擊，壓的是一團空氣。"
+    }
+  },
+  "[TARGET RANGE] That spray pattern looked like modern art. On the wrong canvas.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] その散弾パターンは現代美術のようだった。ただし、間違えたキャンバス上でな。",
+      "CN": "[目标射程] 那散布图案看起来像现代艺术。可惜画错了地方。",
+      "KR": "[TARGET RANGE] 그 산탄 무늬는 현대 미술이네요. 그런데 캔버스부터 잘못 선택하셨어요.",
+      "TW": "[目標範圍] 這個散射patterns看起來像當代藝術，但畫錯了地方。"
+    }
+  },
+  "[TARGET RANGE] Your mousepad deserves better.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] 貴方のマウスパッドはもっとふさわしい使い方をされるべきだ。",
+      "CN": "[目标射程] 你的鼠标垫值得更好的对待。",
+      "KR": "[TARGET RANGE] 마우스 패드가 원하지 않는 피로물입니다.",
+      "TW": "[目標範圍] 你的滑鼠墊值得更好的對待。"
+    }
+  },
+  "[TARGET RANGE] Your K/D in this range is emotional damage only.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] このレンジでの貴方のK/Dは感情のダメージでしかない。",
+      "CN": "[目标射程] 你在这个射程的K/D，纯粹是精神伤害。",
+      "KR": "[TARGET RANGE] 여기에서의 당신의 K/D는 감정적 피해만 남겼습니다.",
+      "TW": "[目標範圍] 你在这个射程的K/D值純粹是造成精神創傷。"
+    }
+  },
+  "[TARGET RANGE] You missed so clean it should come with a refund.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット_RANGE] 外れ方が清涼感があるので、返金付きで来るべきだ。",
+      "CN": "[目标射程] 你射得这么干净，应该附带退款服务。",
+      "KR": "[TARGET RANGE] 그건 명중이라고 보기 어려워서 환불해 드리겠습니다.",
+      "TW": "[目標範圍] 你漏得如此徹底，應該附帶退款服務。"
+    }
+  },
+  "[TARGET RANGE] That burst was a confession of defeat.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[ターゲット範囲] その連射は敗北の告白だった。",
+      "CN": "[目标射程] 那一串扫射简直是败北宣言。",
+      "KR": "[TARGET RANGE] 그 사격은 패배를 고백한 셈이에요.",
+      "TW": "[目標範圍] 那波掃射就是一份敗北的聲明。"
+    }
+  },
+  "[TARGET RANGE] I’ve seen bots track better than that.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] ボットの方がそっちの精度が良いわ",
+      "CN": "[目标范围] 我看 bots 都比这瞄得准。",
+      "KR": "[목표 사거리] 봇이 그 정도로는 조준을 더 잘해.",
+      "TW": "[目標範圍] 我見過的機器人追蹤都比這好。"
+    }
+  },
+  "[TARGET RANGE] If this was training, you’re getting recycled.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] トレーニングなら、あなたはリサイクル処理の対象です",
+      "CN": "[目标范围] 如果这是训练，你已经被回收了。",
+      "KR": "[목표 사거리] 훈련이었다면, 당신은 폐기 처리될 거야.",
+      "TW": "[目標範圍] 如果這是訓練，你該被回收了。"
+    }
+  },
+  "[TARGET RANGE] That aim needs CPR.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] そのエイムは心肺蘇生が必要ね",
+      "CN": "[目标范围] 这瞄准技术得做心肺复苏。",
+      "KR": "[목표 사거리] 그 조준력, 심폐소생술이 필요해.",
+      "TW": "[目標範圍] 這瞄準力該做心肺復甦了。"
+    }
+  },
+  "[TARGET RANGE] If aiming was breathing, you’d be holding your breath.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] エイムが呼吸なら、あなたは息を止め続けてるわ",
+      "CN": "[目标范围] 如果把瞄准当呼吸，你早就憋气了。",
+      "KR": "[목표 사거리] 조준이 숨쉬기였다면, 당신은 숨을 멈춘 셈이야.",
+      "TW": "[目標範圍] 如果瞄準算呼吸，你現在正憋著氣。"
+    }
+  },
+  "[TARGET RANGE] The only thing you’re cracking is my patience.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] あなたが壊しているのは私の忍耐だけです",
+      "CN": "[目标范围] 你唯一击穿的只是我的耐心。",
+      "KR": "[목표 사거리] 당신이 뚫는 건 내 인내심뿐이야.",
+      "TW": "[目標範圍] 你唯一擊穿的，是我的耐心。"
+    }
+  },
+  "[TARGET RANGE] You’re not whiffing—you’re dedicating your life to it.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象_range] 外れてるんじゃない。あなたはそれに人生を捧げてんのよ",
+      "CN": "[目标范围] 你不是瞄偏——你是全心全意在瞄准上。",
+      "KR": "[목표 사거리] 당신이 빗나가는 게 아니야. 인생을 걸고 있는 거지.",
+      "TW": "[目標範圍] 你不是空揮——你是將這奉為畢生志業。"
+    }
+  },
+  "[TARGET RANGE] Your recoil control is a horror story with no ending.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] あなたのリコイルコントロールは、結末のないホラー物語です",
+      "CN": "[目标范围] 你的后坐力控制是一部没有结局的恐怖故事。",
+      "KR": "[목표 사거리] 너의 반동 제어가 끝없는 공포영화야.",
+      "TW": "[目標範圍] 你的後坐力控制是一部沒有結局的故事。"
+    }
+  },
+  "[TARGET RANGE] You missed an entire zip code.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[対象範囲] 郵便番号全体を見落としてるわ",
+      "CN": "[目标范围] 你连整个邮编区都漏掉了。",
+      "KR": "[목표 사거리] 우편번호 전체를 놓쳤군.",
+      "TW": "[目標範圍] 你錯過了整個郵遞區號。"
+    }
+  },
+  "[TARGET RANGE] The targets are still alive out of pure spite.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ターゲット範囲】的は纯粹な邪心で生き延びています。",
+      "CN": "[目标区域] 这些目标纯粹出于恶意还活着。",
+      "KR": "[타겟 범위] 적들이 순수한 악의 때문에 아직 살아 있다.",
+      "TW": "[目標範圍] 這些目標純粹是出於報復心還活著。"
+    }
+  },
+  "[TARGET RANGE] You’re aiming like you’re playing with mittens on.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ターゲット範囲】ミットンを嵌めたままプレイしているかのような射撃ですね。",
+      "CN": "[目标区域] 你射得像戴着厚手套一样。",
+      "KR": "[타겟 범위] 장갑을 끼고 사격하듯 조준하고 있군.",
+      "TW": "[目標範圍] 你的瞄準看起來像是戴著手套在玩。"
+    }
+  },
+  "[TARGET RANGE] You’re spraying like you’re watering plants.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ターゲット範囲】植物に水やりでもしているかのような射撃です。",
+      "CN": "[目标区域] 你扫射得跟浇花似的。",
+      "KR": "[타겟 범위] 물을 주듯 총을 난사하고 있군.",
+      "TW": "[目標範圍] 你開火就像在澆花一樣。"
+    }
+  },
+  "[TARGET RANGE] Your mouse is brave. Your aim isn't.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ターゲット範囲】マウスは勇敢ですが、あなたの Aim ではありません。",
+      "CN": "[目标区域] 你的鼠标很勇敢，你的准星不。",
+      "KR": "[타겟 범위] 당신의 마우스는 용감하지만 조준 실력은 그렇지 않아.",
+      "TW": "[目標範圍] 你的滑鼠很大胆，但你的射擊不行。"
+    }
+  },
+  "[TARGET RANGE] That was a perfect miss—textbook, really.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ターゲット範囲】見事な外れでした。教科書級です。",
+      "CN": "[目标区域] 这 misses 得完美——教科书级别。",
+      "KR": "[타겟 범위] 완벽한 빗나감—교본에 나올 법한 수준이야.",
+      "TW": "[目標範圍] 這是一個完美的脫靶——標準到像教科書一樣。"
+    }
+  },
+  "Stage 6: correct was A. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ6：正解はA。不正解で-20 HP。選択なしで-40 HP。",
+      "CN": "第6阶段：正确答案是 A。错误 -20 HP。未选择 -40 HP。",
+      "KR": "스tage 6: 정답은 A. 오답 -20 HP. 미선택 -40 HP.",
+      "TW": "第 6 關：正確答案是 A。錯誤扣 -20 HP。未選擇扣 -40 HP。"
+    }
+  },
+  "[TARGET RANGE] You’re giving the targets survivor’s guilt.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【ターゲット範囲】あなたは的たちに生存者の罪悪感を植え付けています。",
+      "CN": "[目标区域] 你让目标产生了幸存者内疚。",
+      "KR": "[타겟 범위] 적들에게 생존자의 죄책감을 안겨주고 있군.",
+      "TW": "[目標範圍] 你讓目標產生了倖存者愧疚感。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: A. Humans +0, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【決戦】正解：A。人間 +0、ゾンビ +0。",
+      "CN": "[对决] 正确答案：A。人类 +0，僵尸 +0。",
+      "KR": "[결전장] 정답: A. 인간 +0, 좀비 +0.",
+      "TW": "[最終對決] 正確答案：A。人類 +0，殭屍 +0。"
+    }
+  },
+  "[TARGET RANGE] Those shots were so wide they need a postcode.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[照準範囲] その射撃は広すぎて郵便番号が必要だ。",
+      "CN": "[射程] 这枪法太飘了，得带个邮编才能打中。",
+      "KR": "[사정거리] 저 발들은 명중 반경이 너무 넓어서,邮编까지 필요하겠다.",
+      "TW": "[射程內] 那些射擊太偏了，需要加個郵遞區號。"
+    }
+  },
+  "[TARGET RANGE] You’re pre-aiming at disappointment. Nailed it.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[照準範囲] 失望で狙いを定めているね。成功だ。",
+      "CN": "[射程] 你瞄准的只有失望，还完美命中。",
+      "KR": "[사정거리] 실패를 미리 조준했군. 확실해!",
+      "TW": "[射程內] 你已經瞄準了失望，正中紅心。"
+    }
+  },
+  "[TARGET RANGE] Those were warning shots to the concept of accuracy.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[照準範囲] それらは正確性という概念への警告射撃だった。",
+      "CN": "[射程] 刚才那几发是向“精准”概念发射的警告弹。",
+      "KR": "[사정거리] 명중의 개념에 대한 경고 사격이었구만.",
+      "TW": "[射程內] 那些是向「精準度」概念發出的警告射擊。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: B. Humans +2, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[決闘] 正解：B。人類 +2 ゾンビ +0。",
+      "CN": "[对决] 正确答案：B。人类+2，丧尸+0。",
+      "KR": "[승부]<정답> B. 인간 +2, 좀비 +0.",
+      "TW": "[對決] 正確答案：B。人類 +2，殭屍 +0。"
+    }
+  },
+  "[TARGET RANGE] Your bullets are ghosting the targets.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[照準範囲] あなたの弾丸は的をすり抜けている。",
+      "CN": "[射程] 你的子弹都在目标身上飘忽而过。",
+      "KR": "[사정거리] 총알들이 표적을 관통하듯이 스쳐 지나간다.",
+      "TW": "[射程內] 你的子彈都在目標身上飄過。"
+    }
+  },
+  "[SHOWDOWN] Correct answer: C. Humans +0, Zombies +0.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[決闘] 正解：C。人類 +0 ゾンビ +0。",
+      "CN": "[对决] 正确答案：C。人类+0，丧尸+0。",
+      "KR": "[승부]<정답> C. 인간 +0, 좀비 +0.",
+      "TW": "[對決] 正確答案：C。人類 +0，殭屍 +0。"
+    }
+  },
+  "[SHOWDOWN] Humans win! H:6 Z:0": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[決闘] 人類の勝利！ H:6 Z:0",
+      "CN": "[对决] 人类获胜！人：6 尸：0",
+      "KR": "[승부] 인간의 승리! H:6 Z:0",
+      "TW": "[對決] 人類獲勝！人類：6 殭屍：0"
+    }
+  },
+  "[SHOWDOWN][MVP] Humans MVP: RabbitSaturation - 3 correct": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[決闘][MVP] 人類のMVP：RabbitSaturation - 正解3回",
+      "CN": "[对决][MVP] 人类MVP：RabbitSaturation - 3次命中",
+      "KR": "[승부][MVP] 인간 MVP: RabbitSaturation - 3 명중",
+      "TW": "[對決][MVP] 人類 MVP：RabbitSaturation - 3 次正確"
+    }
+  },
+  "[TARGET RANGE] You’re painting everything but the targets.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 的的射ばっかりで、的に当ってないよ。",
+      "CN": "[目标射击区] 你打的全都是其他东西。",
+      "KR": "[타겟 범위] 타겟은 제외하고 다 그리셨네요.",
+      "TW": "[目標範圍] 你射中的全是無關目標。"
+    }
+  },
+  "[TARGET RANGE] That clip was a donation to the void.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] あの回の射撃は闇への寄付だったな。",
+      "CN": "[目标射击区] 那发子弹算是捐给虚空了。",
+      "KR": "[타겟 범위] 그 탄창은 공허에 기부한 거나 다름없습니다.",
+      "TW": "[目標範圍] 那一發簡直是捐給虛無。"
+    }
+  },
+  "[TARGET RANGE] Those shots were a love letter to the wall.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] その弾丸は壁への恋文か。",
+      "CN": "[目标射击区] 这几枪简直是在给墙壁写情书。",
+      "KR": "[타겟 범위] 그 총알은 벽에게 보낸 사랑의 편지였어요.",
+      "TW": "[目標範圍] 那些射擊不過是寫給牆壁的情書。"
+    }
+  },
+  "[TIMER] Run finished: 27:29.718": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TIMER] ラン終了：27:29.718",
+      "CN": "[计时器] 跑步结束：27:29.718",
+      "KR": "[타이머] 주자 완료: 27:29.718",
+      "TW": "[計時器] 跑步結束：27:29.718"
+    }
+  },
+  "[TARGET RANGE] You missed so hard the bullets resigned.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 外れすぎて、弾丸が退職届を出したほどだ。",
+      "CN": "[目标射击区] 你MISS得太离谱，连子弹都辞职了。",
+      "KR": "[타겟 범위] 명중에서 너무 멀리 벗어났네요.",
+      "TW": "[目標範圍] 你射得太準，子彈都辭職了。"
+    }
+  },
+  "Stage 4: correct was C. Wrong -20 HP. No-pick -40 HP.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ4：正解はC。不正解でHP-20、未回答でHP-40。",
+      "CN": "第四关：正确答案为 C。错误扣 20 HP。不选择扣 40 HP。",
+      "KR": "4단계: 정답은 C. 오답 -20 HP. 패스 -40 HP.",
+      "TW": "第4關：選C正確。答錯扣20HP。未選扣40HP。"
+    }
+  },
+  "[TARGET RANGE] Your bullets are doing parkour around the targets.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 弾丸が的にパークアールを楽しんでいます。",
+      "CN": "[目标范围] 你的子弹在靶子上玩跑酷呢。",
+      "KR": "[대상 거리] 당신의 총알이 targets를 넘나들며 체조를 하고 있습니다.",
+      "TW": "[目標範圍] 子彈正在靶標之間玩跑酷。"
+    }
+  },
+  "[TARGET RANGE] Your crosshair is sightseeing again.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 照準が再び観光しています。",
+      "CN": "[目标范围] 你的准星又开始观光旅游了。",
+      "KR": "[대상 거리] 당신의 조준점이 또 관광 중입니다.",
+      "TW": "[目標範圍] 準星又開始觀光巡禮了。"
+    }
+  },
+  "[TARGET RANGE] Try again. Properly, this time.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] もう一度試してください。今回はちゃんとね。",
+      "CN": "[目标范围] 再来一次。这次认真点。",
+      "KR": "[대상 거리] 다시 시도하세요. 제대로, 이번엔.",
+      "TW": "[目標範圍] 再試一次。這次請認真一點。"
+    }
+  },
+  "[TARGET RANGE] You’re strafing like the keys are slippery.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] キーボードが滑っているのか、横移動がひどいですね。",
+      "CN": "[目标范围] 你移动身姿的样子，就像键盘按键沾了润滑油。",
+      "KR": "[대상 거리] 키가 미끄럽게 움직이는 양으로 좌우 이동하고 있습니다.",
+      "TW": "[目標範圍] 橫移時感覺按鍵正在打滑。"
+    }
+  },
+  "[TARGET RANGE] You’re speedrunning the wrong leaderboard.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 間違ったハイスコアボードでスピードランを試みていますね。",
+      "CN": "[目标范围] 你在错误的排行榜上刷最快通关时间呢。",
+      "KR": "[대상 거리] 잘못된 리더보드를 속도용으로 달리고 있습니다.",
+      "TW": "[目標範圍] 你跑錯了排行榜的速通紀錄。"
+    }
+  },
+  "[TARGET RANGE] That was less 'tap' and more 'slap the desk'.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] それ『タップ』ではなく『机を叩く』に近い動作でした。",
+      "CN": "[目标范围] 那不算‘轻触’，更像‘拍桌子’。",
+      "KR": "[대상 거리] 그것은 '눌러치기'보다 '책상 두드려 치기'에 가까웠습니다.",
+      "TW": "[目標範圍] 那不算「點擊」，更像是在拍桌子。"
+    }
+  },
+  "[TARGET RANGE] You’re doing cardio with your crosshair.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 照準でエアロビクスを行っていますね。",
+      "CN": "[目标范围] 你的准星正在做有氧运动。",
+      "KR": "[대상 거리] 당신의 조준점이 심폐 운동을 하고 있습니다.",
+      "TW": "[目標範圍] 準星正在做有氧運動。"
+    }
+  },
+  "[TARGET RANGE] The shutter has seen enough.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] シャッターもう限界です。",
+      "CN": "[目标范围] 快门已经看够了。",
+      "KR": "[대상 거리] 셔터가 더 이상은 참고 있지 않습니다.",
+      "TW": "[目標範圍] 快門已經看夠了。"
+    }
+  },
+  "[TARGET RANGE] That flick landed somewhere in Narnia.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] そのフリックはナーンニア somewhere に着いた。",
+      "CN": "[目标范围] 那一下甩枪打到了纳尼亚。",
+      "KR": "[표적 범위] 그 스냅 샷은 냅르나 어딘가에 떨어졌다.",
+      "TW": "[目標範圍] 那一下甩槍飛到了納尼亞。"
+    }
+  },
+  "[TARGET RANGE] The hitmarker is on strike.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 命中率表示がストライキ中。",
+      "CN": "[目标范围] 命中提示音罢工了。",
+      "KR": "[표적 범위] 피드백 마커가 파업 중이야.",
+      "TW": "[目標範圍] 擊中標記正在罷工。"
+    }
+  },
+  "[TARGET RANGE] Your crosshair placement is a cry for help.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] クロスヘアの位置取りは助けを求めているようです。",
+      "CN": "[目标范围] 你的准星定位是在求助。",
+      "KR": "[표적 범위] 당신의 조준점 배치는 도움을 간구하는 신호야.",
+      "TW": "[目標範圍] 你的準星位置簡直是在求救。"
+    }
+  },
+  "[TARGET RANGE] The targets are literally begging. You still said no.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 標的は本気で拒否しています。それでもあなたは『いいえ』と言いました。",
+      "CN": "[目标范围] 目标简直在 begging（乞求）你。你还是说了不。",
+      "KR": "[표적 범위] 적들은 말 그대로 빌고 빌어. 그런데도 당신은 ‘아니오’라고 했지.",
+      "TW": "[目標範圍] 目标幾乎是在跪求放過，但你還是拒絕了。"
+    }
+  },
+  "[TARGET RANGE] The targets are filing for restraining orders from your bullets.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] 標的はあなたの弾丸から保護命令を申請しています。",
+      "CN": "[目标范围] 目标正就你的子弹申请人身保护令。",
+      "KR": "[표적 범위] 적들은 당신의 총알로부터의 제한 명령을 신청 중이야.",
+      "TW": "[目標範圍] 目标正就你的子彈提出限制令。"
+    }
+  },
+  "[TARGET RANGE] Even random spread feels targeted compared to you.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] あなたに比べれば、ランダムな散弾でさえ的を絞られているように感じます。",
+      "CN": "[目标范围] 跟你对比，哪怕是随机散布都显得有针对性。",
+      "KR": "[표적 범위] 당신에게 비해 무작위 확산 조차 표적처럼 느껴져.",
+      "TW": "[目標範圍] 跟你們相比，隨機散射都顯得有針對性了。"
+    }
+  },
+  "[TARGET RANGE] Your sensitivity is set to 'earthquake'.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] あなたの感度は『地震』に設定されています。",
+      "CN": "[目标范围] 你的灵敏度设成了‘地震’模式。",
+      "KR": "[표적 범위] 당신의 감도는 '지진'으로 설정되어 있어.",
+      "TW": "[目標範圍] 你的靈敏度設在「地震」檔。"
+    }
+  },
+  "[TARGET RANGE] That wasn’t a flick. That was a panic attack.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[TARGET RANGE] ああれはフリックじゃありませんでした。あそれはパニック発作です。",
+      "CN": "[目标范围] 那不算甩枪，那是恐慌发作。",
+      "KR": "[표적 범위] 그게 스냅 샷이 아니었어. 그건 공황 발작이었지.",
+      "TW": "[目標範圍] 那不算甩槍，那是恐慌發作。"
+    }
+  },
+  "[TARGET RANGE] You shoot like the ping is 900.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[射撃場] あなたの射撃は、遅延が900msでも間に合うレベルだ。",
+      "CN": "你的射击延迟怕不是900毫秒。",
+      "KR": "[사격 범위] 당신 쏘는 거 핑 900 수준이네.",
+      "TW": "[射擊場] 你的準度看來有 900ms 的延遲。"
+    }
+  },
+  "[TARGET RANGE] You missed at point-blank. That’s a talent.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[射撃場] 至近距離で外れるとか、まさに才能だね。",
+      "CN": "贴着脸都能射偏，这算是一种天赋吧。",
+      "KR": "[사격 범위] 접점 거리에서 빗나갔다. 그게 바로 실력이지.",
+      "TW": "[射擊場] 貼身距離都能打偏，真是天才。"
+    }
+  },
+  "[TARGET RANGE] Statistically impressive how you dodged them all.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[射撃場] 避け切った数を見れば、統計学的に驚くべき結果だ。",
+      "CN": "躲开所有攻击的概率高得令人发指。",
+      "KR": "[사격 범위] 당신이 모든 걸 피워낸 통계는 압도적이야.",
+      "TW": "[射擊場] 你能精準錯過所有目標，這統計數據令人印象深刻。"
+    }
+  },
+  "[TARGET RANGE] You’re the reason aim trainers exist.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[射撃場] あなたのせいで行き場をなくしたのが、 aiming trainer という存在だ。",
+      "CN": "你就是自瞄挂存在的理由。",
+      "KR": "[사격 범위] 당신 때문에 목표 추적기 같은 게 존재하잖아.",
+      "TW": "[射擊場] 你就是「瞄準訓練軟體」存在的理由。"
+    }
+  },
+  "[TARGET RANGE] This is a shooting range, not a sightseeing tour.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[射撃場] ここは射撃練習場で、観光地じゃない。",
+      "CN": "这里是射击场，不是观光巴士。",
+      "KR": "[사격 범위\"> 여기는 사격장이지 관광 명소야?",
+      "TW": "[射擊場] 這裡是射擊場，不是觀光景點。"
+    }
+  },
+  "[TARGET RANGE] That wasn’t a whiff—it was a full-blown hurricane.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[射撃場] それ外れたなんて呼ぶな、もう完全にハリケーンだぜ。",
+      "CN": "那不算脱靶——简直是一场台风过境。",
+      "KR": "[사격 범위] 그냥 실수 아니었어. 완전 태풍이었지.",
+      "TW": "[射擊場] 那算不上未命中，那是颶風級的暴走。"
+    }
+  },
+  "[TARGET RANGE] Report filed: mass target negligence.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[射撃場] レポート提出：大量の的に対する怠慢を確認。",
+      "CN": "报告提交：集体忽视目标事件。",
+      "KR": "[사격 범위] 보고서 제출 완료: 다수 표적 유기 혐의.",
+      "TW": "[射擊場] 報告已提交：集體瞄準疏忽。"
+    }
+  },
+  "[TARGET RANGE] The target didn't move. You did. Badly.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[射撃場] 矢印が動いたんじゃない。お前が悪かった。",
+      "CN": "目标没动，是你跑偏了。而且偏得很远。",
+      "KR": "[사격 범위] 표적이 움직인 게 아니라. 당신이 움직였지. 정말 못하게.",
+      "TW": "[射擊場] 目標沒動，是你偏了。而且偏得很離譜。"
+    }
+  },
+  "[TARGET RANGE] You’re doing aim training, not aim theatre.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【目標範囲】 aiming トレーニングをしてるのか、演技してるんじゃないか。",
+      "CN": "[目标范围] 你在做瞄准训练，不是表演射击。",
+      "KR": "[타겟 범위] 조준 훈련이지, 과시용 극장이 아니야.",
+      "TW": "[目標範圍] 你在做瞄準訓練，不是在拍電影。"
+    }
+  },
+  "[TARGET RANGE] Targets survived. Your dignity didn’t.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【目標範囲】 標的は生き残った。君のメンツは散々だった。",
+      "CN": "[目标范围] 目标存活了。你的尊严没有。",
+      "KR": "[타겟 범위] 표적은 생존했지만, 당신의 자존심은 그렇지 않았습니다.",
+      "TW": "[目標範圍] 目標存活了。你的尊嚴則沒有。"
+    }
+  },
+  "[TARGET RANGE] Your crosshair is allergic to heads.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【目標範囲】 十字線が頭に対してアレルギー反応を起こしてるな。",
+      "CN": "[目标范围] 你的准星对爆头有过敏症。",
+      "KR": "[타겟 범위] 당신의 크로스헤어는頭に 알레르기가 있나 봐.",
+      "TW": "[目標範圍] 你的準星對頭部過敏。"
+    }
+  },
+  "[TARGET RANGE] The safety’s on your brain, not the gun.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【目標範囲】 セーフティがかかってるのは銃じゃなくて脳の中だ。",
+      "CN": "[目标范围] 保险锁的是你的脑子，不是枪。",
+      "KR": "[타겟 범위] 안전장치가 총이 아니라 당신의 두뇌에 걸려있네요.",
+      "TW": "[目標範圍] 保險鎖在你腦子裡，不在槍上。"
+    }
+  },
+  "[TARGET RANGE] That was a flashbang on your own brain.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【目標範囲】 それ、自分の脳へのフラッシュバンだったな。",
+      "CN": "[目标范围] 那是闪瞎你自己脑子的闪光弹。",
+      "KR": "[타겟 범위] 그것도 다 자기 자신의 두뇌에 먹인 플래시번드였어요.",
+      "TW": "[目標範圍] 那是一顆閃光彈，炸的是你自己的腦子。"
+    }
+  },
+  "[TARGET RANGE] They were standing still. That’s the joke.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【目標範囲】 彼らは動いていなかった。そこがジョークだ。",
+      "CN": "[目标范围] 他们站着不动。这就是笑话所在。",
+      "KR": "[타겟 범위] 그들은 움직이지도 않았죠. 그게 바로 농담이에요.",
+      "TW": "[目標範圍] 他們站著沒動。笑點在此。"
+    }
+  },
+  "[TARGET RANGE] That was a live demonstration of how not to.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【目標範囲】 どのようにすべきでないかの生々しい実演だったな。",
+      "CN": "[目标范围] 这是一场关于“如何不这样做”的现场演示。",
+      "KR": "[타겟 범위] 그것은 '어떻게 하지 말아야 하는가'의 생생한 실연이었습니다.",
+      "TW": "[目標範圍] 那場演示生動展現了「如何不正確操作」。"
+    }
+  },
+  "[TARGET RANGE] Targets: 5. Shots: many. Hits: emotional only.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【目標範囲】 標的：5発。撃った数：多数。命中：感情面のみ。",
+      "CN": "[目标范围] 目标：5。射击：无数次。命中：仅限于情感层面。",
+      "KR": "[타겟 범위] 타겟: 5발. 발사: 무수히 많은 총알. 명중: 오직 감정적으로만.",
+      "TW": "[目標範圍] 目標：5。射擊次數：許許多多。命中數：僅限情感層面。"
+    }
+  },
+  "[TARGET RANGE] Your shots have trust issues with the crosshair.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標範囲] あんたの的当ては照準器と信頼関係に問題があるね。",
+      "CN": "[射程内]你的弹道跟准星简直是有仇。",
+      "KR": "[사거리] 조준점에 신뢰가 없군요.",
+      "TW": "[射擊範圍] 你的子彈與準星之間似乎存在信任危機。"
+    }
+  },
+  "[TARGET RANGE] Nice grouping. Shame none were on target.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標範囲] 弾群は整ってるけど、的を外してるのが残念。",
+      "CN": "[射程内]散布挺集中，可惜没一个命中要害。",
+      "KR": "[사거리] 적중은 아쉽지만 선형이네요.",
+      "TW": "[射擊範圍] 佈點整齊，只可惜沒有一發命中目標。"
+    }
+  },
+  "[TARGET RANGE] If there was a 'miss' button, you’d macro it.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標範囲] 『ミス』ボタンがあったら、あんたはそれをチートするよ。",
+      "CN": "[射程内]要是游戏里有‘故意打偏’的按键，你肯定早就绑宏了。",
+      "KR": "[사거리] '빗나기' 버튼이 있었더라면 바로 매크로 등록했을 것 같네요.",
+      "TW": "[射擊範圍] 如果遊戲裡有「未命中」按鈕，你肯定早就寫入宏了。"
+    }
+  },
+  "[TARGET RANGE] The targets are watching you like a comedy show.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[目標範囲] 的にされてる側が、あんたをコメディショーみたいに眺めてるね。",
+      "CN": "[射程内]靶子们正对着你观赏这场滑稽戏呢。",
+      "KR": "[사거리] 과녁들이 여러분을 코メディ 쇼처럼 지켜보고 있습니다.",
+      "TW": "[射擊範圍] 目標們正目不轉睛地看著你，彷彿在看一場喜劇表演。"
+    }
+  }
+}

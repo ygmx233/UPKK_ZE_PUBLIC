@@ -1,122 +1,432 @@
 {
   "< 25 >": {
-    "translation": "<25秒>"
+    "translation": "<25秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<25秒>",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< All personnel are adviced to enter the nearest blast shelter immediately. >": {
-    "translation": "<所有人员请立即进入最近的防爆庇护所。>"
+    "translation": "<所有人员请立即进入最近的防爆庇护所。>",
+    "MultiLang": {
+      "US": "",
+      "JP": "全員に近い爆風避難所に入りなさい。>",
+      "CN": "<所有人员请立即进入最近的防爆庇护所。>",
+      "KR": "< 모든 인원은 즉시 가장 가까운 폭발 Shelter에 들어가시기 바랍니다. >",
+      "TW": "<所有人員應立即進入最近的掩蔽所。>"
+    }
   },
   "< Detonating The Alpha Warheads in T-Minus 185 seconds >": {
-    "translation": "<在倒计时185秒内引爆Alpha核弹头>"
+    "translation": "<在倒计时185秒内引爆Alpha核弹头>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< アルファ戦弾をテイムインスレーツ185秒で爆発させる >",
+      "CN": "<在倒计时185秒内引爆Alpha核弹头>",
+      "KR": "< 알파 전술 탄두 폭발在一T-미노스 185초 전>",
+      "TW": "<於T-Minus 185秒引爆Alpha炸彈>"
+    }
   },
   "< Judgement of Cornerstone >": {
-    "translation": "<基石审判>"
+    "translation": "<基石审判>",
+    "MultiLang": {
+      "US": "",
+      "JP": "基盤の判断",
+      "CN": "<基石审判>",
+      "KR": "석호의 심판",
+      "TW": "<磐石之判>"
+    }
   },
   "< SCP-049 has been escaped >": {
-    "translation": "<SCP-049已逃脱>"
+    "translation": "<SCP-049已逃脱>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< SCP-049 が脱出しました >",
+      "CN": "<SCP-049已逃脱>",
+      "KR": "SCP-049이 도주했습니다 >",
+      "TW": "SCP-049已逃逸"
+    }
   },
   "< SCP-079 Containment Room will open soon >": {
-    "translation": "<SCP-079监控室即将开启>"
+    "translation": "<SCP-079监控室即将开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< SCP-079収容室がすぐ開きます>",
+      "CN": "<SCP-079监控室即将开启>",
+      "KR": "< SCP-079 조치실이 shortly 열릴 예정입니다 >",
+      "TW": "SCP-079 隔離房間將很快開啟"
+    }
   },
   "< SCP-096 has been escaped >": {
-    "translation": "<SCP-096已逃脱>"
+    "translation": "<SCP-096已逃脱>",
+    "MultiLang": {
+      "US": "",
+      "JP": "SCP-096が脱出しました >",
+      "CN": "<SCP-096已逃脱>",
+      "KR": "< SCP-096이 도주했습니다 >",
+      "TW": "SCP-096已逃出"
+    }
   },
   "< SCP-1048-A >": {
-    "translation": "<SCP-1048-A>"
+    "translation": "<SCP-1048-A>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< SCP-1048-A has been defeated >": {
-    "translation": "<SCP-1048-A已被击败>"
+    "translation": "<SCP-1048-A已被击败>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< SCP-1048-A は倒された >",
+      "CN": "<SCP-1048-A已被击败>",
+      "KR": "SCP-1048-A가 물리쳤습니다>",
+      "TW": "SCP-1048-A已被擊敗"
+    }
   },
   "< SCP-106 has been escaped >": {
-    "translation": "<SCP-106已逃脱>"
+    "translation": "<SCP-106已逃脱>",
+    "MultiLang": {
+      "US": "",
+      "JP": "＜SCP-106が脱走した＞",
+      "CN": "<SCP-106已逃脱>",
+      "KR": "< SCP-106이 도주하였습니다 >",
+      "TW": "SCP-106已escape"
+    }
   },
   "< Someone is approaching us... >": {
-    "translation": "<有人正在接近我们...>"
+    "translation": "<有人正在接近我们...>",
+    "MultiLang": {
+      "US": "",
+      "JP": "接近我们的人是...",
+      "CN": "<有人正在接近我们...>",
+      "KR": "< 누군가 우리에게 다가오고 있好象这里应该是一个提示或者游戏内的特定符号，但是按照指示不进行扩展和修改，直接保留原样。->> >",
+      "TW": "<有人向我們靠近... >"
+    }
   },
   "<20>": {
-    "translation": "<20秒>"
+    "translation": "<20秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<20秒>",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<A player picked up SCP-500 - Panacea>": {
-    "translation": "<玩家已拾取SCP-500-万能药>"
+    "translation": "<玩家已拾取SCP-500-万能药>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<プレイヤーがSCP-500 - パネシアを拾い上げた>",
+      "CN": "<玩家已拾取SCP-500-万能药>",
+      "KR": "<플레이어가 SCP-500 - 팬에시아를 집었습니다>",
+      "TW": "<1名玩家拾起了SCP-500 - 傳奇薬水>"
+    }
   },
   "<A player picked up SCP-714 - The Jaded Ring>": {
-    "translation": "<玩家已拾取SCP-714-疲惫玉戒>"
+    "translation": "<玩家已拾取SCP-714-疲惫玉戒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<プレイヤーがSCP-714 - こなれた指輪 を拾いました>",
+      "CN": "<玩家已拾取SCP-714-疲惫玉戒>",
+      "KR": "<플레이어가 SCP-714 - 지친 반지 를 집었다>",
+      "TW": "<1位玩家拾取了SCP-714 - 這枚冷淡的戒指>"
+    }
   },
   "<Check Point will open in 20 seconds>": {
-    "translation": "<检查点将在20秒后开启>"
+    "translation": "<检查点将在20秒后开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<チェックポイントは20秒後に開きます>",
+      "CN": "<检查点将在20秒后开启>",
+      "KR": "<체크 포인트는 20초 후에 열립니다>",
+      "TW": "檢查點將在20秒後開啟>"
+    }
   },
   "<Defend here for 15 seconds>": {
-    "translation": "<在这里防守15秒>"
+    "translation": "<在这里防守15秒>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここを防ごう 15秒間>>",
+      "CN": "<在这里防守15秒>",
+      "KR": "이곳 방어 15초 유지",
+      "TW": "在此防守15秒>>"
+    }
   },
   "<Defend the Gate A>": {
-    "translation": "<防守A门>"
+    "translation": "<防守A门>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートAを守れ>>",
+      "CN": "<防守A门>",
+      "KR": "문지방 A 방어",
+      "TW": "守護關隘A>"
+    }
   },
   "<Do not let SCP-106 across the GATE A!!>": {
-    "translation": "<不要让SCP-106穿过A门！！>"
+    "translation": "<不要让SCP-106穿过A门！！>",
+    "MultiLang": {
+      "US": "<Do not let SCP-106 through GATE A!!>",
+      "JP": "<GATE Aを通わせない！SCP-106はゲートを超えてはならない！！>",
+      "CN": "<不要让SCP-106穿过A门！！>",
+      "KR": "<SCP-106을 GATE A를 넘지 않게!!>",
+      "TW": "<不要讓SCP-106穿越GATE A!!>"
+    }
   },
   "<Escape from Pokect Dimension>": {
-    "translation": "<从口袋空间逃脱>"
+    "translation": "<从口袋空间逃脱>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポケット次元からの脱出",
+      "CN": "<从口袋空间逃脱>",
+      "KR": "<포케트 차원 탈출>",
+      "TW": "Pokect維度逃脫"
+    }
   },
   "<SCP-106 escaped....>": {
-    "translation": "<SCP-106已逃脱....>"
+    "translation": "<SCP-106已逃脱....>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<SCP-106 が脱走した....>",
+      "CN": "<SCP-106已逃脱....>",
+      "KR": "<SCP-106이 도망쳤다....>",
+      "TW": "SCP-106逃走了...."
+    }
   },
   "<SCP-106 has been defeated!!>": {
-    "translation": "<SCP-106已被击败！！>"
+    "translation": "<SCP-106已被击败！！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<SCP-106が敗れた!!>",
+      "CN": "<SCP-106已被击败！！>",
+      "KR": "<SCP-106이 패배함!!>",
+      "TW": "SCP-106已遭擊敗!!"
+    }
   },
   "<SCP-106 has been defeated>": {
-    "translation": "<SCP-106已被击败>"
+    "translation": "<SCP-106已被击败>",
+    "MultiLang": {
+      "US": "",
+      "JP": "SCP-106が倒された",
+      "CN": "<SCP-106已被击败>",
+      "KR": "SCP-106이 패배하였다>",
+      "TW": "SCP-106已遭擊潰>"
+    }
   },
   "<Something is coming...>": {
-    "translation": "<有东西正在接近...>"
+    "translation": "<有东西正在接近...>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<何かがやって来ている...]",
+      "CN": "<有东西正在接近...>",
+      "KR": "<ething은 온다...>",
+      "TW": "<有些东西正在來臨...>"
+    }
   },
   "<The door will open in 15 seconds>": {
-    "translation": "<门将在15秒后开启>"
+    "translation": "<门将在15秒后开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは15秒後に開きます>",
+      "CN": "<门将在15秒后开启>",
+      "KR": "문扉将打开在15秒后>>",
+      "TW": "门將在15秒後開啟"
+    }
   },
   "<The door will open soon>": {
-    "translation": "<门即将开启>"
+    "translation": "<门即将开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが近々開く予定です>>",
+      "CN": "<门即将开启>",
+      "KR": "문은 곧 열릴 것입니다>",
+      "TW": "門很快會打開>"
+    }
   },
   "<The door will open>": {
-    "translation": "<门正在开启>"
+    "translation": "<门正在开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開く></扉が開く>",
+      "CN": "<门正在开启>",
+      "KR": "문이 열립니다>",
+      "TW": "門將會開啟>"
+    }
   },
   "<The doors will open in 35 seconds>": {
-    "translation": "<门将在35秒后开启>"
+    "translation": "<门将在35秒后开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開くまで35秒です>>",
+      "CN": "<门将在35秒后开启>",
+      "KR": "문이 열리는 시간은 35초 남았습니다>",
+      "TW": "門將在35秒後開啟"
+    }
   },
   "<The doors will open in 50 seconds>": {
-    "translation": "<门将在50秒后开启>"
+    "translation": "<门将在50秒后开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは50秒後に開きます>>",
+      "CN": "<门将在50秒后开启>",
+      "KR": "문은 50초 후에 열립니다>>",
+      "TW": "門将在50秒後開啟"
+    }
   },
   "<The next door will open in 15 seconds>": {
-    "translation": "<下一扇门将在15秒后开启>"
+    "translation": "<下一扇门将在15秒后开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のドアは15秒後に開きます>>",
+      "CN": "<下一扇门将在15秒后开启>",
+      "KR": "다음 문은 15초 후에 열립니다>",
+      "TW": "下1個門會在15秒後開啟"
+    }
   },
   "<The next door will open in 25 seconds>": {
-    "translation": "<下一扇门将在25秒后开启>"
+    "translation": "<下一扇门将在25秒后开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "次の扉は25秒後に開きます>>",
+      "CN": "<下一扇门将在25秒后开启>",
+      "KR": "다음 문은 25초 후에 열립니다>",
+      "TW": "下1個門将在25秒後開啟>>"
+    }
   },
   "<The next door will open in 30 seconds>": {
-    "translation": "<下一扇门将在30秒后开启>"
+    "translation": "<下一扇门将在30秒后开启>",
+    "MultiLang": {
+      "US": "",
+      "JP": "次のドアは30秒後に開きます>>",
+      "CN": "<下一扇门将在30秒后开启>",
+      "KR": "다음 문은 30초 후에 열립니다>",
+      "TW": "下1个門将在30秒後開啟"
+    }
   },
   "<The tesla will be disabled in 20 seconds>": {
-    "translation": "<特斯拉将在20秒后禁用>"
+    "translation": "<特斯拉将在20秒后禁用>",
+    "MultiLang": {
+      "US": "",
+      "JP": "テスラは20秒後に無効になります>>",
+      "CN": "<特斯拉将在20秒后禁用>",
+      "KR": "테슬라는 10초 후에 비활성화됩니다>",
+      "TW": "tesla将在20秒後停用"
+    }
   },
   "<We escaped from SITE-19>": {
-    "translation": "<我们已经逃离SITE-19>"
+    "translation": "<我们已经逃离SITE-19>",
+    "MultiLang": {
+      "US": "",
+      "JP": "＜SITE-19から脱出しました＞",
+      "CN": "<我们已经逃离SITE-19>",
+      "KR": "<SITE-19에서 탈출했다>",
+      "TW": "我們逃出了SITE-19"
+    }
   },
   "<We have failed...>": {
-    "translation": "<我们失败了...>"
+    "translation": "<我们失败了...>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<失敗した...]",
+      "CN": "<我们失败了...>",
+      "KR": "<우리가 실패했어...]",
+      "TW": "<我們失敗了...>"
+    }
   },
   "<We will reach Check Point>": {
-    "translation": "<我们将到达检查点>"
+    "translation": "<我们将到达检查点>",
+    "MultiLang": {
+      "US": "",
+      "JP": "チェックポイントに到着します",
+      "CN": "<我们将到达检查点>",
+      "KR": "체크포인트에 도착我们将到达检查点",
+      "TW": "我們將抵達檢查點"
+    }
   },
   "<What the.......?>": {
-    "translation": "<什么.......？>"
+    "translation": "<什么.......？>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<何よ........?>",
+      "CN": "<什么.......？>",
+      "KR": "<어......무슨 건가요?>",
+      "TW": "<什麼的.......?>"
+    }
   },
   "<Where are we....?>": {
-    "translation": "<我们在哪里....？>"
+    "translation": "<我们在哪里....？>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<どこにいるのか.....?>",
+      "CN": "<我们在哪里....？>",
+      "KR": "<어디에 있을까....?>",
+      "TW": "<我們在哪裡....?>"
+    }
   },
   "This map is based on SCP Contaiment Breach": {
-    "translation": "此地图基于SCP收容失效制作"
+    "translation": "此地图基于SCP收容失效制作",
+    "MultiLang": {
+      "US": "",
+      "JP": "このマップはSCPコンテインメントブレッチに基づいています",
+      "CN": "本地图基于SCP Containment Breach",
+      "KR": "이 맵은 SCP 기밀 유출을 기반으로 합니다",
+      "TW": "此地圖基於SCP收容突破"
+    }
   },
   "map by Mochi/Pohmian": {
-    "translation": "地图作者：Mochi/Pohmian 翻译：Asteri3m"
+    "translation": "地图作者：Mochi/Pohmian 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作: Mochi/Pohmian",
+      "CN": "地图作者：Mochi/Pohmian",
+      "KR": "맵 제작: Mochi/Pohmian",
+      "TW": "地圖由Mochi/Pohmian製作"
+    }
   },
   "ze_SCP_Containment_Breach": {
-    "translation": "ze_SCP_Containment_Breach SCP收容失效"
+    "translation": "ze_SCP_Containment_Breach SCP收容失效",
+    "MultiLang": {
+      "US": "",
+      "JP": "ze_SCP_Containment_Breach",
+      "CN": "ze_SCP_Containment_Breach",
+      "KR": "ze_SCP_Containment_Breach",
+      "TW": "ze_SCP_Containment_Breach"
+    }
+  },
+  "< FAILED >": {
+    "translation": "<失败>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< フェイルド >",
+      "CN": "<失败>",
+      "KR": "< 실패했습니다 >",
+      "TW": "<失敗>"
+    }
+  },
+  "< ESCAPED >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Enter the blast shelter immediately >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   }
 }

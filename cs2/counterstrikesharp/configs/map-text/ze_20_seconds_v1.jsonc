@@ -1,0 +1,232 @@
+{
+  "10 SECOND | EVERYTHING TELEPORT": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒 | エレメントテレポート",
+      "CN": "10秒 | 全 teleport",
+      "KR": "10초 | 전체 텔레포트",
+      "TW": "10秒 | 萬物傳送"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒 | サバイバル |アリーナ1",
+      "CN": "20秒 | 生存 | 竞技场1",
+      "KR": "20초 | 서바이벌 | 아레나 1",
+      "TW": "20秒 | 生存模式 | 竞技场1"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 2": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒 | サバイバル |アリーナ2",
+      "CN": "20秒 | 生存 | 竞技场2",
+      "KR": "20초 | 서바이벌 | 아레나 2",
+      "TW": "20秒 | 生存模式 | 竞技场2"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 3": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒 | サバイバル |アリーナ3",
+      "CN": "20秒 | 生存 | 竞技场3",
+      "KR": "20초 | 서바이벌 | 아레나 3",
+      "TW": "20秒 | 生存模式 | 竞技场3"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 4": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒 | サバイバル |アリーナ4",
+      "CN": "20秒 | 生存 | 竞技场4",
+      "KR": "20초 | 서바이벌 | 아레나 4",
+      "TW": "20秒 | 生存模式 | 竞技场4"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 5": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒 | サバイバル |アリーナ5",
+      "CN": "20秒 | 生存 | 竞技场5",
+      "KR": "20초 | 서바이벌 | 아레나 5",
+      "TW": "20秒 | 生存模式 | 竞技场5"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 6": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒 | サバイバル |アリーナ6",
+      "CN": "20秒 | 生存 | 竞技场6",
+      "KR": "20초 | 서바이벌 | 아레나 6",
+      "TW": "20秒 | 生存模式 | 竞技场6"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 7": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒 | サバイバル |アリーナ7",
+      "CN": "20秒 | 生存 | 竞技场7",
+      "KR": "20초 | 서바이벌 | 아레나 7",
+      "TW": "20秒 | 生存模式 | 竞技场7"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 8": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバルアリーナ8",
+      "CN": "20秒 | 生存 | 竞技场8",
+      "KR": "20초 | 서바이벌 | 아레나 8",
+      "TW": "20 秒 | 生存模式 | 競技場 8"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 9": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバルアリーナ9",
+      "CN": "20秒 | 生存 | 竞技场9",
+      "KR": "20초 | 서바이벌 | 아레나 9",
+      "TW": "20 秒 | 生存模式 | 競技場 9"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 10": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバルアリーナ10",
+      "CN": "20秒 | 生存 | 竞技场10",
+      "KR": "20초 | 서바이벌 | 아레나 10",
+      "TW": "20 秒 | 生存模式 | 競技場 10"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 11": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバルアリーナ11",
+      "CN": "20秒 | 生存 | 竞技场11",
+      "KR": "20초 | 서바이벌 | 아레나 11",
+      "TW": "20 秒 | 生存模式 | 競技場 11"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 12": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバルアリーナ12",
+      "CN": "20秒 | 生存 | 竞技场12",
+      "KR": "20초 | 서바이벌 | 아레나 12",
+      "TW": "20 秒 | 生存模式 | 競技場 12"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 13": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバルアリーナ13",
+      "CN": "20秒 | 生存 | 竞技场13",
+      "KR": "20초 | 서바이벌 | 아레나 13",
+      "TW": "20 秒 | 生存模式 | 競技場 13"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 14": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバルアリーナ14",
+      "CN": "20秒 | 生存 | 竞技场14",
+      "KR": "20초 | 서바이벌 | 아레나 14",
+      "TW": "20 秒 | 生存模式 | 競技場 14"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 15": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバルアリーナ15",
+      "CN": "20秒 | 生存 | 竞技场15",
+      "KR": "20초 | 서바이벌 | 아레나 15",
+      "TW": "20 秒 | 生存模式 | 競技場 15"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 16": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバル｜アリーナ16",
+      "CN": "20秒 | 生存模式 | 竞技场16",
+      "KR": "20초 | 서바이벌 | 아레나 16",
+      "TW": "20秒｜生存模式｜競技場 16"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 17": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバル｜アリーナ17",
+      "CN": "20秒 | 生存模式 | 竞技场17",
+      "KR": "20초 | 서바이벌 | 아레나 17",
+      "TW": "20秒｜生存模式｜競技場 17"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 18": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバル｜アリーナ18",
+      "CN": "20秒 | 生存模式 | 竞技场18",
+      "KR": "20초 | 서바이벌 | 아레나 18",
+      "TW": "20秒｜生存模式｜競技場 18"
+    }
+  },
+  "20 SECOND | SURVIVAL | ARENA 19": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒サバイバル｜アリーナ19",
+      "CN": "20秒 | 生存模式 | 竞技场19",
+      "KR": "20초 | 서바이벌 | 아레나 19",
+      "TW": "20秒｜生存模式｜競技場 19"
+    }
+  },
+  "10 SECOND | STAY RED IN SURVIVAL | ARENA 20": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒生存チャレンジで赤陣営勝利｜アリーナ20",
+      "CN": "10秒 | 存活保持红色状态 | 竞技场20",
+      "KR": "10초 | 생존 시 레드 유지 | 아레나 20",
+      "TW": "10秒｜存活期間維持紅色狀態｜競技場 20"
+    }
+  },
+  "10 SECOND | HUMANS WIN": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒以内に人間側が勝利",
+      "CN": "10秒 | 人类获胜",
+      "KR": "10초 | 인간 승리",
+      "TW": "10秒｜人類獲勝"
+    }
+  },
+  "EVERYONE RTV | MAP FINISH": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "全員RTVのため、マップ終了",
+      "CN": "全员放弃 | 地图完成",
+      "KR": "모든 플레이어 RTV | 맵 종료",
+      "TW": "所有人放棄｜結束地圖"
+    }
+  }
+}

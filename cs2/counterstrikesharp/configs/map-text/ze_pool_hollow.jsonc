@@ -1,0 +1,82 @@
+{
+  "作者：161可爱的米库": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Creator: 161 Cute Miku",
+      "JP": "作者：161かわいいミク",
+      "CN": "",
+      "KR": "제작자: 귀여운 미쿠 161",
+      "TW": "作者：161可愛的米庫"
+    }
+  },
+  "测试阶段 及时反馈bug": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Test phase - report bugs promptly",
+      "JP": "テスト期間中です。バグ報告をぜひお願いします。",
+      "CN": "",
+      "KR": "테스트 단계 | 버그는 즉시 피드백",
+      "TW": "測試階段\n及時回報bug"
+    }
+  },
+  "6.1：移动了鬼miku的触发区域，增加一秒钟时间反应": {
+    "translation": "",
+    "MultiLang": {
+      "US": "v6.1: Adjusted Ghost Miku's trigger zone and added 1 second reaction time",
+      "JP": "6.1：鬼ミクのトリガーゾーンを変更、反応に1秒追加",
+      "CN": "",
+      "KR": "버전 6.1: 가이 미쿠 활성화 영역 이동, 반응 시간 1초 추가",
+      "TW": "6.1：移動了鬼miku的觸發區域，增加一秒鐘反應時間"
+    }
+  },
+  "5.30：想要更saltfish一点，添加了弹药神器（测试）50s cd": {
+    "translation": "",
+    "MultiLang": {
+      "US": "v5.30: Added more saltfish-style items - included ammo artifact (test) with 50s cooldown",
+      "JP": "5.30：よりsaltfish感を出すため弾丸神器(テスト)を80s cdで実装",
+      "CN": "",
+      "KR": "버전 5.30: 소금기 있는 느낌을 더하려서 무기 아이템 추가 (테스트) 50초 쿨타임",
+      "TW": "5.30：想要更saltyfish一點，添加了彈藥神器（測試版），50秒冷卻"
+    }
+  },
+  "6.25 更新了一个死亡赛跑，赛跑关后会重复赛跑关卡，如果想打第一关请去调关房": {
+    "translation": "",
+    "MultiLang": {
+      "US": "6.25 updated a Deathrun; after the race stage, the race stages will repeat. If you want to play the first stage, go to the stage select room.",
+      "JP": "6.25 死亡レースを追加しました。レースステージ後はレースステージが繰り返されます。最初のステージをプレイしたい場合は調整部屋へお越しください。",
+      "CN": "",
+      "KR": "6.25 업데이트로 데스런이 추가되었습니다. 데스런 클리어 후 데스런 스테이지가 반복되니, 1스테이지를 플레이하고 싶다면 스테이지 선택실로 가주세요.",
+      "TW": "6.25 更新了一個死亡賽跑，賽跑關後會重複賽跑關卡，如果想打第一關請去調關房"
+    }
+  },
+  "目前关卡重复机制正在处于测试阶段，有bug记得反馈，同时收集关卡轮换规律哪一种好": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The level repeat mechanism is currently in testing. Please report any bugs. Also collecting feedback on which level rotation pattern works best.",
+      "JP": "現在ステージ繰り返し機能はテスト段階です。バグがあればご報告ください。また、どのステージローテーション方式が良いか意見を募集しています。",
+      "CN": "",
+      "KR": "현재 스테이지 반복 메커니즘은 테스트 단계이니, 버그가 있으면 제보해 주세요. 또한 어떤 스테이지 순환 방식이 좋은지 의견을 모으고 있습니다.",
+      "TW": "目前關卡重複機制正處於測試階段，有bug記得回報，同時收集關卡輪換規律哪一種好"
+    }
+  },
+  "扁担模型脚本实体支持作者；PokieeAkuno": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "9.17修复关卡随机问题，更换滤镜": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

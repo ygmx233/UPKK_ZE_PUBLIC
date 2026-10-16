@@ -1,71 +1,232 @@
 {
   "** 10 ? **": {
-    "translation": "**10s ?**"
+    "translation": "**10s ?**",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 30 segundos amigos! **": {
-    "translation": "**30秒，朋友们！**"
+    "translation": "**30秒，朋友们！**",
+    "MultiLang": {
+      "US": "*** 30 seconds amigos! ***",
+      "JP": "30秒間友達だ！",
+      "CN": "** 30秒后朋友们再见！ **",
+      "KR": "** 30초간 친구들! **",
+      "TW": "** 30秒的好友時光！ **"
+    }
   },
   "** 60 segundos terrestres hasta el empujon **": {
-    "translation": "**60秒，准备迎接冲击**"
+    "translation": "**60秒，准备迎接冲击**",
+    "MultiLang": {
+      "US": "",
+      "JP": "地球時間60秒でブースト",
+      "CN": "** 60秒内地面人员准备推进 **",
+      "KR": "** 지구 시간 60초 후 부스터 발사 **",
+      "TW": "** 地球人還有60秒才會被推開 **"
+    }
   },
   "** Almost opening please survivor!! **": {
-    "translation": "**快要打开了，幸存者！！**"
+    "translation": "**快要打开了，幸存者！！**",
+    "MultiLang": {
+      "US": "*** Almost there, please survivor!!! ***",
+      "JP": "生存者よ、もうすぐ開く！",
+      "CN": "** 幸存者请尽快开门！！ **",
+      "KR": "** 거의 열고 있어요, 생존자분!! **",
+      "TW": "** 倖存者，快來開啟吧！！ **"
+    }
   },
   "** Door is must protect! **": {
-    "translation": "**必须守住门！**"
+    "translation": "**必须守住门！**",
+    "MultiLang": {
+      "US": "*** Door must be protected! ***",
+      "JP": "ドアを守れ！",
+      "CN": "** 必须保护门！ **",
+      "KR": "** 문은 반드시 보호해야 해요! **",
+      "TW": "** 門必須保護！ **"
+    }
   },
   "** Elevatour A is leaving momentously **": {
-    "translation": "**电梯A正在重要时刻离开**"
+    "translation": "**电梯A正在重要时刻离开**",
+    "MultiLang": {
+      "US": "*** Elevatour A is departing grandly ***",
+      "JP": "エレベーターAが現在発車します",
+      "CN": "** A号电梯即将启动离开 **",
+      "KR": "** 엘리베이터 A호 곧 발사합니다 **",
+      "TW": "** A號電梯即將離站 **"
+    }
   },
   "** Elevatour B is leaving momentously **": {
-    "translation": "**电梯B正在重要时刻离开**"
+    "translation": "**电梯B正在重要时刻离开**",
+    "MultiLang": {
+      "US": "*** Elevatour B is departing dramatically ***",
+      "JP": "エレベーターBが現在発車します",
+      "CN": "** B号电梯即将启动离开 **",
+      "KR": "** 엘리베이터 B호 곧 발사합니다 **",
+      "TW": "** B號電梯即將離站 **"
+    }
   },
   "** GO GO GO ESCAPER! **": {
-    "translation": "**快走，逃生者！**"
+    "translation": "**快走，逃生者！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "行くぞ！エスケイパー！",
+      "CN": "** 快跑！快跑！快跑！逃跑者！ **",
+      "KR": "** 가자 가자 가자, 탈출자여! **",
+      "TW": "** 快跑！逃生！！ **"
+    }
   },
   "** Get of movement!!!! **": {
-    "translation": "**动起来！！！！**"
+    "translation": "**动起来！！！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "移動をやめろ！！！",
+      "CN": "** 开始移动！！！！ **",
+      "KR": "** 움직임 멈추어!!!! **",
+      "TW": "** 停止移動！！！ **"
+    }
   },
   "** Hold the elevatour A friend!!! **": {
-    "translation": "**坚守电梯A，朋友！！！**"
+    "translation": "**坚守电梯A，朋友！！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Elevatour A 君を助けるのだ！！！ **",
+      "CN": "** 按住电梯A！朋友！！！",
+      "KR": "** 엘리베이터 A를 보호해라!!! 친구여!!! **",
+      "TW": "**托住電梯A朋友！！！"
+    }
   },
   "** Hold the elevatour B friend!!! **": {
-    "translation": "**坚守电梯B，朋友！！！**"
+    "translation": "**坚守电梯B，朋友！！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Elevatour B 君を助けるのだ！！！ **",
+      "CN": "** 按住电梯B！朋友！！！",
+      "KR": "** 엘리베이터 B를 보호해라!!! 친구여!!! **",
+      "TW": "**托住電梯B朋友！！！"
+    }
   },
   "** Is morell fortress!! Defend of zombies! **": {
-    "translation": "**这是MORELL堡垒！！抵御僵尸！**"
+    "translation": "**这是MORELL堡垒！！抵御僵尸！**",
+    "MultiLang": {
+      "US": "*** Morell Fortress!! Defend against zombies! ***",
+      "JP": "** MORELL 砦！！ ゾンビから守れ！ **",
+      "CN": "** 这里是莫雷尔要塞！！抵御僵尸进攻！",
+      "KR": "** 모렐 성곽!!! 좀비들을 방어해라! **",
+      "TW": "**這就是摩爾堡壘！！抵禦殭屍！！"
+    }
   },
   "** Map is sturdy construction!!! **": {
-    "translation": "**地图结构坚固！！！**"
+    "translation": "**地图结构坚固！！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** マップは堅牢な作りだ！！！ **",
+      "CN": "** 地图结构坚固！请珍惜设施！！！",
+      "KR": "** 맵은 견고하게 만들어져 있다!!! **",
+      "TW": "**地圖堅固構造！！！"
+    }
   },
   "** Maybe door is delayed more time for effort!! RESIST! **": {
-    "translation": "**也许门会因努力而延迟更多时间！！坚守！**"
+    "translation": "**也许门会因努力而延迟更多时间！！坚守！**",
+    "MultiLang": {
+      "US": "***Maybe the door is delayed for more effort!! RESIST!!!***",
+      "JP": "** おそらく扉が開くのが遅れるのは努力の証だ！！ 抵抗しろ！ **",
+      "CN": "** 大门开门时间可能因抵抗而延迟！请坚持住！！",
+      "KR": "** 문이 약간 더 지연될지도 모른다! 힘내서 저항해라!!! **",
+      "TW": "**為了努力，門可能會延遲更長時間！！抵抗！！"
+    }
   },
   "** Oh no! Is work related accident? **": {
-    "translation": "**哦不！这是工伤事故吗？**"
+    "translation": "**哦不！这是工伤事故吗？**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** おや？ これは業務中の事故か？ **",
+      "CN": "** 天哪！是工作事故吗？",
+      "KR": "** 오-no! 업무 관련 사고일지도 모른다? **",
+      "TW": "**天哪！這是工安意外嗎？"
+    }
   },
   "** Opening the doors in 20 secs?? **": {
-    "translation": "**门将在20秒后打开？？**"
+    "translation": "**门将在20秒后打开？？**",
+    "MultiLang": {
+      "US": "*** Doors opening in 20 secs?? ***",
+      "JP": "** 20秒以内に扉を開ける？？ **",
+      "CN": "** 大门将在20秒后开启？",
+      "KR": "** 20초 내에 문을 연다고?? **",
+      "TW": "**20秒後開門？？"
+    }
   },
   "** Please consider the sides of defender! **": {
-    "translation": "**请考虑防守侧面！**"
+    "translation": "**请考虑防守侧面！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 守勢側の立場も考えてくれ！ **",
+      "CN": "** 请体谅防守方的处境！",
+      "KR": "** 방어편을 고려해 달라! **",
+      "TW": "**請考慮防守方！！"
+    }
   },
   "** Please not be upset is normal die early thank you!!! **": {
-    "translation": "**请不要不高兴，死亡在所难免，谢谢！！！**"
+    "translation": "**请不要不高兴，死亡在所难免，谢谢！！！**",
+    "MultiLang": {
+      "US": "***Please don't be upset, dying early is normal, thank you!!!***",
+      "JP": "** 普通は死にますが、気にしないでください。ありがとうございます！！！",
+      "CN": "**请注意，请别难过，这是正常的早期死亡，谢谢！！！**",
+      "KR": "** 평소처럼 일찍 사망하셔도 화내지 마세요, 감사합니다!!! **",
+      "TW": "**請不要氣餒，正常早點睡，謝謝！！！"
+    }
   },
   "** Run **": {
-    "translation": "**跑**"
+    "translation": "**跑**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 走る **",
+      "CN": "**跑**",
+      "KR": "** 도망쳐! **",
+      "TW": "**跑**"
+    }
   },
   "** The fall back is close!! **": {
-    "translation": "**很快就要撤退！！**"
+    "translation": "**很快就要撤退！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** リカバリーが近い！！ **",
+      "CN": "**落回点很近！！**",
+      "KR": "** 추락이 가까이 다가왔다!! **",
+      "TW": "**後盾很近！**"
+    }
   },
   "** The wood is solid!! **": {
-    "translation": "**木头是坚固的！！**"
+    "translation": "**木头是坚固的！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 木は頑丈です！！ **",
+      "CN": "**木头很结实！！**",
+      "KR": "** 나무가 단단하다!! **",
+      "TW": "**木頭很堅固！！**"
+    }
   },
   "** Welcome to MORELL April Vacation! **": {
-    "translation": "**欢迎来到MORELL April Vacation！翻译：Asteri3m**"
+    "translation": "**欢迎来到MORELL April Vacation！翻译：Asteri3m**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** MORELLの春休みへようこそ！ **",
+      "CN": "**欢迎来到摩雷尔四月假期！**",
+      "KR": "** MORELL 4월 방학에 오신 것을 환영합니다! **",
+      "TW": "**歡迎來到莫雷爾的四月假期！**"
+    }
   },
   "** weeeeeeeeeeee **": {
-    "translation": "**我们的假期开始啦！**"
+    "translation": "**我们的假期开始啦！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ぅーーーーーーーーーーーーー **",
+      "CN": "**哇啊啊啊啊啊啊啊啊**",
+      "KR": "** 으아아아아아아아아아아아 **",
+      "TW": "**哇———————**"
+    }
   }
 }

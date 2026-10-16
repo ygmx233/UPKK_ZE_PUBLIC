@@ -1,200 +1,662 @@
 {
   "<< Level 1 ：净化 >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Level 1: Purification >>",
+      "JP": "<< レベル1：浄化 >>",
+      "CN": "<< 水位 1 ：净化 >>",
+      "KR": "<< 레벨 1 ： 정화 >>",
+      "TW": "<< 第一層關卡：淨化 >>"
+    }
   },
   "** 到处都是不死者，这里看起来还完好无损，一定有什么原因 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Undead everywhere, yet this place seems intact. There must be a reason for it. **",
+      "JP": "** 不死者が遍在するが、ここは健全さを保っている。何か理由があるはずだ **",
+      "CN": "*** 处处都是不死者，这里似乎还未受损，肯定有什么原因 ***",
+      "KR": "** 사악한 존재들이 어디에나 널렸다. 이 곳은 아직 온전하게 남아 있다. 반드시 이유가 있을 것이다.**",
+      "TW": "** 四周都是不死者，這裡看來仍完好無損，背後一定有什麼原因 **"
+    }
   },
   "** 兄弟们，去看看这是为什么 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Brothers, go check what’s causing this. **",
+      "JP": "** 仲間に確認させてもらおう、なぜなのかを **",
+      "CN": "",
+      "KR": "** 형제들이여, 이것이 무엇인지 확인하러 가자.**",
+      "TW": "** 大家去看看這是為什麼 **"
+    }
   },
   "** Defend for 30 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒間防衛しろ **",
+      "CN": "** 坚守30秒 **",
+      "KR": "** 30초간 방어하라!**",
+      "TW": "** 守住陣地 30 秒 **"
+    }
   },
   "** Fall back **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 後退しろ **",
+      "CN": "** 撤退 **",
+      "KR": "** 후퇴!**",
+      "TW": "** 撤退 **"
+    }
   },
   "** 这是什么？ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** What is this? **",
+      "JP": "** これは何だ？ **",
+      "CN": "",
+      "KR": "** 이것은 무엇인가?**",
+      "TW": "** 這是什麼？ **"
+    }
   },
   "** 少女：你们终于来了 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Girl: You’ve finally arrived. **",
+      "JP": "** 少女：ようやく着いたな **",
+      "CN": "",
+      "KR": "** 소녀: 너희가 드디어왔구나.**",
+      "TW": "** 少女：你們終於來了 **"
+    }
   },
   "** 少女：吾名巴托莉 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Girl: My name is Bartoli. **",
+      "JP": "** 少女：巴ト莉と名乗る **",
+      "CN": "",
+      "KR": "** 소녀 : 나의 이름은 바토리.**",
+      "TW": "** 少女：吾名巴托莉 **"
+    }
   },
   "** 巴托莉：这里的三座教堂可以创造奇迹 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartoli: The three churches here can perform miracles. **",
+      "JP": "** バトリ：ここにある3つの教会が奇跡を起こす **",
+      "CN": "",
+      "KR": "바토리: 세 개의 성당은 기적을 만들 수 있어.",
+      "TW": "巴托莉：這三座教堂能創造奇蹟"
+    }
   },
   "** 巴托莉：去获得它们的力量，我在最后会帮助你 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartoli: Go claim their power, and I will help you in the end. **",
+      "JP": "** バトリ：その力を得て、最後に私が助けるわ **",
+      "CN": "",
+      "KR": "바토리: 그 힘을 얻으세요. 마지막에 내가 도와줄게.",
+      "TW": "巴托莉：去取得它們的力量，我會最後協助你"
+    }
   },
   "** 巴托莉：我希望现在还不太迟 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: I hope it's not too late yet.",
+      "JP": "** バトリ：今ならまだ遅くないことを願う **",
+      "CN": "",
+      "KR": "바토리: 아직 너무 늦지 않기를 바래요.",
+      "TW": "巴托莉：我希望現在還不算太遲"
+    }
   },
   "** 20seconds to open the door **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20seconds to open the door",
+      "CN": "** 距离开门还有20秒 **",
+      "KR": "20초 후 문이 열립니다.",
+      "TW": "20seconds to open the door"
+    }
   },
   "** 在讲经台祷告 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Pray at the pulpits.",
+      "JP": "説教台で祈る",
+      "CN": "在讲经台上祈祷",
+      "KR": "강론대에서 기도하세요.",
+      "TW": "在講經台禱告"
+    }
   },
   "** It looks like it's already ready **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "It looks like it's already ready",
+      "CN": "** 看起来已经准备好了 **",
+      "KR": "이미 준비된 것 같습니다.",
+      "TW": "It looks like it's already ready"
+    }
   },
   "** Get ready to leave now **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Get ready to leave now",
+      "CN": "** 准备立即撤离 **",
+      "KR": "이제 떠날 준비를 하세요.",
+      "TW": "Get ready to leave now"
+    }
   },
   "** Tp afk **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Tp afk",
+      "CN": "** Tp AFK **",
+      "KR": "** 퍵 afk **",
+      "TW": "Tp afk"
+    }
   },
   "** 这是第二个教堂 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This is the second church.",
+      "JP": "** 2つ目の教会です **",
+      "CN": "",
+      "KR": "** 두 번째 교회입니다 **",
+      "TW": "** 這是第二座教堂 **"
+    }
   },
   "** 现在我们需要一点时间祷告，坚守阵地 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Now we need some time to pray and hold our ground.",
+      "JP": "** 今、私たちは少しの間祈りを捧げ、陣地を堅持する必要がある **",
+      "CN": "",
+      "KR": "** 지금 바로 기도를 바치고 진지를 지켜야 합니다. **",
+      "TW": "** 現在我們需要一點時間祈禱，堅守陣地 **"
+    }
   },
   "** 10 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒後 **",
+      "CN": "** 10秒 **",
+      "KR": "** 10초 **",
+      "TW": "** 10 seconds **"
+    }
   },
   "** Defend for 40 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 40秒間防衛せよ **",
+      "CN": "** 坚守40秒 **",
+      "KR": "** 40초간 방어하세요. **",
+      "TW": "** Defend for 40 seconds **"
+    }
   },
   "** 守住！我们快成功了 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on! We're almost there.",
+      "JP": "** 守り抜け！あと少しで成功だ **",
+      "CN": "",
+      "KR": "** 방어해라! 우리가 곧 성공할 것이다. **",
+      "TW": "** 守住！我們快成功了 **"
+    }
   },
   "** 10 seconds left **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残り10秒 **",
+      "CN": "**剩余 10 秒**",
+      "KR": "** 남은 시간 10초 **",
+      "TW": "** 10 seconds left **"
+    }
   },
   "** Defend for another 30 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** さらに30秒間防衛せよ **",
+      "CN": "**继续坚守 30 秒**",
+      "KR": "** 추가로 30초간 방어하세요. **",
+      "TW": "** Defend for another 30 seconds **"
+    }
   },
   "** 继续，前往最后的教堂 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Proceed to the final church.",
+      "JP": "** 進んで、最後の教会へ向かえ **",
+      "CN": "",
+      "KR": "** 계속하여 마지막 교회로 이동합니다. **",
+      "TW": "** 繼續，前往最後的教堂 **"
+    }
   },
   "** 从洞口撤退！ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Fall back from the cave!",
+      "JP": "洞窟から撤退しろ！",
+      "CN": "",
+      "KR": "** 동굴에서 철수하라! **",
+      "TW": "** 從洞口撤退！ **"
+    }
   },
   "** You failed, the zombie interrupted the casting **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "施法失敗、ゾンビが妨害した",
+      "CN": "**任务失败，僵尸中断了施法**",
+      "KR": "** 시전 중 좀비의 방해로 실패했습니다.",
+      "TW": "** 施法失敗，殭屍打斷了詠唱 **"
+    }
   },
   "** 巴托莉：我就知道你们不会让我失望 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: I knew you wouldn't let me down.",
+      "JP": "バトリーリ：期待通りにしてくれるわね",
+      "CN": "",
+      "KR": "** 바토리: 너희가 나를 실망시키지 않을 줄 알았어",
+      "TW": "** 巴托莉：我就知道你們不會讓我失望 **"
+    }
   },
   "** 巴托莉：我感受到了力量 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: I feel the power.",
+      "JP": "バトリーリ：力が感じられる",
+      "CN": "",
+      "KR": "** 바토리: 힘이 느껴진다",
+      "TW": "** 巴托莉：我感受到了力量 **"
+    }
   },
   "** 巴托莉：现在，净化！ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: Now, purification!",
+      "JP": "バトリーリ：今、浄化だ！",
+      "CN": "",
+      "KR": "** 바토리: 이제, 정화!",
+      "TW": "** 巴托莉：現在，淨化！ **"
+    }
   },
   "<< Level 2 : 星渊 >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Level 2: Star Abyss >>",
+      "JP": "<< レベル2：星の深淵 >>",
+      "CN": "<< 水 平 2 : 星渊 >>",
+      "KR": "<< 레VEL 2 : 성연 >>",
+      "TW": "<< 第2關：星淵 >>"
+    }
   },
   "** 土神器拾取 CD:60s 持续：5s **": {
-    "translation": "** 土神器拾取 CD:60 持续：5 **"
+    "translation": "** 土神器拾取 CD:60 持续：5 **",
+    "MultiLang": {
+      "US": "* Earth Artifact Pickup CD: 60s Duration: 5s",
+      "JP": "土の神器 拾い取りCD:60s 継続時間：5s",
+      "CN": "** 土神器拾取 CD:60 持续：5 **",
+      "KR": "** 지신기구 획득 CD:60s 지속:5s **",
+      "TW": "** 土神器拾取CD:60s 持續：5s **"
+    }
   },
   "** 风神器拾取 CD:60s 持续：3s **": {
-    "translation": "** 风神器拾取 CD:60 持续：3 **"
+    "translation": "** 风神器拾取 CD:60 持续：3 **",
+    "MultiLang": {
+      "US": "* Wind Artifact Pickup CD: 60s Duration: 3s",
+      "JP": "風の神器 拾い取りCD:60s 継続時間：3s",
+      "CN": "** 风神器拾取 CD:60 持续：3 **",
+      "KR": "** 풍신기구 획득 CD:60s 지속:3s **",
+      "TW": "** 風神器拾取CD:60s 持續：3s **"
+    }
   },
   "** 发生什么了？ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "What happened?",
+      "JP": "何が起こった？",
+      "CN": "",
+      "KR": "일어난 일이 무엇입니까?",
+      "TW": "發生什麼事了？"
+    }
   },
   "** 这里是哪里？ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Where is this?",
+      "JP": "ここはどこだ？",
+      "CN": "",
+      "KR": "여기는 어디합니까?",
+      "TW": "這裡是哪裡？"
+    }
   },
   "** 巴托莉：呵呵 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: Hehe.",
+      "JP": "バトリ：フフン",
+      "CN": "",
+      "KR": "바토레: 흐음",
+      "TW": "巴托莉：呵呵"
+    }
   },
   "** 巴托莉：这里是永寂星渊，我的领域 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartoly: This is the Abyss of Eternal Silence, my domain. **",
+      "JP": "バトリ：ここは永寂の星淵、私の領域だ",
+      "CN": "",
+      "KR": "바토레: 이곳은 영겁의 어둠 해저, 나의 영역입니다.",
+      "TW": "巴托莉：這裡是永寂星淵，我的領域"
+    }
   },
   "** 巴托莉：既然问题已经解决了 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartoly: Since the matter is resolved. **",
+      "JP": "バトリ：さて、問題は解決された",
+      "CN": "",
+      "KR": "바토레:既然 문제가 해결되었으니",
+      "TW": "巴托莉：既然問題已經解決了"
+    }
   },
   "** 巴托莉：接下来就该解决你们了 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartoly: Next, I'll deal with you all. **",
+      "JP": "バトリ：次はあなたたちを始末する番よ",
+      "CN": "",
+      "KR": "바토레: 이제 당신들을 처리할 차례입니다.",
+      "TW": "巴托莉：接下來就該解決你們了"
+    }
   },
   "** 巴托莉：在这里好好的呆着，在绝望中腐朽吧 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartoly: Stay here and rot in despair. **",
+      "JP": "バトリ：ここで静かにしていたら、絶望の中で朽ちていくわ",
+      "CN": "** 巴托莉：好生待在这里，在绝望中腐烂吧 **",
+      "KR": "바토레: 여기에서 평온히 살다가 절망 속에서 썩어봐.",
+      "TW": "巴托莉：在這裡好好的呆著，在絕望中腐敗吧"
+    }
   },
   "** 注意：时刻躲避涌动的星能 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Caution: Constantly evade the surging Star Energy. **",
+      "JP": "注意：湧き出す星のエネルギーを常に避けてください",
+      "CN": "注意：随时避开涌动的星能",
+      "KR": "주의: 끊임없이 밀려오는 성능을 피하세요.",
+      "TW": "注意：時刻躲避湧動的星能"
+    }
   },
   "** 这里汇聚的能量可以创造出去的路 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The energy gathered here can create a path out. **",
+      "JP": "**ここに集まるエネルギーで抜け道を作れる**",
+      "CN": "",
+      "KR": "** 여기 모인 에너지로 탈출로를 만들 수 있어 **",
+      "TW": "**這裡匯聚的能量可以開闢出路 **"
+    }
   },
   "** 10 seconds tp **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**10秒後にテレポート**",
+      "CN": "**10 秒传送中**",
+      "KR": "** 10초 후 텔레포트 **",
+      "TW": "**10秒後傳送**"
+    }
   },
   "** 前方的道路被火焰阻挡了，让我想点办法 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The path ahead is blocked by flames; let me think of a solution. **",
+      "JP": "**前の道は火で塞がれている。どうにかするわ**",
+      "CN": "",
+      "KR": "** 앞길이 불꽃에 막혀 있어. 내가 방법을 찾아볼게 **",
+      "TW": "**前方的道路被火焰阻擋了，讓我設法解決**"
+    }
   },
   "** 火焰消失了，继续前进 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The flames have vanished. Proceed. **",
+      "JP": "**火が消えた。続けましょう**",
+      "CN": "",
+      "KR": "** 불꽃이 사라졌다. 계속 진공하자 **",
+      "TW": "**火焰消失了，繼續前進**"
+    }
   },
   "** 马上就可以离开了 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "I can leave soon.",
+      "JP": "**もうすぐ脱出できます**",
+      "CN": "",
+      "KR": "** 곧 탈출할 수 있어 **",
+      "TW": "**馬上就可以離開了**"
+    }
   },
   "** 该去面对她了 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Time to face her.",
+      "JP": "**彼女に対峙する時だ**",
+      "CN": "",
+      "KR": "** 이제 그대에게 맞서야 할 때다 **",
+      "TW": "**該去面對她了**"
+    }
   },
   "** 巴托莉：??? **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: ???",
+      "JP": "**バルトリ：？？？**",
+      "CN": "",
+      "KR": "** 바토리: ??? **",
+      "TW": "**巴托莉：？？？**"
+    }
   },
   "** 巴托莉：你居然能到这里 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: You actually made it here.",
+      "JP": "**バルトリ：あなたがここまで来るとは**",
+      "CN": "** 巴托莉：你居然能到此 **",
+      "KR": "** 바토리: 정말 여기서 만나게 되다니 **",
+      "TW": "**巴托莉：你居然能到這裡**"
+    }
   },
   "** 巴托莉：哼，自讨苦吃 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: Hmph, asking for trouble.",
+      "JP": "バトリ：フン、自業自得だわ",
+      "CN": "",
+      "KR": "바토리: 험, 제발 스스로 고초를 자처하지 마.",
+      "TW": "巴托莉：哼，自討苦吃"
+    }
   },
   "** 巴托莉：就让我亲手了结你们 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Bartoli: Let me end you myself.",
+      "JP": "バトリ：私が直接片付けるわね",
+      "CN": "",
+      "KR": "바토리: 내가 직접 당신들을 처리하도록 하지.",
+      "TW": "巴托莉：就讓我親手了結你們"
+    }
   },
   "*** 130s to defeat her ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Defeat her in 130s ***",
+      "JP": "倒すまでに130秒",
+      "CN": "*** 130 秒后击败她 ***",
+      "KR": "*** 그녀를 제압하기까지 130초 ***",
+      "TW": "130s to defeat her"
+    }
   },
   "** 目标：击败巴托莉 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Objective: Defeat Bartoli",
+      "JP": "目標：バトリを撃破",
+      "CN": "",
+      "KR": "목표: 바토리 제압",
+      "TW": "目標：擊敗巴托莉"
+    }
   },
   "☆☆☆ 翻弄「北风和太阳」☆☆☆": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "☆☆☆ Manipulating 'The North Wind and the Sun' ☆☆☆",
+      "JP": "☆☆☆「北風と太陽」を操る☆☆☆",
+      "CN": "★★★ 翻动 «北风与太阳» ★★★",
+      "KR": "☆☆☆ 『북풍과 해님』을 조종하다 ☆☆☆",
+      "TW": "☆☆☆ 翻弄「北風和太陽」☆☆☆"
+    }
   },
   "☆☆☆ 梦符「蓬色的虚梦」☆☆☆": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "☆☆☆ Danmaku - Pale Dream ☆☆☆",
+      "JP": "☆☆☆夢符「冴え渡る幻夢」☆☆☆",
+      "CN": "",
+      "KR": "☆☆☆ 영혼의 『가연성 가상 꿈』 ☆☆☆",
+      "TW": "☆☆☆ 夢符「蓬色的虛夢」☆☆☆"
+    }
   },
   "☆☆☆ 古童「豪族皿屋敷」☆☆☆": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "☆☆☆ Old Child \"House of the Bath\" - Haizoku ☆☆☆",
+      "JP": "☆☆☆古童「豪族皿屋敷」☆☆☆",
+      "CN": "",
+      "KR": "☆☆☆ 고동: 『대가의 접시 집』 ☆☆☆",
+      "TW": "☆☆☆ 古童「豪族皿屋敷」☆☆☆"
+    }
   },
   "☆☆☆ 咒符「月蚀的闪光」☆☆☆": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "☆☆☆ Curse Danmaku - Lunar Eclipse Flash ☆☆☆",
+      "JP": "☆☆☆呪符「月蝕の閃光」☆☆☆",
+      "CN": "",
+      "KR": "☆☆☆ 주정: 『월식 날카로운 빛』 ☆☆☆",
+      "TW": "☆☆☆ 咒符「月蝕的閃光」☆☆☆"
+    }
   },
   "*** 只剩40s了 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Only 40s remaining ***",
+      "JP": "*** あと40秒 ***",
+      "CN": "",
+      "KR": "*** 남은 시간 40초 ***",
+      "TW": "*** 只剩40秒了 ***"
+    }
   },
   "** 巴托莉：怎么可能！ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartelmy: No way! **",
+      "JP": "** バトリーリ：そんなはずがない！ **",
+      "CN": "*** 巴托莉：不可能！ ***",
+      "KR": "** 바토리: 말도 안 돼! **",
+      "TW": "** 巴托莉：怎麼可能！ **"
+    }
   },
   "** 她去哪里了？ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Where did she go? **",
+      "JP": "** 彼女はどこに行った？ **",
+      "CN": "",
+      "KR": "** 그녀는 어디로 간 거야? **",
+      "TW": "** 她去了哪裡？ **"
+    }
   },
   "** 不管怎么样，先离开这里 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Anyway, let's get out of here. **",
+      "JP": "** とにかく、ここから離れよう **",
+      "CN": "",
+      "KR": "** 어쨌든 지금 여기서 벗어나자 **",
+      "TW": "** 不管怎樣，先離開這裡 **"
+    }
   },
   "** 巴托莉：你以为结束了吗？ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartelmy: You think it's over? **",
+      "JP": "** バトリーリ：終わったと思っているのか？ **",
+      "CN": "",
+      "KR": "** 바토리:你以为就结束了? **",
+      "TW": "** 巴托莉：以為結束了嗎？ **"
+    }
   },
   "*** 最后20s了，再快点 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** 20 seconds remaining, hurry up! ***",
+      "JP": "*** 最後に20秒、もっと早く ***",
+      "CN": "",
+      "KR": "*** 남은 시간 20초, 더 빨리! ***",
+      "TW": "*** 最後20秒了，再快點 ***"
+    }
   },
   "** 恭喜通关！ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Congratulations on completing the stage! **",
+      "JP": "** クリアおめでとうございます！ **",
+      "CN": "",
+      "KR": "** 축하합니다! 클리어입니다! **",
+      "TW": "** 恭喜通關！ **"
+    }
   },
   "** 感谢您的游玩！ **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Thank you for playing! **",
+      "JP": "** ご遊戯ありがとうございます！ **",
+      "CN": "*** 谢谢您的游玩！ ***",
+      "KR": "** 플레이해 주셔서 감사합니다! **",
+      "TW": "** 感謝您的遊玩！ **"
+    }
   },
   "*** 结束了...... ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** It's over...... ***",
+      "JP": "*** 終了しました...... ***",
+      "CN": "",
+      "KR": "*** 끝났어...... ***",
+      "TW": "*** 結束了...... ***"
+    }
   },
   "** 巴托莉：你们没让我失望 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Bartoli: You haven't disappointed me **",
+      "JP": "** バトリー：お前たちは期待に応えたな **",
+      "CN": "",
+      "KR": "** 바토리: 너희는 나를 실망시키지 않았어 **",
+      "TW": "**巴托莉：你們沒讓我失望**"
+    }
   }
 }

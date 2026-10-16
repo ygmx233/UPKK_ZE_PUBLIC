@@ -1,0 +1,32 @@
+{
+  "<< OBF MINAS AURORA V3 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< OBF MINAS AURORA V3 >>",
+      "CN": "<< OBF MINAS AURORA V3 >>",
+      "KR": "<< OBF 미나스 아우로라 V3 >>",
+      "TW": "<< OBF MINAS AURORA V3 >>"
+    }
+  },
+  "<< Map by Waffel >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 地図作成：Waffel >>",
+      "CN": "<< 地图制作：Waffel >>",
+      "KR": "<< Waffel 맵 >>>",
+      "TW": "<< Map by Waffel >>"
+    }
+  },
+  "<< Special thanks to: no one >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 特别感谢：无人 >>",
+      "CN": "<< 特别鸣谢：无 >>",
+      "KR": "<< 특별 감사: 없음 >>",
+      "TW": "<< Special thanks to: no one >>"
+    }
+  }
+}

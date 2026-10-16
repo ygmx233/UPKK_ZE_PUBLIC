@@ -1,482 +1,1612 @@
 {
   "<<< 多伦岛发生了异变，情况不明 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Something strange has happened on Doran Island, but the situation is unclear.",
+      "JP": "多倫島で異変が発生、状況は不明",
+      "CN": "",
+      "KR": "<<< 두론島에 이상 징후가 발생했으며, 상황은 불분명합니다 >>>",
+      "TW": "多倫島發生異變，情況不明"
+    }
   },
   "<<< 洛丹伦命令我部前来查看 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Lordaeron commanded me to come and check on this matter.",
+      "JP": "ロザリット公より視察の命を受けて参りました",
+      "CN": "",
+      "KR": "<<< 로더론이 저의 부대를 파견하여 조사하라고 명했습니다 >>>",
+      "TW": "洛丹倫命令我部前來查看"
+    }
   },
   "<<< 我们将以这座神庙为据点 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "We will make this temple our headquarters.",
+      "JP": "この神殿を拠点とします",
+      "CN": "",
+      "KR": "<<< 우리는 이 신전을 거점으로 삼겠습니다 >>>",
+      "TW": "我們將以這座神廟為據點"
+    }
   },
   "<<< Level 1 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "レベル 1",
+      "CN": "<<< 第一关 >>>",
+      "KR": ">>> Lv. 1 <<<",
+      "TW": "等級 1"
+    }
   },
   "** 坚守40s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for 40s **",
+      "JP": "** 40秒維持 **",
+      "CN": "",
+      "KR": "** 40초 간 방어 **",
+      "TW": "堅守 40s"
+    }
   },
   "<< 范围回复 治疗 >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "< Area Heal >",
+      "JP": "<< 範囲回復 治療 >>",
+      "CN": "",
+      "KR": "<< 범위 회복 >>",
+      "TW": "範圍回覆 治療"
+    }
   },
   "<<< 期待这是一个轻松的旅程 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "< We hope this is an easy journey. >",
+      "JP": "軽やかな旅であることを祈ります",
+      "CN": "<< 期望这将是一段轻松的旅程 >>>",
+      "KR": "<<< 가벼운 여정이 되기를 바랍니다 >>>",
+      "TW": "期待這是一個輕鬆的旅程"
+    }
   },
   ">> 范围减速 雷电 <<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "< Area Slow - Thunderbolt >",
+      "JP": ">> 範囲減速 雷撃 <<",
+      "CN": ">> 范围减速 闪电 <<",
+      "KR": ">> 범위 감속 번개 <<",
+      "TW": "範圍減速 雷電"
+    }
   },
   "** 法王之名 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The name of the Mage King **",
+      "JP": "法王の名称",
+      "CN": "",
+      "KR": "** 법왕의 명칭 **",
+      "TW": "**法王之名**"
+    }
   },
   "** 大门开启，撤退  **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Gate open. Evacuate. **",
+      "JP": "大扉開閉、撤退",
+      "CN": "",
+      "KR": "** 대문 개방, 후퇴 **",
+      "TW": "**大門開啟，撤退**"
+    }
   },
   "<<< 整顿装备，向岛屿触发 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<< Reequip and deploy to the island. >>>",
+      "JP": "<<< 装備を整えて島へ向けて発進 >>>",
+      "CN": "",
+      "KR": "<<< 장비 정비, 섬으로 출진 >>>",
+      "TW": "<<<整理裝備，啟程前往島嶼>>>"
+    }
   },
   "** 诅咒者已被拾取 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Cursed one acquired. **",
+      "JP": "呪い者は獲得済み",
+      "CN": "",
+      "KR": "** 저주가 담긴 자 획득 **",
+      "TW": "**已拾取詛咒者**"
+    }
   },
   "** 诅咒者附带高额减速，并废除人类的武器 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The cursed unit applies heavy slow and disables human weapons. **",
+      "JP": "呪い者は強力な減速効果を持ち、人間の武器を無効化します",
+      "CN": "",
+      "KR": "** 저자가 높은 감속 값을 부리며, 인간의 무기를 봉쇄합니다 **",
+      "TW": "**詛咒者附帶高额減速效果，並禁用人類武器**"
+    }
   },
   "** 12s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "12秒",
+      "CN": "** 12秒 **",
+      "KR": "** 12초 **",
+      "TW": "**12秒**"
+    }
   },
   "<<< 这个地方有点古怪 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<< This place is strange... >>>",
+      "JP": "<<< この場所、少々怪しい >>>",
+      "CN": "",
+      "KR": "<<< 이 곳은 약간 기괴합니다 >>>",
+      "TW": "<<<這裡有點古怪>>>"
+    }
   },
   "<< 范围直线 风已拾取 >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Area line. Wind acquired. >>",
+      "JP": "<< 範囲直線 風を拾う >>",
+      "CN": "",
+      "KR": "<< 범위 직선 풍을 획득함 >>",
+      "TW": "<<已拾取範圍直線風>>"
+    }
   },
   "** 恶灵溃散  **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Evil spirit dissipated. **",
+      "JP": "** 悪霊崩壊 **",
+      "CN": "",
+      "KR": "** 악령 붕괴 **",
+      "TW": "** 惡靈潰散 **"
+    }
   },
   "<<< 穿过大门，沿着通道向上走，我们一探究竟 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<< Pass through the gate and follow the corridor upward. Let's investigate. >>>",
+      "JP": "<<< 門をくぐり、通路を上っていこう。中を探ってみよう >>>",
+      "CN": "",
+      "KR": "<<< 문穿过, 통로를 따라 위로 올라가자. 우리가一探究竟하자. >>>",
+      "TW": "<<< 穿過大門，沿著通道向上走，我們一探究竟 >>>"
+    }
   },
   "**铠甲勇士降临 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Armadura勇士 Descends**",
+      "JP": "** アーマードヒーロー降臨 **",
+      "CN": "",
+      "KR": "** 갑옷 무사 강림 **",
+      "TW": "** 鎧甲勇士降臨 **"
+    }
   },
   "** 变身期间不会受到僵尸伤害，但时间有限 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Immune to zombie damage during transformation, but time is limited**",
+      "JP": "** 変身中はゾンビのダメージを受けないが、時間には制限がある **",
+      "CN": "",
+      "KR": "** 변신 중에는 좀비의 피해를 받지 않지만, 시간이 한정적입니다. **",
+      "TW": "** 變身期間不會受到殭屍傷害，但時間有限 **"
+    }
   },
   "** 左键释放普通攻击 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Left-click for basic attack**",
+      "JP": "** 左クリックで通常攻撃を実行 **",
+      "CN": "",
+      "KR": "** 왼쪽 버튼으로 일반 공격을 발사합니다. **",
+      "TW": "** 左鍵釋放普通攻擊 **"
+    }
   },
   "** SAWDAD+右键释放八方光刃(伤害极高） **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** SAWDAD+Right-click for Octagonal Light Blade (extremely high damage)**",
+      "JP": "** SAWDAD+右クリックで八方光刃(超高ダメージ)を発動 **",
+      "CN": "",
+      "KR": "** SAWDAD + 오른쪽 버튼으로 팔방 광검(피해가 매우 높음) 발사 **",
+      "TW": "** SAWDAD+右鍵釋放八方光刃（傷害極高）**"
+    }
   },
   "** 坚守25s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Defend for 25s**",
+      "JP": "** 25秒間防衛 **",
+      "CN": "",
+      "KR": "** 25초 방어 **",
+      "TW": "** 堅守25s **"
+    }
   },
   "** 30s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒 **",
+      "CN": "** 30秒 **",
+      "KR": "** 30초 **",
+      "TW": "** 30s **"
+    }
   },
   "<< 墙已被拾取 >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Wall has been picked up >>",
+      "JP": "<< 壁が回収されました >>",
+      "CN": "",
+      "KR": "<< 벽이拾取了 >>",
+      "TW": "<< 已拾取牆壁 >>"
+    }
   },
   "** 恶灵止步 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Evil spirits, stand still**",
+      "JP": "** 悪霊止步 **",
+      "CN": "",
+      "KR": "** 악령은ここで止步해 **",
+      "TW": "** 惡靈止步 **"
+    }
   },
   "<<< 这个洞穴不应该早被废弃了吗，为何还有如此规模的迷宫 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Shouldn't this cave have been abandoned long ago? Why is there still a maze of this scale >>>",
+      "JP": "<<< この洞窟はとっくに廃棄されるべきではなかったのか、なぜこれほどの規模の迷宮が残っているのだ >>>",
+      "CN": "",
+      "KR": "<<< 이洞穴가조금전에폐기되었을지어떤，왜그런規模의迷宫가여전히존재하는것인가 >>>",
+      "TW": "<<< 這個洞穴早該被廢棄了，為何還存在如此規模的迷宮？ >>>"
+    }
   },
   "<<< 不安 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Unease",
+      "JP": "<<< 不安 >>>",
+      "CN": "",
+      "KR": "<<< 불안정함 >>>",
+      "TW": "<<< 不安感 >>>"
+    }
   },
   "** 注意，在迷宫中，水可为指引正确方向  **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Note: In the dungeon, water can guide you in the right direction. **",
+      "JP": "** 注意、迷宮では水が正しい方向を示す手がかりとなります **",
+      "CN": "",
+      "KR": "** 주의하시오，迷宮中에서는물이올바른方針을指引할수있으므로 **",
+      "TW": "** 注意：在迷宮中，水流能指引正確方向 **"
+    }
   },
   "<<< 解锁机关，我们要离开这个地方 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Unlock the mechanism. We must leave this place. ***",
+      "JP": "<<< 機関を解除し、ここから脱出しよう >>>",
+      "CN": "解锁机关，我们就要离开这里 >>>",
+      "KR": "<<<机关을解雇하며，이地方를脱出하자 >>>",
+      "TW": "<<< 已解開機關，我們離開這裡 >>>"
+    }
   },
   "** 10s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒 **",
+      "CN": "** 10秒 **",
+      "KR": "** 10s **",
+      "TW": "** 10秒 **"
+    }
   },
   "** 第一开关已按下  **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The first switch has been activated. **",
+      "JP": "** 第一スイッチ押下 **",
+      "CN": "",
+      "KR": "** 첫번째开关이押下되었다 **",
+      "TW": "** 第一個開關已啟動 **."
+    }
   },
   "** 第二开关已按下 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The second switch has been activated. **",
+      "JP": "** 第二スイッチが押された **",
+      "CN": "",
+      "KR": "** 2번 스위치 작동 중 **",
+      "TW": "第二開關已按下"
+    }
   },
   "** 请等待石门打开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Please wait for the stone door to open. **",
+      "JP": "** 石の扉が開くまでお待ちください **",
+      "CN": "",
+      "KR": "** 문이 열릴 때까지 대기하십시오 **",
+      "TW": "請等待石門開啟"
+    }
   },
   "** 最后开关已按下 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The final switch has been activated. **",
+      "JP": "** 最後のスイッチが押された **",
+      "CN": "",
+      "KR": "** 마지막 스위치 작동 중 **",
+      "TW": "最後開關已按下"
+    }
   },
   "** 30s后上方通道打开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The passage above will open in 30s. **",
+      "JP": "** 30秒後に上部通路が開く **",
+      "CN": "",
+      "KR": "** 30초 후 상부 통로 개방 **",
+      "TW": "30秒後上方通道開啟"
+    }
   },
   "<<< 为什么还有传送水晶，是谁在使用它 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Why is there a teleportation crystal? Who is using it?",
+      "JP": "<<< なぜトランスポートクリスタルがまだあるのか、誰がそれを使用しているのか >>>",
+      "CN": "",
+      "KR": "<<<< 전송 결정체는 누구에게서? >>>",
+      "TW": "<<< 為什麼還有傳送水晶，是誰在使用它 >>>"
+    }
   },
   "** 风之护体 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Wind Shield **",
+      "JP": "** 風の護り **",
+      "CN": "",
+      "KR": "** 바람의 수호 **",
+      "TW": "風之護體"
+    }
   },
   "** 坚守35s 平台传送**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for 35s Platform Teleport **",
+      "JP": "** 35秒間堅守、プラットフォーム転送**",
+      "CN": "",
+      "KR": "** 35초간 버티면 플랫폼 전송 **",
+      "TW": "堅持35秒後平台傳送"
+    }
   },
   "** 坚守10s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for 10s **",
+      "JP": "** 10秒間堅守 **",
+      "CN": "",
+      "KR": "** 10초간 버티기 **",
+      "TW": "堅持10秒"
+    }
   },
   "<<< 古老的设施，有趣 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Ancient facility, interesting >>>",
+      "JP": "<<< 古い施設、面白い >>>",
+      "CN": "",
+      "KR": "<<< 오래된 시설, 흥미진진한 경험 >>>",
+      "TW": "<<< 古老的設施，很有趣 >>>"
+    }
   },
   "** 坚守20s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for 20s **",
+      "JP": "** 20秒間維持 **",
+      "CN": "",
+      "KR": "** 20초간 버티기 **",
+      "TW": "** 堅守 20 秒 **"
+    }
   },
   "** 我们只有130s，速战速决 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** We only have 130s, let's finish this quickly **",
+      "JP": "** 残り130秒、速攻で決着つけよう **",
+      "CN": "",
+      "KR": "** 우리는 130초밖에 없어, 빠르게 처리해 **",
+      "TW": "** 我們只有 130 秒，速戰速決 **"
+    }
   },
   "<<< 他就是这次异变的源头吗？ >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Is he the source of this anomaly? >>>",
+      "JP": "<<< あの男こそが今回の異常の源なのか？ >>>",
+      "CN": "",
+      "KR": "<<< 그가 이번 이상 변화의 원흉인가? >>>",
+      "TW": "<<<? 他就是這次異變的源頭嗎？ >>>"
+    }
   },
   "<<< 总之，先击溃他吧>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Anyway, let's strike him down first.",
+      "JP": "<<< とりあえず、まず彼を倒そう >>>",
+      "CN": "总之，先干掉他吧",
+      "KR": "<<< 아무튼, 먼저 그를 무력화하자>>>",
+      "TW": "<<<? 總之，先擊潰他吧 >>>"
+    }
   },
   "*** 地震 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Earthquake ***",
+      "JP": "*** 地震 ***",
+      "CN": "",
+      "KR": "*** 지진 ***",
+      "TW": "*** 地震 ***"
+    }
   },
   "*** 昏暗飞刀 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Dim Dagger ***",
+      "JP": "*** 暗闇の飛刀 ***",
+      "CN": "",
+      "KR": "*** 어둠의 날아오는 칼 ***",
+      "TW": "*** 昏暗飛刀 ***"
+    }
   },
   "*** 狂风来袭 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Fierce Gust Hits ***",
+      "JP": "*** 強風襲来 ***",
+      "CN": "",
+      "KR": "*** 광풍이 몰려온다 ***",
+      "TW": "*** 狂風來襲 ***"
+    }
   },
   "** 收割者，僵尸神力拾取 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Reaper, Zombie Divine Power Pickup **",
+      "JP": "** 収穫者、ゾンビ神力アイテム **",
+      "CN": "",
+      "KR": "** 수확자, 좀비神力 아이템 **",
+      "TW": "** 收割者，殭屍神力拾取 **"
+    }
   },
   "*** 火焰吐息 ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Flame Breath ***",
+      "JP": "*** 火炎吐息 ***",
+      "CN": "",
+      "KR": "*** 화염 브리새 ***",
+      "TW": "*** 火焰吐息 ***"
+    }
   },
   "<<< 他逃走了 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "He has escaped.",
+      "JP": "<<< 彼は逃げた >>>",
+      "CN": "",
+      "KR": "<<< 그는 도망쳤다 >>>",
+      "TW": "<<< 他逃走了 >>>"
+    }
   },
   "** 2s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 2秒 **",
+      "CN": "** 2秒 **",
+      "KR": "** 2초 **",
+      "TW": "** 2秒 **"
+    }
   },
   "<<< 但他还会回来的>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "But he will return.",
+      "JP": "<<< しかし、彼はまた戻ってくる>>>",
+      "CN": "",
+      "KR": "<<< 하지만 그는 다시 올 것이다>>>",
+      "TW": "<<< 但他還會回來>>>"
+    }
   },
   "** 沿着洞穴瀑布向上 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** 沿着洞穴瀑布向上 **",
+      "JP": "** 洞穴の滝を上って **",
+      "CN": "沿着洞窟瀑布向上",
+      "KR": "** 동굴 폭포 위로 **",
+      "TW": "** 沿著洞穴瀑布向上 **"
+    }
   },
   "<<< 抓紧离开这里吧>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<< 抓紧离开这里吧>>>>",
+      "JP": "<<< ここで離れて、しっかり掴んで>>>",
+      "CN": "",
+      "KR": "<<< 여기서 빨리 사라져>>",
+      "TW": "<<< 抓緊離開這裡吧>>>"
+    }
   },
   "** 快上船离开这里 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** 快上船离开这里 **",
+      "JP": "** 船に乗って、ここを離れる **",
+      "CN": "",
+      "KR": "** 배에 빨리 탑승하여 여기서 떠나자 **",
+      "TW": "** 快上船離開這裡 **"
+    }
   },
   "** 坚守35s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** 坚守35s **",
+      "JP": "** 35秒間維持 **",
+      "CN": "",
+      "KR": "** 35초 내버티기 **",
+      "TW": "** 堅守35秒 **"
+    }
   },
   "<<< Level 2 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<<= レベル 2 >>>",
+      "CN": "<<< 第二关 >>>",
+      "KR": "<<< 레벨 2 >>>",
+      "TW": "<<<<< 第二關 >>>>>"
+    }
   },
   "** Level 2 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** レベル 2 **",
+      "CN": "** 第二关 **",
+      "KR": "** 레벨 2 **",
+      "TW": "** 第二關 **"
+    }
   },
   "<<< 第二章_序幕 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<< 第二章_序幕 >>>>",
+      "JP": "<<<= 第二章_序章 >>>",
+      "CN": "",
+      "KR": "<<<第二章_序幕>>>",
+      "TW": "<<<<< 第二章_序幕 >>>>>"
+    }
   },
   "<<< 鉴于之前的探索，这次的异变非同一般 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<< 鉴于之前的探索，这次的异变非同一般 >>>>",
+      "JP": "<<<= 前回の探索を考慮すると、今回の異変は通常のものではない >>>",
+      "CN": "",
+      "KR": "<<<이전의 탐험을 바탕으로 생각해보면, 이번 이상 징후는 보통 것이 아닙니다>>>",
+      "TW": "<<<<< 鑑於此前的探索，這次異變非同小可 >>>>>"
+    }
   },
   "<<< 我们蒙受损失，必须撤退并向洛丹伦汇报情况 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<< 我们蒙受损失，必须撤退并向洛丹伦汇报情况 >>>>",
+      "JP": "<<<= 我々は被害を受けている。撤退し、ローダレンに報告しなければならない >>>",
+      "CN": "",
+      "KR": "<<<우리는 큰 피해를 입었으니, 철수하여 로더런에 보고해야 합니다>>>",
+      "TW": "<<<<< 我們遭受損失，必須撤退並向洛丹倫匯報情況 >>>>>"
+    }
   },
   "<<< 一定会回来的，一定 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<<< 一定会回来的，一定 >>>>",
+      "JP": "<<<= 必ず戻ってくる。絶対だ >>>",
+      "CN": "",
+      "KR": "<<<반드시 돌아올 거야, 반드시>>>",
+      "TW": "<<<<< 一定會回來的，一定 >>>>>"
+    }
   },
   "<<< 这次我们将借道西边的洞穴，向洛丹伦撤退 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This time we will take the caves in the west and retreat to Lordaeron.",
+      "JP": "<<<= 今回は西の洞窟を迂回し、ローダレンへ撤退する >>>",
+      "CN": "",
+      "KR": "<<<이번에는 서쪽 동굴을 지나 로더런으로 철수할 것입니다>>>",
+      "TW": "<<<<< 這次我們將借道西邊的洞穴，向洛丹倫撤退 >>>>>"
+    }
   },
   "<<< 那地方尘封多年，可能还会有守护者 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "That place has been sealed for years; there may still be guardians there.",
+      "JP": "あの場所は長年月塵にまみれ、ガードマンがいるかもしれません",
+      "CN": "",
+      "KR": "그곳은 수년간 먼지 속에 묻혀 있었으니, 아마도 수호자들도 남아있을 겁니다.",
+      "TW": "那地方可能已被塵封多年，或許還有守護者在。"
+    }
   },
   "<<< 行动一定要万分小心 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "You must proceed with extreme caution.",
+      "JP": "行動は絶対に慎重に",
+      "CN": "",
+      "KR": "행동은 반드시 신중하게 하십시오.",
+      "TW": "行動必須萬分小心。"
+    }
   },
   "** 40s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 40秒 **",
+      "CN": "** 40秒 **",
+      "KR": "** 40초 **",
+      "TW": "** 40秒 **"
+    }
   },
   "** 整顿装备，整装待发  **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Check your gear and stand by.",
+      "JP": "** 装備を調整し、出撃の準備整う **",
+      "CN": "",
+      "KR": "** 장비 정비, 출정 준비 완료 **",
+      "TW": "** 整頓裝備，準備出發 **"
+    }
   },
   "** 15s后爆炸 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "15s until explosion",
+      "JP": "** 15秒後に爆発 **",
+      "CN": "15秒后爆炸",
+      "KR": "** 15초 후 폭발 **",
+      "TW": "** 15秒後爆炸 **"
+    }
   },
   "<<< 闪开，我们把一切挡路的障碍都炸开 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Make way! We blow up any obstacles in our path.",
+      "JP": "** 閃光、全ての障害物を爆破する **",
+      "CN": "",
+      "KR": "<><> 옆으로 피하세요, 모든 장애물을 폭파합니다.<><>",
+      "TW": "閃開，我們要把一切擋路的障礙都炸開。"
+    }
   },
   "** 正在解锁 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Unlocking",
+      "JP": "** ロック解除中 **",
+      "CN": "",
+      "KR": "** 잠금 해제 중 **",
+      "TW": "** 正在解鎖 **"
+    }
   },
   "** 10s放下吊桥**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "10s until drawbridge lowered",
+      "JP": "** 10秒後引き橋を下ろす**",
+      "CN": "10秒放下吊桥",
+      "KR": "** 10초 후 빗물교 내려짐 **",
+      "TW": "** 10秒後放下吊橋 **"
+    }
   },
   "<<< 开关还能用，万幸 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The switch still works. Lucky.",
+      "JP": "スイッチはまだ使える。幸運だったな",
+      "CN": "",
+      "KR": "스위치는 아직 작동할 수 있습니다. 다행이에요.",
+      "TW": "開關還能用，萬幸"
+    }
   },
   "<<< 这些石板年久失修了，小心点，士兵 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "These stone slabs are in poor repair. Be careful, soldiers.",
+      "JP": "この石版は長年放置されて朽ちている。気をつけるんだ、兵士",
+      "CN": "",
+      "KR": "이 돌판들은 장기간 방치되어 있군요. 조심하세요, 병사님.",
+      "TW": "這些石板年久失修了，小心點，士兵"
+    }
   },
   "** 20s后铁门破碎 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Iron door breaks after 20s **",
+      "JP": "** 20秒後に鉄門が破砕 **",
+      "CN": "20秒后铁门破碎",
+      "KR": "** 20초 후 철문이 파손됨 **",
+      "TW": "** 20秒後鐵門破碎 **"
+    }
   },
   "** 20s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒後 **",
+      "CN": "** 20s **",
+      "KR": "** 20초 **",
+      "TW": "** 20秒 **"
+    }
   },
   "<<< 为什么有这么多机关，这里发生过什么？ >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Why are there so many mechanisms? What happened here?",
+      "JP": "なぜこんなにトリックがあるんだ？ここで何が起こったのか？",
+      "CN": "",
+      "KR": "어째서 여기에는这么多的 함정이 있는 거지? 이곳에서 무슨 일이?",
+      "TW": "<<< 為什麼有這麼多機關，這裡發生過什麼？ >>>"
+    }
   },
   "** 20s后铁门打开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Iron door opens after 20s **",
+      "JP": "** 20秒後に鉄門が開く **",
+      "CN": "20秒后铁门打开",
+      "KR": "** 20초 후 철문이 열림 **",
+      "TW": "** 20秒後鐵門打開 **"
+    }
   },
   "** 25s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒後 **",
+      "CN": "** 25s **",
+      "KR": "** 25초 **",
+      "TW": "** 25秒 **"
+    }
   },
   "** 20s后炸开墙壁 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Wall explodes after 20s **",
+      "JP": "** 20秒後に壁が炸裂 **",
+      "CN": "** 20秒后炸开墙壁 **",
+      "KR": "** 20초 후 벽이 폭발함 **",
+      "TW": "** 20秒後炸開牆壁 **"
+    }
   },
   "<<< 是前哨站，我们就快到了 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "It's an outpost. We're almost there.",
+      "JP": "前哨だ、もうすぐそこだ",
+      "CN": "<<< 前哨站就是这里，我们快要到了 >>>",
+      "KR": "<<< 전초기지다, 우리가 곧 도착한다 >>>",
+      "TW": "<<< 是前哨站，我們快到了 >>>"
+    }
   },
   "** 30s后炸开石头 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Stone explodes after 30s **",
+      "JP": "** 30秒後に岩盤が爆破 **",
+      "CN": "",
+      "KR": "** 30초 후 돌격 폭발 **",
+      "TW": "** 30秒後石頭炸開 **"
+    }
   },
   "<<< 是守护者，这老东西还在这里 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "\"This is the Guardian. This old thing is still here.\"",
+      "JP": "ガーディアンだ、こやつはここにいる",
+      "CN": "",
+      "KR": "<<< 수호자다, 이 노인도 아직 여기 있다 >>>",
+      "TW": "<<< 是守護者，這老東西還在這兒 >>>"
+    }
   },
   "<<< 没办法了，强行突破 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "\"No choice but to force a breakthrough.\"",
+      "JP": "どうにもならない、強行突破するしかない",
+      "CN": "",
+      "KR": "<<< 방법이 없다, 강행 돌파 **",
+      "TW": "<<< 別無選擇，強行突破 >>>"
+    }
   },
   "** 剩余120s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Remaining: 120s **",
+      "JP": "** 残り120秒 **",
+      "CN": "",
+      "KR": "** 잔여 120초 **",
+      "TW": "** 剩餘 120 秒 **"
+    }
   },
   "** 虹吸 **": {
-    "translation": "** 5秒，虹吸，按住S **"
+    "translation": "** 5秒，虹吸，按住S **",
+    "MultiLang": {
+      "US": "** Siphon **",
+      "JP": "** サイフォン **",
+      "CN": "** 5秒，虹吸，按住S **",
+      "KR": "** 흡혈 **",
+      "TW": "** 虹吸 **"
+    }
   },
   "** 闪电 **": {
-    "translation": "** 5秒，闪电，去BOSS平台前半场 **"
+    "translation": "** 5秒，闪电，去BOSS平台前半场 **",
+    "MultiLang": {
+      "US": "** Lightning **",
+      "JP": "** 雷撃 **",
+      "CN": "** 5秒，闪电，去BOSS平台前半场 **",
+      "KR": "** 번개 **",
+      "TW": "** 閃電 **"
+    }
   },
   "** 驱逐者 僵尸刀拾取**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Banisher: Zombie Blade Pickup **",
+      "JP": "** 追放者 ゾンボンド回収**",
+      "CN": "",
+      "KR": "** 추방자 좀비 칼 픽업**",
+      "TW": "** 驅逐者 殭屍刀拾取**"
+    }
   },
   "** 3s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 3秒 **",
+      "CN": "** 3s **",
+      "KR": "** 3초 후 **",
+      "TW": "** 3秒**"
+    }
   },
   "** 20s后开启传送 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Portal activates in 20s. **",
+      "JP": "** 20秒後に転送開始 **",
+      "CN": "",
+      "KR": "** 20초 후 텔레포트 활성화 **",
+      "TW": "** 20秒後開啟傳送門**"
+    }
   },
   "** 传送已经开启，快走 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Portal is open. Move! **",
+      "JP": "** 転送が開始されました、急いで！ **",
+      "CN": "",
+      "KR": "** 텔레포트가 이미 활성화되었습니다. 얼른 가세요! **",
+      "TW": "** 傳送門已開啟，快點走！**"
+    }
   },
   "** 感谢miluli_提供的模型 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Model provided by miluli_ **",
+      "JP": "** miluli_氏提供のモデルを使用しています。ありがとうございます **",
+      "CN": "",
+      "KR": "** 모델 제공: miluli_에게 감사드립니다 **",
+      "TW": "** 感謝 miluli_ 提供的模型**"
+    }
   },
   "<<< 这是？？ >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< What is this? >>>",
+      "JP": "<<< これは？？ >>>",
+      "CN": "",
+      "KR": "<<< 이것은 ?? >>>",
+      "TW": "<<<< 這是？？ >>>"
+    }
   },
   "<<< 恶魔！他怎么会在这里，开枪击溃他 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Demon! How did he get here, shoot him down >>>",
+      "JP": "<<< 悪魔だ！どうしてここに！撃たせろ >>>",
+      "CN": "",
+      "KR": "<<<<< 악마다! 그가 여기 있을 리가 없다. 총으로 그를 제압하라! >>>",
+      "TW": "<<<< 惡魔！他怎麼會在這裡，開槍擊潰他 >>>"
+    }
   },
   "<<< 他逃走了. >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< He escaped. >>>",
+      "JP": "<<< 彼は逃げてしまった。 >>>",
+      "CN": "",
+      "KR": "<<< 그는 도주했다. >>>",
+      "TW": "<<<< 他逃走了. >>>"
+    }
   },
   "<<< 但是这一切都太过蹊跷了 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< But this is all too suspicious >>>",
+      "JP": "<<< しかし、これはすべて不審すぎる >>>",
+      "CN": "",
+      "KR": "<<< 하지만 모든 것이 지나치게 의문스럽다. >>>",
+      "TW": "<<<< 但是這一切都太過蹊蹺了 >>>"
+    }
   },
   "** 10s后门关**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Backdoor closed in 10s **",
+      "JP": "** 10秒后门封鎖**",
+      "CN": "",
+      "KR": "** 10초 후문 닫힘**",
+      "TW": "後門於10秒後關閉"
+    }
   },
   "** 坚守60s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold out for 60s **",
+      "JP": "** 60秒堅持 **",
+      "CN": "",
+      "KR": "** 60초 버티기 **",
+      "TW": "堅守60秒"
+    }
   },
   "<<< 那个恶魔一定在筹划着什么，决不能让他得逞 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< That demon must be plotting something, we must not let him succeed >>>",
+      "JP": "<<< あの悪魔は何かを画策しているに違いない。決して成功させてはならない >>>",
+      "CN": "",
+      "KR": "*** 저 악마가 반드시 어떤 술수를 꾸리고 있을 거야. 절대 허용해선 안 돼 ***",
+      "TW": "那個惡魔一定在籌劃著什麼，決不能讓他得逞"
+    }
   },
   "<<< Level 3 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< レベル3 >>>",
+      "CN": "<<< 关卡 3 >>>",
+      "KR": "*** 레벨 3 ***",
+      "TW": "<b>關卡等級 3</b>"
+    }
   },
   "** 第二关_通关 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Stage 2 - Cleared **",
+      "JP": "** 第2関 クリア **",
+      "CN": "",
+      "KR": "** 2클리어 **",
+      "TW": "第二關_通關"
+    }
   },
   "<<< 第三章 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Chapter 3 >",
+      "JP": "<<< 第三章 >>>",
+      "CN": "",
+      "KR": "*** 제3장 ***",
+      "TW": "<b>第三章</b>"
+    }
   },
   "<<< 因为恶魔的出现，我们的计划被彻底打乱 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< The appearance of the demons has completely disrupted our plans. >",
+      "JP": "<<< 悪魔の出現により、私たちの計画は完全に狂ってしまった >>>",
+      "CN": "",
+      "KR": "*** 악마의 등장으로 인해 우리 계획은 완전히 무너졌다 ***",
+      "TW": "因為惡魔的出現，我們的計劃被徹底打亂"
+    }
   },
   "<<< 那家伙一定和这次的异变有关，十分危险 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< That individual must be connected to this anomaly; they are highly dangerous. >",
+      "JP": "<<< あいつは今回の異変に関与しているはずだ。非常に危険 >>>",
+      "CN": "",
+      "KR": "*** 저 자들은 이번 기이한 사건과 관련이 있을 거야. 매우 위험해 ***",
+      "TW": "那傢伙一定和這次的異變有關，十分危險"
+    }
   },
   "<<< 我们放弃回到洛丹伦，再次来到这里 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< We have abandoned our return to Lordaeron and returned here. >",
+      "JP": "ロードァーレンへの帰還を諦め、再びこの地を訪れた",
+      "CN": "",
+      "KR": "우리는 로데론으로의 귀국을 포기하고, 다시 이곳에 모였다.",
+      "TW": "我們放棄回到洛丹倫，再次來到這裡。"
+    }
   },
   "<<< 根据情报，恶魔就盘踞在岛屿的地下城内 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Intelligence suggests the demons are hiding in the underground city beneath the island. >",
+      "JP": "情報によると、デーモンは島の地下洞窟に潜んでいる",
+      "CN": "根据情报，恶魔就在岛屿的地牢 underground城里",
+      "KR": "정보에 따르면 악마들이 섬의 지하 동굴에 몸을 숨기고 있다.",
+      "TW": "根據情報，惡魔就盤踞在島嶼的地下城內。"
+    }
   },
   "<<< 我们要发动攻击，击败恶魔 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< We must launch an attack and defeat the demons. >",
+      "JP": "攻撃を開始し、デーモンを撃破する",
+      "CN": "",
+      "KR": "공격을 개시하여 악마들을 물리치자!",
+      "TW": "我們要發動攻擊，擊敗惡魔。"
+    }
   },
   "<<< 但愿这是最后一战，为了洛丹伦 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< May this be our final battle, for Lordaeron. >",
+      "JP": "これが最後の戦いでありますように、ロードァーレンのために",
+      "CN": "",
+      "KR": "로데론을 위해, 이번이 마지막 전투이길 바란다.",
+      "TW": "但願這是最後一站，為了洛丹倫。"
+    }
   },
   "** 坚守45s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Hold for 45s**",
+      "JP": "** 45秒間維持 **",
+      "CN": "",
+      "KR": "** 45초 내내 방어 유지 **",
+      "TW": "** 堅守45s **"
+    }
   },
   "** 双子大门15s后打开**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Twin doors open in 15s**",
+      "JP": "** 双子の門は15秒後に開く **",
+      "CN": "",
+      "KR": "** 쌍둥이 문, 15초 후 개장 **",
+      "TW": "** 雙子大門15s後打開**"
+    }
   },
   "<<< 废弃的地下城仍在运行 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< The abandoned dungeon is still operational >>>",
+      "JP": "放棄された地下洞窟はなお稼働している",
+      "CN": "废弃的地牢仍然运作",
+      "KR": "폐허가 된 지하 동굴이 여전히 작동 중이다.",
+      "TW": "「廢棄的地下城仍在運行」"
+    }
   },
   "<<< 不安.. >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Unease.. >>>",
+      "JP": "不安だ…",
+      "CN": "",
+      "KR": "불안...",
+      "TW": "「不安..」"
+    }
   },
   "** 20s铁门打开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Iron gate opens in 20s**",
+      "JP": "20年代の鉄扉が開く",
+      "CN": "** 20秒铁门开启 **",
+      "KR": "** 20대 철문 열림 **",
+      "TW": "** 20年代鐵門開啟 **"
+    }
   },
   "** 录入访客信息... **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Registering visitor information...**",
+      "JP": "訪問者情報を登録中...",
+      "CN": "",
+      "KR": "** 방문자 정보 입력 중... **",
+      "TW": "** 錄入訪客資訊... **"
+    }
   },
   "** 信息上传中... **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Uploading information...**",
+      "JP": "情報アップロード中...",
+      "CN": "",
+      "KR": "** 정보 업로드 중... **",
+      "TW": "** 資訊上傳中... **"
+    }
   },
   "** 解锁下一个大门，等待15s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "**Unlocking next gate, wait 15s**",
+      "JP": "次の扉を解除、15秒待機",
+      "CN": "",
+      "KR": "** 다음 문 해금, 15초 대기 **",
+      "TW": "** 解鎖下一道門，請等待15秒 **"
+    }
   },
   "** 注意测路的恶灵 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Beware of malicious spirits on the path **",
+      "JP": "ルート測定時の悪霊に注意",
+      "CN": "",
+      "KR": "** 경로 탐색 시 악령에 주의 **",
+      "TW": "** 警惕途中的惡靈 **"
+    }
   },
   "** 解锁失败，大门被锁定 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Unlock failed, gate locked **",
+      "JP": "解除失敗、扉がロックされた",
+      "CN": "",
+      "KR": "** 해금 실패, 문 잠김 **",
+      "TW": "** 解鎖失敗，門已鎖定 **"
+    }
   },
   "** 更换方式..大门破译中.. **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Switching method... Deciphering gate..**",
+      "JP": "方法変更... 扉の解読中...",
+      "CN": "",
+      "KR": "** 방식 변경.. 문 해독 중.. **",
+      "TW": "** 切換方式...門體破解中... **"
+    }
   },
   "** 访问成功，大门10s后开启 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Access granted, gate opens in 10s **",
+      "JP": "アクセス成功、10秒後に扉が開く",
+      "CN": "",
+      "KR": "** 방문 성공, 10초 후 문 열림 **",
+      "TW": "** 訪問成功，門將於10秒後開啟 **"
+    }
   },
   "<<< 道路被切断了，这是个阴谋 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Path cut off. This is a conspiracy. >>>",
+      "JP": "<<< 道路が寸断された、これは阴谋だ >>>",
+      "CN": "",
+      "KR": "<<道路가 막혔다, 이는 음모이다>>",
+      "TW": "道路中斷，這是一場陰謀"
+    }
   },
   "** 未获得许可 等待.. **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Unauthorized. Waiting..**",
+      "JP": "** 許可未取得 待機中.. **",
+      "CN": "",
+      "KR": "**승인 대기 중..**",
+      "TW": "未獲授權 等待中.."
+    }
   },
   "<<< 前方未知，但我们只能继续前进>>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Unknown ahead, but we must proceed >>>",
+      "JP": "<<< 先は未知なるものだが、進むしかない >>>",
+      "CN": "",
+      "KR": "<<앞은 미지이지만, 우리는 계속 진격해야 한다>>",
+      "TW": "前方未知，但我們只能繼續前進"
+    }
   },
   "** 已准许，可进入 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Authorized. Entry permitted.**",
+      "JP": "** 許可済み、進入可 **",
+      "CN": "",
+      "KR": "**승인 완료, 진입 가능**",
+      "TW": "已獲授權，可通行"
+    }
   },
   "** 20s后大门打开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Main gate opens in 20s **",
+      "JP": "** 20秒後に大門開放 **",
+      "CN": "20秒后大门打开",
+      "KR": "**20초 후 대문 개방**",
+      "TW": "20秒後大門開啟"
+    }
   },
   "<<< 该死，我们被包围了 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Damn, we're surrounded >>>",
+      "JP": "<<< った、我々は包囲された >>>",
+      "CN": ">>> 拦路虎，我们被包围了 >>>",
+      "KR": "<<저런, 우리는 포위당했다>>",
+      "TW": "該死，我們被包圍了"
+    }
   },
   "** 第一开关按下，解锁大门 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** First switch pressed, gate unlocked **",
+      "JP": "** 第一スイッチ押下、大門解除 **",
+      "CN": "",
+      "KR": "**제1 스위치 작동, 대문 잠금 해제**",
+      "TW": "第一開關已觸發，門已解鎖"
+    }
   },
   "** 大门即将锁闭，阻挡他们 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Gate closing soon, blocking them off **",
+      "JP": "** 大門閉鎖間近、彼らを遮れ **",
+      "CN": "",
+      "KR": "**대문 폐쇄 임박, 그들을 막아라**",
+      "TW": "大門即將關閉，阻擋他們"
+    }
   },
   "<<< 整顿装备，向岛屿出发 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Gear up and head to the island >>>",
+      "JP": "装備を整え、島へ出发しよう",
+      "CN": "",
+      "KR": "<< 장비를 정비하고 섬으로 출격합니다 >>",
+      "TW": "整裝待發，前往島嶼"
+    }
   },
   "** WAD+右键施展地震波，击飞面前的僵尸 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** WAD + Right-click to cast Seismic Wave, launching nearby zombies **",
+      "JP": "** WAD+右键で地震波を発動し、手前のゾンミを吹き飛ばす **",
+      "CN": "*** 使用WAD+右键施放地震波，击飞前方的僵尸 ***",
+      "KR": "** WAD+우클릭: 지진파 발사, 앞의 좀비 날려버리기 **",
+      "TW": "** WAD+右鍵發動地震波，擊飛前方的殭屍 **"
+    }
   },
   "<< 这个山洞有些危险，等待兵力集结一并进入吧 >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< This cave is dangerous. Wait for reinforcements before entering. >>",
+      "JP": "<< この洞窟は危険なようだ。兵力が集まるのを待って、一緒に进入しよう >>",
+      "CN": "",
+      "KR": "<< 이 동굴은 다소 위험합니다. 병력이 집결할 때까지 기다렸다 진입합시다 >>",
+      "TW": "<< 這個山洞充滿危險，請等待兵力集結後再一同進入 >>"
+    }
   },
   "<< 道路已经通畅，我们出发 >>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<< The path is clear. Let's move out. >>",
+      "JP": "<< 道路は通行可能だ。出发しよう >>",
+      "CN": "",
+      "KR": "<< 도로가 확보되었습니다. 출격합니다 >>",
+      "TW": "<< 道路已打通，我們出發吧 >>"
+    }
   },
   "** 剩余150s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** 150s remaining **",
+      "JP": "** 残り150秒 **",
+      "CN": "",
+      "KR": "** 잔여 시간 150초 **",
+      "TW": "** 倒計時 150秒 **"
+    }
   },
   "** T3增益者已被拾取 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** T3 Booster collected **",
+      "JP": "** T3バフアイテムを取得しました **",
+      "CN": "",
+      "KR": "** T3 버프 아이템 획득 완료 **",
+      "TW": "** T3 增益道具已被拾取 **"
+    }
   },
   "** 增益者提升范围内恶灵的能力，强化身体体能  **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The booster enhances the abilities of Ghosts within range, strengthening physical capabilities. **",
+      "JP": "** バフアイテムは範囲内の悪霊のパワーを高め、体機能を強化する **",
+      "CN": "",
+      "KR": "** 버프 아이템은 사거리 내의 악령 능력을 강화하며, 체력 및 신체 능력도 향상시킵니다 **",
+      "TW": "** 增益道具會強化範圍內惡靈的能力，增強其身體素質 **"
+    }
   },
   "** 第二开关已按下，解锁大门 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Second switch activated, gate unlocked **",
+      "JP": "** 第2スイッチが押され、門が開いた **",
+      "CN": "",
+      "KR": "** 두 번째 스위치 작동 완료, 관문 개방**",
+      "TW": "** 第二個開關已啟動，大門解鎖 **"
+    }
   },
   "** 不要让他们穿过大门，坚持 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Don't let them pass through the gate. Hold on **",
+      "JP": "** 敵がゲートを越えないように、粘り強く戦え **",
+      "CN": "",
+      "KR": "** 그들을 문 너머로 보내지 마라, 버티세요 **",
+      "TW": "** 不要讓他們穿過大門，堅持 **"
+    }
   },
   "** 大门5s后开启 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Gate opens in 5s **",
+      "JP": "** ゲートは5秒後に開く **",
+      "CN": "",
+      "KR": "** 5초 후 문이 열립니다 **",
+      "TW": "** 大門5秒後開啟 **"
+    }
   },
   "** 感谢miluli提供的模型**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Thanks to miluli for providing the model **",
+      "JP": "** Miluliによるモデル提供に感謝 **",
+      "CN": "",
+      "KR": "** miluli가 제공한 모델에 감사드립니다**",
+      "TW": "** 感謝miluli提供的模型**"
+    }
   },
   "** 前 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Before **",
+      "JP": "前 **",
+      "CN": "",
+      "KR": "** 전방 **",
+      "TW": "** 前 **"
+    }
   },
   "** 右 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Right",
+      "JP": "右 **",
+      "CN": "",
+      "KR": "** 우측 **",
+      "TW": "** 右 **"
+    }
   },
   "<<< 他消失了，但我们仍被他玩弄于鼓掌之中 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< He vanished, yet he still plays us like puppets on his palm. >>>",
+      "JP": "<<< 彼は姿を消したが、それでも我々は彼の掌の中で操り人形のように弄ばれ続けていた。 >>>",
+      "CN": "",
+      "KR": "<<< 그는 사라졌지만, 우리는 여전히 그의 손바닥 위에서 장난감처럼 놀리고 있습니다 >>>",
+      "TW": "<<< 他消失了，但我們仍被他玩弄於股掌之中 >>>"
+    }
   },
   "** 5s后传送 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleport in 5s",
+      "JP": "** 5秒後にテレポート **",
+      "CN": "5秒后传送",
+      "KR": "** 5초 후 텔레포트 **",
+      "TW": "** 5秒後傳送 **"
+    }
   },
   "** 25s后开启传送 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Portal opens in 25s",
+      "JP": "** 25秒後にテレポート開始 **",
+      "CN": "",
+      "KR": "** 25초 후 텔레포트 시작**",
+      "TW": "** 25秒後開啟傳送 **"
+    }
   },
   "** 坚持37s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Survive for 37s",
+      "JP": "37秒間維持",
+      "CN": "",
+      "KR": "** 37초 동안 버텨 **",
+      "TW": "** 堅持37秒 **"
+    }
   },
   "** 10s后门开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opens in 10s",
+      "JP": "10秒後扉開く",
+      "CN": "10秒后门开启",
+      "KR": "** 10초 후 문 열림 **",
+      "TW": "** 10秒後門打開 **"
+    }
   },
   "** 左 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Left",
+      "JP": "左",
+      "CN": "",
+      "KR": "** 왼쪽 **",
+      "TW": "** 左 **"
+    }
   },
   "** 后 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Back",
+      "JP": "後ろ",
+      "CN": "",
+      "KR": "** 뒤 **",
+      "TW": "** 後 **"
+    }
   },
   "** 又是他，为什么还活着 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** It's him again. Why is he still alive? **",
+      "JP": "また奴か。なぜまだ生きているのだ",
+      "CN": "",
+      "KR": "또 그 놈이야, 왜 죽지 않는 거지?",
+      "TW": "** 又是他，為什麼還活著 **"
+    }
   },
   "<<< 他想要折磨我们 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< He wants to torture us >>>",
+      "JP": "俺たちを折磨するのが彼の目的だ",
+      "CN": "",
+      "KR": "<<< 그는 우리를 고문하려는 것이다. >>>",
+      "TW": "<<< 他想折磨我們 >>>"
+    }
   },
   "<<< 暂时击退他了，快跑 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< We've temporarily driven him back. Run! >>>",
+      "JP": "とりあえず追い払った。逃げろ！",
+      "CN": "",
+      "KR": "<<< 일暂时 물러났구나, 빨리 도망쳐! >>>",
+      "TW": "<<< 暫時擊退他了，快跑 >>>"
+    }
   },
   "<<< 快去激活传送水晶 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Activate the传送水晶 (Teleportation Crystal) immediately >>>",
+      "JP": "転送クリスタルを活性化しろ！",
+      "CN": "",
+      "KR": "<<< 빠르게 현수결을 활성화해! >>>",
+      "TW": "<<< 快去啟動傳送水晶 >>>"
+    }
   },
   "** 40s后将对恶灵降下天罚 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Divine punishment will befall the evil spirits in 40s **",
+      "JP": "**40秒後に悪霊に天罰を下す**",
+      "CN": "",
+      "KR": "** 40초 후 악령에게 천벌을 내린다 **",
+      "TW": "**40秒後將對惡靈降下天罰**"
+    }
   },
   "** 似乎有不洁者在干扰施法 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** It seems an unclean entity is interfering with the spellcasting. **",
+      "JP": "**施法を妨害する不浄な者がいるようだ**",
+      "CN": "",
+      "KR": "** 주술에 방해하는 불결한 자가 있는 것 같다 **",
+      "TW": "似乎有不潔者在干擾施法"
+    }
   },
   "** 坚持住，我们以另一种方法转移 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold on! We will evacuate using an alternative method. **",
+      "JP": "**耐えてくれ、別の方法で転移する**",
+      "CN": "坚持住，我们用另一种方式转移",
+      "KR": "** 버티자. 우리는 다른 방법으로 이동한다 **",
+      "TW": "堅持住，我們以另一種方法轉移"
+    }
   },
   "** 10s后打开传送水晶 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The teleportation crystal will open in 10s **",
+      "JP": "**10秒後に传送クリスタルを開く**",
+      "CN": "10秒后开启传送水晶",
+      "KR": "** 10초 후 전송 크리스탈 열기 **",
+      "TW": "**10秒後打開傳送水晶**"
+    }
   },
   "** 第三关_结束 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Stage 3 - End **",
+      "JP": "**第3关_終了**",
+      "CN": "",
+      "KR": "** 3关卡_완료 **",
+      "TW": "**第三關_結束**"
+    }
   },
   "<<< Level 4 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< レベル4 >>>",
+      "CN": "<<< 关卡 4 >>>",
+      "KR": "<<< 레벨 4 >>>",
+      "TW": "<<<< Level 4 >>>>"
+    }
   },
   "** 坚守50s **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Survive for 50s",
+      "JP": "**50秒堅守**",
+      "CN": "",
+      "KR": "** 50초 동안 버티기 **",
+      "TW": "**堅守50秒**"
+    }
   },
   "<<< 娱乐关 >>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<< Entertainment Level >>>",
+      "JP": "<<< エンタメ关 >>>",
+      "CN": "",
+      "KR": "<<< 엔터테인먼트关卡 >>>",
+      "TW": "<<<< 娛樂關 >>>>"
+    }
+  },
+  "** SAWDAD+右键释放八方光刃(只有一次） **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "** SAWDAD + Right-click: Release Eight-Directional Light Blade (one-time use) **",
+      "JP": "【サウダード】+右クリック：八方光刃発動（一回限り）",
+      "CN": "SAWDAD+右键释放八方光刃(只能使用一次)",
+      "KR": "** SAWDAD+우측 마우스 버튼으로 팔방광날 발사(유일 1회) **",
+      "TW": "** SAWDAD+ 右鍵釋放八方光刃（僅有一次）**"
+    }
   }
 }

@@ -1,0 +1,392 @@
+{
+  ":: Warmup time : 60 ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 準備時間: 60秒 ::",
+      "CN": ":: 准备时间：60 ::",
+      "KR": ":: 준비 시간 : 60 ::",
+      "TW": ":: 準備時間 : 60 ::"
+    }
+  },
+  ":: Elevator door open at 15 secs ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 昇降機ドア 15秒後に開く ::",
+      "CN": ":: 电梯门开启于15秒后 ::",
+      "KR": ":: 15초 후 승강기 문 열림 ::",
+      "TW": ":: 電梯門在15秒後開啟 ::"
+    }
+  },
+  ":: Elevator door close at 5 secs ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 昇降機ドア 5秒後に閉じる ::",
+      "CN": ":: 电梯门关闭于5秒后 ::",
+      "KR": ":: 5초 후 승강기 문 닫힘 ::",
+      "TW": ":: 電梯門在5秒後關閉 ::"
+    }
+  },
+  ":: AFK teleport at 15 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 15秒後AFKテレポート ::",
+      "CN": ":: AFK teleport at 15 sec ::",
+      "KR": ":: 15초 후 AFK 텔레포트 ::",
+      "TW": ":: AFK teleport at 15 sec ::"
+    }
+  },
+  ":: Human pick up [Heal] item ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: ヒューマンが[回復]アイテムを回収 ::",
+      "CN": ":: 玩家拾取 [Heal] 道具 ::",
+      "KR": ":: 인류 [치유] 아이템 획득 ::",
+      "TW": ":: 人類拾取 [Heal] 道具 ::"
+    }
+  },
+  ":: Wood door break at 10 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 木製ドア 10秒後に破壊 ::",
+      "CN": ":: 木门破坏于10秒后 ::",
+      "KR": ":: 10초 후 목재 문 붕괴 ::",
+      "TW": ":: 木門在10秒後破裂 ::"
+    }
+  },
+  "[Heal] cooldown : 30": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[回復]クールダウン: 30秒",
+      "CN": "[Heal] 冷却时间：30",
+      "KR": "[치유] 쿨다운 : 30",
+      "TW": "[Heal] 冷卻時間 : 30"
+    }
+  },
+  ":: Zombie pick up [Ball] item ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: ゾンビが[ボール]アイテムを回収 ::",
+      "CN": ":: 僵尸拾取 [Ball] 道具 ::",
+      "KR": ":: 좀비 [공] 아이템 획득 ::",
+      "TW": ":: 殭屍拾取 [Ball] 道具 ::"
+    }
+  },
+  "[Ball] cooldown : 15": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Ball] クールダウン：15",
+      "CN": "[球] 冷却时间：15",
+      "KR": "[볼] 재사용 대기 시간 : 15",
+      "TW": "[Ball]冷卻時間：15"
+    }
+  },
+  ":: We find a elevator ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: エlevatorを発見 ::",
+      "CN": ":: 我们发现了一部电梯 ::",
+      "KR": ":: 사다리자를 찾았습니다 ::",
+      "TW": ":: 我們發現一部電梯 ::"
+    }
+  },
+  ":: Elevator door open at 50 secs ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 50秒後にElevatorの扉が開く ::",
+      "CN": ":: 电梯门在50秒后打开 ::",
+      "KR": ":: 50초 후 엘리베이터 문 열림 ::",
+      "TW": ":: 50秒後電梯門打開 ::"
+    }
+  },
+  ":: Mage1 end at 15 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: Mage1が15秒で終了 ::",
+      "CN": ":: 法师1在15秒后结束 ::",
+      "KR": ":: 메이지1, 15초 후 종료 ::",
+      "TW": ":: Mage1在15秒時結束 ::"
+    }
+  },
+  ":: Human pick up [Push] item ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: Humanが[PUSH]アイテムをpickup ::",
+      "CN": ":: 拾取者捡起[击退]道具 ::",
+      "KR": ":: 히어로가 [밀기] 아이템 주움 ::",
+      "TW": ":: 玩家拾取[Push]道具 ::"
+    }
+  },
+  "[Push] cooldown : 60": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Push] クールダウン：60",
+      "CN": "[击退] 冷却时间：60",
+      "KR": "[밀기] 재사용 대기 시간 : 60",
+      "TW": "[Push]冷卻時間：60"
+    }
+  },
+  "[Push] Effect time : 5 sec": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Push] 効果時間：5秒",
+      "CN": "[击退] 持续时间：5秒",
+      "KR": "[밀기] 효과 지속 시간 : 5초",
+      "TW": "[Push]效果持續時間：5秒"
+    }
+  },
+  ":: Zombie pick up [Gravity] item ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: Zombieが[Gravity]アイテムをpickup ::",
+      "CN": ":: 拾取者捡起[重力]道具 ::",
+      "KR": ":: 좀비가 [중력] 아이템 주움 ::",
+      "TW": ":: 殭屍拾取[Gravity]道具 ::"
+    }
+  },
+  "[Gravity] cooldown : 90": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[重力]クールダウン：90",
+      "CN": "[重力] 冷却时间：90",
+      "KR": "[중력] 쿨다운: 90",
+      "TW": "[重力]冷卻時間：90"
+    }
+  },
+  ":: Mage2 end at 15 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "::メイジ2は15秒後に終了::",
+      "CN": ":: 法师2在15秒后结束 ::",
+      "KR": ":: 마법사2 15초 후 종료 ::",
+      "TW": ":: 法師2在15秒後結束 ::"
+    }
+  },
+  ":: Elevator door open at 60 secs ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "::エレベーターの扉は60秒後に開く::",
+      "CN": ":: 电梯门在60秒后开启 ::",
+      "KR": ":: 엘리베이터 문 60초 후 열림 ::",
+      "TW": ":: 電梯門在60秒後開啟 ::"
+    }
+  },
+  ":: Mage3 end at 15 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "::メイジ3は15秒後に終了::",
+      "CN": ":: 法师3在15秒后结束 ::",
+      "KR": ":: 마법사3 15초 후 종료 ::",
+      "TW": ":: 法師3在15秒後結束 ::"
+    }
+  },
+  ":: Mage4 afk teleport at 15 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "::メイジ4は15秒後にAFKテレポーション::",
+      "CN": ":: 法师4在15秒后AFK传送 ::",
+      "KR": ":: 마법사4 15초 후 AFK 텔레포트 ::",
+      "TW": ":: 法師4在15秒後AFK傳送 ::"
+    }
+  },
+  ":: Elevator door open at 20 secs ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "::エレベーターの扉は20秒後に開く::",
+      "CN": ":: 电梯门在20秒后开启 ::",
+      "KR": ":: 엘리베이터 문 20초 후 열림 ::",
+      "TW": ":: 電梯門在20秒後開啟 ::"
+    }
+  },
+  ":: Last elevator door open at 25 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "::最後のエレベーターの扉は25秒後に開く::",
+      "CN": ":: 最后一道电梯门在25秒后开启 ::",
+      "KR": ":: 마지막 엘리베이터 문 25초 후 열림 ::",
+      "TW": ":: 最後一扇電梯門在25秒後開啟 ::"
+    }
+  },
+  ":: close at 15 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "::15秒後に閉じる::",
+      "CN": ":: 15秒后关闭 ::",
+      "KR": ":: 15초 후 닫힘 ::",
+      "TW": ":: 15秒後關閉 ::"
+    }
+  },
+  ":: The end was never the end ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 終焉は決して終わりを意味しない ::",
+      "CN": ":: 终点绝非终点 ::",
+      "KR": ":: 끝은 결코 끝이 아니다 ::",
+      "TW": ":: 結局並非終點 ::"
+    }
+  },
+  ":: Gate break at 15 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 15秒後にゲート崩壊 ::",
+      "CN": ":: 闸门将于15秒后开启 ::",
+      "KR": ":: 게이트 15초 후에 파괴 ::",
+      "TW": ":: 閘門於 15 秒後破壞 ::"
+    }
+  },
+  ":: Elevator door close at 10 secs ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 10秒後にエレベーター扉閉じる ::",
+      "CN": ":: 电梯门将关闭，剩余10秒 ::",
+      "KR": ":: 엘리베이터 문 10초 후 닫힘 ::",
+      "TW": ":: 電梯門於 10 秒後關閉 ::"
+    }
+  },
+  ":: Gate break at 10 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 10秒後にゲート崩壊 ::",
+      "CN": ":: 闸门将于10秒后开启 ::",
+      "KR": ":: 게이트 10초 후에 파괴 ::",
+      "TW": ":: 閘門於 10 秒後破壞 ::"
+    }
+  },
+  ":: Shutter open at 20 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 20秒後にシャッター開く ::",
+      "CN": ":: 屏蔽门将于20秒后开启 ::",
+      "KR": ":: 섀터 20초 후 열림 ::",
+      "TW": ":: 捲簾門於 20 秒後打開 ::"
+    }
+  },
+  ":: Shutter open at 25 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 25秒後にシャッター開く ::",
+      "CN": ":: 屏蔽门将于25秒后开启 ::",
+      "KR": ":: 섀터 25초 후 열림 ::",
+      "TW": ":: 捲簾門於 25 秒後打開 ::"
+    }
+  },
+  ":: Last shutter open at 10 sec ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 最後のシャッター10秒後開く ::",
+      "CN": ":: 最后一个屏蔽门将于10秒后开启 ::",
+      "KR": ":: 마지막 섀터 10초 후 열림 ::",
+      "TW": ":: 最後一道捲簾門於 10 秒後打開 ::"
+    }
+  },
+  ":: Run back to reality ! ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 現実に戻って走れ！ ::",
+      "CN": ":: 快跑，回到现实！::",
+      "KR": ":: 현실파악으로 도망치세요! ::",
+      "TW": ":: 逃回現實！ ::"
+    }
+  },
+  ":: Have we escaped this space...? ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: 空間から脱出したか…？ ::",
+      "CN": "我们是否已逃离这片空间……？",
+      "KR": ":: 이 공간에서 벗어난 걸까...? ::",
+      "TW": ":: 我們已逃出這個空間……？ ::"
+    }
+  },
+  ":: Human pick up [Wall] item ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: プレイヤーが[Wall]アイテムを取得しました ::",
+      "CN": ":: 人类拾取[墙壁]物品 ::",
+      "KR": ":: 인간이 [Wall] 아이템 획득 ::",
+      "TW": ":: 人類撿起 [牆壁] 道具 ::"
+    }
+  },
+  "[Wall] cooldown : 60": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Wall]クールタイム : 60",
+      "CN": "[墙壁]冷却时间：60",
+      "KR": "[Wall] 쿨다운 : 60",
+      "TW": "[Wall] 冷卻時間：60"
+    }
+  },
+  ":: Human pick up [Tama] item ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: プレイヤーが[Tama]アイテムを取得しました ::",
+      "CN": ":: 人类拾取[玉]物品 ::",
+      "KR": ":: 인간이 [Tama] 아이템 획득 ::",
+      "TW": ":: 人類撿起 [玉] 道具 ::"
+    }
+  },
+  "[Tama] cooldown : 20": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Tama]クールタイム : 20",
+      "CN": "[玉]冷却时间：20",
+      "KR": "[Tama] 쿨다운 : 20",
+      "TW": "[Tama] 冷卻時間：20"
+    }
+  },
+  ":: Zombie pick up [Speed] item ::": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ":: ゾンビが[Speed]アイテムを取得しました ::",
+      "CN": ":: 僵尸拾取[速度]物品 ::",
+      "KR": ":: 좀비가 [Speed] 아이템 획득 ::",
+      "TW": ":: 殭屍撿起 [速度] 道具 ::"
+    }
+  },
+  "[Speed] cooldown : 90": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[Speed]クールタイム : 90",
+      "CN": "[速度]冷却时间：90",
+      "KR": "[Speed] 쿨다운 : 90",
+      "TW": "[Speed] 冷卻時間：90"
+    }
+  }
+}

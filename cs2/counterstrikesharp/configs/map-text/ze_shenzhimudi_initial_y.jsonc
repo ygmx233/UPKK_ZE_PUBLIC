@@ -1,113 +1,372 @@
 {
   "\"15s\"": {
-    "translation": "\"15秒\""
+    "translation": "\"15秒\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒",
+      "CN": "15秒",
+      "KR": "15초",
+      "TW": "15秒"
+    }
   },
   "\"20\"": {
-    "translation": "\"20秒\""
+    "translation": "\"20秒\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "\"20秒\"",
+      "KR": "",
+      "TW": ""
+    }
   },
   "\"30ms\"": {
-    "translation": "\"30秒\""
+    "translation": "\"30秒\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "30ミリ秒",
+      "CN": "30毫秒",
+      "KR": "30ms",
+      "TW": "30毫秒"
+    }
   },
   "\"30s\"": {
-    "translation": "\"30秒\""
+    "translation": "\"30秒\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒",
+      "CN": "30秒",
+      "KR": "30초",
+      "TW": "30秒"
+    }
   },
   "\"35 seconds of clear road\"": {
-    "translation": "\"35秒打开道路\""
+    "translation": "\"35秒打开道路\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "クリアな道路を35秒間",
+      "CN": "前方35秒无障碍路段",
+      "KR": "안전한 도로 35초 분량",
+      "TW": "前方路面淨空35秒"
+    }
   },
   "\"40 seconds for the rear door to open\"": {
-    "translation": "\"40秒后门打开\""
+    "translation": "\"40秒后门打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "リアドアが開くまで40秒",
+      "CN": "车门开启耗时40秒",
+      "KR": "뒷문 열림 40초",
+      "TW": "後門開啟延遲40秒"
+    }
   },
   "\"40s\"": {
-    "translation": "\"40秒\""
+    "translation": "\"40秒\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒",
+      "CN": "40秒",
+      "KR": "40초",
+      "TW": "60秒"
+    }
   },
   "\"50.....\"": {
-    "translation": "\"50秒.....\""
+    "translation": "\"50秒.....\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "\"50秒.....\"",
+      "KR": "",
+      "TW": ""
+    }
   },
   "\"60s\"": {
-    "translation": "\"60秒\""
+    "translation": "\"60秒\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒",
+      "CN": "60秒",
+      "KR": "60초",
+      "TW": "60秒"
+    }
   },
   "\"60s......\"": {
-    "translation": "\"60秒......\""
+    "translation": "\"60秒......\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒……",
+      "CN": "60秒……",
+      "KR": "60초......",
+      "TW": "60秒......"
+    }
   },
   "\"<Level 1> Completed\"": {
-    "translation": "\"<关卡1>完成\""
+    "translation": "\"<关卡1>完成\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "<レベル 1> クリア",
+      "CN": "<关卡 1> 已完成",
+      "KR": "<레벨 1> 완료",
+      "TW": "<Level 1> 已完成"
+    }
   },
   "\"<Level 2> Completed\"": {
-    "translation": "\"<关卡2>完成\""
+    "translation": "\"<关卡2>完成\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "<レベル 2> クリア",
+      "CN": "<关卡 2> 已完成",
+      "KR": "<레벨 2> 완료",
+      "TW": "<Level 2> 已完成"
+    }
   },
   "\"<Level 3> Completed\"": {
-    "translation": "\"<关卡3>完成\""
+    "translation": "\"<关卡3>完成\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "<レベル 3> クリア",
+      "CN": "<关卡 3> 已完成",
+      "KR": "<레벨 3> 완료",
+      "TW": "<Level 3> 已完成"
+    }
   },
   "\"<Level RTV> Completed\"": {
-    "translation": "\"<关卡RTV>完成\""
+    "translation": "\"<关卡RTV>完成\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "<レベル RTV> クリア",
+      "CN": "<RTV 关卡> 已完成",
+      "KR": "<레벨 RTV> 완료",
+      "TW": "<Level RTV> 已完成"
+    }
   },
   "\"Admin: LV-1”": {
-    "translation": "\"管理员：关卡1\""
+    "translation": "\"管理员：关卡1\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者: LV-1",
+      "CN": "管理员：LV-1",
+      "KR": "관리자: LV-1”",
+      "TW": "Admin: LV-1”"
+    }
   },
   "\"Admin: LV-2”": {
-    "translation": "\"管理员：关卡2\""
+    "translation": "\"管理员：关卡2\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者: LV-2",
+      "CN": "管理员：LV-2",
+      "KR": "관리자: LV-2”",
+      "TW": "Admin: LV-2”"
+    }
   },
   "\"Admin: LV-3”": {
-    "translation": "\"管理员：关卡3\""
+    "translation": "\"管理员：关卡3\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者: LV-3",
+      "CN": "管理员：LV-3",
+      "KR": "관리자: LV-3”",
+      "TW": "Admin: LV-3”"
+    }
   },
   "\"Evacuate to the final area within 60 seconds\"": {
-    "translation": "\"在60秒内撤离到最终区域\""
+    "translation": "\"在60秒内撤离到最终区域\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒以内に最終エリアへ避難してください",
+      "CN": "在 60 秒内疏散到最终区域",
+      "KR": "60초 내 최종 지역으로 대피",
+      "TW": "60 秒內撤離至最終區域"
+    }
   },
   "\"Jump!!!\"": {
-    "translation": "\"跳！！！\""
+    "translation": "\"跳！！！\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "ジャンプ!!!",
+      "CN": "跳！",
+      "KR": "점프!!!",
+      "TW": "跳！"
+    }
   },
   "\"Map by:Yuqingmingran\"": {
-    "translation": "\"地图作者：Yuqingmingran 翻译：Asteri3m\""
+    "translation": "\"地图作者：Yuqingmingran 翻译：Asteri3m\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成:Yuqingmingran",
+      "CN": "地图制作者：Yuqingmingran",
+      "KR": "맵 제작: Yuqingmingran",
+      "TW": "地圖製作：Yuqingmingran"
+    }
   },
   "\"Map help:玫瑰少年-海苔，Linyan\"": {
-    "translation": "\"地图帮助：玫瑰少年-海苔，Linyan\""
+    "translation": "\"地图帮助：玫瑰少年-海苔，Linyan\"",
+    "MultiLang": {
+      "US": "Map help: Rose Youth - Nori, Linyan",
+      "JP": "マップ協力:玫瑰少年-海苔，Linyan",
+      "CN": "\"地图帮助：玫瑰少年-海苔，Linyan\"",
+      "KR": "맵 협력: 장미소년-해다, Linyan",
+      "TW": "地圖協助：玫瑰少年-海苔、Linyan"
+    }
   },
   "\"The door opens for 20 seconds\"": {
-    "translation": "\"门打开20秒\""
+    "translation": "\"门打开20秒\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアは20秒間開きます",
+      "CN": "门将在20秒后打开",
+      "KR": "문도가 20초간 열립니다",
+      "TW": "門將在20秒後開啟"
+    }
   },
   "\"The door to the backyard will open in 30 seconds\"": {
-    "translation": "\"后院的门将在30秒后打开\""
+    "translation": "\"后院的门将在30秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "庭への扉は30秒後に開きます",
+      "CN": "后院门将在30秒后打开",
+      "KR": "뒷마당으로 이어진 문이 30초 후에 열립니다",
+      "TW": "後院門將在30秒後開啟"
+    }
   },
   "\"The nuclear bomb will drop in 10 seconds\"": {
-    "translation": "\"核弹将在10秒后投下\""
+    "translation": "\"核弹将在10秒后投下\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "核爆弾が10秒後に投下されます",
+      "CN": "核弹将在10秒后投放",
+      "KR": "핵폭탄 투하까지 10초",
+      "TW": "核彈將在10秒後投下"
+    }
   },
   "\"The nuclear bomb will drop in 5 seconds\"": {
-    "translation": "\"核弹将在5秒后投下\""
+    "translation": "\"核弹将在5秒后投下\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "核爆弾が5秒後に投下されます",
+      "CN": "核弹将在5秒后投放",
+      "KR": "핵폭탄 투하까지 5초",
+      "TW": "核彈將在5秒後投下"
+    }
   },
   "\"The road opens in 20 seconds\"": {
-    "translation": "\"道路将在20秒后打开\""
+    "translation": "\"道路将在20秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "道路は20秒後に開きます",
+      "CN": "道路将在20秒后开放",
+      "KR": "도로가 20초 후에 개방됩니다",
+      "TW": "道路將在20秒後開啟"
+    }
   },
   "\"The road opens in 35 seconds\"": {
-    "translation": "\"道路将在35秒后打开\""
+    "translation": "\"道路将在35秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が開くまで35秒",
+      "CN": "道路将在35秒后开放",
+      "KR": "35초 후 도로가 열립니다",
+      "TW": "道路將在35秒後開啟"
+    }
   },
   "\"The road to the second floor will open in 30 seconds\"": {
-    "translation": "\"通往二楼的道路将在30秒后打开\""
+    "translation": "\"通往二楼的道路将在30秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "2階への道が開くまで30秒",
+      "CN": "前往二楼的道路将在30秒后开启",
+      "KR": "2층으로 가는 길은 30초 후 열립니다",
+      "TW": "二樓的道路將在30秒後開啟"
+    }
   },
   "\"The road will be clear in 40 seconds\"": {
-    "translation": "\"道路将在40秒内清理\""
+    "translation": "\"道路将在40秒内清理\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が解消するまで40秒",
+      "CN": "道路将在40秒后畅通",
+      "KR": "40초 후 길이 막힘없이 뚫립니다",
+      "TW": "道路將在40秒後清空"
+    }
   },
   "\"The road will be clear in 60 seconds\"": {
-    "translation": "\"道路将在60秒内清理\""
+    "translation": "\"道路将在60秒内清理\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が解消するまで60秒",
+      "CN": "道路将在60秒后畅通",
+      "KR": "60초 후 길이 막힘없이 뚫립니다",
+      "TW": "道路將在60秒後清空"
+    }
   },
   "\"The road will open in 30 seconds\"": {
-    "translation": "\"道路将在30秒后打开\""
+    "translation": "\"道路将在30秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が開くまで30秒",
+      "CN": "道路将在30秒后开启",
+      "KR": "30초 후 도로가 열립니다",
+      "TW": "道路將在30秒後開啟"
+    }
   },
   "\"The road will open in 40S\"": {
-    "translation": "\"道路将在40秒后打开\""
+    "translation": "\"道路将在40秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が開くまで40秒",
+      "CN": "道路将在40S后开启",
+      "KR": "40초 후 도로가 열립니다",
+      "TW": "道路將在40秒後開啟"
+    }
   },
   "\"The stairs will open in 20 seconds\"": {
-    "translation": "\"楼梯将在20秒后打开\""
+    "translation": "\"楼梯将在20秒后打开\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "階段が開くまで20秒",
+      "CN": "楼梯将在20秒后开启",
+      "KR": "20초 후 계단이 열립니다",
+      "TW": "樓梯將在20秒後開啟"
+    }
   },
   "\"有人把尸笼打开了.....\"": {
-    "translation": "\"有人把尸笼打开了.....\""
+    "translation": "\"有人把尸笼打开了.....\"",
+    "MultiLang": {
+      "US": "Someone has opened the corpse cage.....",
+      "JP": "誰かが尸籠を開けた……",
+      "CN": "\"有人把尸笼打开了.....\"",
+      "KR": "누군가 시체장을 열었어요.....",
+      "TW": "有人把尸籠打開了....."
+    }
   },
   "\"第二部正在新建文件夹...\"": {
-    "translation": "\"第二部正在新建文件夹...\""
+    "translation": "\"第二部正在新建文件夹...\"",
+    "MultiLang": {
+      "US": "Part 2 is currently creating a new folder...",
+      "JP": "第二章を現在作成中...",
+      "CN": "\"第二部正在新建文件夹...\"",
+      "KR": "제2부 폴더 생성 중...",
+      "TW": "第二部分正在重新建立資料夾..."
+    }
   },
   "<20s>ZM-TP\"": {
-    "translation": "<20秒>ZM传送\""
+    "translation": "<20秒>ZM传送\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "<20s>ZM-TP",
+      "CN": "<20s>ZM-TP",
+      "KR": "<20s>ZM-TP",
+      "TW": "<20s>ZM-TP"
+    }
   },
   "“Admin: LV-RTV”": {
-    "translation": "\"管理员：RTV关\""
+    "translation": "\"管理员：RTV关\"",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者: LV-RTV",
+      "CN": "管理员：LV-RTV",
+      "KR": "\"관리자: LV-RTV\"",
+      "TW": "「Admin: LV-RTV」"
+    }
   }
 }

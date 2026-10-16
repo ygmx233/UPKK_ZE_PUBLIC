@@ -1,0 +1,592 @@
+{
+  "** ze_endless_dream | ver.1.2.2 **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ze_endless_dream | ver.1.2.2 **",
+      "CN": "** 无尽的梦境 | ver.1.2.2 **",
+      "KR": "** ze_endless_dream | ver.1.2.2 **",
+      "TW": "** ze_endless_dream | ver.1.2.2 **"
+    }
+  },
+  "** ze_endless_dream | ver.1.2.2a **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ze_endless_dream | ver.1.2.2a **",
+      "CN": "** 无尽的梦境 | ver.1.2.2a **",
+      "KR": "** ze_endless_dream | ver.1.2.2a **",
+      "TW": "** ze_endless_dream | ver.1.2.2a **"
+    }
+  },
+  ">> 20 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 20秒 <<",
+      "CN": ">> 剩余 20 秒 <<",
+      "KR": ">> 20초 남음 <<",
+      "TW": ">> 剩餘 20 秒 <<"
+    }
+  },
+  ">> 5 seconds left <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 残り5秒 <<",
+      "CN": ">> 剩余 5 秒 <<",
+      "KR": ">> 5초 남음 <<",
+      "TW": ">> 剩餘 5 秒 <<"
+    }
+  },
+  ">> 25 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 25秒 <<",
+      "CN": ">> 剩余 25 秒 <<",
+      "KR": ">> 25초 남음 <<",
+      "TW": ">> 剩餘 25 秒 <<"
+    }
+  },
+  ">> 30 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒 <<",
+      "CN": ">> 剩余 30 秒 <<",
+      "KR": ">> 30초 남음 <<",
+      "TW": ">> 剩餘 30 秒 <<"
+    }
+  },
+  ">> Zombie teleport in 10 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビテレポートまで10秒 <<",
+      "CN": ">> 10 秒后僵尸传送 <<",
+      "KR": ">> 좀비 순간이동 10초 후 <<",
+      "TW": ">> 殭屍將於 10 秒後傳送到位置 <<"
+    }
+  },
+  ">> 35 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 35秒 <<",
+      "CN": ">> 剩余 35 秒 <<",
+      "KR": ">> 35초 남음 <<",
+      "TW": ">> 剩餘 35 秒 <<"
+    }
+  },
+  ">> 40 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 40秒 <<",
+      "CN": ">> 40秒 <<",
+      "KR": ">> 40초 남음 <<",
+      "TW": ">> 40 秒 <<"
+    }
+  },
+  ">> 15 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 15秒 <<",
+      "CN": ">> 15秒 <<",
+      "KR": ">> 15초 남음 <<",
+      "TW": ">> 15 秒 <<"
+    }
+  },
+  "** Disorder **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 異常 **",
+      "CN": "** 混乱 **",
+      "KR": "** 혼란 **",
+      "TW": "** 混亂 **"
+    }
+  },
+  "** Victim **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 犠牲者 **",
+      "CN": "** 受害者 **",
+      "KR": "** 피해자 **",
+      "TW": "** 受害者 **"
+    }
+  },
+  "** Opinion **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 意見 **",
+      "CN": "** 意见 **",
+      "KR": "** 의견 **",
+      "TW": "** 意見 **"
+    }
+  },
+  "** Rejection **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 拒否 **",
+      "CN": "** 拒绝 **",
+      "KR": "** 거부 **",
+      "TW": "** 拒絕 **"
+    }
+  },
+  ">> Stage 1 Completed <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ステージ1 完了 <<",
+      "CN": ">> 阶段1完成 <<",
+      "KR": ">> 1단계 완료 <<",
+      "TW": ">> 階段 1 已完成 <<"
+    }
+  },
+  ">> Admin set to Stage 3 <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理者によりステージ3に設定されました <<",
+      "CN": ">> 管理员设定为阶段3 <<",
+      "KR": ">> 관리자가 3단계로 설정했습니다 <<",
+      "TW": ">> 管理員已設為階段 3 <<"
+    }
+  },
+  ">> Restart round... <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ラウンドをリスタート... <<",
+      "CN": ">> 重新开始回合... <<",
+      "KR": ">> 라운드 재시작... <<",
+      "TW": ">> 重新開始回合... <<"
+    }
+  },
+  ">> Door 1 | 40 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドア1 | 40秒 <<",
+      "CN": ">> 1号门 | 40秒 <<",
+      "KR": ">> 1호문 | 40초 <<",
+      "TW": ">> 門 1 | 40秒 <<"
+    }
+  },
+  ">> 5 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 5秒 <<",
+      "CN": ">> 5秒 <<",
+      "KR": ">> 5초 <<",
+      "TW": ">> 5秒 <<"
+    }
+  },
+  ">> Door 1 | 5 seconds left <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ドア1 | 残り5秒 <<",
+      "CN": ">> 1号门 | 剩余5秒 <<",
+      "KR": ">> 1호문 | 5초 남음 <<",
+      "TW": ">> 門 1 | 剩餘5秒 <<"
+    }
+  },
+  "** ZM Gravity is temporary disabled **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ZM重力は一時的に無効になっています **",
+      "CN": "** ZM重力暂时禁用 **",
+      "KR": "** ZM 중력 비활성화**",
+      "TW": "** ZM重力暫時停用 **"
+    }
+  },
+  "** ZM Bullet is temporary disabled **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ZM弾丸は一時的に無効になっています **",
+      "CN": "** ZM子弹暂时禁用 **",
+      "KR": "** ZM 탄환 비활성화**",
+      "TW": "** ZM子彈暫時停用 **"
+    }
+  },
+  "** Satellite **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サテライト **",
+      "CN": "** 卫星 **",
+      "KR": "** 위성**",
+      "TW": "** 衛星 **"
+    }
+  },
+  "** Prevail **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 勝利 ** (※文脈により「優勢」や「存続」も可)",
+      "CN": "** 胜利 **",
+      "KR": "** 승리**",
+      "TW": "** 獲勝 **"
+    }
+  },
+  "** Enforce **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 強制 **",
+      "CN": "** 强制 **",
+      "KR": "** 강제 적용 **",
+      "TW": "** 強制執行 **"
+    }
+  },
+  "** Faithful **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 忠実 **",
+      "CN": "** 忠实 **",
+      "KR": "** 신중함 **",
+      "TW": "** 忠實 **"
+    }
+  },
+  "** Observe **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 観察 **",
+      "CN": "** 观察 **",
+      "KR": "** 관찰 **",
+      "TW": "** 觀察 **"
+    }
+  },
+  "** Mediate **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 調停 **",
+      "CN": "** 调解 **",
+      "KR": "** 조정 **",
+      "TW": "** 調解 **"
+    }
+  },
+  "** ZM Gravity is enabled **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ZM重力が有効化されています**",
+      "CN": "** 已启用 ZM 重力 **",
+      "KR": "** ZM 중력 활성화됨 **",
+      "TW": "** ZM 重力已啟用**"
+    }
+  },
+  "** ZM Bullet is enabled **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ZM弾丸が有効化されています**",
+      "CN": "** 已启用 ZM 子弹 **",
+      "KR": "** ZM 총기 발사 활성화됨 **",
+      "TW": "** ZM 子彈已啟用 **"
+    }
+  },
+  ">> 50 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 50秒後 <<",
+      "CN": ">> 50 秒 <<",
+      "KR": ">> 50초 이후 <<",
+      "TW": ">> 50秒 <<"
+    }
+  },
+  "** Disrupt **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 妨害 **",
+      "CN": "** 干扰 **",
+      "KR": "** 방해 **",
+      "TW": "** 干擾 **"
+    }
+  },
+  "|| Failed ||": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "|| 失敗 ||",
+      "CN": "|| 失败 ||",
+      "KR": "|| 실패 ||",
+      "TW": "|| 失敗 ||"
+    }
+  },
+  ">> Admin set to Stage 4 <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> アドミンがステージ4に設定 <<",
+      "CN": ">> 管理员设置为第4阶段 <<",
+      "KR": ">> 관리자가 스테이지 4로 설정함 <<",
+      "TW": ">> 管理員設為第4階段 <<"
+    }
+  },
+  "** Deflect **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 偏 deflect **",
+      "CN": "** 偏转 **",
+      "KR": "** 반사 **",
+      "TW": "** 反彈 **"
+    }
+  },
+  "** Liverate **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ライバル **",
+      "CN": "** 肝裂解放 **",
+      "KR": "** 간파 **",
+      "TW": "** 肝臟解放 **"
+    }
+  },
+  "** Friction **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 摩擦 **",
+      "CN": "** 摩擦 **",
+      "KR": "** 마찰 **",
+      "TW": "** 摩擦力 **"
+    }
+  },
+  "** Adverse **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 悪影響 **",
+      "CN": "** 不利 **",
+      "KR": "** 부작용 **",
+      "TW": "** 不良 /  adverse **"
+    }
+  },
+  "** Sparsely **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** まばらに **",
+      "CN": "** 稀疏地 **",
+      "KR": "** 드문 **",
+      "TW": "** 稀疏地 **"
+    }
+  },
+  "** Tranquil **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 平穏 **",
+      "CN": "** 宁静 **",
+      "KR": "** 평온한 **",
+      "TW": "** 平靜 **"
+    }
+  },
+  "** Reconcile **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 調整 **",
+      "CN": "** 结算 **",
+      "KR": "** 조정 **",
+      "TW": "** 調和 **"
+    }
+  },
+  "** Climatic **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 気候的 **",
+      "CN": "** 气候的 **",
+      "KR": "** 기후적 **",
+      "TW": "** 氣候的 **"
+    }
+  },
+  "** Preclude **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 除外 **",
+      "CN": "** 排除 **",
+      "KR": "** 배제 **",
+      "TW": "** 排除 **"
+    }
+  },
+  ">> Jump <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ジャンプ <<",
+      "CN": ">> 跳转 <<",
+      "KR": ">> 점프 <<",
+      "TW": ">> 跳躍 <<"
+    }
+  },
+  ">> Stage 4 Completed <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ステージ4完了 <<",
+      "CN": ">> 第 4 阶段完成 <<",
+      "KR": ">> 스테이지 4 완료 <<",
+      "TW": ">> 第4階段完成 <<"
+    }
+  },
+  "** Rejection+ **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 拒否+ **",
+      "CN": "** 拒绝+ **",
+      "KR": "** 거부+ **",
+      "TW": "** 排斥+ **"
+    }
+  },
+  "** Victim+ **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 犠牲者+ **",
+      "CN": "** 受害者+ **",
+      "KR": "** 피해자+ **",
+      "TW": "** 受害者+ **"
+    }
+  },
+  "** Adverse+ **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 悪影響+ **",
+      "CN": "** 不利+ **",
+      "KR": "** 이상 반응+ **",
+      "TW": "** 惡性+ **"
+    }
+  },
+  "** Tranquil+ **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Tranquil+ **",
+      "CN": "** 宁静+ **",
+      "KR": "** Tranquil+ **",
+      "TW": "** 寂靜+ **"
+    }
+  },
+  ">> Stage 5 Completed <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ステージ5 完了 <<",
+      "CN": ">> 第五阶段已完成 <<",
+      "KR": ">> 스테이지 5 클리어 <<",
+      "TW": ">> 第 5 關已完成 <<"
+    }
+  },
+  ">> Stage Ex Completed <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> エクストラステージ 完了 <<",
+      "CN": ">> 隐藏关卡已完成 <<",
+      "KR": ">> 스테이지 특별 모드 클리어 <<",
+      "TW": ">> 第 5 關隱藏關卡已完成 <<"
+    }
+  },
+  ">> Stage Ex2 Completed <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> エクストラステージ2 完了 <<",
+      "CN": ">> 隐藏关卡二已完成 <<",
+      "KR": ">> 스테이지 특별 모드 2 클리어 <<",
+      "TW": ">> 第 5 關隱藏關卡2已完成 <<"
+    }
+  },
+  "** You want a more difficult RTV stage...? **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** より困難なRTVステージを試すか？ **",
+      "CN": "** 你想要更具挑战性的RTV关卡……？ **",
+      "KR": "** 좀 더 어려운 RTV 스테이지를 원하시나요...? **",
+      "TW": "** 您想挑戰更高難度的寂靜關卡嗎...? **"
+    }
+  },
+  "** Nightmares welcome you. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 恐怖があなたを待っている。 **",
+      "CN": "** 噩梦欢迎你。**",
+      "KR": "** 악몽이 여러분을 환영합니다. **",
+      "TW": "** 噩夢在此等候。**"
+    }
+  },
+  ">> rtv-Nightmare Completed <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> rtv-ナイトメア 完了 <<",
+      "CN": ">> RTV-噩梦已完成 <<",
+      "KR": ">> rtv-악몽 클리어 <<",
+      "TW": ">> 寂靜-噩夢已完成 <<"
+    }
+  },
+  ">> Fall damage is disabled <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 落下ダメージが無効になりました <<",
+      "CN": ">> 坠落伤害已禁用 <<",
+      "KR": ">> 낙하 피해가 비활성화되었습니다 <<",
+      "TW": ">> 已停用摔落傷害 <<"
+    }
+  },
+  ">> Survive 270 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 270秒間生存 <<",
+      "CN": "存活270秒",
+      "KR": ">> 270초 생존하기 <<",
+      "TW": "存活 270 秒"
+    }
+  },
+  ">> Survive 240 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 240秒間生存 <<",
+      "CN": "存活240秒",
+      "KR": ">> 240초 생존하기 <<",
+      "TW": "存活 240 秒"
+    }
+  },
+  ">> Survive 180 seconds <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 180秒間生存 <<",
+      "CN": "存活180秒",
+      "KR": ">> 180초 생존하기 <<",
+      "TW": "存活 180 秒"
+    }
+  }
+}

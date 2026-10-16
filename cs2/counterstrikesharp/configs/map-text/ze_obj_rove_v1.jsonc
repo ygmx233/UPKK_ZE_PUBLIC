@@ -1,0 +1,1312 @@
+{
+  "*总部：黑山基地的实验失败了，为了防止信息泄露引起不必要的恐慌，现在请各HECU部队前往黑山基地对实验进行“清理”，切记：所有活着的生物都不能放过。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*HQ: The experiment at Black Mesa has failed. To prevent unnecessary panic from information leaks, all HECU units are ordered to proceed to Black Mesa for 'cleanup.' Remember: Leave no living creature behind.*",
+      "JP": "*本部：黒山基地の実験は失敗しました。情報漏洩による不要なパニックを防ぐため、各HECU部隊は黒山基地へ赴き実験の「始末」を行ってください。切记：生きている生物は誰一人見逃してはいけません。*",
+      "CN": "",
+      "KR": "*본부: 블랙마운틴 기지의 실험이 실패했습니다. 정보 유출로 인한 불필요한 공황을 방지하기 위해, 현재 각 HECU 부대는 블랙마운틴 기지로 이동하여 실험에 대한 '청산' 작업을 수행하시기 바랍니다. 주의: 모든 생존 생물은 용납하지 마십시오.*",
+      "TW": "*總部：黑山基地的實驗失敗，為防止資訊外洩引發不必要的恐慌，現命令各HECU部隊前往黑山基地執行「清理」任務。切记：所有存活生物不得放過。*"
+    }
+  },
+  "*总部：ROVE小队，你们的任务是前往黑山基地的东部区域清理实验痕迹，总部已为你们开放权限，进入基地后——随意开火——。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*HQ: ROVE Squad, your mission is to clear experimental traces from the eastern sector of Black Mesa. Command has granted you full clearance. Upon entering the base—fire at will.*",
+      "JP": "*本部：ROVE小隊、貴方の任務は黒山基地の東部区域へ行き実験の痕跡を始末することです。本部は貴方に権限を開きました、基地に入った後は——自由に射撃してください。*",
+      "CN": "",
+      "KR": "*본부: ROVE 소대, 귀하의 임무는 블랙마운틴 기지 동부 지역에서 실험 흔적을 청산하는 것입니다. 본부에서 귀하에게 권한을 부여했습니다. 기지 진입 시—무차별 사격하십시오.*",
+      "TW": "*總部：ROVE小隊，你們的任務是前往黑山基地東部區域清理實驗痕跡。總部已為你們開放權限，進入基地後——隨意開火。*"
+    }
+  },
+  "*ROVE小队：小队收到，正在乘坐电车前往基地东部。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*ROVE Squad: Copy that. Moving to the eastern sector by train.*",
+      "JP": "*ROVE小隊：小隊受領、電車に乗って基地の東部へ向かっています。*",
+      "CN": "",
+      "KR": "ROVE 소대: 소대 수신, 기지 동부로 이동 중인 전차에 탑승 중.",
+      "TW": "ROVE小隊：收到，正搭乘電車前往基地東部。"
+    }
+  },
+  "电车将在10秒后启动，请坐好扶稳": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The train will depart in 10 seconds. Please take your seats and hold on tight.",
+      "JP": "電車が10秒後に始動します、しっかり座って手すりを持ってください。",
+      "CN": "",
+      "KR": "전차가 10초 후 발차합니다. 착석하고 단단히 고정하십시오.",
+      "TW": "電車將於10秒後啟動，請坐好扶穩"
+    }
+  },
+  "*ROVE小队：这么快就泄露了吗...全队做好战斗准备，我们准备进入基地了。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*ROVE Squad: Leaking already? Prepare for combat. We're moving in.*",
+      "JP": "*ROVE小隊：こんなに早く漏れたのか……全隊、戦闘準備を整え、基地へ進入します。*",
+      "CN": "",
+      "KR": "*ROVE 소대: 이미 유출되었나... 전원 전투 준비 태세 유지, 기지 진입 준비.*",
+      "TW": "*ROVE小隊：這麼快就洩漏了嗎...全隊做好戰鬥準備，我們準備進入基地。*"
+    }
+  },
+  "*通往基地大门的道路被堵住了，看来得另想方法进入了。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The path to the main gate is blocked. Looks like we'll need another way in.*",
+      "JP": "*基地への入り口が塞がれていますね、他の方法で入る必要がありそうです。*",
+      "CN": "",
+      "KR": "*기지 문으로 가는 경로가 막혀 있습니다. 다른 진입 방법을 강구해야겠군요.*",
+      "TW": "*通往基地大門的道路被堵住了，看來得另想方法進入。*"
+    }
+  },
+  "站门将在35秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 35 seconds.",
+      "JP": "門は35秒後に開きます",
+      "CN": "",
+      "KR": "문이 35초 후 열립니다.",
+      "TW": "站門將在35秒後開啟"
+    }
+  },
+  "通往外界的门将在15秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The exit gate will open in 15 seconds.",
+      "JP": "外界への扉は15秒後に開きます",
+      "CN": "",
+      "KR": "외부로 나가는 문이 15초 후 열립니다.",
+      "TW": "通往外界的大門將在15秒後開啟"
+    }
+  },
+  "电梯将在20秒后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will start in 20 seconds.",
+      "JP": "エレベーターは20秒後に起動します",
+      "CN": "",
+      "KR": "엘리베이터가 20초 후 작동합니다",
+      "TW": "電梯將於20秒後啟動"
+    }
+  },
+  "楼顶门将在15s后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The rooftop door will open in 15 seconds.",
+      "JP": "屋上の扉は15秒後に開きます",
+      "CN": "",
+      "KR": "옥상 문이 15초 후 열립니다",
+      "TW": "頂樓門將在15秒後開啟"
+    }
+  },
+  "门将在20秒后破碎": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will shatter in 20 seconds.",
+      "JP": "扉は20秒後に破損します",
+      "CN": "",
+      "KR": "문이 20초 후 파쇄됩니다",
+      "TW": "門將於20秒後破碎"
+    }
+  },
+  "*大楼的损坏程度比预想中还要高...得抓紧时间了，这里随时都有可能崩塌。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The building's structural integrity is more compromised than expected... We need to hurry, as this place could collapse at any moment.*",
+      "JP": "*ビルの損傷度は想定より高い...時間節約が必要だ。ここは隨時崩壊する可能性があります。*",
+      "CN": "",
+      "KR": "*빌딩의 손상 정도가 예상보다 심해 보입니다...서둘러야 합니다. 여기는 언제 무너질지 모릅니다.*",
+      "TW": "*大樓的損壞程度比預期中還要高...得抓紧时间了，這裡隨時都可能崩塌。*"
+    }
+  },
+  "底层门将在15秒后破碎": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The ground floor door will shatter in 15 seconds.",
+      "JP": "底層の扉は15秒後に破損します",
+      "CN": "",
+      "KR": "1층 문이 15초 후 파쇄됩니다",
+      "TW": "底層門將於15秒後破碎"
+    }
+  },
+  "门将在15秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 15 seconds.",
+      "JP": "扉は15秒後に開きます",
+      "CN": "",
+      "KR": "문이 15초 후 열립니다",
+      "TW": "門將於15秒後開啟"
+    }
+  },
+  "通往防火通道的门将在25秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The fire exit door will open in 25 seconds.",
+      "JP": "防火通路への扉は25秒後に開きます",
+      "CN": "",
+      "KR": "비상구로 가는 문이 25초 후 열립니다",
+      "TW": "通往防火通道的門將於25秒後開啟"
+    }
+  },
+  "*注意地上的电流，我们需要切断电源才能过去。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Watch out for the electricity on the ground; we need to cut the power source before proceeding.*",
+      "JP": "*床の電流に注意が必要です。通行するには電源を切断する必要があります。*",
+      "CN": "",
+      "KR": "*바닥의 전기를 주의하세요. 건너가려면 전원 공급을 차단해야 합니다.*",
+      "TW": "*注意地面上的電流，我們需要切斷電源才能通過。*"
+    }
+  },
+  "*这里有医疗包，优先给伤员使用吧。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*There are medical kits here. Please prioritize using them on the injured.*",
+      "JP": "*ここに医療キットがあります。優先して負傷者に使ってください。*",
+      "CN": "",
+      "KR": "*这里有医疗包，优先给伤员使用吧。*",
+      "TW": "*這裡有醫療包，優先給傷員使用吧。*"
+    }
+  },
+  "电流将在10秒后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Power will be cut off in 10 seconds.",
+      "JP": "10秒後に電源が切れます",
+      "CN": "",
+      "KR": "电流将在10秒后关闭",
+      "TW": "電流將在10秒後關閉"
+    }
+  },
+  "门将在20秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 20 seconds.",
+      "JP": "20秒後にドアが開きます",
+      "CN": "",
+      "KR": "门将在20秒后开启",
+      "TW": "門將在20秒後開啟"
+    }
+  },
+  "电梯将在15秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will open in 15 seconds.",
+      "JP": "15秒後にエレベーターが開きます",
+      "CN": "",
+      "KR": "电梯将在15秒后开启",
+      "TW": "電梯將在15秒後開啟"
+    }
+  },
+  "*请工程人员维修电梯*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Please have engineers repair the elevator.*",
+      "JP": "*技官にエレベーターの修理を依頼してください*",
+      "CN": "",
+      "KR": "*请工程人员维修电梯*",
+      "TW": "*請工程人員維修電梯*"
+    }
+  },
+  "*holyfuck，电梯出故障了，给工程兵一点时间，重新启动这部电梯！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Holy fuck, the elevator has malfunctioned. Give the engineers some time to restart it!*",
+      "JP": "*Holy fuck、エレベーターが故障しました。エンジニアに時間をもらって、再起動させてください！*",
+      "CN": "",
+      "KR": "*holyfuck，电梯出故障了，给工程兵一点时间，重新启动这部电梯！*",
+      "TW": "*該死，電梯故障了，給工兵一點時間重新啟動這部電梯！*"
+    }
+  },
+  "*坍塌的楼层怎么爆裂了，防止他们进入电梯！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The collapsed floor is exploding! Stop them from entering the elevator!*",
+      "JP": "*崩落した階層が爆発しました。エレベーター内への侵入を阻止してください！*",
+      "CN": "",
+      "KR": "*坍塌的楼层怎么爆裂了，防止他们进入电梯！*",
+      "TW": "*坍塌的樓層怎麼爆裂了，防止他們進入電梯！*"
+    }
+  },
+  "电梯将在30秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will open in 30 seconds.",
+      "JP": "30秒後にエレベーターが開きます",
+      "CN": "",
+      "KR": "电梯将在30秒后开启",
+      "TW": "電梯將在30秒後開啟"
+    }
+  },
+  "*总部：雷达显示你们到达了基地大楼顶层，这里好像可以通过防火电梯通往底层搭乘基地内部的电梯进入地下设施*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Headquarters: Radar indicates you have reached the top floor of the base building. It appears a fireproof elevator here can lead to the lower level, allowing access to the underground facility via internal elevators.*",
+      "JP": "*本部：レーダーによると、貴組は基地ビル屋上階に到達しました。ここから防火用エレベーターで地下階へ降り、基地内のエレベーターを利用して地下施設に入れます。*",
+      "CN": "",
+      "KR": "*본부: 레이더에 따르면 귀하는 기지 본관 최상층에 도착하셨습니다. 여기서는 방화용 엘리베이터를 통해 지층으로 이동한 뒤 기지 내부 엘리베이터를 이용해 지하 시설로 진입하실 수 있습니다.*",
+      "TW": "*總部：雷達顯示你們已抵達基地大樓頂層，此處似乎可透過防火電梯前往底層，並搭乘基地內部電梯進入地下設施。*"
+    }
+  },
+  "防守此区域45秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Defend this area for 45 seconds.",
+      "JP": "この区域を45秒間防衛してください。",
+      "CN": "",
+      "KR": "이 지역을 45초간 방어하세요.",
+      "TW": "防守此區域45秒"
+    }
+  },
+  "*迅速进入电梯，我们准备进入地下基地了。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Quickly enter the elevator. We're preparing to descend into the underground base.*",
+      "JP": "*エレベーターへ速やかに移動せよ。地下基地への進入準備を進める。*",
+      "CN": "",
+      "KR": "*신속히 엘리베이터로 이동하십시오. 지하 기지로 진입할 준비를 하세요.*",
+      "TW": "*迅速進入電梯，我們準備進入地下基地。*"
+    }
+  },
+  "**警告！电梯故障**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**Warning! Elevator Malfunction**",
+      "JP": "**警告！エレベーター故障**",
+      "CN": "",
+      "KR": "**경고! 엘리베이터 고장**",
+      "TW": "**警告！電梯故障**"
+    }
+  },
+  "*不好，电梯正在坠落！全员做好防冲击准备！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Oh no, the elevator is falling! All personnel, brace for impact!*",
+      "JP": "*まずい、エレベーターが落下している！全員衝撃吸収の準備をしろ！*",
+      "CN": "",
+      "KR": "*안 돼, 엘리베이터가 추락 중이야! 모든 대원은 충격 대비 태세를 취해!*",
+      "TW": "*不妙，電梯正在墜落！全員做好防衝擊準備！*"
+    }
+  },
+  "通往实验室电梯门将在30秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The laboratory elevator door will open in 30 seconds.",
+      "JP": "研究所へ向かうエレベーター扉が30秒後に開きます。",
+      "CN": "",
+      "KR": "실험실로 이어지는 엘리베이터 문이 30초 후에 열립니다.",
+      "TW": "通往實驗室的電梯門將於30秒後開啟"
+    }
+  },
+  "*嗯？这里居然还有一部电梯可以使用，全员搭乘电梯，准备进入地下实验区域。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Hmm? There's another operational elevator here. All personnel, board the elevator and prepare to enter the underground experimental zone.*",
+      "JP": "*ん？ここにも稼働中のエレベーターがあるようだ。全員エレベーターに乗って、地下実験区域への進入準備を進める。*",
+      "CN": "",
+      "KR": "*음? 여기서도 사용할 수 있는 엘리베이터가 발견되었군요. 모든队员은 엘리베이터를 타고 지하 실험 구역으로 진입할 준비를 하십시오.*",
+      "TW": "*嗯？這裡居然還有一部可用的電梯，全員搭乘電梯，準備進入地下實驗區域。*"
+    }
+  },
+  "*ROVE小队：呼叫总部，我们已经进入基地内部，准备前往地下区域了。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Squad ROVE: Calling HQ, we have entered the base interior and are proceeding to the underground area.*",
+      "JP": "*ROVE小隊：本部へ呼び出し。すでに基地内部に進入し、地下区域への移動を開始した。*",
+      "CN": "",
+      "KR": "*ROVE 대대: 본부랑 연락합니다. 저희가 기지 내부에 진입했습니다. 지하 구역으로 이동할 준비를 하였습니다.*",
+      "TW": "*ROVE小隊：呼叫總部，我們已進入基地內部，準備前往地下區域。*"
+    }
+  },
+  "门将在30秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will open in 30 seconds",
+      "JP": "ゲートは30秒後に開きます",
+      "CN": "",
+      "KR": "게이트가 30초 후에 열립니다",
+      "TW": "門將在30秒後開啟"
+    }
+  },
+  "*ROVE小队：报告总部，我小队已进入核心实验区域，请求下一步指示！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Squad ROVE: Reporting to HQ, Squad ROVE has entered the core experiment area, requesting further instructions!*",
+      "JP": "*ROVE小隊：本部へ報告、小隊は核心実験区域に入りました。次の指示を求めます！*",
+      "CN": "",
+      "KR": "*ROVE 분대: 본대에 보고합니다. 우리가 핵심 실험 구역에 진입했습니다. 다음 지시를 요청합니다!*",
+      "TW": "*ROVE小隊：報告總部，我小隊已進入核心實驗區域，請求下一步指示！*"
+    }
+  },
+  "*总部：总部......正在......前往......资料.......滋滋滋*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*HQ: HQ......is......proceeding......to the archives......static...*",
+      "JP": "*本部：本部……行方……資料……ざっじゃり*",
+      "CN": "",
+      "KR": "*본대: 본대... 이동 중... 자료... 자자자*",
+      "TW": "*總部：總部......正在......前往......資料.......滋滋滋*"
+    }
+  },
+  "安保室门将在10秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The security office door will open in 10 seconds",
+      "JP": "セキュリティルームのドアは10秒後に開きます",
+      "CN": "",
+      "KR": "보안실문이 10초 후에 열립니다",
+      "TW": "安保室門將在10秒後開啟"
+    }
+  },
+  "*看来通讯断掉了，我们得自寻出路了。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*It seems communication has been cut. We'll have to find our own way.*",
+      "JP": "*通信が切断されたようだ。自力で抜け道を探そう。*",
+      "CN": "",
+      "KR": "*통신이 끊긴 것 같습니다. 직접 경로를 찾아야겠군요.*",
+      "TW": "*看來通訊斷掉了，我們得自尋出路了。*"
+    }
+  },
+  "安保室通往实验室门将在10秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door from the security office to the lab will open in 10 seconds",
+      "JP": "セキュリティルームからラボへの扉は10秒後に開きます",
+      "CN": "",
+      "KR": "보안실-실험실 간문이 10초 후에 열립니다",
+      "TW": "安保室通往實驗室的門將在10秒後開啟"
+    }
+  },
+  "*通过这段安保室，我们去办公区域*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Through this security office, we head to the office area.*",
+      "JP": "*このセキュリティルームを通り、オフィスエリアへ向かおう*",
+      "CN": "",
+      "KR": "*이 보안실을 통과해 사무 구역으로 가자.*",
+      "TW": "*通過這段安保室，我們去辦公區域*"
+    }
+  },
+  "实验室大门将在10秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The main lab door will open in 10 seconds",
+      "JP": "ラボのメインドアは10秒後に開きます",
+      "CN": "",
+      "KR": "실험실 정문이 10초 후에 열립니다",
+      "TW": "實驗室大門將在10秒後開啟"
+    }
+  },
+  "*未知人员：很好，你们能到达这里，已经达到了我的预期，我会在终点等你们。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown: Very well, you have reached this far, meeting my expectations. I will await you at the destination.*",
+      "JP": "*未知者：ふむ、ここまで辿り着けたことは期待通りだ。最後に待っているぞ。*",
+      "CN": "",
+      "KR": "*미확인 인물: 잘했습니다. 여기까지 도달하신 것은 제 기대치에 부응하는 것이지만, 끝에서 기다리겠습니다.*",
+      "TW": "*未知人員：很好，你們能到達這裡，已經達到了我的預期，我會在終點等你們。*"
+    }
+  },
+  "*他到底是谁？*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Who exactly is he?*",
+      "JP": "*彼は何者だ？*",
+      "CN": "",
+      "KR": "*도대체 그는 누구인가?*",
+      "TW": "*他到底是誰？*"
+    }
+  },
+  "*奇怪，明明是清除行动，但整个基地都没有任何工作人员*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Strange, despite being a clearance operation, there are no staff members anywhere in the base.",
+      "JP": "奇妙だ、清除任務のはずなのに、基地内にスタッフが一人もいない",
+      "CN": "",
+      "KR": "*이상하다. 제거 작전이라고는 했는데 기지에 직원들이 전혀 없네.*",
+      "TW": "奇怪，明明是清除行動，但整個基地都沒有任何工作人員"
+    }
+  },
+  "*先想办法将集装箱升起来吧*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Figure out how to lift the container first.",
+      "JP": "コンテナを持ち上げる方法を考えよう",
+      "CN": "",
+      "KR": "*일단 컨테이너를 들어 올릴 방법을 생각해보자.*",
+      "TW": "先想辦法將集裝箱升起來吧"
+    }
+  },
+  "已获取运输中心密钥": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Transport Center Key Acquired",
+      "JP": "輸送センターのキーを取得しました",
+      "CN": "",
+      "KR": "수송 센터 키 획득 완료",
+      "TW": "已取得運輸中心金鑰"
+    }
+  },
+  "升降机将在20秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will open in 20 seconds.",
+      "JP": "エレベーターは20秒後に開放されます",
+      "CN": "",
+      "KR": "20초 후 엘리베이터 가동 시작",
+      "TW": "升降機將在20秒後開啟"
+    }
+  },
+  "*看起来像是要从这通过集装箱到对面了*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Looks like we have to cross to the other side using the container.*",
+      "JP": "この先、コンテナを使って対岸へ渡るらしい",
+      "CN": "",
+      "KR": "*컨테이너를 이용해 건너편으로 이동하려는 모양이군.*",
+      "TW": "*看起來像是要從這裡通過集裝箱到對面了*"
+    }
+  },
+  "冷却液体维修通道即将开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Coolant Maintenance Bay is about to open.",
+      "JP": "冷却液修理通路がまもなく開放されます",
+      "CN": "",
+      "KR": "냉각액 정비 통로 곧 가동",
+      "TW": "冷卻液體維修通道即將開啟"
+    }
+  },
+  "3": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "2": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "货箱升降将在20秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Cargo box lift will open in 20 seconds",
+      "JP": "貨箱の昇降は20秒後に開始されます",
+      "CN": "",
+      "KR": "화물 상자가 20초 후에 열립니다",
+      "TW": "貨箱升降機將在20秒後開啟"
+    }
+  },
+  "电梯门将在60秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator doors will open in 60 seconds",
+      "JP": "エレベーター扉は60秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터문이 60초 후에 열립니다",
+      "TW": "電梯門將在60秒後開啟"
+    }
+  },
+  "电梯门将在30秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator doors will open in 30 seconds",
+      "JP": "エレベーター扉は30秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터문이 30초 후에 열립니다",
+      "TW": "電梯門將在30秒後開啟"
+    }
+  },
+  "运送电梯门将在10秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Shipping elevator doors will open in 10 seconds",
+      "JP": "搬送用エレベーター扉は10秒後に開きます",
+      "CN": "",
+      "KR": "화물 엘리베이터문이 10초 후에 열립니다",
+      "TW": "貨運電梯門將在10秒後開啟"
+    }
+  },
+  "运送电梯将在10s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Shipping elevator will start in 10s",
+      "JP": "搬送用エレベーターは10秒後に起動します",
+      "CN": "",
+      "KR": "화물 엘리베이터가 10초 후에 시작됩니다",
+      "TW": "貨運電梯將在10秒後啟動"
+    }
+  },
+  "上层门将在20秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Upper floor doors will open in 20 seconds",
+      "JP": "上部扉は20秒後に開きます",
+      "CN": "",
+      "KR": "상부문이 20초 후에 열립니다",
+      "TW": "上層門將在20秒後開啟"
+    }
+  },
+  "蒸汽将在20秒后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Steam will shut off in 20 seconds",
+      "JP": "蒸気は20秒後に閉じます",
+      "CN": "",
+      "KR": "증기가 20초 후에 닫힙니다",
+      "TW": "蒸氣閥將在20秒後關閉"
+    }
+  },
+  "*桥断了！该怎么办*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The bridge is broken! What to do?*",
+      "JP": "*橋が切れた！どうしよう？*",
+      "CN": "",
+      "KR": "*다리가 끊어졌다! 어떡하지*",
+      "TW": "*橋樑斷裂！該怎麼辦*"
+    }
+  },
+  "排除废水程序将在35秒后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The wastewater exclusion process will initiate in 35 seconds.",
+      "JP": "廃水処理プログラムは35秒後に開始されます",
+      "CN": "",
+      "KR": "폐수 처리程序가 35초 후 시작됩니다",
+      "TW": "排水廢水程式將在35秒後啟動"
+    }
+  },
+  "*警告：从黑山基地东部B区开往17号城市的列车还有5分钟启程*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Warning: The train from Sector B, East Black Mountain Base to City 17 departs in 5 minutes.*",
+      "JP": "*警告：黒山基地東部B区から17番都市行きの列車が5分で発車します*",
+      "CN": "",
+      "KR": "*경고: 흑산 기지 동부 B구역에서 17번 도시로 향하는 열차가 5분 후 출발합니다*",
+      "TW": "*警告：從黑山基地東部B區開往17號城市的列車還有5分鐘啟程*"
+    }
+  },
+  "*警告：基地正遭受未知生物的入侵，请尽快撤离！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Warning: The base is under invasion by unknown entities. Evacuate immediately!*",
+      "JP": "*警告：基地に未知の生物が侵入しています。速やかに避難してください！*",
+      "CN": "",
+      "KR": "*경고: 기지에 미확인 생물의 침입이 발생했습니다. 신속한 대피가 필요합니다!*",
+      "TW": "*警告：基地正遭受未知生物的入侵，請盡快撤離！*"
+    }
+  },
+  "下水道门将在5秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The sewer door will open in 5 seconds.",
+      "JP": "下水道の扉は5秒後に開きます",
+      "CN": "",
+      "KR": "하수도문이 5초 후 열립니다",
+      "TW": "下水道門將在5秒後開啟"
+    }
+  },
+  "火车站台门将在20秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The train platform gate will open in 20 seconds.",
+      "JP": "駅ホームの扉は20秒後に開きます",
+      "CN": "",
+      "KR": "역 플랫폼 문이 20초 후 열립니다",
+      "TW": "火車站台門將在20秒後開啟"
+    }
+  },
+  "*门快点打开啊！列车要启动了！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Open up! The train is about to depart!*",
+      "JP": "*扉をよけてくれ！列車が発車するぞ！*",
+      "CN": "",
+      "KR": "*문이 빨리 열리라고! 열차가 출발할 거야!*",
+      "TW": "*門快點打開啊！列車要啟動了！*"
+    }
+  },
+  "*看起来列车已经启动了，我们该怎么离开这里*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Looks like the train has already left. How do we get out of here?*",
+      "JP": "*どうやら列車は始まったようだ。ここでどうやって脱出すればいいんだ？*",
+      "CN": "",
+      "KR": "*看起来 열차가 이미 움직인 것 같습니다. 여기서 어떻게 빠져나갈까요?*",
+      "TW": "*看起來列車已經啟動了，我們該怎麼離開這裡？*"
+    }
+  },
+  "*未知人员：看来你们真的不简单，去实验室B区吧，那里还要一座大型运输电梯*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown Personnel: Seems you're not ordinary. Head to Lab Sector B; there's a large transport elevator there.*",
+      "JP": "*正体不明の人物：お前らは本当にすごいな。实验室B区に行け。あそこには大型運搬エレベーターがあるぞ*",
+      "CN": "",
+      "KR": "*미확인 인물: 당신들이 생각보다 쉽지 않은 것 같습니다. 연구소 B구역으로 가세요. 대형 운송 엘리베이터가 있을 겁니다*",
+      "TW": "*未知人員：看來你們真的不简单，去實驗室B區吧，那裡還有一部大型運輸電梯*"
+    }
+  },
+  "*他到底是谁，只能听他的去做了*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Who he is, all we can do is follow his orders.*",
+      "JP": "彼が何者なのかは分からない。彼の言うことに従うしかない。",
+      "CN": "",
+      "KR": "*그가 도대체 누구인지 알 수 없으니 그의 말만 믿고 따라야 해*",
+      "TW": "*他到底是誰，只能聽他的去做了*"
+    }
+  },
+  "*警告：实验室正遭受未知生物的入侵，已紧急停止供电*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warning: The laboratory is under attack by unknown entities. Power has been shut down as a precaution.",
+      "JP": "警告：実験室に不明な生物が侵入中。非常用電源を切断しました。",
+      "CN": "",
+      "KR": "경고: 실험실이 미확인 생물의 침입을 받고 있으며, 비상시에 전원이 차단되었습니다.",
+      "TW": "*警告：實驗室正遭受未知生物的入侵，已緊急停止供電*"
+    }
+  },
+  "*警告：请工程人员到达东部黑山实验基地.AREA B-101供电室恢复实验室运作*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Warning: Engineering personnel are requested to proceed to the power distribution room in Sector B-101, Eastern Black Mountain Experimental Base, to restore operations.",
+      "JP": "警告：技術者を東部ブラックマウンテン実験基地 AREA B-101 電源室へ緊急派遣。実験室の運用を再開せよ。",
+      "CN": "",
+      "KR": "경고: 엔지니어는 동부 흑산 실험 기지 AREA B-101 전압실에 도달하여 실험실 작동을 복구해야 합니다.",
+      "TW": "*警告：請工程人員到達東部黑山實驗基地.AREA B-101供電室恢復實驗室運作*"
+    }
+  },
+  "蒸汽将在30秒后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Steam will be cut off in 30 seconds.",
+      "JP": "蒸気供給は30秒後に停止します。",
+      "CN": "",
+      "KR": "스チーム이 30초 후에 차단됩니다.",
+      "TW": "蒸汽將在30秒後關閉"
+    }
+  },
+  "*根据地图指引，餐厅的下方就是恢复供电的区域*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*According to the map, power can be restored at the area beneath the restaurant.*",
+      "JP": "マップによると、電源復旧区域はレストランの地下にある。",
+      "CN": "",
+      "KR": "*지도에 따르면 식당 아래는 전압을 복구할 수 있는 지역입니다*",
+      "TW": "*根據地圖指引，餐廳的下方就是恢復供電的區域*"
+    }
+  },
+  "*乘坐餐厅的电梯通往基地底部的停车场恢复供电*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Take the elevator in the restaurant to the underground parking lot at the base's bottom to restore power.*",
+      "JP": "レストランのエlevatorで基地最下部のパークエリアへ移動し、電源を復旧せよ。",
+      "CN": "",
+      "KR": "*식당의 엘리베이터를 타고 기지 하부의 주차장으로 이동하여 전압을 복구합니다.*",
+      "TW": "*乘坐餐廳的電梯通往基地底部的停車場恢復供電*"
+    }
+  },
+  "门将在10秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 10 seconds.",
+      "JP": "ドアは10秒後に開放されます。",
+      "CN": "",
+      "KR": "문이 10초 후에 열립니다.",
+      "TW": "門將在10秒後開啟"
+    }
+  },
+  "*餐厅供电已恢复正常*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Restaurant power supply has been restored.*",
+      "JP": "レストランの電力供給が通常に戻りました。",
+      "CN": "",
+      "KR": "*식당의 전압이 정상으로 복구되었습니다.*",
+      "TW": "*餐廳供電已恢復正常*"
+    }
+  },
+  "*黑山基地B区大型运输电梯正在恢复运作*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Black Mesa Base Sector B large transport elevator is coming back online.*",
+      "JP": "*黒山基地Bゾーン大型輸送エレベータが稼働を再開中*",
+      "CN": "",
+      "KR": "*흑산 기지 B구역 대형 수송 엘리베이터 가동 복구 중*",
+      "TW": "*黑山基地B區大型運輸電梯正在恢復運轉*"
+    }
+  },
+  "停车场门将在30秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Parking garage doors will open in 30 seconds.",
+      "JP": "駐車場用ドアは30秒後に開きます",
+      "CN": "",
+      "KR": "주차장 문 30초 후 개문",
+      "TW": "停車場門將在30秒後開啟"
+    }
+  },
+  "防爆门正在受到破坏！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Explosion-proof doors are being compromised!",
+      "JP": "防爆ドアが破壊されています！",
+      "CN": "",
+      "KR": "폭발방지문이 파손되고 있습니다!",
+      "TW": "防爆門正在受到破壞！"
+    }
+  },
+  "餐厅大门将在30秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Cafeteria main doors will open in 30 seconds.",
+      "JP": "レストラン用大扉は30秒後に開きます",
+      "CN": "",
+      "KR": "식당 정문 30초 후 개문",
+      "TW": "餐廳大門將在30秒後開啟"
+    }
+  },
+  "*警告：实验室电梯已过载，请通过维修管道释放冷却液*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Warning: Laboratory elevator is overloaded. Please release coolant through maintenance ducts.*",
+      "JP": "*警告：実験室エレベータが過負荷状態です。冷却液を放出するために保守用通路を使用してください*",
+      "CN": "",
+      "KR": "*경고: 연구실 엘리베이터 과부하. 배수관을 통해 냉각제를 배출해 주세요*",
+      "TW": "*警告：實驗室電梯已過載，請通過維修管道釋放冷卻液*"
+    }
+  },
+  "*队伍里的工程兵！请通过管道去开启冷却液阀门*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Engineers in the team! Please open the coolant valve through the ducts.*",
+      "JP": "*チームのエンジニア！配管を通って冷却バルブを開けてください*",
+      "CN": "",
+      "KR": "*팀에 엔지니어가 있습니까? 배수관을 통해 냉각제 밸브를 열어 주세요*",
+      "TW": "*隊伍裡的工程兵！請通過管道去開啟冷卻液閥門*"
+    }
+  },
+  "正在重启基地电力系统，电力将在10秒后恢复": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Rebooting base power systems. Power will be restored in 10 seconds.",
+      "JP": "基地の電力系統を再起動中、10秒後に電力が復旧します",
+      "CN": "",
+      "KR": "기지 전력 시스템 재가동 중. 전기가 10초 후 복구됩니다",
+      "TW": "正在重啟基地電力系統，電力將在10秒後恢復"
+    }
+  },
+  "电力已恢复，门将在10秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Power restored. Doors will open in 10 seconds.",
+      "JP": "電力が復旧しました。ドアは10秒後に開きます",
+      "CN": "",
+      "KR": "전력 복구 완료. 문이 10초 후 열립니다",
+      "TW": "電力已恢復，門將在10秒後開啟"
+    }
+  },
+  "货运平台将在5秒后开始运输，准备登上货运平台去对面": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The cargo platform will begin transport in 5 seconds. Prepare to board and cross.",
+      "JP": "貨物プラットフォームは5秒後に輸送を開始します、乗り込んで向こう岸へ移動してください",
+      "CN": "",
+      "KR": "화물 플랫폼이 5초 후 운송을 시작합니다. 화물 플랫폼에 탑승하여 맞은편으로 가세요.",
+      "TW": "貨運平台將於5秒後開始運輸，準備登上貨運平台前往對面"
+    }
+  },
+  "货运平台将在5秒后开始运输，上一道#%程序出##错误了%%###%%%#%#%#": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The cargo platform will begin transport in 5 seconds. The #% program is experiencing an ## error %%###%%%#%#%#",
+      "JP": "貨物プラットフォームは5秒後に輸送を開始します、上一道#%程序出##错误了%%###%%%#%#%#",
+      "CN": "",
+      "KR": "화물 플랫폼이 5초 후 운송을 시작합니다.上一道#%程序出##错误了%%###%%%#%#%#",
+      "TW": "貨運平台將於5秒後開始運輸，上一道#%程序出##錯誤了%%###%%%#%#%#"
+    }
+  },
+  "*终于要结束了吗*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Is it finally ending?*",
+      "JP": "*いよいよ終わるのか*",
+      "CN": "",
+      "KR": "*이제야 끝나나 봐*",
+      "TW": "*終於要結束了嗎*"
+    }
+  },
+  "*呼叫总部！呼叫总部！我们正在撤离*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Calling HQ! Calling HQ! We are evacuating.*",
+      "JP": "*本社に連絡！本社に連絡！撤退中だ*",
+      "CN": "",
+      "KR": "*본사에 연락합니다! 본사 알립니다! 저희는 철수 중입니다*",
+      "TW": "*呼叫總部！呼叫總部！我們正在撤離*"
+    }
+  },
+  "*无回应*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*No response*",
+      "JP": "*応答なし*",
+      "CN": "",
+      "KR": "*회신 없음*",
+      "TW": "*無回應*"
+    }
+  },
+  "*未知人员：你们已经被抛弃了吗，来诺瓦矿场见我吧，我在那等你*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown Personnel: Have you been abandoned? Meet me at Nova Mine, I'll be waiting there.*",
+      "JP": "*不明な人物：お前たちは見捨てられたのか、ノヴァ鉱山へ来い、そこで待っている*",
+      "CN": "",
+      "KR": "*미확인 인물: 너희는 버림받았나? 노바 광산에 오라. 여기서 기다리마*",
+      "TW": "*未知人員：你們已經被拋棄了嗎，來諾瓦礦場見我吧，我在那等你*"
+    }
+  },
+  "*警告警告！检测到非实验人员进入实验室*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Warning! Warning! Non-experiment personnel detected entering the laboratory.*",
+      "JP": "*警告！非実験者の侵入を検知*",
+      "CN": "",
+      "KR": "*경고! 실험 대상이 아닌 자가 연구소로 진입 감지*",
+      "TW": "*警告警告！檢測到非實驗人員進入實驗室*"
+    }
+  },
+  "*根据墙上的地图指引，通过前面这座大型电梯可以到达电车站，电车站上方就是诺瓦矿场*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*According to the map on the wall, the large elevator ahead leads to the tram station. Nova Mine is located above the tram station.*",
+      "JP": "*壁の地図によると、先にある大型エレベータで電停に行ける。電停の上側がノヴァ鉱山だ*",
+      "CN": "",
+      "KR": "*벽에 걸린 지도에 따르면, 앞의 대형 엘리베이터를 이용해 전철역으로 갈 수 있으며, 전철역 바로 위가 노바 광산입니다*",
+      "TW": "*根據牆上的地圖指引，通過前面這座大型電梯可以到達電車站，電車站上方就是諾瓦礦場*"
+    }
+  },
+  "*不管他是谁，我们先前往那里吧*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Regardless of who it is, let's head there.*",
+      "JP": "*誰であろうと、まずそこへ向かおう*",
+      "CN": "",
+      "KR": "*누구이든, 먼저 그곳으로 가자*",
+      "TW": "不管他是誰，我們先前往那裡吧"
+    }
+  },
+  "检测到实验室电力不足，请及时离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Laboratory power insufficient. Please evacuate promptly.",
+      "JP": "研究室の電力が不足しています。速やかに離脱してください",
+      "CN": "",
+      "KR": "실험실 전력 부족 감지. 즉시 대피하시오.",
+      "TW": "檢測到實驗室電力不足，請及時離開"
+    }
+  },
+  "防守此区域30秒，守到油桶爆炸！！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Defend this area for 30 seconds until the oil drums explode!!",
+      "JP": "この区域を30秒間防衛せよ。油桶の爆発を待ち構え！！！！",
+      "CN": "",
+      "KR": "30초간 이 구역을 방어하고, 기름통이 폭발할 때까지 버텨라!!!!",
+      "TW": "防守此區域30秒，守到油桶爆炸！！！！"
+    }
+  },
+  "电梯将在3s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will open in 3s.",
+      "JP": "エレベーターは3秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터가 3초 후 열립니다.",
+      "TW": "電梯將在3秒後開啟"
+    }
+  },
+  "货物输送平台将在20秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The cargo transport platform will open in 20 seconds.",
+      "JP": "貨物搬送プラットフォームは20秒後に稼働します",
+      "CN": "",
+      "KR": "화물 이송 플랫폼이 20초 후 가동됩니다.",
+      "TW": "貨物輸送平台將在20秒後開啟"
+    }
+  },
+  "*警告：重要物品运输电梯将在20秒后开启*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Warning: Important cargo elevator will open in 20 seconds.*",
+      "JP": "*警告：重要品輸送エレベーターは20秒後に稼働します*",
+      "CN": "",
+      "KR": "*경고: 중요 물자 운송 엘리베이터가 20초 후 가동됩니다.*",
+      "TW": "*警告：重要物品運輸電梯將在20秒後開啟*"
+    }
+  },
+  "*警告：实验室超过负荷！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Warning: Laboratory overload!*",
+      "JP": "*警告：研究室が過負荷状態です！*",
+      "CN": "",
+      "KR": "*경고: 실험실 부하 과다!*",
+      "TW": "*警告：實驗室超過負荷！*"
+    }
+  },
+  "*警告：请及时离开！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Warning: Please evacuate immediately!*",
+      "JP": "*警告：速やかに離脱してください！*",
+      "CN": "",
+      "KR": "*경고: 즉시 대피하시오!*",
+      "TW": "*警告：請及時離開！*"
+    }
+  },
+  "准备好迎接最后的战斗吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Are you ready for the final battle?",
+      "JP": "最後の戦いに備えているか？",
+      "CN": "",
+      "KR": "최후의 전투를 준비했는가?",
+      "TW": "準備好迎接最終戰了嗎？"
+    }
+  },
+  "*我们已经无路可去了*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*We have run out of options.*",
+      "JP": "*もう逃げる場所がない*",
+      "CN": "",
+      "KR": "*우리는 더 이상 갈 곳이 없다*",
+      "TW": "*我們已經無路可走了*"
+    }
+  },
+  "*最后一班撤离实验室的列车已经离开*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*The last evacuation train from the laboratory has already departed.*",
+      "JP": "*研究所からの最後の避難列車はすでに発車した*",
+      "CN": "",
+      "KR": "*마지막으로 철도연구소로 떠나는 열차가 이미 출발했다*",
+      "TW": "*最後一班撤離實驗室的列車已駛離*"
+    }
+  },
+  "*未知人员：前方就是十七号城市了......面对你们的可能是更凶险的事物*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown Caller: Ahead lies City 17... What awaits you may be even more perilous.*",
+      "JP": "*不明な人物：前方は都市17号だ……お前たちを待っているのは、もっと危険なものかもしれない*",
+      "CN": "",
+      "KR": "*신원불명자: 앞은 17번 도시다...... 너희에게 더 위험한 적이 기다리고 있을지도 모른다*",
+      "TW": "*未知人員：前方就是第十七號城市了……面對你們的可能是更危險的事物*"
+    }
+  },
+  "*未知人员：而我，能给你一份工作*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown Caller: And I can offer you a job.*",
+      "JP": "*不明な人物：そして、俺はお前に仕事を提供する*",
+      "CN": "",
+      "KR": "*신원불명자: 그리고, 나는 너에게 일자리를 줄 수 있다*",
+      "TW": "*未知人員：而我，能給你一份工作*"
+    }
+  },
+  "*黑山基地东.89.B区实验人员电车站入口门正在开启*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Black Mesa East. Sector 89.B Personnel Station Gate is opening.*",
+      "JP": "*黒山基地東.89.B区域実験棟・電車駅入口の扉が開いている*",
+      "CN": "",
+      "KR": "*헤이조크 기지 동.89.B 지역 실험실역 입구 문이 열리고 있다*",
+      "TW": "*黑山基地東.89.B區實驗人員電車站入口門正在開啟*"
+    }
+  },
+  "*我会在那等你们的。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*I'll be waiting for you there.*",
+      "JP": "*お前たちの到着を待つ。*",
+      "CN": "",
+      "KR": "*내가 거기서 너희를 기다릴게.*",
+      "TW": "*我會在那裡等你們。*"
+    }
+  },
+  "*我们只能去诺瓦矿场了*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*We can only head to the Nova Mine now.*",
+      "JP": "*ノヴァ鉱山に行くしかないんだ*",
+      "CN": "",
+      "KR": "*노바 광산으로 갈 수밖에 없어*",
+      "TW": "*我們只能去諾瓦礦場了*"
+    }
+  },
+  "5": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "4": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*未知人员：你们所寻找的戈登弗里曼，他也在为我工作*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown Voice: The Gordon Freeman you're looking for works for me.*",
+      "JP": "*謎の声：あなたが探しているゴードン・フリーマンも、私のために働いています*",
+      "CN": "",
+      "KR": "*미확인 인물: 귀하가 찾고자 하는 고든 프리먼도 제 일을 돕고 있습니다.*",
+      "TW": "*未知人員：你們尋找的戈登·弗里曼也為我工作*"
+    }
+  },
+  "*未知人员：我会给你们开一个无法拒绝的价格*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown Voice: I'll offer a price you can't refuse.*",
+      "JP": "*謎の声：あなたに拒否できない価格をお示しします*",
+      "CN": "",
+      "KR": "*미확인 인물: 거절할 수 없는 금액을 제안하겠습니다.*",
+      "TW": "*未知人員：我會給你們一個無法拒絕的價格*"
+    }
+  },
+  "门将在10秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opening in 10 seconds.",
+      "JP": "门将在10秒后打开",
+      "CN": "",
+      "KR": "10초 후문이 열립니다.",
+      "TW": "門將在10秒後打開"
+    }
+  },
+  "电梯将在30秒后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator starting in 30 seconds.",
+      "JP": "エレベーターは30秒後に起動します",
+      "CN": "",
+      "KR": "30초 후 엘리베이터가 작동을 시작합니다.",
+      "TW": "電梯將在30秒後啟動"
+    }
+  },
+  "门将在25秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opening in 25 seconds.",
+      "JP": "门将在25秒后打开",
+      "CN": "",
+      "KR": "25초 후문이 열립니다.",
+      "TW": "門將在25秒後打開"
+    }
+  },
+  "门将在20秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opening in 20 seconds.",
+      "JP": "门将在20秒后打开",
+      "CN": "",
+      "KR": "20초 후문이 열립니다.",
+      "TW": "門將在20秒後打開"
+    }
+  },
+  "电梯门将在30秒后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator door opening in 30 seconds.",
+      "JP": "电梯门将在30秒后打开",
+      "CN": "",
+      "KR": "30초 후 엘리베이터 문이 열립니다.",
+      "TW": "電梯門將在30秒後打開"
+    }
+  },
+  "电梯将在10秒后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator starting in 10 seconds.",
+      "JP": "エレベーターは10秒後に起動します",
+      "CN": "",
+      "KR": "10초 후 엘리베이터가 작동을 시작합니다.",
+      "TW": "電梯將在10秒後啟動"
+    }
+  },
+  "出口的木板将在30秒后破碎!防守这里！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The wooden board at the exit will break in 30 seconds! Defend here!",
+      "JP": "出口の木板が30秒後に破損します！ここで防衛せよ！",
+      "CN": "",
+      "KR": "출구의 나무판자가 30초 후 부서집니다! 여기서 방어하세요!",
+      "TW": "出口木板將在30秒後破裂！守住這裡！"
+    }
+  },
+  "*前方是障碍，怎么办！！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*There's an obstacle ahead, what do we do?!*",
+      "JP": "*前方は障害物、どうすれば…！！*",
+      "CN": "",
+      "KR": "*앞에 장벽이 있습니다, 어떻게 해야 할까요!!*",
+      "TW": "*前方受阻，該怎麼辦！！*"
+    }
+  },
+  "*这下真无路可去了*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*There's really nowhere left to go*",
+      "JP": "*これで本当に道がなくなった。*",
+      "CN": "",
+      "KR": "*이제 정말 갈 곳이 없네요*",
+      "TW": "*這次真的死路一條了。*"
+    }
+  },
+  "*未知人员：有的时候牺牲也是人类最大的价值，不是吗*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown Operator: Sometimes sacrifice is humanity's greatest value, isn't it?*",
+      "JP": "*未知の人物：時には犠牲も人間にとって最大の価値ではないか*",
+      "CN": "",
+      "KR": "*미상 인물: 때로는 희생이 인간에게 있어 가장 큰 가치가 되기도 하지 않습니까*",
+      "TW": "*未知人士：有時候犧牲也是人類最大的價值，不是嗎？*"
+    }
+  },
+  "*未知人员：继续向前*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Unknown Operator: Keep moving forward*",
+      "JP": "*未知の人物：前進を続けよ*",
+      "CN": "",
+      "KR": "*미상 인물: 계속 앞으로 나아가세요*",
+      "TW": "*未知人士：繼續前進。*"
+    }
+  },
+  "通往诺瓦矿场.72号矿洞.C区的电梯将在50秒后下降": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator to Nova Mineshaft 72, Sector C, will descend in 50 seconds",
+      "JP": "ノヴァ鉱山.72号坑道.C区へのエレベーターは50秒後に降下します",
+      "CN": "",
+      "KR": "노바 광장. 72호 광구 C구로 향하는 엘리베이터가 50초 후 하강합니다.",
+      "TW": "通往諾瓦礦場72號礦洞C區的電梯將於50秒後下降。"
+    }
+  },
+  "诺瓦矿场.72号矿洞.C区大门将在60秒后打开。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate to Nova Mineshaft 72, Sector C, will open in 60 seconds.",
+      "JP": "ノヴァ鉱山.72号坑道.C区門は60秒後に開きます。",
+      "CN": "",
+      "KR": "노바 광장. 72호 광구 C구 문이 60초 후 열립니다.",
+      "TW": "諾瓦礦場72號礦洞C區大門將於60秒後開啟。"
+    }
+  },
+  "为了生命而战！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fight for life!!!",
+      "JP": "命をかけて戦え！！！",
+      "CN": "",
+      "KR": "생명 위해 싸우자!!!",
+      "TW": "為生命而戰！！！"
+    }
+  },
+  "*防守直到大门关闭！*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "*Defend until the gate closes!*",
+      "JP": "ゲートが閉まるまで防衛しろ！",
+      "CN": "",
+      "KR": "문이 닫힐 때까지 방어하세요!",
+      "TW": "*守到大門關閉！*"
+    }
+  },
+  "*但前方没有路了，我们该去哪里*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "But there's no path forward, where should we go?",
+      "JP": "だが前方には道がない、我々はどこへ向かう？",
+      "CN": "",
+      "KR": "하지만 앞으로는 길이 없습니다, 우리는 어디로 가야 합니까?",
+      "TW": "*前方沒有道路了，我們該去哪裡*"
+    }
+  },
+  "*未知人员：我可以给你一份工作，特别的。*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Unknown person: I can offer you a job, a special one.",
+      "JP": "未知の者：お前に特別な仕事をお伝えしよう。",
+      "CN": "",
+      "KR": "미확인 인사: 당신에게 특별한 일이 필요합니다.",
+      "TW": "*未知人員：我可以給你一份工作，很特別的。*"
+    }
+  },
+  "*未知人员：踏过传送门来见我吧*": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Unknown person: Step through the portal to meet me",
+      "JP": "未知の者：ポータルを越えて私の元へ来よ。",
+      "CN": "",
+      "KR": "미확인 인사: 텔레포터 문을 지나 오세요.",
+      "TW": "*未知人員：踏過傳送門來見我吧*"
+    }
+  },
+  "未知人员:well well well！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Unknown person: Well, well, well!",
+      "JP": "未知の者：あらあら、よくやったな！",
+      "CN": "",
+      "KR": "미확인 인사: Well, well, well!",
+      "TW": "*未知人員：哈囉、哈囉！*"
+    }
+  },
+  "未知人员:ROVE小队你们很出色的完成了任务，现在沉睡吧！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Unknown person: Team ROVE, you have excellently completed the mission. Now, sleep!",
+      "JP": "未知の者：ROVE隊、お前たちは任務を完璧に遂行した。今こそ眠れ！",
+      "CN": "",
+      "KR": "미확인 인사: ROVE대는 임무를 훌륭히 수행하셨습니다. 이제 잠들으세요!",
+      "TW": "*未知人員：ROVE小隊你們很出色地完成了任務，現在沉睡吧！*"
+    }
+  }
+}

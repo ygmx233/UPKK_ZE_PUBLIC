@@ -1,87 +1,262 @@
 {
   "Human Heal -Heal 200 hp,speed up 3 sec and Immune infection 5 sec. 65 cd.": {
     "translation": "人类治疗-治疗200hp，加速3秒，免疫感染5秒。65 cd。",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒューマンヒーアル - 200HP回復、3秒間速度アップ、5秒間感染免疫。クールダウン65秒。",
+      "CN": "人类治疗 - 恢复200点生命值，加速3秒，免疫感染5秒。冷却时间65秒。",
+      "KR": "인간 치유 - 체력 200 회복, 속도 3초 증가, 감염 무적 5초. 재사용 대기시간 65초",
+      "TW": "人類治療 - 恢復 200 點生命值、加速 3 秒及免疫感染 5 秒。冷卻時間 65 秒。"
+    }
   },
   "Human Ice -Freeze zombie 6 sec. 60 cd": {
     "translation": "人类冰冻术-冰冻僵尸6秒。60 cd",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒューマンアイス - ゾンビを6秒間凍結。クールダウン60秒",
+      "CN": "人类冰霜 - 冰冻僵尸6秒。冷却时间60秒。",
+      "KR": "인간 얼음 - 좀비 6초 동결. 재사용 대기시간 60초",
+      "TW": "人類冰霜 - 凍結殭屍 6 秒。冷卻時間 60 秒。"
+    }
   },
   "Human Fire -Freeze zombie 9 sec. 50 cd.": {
     "translation": "人类之火-冰冻僵尸9秒。50 cd。",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "ヒューマンファイア - ゾンビを9秒間凍結。クールダウン50秒",
+      "CN": "人类火焰 - 冰冻僵尸9秒。冷却时间50秒。",
+      "KR": "인간 불꽃 - 좀비 9초 동결. 재사용 대기시간 50초",
+      "TW": "人類火焰 - 凍結殭屍 9 秒。冷卻時間 50 秒。"
+    }
   },
   "The slate will open in 20 seconds": {
-    "translation": "石板将在20秒后打开"
+    "translation": "石板将在20秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "スレートが20秒後に開きます",
+      "CN": "石板将在20秒后开启",
+      "KR": "슬레이트가 20초 후에 열립니다",
+      "TW": "石板將在 20 秒後開啟"
+    }
   },
   "Zombie Snow -Slow human around you for 3 sec. 30 cd": {
     "translation": "僵尸雪-使周围的人类减速3秒。30 cd",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビスノー - 周囲のヒューマンを3秒間減速。クールダウン30秒",
+      "CN": "僵尸暴风雪 - 减速周围人类3秒。冷却时间30秒",
+      "KR": "좀비 눈송이 - 주변 인간 3초간 감속. 재사용 대기시간 30초",
+      "TW": "殭屍冰雪 - 減緩周圍人類速度 3 秒。冷卻時間 30 秒"
+    }
   },
   "Zombie Speed -Speed up zombie around you for 3 sec. 60 cd": {
     "translation": "僵尸加速-加速周围的僵尸，持续3秒。60 cd",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビスピード - 周囲のゾンビを3秒間速度アップ。クールダウン60秒",
+      "CN": "僵尸极速 - 加速周围僵尸3秒。冷却时间60秒",
+      "KR": "좀비 속도 - 주변 좀비 3초간 속도 증가. 재사용 대기시간 60초",
+      "TW": "殭屍速進 - 加速周圍殭屍速度 3 秒。冷卻時間 60 秒"
+    }
   },
   "Zombie Flamethrower -Shoot flame 3 sec. 80 cd": {
     "translation": "僵尸喷火器-喷射火焰，持续3秒。80 cd",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビフレイムスローワー - 3秒間火炎を発射。クールダウン80秒",
+      "CN": "僵尸火焰喷射器 - 喷射火焰持续3秒。冷却时间80秒",
+      "KR": "좀파 화염 방사기 - 3초간 화염 발사. 재사용 대기시간 80초",
+      "TW": "殭屍火焰噴射器 - 噴射火焰 3 秒。冷卻時間 80 秒"
+    }
   },
   "<< The door of satan open 40 second >>": {
-    "translation": "<< 撒旦之门开启40秒 >>"
+    "translation": "<< 撒旦之门开启40秒 >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< サタンの扉が40秒後に開く >>",
+      "CN": "<< 撒旦之门将于40秒后开启 >>",
+      "KR": "<< 사탄의 문이 40초 동안 열립니다 >>",
+      "TW": "<< 撒旦之門將在 40 秒後開啟 >>"
+    }
   },
   "<< 30 >>": {
     "translation": "30S",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "Trigger the final battle in 5 seconds": {
-    "translation": "5 秒后触发最终决战"
+    "translation": "5 秒后触发最终决战",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後に最終バトルが発生",
+      "CN": "5秒后触发最终战斗",
+      "KR": "5초 후에 최종 전투가 시작됩니다",
+      "TW": "5 秒後觸發最終戰鬥"
+    }
   },
   "Ready to die?": {
-    "translation": "准备好去死了吗？"
+    "translation": "准备好去死了吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "死ぬ準備はできたか？",
+      "CN": "准备赴死？",
+      "KR": "죽을 각오는 되었나요?",
+      "TW": "準備好面對死亡了嗎？"
+    }
   },
   "After 5 seconds, the platform will rise to meet the final challenge": {
-    "translation": "5秒后，平台将升起，迎接最后的挑战"
+    "translation": "5秒后，平台将升起，迎接最后的挑战",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後、プラットフォームが上昇して最終試練に挑みます",
+      "CN": "5秒后平台升起，迎接最终挑战",
+      "KR": "5초 후, 플랫폼이 최종 도전에 대비해 올라옵니다",
+      "TW": "5 秒後，平台升起以迎接最終挑戰"
+    }
   },
   "Open the hole in 40 seconds": {
-    "translation": "在40秒内打开洞口"
+    "translation": "在40秒内打开洞口",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒後に穴が開く",
+      "CN": "40秒后开启洞口",
+      "KR": "40초 후에 구멍이 열립니다",
+      "TW": "40 秒後開啟洞口"
+    }
   },
   "Transfer AFK player in 10 seconds": {
-    "translation": "在10秒内转移AFK玩家"
+    "translation": "在10秒内转移AFK玩家",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒以内にAFKプレイヤーを移動",
+      "CN": "10秒后传送挂机玩家",
+      "KR": "10초 후 AFK 플레이어가 이동합니다",
+      "TW": "10 秒內轉移離線玩家"
+    }
   },
   "Open the stone gate in 20 seconds": {
-    "translation": "在20秒内打开石门"
+    "translation": "在20秒内打开石门",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に石の門が開く",
+      "CN": "20秒后开启石门",
+      "KR": "20초 후에 돌문이 열립니다",
+      "TW": "20 秒後開啟石門"
+    }
   },
   "Defeat the guardian of ancient will": {
-    "translation": "击败古代意志的守护者"
+    "translation": "击败古代意志的守护者",
+    "MultiLang": {
+      "US": "",
+      "JP": "古き意志の守護者を倒せ",
+      "CN": "击败古意志守护者",
+      "KR": "고대의 의지를 수호하는 자를 제압하세요",
+      "TW": "擊敗古老意志的守護者"
+    }
   },
   "Send AFK player to level 2 in 5 seconds": {
-    "translation": "在5秒内将AFK玩家传送"
+    "translation": "在5秒内将AFK玩家传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒以内にAFKプレイヤーをレベル2へ送信",
+      "CN": "5秒后将挂机玩家传送至第2关",
+      "KR": "5초 후 AFK 플레이어를 레벨 2로 이동시킵니다",
+      "TW": "5 秒內將離線玩家传送至第 2 關"
+    }
   },
   "The iron door will break down in 30 seconds": {
-    "translation": "铁门将在30秒内破碎"
+    "translation": "铁门将在30秒内破碎",
+    "MultiLang": {
+      "US": "",
+      "JP": "鉄のドアは30秒後に崩壊します",
+      "CN": "铁门将在30秒后破坏",
+      "KR": "철문이 30초 후에 부서집니다",
+      "TW": "鐵門將在 30 秒後破壞"
+    }
   },
   "Send AFK player to level 1 in 15 seconds": {
-    "translation": "15秒后将AFK玩家传送"
+    "translation": "15秒后将AFK玩家传送",
+    "MultiLang": {
+      "US": "",
+      "JP": "AFKプレイヤーは15秒以内にレベル1に送信されます",
+      "CN": "AFK玩家将在15秒后传送至第1层",
+      "KR": "15초 후 비활성 플레이어를 레벨 1로 보냅니다",
+      "TW": "15 秒後將離線玩家送回到第 1 關"
+    }
   },
   "After 20 seconds, the stone slabs on both sides were destroyed": {
-    "translation": "20秒后，两侧的石板被摧毁"
+    "translation": "20秒后，两侧的石板被摧毁",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後、両側の石のスラブが破壊されました",
+      "CN": "20秒后，两侧石板被破坏",
+      "KR": "20초 후 양쪽 돌판이 파괴됩니다",
+      "TW": "20 秒後，兩側的石板被破壞"
+    }
   },
   "Turn on the last transfer after 30 seconds and close after 10 seconds": {
-    "translation": "30秒后开启最后一次传送，10秒后关闭"
+    "translation": "30秒后开启最后一次传送，10秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に最後の転送をオンにして、10秒後に閉じます",
+      "CN": "传送口将在30秒后开启，并在10秒后关闭",
+      "KR": "30초 후 마지막 전송 지점이 활성화되고 10초 후에 닫힙니다",
+      "TW": "30 秒後啟動最後的傳送，並在 10 秒後關閉"
+    }
   },
   "< ze_Illusory_World >": {
-    "translation": "< Ze_Illusory_World >"
+    "translation": "< Ze_Illusory_World >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<幻象世界>",
+      "KR": "< ze_이상한세계 >",
+      "TW": "幻境世界"
+    }
   },
   "< Map by BlackRock. >": {
-    "translation": "< 地图由 BlackRock 制作。翻译：秋刀鱼>"
+    "translation": "< 地图由 BlackRock 制作。翻译：秋刀鱼>",
+    "MultiLang": {
+      "US": "",
+      "JP": "< 地図由BlackRock制作。 >",
+      "CN": "< 地图由 BlackRock 制作。翻译：秋刀鱼>",
+      "KR": "< 맵是由BlackRock制作. >",
+      "TW": "< 圖形由BlackRock提供。>"
+    }
   },
   "< CS2 Port by @Seth. >": {
-    "translation": "< CS2 移植 @Seth. >"
+    "translation": "< CS2 移植 @Seth. >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< CS2 ポート by @Seth. >",
+      "CN": "< CS2 移植 @Seth. >",
+      "KR": "< CS2 포트_by @Seth. >",
+      "TW": "< CS2 由 @Seth 制作. >"
+    }
   },
   "<--A human has picked White Knight-->": {
-    "translation": "<--一个人类选中了白骑士--> <--按 E 攻击，头顶 E 使用终极技能。"
+    "translation": "<--一个人类选中了白骑士--> <--按 E 攻击，头顶 E 使用终极技能。",
+    "MultiLang": {
+      "US": "<--A human has chosen White Knight-->",
+      "JP": "<--人間がWhite Knightを選んだ-->",
+      "CN": "<--一个人类选中了白骑士--> <--按 E 攻击，头顶 E 使用终极技能。",
+      "KR": "<--인간이 흰 기사사를 선택했습니다-->",
+      "TW": "<--1名人類選了White Knight-->"
+    }
   },
   "<--Press E to attack,Top head E to use ultimate.-->": {
-    "translation": "<--按 E 攻击，头顶 E 使用终极技能。"
+    "translation": "<--按 E 攻击，头顶 E 使用终极技能。",
+    "MultiLang": {
+      "US": "",
+      "JP": "-->Eキーを押して攻撃、ヘッドタップでエスティメイトを使う。-->",
+      "CN": "<--按 E 攻击，头顶 E 使用终极技能。",
+      "KR": "<--E 키를 누르면 공격합니다, TOP 머리를 누르면 최종기술 사용합니다.--->",
+      "TW": "<--按E攻擊，頂頭按E使用絕招。-->"
+    }
   }
 }

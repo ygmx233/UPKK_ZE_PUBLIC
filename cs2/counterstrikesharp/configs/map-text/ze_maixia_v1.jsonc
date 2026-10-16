@@ -1,0 +1,782 @@
+{
+  "我:我们逃出来了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We: We escaped",
+      "JP": "僕らは逃げ出した",
+      "CN": "",
+      "KR": "우리 탈출했어",
+      "TW": "我：我們逃出來了"
+    }
+  },
+  "我:吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me?: What?",
+      "JP": "え？",
+      "CN": "",
+      "KR": "啥라고?",
+      "TW": "我：嗎？"
+    }
+  },
+  "我:现在不是高兴的时候": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We: This is not a time for joy",
+      "JP": "今喜んでいる場合じゃない",
+      "CN": "",
+      "KR": "기뻐할 때가 아니야",
+      "TW": "我：現在還不是高興的時候"
+    }
+  },
+  "我:哪怕曙光就再上方也不能松懈": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We: We cannot relax even if dawn is just above us",
+      "JP": "光明がもう少し先にあるとしても、油断はできない",
+      "CN": "",
+      "KR": "아직 눈앞에 희망이 있어도 긴장을 놓을 수 없어",
+      "TW": "我：哪怕曙光就在上方，也不能鬆懈"
+    }
+  },
+  "我:我们还远远没逃出去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We: We are far from having escaped yet",
+      "JP": "まだ完全には逃げ切れていない",
+      "CN": "",
+      "KR": "아직 탈출하지 못했어",
+      "TW": "我：我們還遠遠沒逃出去"
+    }
+  },
+  "我:我们找到了这里的电源": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We: We found the power source here",
+      "JP": "ここにある電源を見つけたんだ",
+      "CN": "",
+      "KR": "우리가 여기 전원 장치를 찾았어",
+      "TW": "我：我們找到了這裡的電源"
+    }
+  },
+  "我:再过40秒就能启动电梯了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We: The elevator will start in 40 seconds",
+      "JP": "あと40秒でエレベーターが作動する",
+      "CN": "",
+      "KR": "40초 후 엘리베이터가 가동될 거야",
+      "TW": "我：再過40秒就能啟動電梯了"
+    }
+  },
+  "我:坚持住": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Hang in there",
+      "JP": "頑張れ",
+      "CN": "",
+      "KR": "버텨",
+      "TW": "我：堅持住"
+    }
+  },
+  "我:我们又离地面更近了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"I\": We are closer to the ground again",
+      "JP": "私：また地面に近づいたわ",
+      "CN": "",
+      "KR": "나: 또 지면으로 가까이 다가왔구나.",
+      "TW": "我：我們又離地面更近了"
+    }
+  },
+  "5秒后门就会开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 5 seconds",
+      "JP": "5秒後に扉が開くよ",
+      "CN": "",
+      "KR": "5초 뒤 문이 열립니다.",
+      "TW": "5秒後門就會開"
+    }
+  },
+  "我:不好！他们要来了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"I\": Oh no! They are coming!",
+      "JP": "私：まずい！あいつらが来る！",
+      "CN": "",
+      "KR": "나: 안 돼! 그들이 온다!",
+      "TW": "我：不好！他們要來了！"
+    }
+  },
+  "30秒后门会开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 30 seconds",
+      "JP": "30秒後に扉が開く",
+      "CN": "",
+      "KR": "30초 뒤 문이 열립니다.",
+      "TW": "30秒後門會開"
+    }
+  },
+  "神秘人：终于找到你们了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Mysterious Man\": I finally found you",
+      "JP": "神秘人：やっと見つけたぞ",
+      "CN": "",
+      "KR": "신비한 사람: 드디어 너희를 찾았다.",
+      "TW": "神秘人：終於找到你們了"
+    }
+  },
+  "我:你是谁？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"I\": Who are you?",
+      "JP": "私：あなたは何者？",
+      "CN": "",
+      "KR": "나: 넌 누구야?",
+      "TW": "我：你是誰？"
+    }
+  },
+  "神秘人：我应该算你们的boss": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Mysterious Man\": I guess I count as your boss",
+      "JP": "神秘人：私はお前のボスだろ？",
+      "CN": "",
+      "KR": "신비한 사람: 나는 너희 보스라고 봐.",
+      "TW": "神秘人：我應該算是你們的Boss"
+    }
+  },
+  "神秘人：看来你们找到这个工厂的秘密": {
+    "translation": "",
+    "MultiLang": {
+      "US": "\"Mysterious Man\": Looks like you found the secret to this factory",
+      "JP": "神秘人：この工場の秘密を見つけたようだね",
+      "CN": "",
+      "KR": "신비한 사람: 보니 이 공장의 비밀을 찾아냈다.",
+      "TW": "神秘人：看來你們找到這個工廠的秘密"
+    }
+  },
+  "我:你是来帮我们的吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Are you here to help us?",
+      "JP": "我:あなたは私たちを助けるために来たのですか？",
+      "CN": "",
+      "KR": "나: 너는 우리를 돕기 위해 온 거야?",
+      "TW": "我：你是來幫我們的嗎？"
+    }
+  },
+  "门将在35秒后开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 35 seconds.",
+      "JP": "門は35秒後に開きます",
+      "CN": "",
+      "KR": "문이 35초 후에 열려.",
+      "TW": "門將在35秒後開啟"
+    }
+  },
+  "我:你在哪里？你刚刚干了什么？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Where are you? What just happened?",
+      "JP": "我:あなたはどこにいますか？さっき何をしたのですか？",
+      "CN": "",
+      "KR": "나: 너는 어디에 있는 거야? 방금 한 일은 뭐야?",
+      "TW": "我：你在哪裡？你剛剛做了什麼？"
+    }
+  },
+  "神秘人：原理很复杂": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Person: The principle is quite complex.",
+      "JP": "神秘人：仕組みは複雑です",
+      "CN": "",
+      "KR": "미스터리맨: 원리가 복잡해.",
+      "TW": "神秘人：原理很複雜"
+    }
+  },
+  "神秘人：你们可能还会遇到更难以置信的事": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Person: You might encounter even more incredible things.",
+      "JP": "神秘人：あなたたちはさらに信じがたい出来事に直面するかもしれません",
+      "CN": "",
+      "KR": "미스터리맨: 너희는 또 더 놀라운 것을 마주할지도 몰라.",
+      "TW": "神秘人：你們可能還會遇到更難以置信的事"
+    }
+  },
+  "神秘人：当然，你只要知道这和这个工厂的秘密有关就好": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Person: Of course, you just need to know that it has something to do with the secrets of this factory.",
+      "JP": "神秘人：もちろん、これがこの工場の秘密に関係していることだけが分かれば十分です",
+      "CN": "",
+      "KR": "미스터리맨: 물론, 너희가 이 공장의 비밀과 관련이 있다는 것만 알면 돼.",
+      "TW": "神秘人：當然，你只要知道這和這個工廠的秘密有關就好"
+    }
+  },
+  "我:什么秘密？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: What secret?",
+      "JP": "我:どんな秘密ですか？",
+      "CN": "",
+      "KR": "나: 어떤 비밀이야?",
+      "TW": "我：什麼秘密？"
+    }
+  },
+  "我:你刚刚为什么说我们找到了这个工厂的秘密？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Why did you just say we found the secrets of this factory?",
+      "JP": "我:さっき、なぜこの工場の秘密を見つけたと言ったのですか？",
+      "CN": "",
+      "KR": "나: 방금 왜 우리가 이 공장의 비밀을 찾아냈다고 한 거야?",
+      "TW": "我：你剛剛為什麼說我們找到了這個工廠的秘密？"
+    }
+  },
+  "门将在5秒后开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 5 seconds",
+      "JP": "ゲートは5秒後に開く",
+      "CN": "",
+      "KR": "게이트가 5초 후에 열립니다",
+      "TW": "门将於5秒後開啟"
+    }
+  },
+  "神秘人：都说是秘密了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Person: It's already a secret!",
+      "JP": "ミステリーマン：秘密だってば",
+      "CN": "",
+      "KR": "미ystery 사람: 비밀이라고 했잖아",
+      "TW": "神秘人：都說是秘密了"
+    }
+  },
+  "神秘人：...你们...出来我...告诉你们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Person: ...You... come out and I... will tell you",
+      "JP": "ミステリーマン：...皆...出れば...教えてやる",
+      "CN": "",
+      "KR": "미ystery 사람: ...너희... 나가서 내가... 알려줄게",
+      "TW": "神秘人：...你們...出來我...告訴你們"
+    }
+  },
+  "我：可恶，信号又断开了吗": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Dammit, did the signal drop again?",
+      "JP": "私：くそ、信号がまた切れたのか",
+      "CN": "",
+      "KR": "나:젠장, 또 신호가 끊어졌어?",
+      "TW": "我：可恶，訊號又斷開了嗎"
+    }
+  },
+  "我：不好！小心旁边的铁网！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Danger! Watch out for the iron mesh nearby!!",
+      "JP": "私：まずい！隣の鉄格子に注意！！",
+      "CN": "",
+      "KR": "나: 안 돼! 옆 철망 조심!!",
+      "TW": "我：不好！小心旁邊的鐵網！！"
+    }
+  },
+  "门还有5秒后开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door will open in 5 seconds",
+      "JP": "ゲートは5秒後に開く",
+      "CN": "",
+      "KR": "게이트가 5초 후에 열립니다",
+      "TW": "門將開啟還有5秒"
+    }
+  },
+  "我：这个门锁死了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: This lock is jammed",
+      "JP": "私：このロックは堅固だ",
+      "CN": "",
+      "KR": "나: 이 문 잠겨 있어",
+      "TW": "我：這個門鎖死了"
+    }
+  },
+  "我：上面的管道可以走": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: The pipes above can be traversed",
+      "JP": "私：上の配管を伝えばいける",
+      "CN": "",
+      "KR": "나: 위쪽 파이프를 이용할 수 있어",
+      "TW": "我：上面的管道可以走"
+    }
+  },
+  "我：给我点时间，兄弟们顶住！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Give me some time, hold the line!",
+      "JP": "俺：時間くれ、みんな頑張れ！",
+      "CN": "",
+      "KR": "나: 좀 시간을 달라, 형들 잘 버티고 있어!",
+      "TW": "我：給我點時間，兄弟們撐住！"
+    }
+  },
+  "管道还有5秒后开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate opens in 5 seconds",
+      "JP": "スリット5秒後開放",
+      "CN": "",
+      "KR": "배관 5초 후 개통",
+      "TW": "管道還有5秒後開啟"
+    }
+  },
+  "神秘人：抓紧时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: Hurry up!",
+      "JP": "ミステリーマン：急いで",
+      "CN": "",
+      "KR": "신비한 사람: 서두르세요",
+      "TW": "神秘人：動作快一點"
+    }
+  },
+  "神秘人：你们可是在跟时间赛跑": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: You're racing against time",
+      "JP": "ミステリーマン：もう時間と戦ってるぞ",
+      "CN": "",
+      "KR": "신비한 사람: 여러분은 지금 시간과 씨름 중입니다",
+      "TW": "神秘人：你們可是在跟時間賽跑"
+    }
+  },
+  "神秘人：动作快！他们要来了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: Move faster! They're coming!",
+      "JP": "ミステリーマン：早くしろ！奴らが来るぞ！",
+      "CN": "",
+      "KR": "신비한 사람: 빨리 해! 저들이 오려고 한다!",
+      "TW": "神秘人：快點！他們要來了！"
+    }
+  },
+  "门将在40秒后开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Gate opens in 40 seconds",
+      "JP": "ドア40秒後開放",
+      "CN": "",
+      "KR": "문 40초 후 개방",
+      "TW": "門將在40秒後開啟"
+    }
+  },
+  "我：你就不能提供更好的帮助吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Can't you offer better assistance?",
+      "JP": "俺：もっと良い助けはできないのか？",
+      "CN": "",
+      "KR": "나: 더 나은 도움을 줄 수는 없나요?",
+      "TW": "我：你就不能提供更好一点的帮助吗？"
+    }
+  },
+  "神秘人：我尽量": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: I'll do my best.",
+      "JP": "ミステリーマン：努力するよ",
+      "CN": "",
+      "KR": "신비한 사람: 최선을 다할게",
+      "TW": "神秘人：我會盡力"
+    }
+  },
+  "神秘人：你要知道，有人想你们带着秘密安全离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: You should know that some want you to leave safely with the secret.",
+      "JP": "謎の男：覚えておけ、秘密を持って無事に出るよう望む者もいる",
+      "CN": "",
+      "KR": "신비한 사람: 기억해, 너희가 비밀을 안고 안전하게 나가길 바라는 사람이 있다.",
+      "TW": "神秘人：你要知道，有人想你們帶著秘密安全離開"
+    }
+  },
+  "神秘人：就有人想着埋没这个秘密，要你们死": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: And others want to bury this secret and have you killed.",
+      "JP": "謎の男：一方で、この秘密を葬り、お前たちを殺そうとする者もいる",
+      "CN": "",
+      "KR": "신비한 사람: 한편으로는 이 비밀을 묻어버리려 너희를 죽이려는 자도 있다.",
+      "TW": "神秘人：就有人想著埋沒這個秘密，要你們死"
+    }
+  },
+  "神秘人：当然我是前者": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: Of course, I'm on the former side.",
+      "JP": "謎の男：私が前者だ",
+      "CN": "",
+      "KR": "신비한 사람: 물론 나는 전자의 편이야.",
+      "TW": "神秘人：當然我是前者"
+    }
+  },
+  "门将在30秒后开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate will open in 30 seconds.",
+      "JP": "門は30秒後に開く",
+      "CN": "",
+      "KR": "문이 30초 후에 열린다.",
+      "TW": "門將在30秒後開"
+    }
+  },
+  "我：净说些有的没的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Just talking nonsense.",
+      "JP": "私：まことしやかなことを良くも言えるわな",
+      "CN": "",
+      "KR": "나: 딱히 도움이 안 되는 소리를 하네.",
+      "TW": "我：淨說些有的沒的"
+    }
+  },
+  "我：兄弟门坚持住！一定要活着出去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Guys, hang in there! You must survive and get out.",
+      "JP": "私：皆、頑張れ！絶対に生き延びて外へ出よう",
+      "CN": "",
+      "KR": "나: 형들, 버텨! 꼭 살아서 나가자!",
+      "TW": "我：兄弟們堅持住！一定要活著出去"
+    }
+  },
+  "我：看来这里可以休息一下了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Looks like we can rest here for a bit.",
+      "JP": "私：どうやらここで一息つくこともできそうだ",
+      "CN": "",
+      "KR": "나: 여기는 잠시 쉬어가기 좋은 곳이군.",
+      "TW": "我：看來這裡可以休息一下了"
+    }
+  },
+  "神秘人：你们后面这个房间看起来像是厕所改造的餐厅": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: That room behind you looks like a restaurant converted from a bathroom.",
+      "JP": "謎の男：その奥の部屋は、トイレを改装したレストランのようだが",
+      "CN": "",
+      "KR": "신비한 사람: 너희 뒤에 있는 방은 변식을 개조한 식당 같아 보이군.",
+      "TW": "神秘人：你們後面這個房間看起來像是廁所改造的餐廳"
+    }
+  },
+  "神秘人：还挺别致的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: That's quite unique.",
+      "JP": "謎の人物：なかなか凝っているな",
+      "CN": "",
+      "KR": "신비한 인물: 꽤 독특한걸.",
+      "TW": "神秘人：倒是挺別緻的"
+    }
+  },
+  "我：你就不能停供一些有用的帮助吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Couldn't you provide some useful help?",
+      "JP": "私：もう少し有用的な手助けをしてくれませんか？",
+      "CN": "",
+      "KR": "나: 좀 유용한 도움은 못 줄수있니?",
+      "TW": "我：你就不能提供點有用的幫助嗎？"
+    }
+  },
+  "神秘人：必要时，我会的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: I will, if necessary.",
+      "JP": "謎の人物：必要があれば、するさ",
+      "CN": "",
+      "KR": "신비한 인물: 필요하면 그럴게.",
+      "TW": "神秘人：必要時，我會的"
+    }
+  },
+  "我：可恶，死路吗": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Damn it. Is this a dead end?",
+      "JP": "私：くそ、行き止まりか",
+      "CN": "",
+      "KR": "나: 망했다, 막다른 길인가?",
+      "TW": "我：該死，是死路嗎？"
+    }
+  },
+  "神秘人：怎么会，路就在脚下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: How could it be? The path is right under your feet.",
+      "JP": "謎の人物：怎么会，道は足元に在る",
+      "CN": "",
+      "KR": "신비한 인물: 무슨 소리야. 길이 있다.",
+      "TW": "神秘人：怎麼會，路就在腳下"
+    }
+  },
+  "神秘人：我来帮你们处理一下这个木板吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: Let me handle this wooden plank for you.",
+      "JP": "謎の人物：この板木を処理してやろうか",
+      "CN": "",
+      "KR": "신비한 인물: 이 널을 처리해 줄게.",
+      "TW": "神秘人：來，我幫你們處理這塊木板"
+    }
+  },
+  "神秘人：你们一定要活着": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: You must survive.",
+      "JP": "謎の人物：生き返れ",
+      "CN": "",
+      "KR": "신비한 인물: 꼭 살아서 돌아와.",
+      "TW": "神秘人：你們一定要活著"
+    }
+  },
+  "神秘人：对了，下去之后动作快一点": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: By the way, hurry up once you go down.",
+      "JP": "謎の人物：そうだ、下ったら素早く動け",
+      "CN": "",
+      "KR": "신비한 인물: 내려가면 서둘러.",
+      "TW": "神秘人：對了，下去之後動作快一點"
+    }
+  },
+  "我：什么？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: What?",
+      "JP": "我：はあ？",
+      "CN": "",
+      "KR": "나: 뭐?",
+      "TW": "我：什麼？"
+    }
+  },
+  "木板将在5秒后消失": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The wooden planks will disappear in 5 seconds.",
+      "JP": "木板が5秒後に消滅します",
+      "CN": "",
+      "KR": "나무 판자가 5초 후에 사라집니다",
+      "TW": "木板將在5秒後消失"
+    }
+  },
+  "我：多亏你了boss": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Thanks, boss.",
+      "JP": "我：ボス、ありがとう",
+      "CN": "",
+      "KR": "나: 보스 덕분에 고마워",
+      "TW": "我：多虧了你，老大"
+    }
+  },
+  "神秘人：哦对，我是你们boss，差点忘了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: Oh right, I am your boss. Almost forgot.",
+      "JP": "ミステリアスマン：そうだった、俺は君たちのボスだ。ちょっと忘れてたよ",
+      "CN": "",
+      "KR": "신비한 사람: 아 맞다, 나 너희 보스잖아. 깜빡했네",
+      "TW": "神秘人：哦對，我是你們的老大，差點忘了"
+    }
+  },
+  "我：？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: ?",
+      "JP": "我：？",
+      "CN": "",
+      "KR": "나: ?",
+      "TW": "我：？"
+    }
+  },
+  "神秘人：咳咳，没什么，注意眼前的敌人": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: Ahem, nothing. Focus on the enemy in front of you.",
+      "JP": "ミステリアスマン：咳、何でもないよ。目の前の敵に気を付けて",
+      "CN": "",
+      "KR": "신비한 사람: 헤헤, 아무것도 없어. 너흰 앞의 적에 집중해",
+      "TW": "神秘人：咳咳，沒事，注意眼前的敵人"
+    }
+  },
+  "神秘人：这箱子真烦人，你们守住，我来处理": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: This crate is annoying. You hold them off; I’ll handle it.",
+      "JP": "ミステリアスマン：あの箱がうるさい。君たちは守ってて、俺が処理する",
+      "CN": "",
+      "KR": "신비한 사람: 이 상자 귀찮으네. 너흰 방어만 잘 하고, 내가 처리할게",
+      "TW": "神秘人：這箱子真煩人，你們守住，我來處理"
+    }
+  },
+  "我：好吧，兄弟门顶住！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Alright, brothers, hold the line!",
+      "JP": "我：よーし、みんな頑張って！",
+      "CN": "",
+      "KR": "나\": \"알았어, 형들 힘내세요!",
+      "TW": "我：好吧，兄弟們撐住！"
+    }
+  },
+  "箱子将在5秒后消失": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The box will disappear in 5 seconds",
+      "JP": "宝箱は5秒後に消滅します",
+      "CN": "",
+      "KR": "상자가 5초 후 사라집니다",
+      "TW": "箱子將在5秒後消失"
+    }
+  },
+  "神秘人：哦天拿": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mystery Man: Oh my god",
+      "JP": "謎の人：やばい",
+      "CN": "",
+      "KR": "신비한 사람: 세상에",
+      "TW": "神秘人：哦天哪"
+    }
+  },
+  "神秘人：谁把冰箱卡这里了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mystery Man: Who stuck the fridge here?",
+      "JP": "謎の人：誰か冷蔵庫をこの隙間に挿し込んじゃった？",
+      "CN": "",
+      "KR": "신비한 사람: 누가 냉장고 여기다 끼웠지",
+      "TW": "神秘人：誰把冰箱卡在這裡了"
+    }
+  },
+  "神秘人：坚持住，我会处理好的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mystery Man: Hang in there, I'll handle it.",
+      "JP": "謎の人：耐えてて、私が対処するから",
+      "CN": "",
+      "KR": "신비한 사람: 버텨, 내가 처리할게",
+      "TW": "神秘人：堅持住，我會處理好的"
+    }
+  },
+  "冰箱将在5秒后消失": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The fridge will disappear in 5 seconds",
+      "JP": "冷蔵庫は5秒後に消滅します",
+      "CN": "",
+      "KR": "냉장고가 5초 후 사라집니다",
+      "TW": "冰箱將在5秒後消失"
+    }
+  },
+  "我：来点人看一下这个洞，别让他们进来了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Can someone check out this hole? Stop them from getting in.",
+      "JP": "私：この穴を誰か見てて、侵入させないでくれ",
+      "CN": "",
+      "KR": "나: 이 구멍 좀 봐주고 들어오는 자 막아줘",
+      "TW": "我：找個人來看看這個洞，別讓他們進來了"
+    }
+  },
+  "神秘人：你们到下一个房间记得注意窗户，他们可快了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mystery Man: When you reach the next room, keep an eye on the windows. They're fast.",
+      "JP": "謎の人：次の部屋に行く際は窓に注意してな、あいつらはかなり速いぞ",
+      "CN": "",
+      "KR": "신비한 사람: 다음 방으로 이동할 땐 창문에 주의해, 걔네들이 매우 빠르거든",
+      "TW": "神秘人：你們到下一個房間時記得注意窗戶，他們跑得很快"
+    }
+  },
+  "我：兄弟门加油！离胜利不远了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Come on, guys! We're close to victory!",
+      "JP": "私：みんな頑張れ！勝利はもうすぐだ！",
+      "CN": "",
+      "KR": "나: 형들 화이팅! 승리가 보일 거야!",
+      "TW": "我：兄弟們加油！離勝利不遠了！"
+    }
+  },
+  "神秘人：后面的路要跑快点了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: We need to hurry up ahead.",
+      "JP": "謎の男：次の道はもっと速く走るんだ",
+      "CN": "",
+      "KR": "신비한 사람: 뒤에 있는 길은 더 빨리 달려야 해.",
+      "TW": "神秘人：往後的路程得加快速度了。"
+    }
+  },
+  "我：速度快！不要被追上了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Go faster! Don't let them catch up!",
+      "JP": "私：スピードアップ！追いつかれるな！",
+      "CN": "",
+      "KR": "나: 속도가 빨라요! 뒤따르는 사람들에게 잡히지 마세요!",
+      "TW": "我：快點！別被追上了！"
+    }
+  },
+  "我：可恶，这电梯是坏的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Damn it, this elevator is broken.",
+      "JP": "私くそ、このエレベーターは壊れてる",
+      "CN": "",
+      "KR": "나: 짜증나는구나, 이 엘리베이터는 고장 났어.",
+      "TW": "我：可惡，這部電梯壞了。"
+    }
+  },
+  "神秘人：放心，我会修，你来帮我吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: Don't worry, I'll fix it. You help me.",
+      "JP": "謎の男：大丈夫、直してみせる。手伝え",
+      "CN": "",
+      "KR": "신비한 사람: 걱정하지 마, 내가 고칠 테니 너도 도와줘.",
+      "TW": "神秘人：別擔心，我會修，你來幫我一下吧。"
+    }
+  },
+  "我：我也要修吗？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Me: Do I need to fix it too?",
+      "JP": "私：僕も直すのか？",
+      "CN": "",
+      "KR": "나: 나도 수리에 참여해야 해?",
+      "TW": "我：我也得參與修理嗎？"
+    }
+  },
+  "神秘人：帮我守住阵地...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mysterious Man: Help me hold the line...",
+      "JP": "謎の男：陣地を守れ…",
+      "CN": "",
+      "KR": "신비한 사람: 나를 지켜줘, 전선을 고쳐줘...",
+      "TW": "神秘人：幫我守住陣地……"
+    }
+  }
+}

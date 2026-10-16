@@ -1,0 +1,372 @@
+{
+  "*** IN TO THE FIRE ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 火の中に突撃 ***",
+      "CN": "*** 深入火海 ***",
+      "KR": "*** 불길 속으로 ***",
+      "TW": "*** 踏入火海 ***"
+    }
+  },
+  ">> MAP BY live action cow <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> MAP BY live action cow <<",
+      "CN": ">> 地图作者：live action cow <<",
+      "KR": ">> 지도 제작자: live action cow <<",
+      "TW": ">> 地圖製作：真人Cow <<"
+    }
+  },
+  "*** 15 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 20 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** 30 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** WARM UP ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ウォーミングアップ ***",
+      "CN": "*** 热身开始 ***",
+      "KR": "*** 체력 회복 ***",
+      "TW": "*** 熱身中 ***"
+    }
+  },
+  "*** WARM UP ENDING IN 5 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にウォーミングアップ終了 ***",
+      "CN": "*** 5秒后结束热身 ***",
+      "KR": "*** 체력 회복 5초 후 종료 ***",
+      "TW": "*** 熱身將於 5 秒後結束 ***"
+    }
+  },
+  "*** DOOR CLOSES IN 30 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後にドア閉鎖 ***",
+      "CN": "*** 30秒后关门 ***",
+      "KR": "*** 문 닫힘 30초 전 ***",
+      "TW": "*** 門將在 30 秒後關閉 ***"
+    }
+  },
+  "*** DONT LET ZOMBIES IN !! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビを中に入れないで !! ***",
+      "CN": "*** 别让僵尸进来！！***",
+      "KR": "*** 좀벌레가 들어오게 두지 마세요 !! ***",
+      "TW": "*** 別讓殭屍進場！***"
+    }
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り10秒 ***",
+      "CN": "*** 剩余10秒 ***",
+      "KR": "*** 남은 시간 10초 ***",
+      "TW": "*** 倒數 10 秒 ***"
+    }
+  },
+  "*** AFK TP IN 15 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒後にAFKテレポート ***",
+      "CN": "*** 15秒后AFK传送 ***",
+      "KR": "*** 오프라인TP 15초 후 실행 ***",
+      "TW": "*** AFK 傳送將於 15 秒後啟動 ***"
+    }
+  },
+  "*** FALL BACK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 代替メッセージ ***",
+      "CN": "*** 回退 ***",
+      "KR": "*** FALL BACK ***",
+      "TW": "*** 後援 ***"
+    }
+  },
+  "*** SECRETS FOUND 1/1 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 秘密アイテム 1/1 個発見 ***",
+      "CN": "*** 发现秘密 1/1 ***",
+      "KR": "*** SECRETS FOUND 1/1 ***",
+      "TW": "*** 已發現全部秘密 (1/1) ***"
+    }
+  },
+  "*** HALLS OF SACRED REMAINS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 聖なる遺跡の Hall ***",
+      "CN": "*** 神圣遗迹大厅 ***",
+      "KR": "*** HALLS OF SACRED REMAINS ***",
+      "TW": "*** 神聖遺骸廳 ***"
+    }
+  },
+  "*** BLUE SKULL PICKED UP ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 青い棺桶拾った ***",
+      "CN": "*** 拾取蓝色骷髅 ***",
+      "KR": "*** BLUE SKULL PICKED UP ***",
+      "TW": "*** 取得藍色骷髏 ***"
+    }
+  },
+  "*** BRIDGE LOWERING IN 20 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ブリッジ降下開始から20秒 ***",
+      "CN": "*** 桥梁将在20秒后放下 ***",
+      "KR": "*** BRIDGE LOWERING IN 20 SECONDS ***",
+      "TW": "*** 吊橋 20 秒後降下 ***"
+    }
+  },
+  "*** DOOR OPENS IN 30 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉開放まで30秒 ***",
+      "CN": "*** 门将在30秒后打开 ***",
+      "KR": "*** DOOR OPENS IN 30 SECONDS ***",
+      "TW": "*** 門 30 秒後開啟 ***"
+    }
+  },
+  "*** DOOR OPENS IN 15 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 扉開放まで15秒 ***",
+      "CN": "*** 门将在15秒后打开 ***",
+      "KR": "*** DOOR OPENS IN 15 SECONDS ***",
+      "TW": "*** 門 15 秒後開啟 ***"
+    }
+  },
+  "***  FIND 3 BLUE SKULLS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 青い棺桶3個探す ***",
+      "CN": "*** 寻找3个蓝色骷髅 ***",
+      "KR": "***  FIND 3 BLUE SKULLS ***",
+      "TW": "*** 尋找 3 顆藍色骷髏 ***"
+    }
+  },
+  "*** 1 SKULL FOUND ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** くちばし 1つ見つかりました ***",
+      "CN": "*** 已找到 1 个头骨 ***",
+      "KR": "*** 1개의 두개골 발견 ***",
+      "TW": "*** 找到 1 顆頭顱 ***"
+    }
+  },
+  "*** 2 SKULLS FOUND ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** くちばし 2つ見つかりました ***",
+      "CN": "*** 已找到 2 个头骨 ***",
+      "KR": "*** 2개의 두개골 발견 ***",
+      "TW": "*** 找到 2 顆頭顱 ***"
+    }
+  },
+  "*** ALL SKULLS FOUND ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** すべてのくちばしが見つかりました ***",
+      "CN": "*** 所有头骨已找到 ***",
+      "KR": "*** 모든 두개골 발견 ***",
+      "TW": "*** 找到所有頭顱 ***"
+    }
+  },
+  "*** 15 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒 ***",
+      "CN": "*** 15 秒 ***",
+      "KR": "*** 15초 ***",
+      "TW": "*** 15 秒後 ***"
+    }
+  },
+  "*** DONT LET ZOMBIES INSIDE THE ARENA ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビをアリーナの中に入れないでください ***",
+      "CN": "*** 不要让僵尸进入竞技场 ***",
+      "KR": "*** 좀비들이 경기장 안으로 들어오지 못하게 막으세요 ***",
+      "TW": "*** 不要讓殭屍進入競技場 ***"
+    }
+  },
+  "*** SECRETS FOUND 1/2 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** シークレット見つかりました 1/2 ***",
+      "CN": "*** 发现秘密 1/2 ***",
+      "KR": "*** 숨겨진 장소 발견 1/2 ***",
+      "TW": "*** 找到隱藏道具 1/2 ***"
+    }
+  },
+  "*** SHEER HEART ATTACK ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** シャクシャク ***",
+      "CN": "*** 狂野之心 ***",
+      "KR": "*** 치명적인 심장 발작 ***",
+      "TW": "*** 心意重重 ***"
+    }
+  },
+  "*** DEFEND WHILE YOUR TEAMMATES FIND THE BLUE SKULL ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** チームメイトが青いくちばしを探す間、防衛してください ***",
+      "CN": "*** 在队友寻找蓝色头骨时进行防守 ***",
+      "KR": "*** 동료들이 푸른 두개골을 찾을 때까지 방어하세요 ***",
+      "TW": "*** 在隊友找到藍色頭顱時守衛基地 ***"
+    }
+  },
+  "*** ZOMBIE TP IN 15 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビTP 15秒後",
+      "CN": "*** 僵尸传送将在15秒后开始 ***",
+      "KR": "*** 좀비 TP 15초 후 ***",
+      "TW": "*** 殭屍 TP 倒計時：15 秒 ***"
+    }
+  },
+  "*** DOOR OPENS IN 25 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア、25秒後に開きます ***",
+      "CN": "*** 门将在25秒后开启 ***",
+      "KR": "*** 문 25초 후 열림 ***",
+      "TW": "*** 門開啟倒計時：25 秒 ***"
+    }
+  },
+  "*** KILL THE MINDFLAYER ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マインドフライヤーを倒せ ***",
+      "CN": "*** 击杀 Mindflayer ***",
+      "KR": "*** 마인드플레이어 처치 ***",
+      "TW": "*** 擊殺思想收割者 ***"
+    }
+  },
+  "*** GET BEHIND THE CART ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** カートの陰に隠れろ ***",
+      "CN": "*** 躲到推车后面 ***",
+      "KR": "*** 카트 뒤로 대피 ***",
+      "TW": "*** 躲到貨車後方 ***"
+    }
+  },
+  "*** RED SKULL PICKED UP ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** レッドスカルを拾った ***",
+      "CN": "*** 已拾取红色骷髅 ***",
+      "KR": "*** 빨간 두개골 획득 ***",
+      "TW": "*** 已取得紅骷髏 ***"
+    }
+  },
+  "*** DOOR CLOSES IN 20 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア、20秒後に閉じます ***",
+      "CN": "*** 门将在20秒后关闭 ***",
+      "KR": "*** 문 20초 후 닫힘 ***",
+      "TW": "*** 門關閉倒計時：20 秒 ***"
+    }
+  },
+  "*** 25 ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドア、20秒後に開きます ***",
+      "CN": "*** 门将在20秒后开启 ***",
+      "KR": "*** 문 20초 후 열림 ***",
+      "TW": "*** 門開啟倒計時：20 秒 ***"
+    }
+  },
+  "*** DEFEND WHILE YOUR TEAMMATES LIGHT THE FIRE PITS ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "*** FIRE PITS LIT DOOR OPENING ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

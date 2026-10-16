@@ -1,0 +1,1052 @@
+{
+  "<< Level 1  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< レベル 1 >>",
+      "CN": "<<关卡一>>",
+      "KR": "<< 레벨 1 >>",
+      "TW": "<< 關卡 1 >>"
+    }
+  },
+  "<< Hell Bus  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ヘルバス >>",
+      "CN": "<<地狱巴士>>",
+      "KR": "<< 지옥 버스 >>",
+      "TW": "<< 地獄巴士 >>"
+    }
+  },
+  "<< Scenario Title: Death Forest  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< シナリオタイトル：死の森 >>",
+      "CN": "<<场景标题：死亡森林>>",
+      "KR": "<< 시나리오 제목: 죽음의 숲 >>",
+      "TW": "<< 場景標題：死亡森林 >>"
+    }
+  },
+  "<< Objective: Survive one night, or find the escape route.  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 目標：一晩生き延つか、脱出ルートを見つけること >>",
+      "CN": "<<目标：活过一个夜晚，或找到逃生路线。>>",
+      "KR": "<< 목표: 하룻밤 생존 또는 탈출길 찾기 >>",
+      "TW": "<< 目標：度過一夜，或找到逃生路線。 >>"
+    }
+  },
+  "<< Good Luck.  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 幸運を祈る >>",
+      "CN": "<<祝你好运。>>",
+      "KR": "<< 행운을 빕니다. >>",
+      "TW": "<< 祝你好運。 >>"
+    }
+  },
+  "\"It seems we're on a highway.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうやら私たちは高速道路にあるようだ。",
+      "CN": "看来我们在高速公路上。",
+      "KR": "고속도로 위에 있는 것 같습니다.",
+      "TW": "看來我們是在公路上。"
+    }
+  },
+  "\"Damn it, the corpses in the car are coming back to life! Suppressing fire, NOW!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "くそっ、車内の死体が蘇ってきた！即時、制圧射撃を！",
+      "CN": "该死，车里的尸体活过来了！立即压制射击！",
+      "KR": "젠장, 차 안 시체가 살아났잖아! 즉각 사격!",
+      "TW": "該死，車裡的屍體活過來了！立即開火壓制！"
+    }
+  },
+  "\"Something...is preventing our escape.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "何か……私たちの逃路上にあるものを阻んでいる。",
+      "CN": "有什么……在阻碍我们逃脱。",
+      "KR": "우리 탈출을 막는 무언가가 있다.",
+      "TW": "有什麼……在阻礙我們逃脫。"
+    }
+  },
+  "\"As if we're meant to witness an event yet to come.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "まるで、未来の出来事を目撃するかのように。",
+      "CN": "仿佛我们在见证一场尚未到来的事件。",
+      "KR": "아직 일어나지 않은 일을 목격하라는 듯이.",
+      "TW": "彷彿我們注定要見證一場尚未發生的事件。"
+    }
+  },
+  "\"What the hell...\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "何だ、こりゃ…",
+      "CN": "这到底是怎么回事……",
+      "KR": "도대체 무슨 일이야...",
+      "TW": "這到底是怎麼回事……"
+    }
+  },
+  "\"Run! Scatter!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "走れ！ 逃げろ！",
+      "CN": "快跑！散开！",
+      "KR": "달려! 흩어져!",
+      "TW": "快跑！四散逃開！"
+    }
+  },
+  "\"I swear, nothing good comes from letting that thing get close.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あいつを近づけさせれば、いいことなんてないって。はっきり言ってんだから。",
+      "CN": "我敢肯定，让那东西靠近绝对没好下场。",
+      "KR": "맹세하지만, 저것 가까이 하게 두면 좋은 일 생길 거 하나도 없어.",
+      "TW": "我敢發誓，讓那傢伙靠近絕不會有好下場。"
+    }
+  },
+  "<< Do you harbor hatred? >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "憎しみを持っていますか？ >>",
+      "CN": "<< 你心中是否存有仇恨？ >>",
+      "KR": "너는 증오를 품고 있는가? >>",
+      "TW": "<< 你心中懷有怨恨嗎？ >>"
+    }
+  },
+  "<< Kill them. I will give you power. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "殺せ。力をやろう。 >>",
+      "CN": "<< 杀了他们。我将赐你力量。 >>",
+      "KR": "그들을 죽여라. 내가 힘을 주마. >>",
+      "TW": "<< 殺了他們。我會賦予你力量。 >>"
+    }
+  },
+  "<< Humans, you have four minutes to find the escape route. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "人間よ、脱出経路を見つけるのに4分しかない。 >>",
+      "CN": "<< 人类，你们有四分钟时间找到逃生路线。 >>",
+      "KR": "인간들이여",
+      "TW": "<< 人類，你們有四分鐘時間找到逃生路線。 >>"
+    }
+  },
+  "\"This talisman...could it be our way out?\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この札…もしかして、出口への鍵なのか？",
+      "CN": "这道符咒……难道是我们脱身的办法？",
+      "KR": "이 부적... 우리 탈출구가 될 수도 있겠군?",
+      "TW": "這張符咒……難道是我們脫困的辦法？"
+    }
+  },
+  "<< You found the first talisman. Collect all of them to discover the escape route.  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "最初の護符を見つけました。全てを集めて脱出経路を見つけてください。",
+      "CN": "<< 你找到了第一张符咒。收集全部符咒以发现逃生路线。 >>",
+      "KR": "<< 첫 주필을 발견했습니다. 모두 수집하면 탈출로를 알 수 있습니다. >>",
+      "TW": "<< 你找到了第一張護身符。收集所有護身符以發現逃生路線。 >>"
+    }
+  },
+  "<< 10 seconds remaining. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒。",
+      "CN": "<< 剩余10秒。 >>",
+      "KR": "<< 남은 시간 10초 >>",
+      "TW": "<< 剩餘 10 秒。 >>"
+    }
+  },
+  "<< Warm Round >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォームラウンド",
+      "CN": "<< 热身赛阶段 >>",
+      "KR": "<< 웜 라운드 >>",
+      "TW": "<< 熱身賽 >>"
+    }
+  },
+  "<< 2 talismans collected. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "護符を2個入手しました。",
+      "CN": "<< 已收集2张符咒。 >>",
+      "KR": "<< 주필 2개 수집 완료. >>",
+      "TW": "<< 已收集 2 張護身符。 >>"
+    }
+  },
+  "<< 3 talismans collected. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "護符を3個入手しました。",
+      "CN": "<< 已收集3张符咒。 >>",
+      "KR": "<< 주필 3개 수집 완료. >>",
+      "TW": "<< 已收集 3 張護身符。 >>"
+    }
+  },
+  "<< All talismans collected. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "全ての護符を集めました。",
+      "CN": "<< 所有符咒已收集完毕。 >>",
+      "KR": "<< 모든 주필을 수집했습니다. >>",
+      "TW": "<< 所有護身符均已收集。 >>"
+    }
+  },
+  "<< Survive the next 180 seconds. The ritual requires witnesses >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "次の180秒を生き延びてください。儀式には証人が必要です",
+      "CN": "<< 在接下来的180秒内存活。仪式需要见证者。 >>",
+      "KR": "<< 다음 180초를 버티세요. 의식에는 목격자가 필요합니다 >>",
+      "TW": "<< 存活接下來的 180 秒。儀式需要見證者 >>"
+    }
+  },
+  "\"Looks like we're safe... for now.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "一安心…とりあえずはね。",
+      "CN": "\"看起来我们暂时安全了。\"",
+      "KR": "일단 안전한 것 같습니다... 하지만 당분간은요.",
+      "TW": "看來我們暫時安全了……"
+    }
+  },
+  "<< Level 2 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< レベル2 >>",
+      "CN": "<< 第二层 >>",
+      "KR": "<< 레벨 2 >>",
+      "TW": "「第二關」"
+    }
+  },
+  "<< You have found the key item. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< キーアイテムを発見しました。 >>",
+      "CN": "<< 你已找到关键道具。 >>",
+      "KR": "<< 아이템을 찾았습니다. >>",
+      "TW": "「你已找到關鍵道具。」"
+    }
+  },
+  "<< The talisman has led you to this cabin. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "お守りによって、この小屋へと導かれました。 >>",
+      "CN": "<< 护符指引你来到了这间小屋。 >>",
+      "KR": "<< 부적의 도움으로 이 오두막에 도달했습니다. >>",
+      "TW": "「護身符將你引至這間小屋。」"
+    }
+  },
+  "<< This building looks highly suspicious. You need to go inside and investigate. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< この建物は非常に不審です。中に入っていって調査する必要があります。 >>",
+      "CN": "<< 这栋建筑看起来异常可疑。你需要进去调查一番。 >>",
+      "KR": "<< 이 건물은 매우 의심스러워 보입니다. 안으로 들어가 조사를 해야 합니다. >>",
+      "TW": "「這棟建築非常可疑。你需要進去調查。」"
+    }
+  },
+  "<< The door opens in 25 seconds... revealing the truth. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 25秒後に扉が開き、真実が明らかになります。 >>",
+      "CN": "<< 门将在25秒后开启……揭示真相。 >>",
+      "KR": "<< 문이 25초 후에 열리며 진실이 드러납니다. >>",
+      "TW": "「門將在 25 秒後打開……真相即將揭曉。」"
+    }
+  },
+  "<< Zombie spawn points have been updated. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビの出現位置が更新されました。 >>",
+      "CN": "<< 僵尸生成点已更新。 >>",
+      "KR": "<< 좀비 스폰 포인트가 업데이트되었습니다. >>",
+      "TW": "「殭屍生成點已更新。」"
+    }
+  },
+  "\"This hammer can help us open the door...\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「このハンマーなら、扉を開けられそうです…」",
+      "CN": "\"这把锤子能帮我们要打开这扇门……\"",
+      "KR": "\"이 망치로 문을 열 수 있을 것 같습니다...\"",
+      "TW": "「這把錘子能幫助我們打開門……」"
+    }
+  },
+  "\"Give me a moment.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「少し待ってください。」",
+      "CN": "\"稍等片刻。\"",
+      "KR": "\"잠시만요.\"",
+      "TW": "等一下。」"
+    }
+  },
+  "\"It's done. Fall back. \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "完了だ。後退せよ。",
+      "CN": "完成了。撤退。",
+      "KR": "완료됐습니다. 후퇴하십시오.",
+      "TW": "事情已了。撤退。"
+    }
+  },
+  "\"It seems this door needs some time to open.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうやらこの扉は、開くまで時間がかかるようだ。",
+      "CN": "看来这扇门需要一些时间来开启。",
+      "KR": "이 문은 열리는 데 시간이 필요한 것 같습니다.",
+      "TW": "看來這扇門需要一些時間才能開啟。"
+    }
+  },
+  "\"Hold the defense until the side gate is passable.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "側面の門が開通するまで防衛を維持せよ。",
+      "CN": "坚守防御，直到侧门可以通过为止。",
+      "KR": "측면문이 통행 가능한 상태로 유지될 때까지 방어를 유지하십시오.",
+      "TW": "守住防線，直到側門可以通行。"
+    }
+  },
+  "<< The red light can illuminate the path ahead. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 赤い明かりが、先の道を示すはずだ。 >>",
+      "CN": "<<红光可以照亮前路。>>",
+      "KR": "<< 붉은 불빛이 앞길을 밝혀줄 것입니다. >>",
+      "TW": "<<紅光可以照亮前方的路。>>"
+    }
+  },
+  "\"Ruun!!! \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルウン！！！",
+      "CN": "鲁恩！！！",
+      "KR": "룬!!!",
+      "TW": "魯恩！！！"
+    }
+  },
+  "\"Jesus... No wonder there are countless ghosts if someone actually did this.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "神様……実際にこれをやったら、憑く霊が数えきれないわけだ。",
+      "CN": "耶稣……难怪会有那么多鬼魂，如果真有人这么做的话。",
+      "KR": "주님의 이름으로... 실제로 저런 짓을 한다면 무수한 귀신이 생길 수밖에 없겠군요.",
+      "TW": "耶穌……難怪如果真有人這麼做，會充滿無數鬼魂。"
+    }
+  },
+  "\"Oh... Bad memories are surfacing.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "うっ……よくない思い出が蘇ってきたな。",
+      "CN": "哦……不好的回忆浮现了。",
+      "KR": "으악... 좋지 않은 기억이 떠오르는군.",
+      "TW": "哦……不好的記憶浮現了。"
+    }
+  },
+  "\"No...no.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "いや……いけない。",
+      "CN": "不……不。",
+      "KR": "아니... 안 돼.",
+      "TW": "不……不。"
+    }
+  },
+  "\"It seems we're safe now.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうやら私たちは今、安全なようですね。",
+      "CN": "看来我们暂时安全了。",
+      "KR": "지금은 안전한 것 같군.",
+      "TW": "看來我們現在安全了。"
+    }
+  },
+  "\"I need 20 seconds to breach this wire mesh.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この金網を開けるのに20秒かかります。",
+      "CN": "我需要20秒来切断这道铁丝网。",
+      "KR": "이 철망을 절개하는 데 20초가 필요해.",
+      "TW": "我需要 20 秒來切斷這道鐵絲網。"
+    }
+  },
+  "<< You need to send one brave person into the room on the right. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 右の部屋に一人、勇者を送る必要があります。 >>",
+      "CN": "<< 你需要派一名勇敢的队员进入右侧的房间。 >>",
+      "KR": "<< 오른쪽 방에 용감한 한 명을 보내야 해. >>",
+      "TW": "<< 你需要派一名勇敢的人進入右側的房間。 >>"
+    }
+  },
+  "\"Let me out!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "私を出して！",
+      "CN": "放我出去！",
+      "KR": "나를 내보내!",
+      "TW": "放我出去！"
+    }
+  },
+  "\"I need to find a place to hide... or something bad will definitely happen.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "身を隠す場所を見つけなければ…さもないと、絶対にまずいことになる。",
+      "CN": "我得找个地方躲起来……否则肯定会发生可怕的事。",
+      "KR": "숨을 장소를 찾아야 해... 그렇지 않으면 반드시 나쁜 일이 일어날 거야.",
+      "TW": "我得找個地方藏起來……否則一定會發生可怕的災難。"
+    }
+  },
+  "<< Door open >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ドア開放 >>",
+      "CN": "<< 门已打开 >>",
+      "KR": "<< 문 열림 >>",
+      "TW": "<< 門已開啟 >>"
+    }
+  },
+  "<< 40 seconds. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 40秒。 >>",
+      "CN": "<< 剩余40秒。 >>",
+      "KR": "<< 40초. >>",
+      "TW": "<< 40 秒。 >>"
+    }
+  },
+  "\"Is this... some kind of ritual?\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "これは…何か儀式ですか？",
+      "CN": "这……是某种仪式吗？",
+      "KR": "이것은...某種의 의식인가?",
+      "TW": "這……是什麼樣的儀式？"
+    }
+  },
+  "<< One of you must be sacrificed. Who will it be? >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "一人は犠牲にならなければならない。誰だ？",
+      "CN": "<< 你们中的一人必须被献祭。会是谁？ >>",
+      "KR": "<< 너희 중 한 명은 희생되어야 한다. 누구일까? >>",
+      "TW": "<<你們之中必須有人獻祭。是誰？>>"
+    }
+  },
+  "<< Step onto the altar. The others may leave. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "祭壇に立ち上がれ。残りの者は去ってよい。",
+      "CN": "<< 踏上祭坛吧。其他人可以离开。 >>",
+      "KR": "<< 제단에 서라. 나머지는可以去하다. >>",
+      "TW": "<<踏上祭壇。其他人可以離開了。>>"
+    }
+  },
+  "<< Good. The door opens in 30 seconds. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "結構。30秒後には扉が開く。",
+      "CN": "好。门将在30秒后打开。 >>",
+      "KR": "<< 좋군. 문이 30초 후에 열린다. >>",
+      "TW": "<<很好。門将在30秒後開啟。>>"
+    }
+  },
+  "\"This passage is sealed by supernatural forces. Use the talisman to break it.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この通路は超自然的な力によって封じられている。護符を使ってそれを解け。",
+      "CN": "这段通道被超自然力量封锁。使用符咒破解它。",
+      "KR": "이 통로는 초자연적인 힘으로 봉해져 있다. 부적用来 이를 깨뜨려라.",
+      "TW": "\"此通道受超自然力量封鎖。請使用符籙破除封印。\""
+    }
+  },
+  "<< 30 seconds. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒だ。",
+      "CN": "<< 30秒。 >>",
+      "KR": "<< 30초 후. >>",
+      "TW": "<<30秒。>>"
+    }
+  },
+  "<< You have uncovered the secrets buried underground. Prepare yourselves—the final challenge approaches. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "地下に埋もれた秘密を発見したな。用意をしていけ――最終試練が近づいている。",
+      "CN": "你们已揭开掩埋在地下的秘密。做好准备——最终挑战即将来临。 >>",
+      "KR": "<< 너희는 지하에 묻힌 비밀을 밝혀냈다. 준비하라—마지막 시련이 다가온다. >>",
+      "TW": "<<你們已揭開深埋地底的秘密。準備迎接——最終的挑戰即將到來。>>"
+    }
+  },
+  "\"Run! Don't look back!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "走れ！振り返るな！",
+      "CN": "跑！别回头！",
+      "KR": "달려라! 뒤를 돌아보지 마!",
+      "TW": "\"快跑！別回頭！\""
+    }
+  },
+  "<< Congratulations on finding the escape route. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "脱出経路を見つけ、おめでとう。",
+      "CN": "<< 恭喜你们找到了逃生路线。 >>",
+      "KR": "<< 탈출로를 찾아 축하한다. >>",
+      "TW": "<<恭喜你們找到逃生路線。>>"
+    }
+  },
+  "<< Clearing entities... Better luck next time. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エンティティを消去中……次回はもっと運がよく愿って。",
+      "CN": "<< 清除实体中……祝你好运。 >>",
+      "KR": "<< 엔티티 정리 중... 다음엔 더 운이 좋기를 바랍니다. >>",
+      "TW": "清除實體中……下次再試吧。"
+    }
+  },
+  "<< Level 3 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< レベル 3 >>",
+      "CN": "<< 第3关 >>",
+      "KR": "<< 레벨 3 >>",
+      "TW": "<< 第 3 關 >>"
+    }
+  },
+  "<< Rest level: You need to collect 5 notes. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 休息レベル：ノート5枚を集める必要があります。 >>",
+      "CN": "<< 休息关卡：你需要收集5张票据。 >>",
+      "KR": "<</n>>휴식 단계: 음표 5개를 수집해야 합니다.</n>",
+      "TW": "<< 休息點：您需要收集 5 張符文。 >>"
+    }
+  },
+  "<< Double the luck. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 運が倍に。 >>",
+      "CN": "<< 双倍幸运。 >>",
+      "KR": "<< 행운이 두 배로. >>",
+      "TW": "<< 幸運翻倍。 >>"
+    }
+  },
+  "<< 4 talismans collected. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< お守り4個収集済み。 >>",
+      "CN": "<< 已收集4张护身符。 >>",
+      "KR": "<< 부적 4개를 수집했습니다. >>",
+      "TW": "<< 已收集 4 張符咒。 >>"
+    }
+  },
+  "<< 5 talismans collected. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< お守り5個収集済み。 >>",
+      "CN": "<< 已收集5张护身符。 >>",
+      "KR": "<< 부적 5개를 수집했습니다. >>",
+      "TW": "<< 已收集 5 張符咒。 >>"
+    }
+  },
+  "<< Level 4 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< レベル 4 >>",
+      "CN": "<< 第4关 >>",
+      "KR": "<< 레벨 4 >>",
+      "TW": "<< 第 4 關 >>"
+    }
+  },
+  "<< Did you think it was over? >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 終わったと思う？ >>",
+      "CN": "<< 你以为这就结束了吗？ >>",
+      "KR": "<</n>>끝이라고 생각했나요?</n>",
+      "TW": "<< 你以為結束了嗎？ >>"
+    }
+  },
+  "\"My head is spinning...What happened? Did I just dream something? \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "頭がぐるぐるする…どうなったの？何か夢を見たのかな？",
+      "CN": "我头晕目眩……发生了什么？我做梦了吗？",
+      "KR": "머리가 돌아... 무슨 일이? 방금 꿈을 꾸었나?",
+      "TW": "我的頭好暈……發生什麼事了？我剛剛是做了個夢嗎？"
+    }
+  },
+  "\"Will this never end?\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "これが永遠に終わらないとしたら…?",
+      "CN": "这永远都不会结束吗？",
+      "KR": "이게 끝없이 이어지나?",
+      "TW": "這永遠不會結束嗎？"
+    }
+  },
+  "\"Right... We need to board the bus to leave. Clearly, the Hell Bus is toying with us.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "そうだね…バスに乗って逃げなきゃ。明らかに地獄のバスが私たちを遊びにしているのよ。",
+      "CN": "没错……我们需要登上公交车离开。显然，地狱巴士在戏弄我们。",
+      "KR": "맞아... 버스에 탑승해서 떠나야 해. 분명히 지옥 버스가 우리를 장난치고 있는 거겠지.",
+      "TW": "沒錯……我們必須搭上巴士離開。明顯地，地獄巴士正在戲弄我們。"
+    }
+  },
+  "<< You still need to experience some... interesting things >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< あなたはまだいくつか『興味深い』経験をしないといけないわ >>",
+      "CN": "<< 你仍然需要经历一些……有趣的事情 >>",
+      "KR": "<< 너는 아직... 흥미로운 일들을 경험해야 해 >>",
+      "TW": "<< 你還需要經歷一些……有趣的事 >>"
+    }
+  },
+  "<< Don't rush, the door will open soon. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 焦らないで。もう間もなく扉が開くわよ。 >>",
+      "CN": "<< 别着急，门很快就会打开。 >>",
+      "KR": "<< 서두르지 마, 문이 곧 열릴 거야. >>",
+      "TW": "<< 別急，門馬上就會開了。>>"
+    }
+  },
+  "<< 35 seconds. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 35秒後。 >>",
+      "CN": "<< 35秒。 >>",
+      "KR": "<< 35초. >>",
+      "TW": "<< 35秒。 >>"
+    }
+  },
+  "\"No exit up front...\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "前面に出口がない…",
+      "CN": "前面没有出口……",
+      "KR": "앞쪽으로 나갈 길 없어...",
+      "TW": "前面沒有出口……"
+    }
+  },
+  "\"The talisman is reacting. This wall seems suspicious.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "護符が反応しているわ。この壁は怪しいね。",
+      "CN": "符咒产生了反应，这面墙看起来很可疑。",
+      "KR": "부적이 반응하고 있어. 이 벽은 수상해.",
+      "TW": "符籙正在反應。這面牆看起來很可疑。"
+    }
+  },
+  "\"Find a way to get us out of here.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここから抜け出す方法を見つけなさい。",
+      "CN": "想办法带我们离开这里。",
+      "KR": "우리한테서 나갈 방법을 찾아.",
+      "TW": "找個辦法帶我們離開這裡。"
+    }
+  },
+  "\"Fall back.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "撤退だ。",
+      "CN": "撤退。",
+      "KR": "후퇴해.",
+      "TW": "後撤。"
+    }
+  },
+  "<< Find the one different room among the six, or you can't leave. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 6つの部屋のうち、唯一異なる部屋を見つけろ。間違えば脱出できん。 >>",
+      "CN": "<< 从六个房间中找出那个不同的房间，否则无法离开。 >>",
+      "KR": "<< 여섯 개의 방 중 유일하게 다른 하나를 찾아야 해. 그게 아니면 나갈 수 없어. >>",
+      "TW": "<< 在六間房中找到其中一間不同的，否則你無法離開。 >>"
+    }
+  },
+  "\"What the fuck...\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この野郎……",
+      "CN": "我靠……",
+      "KR": "뭐, 이럴 수가...",
+      "TW": "操……」"
+    }
+  },
+  "\"Oh god, she's inside! Quick, use the talisman to seal her!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "あぁ、神よ、奴が中に入った！ 早うお札を使って彼女を封じ込め！",
+      "CN": "天哪，她进来了！快用符咒封印她！",
+      "KR": "세상에, 안으로 들어왔어! 빨리 주술지루 감옥을 써서 저 녀석을 가둬!",
+      "TW": "天哪，她進來了！快，用符咒封住她！」"
+    }
+  },
+  "\"The obstacle is gone. Move forward.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "障害物は消えた。前方へ進め。",
+      "CN": "障碍已清除。前进。",
+      "KR": "장애물이 사라졌어. 전진해.",
+      "TW": "障礙已移除。繼續前進。」"
+    }
+  },
+  "\"This stone slab is loose. Looks like we can break it with the hammer. Give me some time.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この石版は緩んでいる。槌で叩けば割れそうだ。少し時間くれ。",
+      "CN": "这块石板松动了。看起来我们可以用锤子砸碎它。给我点时间。",
+      "KR": "이 돌판은 느슨해 보여. 망치로 부술 수 있는 것 같군. 좀 시간이 더 필요해.",
+      "TW": "這塊石板鬆動了。看來能用鎚子把它砸開。給我點時間。」"
+    }
+  },
+  "\"A force pushed the door open...\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "何者かの力でドアが開いた…",
+      "CN": "一股力量将门推开……",
+      "KR": "문력이 문을 열었다...",
+      "TW": "一股力量將門推開了……」"
+    }
+  },
+  "\" Give me a moment to cut through this net. \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "網を切るのに少し時間がかかる。",
+      "CN": "给我点时间剪开这张网。",
+      "KR": "이 그물을 자르는 데 잠시만 걸리지.",
+      "TW": "給我一點時間剪開這張網。」"
+    }
+  },
+  "\" Fall back. \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "後退せよ。",
+      "CN": "撤退。",
+      "KR": "후퇴해.",
+      "TW": "撤退。」"
+    }
+  },
+  "<< The risk is clear—yet stepping inside is the only choice. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 危険が明白だが、中に入るしかない。 >>",
+      "CN": "<< 风险显而易见，但闯入是唯一的出路。 >>",
+      "KR": "<< 위험성이 명확하지만, 안으로 들어가는 것이 유일한 선택이야. >>",
+      "TW": "風險一目瞭然——但踏入其中是唯一的選擇。 >>"
+    }
+  },
+  "\"Run, bro! Hold on until the talisman is activated!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げるんだ！札が作動するまで待て！",
+      "CN": "跑，兄弟！坚持到符咒发动！",
+      "KR": "도망쳐, 오라버니! 부적 발동 때까지 버텨!",
+      "TW": "快跑，兄弟！符籙啟動前撐住！」"
+    }
+  },
+  "<< You may leave now. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 今なら離脱可能だ。 >>",
+      "CN": "<< 你现在可以离开了。 >>",
+      "KR": "<< 이제 떠나도 돼. >>",
+      "TW": "你現在可以離開了。 >>"
+    }
+  },
+  "<< 20 seconds. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒。 >>",
+      "CN": "<< 20秒。 >>",
+      "KR": "<< 20초. >>",
+      "TW": "20秒。 >>"
+    }
+  },
+  "\" Someone strong, break this wall open. \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "強力な奴、この壁を壊せ。",
+      "CN": "有人力大的，把这堵墙砸开。",
+      "KR": "누군가 강하게 이 벽을 부수시오.",
+      "TW": "來個強力的，打破這面牆。」"
+    }
+  },
+  "\" Fall back! \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "後退だ！",
+      "CN": "撤退！",
+      "KR": "후퇴해!",
+      "TW": "撤退！」"
+    }
+  },
+  "\" Shit, the path is blocked by this thing. Guess we have to take this pipe. \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "くそ、道がこのせいで塞がれてる。仕方ないな、この配管を使おうか。",
+      "CN": "该死，这条路被这个东西堵住了。看来我们得走这条管道了。",
+      "KR": "값없군, 이 녀석 때문에 길이 막혔어. 이 파이프를 써야겠구나.",
+      "TW": "該死，路被這東西堵住了。看來我們只能走這條管道了。"
+    }
+  },
+  "<< You know what to do. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 分かるはずだ。 >>",
+      "CN": "<< 你知道该怎么做。 >>",
+      "KR": "<< 알잖아, 할 일을. >>",
+      "TW": "<< 你知道該怎麼做。 >>"
+    }
+  },
+  "\" Fall back \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「撤退」",
+      "CN": "撤退",
+      "KR": "\"후퇴해\"",
+      "TW": "「撤退」"
+    }
+  },
+  "\"It seems we're about to get out.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "どうやら、ここから抜けられそうだ。」",
+      "CN": "看来我们要出去了。",
+      "KR": "\"드디어 빠져나가는구나.\"",
+      "TW": "看來我們快逃出去了。"
+    }
+  },
+  "<< Final 20 seconds. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 残り20秒。 >>",
+      "CN": "<< 最后20秒。 >>",
+      "KR": "<< 최종 20초. >>",
+      "TW": "<< 最後20秒。 >>"
+    }
+  },
+  "<< You need to head to the gas station. The bus is waiting for you there. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ガソリンスタンドへ向かいなさい。そこでバスがお待ちですか。 >>",
+      "CN": "<< 你需要前往加油站，巴士在那里等你。 >>",
+      "KR": "\"주유소로 가야 해. 그곳에서 버스가 너를 기다리고 있어. >>",
+      "TW": "<< 你需要前往加油站，巴士在那裡等你。 >>"
+    }
+  },
+  "\"Damn, the talisman only works for a short time! Run!\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "damn、札符は短時間しか効かない！ 走れ！」",
+      "CN": "该死，符咒只能维持很短的时间！快跑！",
+      "KR": "\"젠장, 주술은 짧은 시간しか 작용하지 않아! 도망쳐!\"",
+      "TW": "該死，符咒只能維持短時間！快跑！"
+    }
+  },
+  "\" She...come back. \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼女...戻って。」",
+      "CN": "她……回来吧。",
+      "KR": "\"네... 돌아와. \"",
+      "TW": "她...回來。」"
+    }
+  },
+  "<< You've faced her so many times already. Now it's time to end this. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< もう何度も彼女と戦ってきた。いよいよ終わらせるときだ。 >>",
+      "CN": "<< 你已经无数次地面对过她了。现在，是时候结束这一切了。 >>",
+      "KR": "<< 이미 그녀를 여러 번 상대해 봤잖아. 이제 이 모든 것을 끝낼 때야. >>",
+      "TW": "<<你已經跟她交過手好幾回了。現在是了結一切的時刻。>>"
+    }
+  },
+  "<< The bus departs in 25 seconds. Please keep your belongings with you. The journey is about to end. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< バスは25秒後に発車いたします。手荷物をご持参ください。旅もあと少しです。 >>",
+      "CN": "<< 公交车将于 25 秒后发车。请保管好您的随身物品。旅程即将结束。 >>",
+      "KR": "<< 버스가 25초 후에 출발합니다. 여권과 수화물은 반드시 가지고 타시기 바랍니다. 여정이 곧 끝납니다. >>",
+      "TW": "<<巴士將於25秒後離站，請看管好個人物品。旅程即將結束。>>"
+    }
+  },
+  "\" Oh my god. \"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「なんてことだ」",
+      "CN": "\" 天哪。 \"",
+      "KR": "\"세상에.\"",
+      "TW": "天啊。"
+    }
+  },
+  "\"I almost couldn't catch my breath.\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "「息をするのもやっとだったよ」",
+      "CN": "\"我几乎喘不过气来。\"",
+      "KR": "\"숨이 거의 막힐 뻔했어.\"",
+      "TW": "我幾乎喘不過氣來。"
+    }
+  },
+  "<< Congratulations, you've completed this instance. >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< おめでとうございます、このインスタンスのクリアです。 >>",
+      "CN": "<< 恭喜你，你已经完成了本次副本。 >>",
+      "KR": "<< 축하합니다. 해당 인스턴스를 완료하셨습니다. >>",
+      "TW": "<<恭喜，你已完成此副本。>>"
+    }
+  },
+  "\"We survived... How many more nightmares like this must we endure?\"": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "生き延びた……こんな悪夢を、あと何度経験すれば終わりなんだ？」",
+      "CN": "\"我们活下来了……我们还要忍受多少这样的噩梦？\"",
+      "KR": "\"우리는 살아남았다… 이런 악몽을 이제 몇 번이나 더 견뎌야 할까?\"",
+      "TW": "我們倖存下來了……還要承受多少個這樣的噩夢呢？"
+    }
+  },
+  "<< 扁担模型脚本实体支持作者:PokieeAkuno  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<< 鬼脸追踪支持：lopb，天子  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<< Smoker、173脚本支持：皮皮猫  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

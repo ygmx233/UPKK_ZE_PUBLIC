@@ -1,0 +1,892 @@
+{
+  "当前地图为未完成版，但可以正常游玩": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The current map is in the unfinished version, but it can be played normally.",
+      "JP": "現在のマップは未完成版ですが、正常にプレイ可能です",
+      "CN": "",
+      "KR": "현재 맵은 완성판이 아니지만 정상적으로 플레이할 수 있습니다.",
+      "TW": "當前地圖為未完成版，但可以正常遊玩"
+    }
+  },
+  "后续会追加包括但不限于更多的滑翔坡，音效，粒子特效等": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Updates will include, but are not limited to, more gliding ramps, sound effects, and particle effects.",
+      "JP": "今後は滑走路や音響効果、パーティクルエフェクトなどが増強されます",
+      "CN": "",
+      "KR": "향후에는 슬라이딩 경사면, 사운드 효과, 파티클 이펙트 등이 추가로 추가될 예정입니다.",
+      "TW": "後續會追加不少於更多的滑翔坡、音效、粒子特效等"
+    }
+  },
+  "这是我的第一张图，一定会有问题，还请多多包涵": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This is my first map, so there are sure to be issues. Thank you for your understanding and patience.",
+      "JP": "私の自作マップですので不具合があるかもしれません。ご了承ください",
+      "CN": "",
+      "KR": "저의 첫 맵이기 때문에 문제가 있을 수 있습니다. 너른 배려 부탁드립니다.",
+      "TW": "這是我的第一張圖，一定會有問題，還請多多包涵"
+    }
+  },
+  "50": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "now playing:Fine Logic (full ver.) - SEPHID_aria": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイ中：Fine Logic (full ver.) - SEPHID_aria",
+      "CN": "正在播放：Fine Logic (完整版) - SEPHID_aria",
+      "KR": "현재 재생 중: Fine Logic (Full Ver.) - SEPHID_aria",
+      "TW": "now playing:Fine Logic (full ver.) - SEPHID_aria"
+    }
+  },
+  "队长：呼叫指挥部。deterioration小队已抵达作战区域": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Calling Command Team Deterioration has arrived at the operational area.",
+      "JP": "隊長：本部、deterioration小隊が作戦区域に到着",
+      "CN": "",
+      "KR": "대장: 지휘본부에 보고합니다. Deterioration 대가 작전 지역에 도착했습니다.",
+      "TW": "隊長：呼叫指揮部。deterioration小隊已抵達作戰區域"
+    }
+  },
+  "指挥部：收到，再次确认你们的行动目标": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Command: Copy. Please reconfirm your mission objective.",
+      "JP": "本部：了解、行動目標を再確認する",
+      "CN": "",
+      "KR": "지휘본부: 접수. 작전 목표를 다시 확인합니다.",
+      "TW": "指揮部：收到，再次確認你們的行動目標"
+    }
+  },
+  "指挥部：进入该化学品工厂，收集资料": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Command: Infiltrate the chemical plant and gather intelligence.",
+      "JP": "本部：化学工場の敷地内へ入り、資料を収集せよ",
+      "CN": "",
+      "KR": "지휘본부: 해당 화학 공장에 진입하여 자료를 수집하십시오.",
+      "TW": "指揮部：進入該化學品工廠，收集資料"
+    }
+  },
+  "指挥部：完成后进入地下水道，乘坐运输机离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Command: After completion, proceed to the underground sewage system and extract via transport aircraft.",
+      "JP": "本部：完了後、地下下水道へ進み輸送機で離脱せよ",
+      "CN": "",
+      "KR": "지휘본부: 작업 완료 후 지하 도하에 진입하고 수송기를 타고 퇴각하십시오.",
+      "TW": "指揮部：完成後進入地下下水道，乘坐運輸機離開"
+    }
+  },
+  "指挥部：剩下的需要靠你们自己随机应变，祝你们好运": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Command: The rest will be up to your on-site judgment. Good luck.",
+      "JP": "指揮部：残りの対応は皆さんに任せます。幸運を祈ります",
+      "CN": "",
+      "KR": "사령부: 나머지는 여러분에게 맡깁니다. 행운을 빕니다.",
+      "TW": "指揮中心：剩下的情況就靠你們隨機應變了，祝你好運。"
+    }
+  },
+  "队长：保证完成任务": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Mission acknowledged.",
+      "JP": "隊長：任務遂行を保証します",
+      "CN": "",
+      "KR": "대장: 임무 완수를 다짐합니다.",
+      "TW": "隊長：保證完成任務。"
+    }
+  },
+  "10": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "指挥部：注意周围的尸变体，它们遍布整个工厂": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Command: Watch out for Zombies, they're everywhere in the factory.",
+      "JP": "指揮部：周囲のゾンビに注意してください。工場内に点在しています",
+      "CN": "",
+      "KR": "사령부: 주변의 좀비들을 주의하십시오. 공장 전체에 퍼져 있습니다.",
+      "TW": "指揮中心：注意周圍的屍變體，它們遍布整個工廠。"
+    }
+  },
+  "30": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "队长：前面全是铁网，炸开地面直接进入地下设施吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: It's blocked by wire mesh up ahead. Let's blow a hole in the floor and head straight to the underground facility.",
+      "JP": "隊長：前方は鉄丝网で封鎖されているな。地面を爆破して地下施設へ直接进入しよう",
+      "CN": "",
+      "KR": "대장: 앞은 철망으로 막혀 있습니다. 지면 Explosion을 일으켜 지하 시설로 곧장 진입합시다.",
+      "TW": "隊長：前面全是鐵網，炸開地面直接進入地下設施吧。"
+    }
+  },
+  "20": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "25": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "now playing:414 PER SPEED (Game Edit) - Sound Souler": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "再生中：414 PER SPEED (Game Edit) - Sound Souler",
+      "CN": "正在播放：414 PER SPEED (游戏版) - Sound Souler",
+      "KR": "재생 중: 414 PER SPEED (Game Edit) - Sound Souler",
+      "TW": "now playing:414 PER SPEED (Game Edit) - Sound Souler"
+    }
+  },
+  "40": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "队长：找到一份资料了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: I've found some intel.",
+      "JP": "隊長：資料を一件見つけたぞ",
+      "CN": "",
+      "KR": "대장: 자료를 하나 찾았습니다.",
+      "TW": "隊長：找到一份資料了。"
+    }
+  },
+  "等一下，好像有什么声音，注意头顶的控制室": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on, do you hear that? Watch the control room above us!",
+      "JP": "待て、何か音がある。頭上のコントロールルームに注意しろ",
+      "CN": "",
+      "KR": "잠시만, 소리가 납니다. 천정控制실 상태를 주시하십시오.",
+      "TW": "等一下，好像有什麼聲音，注意頂部的控制室。"
+    }
+  },
+  "队长：该死，这扇门打不开，技术兵都在devastation小队": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Damn it, this door's jammed. All our techies are with the Devastation Squad.",
+      "JP": "隊長：くそ、この扉が開かない。技術部隊は全て『Devastation』小队所属だ",
+      "CN": "",
+      "KR": "대장: 저주받은 문이 열리지 않습니다. 기술병들은 모두 'devastation'小隊에 소속되어 있습니다.",
+      "TW": "隊長：該死，這扇門打不開，技術兵都在devastation小隊"
+    }
+  },
+  "队长：没办法了，走通风管道吧，工兵，大概要多长时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: We're running out of options. Try the ventilation shafts, Engineer. How long will it take?",
+      "JP": "隊長：仕方がない、換気ダクトを通ろう。工兵、どの位かかる？",
+      "CN": "",
+      "KR": "대장: 어쩔 수 없군. 환기구를 타고 가자. 공병아, 대략 얼마나 걸릴까?",
+      "TW": "隊長：沒其他辦法了，從通風管走吧。工兵，大約需要多長時間？"
+    }
+  },
+  "工兵：给我三十秒左右": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Engineer: Give me about thirty seconds.",
+      "JP": "工兵：30秒くらいだ。",
+      "CN": "",
+      "KR": "공병: 30초만 줘.",
+      "TW": "工兵：給我約三十秒。"
+    }
+  },
+  "队长：小心控制室里的东西": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Watch out for whatever's in the control room.",
+      "JP": "隊長：コントロールルームの中にある物には気を付けろ。",
+      "CN": "",
+      "KR": "대장: 관제실 안의 것에 조심해.",
+      "TW": "隊長：小心控制室裡的東西。"
+    }
+  },
+  "35": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "now playing:G e n g a o z o - -45": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "now playing:G e n g a o z o - -45",
+      "CN": "正在播放：G e n g a o z o - -45",
+      "KR": "now playing:G e n g a o z o - -45",
+      "TW": "目前播放：G e n g a o z o - -45"
+    }
+  },
+  "工兵：这些控制台可以转动集装箱，我们或许用得上": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Engineer: These consoles can rotate the shipping containers. We might be able to use them.",
+      "JP": "工兵：これらのコントロールパネルでコンテナを回転できる。何か使えるかもな。",
+      "CN": "",
+      "KR": "공병: 이 콘솔로는 컨테이너를 회전시킬 수 있어. 요긴하게 쓰일 거야.",
+      "TW": "工兵：這些控制台可以旋轉集裝箱，我們或許用得上。"
+    }
+  },
+  "队长：右侧的门里好像有什么声音": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: There seems to be some sound coming from the door on the right.",
+      "JP": "隊長：右側のドアから何らかの音がするようだ。",
+      "CN": "",
+      "KR": "대장: 오른쪽 문의 저편에서何か 소리가 나는 것 같아.",
+      "TW": "隊長：右側門內好像有聲音。"
+    }
+  },
+  "now playing:人形さんの詰込袋 (-正-) - 近藤佑輔": {
+    "translation": "",
+    "MultiLang": {
+      "US": "now playing: Hitogata-san's Fumikomi Bukuro (-Positive-) - Yūsuke Kondo",
+      "JP": "",
+      "CN": "正在播放：人形さんの詰込袋 (-正-) - 近藤佑輔",
+      "KR": "now playing:人形さんの詰込袋 (-正-) - 近藤佑輔",
+      "TW": "正在播放：人形先生的裝填袋（-正-） - 近藤佑輔"
+    }
+  },
+  "队长：又找到一份资料，这栋楼应该不会有什么收获了,出去吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: I found another document. There's probably nothing else to be gained from this building. Let's go.",
+      "JP": "隊長：もう一つ資料を見つけた。この建物からはこれ以上收获は見込めない。出ていこう。",
+      "CN": "",
+      "KR": "대장: 또 자료가 하나 나왔군. 이 건물에서는 기대할 게 없겠어. 나가자.",
+      "TW": "隊長：又找到一份資料，這棟樓應該不會再有什麼收穫了，我們出去吧。"
+    }
+  },
+  "now playing:人形さんの詰込袋 (-負-) - 近藤佑輔": {
+    "translation": "",
+    "MultiLang": {
+      "US": "now playing: Hitogata-san's Fumikomi Bukuro (-Negative-) - Yūsuke Kondo",
+      "JP": "",
+      "CN": "正在播放：人形さんの詰込袋 (-負-) - 近藤佑輔",
+      "KR": "now playing: 인형님의詰め込み 주머니 (-부-) - 컨도유스케",
+      "TW": "現在播放：人形さんの詰込袋 (-負-) - 近藤佑輔"
+    }
+  },
+  "now playing:終の舞姫 (Dynamix Edit) - Se-U-Ra": {
+    "translation": "",
+    "MultiLang": {
+      "US": "now playing: Shin no Maiko (Dynamix Edit) - Se-U-Ra",
+      "JP": "",
+      "CN": "正在播放：終の舞姫 (Dynamix版) - Se-U-Ra",
+      "KR": "now playing: 최종 무희 (Dynamix Edit) - Se-U-Ra",
+      "TW": "現在播放：終の舞姫 (Dynamix Edit) - Se-U-Ra"
+    }
+  },
+  "队长：这个叉车和集装箱挡住了路": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: This forklift and the shipping containers are blocking our way.",
+      "JP": "隊長：このフォークリフトとコンテナが道を塞いでいる。",
+      "CN": "",
+      "KR": "대장: 이 지게차와 컨테이너가 길을 막고 있어.",
+      "TW": "隊長：叉車和集裝箱擋住了去路"
+    }
+  },
+  "队长：没有电，启动不了叉车，看来又得消耗为数不多的炸药了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Without power, we can't start the forklift. It looks like we'll have to use up some of our limited explosives again.",
+      "JP": "隊長：電力がないからフォークリフトを起動できない。しょうがない、貴重な爆薬を使うしかないな",
+      "CN": "",
+      "KR": "대장: 전기가 없어서 지게차를 가동할 수 없군. 다시금 귀중한 폭발물을 사용해야 할 것 같아.",
+      "TW": "隊長：沒有電力，叉車無法啟動，看來不得不消耗寶貴的炸藥了"
+    }
+  },
+  "工兵：我看到后面有配电箱，也许可以从里面接电，这样能省下不少炸药": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Engineer: I see a distribution box behind us. We might be able to tap into it for power, saving quite a few explosives.",
+      "JP": "兵士：後ろに分電盤が見える。そこから電力を借りられれば、爆薬の使用量を減らせるはずだ",
+      "CN": "",
+      "KR": "공병: 뒤에 배전반이 보입니다. 거기서 전기를 끌어오면 폭발물을 많이 아낄 수 있을 거예요.",
+      "TW": "工兵：我看到後方有配電箱，或許可以從那裡接電，這樣能省下不少炸藥"
+    }
+  },
+  "队长：明白，其他人继续警戒,给工兵一点时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Understood. Everyone else keep watch and give the engineer some time.",
+      "JP": "隊長：了解。他の皆さんは警戒を続け、兵士に時間を与えてやれ",
+      "CN": "",
+      "KR": "대장: 알겠어. 다른 사람들은 계속 경계를 맡고, 공병에게 시간을 주자.",
+      "TW": "隊長：了解，其他人繼續警戒，給工兵一點時間"
+    }
+  },
+  "工兵：这样就可以启动叉车了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Engineer: That should start the forklift.",
+      "JP": "兵士：これでフォークリフトを起動できる",
+      "CN": "",
+      "KR": "공병: 이제 지게차를 가동할 수 있습니다.",
+      "TW": "工兵：這樣就能啟動叉車了"
+    }
+  },
+  "工兵：取出电源了，再给我点时间启动这个叉车": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Engineer: I've extracted the power source. Give me a moment to start up this forklift.",
+      "JP": "兵士：電源を取り出した。フォークリフトの起動にもう少し時間をくれ",
+      "CN": "",
+      "KR": "공병: 전원을 뽑았으니, 지게차 기동을 위해 조금만 더 시간을 주세요.",
+      "TW": "工兵：已接妥電源，再給我一點時間啟動這台叉車"
+    }
+  },
+  "队长：注意电梯门，里面有东西": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Watch the elevator doors; something's inside.",
+      "JP": "隊長：エレベーターの扉に注意だ。中に何かがいる",
+      "CN": "",
+      "KR": "사령관: 엘리베이터 문 조심하세요, 안에 무언가가 있습니다.",
+      "TW": "隊長：注意電梯門，裡面有東西"
+    }
+  },
+  "now playing:!!New Game Start!! - Teikyou": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "now playing:!!New Game Start!! - Teikyou",
+      "CN": "正在播放：!!New Game Start!! - Teikyou",
+      "KR": "now playing:!!New Game Start!! - Teikyou",
+      "TW": "now playing:!!New Game Start!! - 帝京學園"
+    }
+  },
+  "队长：看来我们得分头行动了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: It looks like we'll have to split up and take separate paths.",
+      "JP": "隊長：どうやら別行動するしかないようだ",
+      "CN": "",
+      "KR": "사령관: 그럼 각자 분임 작업을 해야겠네요.",
+      "TW": "隊長：看來我們得分頭行動了"
+    }
+  },
+  "now playing:Galaxy Collapse - 黒皇帝": {
+    "translation": "",
+    "MultiLang": {
+      "US": "now playing: Galaxy Collapse - 黒皇帝",
+      "JP": "再生中: Galaxy Collapse - 黒皇帝",
+      "CN": "",
+      "KR": "now playing:Galaxy Collapse - 黒皇帝",
+      "TW": "now playing:Galaxy Collapse - 黑皇帝"
+    }
+  },
+  "队长：这应该是最后一份资料了，现在可以从天台去对面大楼撤离了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: This should be the final document. We can now evacuate from the rooftop to the building across.",
+      "JP": "隊長：これで最後の資料だ。今なら屋上から向かいのビルへ避難できる",
+      "CN": "",
+      "KR": "사령관: 이건 마지막 자료인 것 같습니다. 이제 옥상에서 반대편 건물로 피신할 수 있습니다.",
+      "TW": "隊長：這應該是最後一份資料了，現在可以從天台去對面大樓撤離了"
+    }
+  },
+  "队长：工兵！把门关上！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Sapper! Shut that door!",
+      "JP": "隊長：工兵！扉を閉めろ！",
+      "CN": "",
+      "KR": "사령관: 공병! 문을 닫아!",
+      "TW": "隊長：工兵！把門關上！"
+    }
+  },
+  "队长：前面的路被挡住了，工兵，把油桶引爆": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: The path ahead is blocked. Sapper, blow up those oil drums.",
+      "JP": "隊長：前の道が塞がっている。工兵、油桶を爆破しろ",
+      "CN": "",
+      "KR": "사령관: 앞길이 막혔다. 공병, 기름통을 폭파해.",
+      "TW": "隊長：前面的路被擋住了，工兵，把油桶引爆"
+    }
+  },
+  "队长：情报显示这个电梯能通向地下水道，下去看看吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Intelligence indicates this elevator leads to the underground sewage system. Let's go down and check it out.",
+      "JP": "隊長：情報によれば、このエレベータは地下水道へ通じているようだ。行ってみよう",
+      "CN": "",
+      "KR": "사령관: 정보에 따르면 이 엘리베이터가 지하 도하로 이어진다고 합니다.ลงไป 봅시다.",
+      "TW": "隊長：情報顯示這個電梯能通向地下排水道，下去看看吧"
+    }
+  },
+  "now playing:セラミックスの杖刀人 - 上海アリス幻樂団": {
+    "translation": "",
+    "MultiLang": {
+      "US": "now playing: Ceramic Swordsperson - Shanghai Alice Phantom Music Group",
+      "JP": "",
+      "CN": "正在播放：セラミックスの杖刀人 - 上海アリス幻樂団",
+      "KR": "현재 재생 중: 세라믹스의 가마토인 - 상하이 아리스 환락단",
+      "TW": "now playing:陶瓷杖刀人 - 上海アリス幻樂団"
+    }
+  },
+  "100s后僵尸大传": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie Grand Parade in 100s",
+      "JP": "100秒後にザンビ大襲来",
+      "CN": "",
+      "KR": "100초 후 좀비 대행진",
+      "TW": "100s後殭屍大冒險"
+    }
+  },
+  "now playing:Idoratrize World - AbsoЯute Zero,あき": {
+    "translation": "",
+    "MultiLang": {
+      "US": "now playing: Idoratrize World - AbsoЯute Zero, Aki",
+      "JP": "",
+      "CN": "正在播放：Idoratrize World - AbsoЯute Zero, あき",
+      "KR": "현재 재생 중: 이도라트라이즈 월드 - AbsoЯute Zero, 아키",
+      "TW": "now playing:Idoratrize World - AbsoЯute Zero, あき"
+    }
+  },
+  "队长：这扇门后就是地下水道了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Behind this door is the underground sewage system.",
+      "JP": "隊長：この扉の向こうは地下水道だ",
+      "CN": "",
+      "KR": "팀장: 이 문 뒤에 바로 지하수도 있네요.",
+      "TW": "隊長：這道門後就是地下達排水系統了"
+    }
+  },
+  "队长：加把劲，我们马上就可以离开这里了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Keep it up, we'll be out of here soon.",
+      "JP": "隊長：もう少しだ。もうすぐここを離れる",
+      "CN": "",
+      "KR": "팀장: 조금만 더 힘내세요. 곧 여기서 벗어날 수 있을 거예요.",
+      "TW": "隊長：再努力一點，我們馬上就能離開這裡了"
+    }
+  },
+  "[遠いステージで光ってる]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Shining in a distant stage]",
+      "JP": "",
+      "CN": "[遥远的舞台上闪耀着光芒]",
+      "KR": "[먼 스테이지에서 빛나고 있는]",
+      "TW": "[遠方的舞台上閃爍著光芒]"
+    }
+  },
+  "[触れられないIdolaのような]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Idolas that cannot be touched]",
+      "JP": "",
+      "CN": "[如同无法触及的Idola一样]",
+      "KR": "[닿을 수 없는 이도라 같은]",
+      "TW": "[像是無法觸碰的Idola]"
+    }
+  },
+  "[あぁ未来こそが]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ah, the future itself",
+      "JP": "",
+      "CN": "[啊，未来正是]",
+      "KR": "[아, 바로 미래 자체가]",
+      "TW": "[啊，未來正是如此]"
+    }
+  },
+  "[感じられるかないつでも 胸の奥]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I can always feel it deep in my heart",
+      "JP": "",
+      "CN": "[无论何时都能感受 在内心深处]",
+      "KR": "언제나 느끼는 가슴속에서",
+      "TW": "無論何時都能感受到 深藏於心的情感"
+    }
+  },
+  "[産声を待ってる]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Waiting to be born]",
+      "JP": "",
+      "CN": "[正在孕育出初啼]",
+      "KR": "탄생을 기다리고 있어",
+      "TW": "等候著嬰兒的啼哭"
+    }
+  },
+  "[Idola ラスボスでBeliever]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Idola, Final Boss and Believer]",
+      "JP": "",
+      "CN": "[Idola 最终Boss是Believer]",
+      "KR": "Idola 마지막 보스 & Believer",
+      "TW": "[Idola 最終魔王與Believer]"
+    }
+  },
+  "[You can change the world]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【あなたは世界を変えることができます】",
+      "CN": "[你可以改变世界]",
+      "KR": "당신은 세상을 바꿀 수 있어요",
+      "TW": "[你可以改變世界]"
+    }
+  },
+  "[たった一音が]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Just one note]",
+      "JP": "",
+      "CN": "「たった一音が」",
+      "KR": "하나라 음이",
+      "TW": "僅一個音符"
+    }
+  },
+  "[過去を壊して]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Destroy the Past]",
+      "JP": "",
+      "CN": "過去を壊して",
+      "KR": "과거를 부수고",
+      "TW": "摧毀過去"
+    }
+  },
+  "[たった一語が]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Just one word]",
+      "JP": "",
+      "CN": "「たった一語が」",
+      "KR": "하나라 단어가",
+      "TW": "僅只一個詞語"
+    }
+  },
+  "[未来を創る]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Creates the Future]",
+      "JP": "",
+      "CN": "未来を創る",
+      "KR": "미래를 만들어요",
+      "TW": "創造未來"
+    }
+  },
+  "[Let me]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【私にさせてください】",
+      "CN": "Let me",
+      "KR": "[나에게]",
+      "TW": "讓我…"
+    }
+  },
+  "[RAVE AGAIN(叫べ)]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAVE AGAIN (Cry Out)]",
+      "JP": "",
+      "CN": "RAVE AGAIN(叫べ)",
+      "KR": "[RAVE AGAIN(노래해)]",
+      "TW": "再次狂歡（叫吧）"
+    }
+  },
+  "[RAVE AGAIN(揺らせ)]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[RAVE AGAIN (Shake)]",
+      "JP": "",
+      "CN": "RAVE AGAIN(揺らせ)",
+      "KR": "[RAVE AGAIN(흔들어)]",
+      "TW": "再次狂歡（搖起來）"
+    }
+  },
+  "[RAVE AGAIN]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[RAVE AGAIN]",
+      "CN": "RAVE AGAIN",
+      "KR": "[RAVE AGAIN]",
+      "TW": "再次狂歡"
+    }
+  },
+  "[心突き動かす]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Stirs the Heart]",
+      "JP": "",
+      "CN": "[触动心灵]",
+      "KR": "[ 마음을 움직이다 ]",
+      "TW": "撼動心靈"
+    }
+  },
+  "[ファンファーレ(鳴らせ)]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Fanfare (Sound)]",
+      "JP": "",
+      "CN": "[号角齐鸣（奏响吧）]",
+      "KR": "[ ファンファーレ( 울려라 ) ]",
+      "TW": "凱旋軍號（響起吧）"
+    }
+  },
+  "[さぁ今超えて魅せてやろうか]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Now, let's transcend and show off]",
+      "JP": "",
+      "CN": "[来，现在就超越，展示给你看]",
+      "KR": "[ 자, 지금 넘어展现出]",
+      "TW": "來吧，現在跨越並秀出實力吧"
+    }
+  },
+  "[イドラデウス]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Idoladeus]",
+      "JP": "",
+      "CN": "[伊得拉德斯（IdraDex）]",
+      "KR": "[ 일라디쿠스 ]",
+      "TW": "伊德拉德烏斯"
+    }
+  },
+  "[俺たちしか描けない音に(鳴らせ)]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Let's make the sounds only we can write (play it)]",
+      "JP": "",
+      "CN": "[奏响只有我们才能谱写的旋律（奏响吧）]",
+      "KR": "[우리들만이 그리는 소리를 (울리게)]",
+      "TW": "[只有我們能譜寫的音樂（奏響吧）]"
+    }
+  },
+  "[幻想を委ねてる]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Entrusting myself to fantasy]",
+      "JP": "",
+      "CN": "[托付给幻想]",
+      "KR": "[환상에 몸을 맡기고]",
+      "TW": "[託付給幻想之中]"
+    }
+  },
+  "[勘違いとか自惚れと]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Misunderstandings and arrogance,]",
+      "JP": "",
+      "CN": "[与误解和自傲（对立）]",
+      "KR": "[오해나 오만과]",
+      "TW": "[誤解與自負交織之間]"
+    }
+  },
+  "[誰もがまだIdolaと笑う]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Everyone still laughs at Idola.]",
+      "JP": "",
+      "CN": "[众人仍在嘲笑Idola]",
+      "KR": "[아직도 누구나 Idola라고 웃어]",
+      "TW": "[眾人都仍稱呼其為 Idola]"
+    }
+  },
+  "[そんな積もった毒が]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[That accumulated poison,]",
+      "JP": "",
+      "CN": "[那堆积聚的怨气]",
+      "KR": "[그런 쌓인 독이]",
+      "TW": "[那些沉積的毒液]"
+    }
+  },
+  "[信じられないけどあれから]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[I can't believe it, but since then,]",
+      "JP": "",
+      "CN": "[难以置信，但从那以后……]",
+      "KR": "[믿을 수는 없지만 그 이후로]",
+      "TW": "[儘管難以置信，但自那日起]"
+    }
+  },
+  "[少し大人になってしまったと]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[I've become a little more grown-up.]",
+      "JP": "",
+      "CN": "[似乎有些过于成熟了]",
+      "KR": "[조금씩 성인이 되어 버린](으)다",
+      "TW": "[稍微長大成人了一些]"
+    }
+  },
+  "[Idola 言い訳を生んでく]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Idola Let It Make Excuses]",
+      "JP": "",
+      "CN": "[Idola 滋生出各种借口]",
+      "KR": "Idola 변명을 만들어 내]",
+      "TW": "[Idola 滋生著藉口]"
+    }
+  },
+  "[今を壊して]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Destroy the Present]",
+      "JP": "",
+      "CN": "[将当下破坏殆尽]",
+      "KR": "[지금 깨부수는]",
+      "TW": "[破壞當下]"
+    }
+  },
+  "[ファンファーレ]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Fanfare]",
+      "JP": "",
+      "CN": "[欢送曲]",
+      "KR": "[ファンファーレ]",
+      "TW": "[凱旋曲]"
+    }
+  },
+  "[俺たちしか描けない音に]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[To the Sounds Only We Can Draw]",
+      "JP": "",
+      "CN": "[只有我们所能描绘的声音]",
+      "KR": "[우리들만 그려낼 수 있는 소리에]",
+      "TW": "[唯有我們能譜寫的樂音]"
+    }
+  },
+  "队长：运输机开始启动了，我们马上就可以走了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: The transport aircraft is starting up. We can leave immediately!",
+      "JP": "隊長：輸送機が開始しました、すぐに離脱できます！",
+      "CN": "",
+      "KR": "captain: 수송기가 이제 이동을 시작합니다. 금방 갈 수 있습니다!",
+      "TW": "隊長：運輸機已開始啟動，我們馬上就能出發！"
+    }
+  },
+  "队长：呼叫指挥部，deterioration小队已经成功撤离，请求下一步指示": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Command, this is Team Deterioration. Successful evacuation confirmed. Awaiting further instructions.",
+      "JP": "隊長：指揮本部へ、deterioration小隊は撤退完了、次の指示を求めます",
+      "CN": "",
+      "KR": "captain: 본부에 연락드립니다. deterioration 소대가 성공적으로 철수했음을 보고하며, 다음 지시를 요청합니다.",
+      "TW": "隊長：呼叫指揮部，deterioration 小隊已成功撤離，請求下一步指示。"
+    }
+  },
+  "指挥部：干得很好，下一步需要你们接应o******tion小队，他们的麻烦可不小": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Command: Good work. Next, you need to provide support for Team O******tion. They're in quite a bit of trouble.",
+      "JP": "指揮本部：よくやった、次はo******tion小隊の救援をお願いします、彼らは厄介ごとを抱えています",
+      "CN": "",
+      "KR": "headquarters: 잘했다. 다음은 o******tion 소대를 지원해야 합니다. 그들의麻烦은 꽤 크군.",
+      "TW": "指揮部：做得很好，下一步需要你們接應 o******tion 小隊，他們的麻煩可不小。"
+    }
+  },
+  "队长：收到，我们这就前往该小队所在地": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Captain: Copy that. We're moving to their location now.",
+      "JP": "隊長：了解、そちらの小隊へ移動します",
+      "CN": "",
+      "KR": "captain: 알겠습니다. 즉시 해당 소대 위치로 이동하겠습니다.",
+      "TW": "隊長：收到，我們这就前往該小隊所在地。"
+    }
+  },
+  "now playing:Bounded Quietude - Silis,Finite Limit": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "now playing:Bounded Quietude - Silis,Finite Limit",
+      "CN": "正在播放：Bounded Quietude - Silis,Finite Limit",
+      "KR": "now playing:Bounded Quietude - Silis,Finite Limit",
+      "TW": "now playing: Bounded Quietude - Silis, Finite Limit"
+    }
+  },
+  "更新日期26/04/20": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Update date 26/04/20",
+      "JP": "更新日26/04/20",
+      "CN": "",
+      "KR": "업데이트 날짜 26/04/20",
+      "TW": "更新日期：26/04/20"
+    }
+  },
+  "now playing:414 PER SPEED - Sound Souler": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "再生中:414 PER SPEED - Sound Souler",
+      "CN": "正在播放：414 PER SPEED - Sound Souler",
+      "KR": "재생 중:414 PER SPEED - Sound Souler",
+      "TW": "正在播放:414 PER SPEED - Sound Souler"
+    }
+  }
+}

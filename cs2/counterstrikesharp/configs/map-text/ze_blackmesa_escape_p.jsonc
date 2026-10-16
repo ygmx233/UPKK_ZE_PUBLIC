@@ -1,62 +1,202 @@
 {
   "*** ATTENTION Silo Doors Open in 1 Minute ***": {
-    "translation": "*** 注意，发射井门将在60秒后打开 ***"
+    "translation": "*** 注意，发射井门将在60秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***注意：サイロドアは1分後に開きます***",
+      "CN": "*** 警告：舱门将在1分钟后打开 ***",
+      "KR": "*** 주의: 실로 문이 1분 후에 열립니다 ***",
+      "TW": "*** 注意，倉庫門將在 1 分鐘後開啟 ***"
+    }
   },
   "*** Airlock Closing in 5 Seconds ***": {
-    "translation": "*** 气闸将在5秒后关闭 ***"
+    "translation": "*** 气闸将在5秒后关闭 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***5秒後にエアロックが閉じます***",
+      "CN": "*** 气闸将在5秒后关闭 ***",
+      "KR": "*** 에어락이 5초 후에 닫힙니다 ***",
+      "TW": "*** 氣密艙將在 5 秒後關閉 ***"
+    }
   },
   "*** Airlock Opens in 5 Seconds ***": {
-    "translation": "*** 气闸将在5秒后打开 ***"
+    "translation": "*** 气闸将在5秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***5秒後にエアロックが開きます***",
+      "CN": "*** 气闸将在5秒后打开 ***",
+      "KR": "*** 에어락이 5초 후에 열립니다 ***",
+      "TW": "*** 氣密艙將在 5 秒後開啟 ***"
+    }
   },
   "*** Bridge Activated ***": {
-    "translation": "*** 桥梁已激活 ***"
+    "translation": "*** 桥梁已激活 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ブリッジ作動***",
+      "CN": "*** 桥接系统已激活 ***",
+      "KR": "*** 교량이 활성화되었습니다 ***",
+      "TW": "*** 橋樑已啟動 ***"
+    }
   },
   "*** Cafeteria Doors Open in 15 Seconds ***": {
-    "translation": "*** 食堂门将在15秒后打开 ***"
+    "translation": "*** 食堂门将在15秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後に食堂のドアが開きます***",
+      "CN": "*** 餐厅门将在15秒后打开 ***",
+      "KR": "*** 카페테리아 문이 15초 후에 열립니다 ***",
+      "TW": "*** 餐廳門將在 15 秒後開啟 ***"
+    }
   },
   "*** ERROR Rocket cannot leave platform ***": {
-    "translation": "*** 错误，火箭无法离开平台 ***"
+    "translation": "*** 错误，火箭无法离开平台 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エラー：ロケットはプラットフォームから離陸できません***",
+      "CN": "*** 错误：火箭无法离开平台 ***",
+      "KR": "*** ERROR 로켓이 플랫폼을 떠날 수 없습니다 ***",
+      "TW": "*** 錯誤：火箭無法離開平台 ***"
+    }
   },
   "*** Helicopter Departing in 10 Seconds ***": {
-    "translation": "*** 直升机将在10秒后起飞 ***"
+    "translation": "*** 直升机将在10秒后起飞 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***10秒後にヘリコプターが発進***",
+      "CN": "*** 直升机将在10秒后起飞 ***",
+      "KR": "*** 헬기 이륙 10초 전 ***",
+      "TW": "*** 直升機將在 10 秒後離場 ***"
+    }
   },
   "*** Helicopter Departing in 30 Seconds ***": {
-    "translation": "*** 直升机将在30秒后起飞 ***"
+    "translation": "*** 直升机将在30秒后起飞 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒後にヘリコプターが発進***",
+      "CN": "*** 直升机将在30秒后起飞 ***",
+      "KR": "*** 헬기 이륙 30초 전 ***",
+      "TW": "*** 直升機將在 30 秒後離場 ***"
+    }
   },
   "*** Helicopter Departing in 5 Seconds ***": {
-    "translation": "*** 直升机将在5秒后起飞 ***"
+    "translation": "*** 直升机将在5秒后起飞 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にヘリコプターが発進します ***",
+      "CN": "***直升机将于5秒后起飞***",
+      "KR": "*** 5초 후 헬리콥터 이륙 ***",
+      "TW": "*** 直升機五秒後離開 ***"
+    }
   },
   "*** Helicopter is Departing ***": {
-    "translation": "*** 直升机正在起飞 ***"
+    "translation": "*** 直升机正在起飞 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヘリコプターが離陸しました ***",
+      "CN": "***直升机正在起飞***",
+      "KR": "*** 헬리콥터 이륙 중 ***",
+      "TW": "*** 直升機正在離開 ***"
+    }
   },
   "*** Lift is leaving in 10 Seconds ***": {
-    "translation": "*** 电梯将在10秒后离开 ***"
+    "translation": "*** 电梯将在10秒后离开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後にエレベーターが発進します ***",
+      "CN": "***电梯将于10秒后离开***",
+      "KR": "*** 리프트 10초 후 이동 ***",
+      "TW": "*** 升降機十分鐘後離場 ***"
+    }
   },
   "*** Rocket Lab's Door Opens in 10 Seconds ***": {
-    "translation": "*** 火箭实验室的门将在10秒后打开 ***"
+    "translation": "*** 火箭实验室的门将在10秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後にロケットラボのドアが開きます ***",
+      "CN": "***火箭实验室的门将在10秒后打开***",
+      "KR": "*** 로켓 연구소 문 10초 후 개방 ***",
+      "TW": "*** 火箭實驗室門十秒後開啟 ***"
+    }
   },
   "*** Rocket Lab's Door Opens in 20 Seconds ***": {
-    "translation": "*** 火箭实验室的门将在20秒后打开 ***"
+    "translation": "*** 火箭实验室的门将在20秒后打开 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にロケットラボのドアが開きます ***",
+      "CN": "***火箭实验室的门将在20秒后打开***",
+      "KR": "*** 로켓 연구소 문 20초 후 개방 ***",
+      "TW": "*** 火箭實驗室門二十秒後開啟 ***"
+    }
   },
   "*** Security Door Closes in 5 Seconds ***": {
-    "translation": "*** 安全门将在5秒后关闭 ***"
+    "translation": "*** 安全门将在5秒后关闭 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にセキュリティドアが閉まります ***",
+      "CN": "***安全门将于5秒后关闭***",
+      "KR": "*** 보안문 5초 후 잠금 ***",
+      "TW": "*** 安全門五秒後關閉 ***"
+    }
   },
   "*** Tram Starts in 10 Seconds ***": {
-    "translation": "*** 有轨电车将在10秒后启动 ***"
+    "translation": "*** 有轨电车将在10秒后启动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒後に路面電車が発車します ***",
+      "CN": "***电车将于10秒后发车***",
+      "KR": "*** 트램 10초 후 출발 ***",
+      "TW": "*** 電車十分鐘後出發 ***"
+    }
   },
   "*** Tram Starts in 5 Seconds ***": {
-    "translation": "*** 有轨电车将在5秒后启动 ***"
+    "translation": "*** 有轨电车将在5秒后启动 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後に路面電車が発車します ***",
+      "CN": "***电车将于5秒后发车***",
+      "KR": "*** 트램 5초 후 출발 ***",
+      "TW": "*** 電車五秒後出發 ***"
+    }
   },
   "*** WARNING Rocket detonation in 2 Minutes ***": {
-    "translation": "*** 警告，火箭将在120秒后爆炸 ***"
+    "translation": "*** 警告，火箭将在120秒后爆炸 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 警告 ロケット爆発まで残り2分 ***",
+      "CN": "***警告火箭将在2分钟后爆炸***",
+      "KR": "*** 경고 로켓 폭파 2분 후 ***",
+      "TW": "*** 警告：火箭將在 2 分鐘後引爆 ***"
+    }
   },
   "*** Warning Rocket detonation in 30 Seconds ***": {
-    "translation": "*** 警告，火箭将在30秒后爆炸 ***"
+    "translation": "*** 警告，火箭将在30秒后爆炸 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 警告 ロケット爆発まで残り30秒 ***",
+      "CN": "***警告火箭将在30秒后爆炸***",
+      "KR": "*** 경고 로켓 폭파 30초 후 ***",
+      "TW": "*** 警告：火箭將在 30 秒後引爆 ***"
+    }
   },
   "Map By: Bill Smauz": {
-    "translation": "地图作者：Bill Smauz 翻译：Asteri3m"
+    "translation": "地图作者：Bill Smauz 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作者: Bill Smauz",
+      "CN": "地图制作者：Bill Smauz",
+      "KR": "맵 작성: Bill Smauz",
+      "TW": "地圖製作：Bill Smauz"
+    }
   },
   "Map For: www.zombiemurder.com": {
-    "translation": "地图发布于www.zombiemurder.com"
+    "translation": "地图发布于www.zombiemurder.com",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ提供先: www.zombiemurder.com",
+      "CN": "适用游戏平台：www.zombiemurder.com",
+      "KR": "맵 제공: www.zombiemurder.com",
+      "TW": "地圖適用：www.zombiemurder.com"
+    }
   }
 }

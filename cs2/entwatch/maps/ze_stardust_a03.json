@@ -1,54 +1,54 @@
 [
-	{
-		"Name": "Item_zm_speed_knife",
-		"ShortName": "Item_zm_speed_knife",
-		"Color": "{default}",
-		"HammerID": "915",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "Item_zm_star_knife",
-		"ShortName": "Item_zm_star_knife",
-		"Color": "{default}",
-		"HammerID": "948",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "ZM 加速",
+    "ShortName": "ZM 加速",
+    "Color": "{default}",
+    "HammerID": 915,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 920,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_zm_speed_trigger",
+        "ButtonID": 923,
+        "ButtonClass": "func_button",
+        "Filter": "Item_zm_speed",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 星星",
+    "ShortName": "ZM 星星",
+    "Color": "{default}",
+    "HammerID": 948,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 958,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_zm_star_trigger",
+        "ButtonID": 952,
+        "ButtonClass": "func_button",
+        "Filter": "Item_zm_star",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  }
 ]

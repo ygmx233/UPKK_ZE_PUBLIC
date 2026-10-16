@@ -1,92 +1,302 @@
 {
   "ATENÇÃO - A GRADE IRÁ ABRIR EM 30 SEGUNDOS": {
-    "translation": "栅栏将在30秒内打开"
+    "translation": "栅栏将在30秒内打开",
+    "MultiLang": {
+      "US": "ATTENTION - THE GATE WILL OPEN IN 30 SECONDS",
+      "JP": "注意 - グレードが30秒後に開きます",
+      "CN": "注意 - 楼层即将在 30 秒后开放",
+      "KR": "주의 - 성문이 30초 후 개방됩니다",
+      "TW": "注意：閘道將在 30 秒後開啟"
+    }
   },
   "ATENÇÃO - A PORTA IRÁ ABRIR EM 15 SEGUNDOS": {
-    "translation": "门将在15秒内打开"
+    "translation": "门将在15秒内打开",
+    "MultiLang": {
+      "US": "ATTENTION - THE DOOR WILL OPEN IN 15 SECONDS",
+      "JP": "注意 - ポータルが15秒後に開きます",
+      "CN": "注意 - 门将在 15 秒后开启",
+      "KR": "주의 - 문이 15초 후 개방됩니다",
+      "TW": "注意：門戶將在 15 秒後開啟"
+    }
   },
   "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 10 SEGUNDOS": {
-    "translation": "电梯将在10秒内上升"
+    "translation": "电梯将在10秒内上升",
+    "MultiLang": {
+      "US": "ATTENTION - THE ELEVATOR WILL ASCEND IN 10 SECONDS",
+      "JP": "注意 - エレベーターが10秒後に上昇します",
+      "CN": "注意 - 电梯将在 10 秒后上行",
+      "KR": "주의 - 엘리베이터가 10초 후 상승합니다",
+      "TW": "注意：電梯將在 10 秒後上升"
+    }
   },
   "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 30 SEGUNDOS": {
-    "translation": "电梯将在30秒内上升"
+    "translation": "电梯将在30秒内上升",
+    "MultiLang": {
+      "US": "ATTENTION - THE ELEVATOR WILL ASCEND IN 30 SECONDS",
+      "JP": "注意 - エレベーターが30秒後に上昇します",
+      "CN": "注意 - 电梯将在 30 秒后上行",
+      "KR": "주의 - 엘리베이터가 30초 후 상승합니다",
+      "TW": "注意：電梯將在 30 秒後上升"
+    }
   },
   "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 10 SEGUNDOS": {
-    "translation": "大门将在10秒内打开"
+    "translation": "大门将在10秒内打开",
+    "MultiLang": {
+      "US": "ATTENTION - THE GATE WILL OPEN IN 10 SECONDS",
+      "JP": "注意 - ゲートが10秒後に開きます",
+      "CN": "注意 - 闸门将在 10 秒后开启",
+      "KR": "주의 - 대문이 10초 후 개방됩니다",
+      "TW": "注意：大門將在 10 秒後開啟"
+    }
   },
   "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 20 SEGUNDOS": {
-    "translation": "大门将在20秒内打开"
+    "translation": "大门将在20秒内打开",
+    "MultiLang": {
+      "US": "ATTENTION - THE GATE WILL OPEN IN 20 SECONDS",
+      "JP": "注意 - ゲートが20秒後に開きます",
+      "CN": "注意 - 闸门将在 20 秒后开启",
+      "KR": "주의 - 대문이 20초 후 개방됩니다",
+      "TW": "注意：大門將在 20 秒後開啟"
+    }
   },
   "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 30 SEGUNDOS": {
-    "translation": "大门将在30秒内打开"
+    "translation": "大门将在30秒内打开",
+    "MultiLang": {
+      "US": "ATTENTION - THE GATE WILL OPEN IN 30 SECONDS",
+      "JP": "注意 - ゲートが30秒後に開きます",
+      "CN": "注意 - 闸门将在 30 秒后开启",
+      "KR": "주의 - 대문이 30초 후 개방됩니다",
+      "TW": "注意：大門將在 30 秒後開啟"
+    }
   },
   "ATENÇÃO: ARMAS DETECTADAS": {
-    "translation": "检测到武器"
+    "translation": "检测到武器",
+    "MultiLang": {
+      "US": "ATTENTION: WE DETECTED WEAPONS",
+      "JP": "注意: 武器を検出",
+      "CN": "注意：检测到武器",
+      "KR": "주의: 무기 탐지",
+      "TW": "注意：檢測到武器"
+    }
   },
   "ATTENTION: WEAPONS DETECTED": {
-    "translation": "检测到武器"
+    "translation": "检测到武器",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告：武器を検知",
+      "CN": "注意：检测到武器",
+      "KR": "경고: 무기가 탐지됨",
+      "TW": "警告：偵測到武器"
+    }
   },
   "BOATS WILL LEAVE IN 30 SECONDS !": {
-    "translation": "船将在30秒内离开！"
+    "translation": "船将在30秒内离开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボートは30秒後に離岸します！",
+      "CN": "船只将在30秒后离港！",
+      "KR": "배가 30초 후 출발합니다!",
+      "TW": "船隻將於30秒後離開！"
+    }
   },
   "EXPLOSION OVERRIDE MODE ACTIVATED": {
-    "translation": "破坏模式已激活"
+    "translation": "破坏模式已激活",
+    "MultiLang": {
+      "US": "",
+      "JP": "爆破上書きモードが有効化されました",
+      "CN": "已激活爆炸覆盖模式",
+      "KR": "폭발 덮어쓰기 모드 활성화됨",
+      "TW": "已啟動爆炸覆蓋模式"
+    }
   },
   "LEVEL OF INFECTION: UNKNOWN": {
-    "translation": "感染等级：未知"
+    "translation": "感染等级：未知",
+    "MultiLang": {
+      "US": "",
+      "JP": "感染レベル：不明",
+      "CN": "感染等级：未知",
+      "KR": "감염 레벨: 불명",
+      "TW": "感染等級：未知"
+    }
   },
   "MAP MADE BY N!kO | NickMaps": {
-    "translation": "地图作者：N!kO | NickMaps 翻译：Asteri3m"
+    "translation": "地图作者：N!kO | NickMaps 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "地図作成：N!kO | NickMaps",
+      "CN": "地图由N!kO制作 | NickMaps",
+      "KR": "지도 제작자 N!kO | NickMaps",
+      "TW": "地圖製作人：N!kO | NickMaps"
+    }
   },
   "MODO DESTRUIÇÃO FOI ATIVADO": {
-    "translation": "破坏模式已激活"
+    "translation": "破坏模式已激活",
+    "MultiLang": {
+      "US": "DESTRUCTION MODE HAS BEEN ENABLED",
+      "JP": "破壊モードが有効化されました",
+      "CN": "已激活破坏模式",
+      "KR": "파괴 모드가 활성화되었습니다",
+      "TW": "已啟用摧毀模式"
+    }
   },
   "NÍVEL DE INFECÇÃO: DESCONHECIDO": {
-    "translation": "感染等级：未知"
+    "translation": "感染等级：未知",
+    "MultiLang": {
+      "US": "INFECTION LEVEL: UNKNOWN",
+      "JP": "感染レベル：不明",
+      "CN": "感染等级：未知",
+      "KR": "감염 수준: 모름",
+      "TW": "感染等級：未知"
+    }
   },
   "O MUNDO ESTARÁ PERDIDO": {
-    "translation": "世界将会消失"
+    "translation": "世界将会消失",
+    "MultiLang": {
+      "US": "THE WORLD WILL BE LOST",
+      "JP": "世界は失われるでしょう",
+      "CN": "世界将陷入毁灭",
+      "KR": "세상은 잃어갈 것입니다",
+      "TW": "世界將被遺忘"
+    }
   },
   "OS BARCOS IRÃO PARTIR EM 30 SEGUNDOS !": {
-    "translation": "船将在30秒内离开！"
+    "translation": "船将在30秒内离开！",
+    "MultiLang": {
+      "US": "SHIPS WILL DEPART IN 30 SECONDS!",
+      "JP": "ボートが30秒後に離れます！",
+      "CN": "船隻将在30秒后离开！",
+      "KR": "배들이 30초 후에 출항합니다!",
+      "TW": "BARCOS DEPARTAM EM 30 SEGUNDOS!"
+    }
   },
   "SCANNER IN PROGRESS...": {
-    "translation": "扫描进行中..."
+    "translation": "扫描进行中...",
+    "MultiLang": {
+      "US": "",
+      "JP": "スキャン進行中...",
+      "CN": "扫描进行中...",
+      "KR": "스캐너 진행 중...",
+      "TW": "ANÁLISE EM PROGRESSO..."
+    }
   },
   "THANKS TO DenniS": {
-    "translation": "感谢DenniS"
+    "translation": "感谢DenniS",
+    "MultiLang": {
+      "US": "",
+      "JP": "DenniS氏に感謝",
+      "CN": "感谢 DenniS",
+      "KR": "DenniS에게 감사드립니다",
+      "TW": "AGRADEÇIMENTOS A DenniS"
+    }
   },
   "THE WORLD WILL BE LOST": {
-    "translation": "世界将会消失"
+    "translation": "世界将会消失",
+    "MultiLang": {
+      "US": "",
+      "JP": "世界は失われる",
+      "CN": "世界将陷入毁灭",
+      "KR": "세상이 사라질 것입니다",
+      "TW": "O MUNDO SE PERDERÁ"
+    }
   },
   "VERIFICAÇÃO EM PROGRESSO...": {
-    "translation": "验证进行中..."
+    "translation": "验证进行中...",
+    "MultiLang": {
+      "US": "VERIFICATION IN PROGRESS...",
+      "JP": "確認進行中...",
+      "CN": "验证进行中...",
+      "KR": "검토 진행 중...",
+      "TW": "VERIFICAÇÃO EM PROGRESSO..."
+    }
   },
   "VOCÊ CHEGOU NA TORRE DE RÁDIO !": {
-    "translation": "你到达了无线电塔！"
+    "translation": "你到达了无线电塔！",
+    "MultiLang": {
+      "US": "YOU'VE ARRIVED AT THE RADIO TOWER!",
+      "JP": "radiotowerに到着しました！",
+      "CN": "您已抵达无线电塔！",
+      "KR": "전파 타워에 도착했습니다!",
+      "TW": "VOCÊ CHEGOU À TORRE DE RÁDIO!"
+    }
   },
   "WARNING - BLASTDOOR WILL OPEN IN 10 SECONDS": {
-    "translation": "防爆门将在10秒内打开"
+    "translation": "防爆门将在10秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告 - 防爆ドアが10秒後に開きます",
+      "CN": "警告 - 防爆门将在10秒后开启",
+      "KR": "경고 - 폭압문이 10초 후에 열립니다",
+      "TW": "AVISO - PORTA BLINDADA ABRE EM 10 SEGUNDOS"
+    }
   },
   "WARNING - BLASTDOOR WILL OPEN IN 20 SECONDS": {
-    "translation": "防爆门将在20秒内打开"
+    "translation": "防爆门将在20秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告 - 防爆ドアが20秒後に開きます",
+      "CN": "警告 - 防爆门将在20秒后开启",
+      "KR": "경고 - 폭압문이 20초 후에 열립니다",
+      "TW": "AVISO - PORTA BLINDADA ABRE EM 20 SEGUNDOS"
+    }
   },
   "WARNING - BLASTDOOR WILL OPEN IN 30 SECONDS": {
-    "translation": "防爆门将在30秒内打开"
+    "translation": "防爆门将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告 - 爆破ドアが30秒後に開きます",
+      "CN": "警告 - 防爆门将在30秒后打开",
+      "KR": "경고 - 방폭문 30초 후 개방",
+      "TW": "警告 - 防爆門將在30秒後開啟"
+    }
   },
   "WARNING - DOOR WILL OPEN IN 15 SECONDS": {
-    "translation": "门将在15秒内打开"
+    "translation": "门将在15秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告 - ドアが15秒後に開きます",
+      "CN": "警告 - 门将在15秒后打开",
+      "KR": "경고 - 문 15초 후 개방",
+      "TW": "警告 - 門將在15秒後開啟"
+    }
   },
   "WARNING - ELEVATOR WILL START IN 10 SECONDS": {
-    "translation": "电梯将在10秒内启动"
+    "translation": "电梯将在10秒内启动",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告 - エレベーターが10秒後に稼働します",
+      "CN": "警告 - 电梯将在10秒后启动",
+      "KR": "경고 - 엘리베이터 10초 후 시작",
+      "TW": "警告 - 電梯將在10秒後啟動"
+    }
   },
   "WARNING - ELEVATOR WILL START IN 30 SECONDS": {
-    "translation": "电梯将在30秒内启动"
+    "translation": "电梯将在30秒内启动",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告 - エレベーターが30秒後に稼働します",
+      "CN": "警告 - 电梯将在30秒后启动",
+      "KR": "경고 - 엘리베이터 30초 후 시작",
+      "TW": "警告 - 電梯將在30秒後啟動"
+    }
   },
   "WARNING - GRATE WILL OPEN IN 30 SECONDS": {
-    "translation": "栅栏将在30秒内打开"
+    "translation": "栅栏将在30秒内打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告 - 金網が30秒後に開きます",
+      "CN": "警告 - 格栅将在30秒后打开",
+      "KR": "경고 - 맨홀 덮개 30초 후 개방",
+      "TW": "警告 - 蓋板將在30秒後開啟"
+    }
   },
   "YOU REACHED THE RADIO TOWER !": {
-    "translation": "你到达了无线电塔！"
+    "translation": "你到达了无线电塔！",
+    "MultiLang": {
+      "US": "",
+      "JP": "無線塔に到達しました！",
+      "CN": "您已到达无线电塔！",
+      "KR": "라디오 타워에 도달했습니다!",
+      "TW": "你到達了無線電塔！"
+    }
   }
 }

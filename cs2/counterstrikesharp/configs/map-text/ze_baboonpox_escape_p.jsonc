@@ -1,0 +1,332 @@
+{
+  "-Map by Yawsome-": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Yawsome氏によるマップ作成-",
+      "CN": "-地图制作者：Yawsome-",
+      "KR": "-Yawsome 제작 맵-",
+      "TW": "-地圖作者：Yawsome-"
+    }
+  },
+  "**WE'VE ARRIVED IN LONDON**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ロンドンに到着**",
+      "CN": "**我们已抵达伦敦**",
+      "KR": "**우리는 런던에 도착했습니다**",
+      "TW": "**我們已抵達倫敦**"
+    }
+  },
+  "**THERE'S ANOTHER NEW VIRUS HERE**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ここで新たなウイルスが発生している**",
+      "CN": "**这里出现了另一种新病毒**",
+      "KR": "**여기 또 다른 새로운 바이러스가 있습니다**",
+      "TW": "**這裡出現了一種新型病毒**"
+    }
+  },
+  "**IT'S TURNING PEOPLE INTO MONKEY LIKE ZOMBIES THIS TIME**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**今回は、人々をゾンビのような猿に変えてしまうウイルスだ**",
+      "CN": "这次它把人们变成了像僵尸一样的猴子",
+      "KR": "**이번에는 사람들을 지존처럼 변하게 만듭니다**",
+      "TW": "**這次它將人類變成了類似殭屍的猴子**"
+    }
+  },
+  "**WE NEED TO INVESTIGATE THE SOURCE OF THE VIRUS AND HOW IT SPREADS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ウイルスの発生源と感染経路を調査する必要がある**",
+      "CN": "我们需要调查病毒的来源及其传播方式",
+      "KR": "**우리는 바이러스의 출처와 전파 경로를 조사해야 합니다**",
+      "TW": "**我們必須調查病毒的來源及其傳播方式**"
+    }
+  },
+  "**INTEL SUGGESTS THE SOURCE IS 2 CLICKS NORTH OF HERE**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**インテリジェンスによると、発生源はここから北に2クリック先にあると推測される**",
+      "CN": "**情报显示，源头位于此处以北2英里处**",
+      "KR": "**정보에 따르면 출처는 여기서 북쪽으로 2 클릭 지점에 있습니다**",
+      "TW": "**情報顯示，病毒來源位於此地以北兩格處**"
+    }
+  },
+  "**WE'LL HAVE TO ADVANCE ON FOOT. FIND A WAY INTO THAT CHURCH, AND KEEP THE INFECTED AT BAY!!!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**徒歩で進軍するしかない。教会への侵入経路を見つけ、感染した敵を寄せ付けなさい！！！**",
+      "CN": "**我们必须徒步推进。想办法进入那座教堂，并阻止感染者靠近！！！",
+      "KR": "**발로 진격해야 합니다. 그 교회로 들어가는 방법을 찾고, 감염된 자들을 막아주세요!!!**",
+      "TW": "**我們必須步行前進。找到進入教堂的方法，並抵禦感染者！**"
+    }
+  },
+  "**Why isn't the flag flying over the church?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**なぜ教会に国旗が掲げられていないのか？**",
+      "CN": "**为什么教堂上空没有悬挂旗帜？**",
+      "KR": "**왜 교회 위에 국기가 게양되어 있지 않습니까?**",
+      "TW": "**為什麼教堂上方沒有飄揚著旗幟？**"
+    }
+  },
+  "**Is something wrong?**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "何か問題ですか？",
+      "CN": "出了什么事吗？",
+      "KR": "**무슨 문제가 있나요?**",
+      "TW": "怎麼了？"
+    }
+  },
+  "**We need to check on the secret within that the church protects before we can move on**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "教会が守る秘密について確認してから、次に進まなければなりません。",
+      "CN": "在继续前进之前，我们需要查明教堂守护的秘密",
+      "KR": "**이동하기 전에 교회가 보호하는 비밀을 확인해야 합니다.**",
+      "TW": "在繼續行動之前，我們得先查明教會守護的秘密"
+    }
+  },
+  "**GET BACK THROUGH THE SECRET PASSAGE**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "隠し通路を通って戻る",
+      "CN": "通过密道返回",
+      "KR": "비밀 통로로 돌아가세요**",
+      "TW": "經由密道返回"
+    }
+  },
+  "**Answer the riddles to find the correct path**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "なぞを解いて正しい道を見つけよう",
+      "CN": "回答谜题以找到正确的道路",
+      "KR": "수수께끼를 풀어 올바른 길을 찾으세요",
+      "TW": "解答謎語以找出正確的路徑"
+    }
+  },
+  "**OK, the secret crown is safe, still guarded by St George himself**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "よかった、秘密の王冠は大丈夫です。聖ジョージ自ら守っています。",
+      "CN": "好了，秘密王冠很安全，仍有圣乔治亲自守护",
+      "KR": "**알겠습니다. 비밀 왕관은 안전하며, 여전히 세인트 조지가 감시하고 있습니다.**",
+      "TW": "好，秘密王冠已安全無虞，目前仍由聖喬治親自守護"
+    }
+  },
+  "**Now we need to raise the flag and then we can continue**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "今、旗を揚げれば、先に進めます。",
+      "CN": "现在我们需要升起旗帜，然后继续前进",
+      "KR": "**이제 깃발을 올린 후 계속 진행할 수 있습니다.**",
+      "TW": "現在我們得升起旗幟，然後才能繼續前進"
+    }
+  },
+  "**The flag flies high again!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "旗が再び高く舞っている！",
+      "CN": "旗帜再次高高飘扬！",
+      "KR": "깃발이 다시 높이 날고 있습니다!**",
+      "TW": "旗幟再次高高飄揚！"
+    }
+  },
+  "**We can use this secret tunnel to escape the church**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この秘密の洞窟を使って教会から逃げることができます。",
+      "CN": "我们可以利用这条秘密隧道逃离教堂",
+      "KR": "**이 비밀 터널을 사용하여 교회에서 탈출할 수 있습니다.**",
+      "TW": "我們可以透過這條密道逃出教堂"
+    }
+  },
+  "**FIND YOUR WAY THROUGH THE MAZE**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "迷路の中から道を見つけろ",
+      "CN": "**穿越迷宫，找到出路**",
+      "KR": "**미로를 탐색하세요**",
+      "TW": "在迷宮中找到你的出路"
+    }
+  },
+  "**WE NEED TO STAY OFF THE STREETS, THERE'S TOO MANY OF THESE MONKEY ZOMBIES**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "通りの安全を確保する必要がある。この猿ゾンビが多すぎる",
+      "CN": "**我们必须避开街道，这种猴子僵尸数量太多了。**",
+      "KR": "**거리에서는 움직여선 안 됩니다. 이 원숭이 좀비가 너무 많아요.**",
+      "TW": "我們必須避開街道，這種猴子殭屍數量太多了"
+    }
+  },
+  "**WE CAN USE THIS SEWER SYSTEM TO GET TO THE SOURCE OF THE VIRUS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この下水道を使って、ウイルスの源に辿り着けるはずだ",
+      "CN": "**我们可以利用这套下水道系统到达病毒源头。**",
+      "KR": "**이 하수도를 사용해 바이러스의 근원지로 갈 수 있습니다.**",
+      "TW": "我們可以利用這個下水道系統抵達病毒源頭"
+    }
+  },
+  "**Lift leaving in 23 seconds!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターの発車まで23秒！",
+      "CN": "**电梯将在23秒后离开！**",
+      "KR": "**엘리베이터가 23초 후에 출발합니다!**",
+      "TW": "吊籠將於 23 秒後離開！"
+    }
+  },
+  "**Lift leaving in 3 seconds!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターの発車まで3秒！",
+      "CN": "**电梯将在3秒后离开！**",
+      "KR": "**엘리베이터가 3초 후에 출발합니다!**",
+      "TW": "吊籠將於 3 秒後離開！"
+    }
+  },
+  "**HERE WE ARE, WATNEY MARKET**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここはウェットニー市場",
+      "CN": "**这里是韦特尼市场。**",
+      "KR": "**여기가 워트니 시장입니다.**",
+      "TW": "這裡是韋特尼市場"
+    }
+  },
+  "**OPEN AIR AFRICAN BUSH MEAT, THIS IS HOW THE VIRUS GOT HERE**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "屋外のアフリカの草原の肉。ここにウイルスが持ち込まれたのだ",
+      "CN": "**露天非洲丛林肉类市场，病毒正是从这些地方扩散开来的。**",
+      "KR": "**야외 아프리카산 고기 시장입니다. 바이러스가 여기까지 퍼진 이유입니다.**",
+      "TW": "露天非洲野味肉品，病毒就是從這裡傳播開來的"
+    }
+  },
+  "**WE NEED TO REPORT THIS BACK TO BASE, SO THEY CAN SHUT THESE MARKETS DOWN AND STOP THE VIRUS COMING INTO THE COUNTRY**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "基地に報告する必要がある。これらの市場を閉鎖し、国内へのウイルス流入を防ぐためだ",
+      "CN": "**我们需要向基地汇报此事，让他们关闭这些市场，阻断病毒入境。**",
+      "KR": "**기지에 이 사실을 보고해야 합니다. 그들이 이 시장들을 폐쇄하고 국경으로의 바이러스 유입을 막아야 합니다.**",
+      "TW": "我們必須將此情況回報基地，讓他們關閉這些市場以阻止病毒流入國內"
+    }
+  },
+  "**A HELI WILL EXTRACT US AT THE ROYAL LONDON HOSPITAL HELIPAD**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロンドン・キングズクロスのヘリパッドで.extract_heli",
+      "CN": "**直升机将在皇家伦敦医院停机坪接应我们**",
+      "KR": "헬기가 로열 런던 병원 헬리포트에서 우리를 수송합니다",
+      "TW": "直升機將在倫敦皇家醫院的直升機坪接我們"
+    }
+  },
+  "**A SERVICE TRAIN IS WAITING TO TAKE US TO THE HOSPITAL**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "専用列車が待機中、患者を病院へ運ぶため",
+      "CN": "**有一列服务列车在等候送我们去往医院。**",
+      "KR": "우리를 병원으로 옮겨줄 서비스 기차가 기다리고 있습니다",
+      "TW": "一列服務列車正等待將我們送往醫院"
+    }
+  },
+  "**OH NO, AN ISIS CELL, WE CAN HUNT THEM DOWN LATER**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "オイノ、イスラム過激派の細胞がいる。後で狩れる",
+      "CN": "**哦不，是一个ISIS小队，我们可以稍后再去猎杀他们。**",
+      "KR": "오, 이슬람국가 분출입니다. 나중에 사냥할 수 있습니다",
+      "TW": "該死，是一組伊斯蘭國細胞分子，我們可以稍後再獵殺他們"
+    }
+  },
+  "**FOR NOW, KEEP THOSE ZOMBIES BACK!!!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "今のところ、ゾンビを追い払え！",
+      "CN": "**目前为止，拖住那些丧尸！！！**",
+      "KR": "지금 당장은 좀비들을 막아주세요!!!",
+      "TW": "現在，擊退那些喪屍！！！"
+    }
+  },
+  "**GET TO THE TRAIN!!!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "列車に行け！",
+      "CN": "**前往火车站！！！",
+      "KR": "열차로 이동하세요!!!",
+      "TW": "前往列車！！！"
+    }
+  },
+  "**Here we are at the Hospital, find a way to the roof!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここで私たちは医院に、屋上への道を見つけた",
+      "CN": "**我们现在已经在医院了，想办法去屋顶！**",
+      "KR": "병원에 도착했습니다. 지붕으로 가는 방법을 찾으세요!",
+      "TW": "這裡我們到了醫院，想辦法去頂樓！"
+    }
+  },
+  "**This lab has found that the virus is being spread by homosexuals**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "この研究所は、ウイルスが同性愛者によって拡散されていることを発見",
+      "CN": "**实验室发现该病毒通过同性恋者传播。**",
+      "KR": "이 연구소는 바이러스가 동성애자를 통해 확산되고 있다는 사실을 발견했습니다",
+      "TW": "這個實驗室發現病毒是透過同性戀者傳播的"
+    }
+  },
+  "**This is good intel that will help us eradicate the virus and keep the public safe**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "これは安全な情報を得るために役立つ、ウイルスを排除する手助けになる",
+      "CN": "**这是重要情报，将帮助我们根除病毒并保障公众安全。**",
+      "KR": "이 정보는 공중의 안전을 유지하고 바이러스를 근절하는 데 도움이 될 것입니다",
+      "TW": "這是我們消除病毒並保護公眾安全的寶貴情報"
+    }
+  },
+  "**TERMINATE THE REMAINING ZOMBIES**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残りのゾンビを排除せよ",
+      "CN": "消灭剩余僵尸",
+      "KR": "남은 좀비들을 처치하라",
+      "TW": "殲滅剩餘的喪屍"
+    }
+  }
+}

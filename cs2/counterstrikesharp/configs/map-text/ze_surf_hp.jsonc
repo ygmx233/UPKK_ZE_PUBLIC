@@ -1,50 +1,162 @@
 {
   ">>> MAP BY PIROTEXNIK <<<": {
-    "translation": ">>> 地图作者：PIROTEXNIK 翻译：Ayanami♪  <<<"
+    "translation": ">>> 地图作者：PIROTEXNIK 翻译：Ayanami♪  <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> PIROTEXNIK 作 <<<",
+      "CN": ">>> 地图制作：PIROTEXNIK <<<",
+      "KR": "제작자: PIROTEXNIK",
+      "TW": ">>> 地圖作者：PIROTEXNIK <<<"
+    }
   },
   ">>> HOLD 50 SECONDS <<<": {
-    "translation": ">>> 坚持 50 秒 <<<"
+    "translation": ">>> 坚持 50 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 50秒間維持 <<<",
+      "CN": ">>> 保持50秒 <<<",
+      "KR": "50초간 유지하세요",
+      "TW": ">>> 請堅持50秒 <<<"
+    }
   },
   ">>> AFK TELEPORT IN 30 SECONDS <<<": {
-    "translation": ">>> 30秒后AFK传送 <<<"
+    "translation": ">>> 30秒后AFK传送 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒後にAFKテレポート <<<",
+      "CN": ">>> 30秒后传送挂机玩家 <<<",
+      "KR": "30초 후 오프라인 텔레포트",
+      "TW": ">>> 30秒後AFK將传送離開 <<<"
+    }
   },
   ">>> ZOMBIES COME OUT AT 20 SECONDS <<<": {
-    "translation": ">>> 僵尸在 20 秒后出现 <<<"
+    "translation": ">>> 僵尸在 20 秒后出现 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゾンビは20秒後に出現 <<<",
+      "CN": ">>> 20秒后尸群出现 <<<",
+      "KR": "20초 후에 좀비가 나타납니다",
+      "TW": ">>> 20秒後殭屍登場 <<<"
+    }
   },
   ">>> ZOMBIES ARE OUT !!! <<<": {
-    "translation": ">>> 僵尸出来了！！！ <<<"
+    "translation": ">>> 僵尸出来了！！！ <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゾンビが出現した！！！ <<<",
+      "CN": ">>> 尸群已出动！！！<<<",
+      "KR": "좀비 등장 !!!",
+      "TW": ">>> 殭屍出動！！！<<<"
+    }
   },
   ">>> ZOMBIES COME OUT AT 25 SECONDS <<<": {
-    "translation": ">>> 僵尸在 25 秒后出现 <<<"
+    "translation": ">>> 僵尸在 25 秒后出现 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゾンビは25秒後に出現 <<<",
+      "CN": ">>> 25秒后尸群出现 <<<",
+      "KR": "25초 후에 좀비가 나타납니다",
+      "TW": ">>> 25秒後殭屍登場 <<<"
+    }
   },
   ">>> HOLD 53 SECONDS <<<": {
-    "translation": ">>> 坚持 53 秒 <<<"
+    "translation": ">>> 坚持 53 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 53秒間維持 <<<",
+      "CN": ">>> 保持53秒 <<<",
+      "KR": "53초간 유지하세요",
+      "TW": ">>> 請堅持53秒 <<<"
+    }
   },
   ">>> HOLD 55 SECONDS <<<": {
-    "translation": ">>> 坚持 55 秒 <<<"
+    "translation": ">>> 坚持 55 秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 55秒間維持 <<<",
+      "CN": ">>> 保持55秒 <<<",
+      "KR": "55초간 유지하세요",
+      "TW": ">>> 請堅持55秒 <<<"
+    }
   },
   ">>> ZOMBIES COME OUT AT 30 SECONDS <<<": {
-    "translation": ">>> 僵尸在 30 秒后出现 <<<"
+    "translation": ">>> 僵尸在 30 秒后出现 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ出現まで30秒",
+      "CN": ">>> 30秒后僵尸出场 <<<",
+      "KR": ">>> 30초 후 좀비가 나타납니다 <<<",
+      "TW": ">>> 30秒後殭屍出現 <<<"
+    }
   },
   ">>> PLATFORM WILL OPEN IN 46 SECONDS <<<": {
-    "translation": ">>> 平台将在 46 秒后开放 <<<"
+    "translation": ">>> 平台将在 46 秒后开放 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォーム開放まで46秒",
+      "CN": ">>> 46秒后平台开启 <<<",
+      "KR": ">>> 46초 후 플랫폼이 열립니다 <<<",
+      "TW": ">>> 平台將於46秒後開啟 <<<"
+    }
   },
   ">>> BOSS FIGHT IN 8 SECONDS <<<": {
-    "translation": ">>> 8 秒后BOSS战 <<<"
+    "translation": ">>> 8 秒后BOSS战 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス戦開始まで8秒",
+      "CN": ">>> 8秒后Boss战 <<<",
+      "KR": ">>> 8초 후 보스전이 시작됩니다 <<<",
+      "TW": ">>> 8秒後開始Boss戰 <<<"
+    }
   },
   ">>> BOSS FIGHT !!! <<<": {
-    "translation": ">>> BOSS战开始!!! <<<"
+    "translation": ">>> BOSS战开始!!! <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス戦！！！",
+      "CN": ">>> Boss战 !!! <<<",
+      "KR": ">>> 보스전 !!! <<<",
+      "TW": ">>> Boss戰 !!! <<<"
+    }
   },
   ">>> BOSS DIED !!! <<<": {
-    "translation": ">>> BOSS死了!!! <<<"
+    "translation": ">>> BOSS死了!!! <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボス撃破！！！",
+      "CN": ">>> Boss已击败 !!! <<<",
+      "KR": ">>> 보스가 처치되었습니다 !!! <<<",
+      "TW": ">>> Boss殲滅 !!! <<<"
+    }
   },
   ">>> LASER BOSS FIGHT !!! <<<": {
-    "translation": ">>> 跳刀 !!! <<<"
+    "translation": ">>> 跳刀 !!! <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザーボス戦！！！",
+      "CN": ">>> 激光Boss战 !!! <<<",
+      "KR": ">>> 레저 보스전 !!! <<<",
+      "TW": ">>> 雷射Boss戰 !!! <<<"
+    }
   },
   ">>> BEHIND !!! <<<": {
-    "translation": ">>> 回头！！！<<<"
+    "translation": ">>> 回头！！！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "背後注意！",
+      "CN": ">>> 小心背后！<<<",
+      "KR": ">>> 뒤쪽 !!! <<<",
+      "TW": ">>> 背後有東西！ <<<"
+    }
   },
   ">>> KILL ALL THE ZOMBIES! !!! <<<": {
-    "translation": ">>> 杀死所有僵尸！！！！<<<"
+    "translation": ">>> 杀死所有僵尸！！！！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "全てのゾンビを殲滅せよ！！",
+      "CN": ">>> 消灭所有僵尸！！！ <<<",
+      "KR": ">>> 좀비를 모두 처치하라! !!! <<<",
+      "TW": ">>> 殲滅所有殭屍！ !!! <<<"
+    }
   }
 }

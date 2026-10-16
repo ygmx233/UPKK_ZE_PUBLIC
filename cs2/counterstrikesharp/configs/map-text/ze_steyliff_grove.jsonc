@@ -1,206 +1,682 @@
 {
   "* Aero in Malefic *": {
-    "translation": "* 邪咒 劲风 *"
+    "translation": "* 邪咒 劲风 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* マレフィックのエアロ *",
+      "CN": "* 魔法风刃",
+      "KR": "* 말페릭의 에어로 *",
+      "TW": "* 艾麗婭在惡魔城 *"
+    }
   },
   "* Blizzard in Malefic *": {
-    "translation": "* 邪咒 暴雪 *"
+    "translation": "* 邪咒 暴雪 *",
+    "MultiLang": {
+      "US": "* Blight Blizzard *",
+      "JP": "* マレフィックのブリザード *",
+      "CN": "* 暴雪在玛莱菲克* *",
+      "KR": "* 말페릭의 블리자드 *",
+      "TW": "* 暴雪在惡魔城 *"
+    }
   },
   "* Cure in Malefic *": {
-    "translation": "* 邪咒 疗伤 *"
+    "translation": "* 邪咒 疗伤 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* マレフィックのケアル *",
+      "CN": "* 治愈术在玛莱菲克* *",
+      "KR": "* 말페릭의 시얼 *",
+      "TW": "* 治癒在惡魔城 *"
+    }
   },
   "* DarkSword in Malefic *": {
-    "translation": "* 邪咒 暗剑 *"
+    "translation": "* 邪咒 暗剑 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* マレフィックのダークソード *",
+      "CN": "* 黑暗剑玛莱菲克*",
+      "KR": "* 말페릭의 다크소드 *",
+      "TW": "* 黑暗劍在惡魔城 *"
+    }
   },
   "* Despair Devoured *": {
-    "translation": "* 绝望吞噬 *"
+    "translation": "* 绝望吞噬 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* 絶望に飲まれた *",
+      "CN": "* 绝望吞噬*",
+      "KR": "* 절망에 삼킨 자 *",
+      "TW": "* 絕望吞噬 *"
+    }
   },
   "* Fire in Malefic *": {
-    "translation": "* 邪咒 火焰 *"
+    "translation": "* 邪咒 火焰 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* マレフィックのファイア *",
+      "CN": "* 魔法火球",
+      "KR": "* 말페릭의 파이어 *",
+      "TW": "* 火焰在惡魔城 *"
+    }
   },
   "* Frazzle Curse *": {
-    "translation": "* 混乱诅咒 *"
+    "translation": "* 混乱诅咒 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* 雑踏の呪い *",
+      "CN": "* 混乱诅咒*",
+      "KR": "* 프리즐 저주 *",
+      "TW": "* 狂躁詛咒 *"
+    }
   },
   "* HolySword in Malefic *": {
-    "translation": "* 邪咒 圣剑 *"
+    "translation": "* 邪咒 圣剑 *",
+    "MultiLang": {
+      "US": "*SacredSword in Malefic*",
+      "JP": "* マレフィックのホーリーソード *",
+      "CN": "* 神圣剑玛莱菲克*",
+      "KR": "* 말페릭의 홀리소드 *",
+      "TW": "* 聖劍在惡魔城 *"
+    }
   },
   "* Thunder in Malefic *": {
-    "translation": "* 邪咒 雷电 *"
+    "translation": "* 邪咒 雷电 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* マレフィク・サンダ *",
+      "CN": "* 雷之咒术 *",
+      "KR": "* 말레픽의 천둥 *",
+      "TW": "* 雷屬：惡魔 *"
+    }
   },
   "* Umbral Assault *": {
-    "translation": "* 阴影突袭 *"
+    "translation": "* 阴影突袭 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* アンブラルアサルト *",
+      "CN": "* 暗影突进 *",
+      "KR": "* 그림자 공격 *",
+      "TW": "* 暗影攻擊 *"
+    }
   },
   "* Ward Unfold *": {
-    "translation": "* 护罩展开 *"
+    "translation": "* 护罩展开 *",
+    "MultiLang": {
+      "US": "*Ward Deploy*",
+      "JP": "*  wardアンフォールド *",
+      "CN": "* 结界展开 *",
+      "KR": ".워드 언폴드*",
+      "TW": "* 結界展開 *"
+    }
   },
   "* Water in Malefic *": {
-    "translation": "* 邪咒 水花 *"
+    "translation": "* 邪咒 水花 *",
+    "MultiLang": {
+      "US": "",
+      "JP": "* マレフィク・ウォーター *",
+      "CN": "* 水之咒术 *",
+      "KR": "* 말레픽의 물 *",
+      "TW": "* 水屬：惡魔 *"
+    }
   },
   "< Final Fantasy XV - Steyliff Grove >": {
-    "translation": "< 最终幻想15 - 斯基弗利树林迷宫 >"
+    "translation": "< 最终幻想15 - 斯基弗利树林迷宫 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Final Fantasy XV - ステリフグローブ",
+      "CN": "< 最终幻想15 - 斯基弗利树林迷宫 >",
+      "KR": "<FINAL FANTASY XV - 스태릴프 그로브>",
+      "TW": "FINAL FANTASY XV - 斯提利夫園林"
+    }
   },
   "< Map+ Eugen & Joucho >": {
-    "translation": "< 地图作者: Eugen & Joucho 翻译：Asteri3m >"
+    "translation": "< 地图作者: Eugen & Joucho 翻译：Asteri3m >",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ＋ イゲン & ジュウチョウ",
+      "CN": "< 地图作者: Eugen & Joucho 翻译：Asteri3m >",
+      "KR": "< 맵+ 에우근 & 조초 >",
+      "TW": "< 圖+ 愛根 & 小翔 >"
+    }
   },
   "< This journey is coming to an end... >": {
-    "translation": "< 这段旅程即将结束... >"
+    "translation": "< 这段旅程即将结束... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "この旅は終わりに近づいています...",
+      "CN": "< 这段旅程即将结束... >",
+      "KR": "< 이 여행은 이제 끝나가고 있네... >",
+      "TW": "<這段旅程即將結束... >"
+    }
   },
   "< ver. Preview >": {
-    "translation": "< 版本: 预览 >"
+    "translation": "< 版本: 预览 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 版本: 预览 >",
+      "KR": "< 버전 미리보기 >",
+      "TW": "< 版本 預覽 >"
+    }
   },
   "> A player has learned [ Aero ] magic, <": {
-    "translation": "> 一名玩家学会了 [劲风] 魔法， <"
+    "translation": "> 一名玩家学会了 [劲风] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> A player has learned [ Aero ] magic, <",
+      "CN": "> 一名玩家已习得 [ Aero ] 魔法, <",
+      "KR": "> 플레이어가 [에어로] 마법을 습득했습니다.<",
+      "TW": "> 一名玩家已學會 [ 風 ] 魔法，<"
+    }
   },
   "> A player has learned [ Avant ] magic, <": {
-    "translation": "> 一名玩家学会了 [先驱] 魔法， <"
+    "translation": "> 一名玩家学会了 [先驱] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> A player has learned [ Avant ] magic, <",
+      "CN": "> 一名玩家已习得 [ Avant ] 魔法, <",
+      "KR": "> 플레이어가 [아반트] 마법을 습득했습니다.<",
+      "TW": "> 一名玩家已學會 [  Avant ] 魔法，<"
+    }
   },
   "> A player has learned [ Benefic ] magic, <": {
-    "translation": "> 一名玩家学会了 [恩惠] 魔法， <"
+    "translation": "> 一名玩家学会了 [恩惠] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> A player has learned [ Benefic ] magic, <",
+      "CN": "> 一名玩家已习得 [ Benefic ] 魔法, <",
+      "KR": "> 플레이어가 [베네픽] 마법을 습득했습니다.<",
+      "TW": "> 一名玩家已學會 [ Benefic ] 魔法，<"
+    }
   },
   "> A player has learned [ Blizzard ] magic, <": {
-    "translation": "> 一名玩家学会了 [暴雪] 魔法， <"
+    "translation": "> 一名玩家学会了 [暴雪] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> A player has learned [ Blizzard ] magic, <",
+      "CN": "> 一名玩家已习得 [ Blizzard ] 魔法, <",
+      "KR": "> 플레이어가 [블리자드] 마법을 습득했습니다.<",
+      "TW": "> 一名玩家已學會 [ 暴雪 ] 魔法，<"
+    }
   },
   "> A player has learned [ Cure ] magic, <": {
-    "translation": "> 一名玩家学会了 [疗伤] 魔法， <"
+    "translation": "> 一名玩家学会了 [疗伤] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが【治愈】の魔法を習得しました",
+      "CN": "> 一名玩家学会了 [ 治疗 ] 魔法，<",
+      "KR": "> 플레이어님이 [ 치유 ] 마법을 습득했습니다. <",
+      "TW": "> 一位玩家學會了 [治癒] 魔法，<"
+    }
   },
   "> A player has learned [ DarkSword ] magic, <": {
-    "translation": "> 一名玩家学会了 [暗剑] 魔法， <"
+    "translation": "> 一名玩家学会了 [暗剑] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが【ダークソード】の魔法を習得しました",
+      "CN": "> 一名玩家学会了 [ 黑暗剑 ] 魔法，<",
+      "KR": "> 플레이어님이 [ 다크소드 ] 마법을 습득했습니다. <",
+      "TW": "> 一位玩家學會了 [暗黑劍] 魔法，<"
+    }
   },
   "> A player has learned [ Dia ] magic, <": {
-    "translation": "> 一名玩家学会了 [光明] 魔法， <"
+    "translation": "> 一名玩家学会了 [光明] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが【ディア】の魔法を習得しました",
+      "CN": "> 一名玩家学会了 [ 治愈之光 ] 魔法，<",
+      "KR": "> 플레이어님이 [ 치유 ] 마법을 습득했습니다. <",
+      "TW": "> 一位玩家學會了 [回復] 魔法，<"
+    }
   },
   "> A player has learned [ Elixir ] magic, <": {
-    "translation": "> 一名玩家学会了 [圣灵药] 魔法， <"
+    "translation": "> 一名玩家学会了 [圣灵药] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが【エリクサー】の魔法を習得しました",
+      "CN": "> 一名玩家学会了 [ 万能药 ] 魔法，<",
+      "KR": "> 플레이어님이 [ 엘릭서 ] 마법을 습득했습니다. <",
+      "TW": "> 一位玩家學會了 [藥水] 魔法，<"
+    }
   },
   "> A player has learned [ Elusive ] magic, <": {
-    "translation": "> 一名玩家学会了 [幻影] 魔法， <"
+    "translation": "> 一名玩家学会了 [幻影] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが【回避】の魔法を習得しました",
+      "CN": "> 一名玩家学会了 [ 隐身 ] 魔法，<",
+      "KR": "> 플레이어님이 [ 회피 ] 마법을 습득했습니다. <",
+      "TW": "> 一位玩家學會了 [隱身] 魔法，<"
+    }
   },
   "> A player has learned [ Fire ] magic, <": {
-    "translation": "> 一名玩家学会了 [火焰] 魔法， <"
+    "translation": "> 一名玩家学会了 [火焰] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが【火炎】の魔法を習得しました",
+      "CN": "> 一名玩家学会了 [ 火焰 ] 魔法，<",
+      "KR": "> 플레이어님이 [ 화염 ] 마법을 습득했습니다. <",
+      "TW": "> 一位玩家學會了 [火焰] 魔法，<"
+    }
   },
   "> A player has learned [ HolySword ] magic, <": {
-    "translation": "> 一名玩家学会了 [圣剑] 魔法， <"
+    "translation": "> 一名玩家学会了 [圣剑] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが【ホーリーソード】の魔法を習得しました",
+      "CN": "> 一名玩家学会了 [ 神圣剑 ] 魔法，<",
+      "KR": "> 플레이어님이 [ 홀리소드 ] 마법을 습득했습니다. <",
+      "TW": "> 一位玩家學會了 [聖劍] 魔法，<"
+    }
   },
   "> A player has learned [ Summons ] magic, <": {
-    "translation": "> 一名玩家学会了 [召唤] 魔法， <"
+    "translation": "> 一名玩家学会了 [召唤] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが【召喚】の魔法を習得しました",
+      "CN": "> 一名玩家学会了 [ 召唤 ] 魔法，<",
+      "KR": "> 플레이어님이 [ 소환 ] 마법을 습득했습니다. <",
+      "TW": "> 一位玩家學會了 [召喚] 魔法，<"
+    }
   },
   "> A player has learned [ Thunder ] magic, <": {
-    "translation": "> 一名玩家学会了 [雷电] 魔法， <"
+    "translation": "> 一名玩家学会了 [雷电] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> あるプレイヤーが【雷】魔法を修得した，<",
+      "CN": "> 某位玩家学会了【雷电】魔法，<",
+      "KR": "> 한 플레이어가 [ 번개 ] 마법을 배웠습니다, <",
+      "TW": "> 一名玩家學會了 [ 雷電 ] 魔法，<"
+    }
   },
   "> A player has learned [ Water ] magic, <": {
-    "translation": "> 一名玩家学会了 [水花] 魔法， <"
+    "translation": "> 一名玩家学会了 [水花] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> あるプレイヤーが【水】魔法を修得した，<",
+      "CN": "> 某位玩家学会了【水系】魔法，<",
+      "KR": "> 한 플레이어가 [ 물 ] 마법을 배웠습니다, <",
+      "TW": "> 一名玩家學會了 [ 水 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Despair ] magic, <": {
-    "translation": "> 一名僵尸学会了 [绝望] 魔法， <"
+    "translation": "> 一名僵尸学会了 [绝望] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが【絶望】魔法を修得した，<",
+      "CN": "> 某个僵尸学会了【绝望】魔法，<",
+      "KR": "> 좀비가 [ 절망 ] 마법을 배웠습니다, <",
+      "TW": "> 殭屍學會了 [ 絕望 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Foul ] magic, <": {
-    "translation": "> 一名僵尸学会了 [污秽] 魔法， <"
+    "translation": "> 一名僵尸学会了 [污秽] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが【悪臭】魔法を修得した，<",
+      "CN": "> 某个僵尸学会了【污秽】魔法，<",
+      "KR": "> 좀비가 [ 불결 ] 마법을 배웠습니다, <",
+      "TW": "> 殭屍學會了 [ 污穢 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Frazzle ] magic, <": {
-    "translation": "> 一名僵尸学会了 [混乱] 魔法， <"
+    "translation": "> 一名僵尸学会了 [混乱] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが【感電】魔法を修得した，<",
+      "CN": "> 某个僵尸学会了【焦躁】魔法，<",
+      "KR": "> 좀비가 [ 과부하 ] 마법을 배웠습니다, <",
+      "TW": "> 殭屍學會了 [ 燒焦 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Gravity ] magic, <": {
-    "translation": "> 一名僵尸学会了 [黑洞] 魔法， <"
+    "translation": "> 一名僵尸学会了 [黑洞] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが【重力】魔法を修得した，<",
+      "CN": "> 某个僵尸学会了【重力】魔法，<",
+      "KR": "> 좀비가 [ 중력 ] 마법을 배웠습니다, <",
+      "TW": "> 殭屍學會了 [ 重力 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Impact ] magic, <": {
-    "translation": "> 一名僵尸学会了 [冲击] 魔法， <"
+    "translation": "> 一名僵尸学会了 [冲击] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが【衝撃】魔法を修得した，<",
+      "CN": "> 某个僵尸学会了【冲击】魔法，<",
+      "KR": "> 좀비가 [ 충격 ] 마법을 배웠습니다, <",
+      "TW": "> 殭屍學會了 [ 衝擊 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Malefic ] magic, <": {
-    "translation": "> 一名僵尸学会了 [邪咒] 魔法， <"
+    "translation": "> 一名僵尸学会了 [邪咒] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが【不祥】魔法を修得した，<",
+      "CN": "> 某个僵尸学会了【邪恶】魔法，<",
+      "KR": "> 좀비가 [ 악독 ] 마법을 배웠습니다, <",
+      "TW": "> 殭屍學會了 [ 邪惡 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Siphon ] magic, <": {
-    "translation": "> 一名僵尸学会了 [吸取] 魔法， <"
+    "translation": "> 一名僵尸学会了 [吸取] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが[吸い上げ]魔法を習得した、 <",
+      "CN": "一名僵尸学会了 [ 汲取 ] 魔法，",
+      "KR": "좀비가 [흡기] 마법을 습득했습니다, <",
+      "TW": "殭屍學會了 [ 吸血 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Umbral ] magic, <": {
-    "translation": "> 一名僵尸学会了 [阴影] 魔法， <"
+    "translation": "> 一名僵尸学会了 [阴影] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが[暗黒]魔法を習得した、 <",
+      "CN": "一名僵尸学会了 [ 幽暗 ] 魔法，",
+      "KR": "좀비가 [음영] 마법을 습득했습니다, <",
+      "TW": "殭屍學會了 [ 幽冥 ] 魔法，<"
+    }
   },
   "> A zombie has learned [ Ward ] magic, <": {
-    "translation": "> 一名僵尸学会了 [护罩] 魔法， <"
+    "translation": "> 一名僵尸学会了 [护罩] 魔法， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> ゾンビが[結界]魔法を習得した、 <",
+      "CN": "一名僵尸学会了 [ 结界 ] 魔法，",
+      "KR": "좀비가 [보호막] 마법을 습득했습니다, <",
+      "TW": "殭屍學會了 [ 結界 ] 魔法，<"
+    }
   },
   "> Defend until the gates open. <": {
-    "translation": "> 防守直到大门打开。 <"
+    "translation": "> 防守直到大门打开。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 門が開くまで防衛しろ。 <",
+      "CN": "坚守直到城门开启。",
+      "KR": "문이 열릴 때까지 방어하십시오. <",
+      "TW": "守住直到城門開啟。<"
+    }
   },
   "> New task: Defeat ??? Magna <": {
-    "translation": "> 新任务: 击败 ??? 玛格纳 <"
+    "translation": "> 新任务: 击败 ??? 玛格纳 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 新任務: ??? マグナを倒せ <",
+      "CN": "新任务：击败 ??? 玛格纳",
+      "KR": "새 임무: ??? 마그나 격파 <",
+      "TW": "新任務：擊敗 ??? 瑪格納 <"
+    }
   },
   "> New task: Defeat Quetzalcoatl <": {
-    "translation": "> 新任务: 击败 克滋亚库特尔 <"
+    "translation": "> 新任务: 击败 克滋亚库特尔 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 新任務: ケツァルコアトルを倒せ <",
+      "CN": "新任务：击败羽蛇神",
+      "KR": "새 임무: 켑찰코아틀 격파 <",
+      "TW": "新任務：擊敗羽蛇神 <"
+    }
   },
   "> Side task: Chocobo Hide and Seek <": {
-    "translation": "> 支线任务: 陆行鸟捉迷藏 <"
+    "translation": "> 支线任务: 陆行鸟捉迷藏 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> サブ任務: チョコボかくれんぼ <",
+      "CN": "支线任务：陆行鸟捉迷藏",
+      "KR": "부임무:チョコボ 숨바꼭질 <",
+      "TW": "側任務：俏波寶捉迷藏 <"
+    }
   },
   "> Switch 1 has been triggered, <": {
-    "translation": "> 开关 1 已触发， <"
+    "translation": "> 开关 1 已触发， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> スイッチ1が作動した、 <",
+      "CN": "开关1已被触发，",
+      "KR": "스위치 1이 활성화되었습니다, <",
+      "TW": "開關 1 已被觸發，<"
+    }
   },
   "> Switch 2 has been triggered, <": {
-    "translation": "> 开关 2 已触发， <"
+    "translation": "> 开关 2 已触发， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> スイッチ2が作動しました、<",
+      "CN": "> 已触发开关2，<",
+      "KR": "스위치 2가 발동되었습니다.",
+      "TW": "> 開關2已觸發，<"
+    }
   },
   "> Switch 3 has been triggered, <": {
-    "translation": "> 开关 3 已触发， <"
+    "translation": "> 开关 3 已触发， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> スイッチ3が作動しました、<",
+      "CN": "> 已触发开关3，<",
+      "KR": "스위치 3이 발동되었습니다.",
+      "TW": "> 開關3已觸發，<"
+    }
   },
   "> Switch 4 has been triggered, <": {
-    "translation": "> 开关 4 已触发， <"
+    "translation": "> 开关 4 已触发， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> スイッチ4が作動しました、<",
+      "CN": "> 已触发开关4，<",
+      "KR": "스위치 4가 발동되었습니다.",
+      "TW": "> 開關4已觸發，<"
+    }
   },
   "> Switch has been triggered, <": {
-    "translation": "> 开关已触发， <"
+    "translation": "> 开关已触发， <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> スイッチが作動しました、<",
+      "CN": "> 已触发开关，<",
+      "KR": "스위치가 발동되었습니다.",
+      "TW": "> 開關已觸發，<"
+    }
   },
   "> The battle will begin in 10 seconds. <": {
-    "translation": "> 战斗将在10秒内开始。 <"
+    "translation": "> 战斗将在10秒内开始。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 戦闘開始まで10秒です。 <",
+      "CN": "> 战斗将在10秒后开始。",
+      "KR": "전투가 10초 후에 시작됩니다.",
+      "TW": "> 戰鬥將在10秒後開始。 <"
+    }
   },
   "> The battle will begin in 15 seconds. <": {
-    "translation": "> 战斗将在15秒内开始。 <"
+    "translation": "> 战斗将在15秒内开始。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 戦闘開始まで15秒です。 <",
+      "CN": "> 战斗将在15秒后开始。",
+      "KR": "전투가 15초 후에 시작됩니다.",
+      "TW": "> 戰鬥將在15秒後開始。 <"
+    }
   },
   "> The door will open in 10 seconds. <": {
-    "translation": "> 门将在10秒内打开。 <"
+    "translation": "> 门将在10秒内打开。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 扉が10秒後に開きます。 <",
+      "CN": "> 门将在10秒后打开。",
+      "KR": "문이 10초 후에 열립니다.",
+      "TW": "> 門將在10秒後開啟。 <"
+    }
   },
   "> The door will open in 15 seconds. <": {
-    "translation": "> 门将在15秒内打开。 <"
+    "translation": "> 门将在15秒内打开。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 扉が15秒後に開きます。 <",
+      "CN": "> 门将在15秒后打开。",
+      "KR": "문이 15초 후에 열립니다.",
+      "TW": "> 門將在15秒後開啟。 <"
+    }
   },
   "> The door will open in 20 seconds. <": {
-    "translation": "> 门将在20秒内打开。 <"
+    "translation": "> 门将在20秒内打开。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 20秒後に扉が開く。 <",
+      "CN": "> 门将在20秒后打开。 <",
+      "KR": "문이 20초 후에 열립니다.",
+      "TW": "> 門將在20秒後開啟。<"
+    }
   },
   "> The door will open in 25 seconds. <": {
-    "translation": "> 门将在25秒内打开。 <"
+    "translation": "> 门将在25秒内打开。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 25秒後に扉が開く。 <",
+      "CN": "> 门将在25秒后打开。 <",
+      "KR": "문이 25초 후에 열립니다.",
+      "TW": "> 門將在25秒後開啟。<"
+    }
   },
   "> The eerie magic disappeared... <": {
-    "translation": "> 诡异的魔法消失了... <"
+    "translation": "> 诡异的魔法消失了... <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 不気味な魔法が消え去った… <",
+      "CN": "> 诡异的魔法消失了…… <",
+      "KR": "기묘한 마법이 사라졌다...",
+      "TW": ">詭異的魔法消失了……<"
+    }
   },
   "> The platform rises after 10 seconds. <": {
-    "translation": "> 平台将在10秒后上升。 <"
+    "translation": "> 平台将在10秒后上升。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 10秒後にプラットフォームが上昇する。 <",
+      "CN": "> 平台将在10秒后升起。 <",
+      "KR": "플랫폼이 10초 후에 상승합니다.",
+      "TW": ">平台將在10秒後升起。<"
+    }
   },
   "> The road ahead has been destroyed. <": {
-    "translation": "> 前方的道路已被摧毁。 <"
+    "translation": "> 前方的道路已被摧毁。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 前方の道は破壊されている。 <",
+      "CN": "> 前方的道路已被摧毁。 <",
+      "KR": "앞쪽의 도로가 파괴되었습니다.",
+      "TW": ">前方的道路已被摧毀。<"
+    }
   },
   "> What!? The divine beast of the underworld! <": {
-    "translation": "> 什么！？ 这是冥界的神兽！ <"
+    "translation": "> 什么！？ 这是冥界的神兽！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "什麼！？冥界的神獣だ！ <",
+      "CN": "> 什么！？冥界的 divine beast！ <",
+      "KR": "무슨 일이야! 저冥界의 신수라고!",
+      "TW": ">什麼？！冥界的神獸！<"
+    }
   },
   "AraneaHighwind > Night falls, ": {
-    "translation": "阿拉尼雅·海温德 > 夜幕降临，"
+    "translation": "阿拉尼雅·海温德 > 夜幕降临，",
+    "MultiLang": {
+      "US": "",
+      "JP": "アラニア・ハイクウィンド > 夜が降りて、",
+      "CN": "AraneaHighwind > 夜幕降临，",
+      "KR": "AraneaHighwind > 해가 지자,",
+      "TW": "AraneaHighwind >夜幕低垂，"
+    }
   },
   "AraneaHighwind > Wait quietly for the maze gate to open. ": {
-    "translation": "阿拉尼雅·海温德 > 静静等待迷宫门打开。"
+    "translation": "阿拉尼雅·海温德 > 静静等待迷宫门打开。",
+    "MultiLang": {
+      "US": "",
+      "JP": "アラニア・ハイクウィンド > 迷宮の扉が開くまで、静かに待て。",
+      "CN": "AraneaHighwind > 静静等待迷宫大门开启。",
+      "KR": "AraneaHighwind > 미로 문이 열릴 때까지 조용히 기다리세요.",
+      "TW": "AraneaHighwind >靜靜等待迷宮之門開啟。"
+    }
   },
   "Zombie Item Lock": {
-    "translation": "僵尸神器锁定"
+    "translation": "僵尸神器锁定",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ アイテム ロック",
+      "CN": "僵尸物品锁定",
+      "KR": "좀비 아이템 잠금",
+      "TW": "殭屍物品鎖定"
+    }
   },
   "Zombie Item Unlock": {
-    "translation": "僵尸神器解锁"
+    "translation": "僵尸神器解锁",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ アイテム アンロック",
+      "CN": "僵尸物品解锁",
+      "KR": "좀비 아이템 해제",
+      "TW": "殭屍物品解鎖"
+    }
   },
   "❀>1": {
-    "translation": "彩蛋数量>1"
+    "translation": "彩蛋数量>1",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "彩蛋数量>1",
+      "KR": "",
+      "TW": ""
+    }
   },
   "❀>2": {
-    "translation": "彩蛋数量>2"
+    "translation": "彩蛋数量>2",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "彩蛋数量>2",
+      "KR": "",
+      "TW": ""
+    }
   },
   "❀>3": {
-    "translation": "彩蛋数量>3"
+    "translation": "彩蛋数量>3",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "彩蛋数量>3",
+      "KR": "",
+      "TW": ""
+    }
   },
   "❀>4": {
-    "translation": "彩蛋数量>4"
+    "translation": "彩蛋数量>4",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "彩蛋数量>4",
+      "KR": "",
+      "TW": ""
+    }
   },
   "❀>?": {
-    "translation": "彩蛋数量>?"
+    "translation": "彩蛋数量>?",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "彩蛋数量>?",
+      "KR": "",
+      "TW": ""
+    }
   },
   "天平总是倾斜于某一端,": {
-    "translation": "天平总是倾向于某一端。"
+    "translation": "天平总是倾向于某一端。",
+    "MultiLang": {
+      "US": "The scale is always tilted to one side,",
+      "JP": "天秤は常にどちらか的一端に傾きます。",
+      "CN": "天平总是倾向于某一端。",
+      "KR": "천평은 항상 한쪽으로 기울어진다,",
+      "TW": "天平總是傾斜向某一端，"
+    }
   }
 }

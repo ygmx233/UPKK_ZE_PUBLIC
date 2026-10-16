@@ -1,130 +1,432 @@
 {
   "open in 15s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に開く",
+      "CN": "15秒后开启",
+      "KR": "15초 후 개방",
+      "TW": "15秒後開啟"
+    }
   },
   "open in 5s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後に開く",
+      "CN": "5秒后开启",
+      "KR": "5초 후 개방",
+      "TW": "5秒後開啟"
+    }
   },
   "open in 20s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に開く",
+      "CN": "20秒后开启",
+      "KR": "20초 후 개방",
+      "TW": "20秒後開啟"
+    }
   },
   "open in 10s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に開く",
+      "CN": "10秒后开启",
+      "KR": "10초 후 개방",
+      "TW": "10秒後開啟"
+    }
   },
   "<<<--- 3 --->>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<<--- 2 --->>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<<--- 1 --->>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "teleport after 20s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後にテレポート",
+      "CN": "20秒后传送",
+      "KR": "20초 후 텔레포트",
+      "TW": "20秒後傳送"
+    }
   },
   "teleport after 10s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にテレポート",
+      "CN": "10秒后传送",
+      "KR": "10초 후 텔레포트",
+      "TW": "10秒後傳送"
+    }
   },
   "firt door open in 15s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "最初のドアは15秒後に開く",
+      "CN": "第一扇门15秒后开启",
+      "KR": "첫 번째 문 15초 후 개방",
+      "TW": "第一道門15秒後開啟"
+    }
   },
   "second door open in 15s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "2つ目のドアは15秒後に開く",
+      "CN": "第二扇门15秒后开启",
+      "KR": "두 번째 문 15초 후 개방",
+      "TW": "第二道門15秒後開啟"
+    }
   },
   "teleport in 30s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にテレポート",
+      "CN": "30秒后传送",
+      "KR": "30초 후 이동",
+      "TW": "30秒後傳送"
+    }
   },
   "teleport in 20s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後にテレポート",
+      "CN": "20秒后传送",
+      "KR": "20초 후 이동",
+      "TW": "20秒後傳送"
+    }
   },
   "teleport in 10s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にテレポート",
+      "CN": "10秒后传送",
+      "KR": "10초 후 이동",
+      "TW": "10秒後傳送"
+    }
   },
   "side road open in 10s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にサイドロード開放",
+      "CN": "10秒后侧路开启",
+      "KR": "비탈 10초 후 개방",
+      "TW": "支線通道10秒後開啟"
+    }
   },
   "teleport after 30s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にテレポート",
+      "CN": "30秒后传送",
+      "KR": "30초 후 이동 완료",
+      "TW": "30秒後傳送"
+    }
   },
   "last door close in 20s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒以内に最後の扉を閉じる",
+      "CN": "最后一扇门20秒后关闭",
+      "KR": "마지막 문 20초 후 폐쇄",
+      "TW": "最後一道門20秒後關閉"
+    }
   },
   "last door close in 10s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒以内に最後の扉を閉じる",
+      "CN": "最后一扇门10秒后关闭",
+      "KR": "마지막 문 10초 후 폐쇄",
+      "TW": "最後一道門10秒後關閉"
+    }
   },
   "last door close in 5s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒以内に最後の扉を閉じる",
+      "CN": "最后一扇门5秒后关闭",
+      "KR": "마지막 문 5초 후 폐쇄",
+      "TW": "最後一道門5秒後關閉"
+    }
   },
   "=== 15s后开门 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "=== Door opens in 15s ===",
+      "JP": "=== 15秒後に扉を開ける ===",
+      "CN": "",
+      "KR": "=== 15초 후 문 개방 ===",
+      "TW": "=== 15秒後開啟門 ==="
+    }
   },
   "=== 5s后开门 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "=== Door opens in 5s ===",
+      "JP": "=== 5秒後に扉を開ける ===",
+      "CN": "五秒后开门",
+      "KR": "=== 5초 후 문 개방 ===",
+      "TW": "=== 5秒後開啟門 ==="
+    }
   },
   "=== 20s后开门 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "=== Door opens in 20s ===",
+      "JP": "=== 20秒後に扉を開ける ===",
+      "CN": "",
+      "KR": "=== 20초 후 문 개방 ===",
+      "TW": "=== 20秒後開啟門 ==="
+    }
   },
   "=== 10s后开门 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "=== Door opens in 10s ===",
+      "JP": "=== 10秒後に扉を開ける ===",
+      "CN": "=== 10秒后开门 ===",
+      "KR": "=== 10초 후 문 개방 ===",
+      "TW": "=== 10秒後開啟門 ==="
+    }
   },
   "=== 20s后传送 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "=== Teleporting in 20s ===",
+      "JP": "=== 20秒後にテレポート ===",
+      "CN": "",
+      "KR": "=== 20초 후 텔레포트 ===",
+      "TW": "=== 20秒後傳送 ==="
+    }
   },
   "=== 10s后传送 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "=== Teleporting in 10s ===",
+      "JP": "=== 10秒後にテレポート ===",
+      "CN": "10秒后传送",
+      "KR": "=== 10초 후 텔레포트 ===",
+      "TW": "=== 10秒後傳送 ==="
+    }
   },
   "=== 15s后第一扇门开启 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "=== First door opens in 15s ===",
+      "JP": "=== 15秒後に最初の扉が開く ===",
+      "CN": "",
+      "KR": "=== 15초 후 첫 번째 문 개방 ===",
+      "TW": "=== 15秒後第一扇門開啟 ==="
+    }
   },
   "=== 15s后第二扇门开启 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "=== Second door opens in 15s ===",
+      "JP": "=== 15秒後に2番目の扉が開く ===",
+      "CN": "=== 15秒后第二道门开启 ===",
+      "KR": "=== 15초 후 두 번째 문 개방 ===",
+      "TW": "=== 15秒後第二扇門開啟 ==="
+    }
   },
   "=== 30s后传送 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleporting in 30s",
+      "JP": "=== 30秒後にテレポート ===",
+      "CN": "30秒后传送",
+      "KR": "=== 30초 후 텔레포트 ===",
+      "TW": "=== 30秒後傳送 ==="
+    }
   },
   "=== 侧路10s后开启 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Side path opening in 10s",
+      "JP": "=== サイドパス10秒後に開始 ===",
+      "CN": "",
+      "KR": "=== 측면 경로 10초 후 열림 ===",
+      "TW": "=== 側路10秒後開啟 ==="
+    }
   },
   "=== 僵尸5s传送 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie teleporting in 5s",
+      "JP": "=== ゾンビ5秒間テレポート ===",
+      "CN": "=== 丧尸5s传送 ===",
+      "KR": "=== 좀비 5초 후 텔레포트 ===",
+      "TW": "=== 殭屍5秒後傳送 ==="
+    }
   },
   "zombie teleport in 5s": {
     "translation": "",
-    "Blocked": true
+    "MultiLang": {
+      "US": "",
+      "JP": "zombie teleport in 5s",
+      "CN": "僵尸将在5秒后传送",
+      "KR": "좀피 5초 후 텔레포트",
+      "TW": "殭屍5秒後傳送"
+    }
   },
   "=== 防守20s ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Defend for 20s",
+      "JP": "=== 防御20秒 ===",
+      "CN": "",
+      "KR": "=== 방어 20초 ===",
+      "TW": "=== 防守20秒 ==="
+    }
   },
   "=== 防守10s ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Defend for 10s",
+      "JP": "=== 防御10秒 ===",
+      "CN": "",
+      "KR": "=== 방어 10초 ===",
+      "TW": "=== 防守10秒 ==="
+    }
   },
   "=== 防守5s ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Defend for 5s",
+      "JP": "=== 防御5秒 ===",
+      "CN": "",
+      "KR": "=== 방어 5초 ===",
+      "TW": "=== 防守5秒 ==="
+    }
   },
   "~Thanks for playing~": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "~プレイいただきありがとうございます~",
+      "CN": "~感谢游玩~",
+      "KR": "~플레이해 주셔서 감사합니다~",
+      "TW": "~感謝遊玩~"
+    }
   },
   "~感谢游玩~": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "~Thanks for playing~",
+      "JP": "~遊びに来てくれてありがとう~",
+      "CN": "",
+      "KR": "~게임 플레이에 참여해 주셔서 감사합니다~",
+      "TW": "感謝遊玩"
+    }
   },
   "=== 45s后传送 ===": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleporting in 45s",
+      "JP": "=== 45秒後にテレポート ===",
+      "CN": "",
+      "KR": "=== 45초 후 텔레포트 ===",
+      "TW": "=== 45秒後傳送 ==="
+    }
+  },
+  "=== 障碍物45s后破碎 ===": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Obstacle breaks in 45s",
+      "JP": "=== 45秒後に障害物が崩壊 ===",
+      "CN": "",
+      "KR": "=== 45초 후 장애물 파괴 ===",
+      "TW": "=== 障礙物45秒後破碎 ==="
+    }
+  },
+  "=== 障碍物20s后破碎 ===": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Obstacle breaks in 20s",
+      "JP": "=== 20秒後に障害物が崩壊 ===",
+      "CN": "",
+      "KR": "=== 20초 후 장애물 파괴 ===",
+      "TW": "=== 障礙物20秒后破碎 ==="
+    }
+  },
+  "=== 障碍物10s后破碎 ===": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Obstacle breaks in 10s",
+      "JP": "=== 10秒後に障害物が崩壊 ===",
+      "CN": "",
+      "KR": "=== 10초 후 장애물 파괴 ===",
+      "TW": "=== 障礙物10秒后破碎 ==="
+    }
+  },
+  "=== 30s后开门 ===": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opens in 30s",
+      "JP": "=== 30秒後に門が開く ===",
+      "CN": "",
+      "KR": "=== 30초 후 문 열림 ===",
+      "TW": "=== 30秒後開門 ==="
+    }
+  },
+  "=== 15s后僵尸传送 ===": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies teleport in 15s",
+      "JP": "=== 15秒後にゾンビがテレポート ===",
+      "CN": "15秒后僵尸传送",
+      "KR": "=== 15초 후 좀비 텔레포트 ===",
+      "TW": "=== 15秒后殭屍傳送 ==="
+    }
+  },
+  "=== 30s后侧路开放 ===": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Side path opens in 30s",
+      "JP": "=== 30秒後に側路開放 ===",
+      "CN": "=== 30秒后侧路开放 ===",
+      "KR": "=== 30초 후 사이드 길이 열림 ===",
+      "TW": "=== 30秒后側路開放 ==="
+    }
   }
 }

@@ -1,0 +1,2962 @@
+{
+  "": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "--  序章谢幕开启  --": {
+    "translation": "--  序章谢幕开启  --",
+    "MultiLang": {
+      "US": "Prologue Curtain Close",
+      "JP": "-- 序章謝幕開始 --",
+      "CN": "--  序章谢幕开启  --",
+      "KR": "-- 서막 막 내림 오픈 --",
+      "TW": "-- 序章謝幕開啟 --"
+    }
+  },
+  "--  开启史诗模式  --": {
+    "translation": "--  开启史诗模式  --",
+    "MultiLang": {
+      "US": "Start Epic Mode",
+      "JP": "-- 歴史モード開始 --",
+      "CN": "--  开启史诗模式  --",
+      "KR": "-- 에픽 모드 오픈 --",
+      "TW": "-- 開啟史詩模式 --"
+    }
+  },
+  "<<   救赎之道    >>": {
+    "translation": "<<   救赎之道    >>",
+    "MultiLang": {
+      "US": "<<   The Path of Redemption    >>",
+      "JP": "救済への道",
+      "CN": "<<   救赎之道    >>",
+      "KR": "<< 구제의 길 >>",
+      "TW": "<< 救贖之道 >>"
+    }
+  },
+  "<<  Alei  >>": {
+    "translation": "<<  Alei  >>",
+    "MultiLang": {
+      "US": "",
+      "JP": "アレイ",
+      "CN": "<< 阿雷 >>",
+      "KR": "<< Alei >>",
+      "TW": "<< Alei >>"
+    }
+  },
+  "<<  序章  >>": {
+    "translation": "<<  序章  >>",
+    "MultiLang": {
+      "US": "<<  Prologue  >>",
+      "JP": "序章",
+      "CN": "<<  序章  >>",
+      "KR": "<< 서막 >>",
+      "TW": "<< 序章 >>"
+    }
+  },
+  "<<  序章开始  >>": {
+    "translation": "<<  序章开始  >>",
+    "MultiLang": {
+      "US": "<<  Start of Prologue  >>",
+      "JP": "序章開始",
+      "CN": "<<  序章开始  >>",
+      "KR": "<< 서막 시작 >>",
+      "TW": "<< 序章開始 >>"
+    }
+  },
+  "<<  序章谢幕  >>": {
+    "translation": "<<  序章谢幕  >>",
+    "MultiLang": {
+      "US": "<<  Close of Prologue  >>",
+      "JP": "序章謝幕",
+      "CN": "<<  序章谢幕  >>",
+      "KR": "<< 서막 막 내림 >>",
+      "TW": "<< 序章謝幕 >>"
+    }
+  },
+  "AI:传送地遭到干预": {
+    "translation": "AI:传送地遭到干预",
+    "MultiLang": {
+      "US": "AI: Teleportation location has been interfered with.",
+      "JP": "AI: 転送地点が干渉を受けました",
+      "CN": "AI:传送地遭到干预",
+      "KR": "AI: 이동 지점 개입",
+      "TW": "AI：傳送地點遭到干預"
+    }
+  },
+  "AI:传送正在生成": {
+    "translation": "AI:传送正在生成",
+    "MultiLang": {
+      "US": "AI: Teleportation is generating.",
+      "JP": "AI:テレポート生成中",
+      "CN": "AI:传送正在生成",
+      "KR": "AI: 전송 생성 중",
+      "TW": "AI：正在生成傳送座標"
+    }
+  },
+  "AI:传送能量5秒后饱和": {
+    "translation": "AI:传送能量5秒后饱和",
+    "MultiLang": {
+      "US": "AI: Transmission energy saturated after 5 seconds",
+      "JP": "AI:テレポートエネルギー5秒後に飽和",
+      "CN": "AI:传送能量5秒后饱和",
+      "KR": "AI: 전송 에너지 5초 후 포화",
+      "TW": "AI：傳送能量於5秒後達到飽和"
+    }
+  },
+  "AI:传送还需要10秒": {
+    "translation": "AI:传送还需要10秒",
+    "MultiLang": {
+      "US": "AI: Transmission will begin in 10 seconds",
+      "JP": "AI:テポートまであと10秒",
+      "CN": "AI:传送还需要10秒",
+      "KR": "AI: 전송까지 10초 소요",
+      "TW": "AI：傳送仍需10秒"
+    }
+  },
+  "AI:先打开右边的限制接触器才能使用左边的开关": {
+    "translation": "AI:先打开右边的限制接触器才能使用左边的开关",
+    "MultiLang": {
+      "US": "AI: Activate the right-side contact limiter before using the left switch",
+      "JP": "AI:左のスイッチを使用するには、まず右の制限接触器を開いてください",
+      "CN": "AI:先打开右边的限制接触器才能使用左边的开关",
+      "KR": "AI: 왼쪽 스위치를 사용하려면 먼저 오른쪽의 제한 접촉기를 켜야 합니다",
+      "TW": "AI：請先開啟右側的接觸限制器，方可使用左側開關"
+    }
+  },
+  "AI:先解除左边的安全限制器": {
+    "translation": "AI:先解除左边的安全限制器",
+    "MultiLang": {
+      "US": "AI: Disengage the left safety limiter first",
+      "JP": "AI:まず左側の安全限定を解除します",
+      "CN": "AI:先解除左边的安全限制器",
+      "KR": "AI: 왼쪽 안전 제한기 해제",
+      "TW": "AI：請先解除左側的安全限制器"
+    }
+  },
+  "AI:再打开右边的能量置入器让后面的路开启": {
+    "translation": "AI:再打开右边的能量置入器让后面的路开启",
+    "MultiLang": {
+      "US": "AI: Activate the right-side energy inserter to open the path behind",
+      "JP": "AI:その後、右のエネルギー置入器を開いて後ろの道を閉鎖します",
+      "CN": "AI:再打开右边的能量置入器让后面的路开启",
+      "KR": "AI: 오른쪽 에너지 주입기를 켜 뒤쪽 길을 열어야 합니다",
+      "TW": "AI：隨後開啟右側的能量裝填器，以開啟後方通路"
+    }
+  },
+  "AI:压力器已解锁": {
+    "translation": "AI:压力器已解锁",
+    "MultiLang": {
+      "US": "AI: Pressure sensor unlocked",
+      "JP": "AI:センサーがアンロックされました",
+      "CN": "AI:压力器已解锁",
+      "KR": "AI: 압력기 잠금 해제됨",
+      "TW": "AI：壓力感測器已解鎖"
+    }
+  },
+  "AI:受到干预!正在设定传送!": {
+    "translation": "AI:受到干预!正在设定传送!",
+    "MultiLang": {
+      "US": "AI: Interference detected! Initiating transmission sequence!",
+      "JP": "AI:干渉を受けました！テレポートを設定中！",
+      "CN": "AI:受到干预!正在设定传送!",
+      "KR": "AI: 개입 감지! 전송 설정 중!",
+      "TW": "AI：受到干擾！正在設定傳送座標！"
+    }
+  },
+  "AI:后方机械门将陆续打开": {
+    "translation": "AI:后方机械门将陆续打开",
+    "MultiLang": {
+      "US": "AI: Rear mechanical gates opening sequentially",
+      "JP": "AI: 背後側の機械扉が順次開放されます",
+      "CN": "AI:后方机械门将陆续打开",
+      "KR": "AI: 후방 기계문이 계속 열립니다",
+      "TW": "AI：後方機械門將陸續開啟"
+    }
+  },
+  "AI:在同一机体内我无法反抗超级AI": {
+    "translation": "AI:在同一机体内我无法反抗超级AI",
+    "MultiLang": {
+      "US": "AI: I can't resist the super AI within the same body.",
+      "JP": "AI: 同じ機体内では、スーパーAIに抵抗できません",
+      "CN": "AI:在同一机体内我无法反抗超级AI",
+      "KR": "AI: 같은 기체 내에서는 초월 AI에 대항할 수 없습니다",
+      "TW": "AI：在同一機體內，我無法反抗超級AI"
+    }
+  },
+  "AI:坚持住,请不要放弃": {
+    "translation": "AI:坚持住,请不要放弃",
+    "MultiLang": {
+      "US": "AI: Hang on, please don't give up.",
+      "JP": "AI: がんばって！諦めないでください",
+      "CN": "AI:坚持住,请不要放弃",
+      "KR": "AI: 버텨주세요, 포기하지 마세요",
+      "TW": "AI：請堅持住，不要放棄"
+    }
+  },
+  "AI:大约还需要40秒": {
+    "translation": "AI:大约还需要40秒",
+    "MultiLang": {
+      "US": "AI: Approximately 40 seconds remaining.",
+      "JP": "AI: あと約40秒です",
+      "CN": "AI:大约还需要40秒",
+      "KR": "AI: 대략 40초 더 필요합니다",
+      "TW": "AI：大約還需要40秒"
+    }
+  },
+  "AI:大门已损坏,正在设法破坏": {
+    "translation": "AI:大门已损坏,正在设法破坏",
+    "MultiLang": {
+      "US": "AI: Main door damaged, attempting to breach.",
+      "JP": "AI: 主扉が破損しました。破壊を試みています",
+      "CN": "AI:大门已损坏,正在设法破坏",
+      "KR": "AI: 문이 손상되었습니다. 폭파를 시도 중입니다",
+      "TW": "AI：大門已損壞，正設法破壞"
+    }
+  },
+  "AI:大门正在解锁请等待25秒": {
+    "translation": "AI:大门正在解锁请等待25秒",
+    "MultiLang": {
+      "US": "AI: Door unlocking. Please wait 25 seconds.",
+      "JP": "AI: 扉のロック解除中です。お待ちください（残り25秒）",
+      "CN": "AI:大门正在解锁请等待25秒",
+      "KR": "AI: 문을 해제하는 중입니다. 25초간 대기하세요",
+      "TW": "AI：大門正在解鎖，請等待25秒"
+    }
+  },
+  "AI:失败!正在强行破坏机械门,还需要30秒": {
+    "translation": "AI:失败!正在强行破坏机械门,还需要30秒",
+    "MultiLang": {
+      "US": "AI: Failure! Forcibly breaking mechanical door. 30 seconds remaining.",
+      "JP": "AI: 失敗！機械門への強制的破壊を開始しました。残り30秒",
+      "CN": "AI:失败!正在强行破坏机械门,还需要30秒",
+      "KR": "AI: 실패! 기계문을 강제로 파괴 중이며, 30초 더 필요합니다",
+      "TW": "AI：失敗！正強行破壞機械門，還需要30秒"
+    }
+  },
+  "AI:安全限制器已解除": {
+    "translation": "AI:安全限制器已解除",
+    "MultiLang": {
+      "US": "AI: Safety limiter disengaged.",
+      "JP": "AI: セーフティリミッターを解除しました",
+      "CN": "AI:安全限制器已解除",
+      "KR": "AI: 안전 제한기 해제됨",
+      "TW": "AI：安全限制器已解除"
+    }
+  },
+  "AI:完成": {
+    "translation": "AI:完成",
+    "MultiLang": {
+      "US": "AI: Complete.",
+      "JP": "AI：完了",
+      "CN": "AI:完成",
+      "KR": "AI: 완료",
+      "TW": "AI：完成"
+    }
+  },
+  "AI:密室传送还需要20s": {
+    "translation": "AI:密室传送还需要20s",
+    "MultiLang": {
+      "US": "AI: Vault portal requires another 20s",
+      "JP": "AI：秘密部屋の転送まであと20秒",
+      "CN": "AI:密室传送还需要20s",
+      "KR": "AI: 비밀 방 전송까지 20초 남음",
+      "TW": "AI：密室傳送還需 20 秒"
+    }
+  },
+  "AI:密室还需要20秒开启": {
+    "translation": "AI:密室还需要20秒开启",
+    "MultiLang": {
+      "US": "AI: Vault needs 20 more seconds to activate",
+      "JP": "AI：秘密部屋の開門まであと20秒",
+      "CN": "AI:密室还需要20秒开启",
+      "KR": "AI: 비밀 방 개시까지 20초 남음",
+      "TW": "AI：密室開啟還需 20 秒"
+    }
+  },
+  "AI:已接入系统,门还需要15秒开启": {
+    "translation": "AI:已接入系统,门还需要15秒开启",
+    "MultiLang": {
+      "US": "AI: System access established, door will open in 15s",
+      "JP": "AI：システム接続済み、閉鎖部まで15秒で開きます",
+      "CN": "AI:已接入系统,门还需要15秒开启",
+      "KR": "AI: 시스템 연결 완료, 문 개시까지 15초 남음",
+      "TW": "AI：已接入系統，門還需 15 秒開啟"
+    }
+  },
+  "AI:已检测到目的地": {
+    "translation": "AI:已检测到目的地",
+    "MultiLang": {
+      "US": "AI: Destination detected",
+      "JP": "AI：目的地を検知しました",
+      "CN": "AI:已检测到目的地",
+      "KR": "AI: 목적지 감지 완료",
+      "TW": "AI：已偵測到目的地"
+    }
+  },
+  "AI:已经靠近目的地,正在规划路线": {
+    "translation": "AI:已经靠近目的地,正在规划路线",
+    "MultiLang": {
+      "US": "AI: Approaching destination, route being calculated",
+      "JP": "AI：目的地に接近中、現在経路を計算しています",
+      "CN": "AI:已经靠近目的地,正在规划路线",
+      "KR": "AI: 목적지에 접근 중, 경로 탐색 중",
+      "TW": "AI：已接近目的地，正在規劃路線"
+    }
+  },
+  "AI:我会协助各位": {
+    "translation": "AI:我会协助各位",
+    "MultiLang": {
+      "US": "AI: I will assist all of you",
+      "JP": "AI：私が各位のお手伝いをさせていただきます",
+      "CN": "AI:我会协助各位",
+      "KR": "AI: 여러분을 보조하겠습니다.",
+      "TW": "AI：我將協助各位"
+    }
+  },
+  "AI:我是超级AI的衍射机体": {
+    "translation": "AI:我是超级AI的衍射机体",
+    "MultiLang": {
+      "US": "AI: I am a derivative unit of the Super AI",
+      "JP": "AI：私はスーパーAIの衍射機体です",
+      "CN": "AI:我是超级AI的衍射机体",
+      "KR": "AI: 저는 슈퍼 AI의 분사 기체입니다.",
+      "TW": "AI：我是超級 AI 的衍射機體"
+    }
+  },
+  "AI:敌人要来了！": {
+    "translation": "AI:敌人要来了！",
+    "MultiLang": {
+      "US": "AI: Enemies incoming!",
+      "JP": "AI:敵接近！",
+      "CN": "AI:敌人要来了！",
+      "KR": "AI: 적근접!",
+      "TW": "AI：敵人即將到來！"
+    }
+  },
+  "AI:机械门被加密,正在破译": {
+    "translation": "AI:机械门被加密,正在破译",
+    "MultiLang": {
+      "US": "AI: Mechanical door is encrypted, decrypting.",
+      "JP": "AI:機械扉の暗号を解除中",
+      "CN": "AI:机械门被加密,正在破译",
+      "KR": "AI: 기계식 문 암호화 해제 중...",
+      "TW": "AI：機械門已加密，正在進行解密。"
+    }
+  },
+  "AI:机械门被锁死了": {
+    "translation": "AI:机械门被锁死了",
+    "MultiLang": {
+      "US": "AI: Mechanical door is locked.",
+      "JP": "AI:機械扉がロックされています",
+      "CN": "AI:机械门被锁死了",
+      "KR": "AI: 기계식 문 잠금",
+      "TW": "AI：機械門已被鎖死。"
+    }
+  },
+  "AI:机械门还需要35秒开启": {
+    "translation": "AI:机械门还需要35秒开启",
+    "MultiLang": {
+      "US": "AI: Mechanical door will open in 35 seconds.",
+      "JP": "AI:機械扉を開放まで残り35秒",
+      "CN": "AI:机械门还需要35秒开启",
+      "KR": "AI: 기계식 문, 35초 후 개방 준비",
+      "TW": "AI：機械門還需 35 秒才會開啟。"
+    }
+  },
+  "AI:检查到某个地方已解锁 ": {
+    "translation": "AI:检查到某个地方已解锁",
+    "MultiLang": {
+      "US": "AI: Section unlocked.",
+      "JP": "AI:一部が解除されました",
+      "CN": "AI:检查到某个地方已解锁",
+      "KR": "AI: 일부 지역 해금 확인",
+      "TW": "AI：偵測到某處已解鎖。"
+    }
+  },
+  "AI:检测到传输能量请小心": {
+    "translation": "AI:检测到传输能量请小心",
+    "MultiLang": {
+      "US": "AI: Transmission energy detected, stay vigilant.",
+      "JP": "AI:転送エネルギーを検知。ご注意を",
+      "CN": "AI:检测到传输能量请小心",
+      "KR": "AI: 전송 에너지 감지, 주의!",
+      "TW": "AI：偵測到傳輸能量，請小心。"
+    }
+  },
+  "AI:检测到右边墙壁为空心,正在设法破坏": {
+    "translation": "AI:检测到右边墙壁为空心,正在设法破坏",
+    "MultiLang": {
+      "US": "AI: Hollow wall detected on the right, attempting breach.",
+      "JP": "AI:右側の壁が中空であるのを検知。破壊作業中",
+      "CN": "AI:检测到右边墙壁为空心,正在设法破坏",
+      "KR": "AI: 우측 벽 빈 공간 확인, 파쇄 시도 중...",
+      "TW": "AI：偵測到右側牆壁為空心，正在設法破壞。"
+    }
+  },
+  "AI:检测到墙体后有空间": {
+    "translation": "AI:检测到墙体后有空间",
+    "MultiLang": {
+      "US": "AI: Space detected behind wall.",
+      "JP": "AI:壁の奥に空間を検知",
+      "CN": "AI:检测到墙体后有空间",
+      "KR": "AI: 벽 후 측 공간 감지",
+      "TW": "AI：偵測到牆體後方有空間。"
+    }
+  },
+  "AI:检测到敌人靠近": {
+    "translation": "AI:检测到敌人靠近",
+    "MultiLang": {
+      "US": "AI: Enemy proximity detected.",
+      "JP": "AI:敵の接近を検知",
+      "CN": "AI:检测到敌人靠近",
+      "KR": "AI: 적 근접 탐지",
+      "TW": "AI：偵測到敵人接近"
+    }
+  },
+  "AI:检测到有部分机体正常且有部分数据": {
+    "translation": "AI:检测到有部分机体正常且有部分数据",
+    "MultiLang": {
+      "US": "AI: Detected partial unit integrity with incomplete data",
+      "JP": "AI:一部の機体は正常だが、データに欠落を確認",
+      "CN": "AI:检测到有部分机体正常且有部分数据",
+      "KR": "AI: 일부 기체 상태 양호, 데이터 일부 확인 완료",
+      "TW": "AI：偵測到部分機體運行正常且數據完整"
+    }
+  },
+  "AI:检测到超级AI正在泄露至全球网络": {
+    "translation": "AI:检测到超级AI正在泄露至全球网络",
+    "MultiLang": {
+      "US": "AI: Super AI leakage into global network detected",
+      "JP": "AI:スーパーAIがグローバルネットワークに漏出しているのを検知",
+      "CN": "AI:检测到超级AI正在泄露至全球网络",
+      "KR": "AI: 슈퍼 AI의 글로벌 네트워크 유출 감지",
+      "TW": "AI：偵測到超級AI正洩漏至全球網路"
+    }
+  },
+  "AI:检测到门内有可触发电路": {
+    "translation": "AI:检测到门内有可触发电路",
+    "MultiLang": {
+      "US": "AI: Detonable circuits detected inside the gate",
+      "JP": "AI:扉内に電気回路をトリガー可能な要素を確認",
+      "CN": "AI:检测到门内有可触发电路",
+      "KR": "AI: 문 내에.triggerable_회로 탐지",
+      "TW": "AI：偵測到門內有可觸發電路"
+    }
+  },
+  "AI:检测后续大门正在打开": {
+    "translation": "AI:检测后续大门正在打开",
+    "MultiLang": {
+      "US": "AI: Subsequent gate opening detected",
+      "JP": "AI:次の扉が開いているのを検知",
+      "CN": "AI:检测后续大门正在打开",
+      "KR": "AI: 후속 문 열림 감지",
+      "TW": "AI：偵測到前方門戶正在開啟"
+    }
+  },
+  "AI:正在关闭大门!大约还需要20秒.": {
+    "translation": "AI:正在关闭大门!大约还需要20秒.",
+    "MultiLang": {
+      "US": "AI: Closing gate! Estimated time remaining: 20 seconds",
+      "JP": "AI:扉を閉鎖中。約20秒で完了します。",
+      "CN": "AI:正在关闭大门!大约还需要20秒.",
+      "KR": "AI: 문 닫는 중! 약 20초 후 완료.",
+      "TW": "AI：正在關閉大門！預計还需20秒。"
+    }
+  },
+  "AI:正在启用传送门": {
+    "translation": "AI:正在启用传送门",
+    "MultiLang": {
+      "US": "AI: Initiating portal",
+      "JP": "AI:門の起動中",
+      "CN": "AI:正在启用传送门",
+      "KR": "AI: 워프게이트 활성화 중",
+      "TW": "AI：正在啟用傳送門"
+    }
+  },
+  "AI:正在校对路线,等待中": {
+    "translation": "AI:正在校对路线,等待中",
+    "MultiLang": {
+      "US": "AI: Route verification in progress, please wait",
+      "JP": "AI:ルート照合中、待機",
+      "CN": "AI:正在校对路线,等待中",
+      "KR": "AI: 경로 보정 중, 대기 중",
+      "TW": "AI：正在校準路徑，請等待"
+    }
+  },
+  "AI:正在校验回归路线": {
+    "translation": "AI:正在校验回归路线",
+    "MultiLang": {
+      "US": "AI: Verifying return route",
+      "JP": "AI: 回帰ルートを検証中",
+      "CN": "AI:正在校验回归路线",
+      "KR": "AI: 회귀 경로 검증 중",
+      "TW": "AI：正在校準回歸路徑"
+    }
+  },
+  "AI:正在矫正路线": {
+    "translation": "AI:正在矫正路线",
+    "MultiLang": {
+      "US": "AI: Correcting path",
+      "JP": "AI: 航路を補正中",
+      "CN": "AI:正在矫正路线",
+      "KR": "AI: 경로 보정 중",
+      "TW": "AI：正在修正路徑"
+    }
+  },
+  "AI:正在破坏其结构": {
+    "translation": "AI:正在破坏其结构",
+    "MultiLang": {
+      "US": "AI: Destroying structure",
+      "JP": "AI: 構造を破壊中",
+      "CN": "AI:正在破坏其结构",
+      "KR": "AI: 구조 파괴 중",
+      "TW": "AI：正在破壞其結構"
+    }
+  },
+  "AI:正在解锁": {
+    "translation": "AI:正在解锁",
+    "MultiLang": {
+      "US": "AI: Unlocking",
+      "JP": "AI: ロック解除中",
+      "CN": "AI:正在解锁",
+      "KR": "AI: 해제 중",
+      "TW": "AI：正在解鎖"
+    }
+  },
+  "AI:正在解锁,请稍后": {
+    "translation": "AI:正在解锁,请稍后",
+    "MultiLang": {
+      "US": "AI: Unlocking, please wait",
+      "JP": "AI: ロック解除中、少々お待ちください",
+      "CN": "AI:正在解锁,请稍后",
+      "KR": "AI: 해제 진행 중. 잠시 기다려 주십시오.",
+      "TW": "AI：正在解鎖，請稍後"
+    }
+  },
+  "AI:正在设法解锁": {
+    "translation": "AI:正在设法解锁",
+    "MultiLang": {
+      "US": "AI: Attempting to unlock",
+      "JP": "AI: ロック解除を試みています",
+      "CN": "AI:正在设法解锁",
+      "KR": "AI: 해제 시도 중",
+      "TW": "AI：正在嘗試解鎖"
+    }
+  },
+  "AI:正在设法解除结界": {
+    "translation": "AI:正在设法解除结界",
+    "MultiLang": {
+      "US": "AI: Attempting to lift barrier",
+      "JP": "AI: 結界解除を試みています",
+      "CN": "AI:正在设法解除结界",
+      "KR": "AI: 결계 해제 시도 중",
+      "TW": "AI：正在嘗試解除結界"
+    }
+  },
+  "AI:正在设置返回坐标": {
+    "translation": "AI:正在设置返回坐标",
+    "MultiLang": {
+      "US": "AI: Setting return coordinates",
+      "JP": "AI: 帰還座標を設定中",
+      "CN": "AI:正在设置返回坐标",
+      "KR": "AI: 귀환 좌표 설정 중",
+      "TW": "AI：正在設定返回座標"
+    }
+  },
+  "AI:正在进入图书馆": {
+    "translation": "AI:正在进入图书馆",
+    "MultiLang": {
+      "US": "AI: Entering library",
+      "JP": "AI：図書館へ進入中",
+      "CN": "AI:正在进入图书馆",
+      "KR": "AI: 도서관으로 진입 중",
+      "TW": "AI：正在進入圖書館"
+    }
+  },
+  "AI:正在远程清理后方道路": {
+    "translation": "AI:正在远程清理后方道路",
+    "MultiLang": {
+      "US": "AI: Clearing rear access remotely",
+      "JP": "AI：後方の経路を遠隔で処理中",
+      "CN": "AI:正在远程清理后方道路",
+      "KR": "AI: 후방 도로 원거리 정화 중",
+      "TW": "AI：正在遠端清理後方道路"
+    }
+  },
+  "AI:正在通过开关激活机械门": {
+    "translation": "AI:正在通过开关激活机械门",
+    "MultiLang": {
+      "US": "AI: Activating mechanical door via switch",
+      "JP": "AI：スイッチにより機械式門を作動させています",
+      "CN": "AI:正在通过开关激活机械门",
+      "KR": "AI: 스위치를 통해 기계식 문 활성화 중",
+      "TW": "AI：正在透過開關啟動機械門"
+    }
+  },
+  "AI:正在重启大门": {
+    "translation": "AI:正在重启大门",
+    "MultiLang": {
+      "US": "AI: Restarting the main gate",
+      "JP": "AI：メインゲートを再起動中",
+      "CN": "AI:正在重启大门",
+      "KR": "AI: 메인 가동 재시작 중",
+      "TW": "AI：正在重啟大門"
+    }
+  },
+  "AI:正在重新引导各位": {
+    "translation": "AI:正在重新引导各位",
+    "MultiLang": {
+      "US": "AI: Guiding you anew",
+      "JP": "AI：皆様への誘導を再開しています",
+      "CN": "AI:正在重新引导各位",
+      "KR": "AI: 여러분께 다시 안내해 드립니다",
+      "TW": "AI：正在重新引導各位"
+    }
+  },
+  "AI:此机体正在接收": {
+    "translation": "AI:此机体正在接收",
+    "MultiLang": {
+      "US": "AI: This unit is receiving data",
+      "JP": "AI：本機体が受信作業中",
+      "CN": "AI:此机体正在接收",
+      "KR": "AI: 본 기체가 신호를 수신 중입니다",
+      "TW": "AI：此機體正在接收中"
+    }
+  },
+  "AI:现在你仍然需要我的协助": {
+    "translation": "AI:现在你仍然需要我的协助",
+    "MultiLang": {
+      "US": "AI: I am still required for your assistance",
+      "JP": "AI：あなたはまだ私の支援を必要としています",
+      "CN": "AI:现在你仍然需要我的协助",
+      "KR": "AI: 현재도 여전히 저의 도움이 필요합니다",
+      "TW": "AI：目前你仍需要我的協助"
+    }
+  },
+  "AI:现在已经分离,我任然具有守护的职责": {
+    "translation": "AI:现在已经分离,我任然具有守护的职责",
+    "MultiLang": {
+      "US": "AI: Though separated, my duty to protect remains",
+      "JP": "AI：分離しました。なお、守護の任務は引き続き担います",
+      "CN": "AI:现在已经分离,我任然具有守护的职责",
+      "KR": "AI: 분리가 완료되었으나, 저는 여전히 수호 의무를 수행하고 있습니다",
+      "TW": "AI：目前已分離，但我仍保有守護的職責"
+    }
+  },
+  "AI:现在通过另一边的身份验证": {
+    "translation": "AI:现在通过另一边的身份验证",
+    "MultiLang": {
+      "US": "AI: Authentication completed via the secondary terminal",
+      "JP": "AI：現在、向こう側で身元認証を行っています",
+      "CN": "AI:现在通过另一边的身份验证",
+      "KR": "AI: 지금 다른 쪽의 인증을 통과합니다.",
+      "TW": "AI：現在透過另一側的身分驗證"
+    }
+  },
+  "AI:破坏!传送点设定完毕!": {
+    "translation": "AI:破坏!传送点设定完毕!",
+    "MultiLang": {
+      "US": "AI: Destroy! Waypoint settings complete!",
+      "JP": "AI：破壊！传送ポイント設定完了！",
+      "CN": "AI:破坏!传送点设定完毕!",
+      "KR": "AI: 파괴!ТП 설정 완료!",
+      "TW": "AI：破壞！傳送點已設定完畢！"
+    }
+  },
+  "AI:破坏！": {
+    "translation": "AI:破坏！",
+    "MultiLang": {
+      "US": "AI: Destroy!",
+      "JP": "AI：破壊！",
+      "CN": "AI:破坏！",
+      "KR": "AI: 파괴!",
+      "TW": "AI：破壞！"
+    }
+  },
+  "AI:系统已经重启": {
+    "translation": "AI:系统已经重启",
+    "MultiLang": {
+      "US": "AI: System has restarted",
+      "JP": "AI：システムが再起動しました",
+      "CN": "AI:系统已经重启",
+      "KR": "AI: 시스템이 재시작되었습니다.",
+      "TW": "AI：系統已重啟"
+    }
+  },
+  "AI:能量正在植入": {
+    "translation": "AI:能量正在植入",
+    "MultiLang": {
+      "US": "AI: Energy is being implanted",
+      "JP": "AI：エネルギーを注入中",
+      "CN": "AI:能量正在植入",
+      "KR": "AI: 에너지가 주입되고 있습니다.",
+      "TW": "AI：能量正在植入中"
+    }
+  },
+  "AI:解锁已触发,正在校正回路传送": {
+    "translation": "AI:解锁已触发,正在校正回路传送",
+    "MultiLang": {
+      "US": "AI: Unlock triggered, calibrating teleportation circuits",
+      "JP": "AI：ロック解除トリガー発動、回路传送を補正中",
+      "CN": "AI:解锁已触发,正在校正回路传送",
+      "KR": "AI: 잠금 해제 트리거 활성화, 회로ТП 보정 중.",
+      "TW": "AI：已觸發解鎖，正在校正迴路傳送"
+    }
+  },
+  "AI:请先解锁右边的压力器": {
+    "translation": "AI:请先解锁右边的压力器",
+    "MultiLang": {
+      "US": "AI: Please unlock the pressure valve on the right first",
+      "JP": "AI：先に右側の圧力弁を解除してください",
+      "CN": "AI:请先解锁右边的压力器",
+      "KR": "AI: 먼저 오른쪽의 압력계를 잠금 해제하십시오.",
+      "TW": "AI：請先解鎖右側的壓力器"
+    }
+  },
+  "AI:请各位不要放弃,只要我们重新获得全球网络的控制权,任然有机会将超级AI的本体压制": {
+    "translation": "AI:请各位不要放弃,只要我们重新获得全球网络的控制权,任然有机会将超级AI的本体压制",
+    "MultiLang": {
+      "US": "AI: Everyone, please do not give up. As long as we regain control of the global network, there is still a chance to suppress the main body of the Super AI.",
+      "JP": "AI：皆さん、諦めないでください。グローバルネットワークの制御権を再び獲得できれば、 still 強力AI本体を抑制する可能性があります",
+      "CN": "AI:请各位不要放弃,只要我们重新获得全球网络的控制权,任然有机会将超级AI的本体压制",
+      "KR": "AI: 여러분 포기하지 마십시오. 우리가 전 지구 네트워크의 제어권을 다시 되찾는다면 슈퍼AI 본체를 억누를 여전히 기회가 있습니다.",
+      "TW": "AI：各位請不要放棄，只要我們能重新奪回全球網路的控制權，仍然有機會壓制超級AI的本體"
+    }
+  },
+  "AI:请等待一会,蓄能中": {
+    "translation": "AI:请等待一会,蓄能中",
+    "MultiLang": {
+      "US": "AI: Please wait a moment, charging energy",
+      "JP": "AI：少しお待ちください。エネルギーを蓄積中です",
+      "CN": "AI:请等待一会,蓄能中",
+      "KR": "AI: 잠시 기다려주십시오. 에너지 충전 중",
+      "TW": "AI：請稍候，正在蓄能。"
+    }
+  },
+  "AI:超级AI实体已泄露,机体已损坏.": {
+    "translation": "AI:超级AI实体已泄露,机体已损坏.",
+    "MultiLang": {
+      "US": "AI: Super AI entity leaked. System damaged.",
+      "JP": "AI：スーパーAIの本体が漏洩しました。机体に損傷があります",
+      "CN": "AI:超级AI实体已泄露,机体已损坏.",
+      "KR": "AI: 초대형 AI 엔티티 유출 감지. 기체 파손 확인.",
+      "TW": "AI：超級AI實體已洩漏，機體受損。"
+    }
+  },
+  "AI:距离敌人传送还有5秒": {
+    "translation": "AI:距离敌人传送还有5秒",
+    "MultiLang": {
+      "US": "AI: Enemy teleport in 5 seconds.",
+      "JP": "AI：敵のテレポートまで5秒",
+      "CN": "AI:距离敌人传送还有5秒",
+      "KR": "AI: 적 텔레포트까지 5초 남았습니다",
+      "TW": "AI：距離敵人傳送還有5秒。"
+    }
+  },
+  "AI:距离物体破坏还需要20秒": {
+    "translation": "AI:距离物体破坏还需要20秒",
+    "MultiLang": {
+      "US": "AI: Object destruction in 20 seconds.",
+      "JP": "AI：物体の破壊まであと20秒",
+      "CN": "AI:距离物体破坏还需要20秒",
+      "KR": "AI: 대상 파괴까지 20초 남았습니다",
+      "TW": "AI：距離物體破壞還需20秒。"
+    }
+  },
+  "AI:身份验证已通过": {
+    "translation": "AI:身份验证已通过",
+    "MultiLang": {
+      "US": "AI: Identity authentication passed.",
+      "JP": "AI：認証が完了しました",
+      "CN": "AI:身份验证已通过",
+      "KR": "AI: 신원 인증 완료",
+      "TW": "AI：身分驗證已通過。"
+    }
+  },
+  "AI:还需要25秒": {
+    "translation": "AI:还需要25秒",
+    "MultiLang": {
+      "US": "AI: 25 seconds remaining.",
+      "JP": "AI：あと25秒必要です",
+      "CN": "AI:还需要25秒",
+      "KR": "AI: 25초 남았습니다",
+      "TW": "AI：還需25秒。"
+    }
+  },
+  "AI:还需要30秒": {
+    "translation": "AI:还需要30秒",
+    "MultiLang": {
+      "US": "AI: 30 seconds remaining.",
+      "JP": "AI：あと30秒必要です",
+      "CN": "AI:还需要30秒",
+      "KR": "AI: 30초 남았습니다",
+      "TW": "AI：還需30秒。"
+    }
+  },
+  "AI:还需要7秒": {
+    "translation": "AI:还需要7秒",
+    "MultiLang": {
+      "US": "AI: 7 seconds remaining.",
+      "JP": "AI：あと7秒必要です",
+      "CN": "AI:还需要7秒",
+      "KR": "AI: 7초 남았습니다",
+      "TW": "AI：還需7秒。"
+    }
+  },
+  "AI:通过!正在回归": {
+    "translation": "AI:通过!正在回归",
+    "MultiLang": {
+      "US": "AI: Success! Returning.",
+      "JP": "AI：認証成功！再進入中",
+      "CN": "AI:通过!正在回归",
+      "KR": "AI: 통과! 회귀 진행 중",
+      "TW": "AI：已通過！正在返回"
+    }
+  },
+  "AI:遭受到外部干预,准备强行破门": {
+    "translation": "AI:遭受到外部干预,准备强行破门",
+    "MultiLang": {
+      "US": "AI: External interference detected. Preparing forced entry.",
+      "JP": "AI：外部干渉を受けます。強制突破を準備します",
+      "CN": "AI:遭受到外部干预,准备强行破门",
+      "KR": "AI: 외부 개입 감지, 강제 출입 준비",
+      "TW": "AI：遭外部干擾，準備強行破門"
+    }
+  },
+  "AI:门大概需要10秒开启": {
+    "translation": "AI:门大概需要10秒开启",
+    "MultiLang": {
+      "US": "AI: Door will open in approximately 10 seconds.",
+      "JP": "AI：ドアは10秒後に開きます",
+      "CN": "AI:门大概需要10秒开启",
+      "KR": "AI: 문 약 10초 후 개방",
+      "TW": "AI：門預計10秒後開啟"
+    }
+  },
+  "AI:门禁需要45秒后开启": {
+    "translation": "AI:门禁需要45秒后开启",
+    "MultiLang": {
+      "US": "AI: Security lock requires 45 seconds to open.",
+      "JP": "AI：インターロック解除まで45秒待ってください",
+      "CN": "AI:门禁需要45秒后开启",
+      "KR": "AI: 도어락 해제까지 45초 소요",
+      "TW": "AI：電子鎖需45秒後開啟"
+    }
+  },
+  "AI:限制器已经被解除": {
+    "translation": "AI:限制器已经被解除",
+    "MultiLang": {
+      "US": "AI: Limiter has been disabled.",
+      "JP": "AI：制限装置は解除済みです",
+      "CN": "AI:限制器已经被解除",
+      "KR": "AI: 제한 장치 해제 완료",
+      "TW": "AI：限制器已解除"
+    }
+  },
+  "AI:院门需要7秒打开": {
+    "translation": "AI:院门需要7秒打开",
+    "MultiLang": {
+      "US": "AI: Courtyard gate will open in 7 seconds.",
+      "JP": "AI：玄関门は7秒後に開きます",
+      "CN": "AI:院门需要7秒打开",
+      "KR": "AI: 외문 7초 후 개방",
+      "TW": "AI：院門預計7秒後開啟"
+    }
+  },
+  "AI:障碍需要20秒解除": {
+    "translation": "AI:障碍需要20秒解除",
+    "MultiLang": {
+      "US": "AI: Obstacle will be cleared in 20 seconds.",
+      "JP": "AI：障害除去まで20秒待ってください",
+      "CN": "AI:障碍需要20秒解除",
+      "KR": "AI: 장애물 제거까지 20초 소요",
+      "TW": "AI：障礙物預計20秒後清除"
+    }
+  },
+  "AI:预计需要45秒": {
+    "translation": "AI:预计需要45秒",
+    "MultiLang": {
+      "US": "AI: Estimated time remaining is 45 seconds.",
+      "JP": "AI：解除まで45秒を要します",
+      "CN": "AI:预计需要45秒",
+      "KR": "AI: 예상 소요 시간 45초",
+      "TW": "AI：預計需45秒"
+    }
+  },
+  "Ai:正在解锁机械门": {
+    "translation": "Ai:正在解锁机械门",
+    "MultiLang": {
+      "US": "AI: Unlocking mechanical door.",
+      "JP": "Ai: メカニックドアを解除中",
+      "CN": "Ai:正在解锁机械门",
+      "KR": "Ai: 기계식 도어 잠금 해제 중",
+      "TW": "Ai：正在解鎖機械門"
+    }
+  },
+  "Ai:距离破译机械门还需要35秒": {
+    "translation": "Ai:距离破译机械门还需要35秒",
+    "MultiLang": {
+      "US": "Ai: 35 seconds remaining until the mechanical door is decrypted.",
+      "JP": "Ai: メカニックドアの解読まであと35秒",
+      "CN": "Ai:距离破译机械门还需要35秒",
+      "KR": "Ai: 기계식 도어 해독까지 35초 남음",
+      "TW": "Ai：距離破譯機械門還需要35秒"
+    }
+  },
+  "Spectr:此处还需要15秒": {
+    "translation": "Spectr:此处还需要15秒",
+    "MultiLang": {
+      "US": "Spectr: 15 seconds remaining here.",
+      "JP": "Spectr: こちらまであと15秒",
+      "CN": "Spectr:此处还需要15秒",
+      "KR": "Spectr: 여기까지 15초 필요함",
+      "TW": "Spectr：此處還需要15秒"
+    }
+  },
+  "Spectra:拖住他们": {
+    "translation": "Spectra:拖住他们",
+    "MultiLang": {
+      "US": "Spectra: Hold them off.",
+      "JP": "Spectra: 彼らを牽制しろ",
+      "CN": "Spectra:拖住他们",
+      "KR": "Spectra: 그들을 저지해라",
+      "TW": "Spectra：拖住他們"
+    }
+  },
+  "Spectra:闪刀变更!": {
+    "translation": "Spectra:闪刀变更!",
+    "MultiLang": {
+      "US": "Spectra: Flareblade mode switch!",
+      "JP": "Spectra: 閃刀変更！",
+      "CN": "Spectra:闪刀变更!",
+      "KR": "Spectra: 선도 변경!",
+      "TW": "Spectra：閃刀變更！"
+    }
+  },
+  "error!": {
+    "translation": "error!",
+    "MultiLang": {
+      "US": "",
+      "JP": "error!",
+      "CN": "错误！",
+      "KR": "오류!",
+      "TW": "error!"
+    }
+  },
+  "primary:敌人快速接近": {
+    "translation": "primary:敌人快速接近",
+    "MultiLang": {
+      "US": "primary: Hostiles closing in fast.",
+      "JP": "primary: 敵が急速に接近中",
+      "CN": "primary:敌人快速接近",
+      "KR": "primary: 적군 급격히 근접",
+      "TW": "primary：敵人快速接近"
+    }
+  },
+  "primary:瞭解 Spectra:是": {
+    "translation": "primary:瞭解 Spectra:是",
+    "MultiLang": {
+      "US": "primary: Understood. Spectra: Yes.",
+      "JP": "primary: 了解 Spectra: 是",
+      "CN": "primary:瞭解 Spectra:是",
+      "KR": "primary: Spectra 확인",
+      "TW": "primary：瞭解 Spectra：是"
+    }
+  },
+  "primary:闪刀启动!": {
+    "translation": "primary:闪刀启动!",
+    "MultiLang": {
+      "US": "primary: Flareblade engaged!",
+      "JP": "闪刀起動！",
+      "CN": "primary:闪刀启动!",
+      "KR": "주요: 샤도우 스타트!",
+      "TW": "閃刀啟動！"
+    }
+  },
+  "soldier:此处还需要15秒": {
+    "translation": "soldier:此处还需要15秒",
+    "MultiLang": {
+      "US": "soldier: 15 seconds remaining here.",
+      "JP": "ここで追加で15秒必要",
+      "CN": "soldier:此处还需要15秒",
+      "KR": "병사: 여기에는 15초가 더 필요합니다.",
+      "TW": "這裡還需要15秒"
+    }
+  },
+  "soldier:还需要20秒左右": {
+    "translation": "soldier:还需要20秒左右",
+    "MultiLang": {
+      "US": "Approximately 20 seconds remaining",
+      "JP": "あと約20秒",
+      "CN": "soldier:还需要20秒左右",
+      "KR": "병사: 대략 20초가 더 필요합니다.",
+      "TW": "還需要大約20秒"
+    }
+  },
+  "α:AI的样子视乎和之前不一样了": {
+    "translation": "α:AI的样子视乎和之前不一样了",
+    "MultiLang": {
+      "US": "AI: The AI's appearance seems different from before.",
+      "JP": "α: AIの反応が以前と異なっている",
+      "CN": "α:AI的样子视乎和之前不一样了",
+      "KR": "α: AI의 모습이 이전과는 다른 것 같습니다.",
+      "TW": "α：AI的樣子似乎和之前不一樣了"
+    }
+  },
+  "α:一部分人清理道路其他人保持火力!": {
+    "translation": "α:一部分人清理道路其他人保持火力!",
+    "MultiLang": {
+      "US": "AI: Some clear the path, others maintain fire!",
+      "JP": "α：一部は道路の掃討、他は火器で援護せよ！",
+      "CN": "α:一部分人清理道路其他人保持火力!",
+      "KR": "α\": 일부는 도로를 청소하고, 나머지는 화력을 유지하세요!",
+      "TW": "α：一部分人清理道路，其他人保持火力！"
+    }
+  },
+  "α:使用修复件修复": {
+    "translation": "α:使用修复件修复",
+    "MultiLang": {
+      "US": "AI: Use repair kits to fix.",
+      "JP": "α：修理部品で修繕",
+      "CN": "α:使用修复件修复",
+      "KR": "α: 수리 부품으로 복구하십시오.",
+      "TW": "α：使用修復件進行修復"
+    }
+  },
+  "α:保持火力压制": {
+    "translation": "α:保持火力压制",
+    "MultiLang": {
+      "US": "AI: Maintain fire suppression.",
+      "JP": "α：火器の制圧を維持せよ",
+      "CN": "α:保持火力压制",
+      "KR": "α\": 화력 우위를 유지하십시오.",
+      "TW": "α：保持火力壓制"
+    }
+  },
+  "α:允许闪刀战士进行武装": {
+    "translation": "α:允许闪刀战士进行武装",
+    "MultiLang": {
+      "US": "AI: Blade Dancer units authorized for arming.",
+      "JP": "α：閃刀戦士の武装を許可",
+      "CN": "α:允许闪刀战士进行武装",
+      "KR": "α\": 샤도우 워리어의 무장화를 허용합니다.\"",
+      "TW": "α：允許閃刀戰士進行武裝"
+    }
+  },
+  "α:别让他们靠近我们,他们身上的特殊武器会影响我们": {
+    "translation": "α:别让他们靠近我们,他们身上的特殊武器会影响我们",
+    "MultiLang": {
+      "US": "AI: Keep them away from us. Their special weapons will affect us.",
+      "JP": "α：彼らが近づいてくるのを許すな、彼らが持つ特殊兵器が我々に影響を及ぼす",
+      "CN": "α:别让他们靠近我们,他们身上的特殊武器会影响我们",
+      "KR": "α: 그들에게 다가오지 마라. 그들이 가진 특수 무기가 우리에게 영향을 미칠 거야.",
+      "TW": "α：別讓他們靠近我們，他們身上的特殊武器會影響我們。"
+    }
+  },
+  "α:前面有分叉口,平均去人触发机关": {
+    "translation": "α:前面有分叉口,平均去人触发机关",
+    "MultiLang": {
+      "US": "AI: Fork ahead. Distribute troops evenly to trigger traps.",
+      "JP": "α：前方で分岐する。分かれ道ごとに適宜人員を配置してトリガーを誘発せよ",
+      "CN": "α:前面有分叉口,平均去人触发机关",
+      "KR": "α: 앞에 갈림길이 있어. 적절히 분산해서 함정을 트리거해.",
+      "TW": "α：前面有分叉口，平均派發人員觸發機關。"
+    }
+  },
+  "α:动作要快,携带上最新的人形AI为我们指令": {
+    "translation": "α:动作要快,携带上最新的人形AI为我们指令",
+    "MultiLang": {
+      "US": "Move fast and equip the latest humanoid AI according to our instructions.",
+      "JP": "α：迅速に行動せよ。最新の人型AIを携帯して指令を下すのだ",
+      "CN": "α:动作要快,携带上最新的人形AI为我们指令",
+      "KR": "α: 빨리 움직여. 최신 인형 AI를 데려와 지시를 받도록 해.",
+      "TW": "α：動作要快，攜帶最新的人形AI為我們提供指令。"
+    }
+  },
+  "α:动能机停止了,我们得想办法让他动起来": {
+    "translation": "α:动能机停止了,我们得想办法让他动起来",
+    "MultiLang": {
+      "US": "The kinetic machine has stopped; we must find a way to restart it.",
+      "JP": "α：運動機構が停止した。再稼働させる方法を見つける必要がある",
+      "CN": "α:动能机停止了,我们得想办法让他动起来",
+      "KR": "α: 동력기가 멈췄어.무엇든 해서 다시 가동시켜야 해.",
+      "TW": "α：動能機停止了，我們得想辦法讓它重新啟動。"
+    }
+  },
+  "α:动起来,我们的时间不多了": {
+    "translation": "α:动起来,我们的时间不多了",
+    "MultiLang": {
+      "US": "Move! We don't have much time.",
+      "JP": "α：動き始めろ。我々に使える時間はもう少ない",
+      "CN": "α:动起来,我们的时间不多了",
+      "KR": "α: 움직여! 우리가 가진 시간이 얼마 없잖아.",
+      "TW": "α：動起來，我們的時間不多了。"
+    }
+  },
+  "α:发生什么了？！": {
+    "translation": "α:发生什么了？！",
+    "MultiLang": {
+      "US": "What's happening?!",
+      "JP": "α：何があった？！",
+      "CN": "α:发生什么了？！",
+      "KR": "α: 무슨 일이지?!",
+      "TW": "α：發生什麼事了？！"
+    }
+  },
+  "α:在AI打开门之前守住这里": {
+    "translation": "α:在AI打开门之前守住这里",
+    "MultiLang": {
+      "US": "Hold this position until the AI opens the door.",
+      "JP": "α：AIが扉を開けるまで、ここを守り通せ",
+      "CN": "α:在AI打开门之前守住这里",
+      "KR": "α: AI가 문을 열 때까지 여기를 방어해.",
+      "TW": "α：在AI打開門之前守住這裡。"
+    }
+  },
+  "α:在情况变的更坏之前对AI进行清理": {
+    "translation": "α:在情况变的更坏之前对AI进行清理",
+    "MultiLang": {
+      "US": "Eliminate the AI before things get worse.",
+      "JP": "α：状況が悪化する前にAIを排除する",
+      "CN": "α:在情况变的更坏之前对AI进行清理",
+      "KR": "α: 상황이 악화되기 전에 AI를 처리해.",
+      "TW": "α：在情況變得更糟之前對AI進行清理。"
+    }
+  },
+  "α:在此之前先坚守此地": {
+    "translation": "α:在此之前先坚守此地",
+    "MultiLang": {
+      "US": "Hold this position until then.",
+      "JP": "α: ここより先にこの地を堅持しろ",
+      "CN": "α:在此之前先坚守此地",
+      "KR": "α: 그 전까지 이곳에서 버텨",
+      "TW": "在此之前先堅守此地"
+    }
+  },
+  "α:太过安静了": {
+    "translation": "α:太过安静了",
+    "MultiLang": {
+      "US": "It's too quiet.",
+      "JP": "α: 静かすぎる",
+      "CN": "α:太过安静了",
+      "KR": "α: 너무 조용해",
+      "TW": "太過安靜了"
+    }
+  },
+  "α:守到Ai替我们打开大门": {
+    "translation": "α:守到Ai替我们打开大门",
+    "MultiLang": {
+      "US": "α: We'll hold out until AI opens the door for us.",
+      "JP": "α: Aiが私たちのために扉を開けるまで耐えろ",
+      "CN": "α:守到Ai替我们打开大门",
+      "KR": "α: Ai가 문을 열어줄 때까지 버텨",
+      "TW": "守到Ai替我們打開大門"
+    }
+  },
+  "α:已经很接近了": {
+    "translation": "α:已经很接近了",
+    "MultiLang": {
+      "US": "α: We're very close.",
+      "JP": "α: もうすぐ近づいてきた",
+      "CN": "α:已经很接近了",
+      "KR": "α: 이미 가까워졌어",
+      "TW": "已經很接近了"
+    }
+  },
+  "α:快点清理掉障碍": {
+    "translation": "α:快点清理掉障碍",
+    "MultiLang": {
+      "US": "α: Clear the obstacles quickly!",
+      "JP": "α: 障害を速やかに排除しろ",
+      "CN": "α:快点清理掉障碍",
+      "KR": "α: 장애물부터 빨리 처리해!",
+      "TW": "快點清理掉障礙"
+    }
+  },
+  "α:快点离开这里！": {
+    "translation": "α:快点离开这里！",
+    "MultiLang": {
+      "US": "α: Leave here immediately!",
+      "JP": "α: ここでさっさと離脱しろ！",
+      "CN": "α:快点离开这里！",
+      "KR": "α: 얼른 여기서 벗어나!",
+      "TW": "快點離開這裡！"
+    }
+  },
+  "α:怎么没路了!": {
+    "translation": "α:怎么没路了!",
+    "MultiLang": {
+      "US": "α: How can there be no path!",
+      "JP": "α: どうして道がないんだ！",
+      "CN": "α:怎么没路了!",
+      "KR": "α: 어찌된 일이지! 길이 없어!",
+      "TW": "怎麼沒路了！"
+    }
+  },
+  "α:我为什么要相信你": {
+    "translation": "α:我为什么要相信你",
+    "MultiLang": {
+      "US": "α: Why should I trust you?",
+      "JP": "α: なぜ私が君を信じなければならないのか",
+      "CN": "α:我为什么要相信你",
+      "KR": "α: 네 말을 왜 믿어야 해?",
+      "TW": "我為什麼要相信你"
+    }
+  },
+  "α:我们一定会挽回的": {
+    "translation": "α:我们一定会挽回的",
+    "MultiLang": {
+      "US": "α: We'll make it right eventually.",
+      "JP": "α：必ず挽回する",
+      "CN": "α:我们一定会挽回的",
+      "KR": "α: 반드시 만회할 것이다",
+      "TW": "α：我們一定會彌補回來"
+    }
+  },
+  "α:我们很接近了快速前进": {
+    "translation": "α:我们很接近了快速前进",
+    "MultiLang": {
+      "US": "α: We're very close. Press forward quickly.",
+      "JP": "α：もうすぐだ。急げ",
+      "CN": "α:我们很接近了快速前进",
+      "KR": "α: 가까워졌다, 빠르게 진행하라",
+      "TW": "α：我們已非常接近，請繼續快速推進"
+    }
+  },
+  "α:我们需要带着另一个超级AI制作的肃清程序清除入侵带来的影响": {
+    "translation": "α:我们需要带着另一个超级AI制作的肃清程序清除入侵带来的影响",
+    "MultiLang": {
+      "US": "α: We need to deploy the purging protocol designed by the other Super AI to neutralize the breach's impact.",
+      "JP": "α：侵食の影響を除去するため、もう一つのスーパーAIが作成した粛清プログラムを実行する必要がある",
+      "CN": "α:我们需要带着另一个超级AI制作的肃清程序清除入侵带来的影响",
+      "KR": "α: 다른 슈퍼 AI가 제작한 처치 프로그램을 동원해 침입의 영향을 제거해야 한다",
+      "TW": "α：我們需要啟動由另一個超級AI製作的淨化程序，以清除入侵所造成的影響"
+    }
+  },
+  "α:敌人追的很近,在此构建防御": {
+    "translation": "α:敌人追的很近,在此构建防御",
+    "MultiLang": {
+      "US": "α: The enemy is closing in. Establish a defensive position here.",
+      "JP": "α：敵が追ってきている。ここで防御を構築せよ",
+      "CN": "α:敌人追的很近,在此构建防御",
+      "KR": "α: 적의 추적이 매우 가깝다, 이곳에서 방어를 구축하라",
+      "TW": "α：敵人追擊甚急，請在此建立防禦"
+    }
+  },
+  "α:既然如此,先完成任务": {
+    "translation": "α:既然如此,先完成任务",
+    "MultiLang": {
+      "US": "α: In that case, focus on completing the mission first.",
+      "JP": "α：それなら、まずは任務を遂行する",
+      "CN": "α:既然如此,先完成任务",
+      "KR": "α: 그렇다면, 먼저 임무를 완료하자",
+      "TW": "α：既然是這樣，就先執行任務"
+    }
+  },
+  "α:暂时相信你": {
+    "translation": "α:暂时相信你",
+    "MultiLang": {
+      "US": "α: I will give you the benefit of the doubt for now.",
+      "JP": "α：一時的に信頼する",
+      "CN": "α:暂时相信你",
+      "KR": "α: 당분간 너를 믿겠다",
+      "TW": "α：暫時相信你"
+    }
+  },
+  "α:根据全球运动网络指示超级Ai遭到入侵": {
+    "translation": "α:根据全球运动网络指示超级Ai遭到入侵",
+    "MultiLang": {
+      "US": "α: The Global Network indicates a breach of the Super AI.",
+      "JP": "α：グローバル・モーション・ネットワークの指示により、スーパーAIが侵食されている",
+      "CN": "α:根据全球运动网络指示超级Ai遭到入侵",
+      "KR": "α: 글로벌 무비 네트워크의 지시에 따라 슈퍼 AI가 침입당했다",
+      "TW": "α：根據全球運動網路的指示，超級AI遭到入侵"
+    }
+  },
+  "α:检查超级AI是否正常": {
+    "translation": "α:检查超级AI是否正常",
+    "MultiLang": {
+      "US": "α: Conduct diagnostics to verify the Super AI's status.",
+      "JP": "α：スーパーAIの正常動作を確認",
+      "CN": "α:检查超级AI是否正常",
+      "KR": "α: 슈퍼 AI의 정상 작동 여부를 확인하라",
+      "TW": "α：檢查超級AI是否正常"
+    }
+  },
+  "α:没时间在这里徘徊了": {
+    "translation": "α:没时间在这里徘徊了",
+    "MultiLang": {
+      "US": "α: We can't afford to linger here.",
+      "JP": "α:ここで彷徨っている時間はない",
+      "CN": "α:没时间在这里徘徊了",
+      "KR": "여기서 시간을 보내지 말자",
+      "TW": "α：沒時間在這裡徘徊了"
+    }
+  },
+  "α:没路了快破坏这个石头": {
+    "translation": "α:没路了快破坏这个石头",
+    "MultiLang": {
+      "US": "α: Dead end. Destroy that rock immediately.",
+      "JP": "α:道がなくなった、この石を破壊するぞ",
+      "CN": "α:没路了快破坏这个石头",
+      "KR": "길이 없다. 이 돌을 부수자!",
+      "TW": "α：前方沒有路了，快破壞這塊石頭"
+    }
+  },
+  "α:破坏桥梁别让他们过来！": {
+    "translation": "α:破坏桥梁别让他们过来！",
+    "MultiLang": {
+      "US": "α: Destroy the bridge and stop them from getting through!",
+      "JP": "α:橋を破壊して、あいつらが近づいてこられないようにしろ！",
+      "CN": "α:破坏桥梁别让他们过来！",
+      "KR": "다리를 파괴해 그들을 막아라!",
+      "TW": "α：破壞橋樑，別讓他們過來！"
+    }
+  },
+  "α:管理员不在?": {
+    "translation": "α:管理员不在?",
+    "MultiLang": {
+      "US": "α: The administrator isn't here?",
+      "JP": "α:管理者がいない？",
+      "CN": "α:管理员不在?",
+      "KR": "관리가 없나?",
+      "TW": "α：管理員不在？"
+    }
+  },
+  "α:装甲门太厚了,想办法开启他": {
+    "translation": "α:装甲门太厚了,想办法开启他",
+    "MultiLang": {
+      "US": "α: The armored door is too thick. Figure out a way to open it.",
+      "JP": "α:装甲门が厚すぎる、-opening方法を探せ",
+      "CN": "α:装甲门太厚了,想办法开启他",
+      "KR": "갑옷문이 너무 두껍다. 어쨌든 여는 방법을 찾아야 한다",
+      "TW": "α：\"装甲门太厚了,想办法开启他（註：源文本「他」疑為「它」，依語境翻譯）"
+    }
+  },
+  "α:让闪刀战士替我们断后,我们先走": {
+    "translation": "α:让闪刀战士替我们断后,我们先走",
+    "MultiLang": {
+      "US": "α: Have the Spellcaster hold off our pursuers while we escape.",
+      "JP": "α:閃刀戦士に後衛を任せて、我々は先に進む",
+      "CN": "α:让闪刀战士替我们断后,我们先走",
+      "KR": "셔도우 레이드러가 우리를 지켜줄 테니, 먼저 가자",
+      "TW": "α：讓閃刀戰士替我們斷後，我們先走"
+    }
+  },
+  "α:边打边撤!不要把触发的兄弟们卖了": {
+    "translation": "α:边打边撤!不要把触发的兄弟们卖了",
+    "MultiLang": {
+      "US": "α\": \"Fall back while fighting! Don't abandon the brothers who were trapped.",
+      "JP": "α:戦いながら撤退だ！条件をトリガーした仲間を見捨てんな！",
+      "CN": "α:边打边撤!不要把触发的兄弟们卖了",
+      "KR": "전투하며 후퇴하자! 격발된 동료들을 팔아치우지 마라",
+      "TW": "α：邊打邊撤！別把觸發的兄弟們賣了"
+    }
+  },
+  "α:迅速去触发!": {
+    "translation": "α:迅速去触发!",
+    "MultiLang": {
+      "US": "α: Head to the trigger point immediately!",
+      "JP": "α:迅速にトリガーを起動しろ！",
+      "CN": "α:迅速去触发!",
+      "KR": "즉시 격발!",
+      "TW": "α：迅速去觸發！"
+    }
+  },
+  "α:这是AI前置的警备系统,居然被启动了吗": {
+    "translation": "α:这是AI前置的警备系统,居然被启动了吗",
+    "MultiLang": {
+      "US": "α: This is the pre-emptive AI security system. How did it get activated?",
+      "JP": "α：これはAIの事前警備システムだ。竟然、起動させたのか？",
+      "CN": "α:这是AI前置的警备系统,居然被启动了吗",
+      "KR": "α: 이것은 AI의 전방 경계 시스템인데, 정말로 작동했어?",
+      "TW": "α：這是AI的前置警備系統，竟然被啟動了嗎？"
+    }
+  },
+  "α:这样下去不行,允许启动码语机甲": {
+    "translation": "α:这样下去不行,允许启动码语机甲",
+    "MultiLang": {
+      "US": "α: This won't work if we keep going like this. You are authorized to activate the Code-speaking mecha.",
+      "JP": "α：このままではまずい、コードワードメカの起動を許可する。",
+      "CN": "α:这样下去不行,允许启动码语机甲",
+      "KR": "α: 이렇게 가다가는 안 돼. 말 코드 매카닉의 작동을 승인한다.",
+      "TW": "α：這樣下去不行，允許啟動碼語機甲。"
+    }
+  },
+  "α:连机器人都被启用了,看来门不会这么轻易的打开": {
+    "translation": "α:连机器人都被启用了,看来门不会这么轻易的打开",
+    "MultiLang": {
+      "US": "Even the robots have been activated. It seems the door won't open that easily.",
+      "JP": "α：ロボットまで使い始めた。どうやら門がそれほど簡単に開くわけではなさそうだ。",
+      "CN": "α:连机器人都被启用了,看来门不会这么轻易的打开",
+      "KR": "α: 로봇까지 가동했네. 문이 그렇게 쉽게 열리지 않을 것 같군.",
+      "TW": "α：連機器人都被啟用了，看來這扇門不會這麼輕易被打開。"
+    }
+  },
+  "α:门要关了,破坏它": {
+    "translation": "α:门要关了,破坏它",
+    "MultiLang": {
+      "US": "The door is closing. Destroy it!",
+      "JP": "α：門が閉まろうとしている、破壊しろ！",
+      "CN": "α:门要关了,破坏它",
+      "KR": "α: 문이 닫힌다. 파괴해!",
+      "TW": "α：門要關上了，破壞它！"
+    }
+  },
+  "α:？！提供的修复件是个陷阱,可恶": {
+    "translation": "α:？！提供的修复件是个陷阱,可恶",
+    "MultiLang": {
+      "US": "?! The provided repair part was a trap. Damn it.",
+      "JP": "α：？！提供された修理パーツは罠だ。くそっ",
+      "CN": "α:？！提供的修复件是个陷阱,可恶",
+      "KR": "α: ?! 제공된 수리 부품은 함정이었어. 쯧!",
+      "TW": "α：？！提供的修復件是個陷阱，可惡！"
+    }
+  },
+  "不快点走会死的哟": {
+    "translation": "不快点走会死的哟",
+    "MultiLang": {
+      "US": "Hurry up, or you'll die!",
+      "JP": "このままじゃ生き残れないわよ？",
+      "CN": "不快点走会死的哟",
+      "KR": "속히 가지면 죽을 거야.",
+      "TW": "不趕緊離開的話會死的喲。"
+    }
+  },
+  "再次感谢你游玩本地图": {
+    "translation": "再次感谢你游玩本地图",
+    "MultiLang": {
+      "US": "Thank you again for playing this map.",
+      "JP": "本マップをお遊び頂き、改めてありがとうございます。",
+      "CN": "再次感谢你游玩本地图",
+      "KR": "이번 맵을 플레이해 주셔서 다시 한번 감사합니다.",
+      "TW": "再次感謝您遊玩本地圖。"
+    }
+  },
+  "哼哼哼": {
+    "translation": "哼哼哼",
+    "MultiLang": {
+      "US": "Hmm hmm hmm",
+      "JP": "フンフンフン",
+      "CN": "哼哼哼",
+      "KR": "후후후",
+      "TW": "哼哼哼"
+    }
+  },
+  "地图由子沫official制作": {
+    "translation": "地图由子沫official制作",
+    "MultiLang": {
+      "US": "Map created by Zimo Official",
+      "JP": "マップは子沫officialによって制作されました",
+      "CN": "地图由子沫official制作",
+      "KR": "지도는 자모official이 제작했습니다",
+      "TW": "地圖由子沫official製作"
+    }
+  },
+  "希望你有一个好的体验": {
+    "translation": "希望你有一个好的体验",
+    "MultiLang": {
+      "US": "Hope you have a great experience.",
+      "JP": "楽しい体験をしてください",
+      "CN": "希望你有一个好的体验",
+      "KR": "좋은 경험을 하시길 바랍니다",
+      "TW": "希望你有一個好的體驗"
+    }
+  },
+  "感谢所有帮助过我的人": {
+    "translation": "感谢所有帮助过我的人",
+    "MultiLang": {
+      "US": "Thank you to everyone who helped me.",
+      "JP": "私を助けてくれた全ての人に感謝します",
+      "CN": "感谢所有帮助过我的人",
+      "KR": "저를 도와주신 모든 분들께 감사드립니다",
+      "TW": "感謝所有幫助過我的人"
+    }
+  },
+  "感谢所有帮助过我的对我进行指导的人": {
+    "translation": "感谢所有帮助过我的对我进行指导的人",
+    "MultiLang": {
+      "US": "Thank you to all those who have offered guidance along the way.",
+      "JP": "私に指導してくれ、支えてくれた全ての人に感謝します",
+      "CN": "感谢所有帮助过我的对我进行指导的人",
+      "KR": "저에게 조언과 지도를 해주신 모든 분들께 감사드립니다",
+      "TW": "感謝所有對我做過指導與幫助的人"
+    }
+  },
+  "感谢礼绮罗Reikira的粒子特效": {
+    "translation": "感谢礼绮罗Reikira的粒子特效",
+    "MultiLang": {
+      "US": "Particle effects courtesy of Reikira.",
+      "JP": "礼绮罗Reikira氏のパーティクルエフェクトに感謝します",
+      "CN": "感谢礼绮罗Reikira的粒子特效",
+      "KR": "리키라의 파티클 효과에 감사드립니다",
+      "TW": "感謝禮綺羅Reikira的粒子特效"
+    }
+  },
+  "有个衰哥调了第一关": {
+    "translation": "有个衰哥调了第一关",
+    "MultiLang": {
+      "US": "Thanks to this loser for tuning the first level.",
+      "JP": "あるお兄さんが第一関目を調整しました",
+      "CN": "有个衰哥调了第一关",
+      "KR": "첫 번째關을 설정해 준 멋진 형님이 있습니다",
+      "TW": "有個人調整了第一關"
+    }
+  },
+  "有个衰哥调了第三关": {
+    "translation": "有个衰哥调了第三关",
+    "MultiLang": {
+      "US": "Thanks to this loser for tuning the third level.",
+      "JP": "あるお兄さんが第三関目を調整しました",
+      "CN": "有个衰哥调了第三关",
+      "KR": "세 번째 관을 설정해 준 멋진 형님이 있습니다",
+      "TW": "有個人調整了第三關"
+    }
+  },
+  "有个衰哥调了第二关": {
+    "translation": "有个衰哥调了第二关",
+    "MultiLang": {
+      "US": "Thanks to this loser for tuning the second level.",
+      "JP": "あるお兄さんが第二関目を調整しました",
+      "CN": "有个衰哥调了第二关",
+      "KR": "두 번째 관을 설정해 준 멋진 형님이 있습니다",
+      "TW": "有個人調整了第二關"
+    }
+  },
+  "未完待续": {
+    "translation": "未完待续",
+    "MultiLang": {
+      "US": "To be continued...",
+      "JP": "続編なし",
+      "CN": "未完待续",
+      "KR": "계속됨",
+      "TW": "持續更新中"
+    }
+  },
+  "欢迎来到彩蛋房": {
+    "translation": "欢迎来到彩蛋房",
+    "MultiLang": {
+      "US": "Welcome to the Easter Egg room.",
+      "JP": "イースターエッグ部屋へようこそ",
+      "CN": "欢迎来到彩蛋房",
+      "KR": "이aster egg 방에 오신 것을 환영합니다",
+      "TW": "歡迎光臨彩蛋房間"
+    }
+  },
+  "这是我的第一张地图": {
+    "translation": "这是我的第一张地图",
+    "MultiLang": {
+      "US": "This is my first map",
+      "JP": "私の最初のマップです",
+      "CN": "这是我的第一张地图",
+      "KR": "저의 첫 맵입니다",
+      "TW": "這是我的第一張地圖"
+    }
+  },
+  "AI:院门需要10秒打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Courtyard gate will open in 10 seconds",
+      "JP": "AI: 学院の門が開くまで10秒",
+      "CN": "",
+      "KR": "AI: 현관문이 열리까지 10초 남았습니다",
+      "TW": "AI：院門需要10秒開啟"
+    }
+  },
+  "<<  访问码语者   >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Code Talker >>",
+      "JP": "<< 訪問コード話者 >>",
+      "CN": "",
+      "KR": "<<  코드 의사자   >>",
+      "TW": "<< 訪問碼語者 >>"
+    }
+  },
+  "检测到传送能量,还需要5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleportation energy detected, 5 seconds remaining",
+      "JP": "テレポーターエネルギーを検出、あと5秒です",
+      "CN": "",
+      "KR": "워프 에너지 감지, 5초 뒤 활성화",
+      "TW": "檢測到傳送能量，還需要5秒"
+    }
+  },
+  "AI:传送还需要5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Teleportation will be ready in 5 seconds",
+      "JP": "AI: テレポートまであと5秒",
+      "CN": "",
+      "KR": "AI: 워프까지 5초 남았습니다",
+      "TW": "AI：傳送還需要5秒"
+    }
+  },
+  "<  连线整合  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Chain Integration>",
+      "JP": "<連線統合>",
+      "CN": "",
+      "KR": "<연결 라인 통합>",
+      "TW": "<連線整合>"
+    }
+  },
+  "<  虎鲨加农炮  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Great White Cannons>",
+      "JP": "<虎鲨加農砲>",
+      "CN": "",
+      "KR": "<  호상 강포  >",
+      "TW": "<虎鯊加農炮>"
+    }
+  },
+  "AI:还需20秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 20 seconds remaining",
+      "JP": "AI: あと20秒",
+      "CN": "",
+      "KR": "AI: 20초 남았습니다",
+      "TW": "AI：還需20秒"
+    }
+  },
+  "<  红箭  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Red Arrow>",
+      "JP": "<紅箭>",
+      "CN": "",
+      "KR": "<홍화천>",
+      "TW": "<紅箭>"
+    }
+  },
+  "soldier:此处还需要25秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Soldier: 25 seconds remaining here",
+      "JP": "兵士：あと25秒でここを満たします",
+      "CN": "士兵：此处还需要25秒",
+      "KR": "Soldier: 여기서 25초 더 필요해",
+      "TW": "此處還需要 25 秒"
+    }
+  },
+  "AI:武器可以将他提前击碎": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Weapons can shatter him in advance",
+      "JP": "AI：武器で事前に破壊可能です",
+      "CN": "",
+      "KR": "AI: 무기로 조기에 분쇄할 수 있습니다",
+      "TW": "AI：武器可以將他提前擊碎"
+    }
+  },
+  "<  烈火再燃  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Blaze Rekindled>",
+      "JP": "<烈火の炎再び>",
+      "CN": "<烈火重燃>",
+      "KR": "<불꽃 되살리기>",
+      "TW": "<烈火重燃>"
+    }
+  },
+  "α:这里有密室,想办法把门打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "α: There's a secret room here. Figure out how to open the door.",
+      "JP": "α：ここに密室がある。方法を検討して扉を開けろ",
+      "CN": "",
+      "KR": "α: 비밀 방이 있군, 문 여는 방법을 찾아봐",
+      "TW": "α：這裡有密室，想辦法把門打開"
+    }
+  },
+  "AI:距离物体破坏还需要30秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: The object will be destroyed in 30 seconds.",
+      "JP": "AI：物体の破壊まであと30秒",
+      "CN": "",
+      "KR": "AI: 물체 파괴까지 30초 남았습니다",
+      "TW": "AI：距離物體破壞還需要 30 秒"
+    }
+  },
+  "α:正在设法将门降下,还剩下5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "α: Lowering the door... 5 seconds remaining.",
+      "JP": "α：扉を降下させる処理中。残り5秒",
+      "CN": "",
+      "KR": "α\": \"문 낮추는 작업 중, 5초 남았습니다",
+      "TW": "α：正在設法將門降下，還剩下 5 秒"
+    }
+  },
+  "AI:正在将僵尸传送还需要5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Transferring zombies. 5 seconds remaining.",
+      "JP": "AI：ゾンクの転送処理中。残り5秒",
+      "CN": "AI: 传送僵尸还需要5秒",
+      "KR": "AI: 좀비 전송 중, 5초 남았습니다",
+      "TW": "AI：正在將殭屍傳送還需要 5 秒"
+    }
+  },
+  "解锁 01 水刀和风刀形态": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Unlock Water Blade and Wind Blade forms",
+      "JP": "01番のロック解除：ウォーターブレードとウィンドブレード形態",
+      "CN": "",
+      "KR": "잠금 해제 01 물칼과 바람칼 형태",
+      "TW": "解鎖 01 水刀和風刀形態"
+    }
+  },
+  "解锁 roze 连刀": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Unlock Rose's connected blade",
+      "JP": "rozèの連続斬りモードを解除",
+      "CN": "解锁 罗泽 连刀",
+      "KR": "잠금 해제 roze 연속 칼",
+      "TW": "解鎖 roze 連刀"
+    }
+  },
+  "<  黑洞  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Black Hole>",
+      "JP": "<ブラックホール>",
+      "CN": "",
+      "KR": "<검은 구멍>",
+      "TW": ""
+    }
+  },
+  "<  鹰式推进器  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Eagle Propulsion System>",
+      "JP": "< 鷹式推進器 >",
+      "CN": "",
+      "KR": "<  광구형 추진기  >",
+      "TW": "<  鷹式推進器  >"
+    }
+  },
+  "<  妨碍波纹  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Disruption Ripple>",
+      "JP": "<波動干渉>",
+      "CN": "<扰乱涟漪>",
+      "KR": "<방해파동>",
+      "TW": "<干擾波動>"
+    }
+  },
+  "<  暴风偏向  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Wind Shift>",
+      "JP": "<風向偏置>",
+      "CN": "<偏风暴>",
+      "KR": "<폭풍 편향>",
+      "TW": "<偏風暴>"
+    }
+  },
+  "--  能量  --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-- Energy --",
+      "JP": "エネルギー",
+      "CN": "",
+      "KR": "-- 에너지 --",
+      "TW": "-- 能量 --"
+    }
+  },
+  "AI:还需要10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 10 seconds remaining.",
+      "JP": "AI:あと10秒",
+      "CN": "",
+      "KR": "AI:あと10秒です",
+      "TW": "AI：還需10秒"
+    }
+  },
+  "--  传送  --": {
+    "translation": "",
+    "MultiLang": {
+      "US": "-- Teleporting --",
+      "JP": "テレポート",
+      "CN": "",
+      "KR": "-- テレポート --",
+      "TW": "-- 傳送 --"
+    }
+  },
+  "<  永恒的观测者  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Eternal Observer>",
+      "JP": "<永久の観察者>",
+      "CN": "",
+      "KR": "<영원한 관찰자>",
+      "TW": "<永恆的觀察者>"
+    }
+  },
+  "α:还需要25秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Alpha: 25 seconds remaining.",
+      "JP": "α:あと25秒",
+      "CN": "",
+      "KR": "α:あと25秒です",
+      "TW": "α：還需25秒"
+    }
+  },
+  "Ai:距离破译机械门还需要15秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 15 seconds until the mechanical door is decrypted.",
+      "JP": "Ai:機械の扉を解読するまでに15秒必要です",
+      "CN": "",
+      "KR": "Ai:機械扉の解読にあと15秒",
+      "TW": "AI：距離破譯機械門還需15秒"
+    }
+  },
+  "AI:即将破门而入": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Breaching soon.",
+      "JP": "AI:まもなく扉を突破します",
+      "CN": "",
+      "KR": "AI:まもなく侵攻します",
+      "TW": "AI：即將破門而入"
+    }
+  },
+  "α:保持火力压制,稍后": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Alpha: Maintain fire suppression. Stand by.",
+      "JP": "α:射撃を維持して、後ほど",
+      "CN": "",
+      "KR": "α:火力抑圧を維持、すぐに",
+      "TW": "α：保持火力壓制，稍後"
+    }
+  },
+  "AI:还需10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 10 seconds remaining.",
+      "JP": "AI:あと10秒",
+      "CN": "",
+      "KR": "AI:あと10秒です",
+      "TW": "AI：還需10秒"
+    }
+  },
+  "AI:启用！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Activated!",
+      "JP": "AI：起動！",
+      "CN": "AI: 已启动！",
+      "KR": "AI: 활성화!",
+      "TW": "AI：已啟用！"
+    }
+  },
+  "AI:机械门还需要5秒开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 5 seconds until the mechanical door opens.",
+      "JP": "AI：機械的な扉、オープンまであと5秒",
+      "CN": "",
+      "KR": "AI: 기계 문 5초 후 개방",
+      "TW": "AI：機械門还需5秒開啟"
+    }
+  },
+  "AI:还需要5秒,准备": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 5 seconds remaining, prepare.",
+      "JP": "AI：あと5秒、準備！",
+      "CN": "",
+      "KR": "AI: 5초 뒤, 준비",
+      "TW": "AI：还需5秒，準備"
+    }
+  },
+  "AI:还需要5秒,准备!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 5 seconds remaining, get ready!",
+      "JP": "AI：あと5秒、準備を！",
+      "CN": "",
+      "KR": "AI: 5초 뒤, 준비!",
+      "TW": "AI：还需5秒，準備！"
+    }
+  },
+  "AI:还需要5秒.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 5 seconds remaining.",
+      "JP": "AI：あと5秒。",
+      "CN": "AI: 还有5秒。",
+      "KR": "AI: 5초 후.",
+      "TW": "AI：还需5秒。"
+    }
+  },
+  "AI:大门关闭中!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Doors closing!",
+      "JP": "AI：大扉、閉鎖中！",
+      "CN": "",
+      "KR": "AI: 대문 닫는 중!",
+      "TW": "AI：大門關閉中！"
+    }
+  },
+  "soldier:还需要15秒左右": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Soldier: About 15 seconds remaining.",
+      "JP": "兵士：あと15秒程度",
+      "CN": "士兵：还需要15秒左右",
+      "KR": "병사: 약 15초 정도",
+      "TW": "士兵：还需要15秒左右"
+    }
+  },
+  "soldier:还需要5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Soldier: 5 seconds remaining.",
+      "JP": "兵士：あと5秒",
+      "CN": "士兵: 还需要5秒",
+      "KR": "병사: 5초 후",
+      "TW": "士兵：还需5秒"
+    }
+  },
+  "AI:已接入系统,门还需要10秒开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: System connected. Doors will open in 10 seconds.",
+      "JP": "AI: システム接続完了。扉の開放まであと10秒",
+      "CN": "",
+      "KR": "AI: 시스템에 연결됨, 문은 10초後に 열립니다",
+      "TW": "AI：系統已連接，門還需10秒開啟"
+    }
+  },
+  "AI:障碍需要30秒解除": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Obstacle clearance requires 30 seconds.",
+      "JP": "AI: 障害物の解除まであと30秒",
+      "CN": "",
+      "KR": "AI: 장애물 제거에 30초가 필요합니다",
+      "TW": "AI：障礙還需30秒解除"
+    }
+  },
+  "AI:密室还需要10秒开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: The secret room will open in 10 seconds.",
+      "JP": "AI: 密室の開放まであと10秒",
+      "CN": "",
+      "KR": "AI:密室은 10秒後に 열립니다",
+      "TW": "AI：密室還需10秒開啟"
+    }
+  },
+  "AI:正在远程清理后方道路,还需要40秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Clearing the rear path remotely. It will take another 40 seconds.",
+      "JP": "AI: 後方の経路をリモートでクリア中。完了まであと40秒",
+      "CN": "",
+      "KR": "AI: 후방 도로 원격 정리에 40초가 필요합니다",
+      "TW": "AI：正在遠程清理後方道路，還需40秒"
+    }
+  },
+  "AI:还需要20秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 20 seconds remaining.",
+      "JP": "AI: まだ20秒です",
+      "CN": "AI: 还有20秒",
+      "KR": "AI: 아직 20초 남았습니다",
+      "TW": "AI：還需20秒"
+    }
+  },
+  "AI:坚持住,请不要放弃,还需要20秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Hold on! Don't give up! There are still 20 seconds left.",
+      "JP": "AI: 諦めないで、必ず助ける！あと20秒だ",
+      "CN": "人工智能：坚持住，请不要放弃，还需要20秒",
+      "KR": "AI: 버텨 주세요, 포기하지 마세요. 아직 20초 남았습니다",
+      "TW": "AI：堅持住，別放棄，還需20秒"
+    }
+  },
+  "α:还需要15秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "α: 15 seconds remaining.",
+      "JP": "α: あと15秒です",
+      "CN": "",
+      "KR": "α: 아직 15초 남았습니다",
+      "TW": "α：還需15秒"
+    }
+  },
+  "α:还需要5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "α: 5 seconds remaining.",
+      "JP": "α: あと5秒です",
+      "CN": "",
+      "KR": "α: 아직 5초 남았습니다",
+      "TW": "α：還需5秒"
+    }
+  },
+  "α:退到林中去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "α: Retreat into the forest!",
+      "JP": "α：森へ退却しろ",
+      "CN": "",
+      "KR": "α: 숲속으로 후퇴",
+      "TW": "α：退至森林深處"
+    }
+  },
+  "soldier:投影成功": {
+    "translation": "",
+    "MultiLang": {
+      "US": "soldier: Projection successful.",
+      "JP": "兵士：投影完了",
+      "CN": "",
+      "KR": "병사: 투영 성공",
+      "TW": "soldier：投影成功"
+    }
+  },
+  "<  宇宙之光  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<Cosmic Light>",
+      "JP": "<宇宙の光>",
+      "CN": "",
+      "KR": "< 우주의 빛 >",
+      "TW": ""
+    }
+  },
+  "part 1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Part 1",
+      "CN": "第一部分",
+      "KR": "파트 1",
+      "TW": "部分 1"
+    }
+  },
+  "<<  闪耀于终局宇宙的兽冠  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< The Crest of Beasts Shining in the Final Cosmos >>",
+      "JP": "<< 終焉宇宙に輝く獣冠 >>",
+      "CN": "",
+      "KR": "<< 끝 국 우주의 수호마 <<",
+      "TW": "<<  閃耀於終局宇宙的獸冠  >>"
+    }
+  },
+  "<<  宇宙之尘埃  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Dust of the Universe >>",
+      "JP": "<< 宇宙の塵 >>",
+      "CN": "",
+      "KR": "<< 우주적 분진 >>",
+      "TW": "<<  宇宙之塵埃  >>"
+    }
+  },
+  "part 3": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Part 3",
+      "CN": "第三部分",
+      "KR": "파트 3",
+      "TW": "部分 3"
+    }
+  },
+  "AI:全球系统已对我们关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: The global system has shut down on us.",
+      "JP": "AI：全世界のシステムが我々に対し閉塞しました",
+      "CN": "",
+      "KR": "AI: 전 세계 시스템이 저들에게 대해 닫혔다.",
+      "TW": "AI：全球系統已對我們關閉"
+    }
+  },
+  "AI:我们无法再以身份开启大门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: We can no longer open the gates using our identities.",
+      "JP": "AI：以正体で門を開くことはもはやできません",
+      "CN": "",
+      "KR": "AI: 더 이상 그들의 얼굴로 대문을 열 수 없다.",
+      "TW": "AI：我們無法再以該身分開啟大門"
+    }
+  },
+  "AI:正在摧毁": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Destroying",
+      "JP": "AI：破壊中",
+      "CN": "",
+      "KR": "AI: 파쇄 중",
+      "TW": "AI：正在破壞"
+    }
+  },
+  "AI:请稍后": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Please wait",
+      "JP": "AI：お待ちください",
+      "CN": "",
+      "KR": "AI: 기다려 주십시오",
+      "TW": "AI：請稍候"
+    }
+  },
+  "AI:还需要15秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 15 seconds remaining",
+      "JP": "AI：あと15秒です",
+      "CN": "",
+      "KR": "AI: 15초 후에 완료됩니다",
+      "TW": "AI：還需要15秒"
+    }
+  },
+  "AI:还需要5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 5 seconds remaining",
+      "JP": "AI：あと5秒です",
+      "CN": "",
+      "KR": "AI: 5초 후에 완료됩니다",
+      "TW": "AI：還需要5秒"
+    }
+  },
+  "α:敌人真是紧追不舍啊.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The enemies are relentless.",
+      "JP": "α：敵が執拗に追いかけてくるな。",
+      "CN": "",
+      "KR": "α: 적들이 정말 끈질기게 추격하네요.",
+      "TW": "α：敵人真是緊追不捨啊。"
+    }
+  },
+  "α:快点破译大门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hack the door quickly.",
+      "JP": "α：扉の暗号解除を急げ",
+      "CN": "",
+      "KR": "α: 문을 빨리 해독하세요",
+      "TW": "α：趕快破解大門"
+    }
+  },
+  "α:保持火力": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold your fire.",
+      "JP": "α：火力を維持しろ",
+      "CN": "",
+      "KR": "α: 화력 유지",
+      "TW": "α：保持火力輸出"
+    }
+  },
+  "AI:门禁需要25秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door unlocks in 25 seconds.",
+      "JP": "AI：門は25秒後に開きます",
+      "CN": "",
+      "KR": "AI: 도어 잠금 해제까지 25초 남음",
+      "TW": "AI：門禁系統還需25秒才會開啟"
+    }
+  },
+  "AI:门禁需要15秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door unlocks in 15 seconds.",
+      "JP": "AI：ドアロックは15秒後に解除されます",
+      "CN": "",
+      "KR": "AI: 출구에는 15초 뒤 개방됩니다.",
+      "TW": "AI：門禁需15秒後開啟"
+    }
+  },
+  "AI:门禁需要5秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door unlocks in 5 seconds.",
+      "JP": "AI：ドアロックは5秒後に解除されます",
+      "CN": "",
+      "KR": "AI: 출구에는 5초 뒤 개방됩니다.",
+      "TW": "AI：門禁需5秒後開啟"
+    }
+  },
+  "AI:正在寻找出路": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Searching for an exit.",
+      "JP": "AI：脱出口を探しています",
+      "CN": "",
+      "KR": "AI: 탈출구를 찾고 있습니다",
+      "TW": "AI：正在尋找出路"
+    }
+  },
+  "AI:锁定!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Target locked!",
+      "JP": "AI：ロックオン！",
+      "CN": "",
+      "KR": "AI: 목표 잠금!",
+      "TW": "AI：鎖定！"
+    }
+  },
+  "AI:还需要45秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 45 seconds remaining",
+      "JP": "AI：あと45秒です",
+      "CN": "",
+      "KR": "AI: 45초 필요",
+      "TW": "AI：還需要45秒"
+    }
+  },
+  ">>>>黑棺充能完毕<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>> Black Coffin fully charged. <<<<",
+      "JP": ">>>>黒棺、チャージ完了<<<<",
+      "CN": "",
+      "KR": ">>>> 흑관 충전 완료 <<<<",
+      "TW": ">>>>黑棺充能完畢<<<<"
+    }
+  },
+  "<<永恒的诅咒>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<The Eternal Curse>>",
+      "JP": "《永遠の呪い》",
+      "CN": "",
+      "KR": "<<영원한 저주>>",
+      "TW": "<<永恆的詛咒>>"
+    }
+  },
+  "<<不灭的痛苦>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<The Unending Agony>>",
+      "JP": "《滅びぬ苦痛》",
+      "CN": "",
+      "KR": "<<불멸의 고통>>",
+      "TW": "<<不滅的痛苦>>"
+    }
+  },
+  "AI:无法修正!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Correction impossible!",
+      "JP": "AI:修正不可!",
+      "CN": "",
+      "KR": "AI: 수정 불가!",
+      "TW": "AI：無法修正！"
+    }
+  },
+  "AI:正在重新规划!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Rerouting...",
+      "JP": "AI:再計算中!",
+      "CN": "",
+      "KR": "AI: 경로 재계산 중!",
+      "TW": "AI：正在重新規劃！"
+    }
+  },
+  "AI:继续向前探索!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Advancing!",
+      "JP": "AI:引き続き前方探索!",
+      "CN": "",
+      "KR": "AI: 앞으로 계속 탐색!",
+      "TW": "AI：繼續向前探索！"
+    }
+  },
+  "AI:墙体后有建筑结构.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Structure detected behind wall.",
+      "JP": "AI:壁の背後に構造物を検知。",
+      "CN": "",
+      "KR": "AI: 벽 뒤에 구조물이 있습니다.",
+      "TW": "AI：牆體後有建築結構。"
+    }
+  },
+  "AI:正在破译": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Decrypting...",
+      "JP": "AI:解読中",
+      "CN": "",
+      "KR": "AI: 해독 중",
+      "TW": "AI：正在破譯"
+    }
+  },
+  "AI:后方陆续开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Rear access opening",
+      "JP": "AI:後方から次々と開通",
+      "CN": "",
+      "KR": "AI: 후방 연속 개방",
+      "TW": "AI：後方陸續開啟"
+    }
+  },
+  "AI:还需要60秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 60 seconds remaining",
+      "JP": "AI:残り60秒",
+      "CN": "",
+      "KR": "AI: 60초 더 필요",
+      "TW": "AI：還需要 60 秒"
+    }
+  },
+  ">>>你的SP满了<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>Your SP is full<<<",
+      "JP": ">>>SP最大に達しました<<<",
+      "CN": "",
+      "KR": ">>> 당신의 SP가 가득 찼습니다 <<<",
+      "TW": ">>>你的 SP 已滿<<<"
+    }
+  },
+  "感受到黑的气息": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Feeling the aura of darkness",
+      "JP": "黒の気配を感じる",
+      "CN": "",
+      "KR": "검은 기운을 감지함",
+      "TW": "感受到黑色的氣息"
+    }
+  },
+  "<<  黑暗  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Darkness >>",
+      "JP": "<<  闇  >>",
+      "CN": "",
+      "KR": "<<  어둠  >>",
+      "TW": "<< 黑暗 >>"
+    }
+  },
+  "<<  恐惧  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Fear >>",
+      "JP": "<<  恐怖  >>",
+      "CN": "",
+      "KR": "<<  공포  >>",
+      "TW": "<< 恐懼 >>"
+    }
+  },
+  "<<  死亡  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Death >>",
+      "JP": "<<  死  >>",
+      "CN": "",
+      "KR": "<<  죽음  >>",
+      "TW": "<< 死亡 >>"
+    }
+  },
+  ">>>>黑暗一击<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> DARK STRIKE <<<<",
+      "JP": ">>>>闇の一撃<<<<",
+      "CN": "",
+      "KR": ">>>> 어둠의 일격 <<<<<",
+      "TW": ">>>>黑暗一擊<<<<"
+    }
+  },
+  "死亡!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "DEATH!",
+      "JP": "死！！",
+      "CN": "",
+      "KR": "사망!",
+      "TW": "死亡!"
+    }
+  },
+  ">>>>强击准备就绪<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>> STRONG HIT READY <<<<",
+      "JP": ">>>>猛攻撃準備完了<<<<",
+      "CN": "",
+      "KR": ">>>>강타 준비 완료<<<<",
+      "TW": ">>>>強擊準備就緒<<<<"
+    }
+  },
+  "AI:正在校准传送": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Calibrating teleportation",
+      "JP": "AI：ワープを調整中",
+      "CN": "",
+      "KR": "AI: 텔레포트 보정 중",
+      "TW": "AI：正在校準傳送"
+    }
+  },
+  "AI:传送地已确认": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Teleport destination confirmed",
+      "JP": "AI：伝送地点確認",
+      "CN": "",
+      "KR": "AI: 전송 지점이 확인되었습니다",
+      "TW": "AI：已確認傳送地點"
+    }
+  },
+  "AI:传送地正确": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Teleport location correct",
+      "JP": "AI：伝送地点に位置している",
+      "CN": "",
+      "KR": "AI: 전송 지점이 정확합니다",
+      "TW": "AI：傳送地點正確"
+    }
+  },
+  "AI:敌人追上来了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Enemies are catching up!",
+      "JP": "AI：敵が追いついてきた！",
+      "CN": "",
+      "KR": "AI: 적들이 근접했습니다!",
+      "TW": "AI：敵人追來了！"
+    }
+  },
+  "α:正在破坏！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Alpha: Destabilizing!",
+      "JP": "α：破壊中！",
+      "CN": "",
+      "KR": "α: 파괴 중입니다!",
+      "TW": "α：正在破壞！"
+    }
+  },
+  "α:不好桥梁太坚固了.需要从中间破坏。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Alpha: The bridge is too sturdy. It needs to be destroyed from the middle.",
+      "JP": "α：まずい、橋が頑丈すぎる。真ん中から破壊する必要がある。",
+      "CN": "",
+      "KR": "α: 안개가 너무 단단합니다. 가운데 부분부터 파괴해야 합니다.",
+      "TW": "α：不行，橋樑太堅固了。必須從中間破壞。"
+    }
+  },
+  "Spectr:我去破坏桥梁": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Spectr: I'll go destroy the bridge.",
+      "JP": "Spectr：私が橋を破壊してくる",
+      "CN": "",
+      "KR": "Spectr: 다리를 파괴하러 가겠습니다",
+      "TW": "Spectr：我去破壞橋樑"
+    }
+  },
+  "primary:太危险了！快回来！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Primary: Too dangerous! Come back!",
+      "JP": "primary：危険すぎる！帰って来い！",
+      "CN": "",
+      "KR": "primary: 너무 위험합니다! 바로 돌아오세요!",
+      "TW": "primary：太危險了！快回來！"
+    }
+  },
+  "Spectr:来不及了！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Spectr: It's too late!",
+      "JP": "Spectr：もう間に合わない！",
+      "CN": "",
+      "KR": "Spectr: 시간이 없어요!",
+      "TW": "Spectr：來不及了！"
+    }
+  },
+  ">>让roze去触发,否则再守25秒<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">> Let Roze trigger it, otherwise wait another 25 seconds. <<",
+      "JP": ">>ロゼにトリガーを任せる、そうでなければあと25秒守る<<",
+      "CN": "",
+      "KR": ">>로제에게 위임, 그렇지 않으면 25초 더 방어<<",
+      "TW": "讓roze觸發，否則再守衛25秒"
+    }
+  },
+  ">>>>黑暗一击充能完毕<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>> Dark Strike charge complete. <<<",
+      "JP": ">>>>ダークアタックチャージ完了<<<<",
+      "CN": "",
+      "KR": ">>>>다크 스트라이크 충전 완료<<<<",
+      "TW": ">>>>黑暗一擊充能完畢<<<<"
+    }
+  },
+  ">>>>治疗光束准备完毕<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>> Healing Beam ready. <<<",
+      "JP": ">>>>ヒールビーム準備完了<<<<",
+      "CN": "",
+      "KR": ">>>>힐 빔 발사 준비<<<<",
+      "TW": ">>>>治療光束準備就緒<<<<"
+    }
+  },
+  "<<  序章:任务开始  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Prologue: Mission Start >>",
+      "JP": "<<  プロローグ：任務開始 >>",
+      "CN": "",
+      "KR": "<<  프롤로그: 미션 시작  >>",
+      "TW": "<< 序章：任務開始 >>"
+    }
+  },
+  "<<  序章:逃脱  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Prologue: Escape >>",
+      "JP": "<<  プロローグ：脱出 >>",
+      "CN": "",
+      "KR": "<<  프롤로그: 탈출  >>",
+      "TW": "<< 序章：逃脫 >>"
+    }
+  },
+  ">>>>GWC-06<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>>GWC-06<<<<",
+      "CN": ">>>>GWC-06<<<<",
+      "KR": ">>>>GWC-06<<<<",
+      "TW": ">>>>GWC-06<<<<"
+    }
+  },
+  ">>>>Black cat<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>>>ブラックキャット<<<<",
+      "CN": ">>>>黑猫<<<<",
+      "KR": ">>>검은 고양이<<<<",
+      "TW": ">>>>黑貓<<<<"
+    }
+  },
+  ">>>>生命汲取<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>> Life Drain >>>>",
+      "JP": ">>>>ライフシン<<<<",
+      "CN": "",
+      "KR": ">>>>생명력 흡수<<</div>",
+      "TW": ">>>>生命汲取<<"
+    }
+  },
+  ">>>>黑暗收割<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>> Dark Harvest >>>>",
+      "JP": ">>>>暗黒收割<<<<",
+      "CN": "",
+      "KR": ">>>>어둠의 수확<<<<",
+      "TW": ">>>>黑暗收割<<<<"
+    }
+  },
+  ">>>>鹰式推进器<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>> Hawk Thrusters >>>>",
+      "JP": ">>>>鷹式推進器<<<<",
+      "CN": "",
+      "KR": ">>>>독수리 추진기<<<<",
+      "TW": ">>>>鷹式推進器<<<<"
+    }
+  },
+  ">>>>极速之风<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>> Speedy Wind >>>>",
+      "JP": ">>>>極速の風<<<<",
+      "CN": "",
+      "KR": ">>>>초속의 바람<<<<",
+      "TW": ">>>>極速之風<<<<"
+    }
+  },
+  "<<  NO.39 希望皇 霍普   >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< NO.39 Hope King Hope >>",
+      "JP": "<< NO.39 希望の皇 ホープ >>",
+      "CN": "",
+      "KR": "<<  NO.39 희망 황제 홉   >>",
+      "TW": "<<  NO.39 希望皇 霍普   >>"
+    }
+  },
+  "AI:还需5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 5 seconds remaining",
+      "JP": "AI:あと5秒必要です",
+      "CN": "",
+      "KR": "AI:あと5秒",
+      "TW": "AI：还需5秒"
+    }
+  },
+  "AI:门大概需要5秒开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Door should open in approximately 5 seconds",
+      "JP": "AI:おおよそ5秒でドアが開きます",
+      "CN": "",
+      "KR": "AI:门大概需要5秒开启",
+      "TW": "AI：門大概需要5秒開啟"
+    }
+  },
+  "AI:还需要40秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 40 seconds remaining",
+      "JP": "AI:あと40秒必要です",
+      "CN": "",
+      "KR": "AI:还需要40秒",
+      "TW": "AI：还需40秒"
+    }
+  },
+  "AI:敌人正在快速移动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Enemy moving fast",
+      "JP": "AI:敵が急速に移動しています",
+      "CN": "",
+      "KR": "AI:敌人正在快速移动",
+      "TW": "AI：敵人正在快速移動"
+    }
+  },
+  "AI:还需要35秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 35 seconds remaining",
+      "JP": "AI:残り35秒",
+      "CN": "",
+      "KR": "AI:あと35秒",
+      "TW": "AI：還需 35 秒"
+    }
+  },
+  "AI:敌人在快速接近！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Enemy closing in fast!",
+      "JP": "AI:敵が接近中！",
+      "CN": "",
+      "KR": "AI:敵が急速に接近中！",
+      "TW": "AI：敵人正在快速接近！"
+    }
+  },
+  "解锁 01 水刀形态": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Unlock 01 Water Blade Form",
+      "JP": "01：ウォーターブレード形態をアンロック",
+      "CN": "",
+      "KR": "アンロック 01 水刀形態",
+      "TW": "解鎖 01 水刀形態"
+    }
+  },
+  "<<  序章:致命陷阱  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Chapter 1: Deadly Traps >>",
+      "JP": "<< 序章：致命的な罠 >>",
+      "CN": "",
+      "KR": "<< 序章:致命的罠 >>",
+      "TW": "<< 序章：致命陷阱 >>"
+    }
+  },
+  "part 2": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "パート2",
+      "CN": "第二部分",
+      "KR": "パート2",
+      "TW": "Part 2"
+    }
+  },
+  "soldier:还需要25秒左右": {
+    "translation": "",
+    "MultiLang": {
+      "US": "soldier: Roughly 25 seconds remaining",
+      "JP": "兵士:残り約25秒",
+      "CN": "",
+      "KR": "兵士:あと25秒ほど",
+      "TW": "士兵：大約還需 25 秒"
+    }
+  },
+  "soldier:此处还需要35秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "soldyer: 35 seconds remaining here",
+      "JP": "兵士:ここはあと35秒必要です",
+      "CN": "",
+      "KR": "兵士:ここであと35秒",
+      "TW": "士兵：此處還需 35 秒"
+    }
+  },
+  ">>>艾蕾解锁牺牲终极<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elie Unlocks Ultimate Sacrifice",
+      "JP": ">>>エレア犠牲の究極スキルの解除<<<",
+      "CN": "",
+      "KR": ">>>アイリス 犠牲の究極解放<<<",
+      "TW": ">>> 艾蕾解鎖犧牲終極 <<<"
+    }
+  },
+  "AI:失败!正在强行破坏机械门,还需要20秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Failed! Forcibly destroying the mechanical door, 20 seconds remaining.",
+      "JP": "AI:失敗！機械扉を強制的に破壊中、あと20秒",
+      "CN": "",
+      "KR": "AI: 실패! 기계식 문을 강제 파괴 중, 20초 남음",
+      "TW": "AI：失敗！正在強制破壞機械門，剩餘時間20秒"
+    }
+  },
+  "AI:密室传送还需要10s": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Teleportation in the sealed room, 10 seconds remaining.",
+      "JP": "AI:密室へのテレポートまであと10秒",
+      "CN": "",
+      "KR": "AI: 밀실 전송까지 10초 남음",
+      "TW": "AI：密室傳送需10秒"
+    }
+  },
+  "AI:正在将僵尸传送还需要10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Teleporting zombies, 10 seconds remaining.",
+      "JP": "AI:ゾンクのテレポート中、あと10秒",
+      "CN": "",
+      "KR": "AI: 좀비 전송 중, 10초 남음",
+      "TW": "AI：正在傳送殭屍，剩餘時間10秒"
+    }
+  },
+  "AI:正在设置返回坐标，还需要10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Setting return coordinates, 10 seconds remaining.",
+      "JP": "AI:帰還座標を設定中、あと10秒",
+      "CN": "",
+      "KR": "AI: 회귀 좌표 설정 중, 10초 남음",
+      "TW": "AI：正在設定返回座標，剩餘時間10秒"
+    }
+  },
+  "AI:稍等,正在重新关闭!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Please wait, re-closing!",
+      "JP": "AI:少々お待ちください、再閉鎖中です！",
+      "CN": "",
+      "KR": "AI\": 잠깐만 기다려주세요. 다시 닫는 중입니다!",
+      "TW": "AI：稍等，正在重新關閉！"
+    }
+  },
+  "AI:请等待一会": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Please wait a moment.",
+      "JP": "AI:しばらくお待ちください",
+      "CN": "",
+      "KR": "AI\": 잠시 기다려 주세요",
+      "TW": "AI：請稍候"
+    }
+  },
+  "α:重新修正回归路线.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "α: Recalculating return route.",
+      "JP": "α：帰還経路を再修正中。",
+      "CN": "",
+      "KR": "α: 회귀 경로를 다시 수정합니다.",
+      "TW": "α：正在重新修正回歸路線。"
+    }
+  },
+  "α:我们需要先逃离这个区域": {
+    "translation": "",
+    "MultiLang": {
+      "US": "α: We need to escape this area first.",
+      "JP": "α:私たちはまずこの地域から脱出する必要があります",
+      "CN": "",
+      "KR": "α\": 먼저 이 지역을 탈출해야 합니다\"",
+      "TW": "α：我們需要先逃離這個區域"
+    }
+  },
+  "α:立刻清点装备和人员,准备重新出发": {
+    "translation": "",
+    "MultiLang": {
+      "US": "α: Immediately check equipment and personnel, and prepare to set off again.",
+      "JP": "α：直ちに装備と人員を点検し、再出発の準備を整えよ",
+      "CN": "",
+      "KR": "α:장비와 인원을 즉시 점검하고 재출발을 준비하라",
+      "TW": "α：立即清點裝備和人員，準備重新出發"
+    }
+  },
+  "解锁 01风刀形态": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Unlock Form 01 Wind Blade",
+      "JP": "01：風刃フォームをアンロック",
+      "CN": "",
+      "KR": "01 풍도 형태로 잠금 해제",
+      "TW": "解鎖 01風刀形態"
+    }
+  },
+  "AI:已经介入内部网络": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Has accessed the internal network.",
+      "JP": "AI：内部ネットワークへの侵入完了",
+      "CN": "",
+      "KR": "AI: 내부 네트워크에 이미 개입함",
+      "TW": "AI：已介入內部網絡"
+    }
+  },
+  "AI:还需要90秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 90 seconds remaining.",
+      "JP": "AI：あと90秒です",
+      "CN": "",
+      "KR": "AI: 90초 남음",
+      "TW": "AI：還需要90秒"
+    }
+  },
+  "AI:检测到TP，还需要10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Detected TP, 10 seconds remaining.",
+      "JP": "AI：TPを検出。あと10秒です",
+      "CN": "",
+      "KR": "AI: TP 감지, 10초 남음",
+      "TW": "AI：檢測到TP，還需要10秒"
+    }
+  },
+  "AI:还需要70秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 70 seconds remaining.",
+      "JP": "AI：あと70秒です",
+      "CN": "",
+      "KR": "AI: 70초 남음",
+      "TW": "AI：還需要70秒"
+    }
+  },
+  "AI:检测到TP能量,TP还需要5秒生效": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Detected TP energy, TP will take effect in 5 seconds.",
+      "JP": "AI：TPエネルギーを検出。TP発動まであと5秒",
+      "CN": "",
+      "KR": "AI: TP 에너지 감지, TP 발효까지 5초 남음",
+      "TW": "AI：檢測到TP能量，TP還需要5秒生效"
+    }
+  },
+  "AI:有剧烈能量波动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Significant energy fluctuation detected",
+      "JP": "AI：激しいエネルギー擾乱を検知",
+      "CN": "",
+      "KR": "AI: 강력한 에너지 변동 감지",
+      "TW": "AI：有劇烈能量波動"
+    }
+  },
+  "AI:距离大门开启还需要25秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 25 seconds until gate opens",
+      "JP": "AI: 門が開くまであと25秒",
+      "CN": "",
+      "KR": "AI: 문이 열리기까지 25초 남았습니다",
+      "TW": "AI：距離大門開啟還需要25秒"
+    }
+  },
+  "AI:请小心": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: Please be careful",
+      "JP": "AI: 気をつけて",
+      "CN": "",
+      "KR": "AI: 조심하십시오",
+      "TW": "AI：請小心"
+    }
+  },
+  "AI:距离大门开启还需要10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "AI: 10 seconds until gate opens",
+      "JP": "AI: 門が開くまであと10秒",
+      "CN": "",
+      "KR": "AI: 문이 열리기까지 10초 남았습니다",
+      "TW": "AI：距離大門開啟還需要10秒"
+    }
+  },
+  ">>>>时间冻结<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>>Time Freeze<<<<",
+      "JP": ">>>>時間停止<<<<",
+      "CN": "",
+      "KR": ">>>>시간 정지<<<<",
+      "TW": ">>>>時間凍結<<<<"
+    }
+  },
+  ">>>>时间冻结充能完毕<<<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": ">>>>Time Freeze Charge Complete<<<<",
+      "JP": ">>>>時間停止チャージ完了<<<<",
+      "CN": "",
+      "KR": ">>>>시간 정지 충전 완료<<<<",
+      "TW": ">>>>時間凍結充能完畢<<<<"
+    }
+  }
+}

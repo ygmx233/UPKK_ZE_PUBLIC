@@ -1,0 +1,342 @@
+{
+  "Map by Frenchy": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成: フレンシー",
+      "CN": "Frenchy制作地图",
+      "KR": "프렌치 제작 맵",
+      "TW": "地圖製作：Frenchy"
+    }
+  },
+  "Special thanks for scripts Kotya": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "スクリプト作成: コティアに特別感謝",
+      "CN": "特别感谢Kotya制作的脚本",
+      "KR": "스크립트 협력 감사: Kotya",
+      "TW": "特別感謝腳本作者 Kotya"
+    }
+  },
+  "Special thanks for particles liroy": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "パーティクル効果制作: リロイに特別感謝",
+      "CN": "特别感谢liroy制作的角色特效",
+      "KR": "파티클 협력 감사: liroy",
+      "TW": "特別感謝粒子特效作者 liroy"
+    }
+  },
+  "***THE GATES WILL OPEN IN 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゲートが20秒後に開放されます***",
+      "CN": "***门将在20秒后打开***",
+      "KR": "***게이트가 20초 뒤에 열립니다***",
+      "TW": "***城門將在 20 秒後開啟***"
+    }
+  },
+  "Castle of dark": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ダークの城",
+      "CN": "黑暗城堡",
+      "KR": "어둠의 성",
+      "TW": "黑暗城堡"
+    }
+  },
+  "***THE DOORS OF FIRST CASTLE WILL OPEN IN 30 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***最初の城の扉が30秒後に開放されます***",
+      "CN": "***第一道城门将在30秒后开启***",
+      "KR": "***첫 번째 성 문이 30초 뒤에 열립니다***",
+      "TW": "***第一座城堡的大門將在 30 秒後開啟***"
+    }
+  },
+  "***AFK TELEPORT IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***10秒後、AFKプレイヤーをテレポートします***",
+      "CN": "***10秒后传送挂机玩家***",
+      "KR": "***10초 뒤 오프라인 자동 텔레포트***",
+      "TW": "***10 秒後將踢出離線玩家（AFK）***"
+    }
+  },
+  "***THE DOORS WILL OPEN IN 25 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***25秒後、扉が開放されます***",
+      "CN": "***门将在25秒后打开***",
+      "KR": "***문이 25초 뒤에 열립니다***",
+      "TW": "***大門將在 25 秒後開啟***"
+    }
+  },
+  "***THE PLATFORM WILL LEAVE IN 30 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プラットフォームは30秒後に発車します***",
+      "CN": "***平台将在30秒后离开***",
+      "KR": "***플랫폼이 30초 후에 출발합니다***",
+      "TW": "***平台將在30秒後離開***"
+    }
+  },
+  "***AFK TELEPORT IN 15 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***AFKテレポートまで15秒***",
+      "CN": "***挂机传送将在15秒后启动***",
+      "KR": "***AFK 텔레포트 15초 후***",
+      "TW": "***15秒後傳送AFK玩家***"
+    }
+  },
+  "Bridge between the worlds": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "世界間の橋",
+      "CN": "世界间的桥梁",
+      "KR": "세계를 잇는 다릿길",
+      "TW": "世界之間的橋樑"
+    }
+  },
+  "***THE PLATFORM WILL RISE IN 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プラットフォームは20秒後に上昇します***",
+      "CN": "***平台将在20秒后升起***",
+      "KR": "***플랫폼이 20초 후에 상승합니다***",
+      "TW": "***平台將在20秒後升起***"
+    }
+  },
+  "***THE PLATFORM WILL RISE IN 40 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プラットフォームは40秒後に上昇します***",
+      "CN": "***平台将在40秒后升起***",
+      "KR": "***플랫폼이 40초 후에 상승합니다***",
+      "TW": "***平台將在40秒後升起***"
+    }
+  },
+  "Castle of the light ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "光の城",
+      "CN": "光明城堡",
+      "KR": "빛의 성채",
+      "TW": "光輝之堡"
+    }
+  },
+  "***THE DOOR OF SECOND CASTLE WILL OPEN IN 40 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***第二城の扉は40秒後に開きます***",
+      "CN": "***第二道城门将在40秒后开启***",
+      "KR": "***제2성관문이 40초 후에 개방됩니다***",
+      "TW": "***第二座城堡的大門將在40秒後開啟***"
+    }
+  },
+  "***THE GATE WILL OPEN IN 30 SECOND***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***門は30秒後に開きます***",
+      "CN": "***大门将在30秒后开启***",
+      "KR": "***게이트가 30초 후에 개방됩니다***",
+      "TW": "***大門將在30秒後開啟***"
+    }
+  },
+  "Castle of the balance": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "均衡の城",
+      "CN": "平衡城堡",
+      "KR": "균형의 성",
+      "TW": "平衡堡壘"
+    }
+  },
+  "***THE DOORS OF THIRD CASTLE  WILL OPEN IN 40 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***第3の城の扉は40秒後に開きます***",
+      "CN": "***第三座城堡的大门将在40秒后开启***",
+      "KR": "***제3의 성 문이 40초 후 열립니다***",
+      "TW": "***第三座堡壘的大門將在40秒後開啟***"
+    }
+  },
+  "***THE DOOR WILL OPEN IN 30 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***扉は30秒後に開きます***",
+      "CN": "***大门将在30秒后开启***",
+      "KR": "***문이 30초 후 열립니다***",
+      "TW": "***大門將在30秒後開啟***"
+    }
+  },
+  "***THE DOOR WILL OPEN IN 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***扉は20秒後に開きます***",
+      "CN": "***大门将在20秒后开启***",
+      "KR": "***문이 20초 후 열립니다***",
+      "TW": "***大門將在20秒後開啟***"
+    }
+  },
+  "***THE GATES WILL OPEN IN 30 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***門は30秒後に開きます***",
+      "CN": "***城门将在30秒后开启***",
+      "KR": "***문들이 30초 후 열립니다***",
+      "TW": "***城門將在30秒後開啟***"
+    }
+  },
+  "***THE DOOR OF CASTLE WILL OPEN IN 20 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***城の扉は20秒後に開きます***",
+      "CN": "***城堡大门将在20秒后开启***",
+      "KR": "***성문이 20초 후 열립니다***",
+      "TW": "***堡壘大門將在20秒後開啟***"
+    }
+  },
+  "Castle of God ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "神の城",
+      "CN": "神之城堡",
+      "KR": "신의 성",
+      "TW": "神之堡壘"
+    }
+  },
+  "***THE DOORS WILL OPEN IN 40 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***扉は40秒後に開きます***",
+      "CN": "***大门将在40秒后开启***",
+      "KR": "***문들이 40초 후 열립니다***",
+      "TW": "***大門將在40秒後開啟***"
+    }
+  },
+  "AFK TELEPORT IN 5 SECONDS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後にAFK転送",
+      "CN": "5 秒后传送离开",
+      "KR": "5초 후에 AFK 텔레포팅",
+      "TW": "5秒後自動傳送離開"
+    }
+  },
+  "Guardian tower": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "守護塔",
+      "CN": "守卫塔",
+      "KR": "수호자 타워",
+      "TW": "守護者塔"
+    }
+  },
+  "***THE PLATFORM WILL LEAVE IN 15 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***プラットフォームが15秒後に発進します***",
+      "CN": "***平台将在 15 秒后离开***",
+      "KR": "*** 플랫폼이 15초 후 출발합니다 ***",
+      "TW": "***平台15秒後離場***"
+    }
+  },
+  "***THE DOOR WILL OPEN IN 15 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアが15秒後に開きます***",
+      "CN": "***门将在 15 秒后打开***",
+      "KR": "*** 문이 15초 후 열립니다 ***",
+      "TW": "***門15秒後開啟***"
+    }
+  },
+  "***THE DOOR WILL CLOSE IN 10 SECONDS***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアが10秒後に閉まります***",
+      "CN": "***门将在 10 秒后关闭***",
+      "KR": "*** 문이 10초 후 닫힙니다 ***",
+      "TW": "***門10秒後關閉***"
+    }
+  },
+  "***STAGE COMPLETED***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ステージクリア***",
+      "CN": "***关卡完成***",
+      "KR": "*** 스테이지 클리어 ***",
+      "TW": "***階段完成***"
+    }
+  },
+  "***THIS IS VICTORY!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***勝利！***",
+      "CN": "***胜利！***",
+      "KR": "*** 승리입니다! ***",
+      "TW": "***獲得勝利！***"
+    }
+  },
+  "Map by Frenchy ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "地図制作: Frenchy",
+      "CN": "地图由 Frenchy 制作",
+      "KR": "Frenchy 작 맵",
+      "TW": "地圖製作人：Frenchy"
+    }
+  },
+  "***MAP COMPLETED***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***マップクリア***",
+      "CN": "***地图完成***",
+      "KR": "***맵 완료***",
+      "TW": "***地圖完成***"
+    }
+  },
+  "***VICTORY!***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***勝利！***",
+      "CN": "***胜利！***",
+      "KR": "***승리!***",
+      "TW": "***勝利！***"
+    }
+  }
+}

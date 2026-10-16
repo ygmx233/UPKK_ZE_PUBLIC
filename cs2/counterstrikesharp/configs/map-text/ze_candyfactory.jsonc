@@ -1,0 +1,1992 @@
+{
+  "我在哪？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Where am I?",
+      "JP": "私はどこにいるのか？",
+      "CN": "",
+      "KR": "내가 어디에 있어?",
+      "TW": "我在哪？"
+    }
+  },
+  "我深陷于雪地": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I am deep in the snow.",
+      "JP": "雪原に囚われた",
+      "CN": "",
+      "KR": "나는 눈 속에 깊이 빠져있어",
+      "TW": "我深陷於雪地"
+    }
+  },
+  "我蹒跚寒风中": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I stagger through the bitter cold wind.",
+      "JP": "冷たい風の中でよろめく",
+      "CN": "",
+      "KR": "찬 바람속을 비틀거리며 걸어가",
+      "TW": "我在寒風中蹣跚"
+    }
+  },
+  "我被纯白吞噬": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I am swallowed by pure white.",
+      "JP": "白さに飲み込まれる",
+      "CN": "",
+      "KR": "순백에 삼켜져",
+      "TW": "我被純白吞噬"
+    }
+  },
+  "我探索": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I explore.",
+      "JP": "探索を続ける",
+      "CN": "",
+      "KR": "탐험해",
+      "TW": "我探索"
+    }
+  },
+  "我双靴踏冰层": {
+    "translation": "",
+    "MultiLang": {
+      "US": "My boots tread upon the ice.",
+      "JP": "ブーツで氷を踏みしめる",
+      "CN": "",
+      "KR": "얼음층을 밟고 서 있는 내 구두",
+      "TW": "我的雙靴踏在冰層上"
+    }
+  },
+  "我呼吸凝白雾": {
+    "translation": "",
+    "MultiLang": {
+      "US": "My breath freezes into white mist.",
+      "JP": "息は白く凍る",
+      "CN": "",
+      "KR": "내가 마시는 숨결이 하얀 안개로 변해",
+      "TW": "我呼出凝結的白霧"
+    }
+  },
+  "我预感将迷失": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I sense I will get lost.",
+      "JP": "道に迷う予感がする",
+      "CN": "",
+      "KR": "나는 길을 잃게 될 것 같아",
+      "TW": "我預感將迷失"
+    }
+  },
+  "我发现": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I found",
+      "JP": "見つかった",
+      "CN": "",
+      "KR": "나는 발견했다",
+      "TW": "我發現"
+    }
+  },
+  "巨形糖果漂浮天空": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Giant candy floating in the sky",
+      "JP": "巨大なキャンディが空を浮かんでいる",
+      "CN": "",
+      "KR": "거대한 사탕이 하늘을 떠다닌다",
+      "TW": "巨形糖果漂浮天空"
+    }
+  },
+  "辐射尘埃弥漫空气": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radioactive dust fills the air",
+      "JP": "放射能の塵が空気中に漂う",
+      "CN": "",
+      "KR": "방사성먼지가 공기를 가득 채운다",
+      "TW": "輻射塵埃瀰漫空氣"
+    }
+  },
+  "舌头留下难移糖霜": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Tongue coated with stubborn frosting",
+      "JP": "舌に残った取り除けない砂糖の粉",
+      "CN": "",
+      "KR": "혀에 지워지기 힘든 설탕 가루가 남아 있다",
+      "TW": "舌頭留下難移糖霜"
+    }
+  },
+  "身体机能即将崩溃": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Physical functions about to collapse",
+      "JP": "身体機能はもうすぐ限界に達する",
+      "CN": "",
+      "KR": "신체 기능이 곧 붕괴될 것이다",
+      "TW": "身體機能即將崩潰"
+    }
+  },
+  "我清醒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I'm awake",
+      "JP": "私は目覚める",
+      "CN": "",
+      "KR": "나는 깨어 있다",
+      "TW": "我清醒"
+    }
+  },
+  "Act:序章 结束": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Act: Prologue - End",
+      "JP": "Act:序章 終了",
+      "CN": "",
+      "KR": "작전: 서막 종료",
+      "TW": "Act:序章 結束"
+    }
+  },
+  "垃圾场大门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Scrap Gate opens in 20s",
+      "JP": "ごみ処理場の扉は20秒後に開きます",
+      "CN": "",
+      "KR": "쓰레기장 문의 20초 후 개방",
+      "TW": "垃圾場大門將於20秒後打開"
+    }
+  },
+  "垃圾场大门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The Junkyard Gate will open in 10s",
+      "JP": "埋立地の門が10秒後に開きます",
+      "CN": "",
+      "KR": "쓰레기장 입구가 10초 후 열립니다",
+      "TW": "垃圾場大門將在 10 秒後打開"
+    }
+  },
+  "垃圾场大门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The Junkyard Gate will open in 5s",
+      "JP": "埋立地の門が5秒後に開きます",
+      "CN": "",
+      "KR": "쓰레기장 입구가 5초 후 열립니다",
+      "TW": "垃圾場大門將在 5 秒後打開"
+    }
+  },
+  "[10s后僵尸传送]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Zombie Portal Opens in 10s]",
+      "JP": "[10秒後にゾンフを送信]",
+      "CN": "",
+      "KR": "[10초 후 좀비 전송]",
+      "TW": "[10 秒後殭屍傳送]"
+    }
+  },
+  "下水道入口将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The Sewer Entrance will open in 20s",
+      "JP": "下水の入口が20秒後に開きます",
+      "CN": "",
+      "KR": "하수구 입구가 20초 후 열립니다",
+      "TW": "下水道入口將在 20 秒後打開"
+    }
+  },
+  "下水道入口将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The Sewer Entrance will open in 10s",
+      "JP": "下水の入口が10秒後に開きます",
+      "CN": "",
+      "KR": "하수구 입구가 10초 후 열립니다",
+      "TW": "下水道入口將在 10 秒後打開"
+    }
+  },
+  "上门将于60s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The Upper Door will open in 60s",
+      "JP": "門が60秒後に開きます",
+      "CN": "",
+      "KR": "위쪽 문이 60초 후 열립니다",
+      "TW": "上門將在 60 秒後打開"
+    }
+  },
+  "下水道入口将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The Sewer Entrance will open in 5s",
+      "JP": "下水の入口が5秒後に開きます",
+      "CN": "",
+      "KR": "하수구 입구가 5초 후 열립니다",
+      "TW": "下水道入口將在 5 秒後打開"
+    }
+  },
+  "下门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The Lower Door will open in 20s",
+      "JP": "下門が20秒後に開きます",
+      "CN": "",
+      "KR": "아래쪽 문이 20초 후 열립니다",
+      "TW": "下門將在 20 秒後打開"
+    }
+  },
+  "上门将于30s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The top door will open in 30s",
+      "JP": "上门は30秒後に開きます",
+      "CN": "",
+      "KR": "상단 문이 30초 후에 열립니다",
+      "TW": "上門將於30秒後打開"
+    }
+  },
+  "下门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The bottom door will open in 10s",
+      "JP": "下門は10秒後に開きます",
+      "CN": "",
+      "KR": "하단 문이 10초 후에 열립니다",
+      "TW": "下門將於10秒後打開"
+    }
+  },
+  "井盖其实是披萨": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The manhole cover is actually a pizza",
+      "JP": "マンホール実はピザ",
+      "CN": "",
+      "KR": "맨홀 뚜껑은 사실 피자입니다",
+      "TW": "人孔蓋其實是披薩"
+    }
+  },
+  "下门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The bottom door will open in 5s",
+      "JP": "下門は5秒後に開きます",
+      "CN": "",
+      "KR": "하단 문이 5초 후에 열립니다",
+      "TW": "下門將於5秒後打開"
+    }
+  },
+  "上门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The top door will open in 20s",
+      "JP": "上门は20秒後に開きます",
+      "CN": "",
+      "KR": "상단 문이 20초 후에 열립니다",
+      "TW": "上門將於20秒後打開"
+    }
+  },
+  "一名玩家捡起了激光枪": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up the laser gun",
+      "JP": "プレイヤーがレーザーガンを持ち上げた",
+      "CN": "",
+      "KR": "플레이어 한 명이 레이저 건을 주웠습니다",
+      "TW": "一名玩家撿起了雷射槍"
+    }
+  },
+  "上门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The top door will open in 10s",
+      "JP": "上门は10秒後に開きます",
+      "CN": "",
+      "KR": "상단 문이 10초 후에 열립니다",
+      "TW": "上門將於10秒後打開"
+    }
+  },
+  "上门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The top door will open in 5s",
+      "JP": "上门は5秒後に開きます",
+      "CN": "",
+      "KR": "상단 문이 5초 후에 열립니다",
+      "TW": "上門將於5秒後打開"
+    }
+  },
+  "咦呃 难怪下水道这么臭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Huh, no wonder the sewer smells so bad.",
+      "JP": "ひえっ、难怪下水道这么臭",
+      "CN": "",
+      "KR": "이잉? 그래서 하수道 냄새가 왜 이리 세졌는지 알았네",
+      "TW": "咦，難怪下水道這麼臭"
+    }
+  },
+  "完了 好像要喷射了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Oh no, I think I'm about to burst.",
+      "JP": "やばい、もう出す...",
+      "CN": "",
+      "KR": "말렸다, 갑자기 토해져도 모를 판이다",
+      "TW": "完了，好像要噴射了"
+    }
+  },
+  "栈道上侧门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Upper side door will open in 10s.",
+      "JP": "栈道上侧门将于10s后打开",
+      "CN": "",
+      "KR": "발上面的 측문은 10초 후 열립니다",
+      "TW": "棧道上側門將於10秒後開啟"
+    }
+  },
+  "栈道上侧门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Upper side door will open in 5s.",
+      "JP": "栈道上侧门将于5s后打开",
+      "CN": "",
+      "KR": "선도 위쪽 문이 5초 후에 개방됩니다.",
+      "TW": "棧道上側門將於5秒後開啟"
+    }
+  },
+  "栈道下侧门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Lower side door will open in 10s.",
+      "JP": "栈道下侧门将于10s后打开",
+      "CN": "",
+      "KR": "아래쪽 계단의 문은 10초 후에 열립니다.",
+      "TW": "棧道下側門將於10秒後開啟"
+    }
+  },
+  "栈道下侧门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Lower side door will open in 5s.",
+      "JP": "栈道下侧门将于5s后打开",
+      "CN": "",
+      "KR": "하단 창문이5초후에 열려.",
+      "TW": "棧道下側門將於5秒後開啟"
+    }
+  },
+  "栈道二门将于30s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Second door will open in 30s.",
+      "JP": "栈道二门将于30s后打开",
+      "CN": "",
+      "KR": "중간 계단은 30초 후에 작동합니다.",
+      "TW": "棧道二門將於30秒後開啟"
+    }
+  },
+  "栈道二门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Second door will open in 20s.",
+      "JP": "栈道二门将于20s后打开",
+      "CN": "",
+      "KR": "중간 층은 20초 후에 열립니다.",
+      "TW": "棧道二門將於20秒後開啟"
+    }
+  },
+  "栈道二门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Exit Gate 2 opens in 10s",
+      "JP": "第二の竪穴は10秒後に開く",
+      "CN": "",
+      "KR": "새장 2문이 10초 후에 열립니다",
+      "TW": "棧道二門將於10秒後開啟"
+    }
+  },
+  "栈道二门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Exit Gate 2 opens in 5s",
+      "JP": "第二の竪穴は5秒後に開く",
+      "CN": "",
+      "KR": "새장 2문이 5초 후에 열립니다",
+      "TW": "棧道二門將於5秒後開啟"
+    }
+  },
+  "电梯将于20s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator rises in 20s",
+      "JP": "エレベーターは20秒後に上昇する",
+      "CN": "",
+      "KR": "엘리베이터가 20초 후에 상승합니다",
+      "TW": "電梯將於20秒後上升"
+    }
+  },
+  "电梯将于10s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator rises in 10s",
+      "JP": "エレベーターは10秒後に上昇する",
+      "CN": "",
+      "KR": "엘리베이터가 10초 후에 상승합니다",
+      "TW": "電梯將於10秒後上升"
+    }
+  },
+  "电梯将于5s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator rises in 5s",
+      "JP": "エレベーターは5秒後に上昇する",
+      "CN": "",
+      "KR": "엘리베이터가 5초 후에 상승합니다",
+      "TW": "電梯將於5秒後上升"
+    }
+  },
+  "隧道小门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Tunnel side gate opens in 20s",
+      "JP": "トンの小さな扉は20秒後に開く",
+      "CN": "",
+      "KR": "터널 소문이 20초 후에 열립니다",
+      "TW": "隧道小門將於20秒後開啟"
+    }
+  },
+  "一名玩家捡起了治疗": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up healing",
+      "JP": "プレイヤー1人が回復アイテムを拾った",
+      "CN": "",
+      "KR": "한 명의 플레이어가 치료약을拾었습니다",
+      "TW": "一名玩家拾取了治療藥水"
+    }
+  },
+  "隧道小门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Tunnel side gate opens in 10s",
+      "JP": "トンの小さな扉は10秒後に開く",
+      "CN": "",
+      "KR": "터널 소문이 10초 후에 열립니다",
+      "TW": "隧道小門將於10秒後開啟"
+    }
+  },
+  "隧道小门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The tunnel door will open in 5s",
+      "JP": "トンネルの小さな门が5秒後に开く",
+      "CN": "",
+      "KR": "터널의 작은 문이 5초 후에 열립니다",
+      "TW": "隧道小門將於5秒後打開"
+    }
+  },
+  "你接受了黑哥的电话": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You accepted Brother Black's call",
+      "JP": "あなたはクロコダイルからの电话を受诺しました",
+      "CN": "",
+      "KR": "그는 흑인 남성의 전화를 받았습니다",
+      "TW": "你接聽了黑哥的手機來電"
+    }
+  },
+  "哟 这个隧道来了新访客": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yo, this tunnel has a new visitor",
+      "JP": "やあ このトンネルに新しい访问客が来てるな",
+      "CN": "",
+      "KR": "이 터널에 새로운 방문객이 왔네요",
+      "TW": "嚯，這條隧道新來了個訪客"
+    }
+  },
+  "你能看到我的金项链吗 24K的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Can you see my gold necklace? 24K",
+      "JP": "私の金のネックレス见えるか 24Kだよ",
+      "CN": "",
+      "KR": "내 금색 목걸이가 보이시나요? 24K입니다",
+      "TW": "你看到我這條24K金項鍊了嗎？"
+    }
+  },
+  "什么你想要通过这个隧道": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What, you want to go through this tunnel?",
+      "JP": "なになに お前はそのトンネルを通りたいのか",
+      "CN": "",
+      "KR": "무슨 뜻이죠, 이 터널을 통과하시려는 건가요?",
+      "TW": "你是想穿越這條隧道嗎"
+    }
+  },
+  "又一群糖果追求者": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yet another group of candy seekers",
+      "JP": "また一组のキャンディコレクターがやってきました",
+      "CN": "",
+      "KR": "다시 한 번 사탕 추종자들이 나타났습니다",
+      "TW": "又是一群糖果追擊者"
+    }
+  },
+  "先经过Catr的考验再说吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Let's see if you can pass Catr's trial first",
+      "JP": "まずキャットからの试练を乗り越えてからさ",
+      "CN": "",
+      "KR": "우선 Catr의 시련을 통과한 뒤에 이야기합시다",
+      "TW": "先通過Catr的考驗再說吧"
+    }
+  },
+  "好像有什么动静...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Seems like something's moving...",
+      "JP": "何か动静があるようだ…",
+      "CN": "",
+      "KR": "무언가 소리가 나는 것 같은데...",
+      "TW": "好像有什麼聲響..."
+    }
+  },
+  "快跑!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Run!!!",
+      "JP": "逃げろ!!!",
+      "CN": "",
+      "KR": "빨리 달리기!!!",
+      "TW": "快跑!!!"
+    }
+  },
+  "安全通道将于30s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The safe exit will open in 30s",
+      "JP": "安全通路は30秒後に開放されます",
+      "CN": "",
+      "KR": "안전 통로가 30초 후에 개방됩니다",
+      "TW": "安全通道將於30秒後開啟"
+    }
+  },
+  "安全通道将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The safe exit will open in 20s",
+      "JP": "安全通路は20秒後に開放されます",
+      "CN": "",
+      "KR": "안전 통로가 20초 후에 개방됩니다",
+      "TW": "安全通道將於20秒後開啟"
+    }
+  },
+  "安全通道将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The safe exit will open in 10s",
+      "JP": "安全通路は10秒後に開放されます",
+      "CN": "",
+      "KR": "안전 통로가 10초 후에 개방됩니다",
+      "TW": "安全通道將於10秒後開啟"
+    }
+  },
+  "安全通道将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The safe exit will open in 5s",
+      "JP": "安全通路は5秒後に開放されます",
+      "CN": "",
+      "KR": "안전 통로가 5초 후에 개방됩니다",
+      "TW": "安全通道將於5秒後開啟"
+    }
+  },
+  "通道门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gateway door will open in 20s",
+      "JP": "通路扉は20秒後に開放されます",
+      "CN": "",
+      "KR": "통로문이 20초 후에 개방됩니다",
+      "TW": "通道門將於20秒後開啟"
+    }
+  },
+  "通道门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gateway door will open in 10s",
+      "JP": "通路扉は10秒後に開放されます",
+      "CN": "",
+      "KR": "통로문이 10초 후에 개방됩니다",
+      "TW": "通道門將於10秒後開啟"
+    }
+  },
+  "通道门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gateway door will open in 5s",
+      "JP": "通路扉は5秒後に開放されます",
+      "CN": "",
+      "KR": "통로문이 5초 후에 개방됩니다",
+      "TW": "通道門將於5秒後開啟"
+    }
+  },
+  "小升降梯将于30s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Small elevator departing in 30s",
+      "JP": "小型エレベーターは30秒後に出発します",
+      "CN": "",
+      "KR": "작은 엘리베이터가 30초 후에 출발합니다",
+      "TW": "小升降梯將於30秒後離開"
+    }
+  },
+  "小升降梯将于20s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Small elevator departing in 20s",
+      "JP": "小型エレベーターは20秒後に出発します",
+      "CN": "",
+      "KR": "작은 엘리베이터가 20초 후에 출발합니다",
+      "TW": "小升降梯將於20秒後離開"
+    }
+  },
+  "小升降梯将于10s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Small elevator departing in 10s",
+      "JP": "小型エレベーターは10秒後に出発します",
+      "CN": "",
+      "KR": "작은 엘리베이터가 10초 후에 출발합니다",
+      "TW": "小升降梯將於10秒後離開"
+    }
+  },
+  "小升降梯将于5s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Small elevator departing in 5s",
+      "JP": "小型エレベーターは5秒後に出発します",
+      "CN": "",
+      "KR": "작은 엘리베이터가 5초 후에 출발합니다",
+      "TW": "小升降梯將於5秒後離開"
+    }
+  },
+  "控制室小门将于30s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Control room side door opening in 30s",
+      "JP": "管制室の小さな扉は30秒後に開きます",
+      "CN": "",
+      "KR": "통제실 작은 문이 30초 후에 열립니다",
+      "TW": "控制室小門將於30秒後打開"
+    }
+  },
+  "控制室小门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Control room side door opening in 20s",
+      "JP": "管制室の小さな扉は20秒後に開きます",
+      "CN": "",
+      "KR": "통제실 작은 문이 20초 후에 열립니다",
+      "TW": "控制室小門將於20秒後打開"
+    }
+  },
+  "主升降梯将于50s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Main elevator departing in 50s",
+      "JP": "メインエレベーターは50秒後に出発します",
+      "CN": "",
+      "KR": "메인 엘리베이터가 50초 후에 출발합니다",
+      "TW": "主升降梯將於50秒後離開"
+    }
+  },
+  "控制室小门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Control room side door opening in 10s",
+      "JP": "管制室の小さな扉は10秒後に開きます",
+      "CN": "",
+      "KR": "통제실 작은 문이 10초 후에 열립니다",
+      "TW": "控制室小門將於10秒後打開"
+    }
+  },
+  "控制室小门将于5s后离打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The control room side door will open in 5s",
+      "JP": "コントロール室の扉が5秒後に開きます",
+      "CN": "",
+      "KR": "제어실 소문이 5초 후 열립니다",
+      "TW": "控制室小門將於5秒後關閉"
+    }
+  },
+  "主升降梯将于30s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Main elevator departing in 30s",
+      "JP": "メインエレベーターが30秒後に発車します",
+      "CN": "",
+      "KR": "메인 엘리베이터가 30초 후 이동합니다",
+      "TW": "主升降梯將於30秒後關閉"
+    }
+  },
+  "主升降梯将于20s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Main elevator departing in 20s",
+      "JP": "メインエレベーターが20秒後に発車します",
+      "CN": "",
+      "KR": "메인 엘리베이터가 20초 후 이동합니다",
+      "TW": "主升降梯將於20秒後關閉"
+    }
+  },
+  "主升降梯将于10s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Main elevator departing in 10s",
+      "JP": "メインエレベーターが10秒後に発車します",
+      "CN": "",
+      "KR": "메인 엘리베이터가 10초 후 이동합니다",
+      "TW": "主升降梯將於10秒後關閉"
+    }
+  },
+  "主升降梯将于5s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Main elevator departing in 5s",
+      "JP": "メインエレベーターが5秒後に発車します",
+      "CN": "",
+      "KR": "메인 엘리베이터가 5초 후 이동합니다",
+      "TW": "主升降梯將於5秒後關閉"
+    }
+  },
+  "逃生出口将于30s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Emergency exit opening in 30s",
+      "JP": "避難出口が30秒後に開放されます",
+      "CN": "",
+      "KR": "대피구가 30초 후 열립니다",
+      "TW": "逃生出口將於30秒後開啟"
+    }
+  },
+  "逃生出口将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Emergency exit opening in 20s",
+      "JP": "避難出口が20秒後に開放されます",
+      "CN": "",
+      "KR": "대피구가 20초后 열립니다",
+      "TW": "逃生出口將於20秒後開啟"
+    }
+  },
+  "逃生出口将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Emergency exit opening in 10s",
+      "JP": "避難出口が10秒後に開放されます",
+      "CN": "",
+      "KR": "대피구가 10초后 열립니다",
+      "TW": "逃生出口將於10秒後開啟"
+    }
+  },
+  "逃生出口将于5s后离打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The escape exit will open in 5s",
+      "JP": "避難経路は5秒後に開放されます",
+      "CN": "",
+      "KR": "탈출구가 5초 후 개방됩니다",
+      "TW": "逃生出口將於5秒後開啟"
+    }
+  },
+  "Act:I 结束": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Act I: Completed",
+      "JP": "Act:I 終了",
+      "CN": "",
+      "KR": "Act:I 종료",
+      "TW": "Act:I 結束"
+    }
+  },
+  "商场大门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The mall entrance will open in 10s",
+      "JP": "モール正門は10秒後に開放されます",
+      "CN": "",
+      "KR": "쇼핑몰 정문이 10초 후 개방됩니다",
+      "TW": "商場大門將於10秒後開啟"
+    }
+  },
+  "商场大门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The mall entrance will open in 5s",
+      "JP": "モール正門は5秒後に開放されます",
+      "CN": "",
+      "KR": "쇼핑몰 정문이 5초 후 개방됩니다",
+      "TW": "商場大門將於5秒後開啟"
+    }
+  },
+  "噢→": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Oh→",
+      "JP": "オー→",
+      "CN": "",
+      "KR": "오→",
+      "TW": "噢→"
+    }
+  },
+  "商场暗房将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The mall secret room will open in 20s",
+      "JP": "モール地下階は20秒後に開放されます",
+      "CN": "",
+      "KR": "쇼핑몰 은신실이 20초 후 개방됩니다",
+      "TW": "商場密室將於20秒後開啟"
+    }
+  },
+  "商场地下门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The mall underground door will open in 20s",
+      "JP": "モール地下扉は20秒後に開放されます",
+      "CN": "",
+      "KR": "쇼핑몰 지하문이 20초 후 개방됩니다",
+      "TW": "商場地下門將於20秒後開啟"
+    }
+  },
+  "商场暗房将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The mall secret room will open in 10s",
+      "JP": "モール地下階は10秒後に開放されます",
+      "CN": "",
+      "KR": "쇼핑몰 은신실이 10초 후 개방됩니다",
+      "TW": "商場密室將於10秒後開啟"
+    }
+  },
+  "商场暗房将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The mall's hidden room will open in 5s",
+      "JP": "ショッピングモールの暗室は5秒後に開放されます",
+      "CN": "",
+      "KR": "매장 격납실이 5초 후에 열립니다",
+      "TW": "商場暗房將於5秒後開啟"
+    }
+  },
+  "商场地下门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The mall's underground gate will open in 10s",
+      "JP": "ショッピングモールの地下門は10秒後に開放されます",
+      "CN": "",
+      "KR": "매장 지하문이 10초 후에 열립니다",
+      "TW": "商場地下門將於10秒後開啟"
+    }
+  },
+  "商场地下门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The mall's underground gate will open in 5s",
+      "JP": "ショッピングモールの地下門は5秒後に開放されます",
+      "CN": "",
+      "KR": "매장 지하문이 5초 후에 열립니다",
+      "TW": "商場地下門將於5秒後開啟"
+    }
+  },
+  "地下电梯将于20s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The underground elevator will rise in 20s",
+      "JP": "地下エレベーターは20秒後に上昇します",
+      "CN": "",
+      "KR": "지하 승강기가 20초 후에 상승합니다",
+      "TW": "地下電梯將於20秒後上升"
+    }
+  },
+  "地下电梯将于10s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The underground elevator will rise in 10s",
+      "JP": "地下エレベーターは10秒後に上昇します",
+      "CN": "",
+      "KR": "지하 승강기가 10초 후에 상승합니다",
+      "TW": "地下電梯將於10秒後上升"
+    }
+  },
+  "一名玩家捡起了手炮": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up a hand cannon",
+      "JP": "プレイヤーがハンドキャノンを持ち上げた",
+      "CN": "",
+      "KR": "한 명의 플레이어가 수제 포를 주웠다",
+      "TW": "一名玩家拾取了手炮"
+    }
+  },
+  "地下电梯将于5s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The underground elevator will rise in 5s",
+      "JP": "地下エレベーターは5秒後に上昇します",
+      "CN": "",
+      "KR": "지하 승강기가 5초 후에 상승합니다",
+      "TW": "地下電梯將於5秒後上升"
+    }
+  },
+  "电梯井门将于50s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator shaft door will open in 50s",
+      "JP": "エレベーターシャフトの扉は50秒後に開放されます",
+      "CN": "",
+      "KR": "엘리베이터 샤프트문이 50초 후에 열립니다",
+      "TW": "電梯井門將於50秒後開啟"
+    }
+  },
+  "电梯井门将于30s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator shaft door will open in 30s",
+      "JP": "エレベーターシャフトの扉は30秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터 샤프트 문이 30초 후에 열립니다",
+      "TW": "電梯井門將於30秒後打開"
+    }
+  },
+  "电梯井门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator shaft door will open in 20s",
+      "JP": "エレベーターシャフトの扉は20秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터 샤프트 문이 20초 후에 열립니다",
+      "TW": "電梯井門將於20秒後打開"
+    }
+  },
+  "电梯井门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator shaft door will open in 10s",
+      "JP": "エレベーターシャフトの扉は10秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터 샤프트 문이 10초 후에 열립니다",
+      "TW": "電梯井門將於10秒後打開"
+    }
+  },
+  "电梯井门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator shaft door will open in 5s",
+      "JP": "エレベーターシャフトの扉は5秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터 샤프트 문이 5초 후에 열립니다",
+      "TW": "電梯井門將於5秒後打開"
+    }
+  },
+  "我去Piggod": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I'm going to Piggod",
+      "JP": "行ってきます。",
+      "CN": "",
+      "KR": "피고드에 가서야",
+      "TW": "我去Piggod"
+    }
+  },
+  "额...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Uh...",
+      "JP": "えっと…",
+      "CN": "",
+      "KR": "음...",
+      "TW": "額..."
+    }
+  },
+  "电梯将于30s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will ascend in 30s",
+      "JP": "エレベーターは30秒後に上昇します",
+      "CN": "",
+      "KR": "엘리베이터가 30초 후에 상승합니다",
+      "TW": "電梯將於30秒後上升"
+    }
+  },
+  "[5s后僵尸传送]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Zombie teleport in 5s]",
+      "JP": "[5秒後にゾンフが転送]",
+      "CN": "",
+      "KR": "[5초 후 좀비 현신]",
+      "TW": "[5秒後殭屍傳送]"
+    }
+  },
+  "嘿 就是你": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hey, you there",
+      "JP": "やあ、あんたのことよ",
+      "CN": "",
+      "KR": "여기 있어!",
+      "TW": "嘿，就是你"
+    }
+  },
+  "我是糖果商店的老板": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I'm the owner of this candy shop",
+      "JP": "私はキャンディショップの店主よ",
+      "CN": "",
+      "KR": "나는 사탕가게 주인이야.",
+      "TW": "我是糖果店的店長"
+    }
+  },
+  "想必你也很喜欢糖果吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I guess you love candies too",
+      "JP": "きっとあなたもキャンディが好きよね",
+      "CN": "",
+      "KR": "너도 사탕을 좋아하겠지?",
+      "TW": "我想你也很喜歡糖果吧"
+    }
+  },
+  "美味的糖果": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Delicious candies",
+      "JP": "おいしいキャンディが",
+      "CN": "",
+      "KR": "맛있는 사탕.",
+      "TW": "美味的糖果"
+    }
+  },
+  "就因为他太上头了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Because they are just too addictive",
+      "JP": "あの、あまりにも中毒性が高くてさ",
+      "CN": "",
+      "KR": "그게 너무 흥분되니까.",
+      "TW": "就因為它太令人上癮了"
+    }
+  },
+  "所有人变卖家产都要得到一颗糖果": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Everyone sells their possessions just to get one candy",
+      "JP": "みんな財産を抛ってでもキャンディを手に入れようとするのよ",
+      "CN": "",
+      "KR": "모든 사람들은 사탕 하나를 얻기 위해 재산의 전부를 파셨지.",
+      "TW": "所有人變賣家產，只為求得一顆糖果"
+    }
+  },
+  "想必你也是来追求糖果的吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I assume you are also here for the candies",
+      "JP": "きっとあなたもキャンディを探しに来たんでしょ？",
+      "CN": "",
+      "KR": "너도 사탕을 얻으러 온 거겠지?",
+      "TW": "想必你也是來追求糖果的"
+    }
+  },
+  "我可以给你工厂的入场券": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I can give you a ticket to enter the factory",
+      "JP": "工場の入場チケットをあげるわ",
+      "CN": "",
+      "KR": "나는 너에게 공장의 입장권을 줄 수 있어.",
+      "TW": "我可以給你進入工廠的門票"
+    }
+  },
+  "毕竟每个人都喜欢糖果": {
+    "translation": "",
+    "MultiLang": {
+      "US": "After all, everyone likes candy.",
+      "JP": "だって誰だって好きだもの",
+      "CN": "",
+      "KR": "어쨌든 누구나 사탕은 좋아하지",
+      "TW": "畢竟每個人都喜歡糖果"
+    }
+  },
+  "什么？？？？ 你恨透了糖果": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What????? You hate candy to the core?",
+      "JP": "な、なに？！？！",
+      "CN": "",
+      "KR": "뭐??? 너는 사탕을 싫어해?",
+      "TW": "什麼？？？？ 你恨透了糖果"
+    }
+  },
+  "再无话说": {
+    "translation": "",
+    "MultiLang": {
+      "US": "No more words.",
+      "JP": "もう、言葉も出ないわ",
+      "CN": "",
+      "KR": "더 이상 할 말이 없다",
+      "TW": "再無話可說"
+    }
+  },
+  "你别想得到任何东西！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You will not get anything!!!",
+      "JP": "何一つ手に入れさせてはくれない！！！",
+      "CN": "",
+      "KR": "넌 절대 어떤 것도 얻지 못할 거야!!!",
+      "TW": "別想從我這裡得到任何東西！！！"
+    }
+  },
+  "运输板将于10s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Transport board will depart in 10s.",
+      "JP": "プラットフォームから10秒後に発車します",
+      "CN": "",
+      "KR": "화물 판이 10초 후에 떠납니다",
+      "TW": "運輸板將在10秒後離開"
+    }
+  },
+  "天台门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Rooftop door will open in 10s.",
+      "JP": "屋上のドアは10秒後に開きます",
+      "CN": "",
+      "KR": "옥상 문이 10초 후에 열립니다",
+      "TW": "天台門將在10秒後打開"
+    }
+  },
+  "运输板将于5s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Transport board will depart in 5s.",
+      "JP": "プラットフォームから5秒後に発車します",
+      "CN": "",
+      "KR": "화물 판이 5초 후에 떠납니다",
+      "TW": "運輸板將在5秒後離開"
+    }
+  },
+  "天台门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Rooftop door will open in 5s.",
+      "JP": "屋上のドアは5秒後に開きます",
+      "CN": "",
+      "KR": "옥상 문이 5초 후에 열립니다",
+      "TW": "天台門將在5秒後打開"
+    }
+  },
+  "(打爆所有糖果才能激活道路)": {
+    "translation": "",
+    "MultiLang": {
+      "US": "(Destroy all candies to activate the path)",
+      "JP": "すべてのキャンディーを破壊して道を有効化しよう",
+      "CN": "",
+      "KR": "(모든 사탕을 깨뜨려야 길을 활성화합니다)",
+      "TW": "(打爆所有糖果才能啟動道路)"
+    }
+  },
+  "不": {
+    "translation": "",
+    "MultiLang": {
+      "US": "No",
+      "JP": "いいえ",
+      "CN": "",
+      "KR": "아니요",
+      "TW": "不"
+    }
+  },
+  "你摧毁了我的糖果!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You destroyed my candy!!!",
+      "JP": "キャンディーを壊した!!!",
+      "CN": "",
+      "KR": "당신이 제 사탕을 파괴했어요!!!",
+      "TW": "你摧毀了我的糖果!!!"
+    }
+  },
+  "壁岩机关将于20s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Wall rock mechanism activates in 20s",
+      "JP": "岩盤の罠は20秒後に起動します",
+      "CN": "",
+      "KR": "벽돌 메커니즘이 20초 후에 작동합니다",
+      "TW": "壁岩機關將於20秒後啟動"
+    }
+  },
+  "壁岩机关将于10s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Wall rock mechanism activates in 10s",
+      "JP": "岩盤の罠は10秒後に起動します",
+      "CN": "",
+      "KR": "벽돌 메커니즘이 10초 후에 작동합니다",
+      "TW": "壁岩機關將於10秒後啟動"
+    }
+  },
+  "壁岩机关将于5s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Wall rock mechanism activates in 5s",
+      "JP": "岩盤の罠は5秒後に起動します",
+      "CN": "",
+      "KR": "벽돌 메커니즘이 5초 후에 작동합니다",
+      "TW": "壁岩機關將於5秒後啟動"
+    }
+  },
+  "电梯将于20s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator activates in 20s",
+      "JP": "エレベーターは20秒後に起動します",
+      "CN": "",
+      "KR": "엘리베이터가 20초 후에 작동합니다",
+      "TW": "電梯將於20秒後啟動"
+    }
+  },
+  "电梯将于10s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator activates in 10s",
+      "JP": "エレベーターは10秒後に起動します",
+      "CN": "",
+      "KR": "엘리베이터가 10초 후에 작동합니다",
+      "TW": "電梯將於10秒後啟動"
+    }
+  },
+  "电梯将于5s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will start in 5 seconds.",
+      "JP": "エレベーターが5秒後に起動します",
+      "CN": "",
+      "KR": "엘리베이터가 5초 후 작동합니다",
+      "TW": "電梯將於5秒後啟動"
+    }
+  },
+  "真吓人 好像上面是出口": {
+    "translation": "",
+    "MultiLang": {
+      "US": "So scary. It seems the exit is above.",
+      "JP": "ちょっとビックリしたわ。恐らく上が出口ね",
+      "CN": "",
+      "KR": "정말 무섭다. 위쪽이 출구인 것 같아",
+      "TW": "真嚇人，好像上面是出口"
+    }
+  },
+  "逃离了吗?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Did I escape?",
+      "JP": "逃げられたかしら？",
+      "CN": "",
+      "KR": "탈출했나?",
+      "TW": "逃脫了嗎？"
+    }
+  },
+  "怎么回事": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What's going on?",
+      "JP": "どういうこと?",
+      "CN": "",
+      "KR": "뭔가 잘못됐어",
+      "TW": "怎麼回事"
+    }
+  },
+  "大门将于30s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The main gate will open in 30 seconds.",
+      "JP": "門が30秒後に開きます",
+      "CN": "",
+      "KR": "대문이 30초 후 열립니다",
+      "TW": "大門將於30秒後打開"
+    }
+  },
+  "大门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The main gate will open in 20 seconds.",
+      "JP": "門が20秒後に開きます",
+      "CN": "",
+      "KR": "대문이 20초 후 열립니다",
+      "TW": "大門將於20秒後打開"
+    }
+  },
+  "大门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The main gate will open in 10 seconds.",
+      "JP": "門が10秒後に開きます",
+      "CN": "",
+      "KR": "대문이 10초 후 열립니다",
+      "TW": "大門將於10秒後打開"
+    }
+  },
+  "大门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The main gate will open in 5 seconds.",
+      "JP": "門が5秒後に開きます",
+      "CN": "",
+      "KR": "대문이 5초 후 열립니다",
+      "TW": "大門將於5秒後打開"
+    }
+  },
+  "朝天花板的石锥射击!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fire at the stalactites!!",
+      "JP": "天井の石筍が射撃！！",
+      "CN": "",
+      "KR": "천장의 석순에 발사!!",
+      "TW": "朝天花板的石錐射擊!!"
+    }
+  },
+  "竞技场将于15s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The arena will start in 15s",
+      "JP": "アリーナは15秒後に起動します",
+      "CN": "",
+      "KR": "경마장이 15초 후 개장됩니다",
+      "TW": "競技場將於15秒後啟動"
+    }
+  },
+  "竞技场将于10s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The arena will start in 10s",
+      "JP": "アリーナは10秒後に起動します",
+      "CN": "",
+      "KR": "경마장이 10초 후 개장됩니다",
+      "TW": "競技場將於10秒後啟動"
+    }
+  },
+  "竞技场将于5s后启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The arena will start in 5s",
+      "JP": "アリーナは5秒後に起動します",
+      "CN": "",
+      "KR": "경마장이 5초 후 개장됩니다",
+      "TW": "競技場將於5秒後啟動"
+    }
+  },
+  "闹剧终于结束了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The farce is finally over",
+      "JP": "おどろおどろしい出来事はついに終わりました",
+      "CN": "",
+      "KR": "어정쩡함이 드디어 끝나네",
+      "TW": "鬧劇終於結束了"
+    }
+  },
+  "是时候反击Baby了!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Time to fight back, Baby!!",
+      "JP": "ベイビーに反撃する時です！！",
+      "CN": "",
+      "KR": "베비에게 반격할 때야!!",
+      "TW": "是時候反擊Baby了!!"
+    }
+  },
+  "Act:II 结束": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Act:II ends",
+      "JP": "Act:II 終了",
+      "CN": "",
+      "KR": "Act:II 종료",
+      "TW": "Act:II 結束"
+    }
+  },
+  "20s后将进入工厂内部": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The factory interior will be accessible in 20s",
+      "JP": "20秒後に工場内部に入ります",
+      "CN": "",
+      "KR": "20초 후 공장 내부로 진입",
+      "TW": "20秒後將進入工廠內部"
+    }
+  },
+  "10s后将进入工厂内部": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Entering factory interior in 10s",
+      "JP": "10秒後に工場内部へ入ります",
+      "CN": "",
+      "KR": "10초 후 공장 내부로 진입합니다",
+      "TW": "10秒後將進入工廠內部"
+    }
+  },
+  "5s后将进入工厂内部": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Entering factory interior in 5s",
+      "JP": "5秒後に工場内部へ入ります",
+      "CN": "",
+      "KR": "5초 후 공장 내부로 진입합니다",
+      "TW": "5秒後將進入工廠內部"
+    }
+  },
+  "等待...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Waiting...",
+      "JP": "待機中...",
+      "CN": "",
+      "KR": "대기 중...",
+      "TW": "等待中..."
+    }
+  },
+  "卷帘门将于15s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Roller shutter opening in 15s",
+      "JP": "シャッターは15秒後に開きます",
+      "CN": "",
+      "KR": "커튼 게이트가 15초 후에 열립니다",
+      "TW": "捲簾門將於15秒後打開"
+    }
+  },
+  "跳下去!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Jump down!!",
+      "JP": "飛び降りる!!",
+      "CN": "",
+      "KR": "떨어지세요!!",
+      "TW": "跳下去！！"
+    }
+  },
+  "卷帘门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Roller shutter opening in 5s",
+      "JP": "シャッターは5秒後に開きます",
+      "CN": "",
+      "KR": "커튼 게이트가 5초 후에 열립니다",
+      "TW": "捲簾門將於5秒後打開"
+    }
+  },
+  "激光将于30s后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Laser deactivated in 30s",
+      "JP": "レーザーは30秒後に消えます",
+      "CN": "",
+      "KR": "레이저가 30초 후에 꺼집니다",
+      "TW": "雷射光束將於30秒後關閉"
+    }
+  },
+  "激光将于20s后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Laser deactivated in 20s",
+      "JP": "レーザーは20秒後に消えます",
+      "CN": "",
+      "KR": "레이저가 20초 후에 꺼집니다",
+      "TW": "雷射光束將於20秒後關閉"
+    }
+  },
+  "激光将于10s后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The laser will shut off in 10s",
+      "JP": "レーザーは10秒後に無効化されます",
+      "CN": "",
+      "KR": "레이저가 10초 후에 꺼집니다",
+      "TW": "雷射光束將於10秒後關閉"
+    }
+  },
+  "激光将于5s后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The laser will shut off in 5s",
+      "JP": "レーザーは5秒後に無効化されます",
+      "CN": "",
+      "KR": "레이저가 5초 후에 꺼집니다",
+      "TW": "雷射光束將於5秒後關閉"
+    }
+  },
+  "货物将于10s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The cargo will rise in 10s",
+      "JP": "貨物は10秒後に上昇します",
+      "CN": "",
+      "KR": "화물이 10초 후에 상승합니다",
+      "TW": "貨物將於10秒後升起"
+    }
+  },
+  "货物将于5s后上升": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The cargo will rise in 5s",
+      "JP": "貨物は5秒後に上昇します",
+      "CN": "",
+      "KR": "화물이 5초 후에 상승합니다",
+      "TW": "貨物將於5秒後升起"
+    }
+  },
+  "这死猪又来了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "That damn pig is back",
+      "JP": "またあの死豬がやってきたな",
+      "CN": "",
+      "KR": "이 돼지 또 왔네",
+      "TW": "這死豬又來了"
+    }
+  },
+  "我真服了 快点打爆他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I'm so done. Hurry up and blast him.",
+      "JP": "本当に疲れちゃった 早く倒しちまえ",
+      "CN": "",
+      "KR": "정말 귀찮다. 빨리 때려라",
+      "TW": "我真服了，快點打爆他"
+    }
+  },
+  "[15s后僵尸传送]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Zombie teleport in 15s]",
+      "JP": "[15秒後にゾンビ転送]",
+      "CN": "",
+      "KR": "[15초 후 좀비 텔레포트]",
+      "TW": "[15秒後殭屍傳送]"
+    }
+  },
+  "电梯井门将于40s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator shaft door will open in 40s",
+      "JP": "エレベーターシャフトの扉は40秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터 셔터가 40초 후에 열립니다",
+      "TW": "電梯井門將於40秒後開啟"
+    }
+  },
+  "一名玩家捡起了火箭炮": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up the Rocket Launcher",
+      "JP": "プレイヤーがロケットランチャーを拾った",
+      "CN": "",
+      "KR": "플레이어가 로켓 런처를拾었습니다",
+      "TW": "一名玩家拾取了火箭筒"
+    }
+  },
+  "电梯将在5s后运转": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will activate in 5s",
+      "JP": "エレベーターは5秒後に稼働します",
+      "CN": "",
+      "KR": "엘리베이터가 5초 후에 작동합니다",
+      "TW": "電梯將於5秒後啟動"
+    }
+  },
+  "最终激光将于20s后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Final laser will shut down in 20s",
+      "JP": "最終レーザーは20秒後に消滅します",
+      "CN": "",
+      "KR": "최종 레이저가 20초 후에 꺼집니다",
+      "TW": "最終激光護盾將於20秒後關閉"
+    }
+  },
+  "最终激光将于10s后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Final laser will shut down in 10s",
+      "JP": "最終レーザーは10秒後に消滅します",
+      "CN": "",
+      "KR": "최종 레이저가 10초 후에 꺼집니다",
+      "TW": "最終激光護盾將於10秒後關閉"
+    }
+  },
+  "最终激光将于5s后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Final laser will shut down in 5s",
+      "JP": "最終レーザーは5秒後に消滅します",
+      "CN": "",
+      "KR": "최종 레이저가 5초 후에 꺼집니다",
+      "TW": "最終激光護盾將於5秒後關閉"
+    }
+  },
+  "挡板将于15s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Barrier will open in 15s",
+      "JP": "バリアは15秒後に開きます",
+      "CN": "",
+      "KR": "막판이 15초 후에 열립니다",
+      "TW": "擋板將於15秒後開啟"
+    }
+  },
+  "挡板将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Barrier will open in 5s",
+      "JP": "バリアは5秒後に開きます",
+      "CN": "",
+      "KR": "막판이 5초 후에 열립니다",
+      "TW": "擋板將於5秒後開啟"
+    }
+  },
+  "木板将于20s后落下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Wooden platform will drop in 20s",
+      "JP": "木板は20秒後に落下します",
+      "CN": "",
+      "KR": "나무 판자가 20초 후에 떨어집니다",
+      "TW": "木板將於20秒後掉落"
+    }
+  },
+  "木板将于10s后落下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The board will drop in 10s.",
+      "JP": "木板が10秒後に落下します",
+      "CN": "",
+      "KR": "나무 판자가 10초 후에 떨어집니다",
+      "TW": "木板將於10秒後落下"
+    }
+  },
+  "木板将于5s后落下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The board will drop in 5s.",
+      "JP": "木板が5秒後に落下します",
+      "CN": "",
+      "KR": "나무 판자가 5초 후에 떨어집니다",
+      "TW": "木板將於5秒後落下"
+    }
+  },
+  "电梯将于20s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will depart in 20s.",
+      "JP": "エレベーターが20秒後に出発します",
+      "CN": "",
+      "KR": "엘리베이터가 20초 후에 떠납니다",
+      "TW": "電梯將於20秒後離開"
+    }
+  },
+  "电梯将于10s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will depart in 10s.",
+      "JP": "エレベーターが10秒後に出発します",
+      "CN": "",
+      "KR": "엘리베이터가 10초 후에 떠납니다",
+      "TW": "電梯將於10秒後離開"
+    }
+  },
+  "电梯将于5s后离开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will depart in 5s.",
+      "JP": "エレベーターが5秒後に出発します",
+      "CN": "",
+      "KR": "엘리베이터가 5초 후에 떠납니다",
+      "TW": "電梯將於5秒後離開"
+    }
+  },
+  "运载板正在下降...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The lift is descending...",
+      "JP": "ペリカル板が降下中...",
+      "CN": "",
+      "KR": "운반판이 하강 중...",
+      "TW": "運送板正在下降..."
+    }
+  },
+  "最终大门将于30s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The final gate will open in 30s.",
+      "JP": "最終扉が30秒後に開きます",
+      "CN": "",
+      "KR": "최종 문이 30초 후에 열립니다",
+      "TW": "最終大門將於30秒後開啟"
+    }
+  },
+  "最终大门将于20s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The final gate will open in 20s.",
+      "JP": "最終扉が20秒後に開きます",
+      "CN": "",
+      "KR": "최종 문이 20초 후에 열립니다",
+      "TW": "最終大門將於20秒後開啟"
+    }
+  },
+  "最终大门将于10s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The final door will open in 10s",
+      "JP": "最終ゲートは10秒後に開きます",
+      "CN": "",
+      "KR": "최종 문이 10초 후 열립니다.",
+      "TW": "最終大門將於10秒後開啟"
+    }
+  },
+  "最终大门将于5s后打开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The final door will open in 5s",
+      "JP": "最終ゲートは5秒後に開きます",
+      "CN": "",
+      "KR": "최종 문이 5초 후 열립니다.",
+      "TW": "最終大門將於5秒後開啟"
+    }
+  },
+  "终于找到你了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Found you at last",
+      "JP": "やっと見つけたよ",
+      "CN": "",
+      "KR": "드디어 널 찾았어.",
+      "TW": "終於找到你了"
+    }
+  },
+  "[朝Baby头盔射击]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Shoot Baby's helmet]",
+      "JP": "[ベビーのヘルメットに射撃]",
+      "CN": "",
+      "KR": "[베이비 헬멧에 총기 발사]",
+      "TW": "[朝Baby頭盔射擊]"
+    }
+  },
+  "Baby!!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ベビー!!!!",
+      "CN": "宝宝！！！",
+      "KR": "베이비!!!!",
+      "TW": "Baby!!!!"
+    }
+  },
+  "弹跳板已启用": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Springboard enabled",
+      "JP": "バウンスパッドが有効化されました",
+      "CN": "",
+      "KR": "트램펄린 활성화됨.",
+      "TW": "彈跳板已啟用"
+    }
+  },
+  "你们击败了baby!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You have defeated baby!!!",
+      "JP": "みんなでベビーを倒しました!!!",
+      "CN": "",
+      "KR": "너네 베이비를 물리쳤어!!!",
+      "TW": "你們擊敗了baby!!!"
+    }
+  },
+  "现在前往传送门离开吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Proceed to the portal to leave now",
+      "JP": "今すぐポータルへ進んで脱出しましょう",
+      "CN": "",
+      "KR": "이제 포털로 이동해 나가세요.",
+      "TW": "現在前往傳送門離開吧"
+    }
+  },
+  "这是什么地方": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Where is this place",
+      "JP": "ここはどの場所だ",
+      "CN": "",
+      "KR": "어디 đây인가?",
+      "TW": "這是什麼地方"
+    }
+  },
+  "什么?!?!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What?!?!",
+      "JP": "何って?!?!",
+      "CN": "",
+      "KR": "무슨 말이지?!",
+      "TW": "什麼?!?!"
+    }
+  },
+  "作者有些话说": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The author has some words to say",
+      "JP": "作者より一言",
+      "CN": "",
+      "KR": "저자에게 말하고 싶습니다.",
+      "TW": "作者有些話要說"
+    }
+  },
+  "这个作品是从2025年8月份开始制作的": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This project started production in August 2025",
+      "JP": "この作品は2025年8月より制作を開始しました",
+      "CN": "",
+      "KR": "이 작품은 2025년 8월부터 제작되었습니다.",
+      "TW": "這個作品是從2025年8月份開始製作的"
+    }
+  },
+  "也是我的第一份作品": {
+    "translation": "",
+    "MultiLang": {
+      "US": "It is also my first work",
+      "JP": "私にとって初作となります",
+      "CN": "",
+      "KR": "또한 나의 첫 번째 작품입니다.",
+      "TW": "也是我的第一份作品"
+    }
+  },
+  "谢谢所有支持我完成作品的人": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thank you to everyone who supported me in completing this project",
+      "JP": "作品完成まで支援してくれた全員に感謝します",
+      "CN": "",
+      "KR": "저의 작품을 완성하도록 도와주신 모든 분들에게 감사드립니다.",
+      "TW": "謝謝所有支持我完成作品的人"
+    }
+  },
+  "谢谢你们的游玩": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thank you for playing",
+      "JP": "ごプレイいただき、ありがとうございます",
+      "CN": "",
+      "KR": "플레이해 주셔서 감사합니다.",
+      "TW": "謝謝你們的遊玩"
+    }
+  },
+  "你们过关了!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You passed!!!",
+      "JP": "おめでとうございます！クリアです！！！",
+      "CN": "",
+      "KR": "축하합니다!过关했습니다!!!",
+      "TW": "你們過關了!!!"
+    }
+  },
+  "主路已贴门触发": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Main path door trigger activated",
+      "JP": "メインルートにドア設置済みフラグON",
+      "CN": "",
+      "KR": "본도 문 부착됨",
+      "TW": "主路已貼門觸發"
+    }
+  },
+  "侧路已贴门触发": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Side Path Activated by Door Trigger",
+      "JP": "サイドルートにドア設置済みフラグON",
+      "CN": "",
+      "KR": "측면 길 문 부착됨",
+      "TW": "側路已貼門觸發"
+    }
+  },
+  "你们通过了Catr的考验": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You have passed Catr's trial.",
+      "JP": "カトルの試練をクリアしたね",
+      "CN": "",
+      "KR": "你们通过了Catr的考验 -> 카트르의 시험을 통과했습니다",
+      "TW": "你們通過了Catr的考驗"
+    }
+  },
+  "但还不够...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "But that's not enough...",
+      "JP": "でも、まだ足りない…",
+      "CN": "",
+      "KR": "但还不够... -> 하지만 아직 부족해...",
+      "TW": "但還不夠..."
+    }
+  },
+  "[注意 糖果全部被破坏会触发僵尸传送]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Note: Sending Zombies will be triggered if all candy is destroyed.]",
+      "JP": "[注意：キャンディーが全て破壊されるとゾンビ传送が発生します]",
+      "CN": "",
+      "KR": "[注意 糖果全部被破坏会触发僵尸传送] -> [참고 사탕이 모두 파괴되면 좀비 소환]",
+      "TW": "[注意 糖果全部被破壞會觸發殭屍傳送]"
+    }
+  },
+  "[打爆所有糖果才能激活道路]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Shatter all the candy to activate the path.]",
+      "JP": "[全てのキャンディーを爆撃しないと道路が有効化されません]",
+      "CN": "",
+      "KR": "[打爆所有糖果才能激活道路] -> [모든 사탕을 파괴해야 길 활성화]",
+      "TW": "[打爆所有糖果才能激活道路]"
+    }
+  },
+  "[岩浆喷发仿佛5s间隔一次]": {
+    "translation": "",
+    "MultiLang": {
+      "US": "[Lava eruptions occur at 5-second intervals.]",
+      "JP": "[溶岩噴出は約5秒間隔で発生しています]",
+      "CN": "",
+      "KR": "[岩浆喷发仿佛5s间隔一次] -> [용암이 약 5초 간격으로 폭발하듯 분출함]",
+      "TW": "[岩浆喷發彷彿5s間隔一次]"
+    }
+  }
+}

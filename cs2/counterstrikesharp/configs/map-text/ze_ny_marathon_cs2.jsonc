@@ -1,197 +1,652 @@
 {
   ">> marathon <<": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> マラソン <<",
+      "CN": ">> 马拉松 <<",
+      "KR": ">> 마라톤 <<",
+      "TW": ">> 馬拉松 <<"
+    }
   },
   "*** NY MARATHON: GET READY TO RUN! ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ニューヨークマラソン：走れ！準備は完了だ！ ***",
+      "CN": "*** 纽约马拉松：准备开跑！***",
+      "KR": "*** 뉴욕 마라톤: 달릴 준비를 하세요! ***",
+      "TW": "*** 紐約馬拉松：準備好起跑！***"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: M.O.D. - 冲浪美国 ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *",
+      "TW": "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
+    }
   },
   "** 我们需要坚守住!公园的大门将在20秒后打开! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold the line! The park gate opens in 20 seconds! **",
+      "JP": "** 我々は耐え抜かなければ！公園の門は20秒後に開く！**",
+      "CN": "",
+      "KR": "** 우리는 버텨야 합니다! 공원 문이 20초 후에 열립니다! **",
+      "TW": "** 我們必須守住！公園大門將在20秒後開啟！**"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Arzachel - 腿 ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *",
+      "TW": "* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
+    }
   },
   "** 最后再坚守5秒! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for 5 more seconds! **",
+      "JP": "** あと5秒、耐え抜け！**",
+      "CN": "*** 再坚持5秒! ***",
+      "KR": "** 마지막으로 5초만 더 버텨주세요! **",
+      "TW": "** 最後再撐5秒！**"
+    }
   },
   "** 守住那堵破墙! 大门将会在25秒后打开! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Defend that broken wall! The gate opens in 25 seconds! **",
+      "JP": "** あの崩れかけた壁を守れ！門は25秒後に開く！**",
+      "CN": "",
+      "KR": "** 그 허름한 담장을 지켜내세요! 문이 25초 후에 열립니다! **",
+      "TW": "** 守住那堵破牆！大門將在25秒後開啟！**"
+    }
   },
   "** 在坚守10秒!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for 10 more seconds!!! **",
+      "JP": "** もう10秒、耐え抜くのだ！！！”",
+      "CN": "",
+      "KR": "** 추가로 10초만 더 버텨주세요!!! **",
+      "TW": "** 再堅持10秒！！！**"
+    }
   },
   "** 到达检查点，站在白圈上来解锁大门 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Reach the checkpoint and stand in the white circle to unlock the gate.",
+      "JP": "チェックポイントに到達し、白い円の中に立って扉を解除",
+      "CN": "",
+      "KR": "** 체크포인트에 도착하여 흰 원 안에 서서 문을 해제하세요 **",
+      "TW": "** 到達檢查點，站在白圈上來解鎖大門 **"
+    }
   },
   "** 检查点已启用! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Checkpoint activated!",
+      "JP": "チェックポイントが有効化されました！",
+      "CN": "",
+      "KR": "** 체크포인트 활성화! **",
+      "TW": "** 檢查點已啟用! **"
+    }
   },
   "** Afk和乌龟将在20秒内传送到检查点 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "AFK and slow players will be teleported to the checkpoint within 20 seconds.",
+      "JP": "AFKおよび亀甲状態は20秒後にチェックポイントへテレポートされます",
+      "CN": "",
+      "KR": "** AFK 상태나 느린 플레이어는 20초 내에 체크포인트로 이전됩니다 **",
+      "TW": "** 離線和烏龜將在20秒內傳送到檢查點 **"
+    }
   },
   "** 坚守住!车站门将在25秒后打开!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold the line! The station gate opens in 25 seconds!! **",
+      "JP": "持ちこたえて！駅舎の扉は25秒後に開きます！！",
+      "CN": "",
+      "KR": "** 버티세요! 문이 25초 후에 열립니다!! **",
+      "TW": "** 堅持住!車站門將在25秒後打開!! **"
+    }
   },
   "** 坚守住!车站门将在10秒后打开! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold the line! The station door will open in 10 seconds! **",
+      "JP": "持ちこたえて！駅舎の扉は10秒後に開きます！",
+      "CN": "",
+      "KR": "** 버티세요! 문이 10초 후에 열립니다! **",
+      "TW": "** 堅持住!車站門將在10秒後打開! **"
+    }
   },
   "** 跳过火车!我们得去另一边!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Skip the train! We have to get to the other side!!! **",
+      "JP": "列車をスキップ！反対側に行かなければ！！",
+      "CN": "",
+      "KR": "** 기차를 건너뛰자! 반대편으로 가야 해!!! **",
+      "TW": "** 跳過火車!我們得去另一邊!!! **"
+    }
   },
   "** 我们必须在这里抵抗，直到门打开!(25s) **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** We must resist here until the door opens! (25s) **",
+      "JP": "扉が開くまでここで耐え忍びましょう！(25秒)",
+      "CN": "",
+      "KR": "** 문이 열릴 때까지 여기서 버티자! (25초) **",
+      "TW": "** 我們必須在這裡抵抗，直到門打開!(25s) **"
+    }
   },
   "** 再坚守10秒! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for another 10 seconds! **",
+      "JP": "あと10秒持ちこたえて！",
+      "CN": "** 再坚持10秒! **",
+      "KR": "** 또 10초만 버텨줘! **",
+      "TW": "** 再堅持10秒! **"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ ニューヨークロックラジオ FM 81.2 :: ステッペンヴォルフ - Born To Be Wild ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Steppenwolf - 为狂野而生 ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *",
+      "TW": "* [[ NYCRockRadio FM 81.2 :: Steppenwolf - 生來狂野 ]] *"
+    }
   },
   "** Afk和乌龟将在20秒内传送到检查点. **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Afk and Turtles will teleport to the checkpoint within 20 seconds. **",
+      "JP": "** アフクと亀は20秒以内にチェックポイントへテレポートされます。**",
+      "CN": "",
+      "KR": "** 애프크와 거북이가 20초 이내에 체크포인트로 텔레포트됩니다. **",
+      "TW": "** Afk和烏龜將在20秒內傳送到檢查點. **"
+    }
   },
   "** 引擎区域大门30秒后打开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Engine area gate opens in 30 seconds **",
+      "JP": "** エンジン区域の扉は30秒後に開きます。**",
+      "CN": "*** 发动机区域大门10秒后打开 ***",
+      "KR": "** 엔진 지구 정문이 30초 후에 열립니다. **",
+      "TW": "** 引擎區域大門30秒後打開 **"
+    }
   },
   "** 引擎区域大门将在15秒后打开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Engine area gate opens in 15 seconds **",
+      "JP": "** エンジン区域の扉は15秒後に開きます。**",
+      "CN": "",
+      "KR": "** 엔진 지구 정문이 15초 후에 열립니다. **",
+      "TW": "** 引擎區域大門將在15秒後打開 **"
+    }
   },
   "** 引擎区域的大门将在5秒后打开，坚守住!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Engine area gate opens in 5 seconds, hold the line!!! **",
+      "JP": "** エンジン区域の扉は5秒後に開きます。持ちこたえてください!!!**",
+      "CN": "",
+      "KR": "** 엔진 지구 정문이 5초 후에 열립니다. 버티세요!!! **",
+      "TW": "** 引擎區域的大門將在5秒後打開，堅守住!!! **"
+    }
   },
   "** 阀门室的门将在15秒后打开 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The valve room door will open in 15 seconds",
+      "JP": "** 弁室の扉は15秒後に開きます。**",
+      "CN": "",
+      "KR": "** 밸브실문이 15초 후에 열립니다. **",
+      "TW": "** 閥門室的門將在15秒後打開 **"
+    }
   },
   "** 阀室门将在5秒后开启。坚守住!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "The valve room door will open in 5 seconds. Hold the line!!!",
+      "JP": "** 弁室の扉は5秒後に開きます。持ちこたえてください!!!**",
+      "CN": "",
+      "KR": "** 밸브실문이 5초 후에 열립니다. 버티세요!!! **",
+      "TW": "** 閥室門將在5秒後開啟。堅守住!!! **"
+    }
   },
   "** 点按E启动阀门!我们需要把有毒废物排出去!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Press E to activate the valve! We need to vent the toxic waste!!!",
+      "JP": "** Eキーを押してバルブを起動!有毒廃液を排出する必要がある!!!**",
+      "CN": "",
+      "KR": "** E를 눌러 밸브를 가동하세요! 유독 폐기물을 배출해야 합니다!!! **",
+      "TW": "** 點按E啟動閥門!我們需要把有毒廢物排出去!!! **"
+    }
   },
   "** 这能消灭那些该死的僵尸! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This will eliminate those damn zombies!",
+      "JP": "これであの忌まわしいゾンビを殲滅できる！",
+      "CN": "",
+      "KR": "이것으로那些该死的僵尸을 쓸어버릴 수 있어!",
+      "TW": "** 這能消滅那些該死的殭屍！ **"
+    }
   },
   "** 左阀门已完全打开! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Left valve fully opened!",
+      "JP": "左バルブが完全に解放された！",
+      "CN": "",
+      "KR": "왼쪽 밸브가 완전히 열렸어!",
+      "TW": "** 左閥門已完全開啟！ **"
+    }
   },
   "** 右阀门已完全打开! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Right valve fully opened!",
+      "JP": "右バルブが完全に解放された！",
+      "CN": "",
+      "KR": "오른쪽 밸브가 완전히 열렸어!",
+      "TW": "** 右閥門已完全開啟！ **"
+    }
   },
   "** 两个阀门都已解锁!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Both valves unlocked!!!",
+      "JP": "両方のバルブがアンロックされた！！！",
+      "CN": "两个阀门均已解锁!!!",
+      "KR": "두 밸브가 모두 해제되었어!!!",
+      "TW": "** 兩個閥門都已解鎖！！！**"
+    }
   },
   "** 防守15秒!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Defend for 15 seconds!!!",
+      "JP": "15秒間防衛せよ！！！",
+      "CN": "",
+      "KR": "15초 동안 방어!!!",
+      "TW": "** 防守15秒！！！**"
+    }
   },
   "***5***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***4***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***3***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***2***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***1***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***0***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]]",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Deep Purple - 公路之星 ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *",
+      "TW": "* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "[[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]]",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - 我有钱 ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *",
+      "TW": "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
+    }
   },
   "** 噢,不!隧道被锁上了!我们得等一会儿(30s) **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Oh, no! The tunnel is locked! We have to wait for a while (30s) **",
+      "JP": "ああ、ついにトンネルが封鎖された！30秒待たなければならない",
+      "CN": "** 噢，不！隧道被锁上了！我们得等等(30s) **",
+      "KR": "아, 안 돼! 터널이 잠겼어! 잠시 기다려야 해 (30초)",
+      "TW": "** 噢,不!隧道被鎖上了!我們得等一會兒(30s) **"
+    }
   },
   "** 还剩15秒!继续防守! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** 15 seconds remaining! Keep defending! **",
+      "JP": "** 残り15秒！防御を継続せよ！ **",
+      "CN": "",
+      "KR": "** 15초 남았습니다! 계속 방어하세요! **",
+      "TW": "** 剩餘15秒！繼續防守！**"
+    }
   },
   "** 最后5秒 **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Last 5 seconds **",
+      "JP": "** 最終5秒 **",
+      "CN": "",
+      "KR": "** 마지막 5초 **",
+      "TW": "** 最後5秒**"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: グラニカス - クリーブランド オハイオ ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Granicus - 俄亥俄州克利夫兰 ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *",
+      "TW": "* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
+    }
   },
   "*** 快启动直升机引擎！ ***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** Start the helicopter engines quickly! ***",
+      "JP": "*** ヘリコプターのエンジン始動を急げ！ ***",
+      "CN": "",
+      "KR": "*** 헬리콥터 엔진 시동 시작하세요! ***",
+      "TW": "*** 快啟動直升機引擎！***"
+    }
   },
   "** The helicopter is leaving in 30 seconds. RESIST! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ハチビキは30秒後に発進します。抵抗せよ！ **",
+      "CN": "**直升机将在30秒后起飞。反抗！**",
+      "KR": "** 헬기가 30초 후에 떠납니다. 저항하십시오! **",
+      "TW": "** 直升機30秒後離開。反抗！**"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: バッファロー - シーロック ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *",
+      "TW": "* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
+    }
   },
   "** C'mon! 15 more seconds! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** さあ！残り15秒だ！ **",
+      "CN": "**快点！只剩15秒了！**",
+      "KR": "** 어서! 15초 더 남았습니다! **",
+      "TW": "** 加油！再加15秒！**"
+    }
   },
   "** Last 5 seconds! HOLD!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 最後の5秒！耐えろ！！ **",
+      "CN": "**最后5秒！坚持住！！！**",
+      "KR": "** 마지막 5초! 버티세요!!!**",
+      "TW": "** 最後5秒！堅持住！！**"
+    }
   },
   "** 坚持住，需要15秒来开门 !!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold on, it takes 15 seconds to open the door !!! **",
+      "JP": "** もう少し！ドアを開けるまで15秒待って！**",
+      "CN": "",
+      "KR": "** 버티세요, 문 여는 데 15초가 남았습니다! **",
+      "TW": "** 堅持住，需要15秒來開門 !!! **"
+    }
   },
   "** 再守5秒 !!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for another 5 seconds !!! **",
+      "JP": "**あと5秒持て！！**",
+      "CN": "",
+      "KR": "** 5초만 더 버텨주세요! **",
+      "TW": "** 再守5秒 !!! **"
+    }
   },
   "** 公园大门将在20秒后打开! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** The park gate will open in 20 seconds! **",
+      "JP": "**公園の門は20秒後に開きます！**",
+      "CN": "",
+      "KR": "** 공원 정문은 20초 후에 열립니다! **",
+      "TW": "** 公園大門將在20秒後打開! **"
+    }
   },
   "** 走吧! 我们得守住公园，直到找到出路! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Let's go! We have to defend the park until we find a way out! **",
+      "JP": "**行こう！出口が見つかるまで公園を守らなきゃ！**",
+      "CN": "",
+      "KR": "** 가자! 우리가 탈출구를 찾을 때까지 공원을 지켜야 해! **",
+      "TW": "** 走吧! 我們得守住公園，直到找到出路! **"
+    }
   },
   "** We could call a Penis-UFO and split the fare... **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ペニスUFOを呼んで、運賃を折半しよう…**",
+      "CN": "**我们可以叫一辆阴茎UFO，然后分摊费用……**",
+      "KR": "** 자위 비행선을 호출해 타인을 탔을 수도 있지만... **",
+      "TW": "** 我們可以叫陰莖UFO來，然後分擔費用... **"
+    }
   },
   "** 快了！ Penis-UFO is coming! 坚持住 !!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Almost! Penis-UFO is coming! Hold on!!! **",
+      "JP": "**もうすぐ！ペニスUFOが来る！耐えろ！！**",
+      "CN": "快了！Penis-UFO就要来了!!! 坚持住!!!",
+      "KR": "** 거의 다 됐어요! 자위 비행선이 도착합니다! 버티세요 !!! **",
+      "TW": "** 快了! 陰莖UFO 正在趕來! 堅持住 !!! **"
+    }
   },
   "** GO! The penis UFO 的门开了，快进来!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** GO! The door to the penis UFO is open, get in!!! **",
+      "JP": "**GO! ペニスUFOのドアが開いた、中にはいれ！！！**",
+      "CN": "** GO! 阴茎 UFO 的门开了，快进来!!! **",
+      "KR": "** GO! 자위 비행선문이 열렸습니다, 빨리 들어오세요!!! **",
+      "TW": "** GO! 陰莖UFO 的門開了，快進來!!! **"
+    }
   },
   "** 坚守20秒!!! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Hold for 20 seconds!!! **",
+      "JP": "**20秒間守れ！！！**",
+      "CN": "",
+      "KR": "** 20초를 버텨주세요!!!",
+      "TW": "** 堅守20秒!!! **"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: Ram Jam - ブラック・ベティ ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: 램 잼 - 블랙 베티 ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: Ram Jam - Black Betty ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: Leaf Hound - グロウアーズ・オブ・マッシュルーム ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: 리프 하운드 - 무화과 재배자 ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: Motörhead - エース・オブ・スペードス ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: 모터헤드 - 스페이드 에이스 ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: Motorhead - Ace of Spades ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - ヘル・ハウンド ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: 새드 로드 발모어 - 지옥 사냥개 ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: Girlschool - こ、こっち来い！ ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: 걸스쿨 - 자, 가자! ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - サトウリ PT1 ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: 플라워 트래벨린 밴드 - 사토리 PT1 ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: The Doors - ロードハウス・ブルース ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: 더 도어즈 - 로드하우스 블루스 ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: The Doors - Roadhouse Blues ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[ NYCRockRadio FM 81.2 :: The Gun - レース・ウィズ・ザ・デビル ]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: 더 건 - 악마와 경주 ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: The Gun - Race With The Devil ]] *"
+    }
   },
   "* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "* [[NYCRockRadio FM 81.2 :: Warpig - Rock Star]] *",
+      "CN": "* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *",
+      "KR": "* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *",
+      "TW": "* [[ 紐約搖滾電台 FM 81.2 :: Warpig - 搖滾明星 ]] *"
+    }
   },
   "** 还剩15秒!保持防守! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** 15 seconds left! Keep defending! **",
+      "JP": "** あと15秒！ 守備を維持しろ！**",
+      "CN": "",
+      "KR": "** 15초 남았습니다! 방어를 유지하십시오! **",
+      "TW": "** 剩餘15秒！維持防禦狀態！**"
+    }
   },
   "** 最后5秒! **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "** Final 5 seconds! **",
+      "JP": "** 残り5秒！**",
+      "CN": "",
+      "KR": "** 마지막 5초! **",
+      "TW": "** 最後5秒！**"
+    }
   }
 }

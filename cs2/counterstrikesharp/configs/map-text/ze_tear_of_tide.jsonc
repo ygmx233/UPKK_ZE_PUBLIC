@@ -1,119 +1,522 @@
 {
   "This map is inspired by Ori": {
-    "translation": "这张地图的灵感来自《Ori》"
+    "translation": "这张地图的灵感来自《Ori》",
+    "MultiLang": {
+      "US": "",
+      "JP": "このマップはOriからインスピレーションを受けています",
+      "CN": "本地图灵感源自《Ori》",
+      "KR": "이 맵은 오리에서 영감을 받았습니다",
+      "TW": "此地圖靈感來自《Ori》"
+    }
   },
   "Map create by lopb ,thanks script support by 7ychu5,thanks materials support by Tenshi.": {
-    "translation": "地图由lopb制作，感谢7ychu5的脚本支持，感谢Tenshi的材料支持。 翻译：Asteri3m"
+    "translation": "地图由lopb制作，感谢7ychu5的脚本支持，感谢Tenshi的材料支持。 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成者: lopb、スクリプトサポート: 7ychu5、素材サポート: Tenshi。",
+      "CN": "地图由 lopb 制作，感谢 7ychu5 提供的脚本支持，感谢 Tenshi 提供的素材支持。",
+      "KR": "맵 제작: lopb | 스크립트 지원: 7ychu5 | 자료 지원: Tenshi",
+      "TW": "地圖由 lopb 製作，感謝 7ychu5 提供腳本支援，感謝 Tenshi 提供素材支援。"
+    }
   },
   "Map requires Unlock Lua and CS2Fix": {
-    "translation": "地图需要解锁Lua和CS2Fix"
+    "translation": "地图需要解锁Lua和CS2Fix",
+    "MultiLang": {
+      "US": "",
+      "JP": "LuaアンロックとCS2Fixが必要です",
+      "CN": "本地图需要解锁 Lua 和 CS2Fix",
+      "KR": "Lua 잠금 해제 및 CS2Fix가 필요합니다",
+      "TW": "此地圖需要解鎖 Lua 和 CS2Fix"
+    }
   },
   "Hope you enjoy": {
-    "translation": "希望你喜欢"
+    "translation": "希望你喜欢",
+    "MultiLang": {
+      "US": "",
+      "JP": "楽しんでください",
+      "CN": "希望你玩得开心",
+      "KR": "즐거운 게임 되세요",
+      "TW": "希望您玩得開心"
+    }
   },
   "door will open in 40 sec !": {
-    "translation": "门将在40秒后打开！"
+    "translation": "门将在40秒后打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が40秒後に開きます！",
+      "CN": "门将在 40 秒后开启！",
+      "KR": "문 40초 후에 열립니다!",
+      "TW": "大門將在 40 秒後開啟！"
+    }
   },
   "door will open in 5 sec !": {
-    "translation": "门将在5秒后打开！"
+    "translation": "门将在5秒后打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が5秒後に開きます！",
+      "CN": "门将在 5 秒后开启！",
+      "KR": "문 5초 후에 열립니다!",
+      "TW": "大門將在 5 秒後開啟！"
+    }
   },
   "wall will break in 40 sec !": {
-    "translation": "墙将在40秒后破裂！"
+    "translation": "墙将在40秒后破裂！",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁が40秒後に壊れます！",
+      "CN": "墙将在 40 秒后碎裂！",
+      "KR": "벽 40초 후에 붕괴됩니다!",
+      "TW": "牆壁將在 40 秒後崩塌！"
+    }
   },
   "door will open in 30 sec !": {
-    "translation": "门将在30秒后打开！"
+    "translation": "门将在30秒后打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が30秒後に開きます！",
+      "CN": "门将在 30 秒后开启！",
+      "KR": "문 30초 후에 열립니다!",
+      "TW": "大門將在 30 秒後開啟！"
+    }
   },
   "you can use finger after 30 sec!": {
-    "translation": "30秒后可以使用手指！"
+    "translation": "30秒后可以使用手指！",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に指可以使用！",
+      "CN": "30秒后可使用手指！",
+      "KR": "30초 후 손가락 사용 가능!",
+      "TW": "30秒後可使用手指！"
+    }
   },
   "door will open in 20 sec !": {
-    "translation": "门将在20秒后打开！"
+    "translation": "门将在20秒后打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後にドアが開きます！",
+      "CN": "门将在20秒后打开！",
+      "KR": "문이 20초 후에 열립니다!",
+      "TW": "門將在20秒後開啟！"
+    }
   },
   "raise after 40 sec !": {
-    "translation": "40秒后升起！"
+    "translation": "40秒后升起！",
+    "MultiLang": {
+      "US": "",
+      "JP": "40秒後に再起動！",
+      "CN": "40秒后升起！",
+      "KR": "40초 후 상승!",
+      "TW": "40秒後恢復！"
+    }
   },
   "Is time to clear tide !": {
-    "translation": "是时候清理潮水了！"
+    "translation": "是时候清理潮水了！",
+    "MultiLang": {
+      "US": "Time to clear tide!",
+      "JP": "潮の流れをクリアする時です！",
+      "CN": "是时候清除潮汐了！",
+      "KR": "밀물 청소를 하러 간다!",
+      "TW": "清除潮汐的時機已到！"
+    }
   },
   "be careful !": {
-    "translation": "小心！"
+    "translation": "小心！",
+    "MultiLang": {
+      "US": "",
+      "JP": "注意してください！",
+      "CN": "小心！",
+      "KR": "조심하세요!",
+      "TW": "小心！"
+    }
   },
   "door will open in 10 sec !": {
-    "translation": "门将在10秒后打开！"
+    "translation": "门将在10秒后打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にドアが開きます！",
+      "CN": "门将在10秒后打开！",
+      "KR": "문이 10초 후에 열립니다!",
+      "TW": "門將在10秒後開啟！"
+    }
   },
   "Looking for 3 heal elements": {
-    "translation": "寻找3个治疗元素"
+    "translation": "寻找3个治疗元素",
+    "MultiLang": {
+      "US": "",
+      "JP": "回復要素を3つ探しています",
+      "CN": "寻找3个治疗元素",
+      "KR": "치유 요소 3개 찾기",
+      "TW": "尋找3個治療元素"
+    }
   },
   "hp:2000!!!": {
-    "translation": "生命值：2000！！！"
+    "translation": "生命值：2000！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "HP:2000!!!",
+      "CN": "HP:2000！！！",
+      "KR": "HP: 2000!!!",
+      "TW": "生命值：2000！！！”"
+    }
   },
   "hp:1000!!!": {
-    "translation": "生命值：1000！！！"
+    "translation": "生命值：1000！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "hp:1000!!!",
+      "CN": "hp:1000!!!",
+      "KR": "hp:1000!!!",
+      "TW": "hp:1000!!!"
+    }
   },
   "hp:500!!!": {
-    "translation": "生命值：500！！！"
+    "translation": "生命值：500！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "hp:500!!!",
+      "CN": "hp:500!!!",
+      "KR": "hp:500!!!",
+      "TW": "hp:500!!!"
+    }
   },
   "hp:200!!!": {
-    "translation": "生命值：200！！！"
+    "translation": "生命值：200！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "hp:200!!!",
+      "CN": "hp:200!!!",
+      "KR": "hp:200!!!",
+      "TW": "hp:200!!!"
+    }
   },
   "WaterElf is in a frenzy, get out of here quickly!": {
-    "translation": "水精灵正在发狂，快逃出去！"
+    "translation": "水精灵正在发狂，快逃出去！",
+    "MultiLang": {
+      "US": "WaterElf is on a rampage, get out quick!",
+      "JP": "ウォーターエルフが狂暴化している！すみやかに離脱せよ！",
+      "CN": "水精灵失控了，快离开这里！",
+      "KR": "물 엘프가 광포화 상태입니다! 빠르게 이곳을 벗어나세요!",
+      "TW": "水精靈陷入狂亂狀態，快離開這裡！"
+    }
   },
   "Run! Run! Run! Run! Run! Run!": {
-    "translation": "快跑！快跑！快跑！快跑！快跑！快跑！"
+    "translation": "快跑！快跑！快跑！快跑！快跑！快跑！",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げろ！逃げろ！逃げろ！逃げろ！逃げろ！逃げろ！",
+      "CN": "跑！跑！跑！跑！跑！跑！",
+      "KR": "도망쳐! 도망쳐! 도망쳐! 도망쳐! 도망쳐! 도망쳐!",
+      "TW": "跑！跑！跑！跑！跑！跑！"
+    }
   },
   "The tide is rising! Fly up!": {
-    "translation": "潮水正在上涨！飞起来！"
+    "translation": "潮水正在上涨！飞起来！",
+    "MultiLang": {
+      "US": "",
+      "JP": "潮が rising している！浮上しろ！",
+      "CN": "潮水上涨！快飞上去！",
+      "KR": "수위가 오르고 있습니다! 공중으로 날아오르세요!",
+      "TW": "水位上升中！飛上去！"
+    }
   },
   "No one survived.WaterElf went berserk!": {
-    "translation": "没有人幸存。水精灵失控了！"
+    "translation": "没有人幸存。水精灵失控了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "生存者なし。ウォーターエルフが狂暴化した！",
+      "CN": "无人幸存。水精灵暴走了！",
+      "KR": "누구도 살아남지 못했습니다. 물 엘프가 광폭화되었습니다!",
+      "TW": "無人生還。水精靈狂暴了！"
+    }
   },
   "DarkCreatures are one step ahead of you!": {
-    "translation": "黑暗生物（僵尸）领先你一步！"
+    "translation": "黑暗生物（僵尸）领先你一步！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ダーククリーチャーはお前の一歩先を行っている！",
+      "CN": "暗黑生物比你更快一步！",
+      "KR": "어둠의 생명체들이 당신보다 한 발 앞서 있습니다!",
+      "TW": "黑暗生物比你快一步！"
+    }
   },
   "Map create by lopb ,thanks script support by 7ychu5,thanks materials and particle support by Tenshi.": {
-    "translation": "地图由lopb制作，感谢7ychu5的脚本支持，感谢Tenshi的材质和粒子支持。翻译：Asteri3m"
+    "translation": "地图由lopb制作，感谢7ychu5的脚本支持，感谢Tenshi的材质和粒子支持。翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成: lopb, スクリプトサポート: 7ychu5, マテリアルおよびパーティクルサポート: Tenshi",
+      "CN": "地图由lopb制作，脚本支持由7ychu5提供，素材和粒子特效支持由Tenshi提供。",
+      "KR": "맵은 lopb가 제작했으며, 스크립트는 7ychu5님이, 재질과 파티클은 Tenshi님이 지원합니다.",
+      "TW": "地圖由 lopb 製作，感謝 7ychu5 的腳本支援，以及 Tenshi 提供的素材與粒子特效支援。"
+    }
   },
   "You purified WaterElf!": {
-    "translation": "你净化了水精灵！"
+    "translation": "你净化了水精灵！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウォーターエルフを浄化しました！",
+      "CN": "你净化了水精灵！",
+      "KR": "물의 정령을 정화했습니다!",
+      "TW": "您淨化了水精靈！"
+    }
   },
   "wall will break in 5 sec !": {
-    "translation": "墙将在5秒后破裂！  "
+    "translation": "墙将在5秒后破裂！",
+    "MultiLang": {
+      "US": "",
+      "JP": "壁が5秒後に崩壊します！",
+      "CN": "墙壁将在5秒后破裂！",
+      "KR": "벽이 5초 후에 깨집니다!",
+      "TW": "牆壁將在 5 秒後崩毀！"
+    }
   },
   "you can use finger after 5 sec!": {
-    "translation": "5秒后你可以用手指！  "
+    "translation": "5秒后你可以用手指！",
+    "MultiLang": {
+      "US": "",
+      "JP": "指を使用可能になるまで5秒待ってください！",
+      "CN": "5秒后你可以使用手指！",
+      "KR": "5초 후에 손가락을 사용할 수 있습니다!",
+      "TW": "您可在 5 秒後使用手指！"
+    }
   },
   "door will open in 25 sec ! teleport enable in 5 sec !": {
-    "translation": "门将在25秒后打开！传送将在5秒后启用！  "
+    "translation": "门将在25秒后打开！传送将在5秒后启用！",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒後に扉が開きます！5秒後にテレポート可能",
+      "CN": "门将在25秒后打开！传送将在5秒后启用！",
+      "KR": "문이 25초 후에 열립니다! 텔레포트는 5초 후에 활성화됩니다!",
+      "TW": "門將在 25 秒後開啟！瞬間傳送功能 5 秒後啟用！"
+    }
   },
   "door will close in 3 sec !": {
-    "translation": "门将在3秒后关闭！  "
+    "translation": "门将在3秒后关闭！",
+    "MultiLang": {
+      "US": "",
+      "JP": "3秒後に扉が閉じます！",
+      "CN": "门将在3秒后关闭！",
+      "KR": "문이 3초 후에 닫힙니다!",
+      "TW": "門將在 3 秒後關閉！"
+    }
   },
   "raise after 45 sec ! teleport enable in 5 sec !": {
-    "translation": "45秒后升起！传送将在5秒后启用！  "
+    "translation": "45秒后升起！传送将在5秒后启用！",
+    "MultiLang": {
+      "US": "",
+      "JP": "45秒後に上昇開始！5秒後にテレポート可能",
+      "CN": "45秒后升起！传送将在5秒后启用！",
+      "KR": "45초 후에 부활합니다! 텔레포트는 5초 후에 활성화됩니다!",
+      "TW": "上升動作於 45 秒後啟動！瞬間傳送功能 5 秒後啟用！"
+    }
   },
   "No one successfully escaped !": {
-    "translation": "没有人成功逃脱！  "
+    "translation": "没有人成功逃脱！",
+    "MultiLang": {
+      "US": "",
+      "JP": "誰も成功して脱出できませんでした！",
+      "CN": "没有人成功逃脱！",
+      "KR": "누구도 성공적으로 탈출하지 못했습니다!",
+      "TW": "無人成功逃脫！"
+    }
   },
   "door will open in 15 sec !": {
-    "translation": "门将在15秒后打开！  "
+    "translation": "门将在15秒后打开！",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後にドアが開きます！",
+      "CN": "门将在15秒后打开！",
+      "KR": "문이 15초 후 열립니다!",
+      "TW": "門將在15秒後打開！"
+    }
   },
   "Run! Run! Run! Run! Run! Run! ": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "走れ！ 走れ！ 走れ！ 走れ！ 走れ！ 走れ！",
+      "CN": "快跑！快跑！快跑！快跑！快跑！快跑！",
+      "KR": "달려라! 달려! 달려! 달려! 달려! 달려!",
+      "TW": "跑！快跑！跑！快跑！跑！快跑！"
+    }
   },
   "Zombie Shift will hurt more By Time,Don't waste your time !!!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "時間の経過とともにゾンビのシフトはより多くのダメージを与えます。時間を無駄にしないでください！",
+      "CN": "随着时间推移，尸变体的伤害会更高，别浪费时间！！！",
+      "KR": "좀비 스케일이 지나갈수록 강해집니다. 시간을 낭비하지 마세요!!!",
+      "TW": "殭屍會隨時間變得更強大，別浪費你的時間！"
+    }
   },
   "Zombie Shift will hurt more[2]": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビのシフトはより多くのダメージを与えます[2]",
+      "CN": "尸变体会受到更多伤害[2]",
+      "KR": "좀비 스케일이 지나갈수록 강해집니다[2]",
+      "TW": "殭屍會變得更強大[2]"
+    }
   },
   "Zombie Shift will hurt more[3]": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビのシフトはより多くのダメージを与えます[3]",
+      "CN": "尸变体会受到更多伤害[3]",
+      "KR": "좀비 스케일이 지나갈수록 강해집니다[3]",
+      "TW": "殭屍會變得更強大[3]"
+    }
   },
   "Zombie Shift will hurt more[10],Will be rage after 30sec!!!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に怒り状態になります。ゾンビのシフトはより多くのダメージを与えます[10]！",
+      "CN": "尸变体会受到更多伤害[10]，30秒后进入狂暴状态！！！",
+      "KR": "좀비 스케일이 지나갈수록 강해집니다[10], 30초 후 분노합니다!!!",
+      "TW": "殭屍會變得更強大[10]，30秒後進入狂暴狀態！"
+    }
   },
   "Zombie Rage !!! Your last chance !!!": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの怒り状態！！！ あなたの最後のチャンスです！！！",
+      "CN": "尸变体狂暴！！！你的最后机会！！！",
+      "KR": "좀비 격분 !!! 당신의 마지막 기회 !!!",
+      "TW": "殭屍狂暴！！！你的最後機會！"
+    }
+  },
+  "Attacking Red tendrils can deal half of damage": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "赤い触手を攻撃すると、半分のダメージを与えます",
+      "CN": "攻击红色触须可造成一半伤害",
+      "KR": "붉은 잔혹한 가지 공격은 피해의 절반을 입힙니다",
+      "TW": "攻擊紅色觸手可造成一半傷害"
+    }
+  },
+  "Zombie Rage !!! Your last chance [10 sec]!!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの怒り!!! 最後のチャンス [10秒]!!!",
+      "CN": "丧尸狂暴！！！你的最后机会 [10秒]！！！",
+      "KR": "좀비 광기!!! 마지막 기회 [10초]!!!",
+      "TW": "喪屍暴走 !!! 最後機會 [剩餘 10 秒]!!!"
+    }
+  },
+  "<<< Human pick up Freeze! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 人類、フリーズを拾え! >>>",
+      "CN": "<<< 人类拾取冰霜！>>>",
+      "KR": "<<< 인간 피크업 얼음! >>>",
+      "TW": "<<<< 人類獲得冰凍效果 >>>"
+    }
+  },
+  "<<< Human pick up Wind! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 人類、風を拾え! >>>",
+      "CN": "<<< 人类拾取疾风！>>>",
+      "KR": "<<< 인간 피크업 바람! >>>",
+      "TW": "<<<< 人類獲得風屬性 >>>"
+    }
+  },
+  "<<< Zombie Coming !!!!!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビ接近!!! >>>",
+      "CN": "<<< 丧尸来袭！！！！！！>>>",
+      "KR": "<<< 좀비 습격 !!!!!! >>>",
+      "TW": "<<<< 喪屍接近 !!!!!! >>>"
+    }
+  },
+  "<<< 8 sec !!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 8秒!!! >>>",
+      "CN": "<<< 8秒！！！>>>",
+      "KR": "<<< 8초 !!! >>>",
+      "TW": "<<<< 剩餘 8 秒 !!! >>>"
+    }
+  },
+  "<<< 7 sec !!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 7秒!!! >>>",
+      "CN": "<<< 7秒！！！>>>",
+      "KR": "<<< 7초 !!! >>>",
+      "TW": "<<<< 剩餘 7 秒 !!! >>>"
+    }
+  },
+  "<<< 6 sec !!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 6秒!!! >>>",
+      "CN": "<<< 6秒！！！>>>",
+      "KR": "<<< 6초 !!! >>>",
+      "TW": "<<<< 剩餘 6 秒 !!! >>>"
+    }
+  },
+  "<<< 5 sec !!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 5秒!!! >>>",
+      "CN": "<<< 5秒！！！>>>",
+      "KR": "<<< 5초 !!! >>>",
+      "TW": "<<<< 剩餘 5 秒 !!! >>>"
+    }
+  },
+  "<<< 4 sec !!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 4秒！！！>>>",
+      "CN": "<<< 4 秒 !!! >>>",
+      "KR": "<<< 4초 !!! >>>",
+      "TW": "<<< 4 秒！！！>>>"
+    }
+  },
+  "<<< 3 sec !!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 3秒！！！>>>",
+      "CN": "<<< 3 秒 !!! >>>",
+      "KR": "<<< 3초 !!! >>>",
+      "TW": "<<< 3 秒！！！>>>"
+    }
+  },
+  "<<< 2 sec !!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 2秒！！！>>>",
+      "CN": "<<< 2 秒 !!! >>>",
+      "KR": "<<< 2초 !!! >>>",
+      "TW": "<<< 2 秒！！！>>>"
+    }
+  },
+  "<<< 1 sec !!! >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 1秒！！！>>>",
+      "CN": "<<< 1 秒 !!! >>>",
+      "KR": "<<< 1초 !!! >>>",
+      "TW": "<<< 1 秒！！！>>>"
+    }
   }
 }

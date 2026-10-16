@@ -1,0 +1,342 @@
+{
+  "~测试：雨特效控制器1正常启动~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "~Test: Rain effect controller 1 started normally~",
+      "JP": "~テスト: 雨エフェクトコントローラー1正常起動~",
+      "CN": "",
+      "KR": "~테스트: 빗속 이펙트 컨트롤러 1 정상 시작~",
+      "TW": "測試：雨特效控制器1正常啟動"
+    }
+  },
+  "** MAP BY HEYFUMI **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** HEYFUMI によるマップ **",
+      "CN": "地图作者：HEYFUMI",
+      "KR": "** MAP BY HEYFUMI **",
+      "TW": "** 地圖由 HEYFUMI 製作 **"
+    }
+  },
+  "~停止~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "~Stop~",
+      "JP": "~停止~",
+      "CN": "",
+      "KR": "~정지~",
+      "TW": "~停止~"
+    }
+  },
+  "** YOU CAN PASS IN 15 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒以内に通過できます **",
+      "CN": "你可以在15秒内通过",
+      "KR": "** 15초 안에 통과 가능 **",
+      "TW": "** 你可以在 15 秒內通過 **"
+    }
+  },
+  "** CATHEDERAL DOOR WILL OPEN IN 60 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 60秒後に教会の扉が開きます **",
+      "CN": "教堂门将在60秒后打开",
+      "KR": "** 성당 문이 60초 후에 열립니다 **",
+      "TW": "** 大教堂門將在 60 秒後開啟 **"
+    }
+  },
+  "** OPENING UNDERGROUND TUNNEL IN 25 SECONDS": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒後に地下トンネルが開放されます**",
+      "CN": "地下通道将在25秒内开启",
+      "KR": "** 지하 터널 25초 후 개통**",
+      "TW": "** 地下隧道將在 25 秒後打開 **"
+    }
+  },
+  "** WALL WILL BREAK IN 15 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒後に壁が壊れます **",
+      "CN": "墙壁将在15秒后破裂",
+      "KR": "** 벽이 15초 후에 붕괴됩니다 **",
+      "TW": "** 牆壁將在 15 秒後破壞 **"
+    }
+  },
+  "** BOTH WALL WILL BREAK IN 15 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 両方の壁が15秒後に壊れます **",
+      "CN": "两侧墙壁将在15秒后破裂",
+      "KR": "** 양쪽 벽이 15초 후에 붕괴됩니다 **",
+      "TW": "** 雙側牆壁將在同 15 秒後破壞 **"
+    }
+  },
+  "** DOOR WILL OPEN IN 25 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒後に扉が開く **",
+      "CN": "门将在25秒后打开",
+      "KR": "** 문의 25초 후 개관 **",
+      "TW": "** 門將在 25 秒後開啟 **"
+    }
+  },
+  "** DOOR WILL CLOSE IN 5 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5秒後に扉が閉じる **",
+      "CN": "门将在5秒后关闭",
+      "KR": "** 문의 5초 후 폐쇄 **",
+      "TW": "** 門將在 5 秒後關閉 **"
+    }
+  },
+  "** OPENING PORTAL IN 75 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 75秒後にポータルが開く **",
+      "CN": "** 75秒后开启传送门 **",
+      "KR": "** 포털 개관까지 75초 **",
+      "TW": "** 傳送門將於 75 秒後開啟 **"
+    }
+  },
+  "** OPENING PORTAL IN 60 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 60秒後にポータルが開く **",
+      "CN": "** 60秒后开启传送门 **",
+      "KR": "** 포털 개관까지 60초 **",
+      "TW": "** 傳送門將於 60 秒後開啟 **"
+    }
+  },
+  "** FOOLISH HUMAN. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 愚かな人間よ。 **",
+      "CN": "** 愚蠢的人类。 **",
+      "KR": "** 바보 같은 인간.**",
+      "TW": "** 愚蠢的人類。**"
+    }
+  },
+  "** TO THINK YOU CAN ESCAPE THAT VILLAGE. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** その村から逃げられると思ったのか。 **",
+      "CN": "** 以为你能逃出那个村子。 **",
+      "KR": "** 그리도 너는 그 마을에서 도망칠 수 있을 거라고 생각했군.**",
+      "TW": "** 以為你能逃離那個村莊。**"
+    }
+  },
+  "** HA. HA. HA. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ハッハッハ。 **",
+      "CN": "** 呵。呵。呵。 **",
+      "KR": "** 하. 하. 하. **",
+      "TW": "** 哈。哈。哈。**"
+    }
+  },
+  "** NOT LIKE YOU CAN DEFEAT ME. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 私に勝てる訳がないだろうが。 **",
+      "CN": "** 你以为你能打败我吗。 **",
+      "KR": "** 너는 나를 이길 수 없어.**",
+      "TW": "** 以你當然是無法擊敗我的。**"
+    }
+  },
+  "** Roscente. The Cosmic Wisp has awoken! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ロゼント。コスミック・ウィスプが覚醒した！ **",
+      "CN": "** 罗森特。宇宙之光已苏醒！ **",
+      "KR": "** 로센테. 우주 빛줄기가 깨어났다! **",
+      "TW": "** 羅斯琴特。宇宙精靈甦醒了！**"
+    }
+  },
+  "** REFRACTION SPLITTER **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 分光スプリッター **",
+      "CN": "** 折射分光镜 **",
+      "KR": "** 굴절 분할기 **",
+      "TW": "** 折射分光器**"
+    }
+  },
+  "** REALITY SLASHER **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** レイヤーカッター **",
+      "CN": "** 现实斩击 **",
+      "KR": "** 현실 가르기 **",
+      "TW": "** 現實利刃**"
+    }
+  },
+  "** SUNSTRIKE **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サンストライク **",
+      "CN": "** 阳光突袭 **",
+      "KR": "** 태양 타격 **",
+      "TW": "** 日冕風暴**"
+    }
+  },
+  "** Roscente. The Cosmic Wisp has been defeated!  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ロゼント。コスミック・ウィスプが倒された！ **",
+      "CN": "** Roscente.宇宙光精已被击败！ **",
+      "KR": "** 로센테. 우주 빛줄기가 패배했다! **",
+      "TW": "** 羅斯琴特。宇宙精靈已被打敗！**"
+    }
+  },
+  "** ... **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "** THIS ISNT MY FINAL FORM YET. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** これは私の最終形態ではない。 **",
+      "CN": "** 这还不是我的最终形态。**",
+      "KR": "** 이것就是我的 최종 형태는 아직 아니다. **",
+      "TW": "** 這還不是我最終的形態。**"
+    }
+  },
+  "** WORLD CHASM **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 世界欠陥 **",
+      "CN": "** 世界深渊 **",
+      "KR": "** 세계 심연 **",
+      "TW": "** 世界裂縫**"
+    }
+  },
+  "** CATACLYSM **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 大壊滅 **",
+      "CN": "** 大灾变 **",
+      "KR": "** 대재앙 **",
+      "TW": "** 大災變**"
+    }
+  },
+  "** SPACE WARP **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**スペースワープ**",
+      "CN": "** 空间扭曲 **",
+      "KR": "** 공간 왜곡 **",
+      "TW": "** 空間扭曲 **"
+    }
+  },
+  "** RISING GALE **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ライジングゲール**",
+      "CN": "** 狂风骤起 **",
+      "KR": "** 상승하는 강풍 **",
+      "TW": "** 颶風崛起 **"
+    }
+  },
+  "** YOU SHOULD HAVE STAYED ON THAT VILLAGE.  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**あの村に留まるべきだった。**",
+      "CN": "**你本不该离开那个村庄。**",
+      "KR": "** 당신이라면 그 마을에 남아 있었을 거야. **",
+      "TW": "** 你應該留在那個村莊裡。**"
+    }
+  },
+  "** WHO WOULD HAVE THOUGHT THAT YOU ARE STRONG.  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**お前が如此まで強いとは誰が予想しただろうか。**",
+      "CN": "**谁能想到你如此强大。**",
+      "KR": "** 당신이 이렇게 강하리라 누가 생각했으리오. **",
+      "TW": "** 誰會想到你會這麼強壯。**"
+    }
+  },
+  "** I MIGHT BE FOOLISH BUT THIS IS NOT THE END. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**私は愚か者かもしれないが、これが終わりではない。**",
+      "CN": "**我或许愚笨，但这并非终结。**",
+      "KR": "** 나는 어리석을지 모르지만 이것은 끝이 아니다. **",
+      "TW": "** 我可能很愚蠢，但這並非結局。**"
+    }
+  },
+  "** I WILL BE BACK. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**必ず戻ってくる。**",
+      "CN": "**我会回来的。**",
+      "KR": "** 다시 돌아오겠다. **",
+      "TW": "** 我會回來的。**"
+    }
+  },
+  "** THE END. **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**エンディング。**",
+      "CN": "**游戏结束。**",
+      "KR": "**终幕. **",
+      "TW": "** 結局。**"
+    }
+  },
+  "~测试：雨特效控制器2正常启动~": {
+    "translation": "",
+    "MultiLang": {
+      "US": "~Test: Rain effect controller 2 started normally~",
+      "JP": "~テスト：雨エフェクトコントローラ2正常起動~",
+      "CN": "",
+      "KR": "~테스트: 비 이펙트 컨트롤러 2 정상 시작~",
+      "TW": "~測試：雨特效控制器2正常啟動~"
+    }
+  },
+  "** PLATFORM WILL COME IN 15 SECONDS **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プラットフォームが出現まで 15 秒**",
+      "CN": "**平台将在15秒后出现**",
+      "KR": "** 플랫폼이 15초 후에 생성됩니다**",
+      "TW": "距離平台出現還有 15 秒"
+    }
+  }
+}

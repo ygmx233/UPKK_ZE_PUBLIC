@@ -1,612 +1,2022 @@
 {
   ">> Special Thanks to nano <<": {
-    "translation": "**额外感谢：nano**"
+    "translation": "**额外感谢：nano**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> スペシャルサンクス nano <<",
+      "CN": ">> 特别鸣谢 nano <<",
+      "KR": ">> nano님께 특별한 감사의 말 <<",
+      "TW": "特別感謝 nano"
+    }
   },
   ">> Thanks to Unloze and GFLClan.ru <<": {
-    "translation": "**感谢Unloze和Gflclan提供的测试环境**"
+    "translation": "**感谢Unloze和Gflclan提供的测试环境**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> Unloze、GFLClan.ru の皆さんに感謝 <<",
+      "CN": ">> 感谢 Unloze 和 GFLClan.ru <<",
+      "KR": ">> Unloze와 GFLClan.ru께 감사의 말씀 <<",
+      "TW": "感謝 Unloze 和 GFLClan.ru"
+    }
   },
   ">> WARMUP ROUND <<": {
-    "translation": "**热身回合**"
+    "translation": "**热身回合**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< Warm-up Round >>",
+      "CN": ">> 热身回合 <<",
+      "KR": ">> 워밍업 라운드 <<",
+      "TW": "熱身回合"
+    }
   },
   ">> 40 SECONDS LEFT <<": {
-    "translation": "**40秒剩余**"
+    "translation": "**40秒剩余**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り40秒",
+      "CN": ">> 剩余 40 秒 <<",
+      "KR": ">> 40초 남음 <<",
+      "TW": "剩餘 40 秒"
+    }
   },
   ">> Map by TaskuVaras and Moltard <<": {
-    "translation": "**地图由taskuvaras和moltard共同完成 地图翻译：冰花丶**"
+    "translation": "**地图由taskuvaras和moltard共同完成 地图翻译：冰花丶**",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作: TaskuVaras and Moltard <<",
+      "CN": ">> 地图由 TaskuVaras 和 Moltard 制作 <<",
+      "KR": ">> 맵 제작: TaskuVaras 및 Moltard <<",
+      "TW": "地圖作者：TaskuVaras 與 Moltard"
+    }
   },
   ">> 30 SECONDS LEFT <<": {
-    "translation": "**30秒剩余**"
+    "translation": "**30秒剩余**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り30秒",
+      "CN": ">> 剩余 30 秒 <<",
+      "KR": ">> 30초 남음 <<",
+      "TW": "剩餘 30 秒"
+    }
   },
   ">> 20 SECONDS LEFT <<": {
-    "translation": "**20秒剩余**"
+    "translation": "**20秒剩余**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り20秒",
+      "CN": ">> 剩余 20 秒 <<",
+      "KR": ">> 20초 남음 <<",
+      "TW": "剩餘 20 秒"
+    }
   },
   ">> 10 SECONDS LEFT <<": {
-    "translation": "**10秒剩余**"
+    "translation": "**10秒剩余**",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒",
+      "CN": ">> 剩余 10 秒 <<",
+      "KR": ">> 10초 남음 <<",
+      "TW": "剩餘 10 秒"
+    }
   },
   ">> WARMUP ROUND END <<": {
-    "translation": "**热身结束，平局**"
+    "translation": "**热身结束，平局**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プリ prep ラウンド終了 <<",
+      "CN": ">> 热身回合结束 <<",
+      "KR": ">> 예선 라운드 종료 <<",
+      "TW": ">> 熱身賽結束 <<"
+    }
   },
   ">> LEVEL: DEAD TREE <<": {
-    "translation": "**【LV1/EX1】关卡：死亡大树**"
+    "translation": "**【LV1/EX1】关卡：死亡大树**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル：枯木 <<",
+      "CN": ">> 关卡：枯木林 <<",
+      "KR": ">> 레벨: 고사목 <<",
+      "TW": ">> 關卡：枯木森林 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP WATER <<": {
-    "translation": "**水神器已经被拾取**"
+    "translation": "**水神器已经被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは水を手に入れました <<",
+      "CN": ">> 玩家已拾取水 <<",
+      "KR": ">> 플레이어가 물을 주웠습니다 <<",
+      "TW": "*** 玩家已拾取水源 ***"
+    }
   },
   "*** Door opening in 20 seconds ***": {
-    "translation": "**门还有20秒后开启**"
+    "translation": "**门还有20秒后开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にドアが開きます ***",
+      "CN": "*** 门将在20秒后开启 ***",
+      "KR": "*** 문이 20초 후에 열립니다 ***",
+      "TW": "*** 計時倒數結束，門即將打開（剩餘 20 秒）***"
+    }
   },
   "*** Door is open!!! ***": {
-    "translation": "**门已打开**"
+    "translation": "**门已打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開きました!!! ***",
+      "CN": "*** 门已打开！ ***",
+      "KR": "*** 문이 열렸습니다!!! ***",
+      "TW": "*** 門已打開！***"
+    }
   },
   "*** Door opening in 5 seconds ***": {
-    "translation": "**门还有5秒后开启，撤退时别忘记放神器或者丢雷**"
+    "translation": "**门还有5秒后开启，撤退时别忘记放神器或者丢雷**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にドアが開きます ***",
+      "CN": "*** 门将在5秒后开启 ***",
+      "KR": "*** 문이 5초 후에 열립니다 ***",
+      "TW": "*** 門即將打開（剩餘 5 秒）***"
+    }
   },
   "*** Door is open! RUN!! ***": {
-    "translation": "**门开了，溜之大吉**"
+    "translation": "**门开了，溜之大吉**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開いた！逃げろ!! ***",
+      "CN": "*** 门已打开！快跑！！ ***",
+      "KR": "*** 문이 열렸습니다! 뛰세요!! ***",
+      "TW": "*** 門已打開！快逃！！***"
+    }
   },
   ">> PLAYER HAS PICKED UP GRAVITY <<": {
-    "translation": "**重力神器被拾取**"
+    "translation": "**重力神器被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは重力を手に入れました <<",
+      "CN": ">> 玩家已拾取重力 <<",
+      "KR": ">> 플레이어가 중력을 주웠습니다 <<",
+      "TW": "*** 玩家已拾取重力武器 ***"
+    }
   },
   ">> PLAYER HAS PICKED UP HEAL <<": {
-    "translation": "**治疗（奶）已经被拾取**"
+    "translation": "**治疗（奶）已经被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<プレイヤーは回復アイテムを拾った>>",
+      "CN": "<<玩家已获得回血道具>>",
+      "KR": ">> 플레이어가 체력 회복 아이템을 획득했습니다 <<",
+      "TW": ">> 玩家已拾取治療道具 <<"
+    }
   },
   "*** Defend for 30 seconds ***": {
-    "translation": "**守住30秒**"
+    "translation": "**守住30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒間防衛せよ ***",
+      "CN": "***防御30秒***",
+      "KR": "*** 30초 동안 방어하세요 ***",
+      "TW": "*** 防禦30秒 ***"
+    }
   },
   ">> THE KNIGHT HAS BEEN DEFEATED !!! <<": {
-    "translation": "**黑暗国王已被击败**"
+    "translation": "**黑暗国王已被击败**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ナイト撃破！！！>>",
+      "CN": "<<骑士已被击败>>",
+      "KR": ">> 나이트가 격파되었습니다 !!! <<",
+      "TW": ">> 騎士已被擊敗！！！ <<"
+    }
   },
   "*** Castle Gate is opening ***": {
-    "translation": "**城堡大门已开启**"
+    "translation": "**城堡大门已开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 城門が開く ***",
+      "CN": "***城堡大门正在打开***",
+      "KR": "*** 성문이 열립니다 ***",
+      "TW": "*** 城堡城門正在開啟 ***"
+    }
   },
   "*** Gate opening in 5 seconds ***": {
-    "translation": "**剩下5秒，撤退慢点拾取木板，小心吊桥门铁链的僵尸**"
+    "translation": "**剩下5秒，撤退慢点拾取木板，小心吊桥门铁链的僵尸**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後、門が開く ***",
+      "CN": "***大门将在5秒后开启***",
+      "KR": "*** 5초 후 문이 열립니다 ***",
+      "TW": "*** 城門將在5秒後開啟 ***"
+    }
   },
   ">> PLAYER HAS PICKED UP EARTH <<": {
-    "translation": "**大地之墙（土）已经被拾取**"
+    "translation": "**大地之墙（土）已经被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<プレイヤーは土のアイテムを拾った>>",
+      "CN": "<<玩家已获得土属性>>",
+      "KR": ">> 플레이어가 지구의 파워업 아이템을 획득했습니다 <<",
+      "TW": ">> 玩家已拾取土壤 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
-    "translation": "**弹药无限已被拾取**"
+    "translation": "**弹药无限已被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<プレイヤーは無制限弾薬を取得>>",
+      "CN": "<<玩家已获得无限弹药>>",
+      "KR": ">> 플레이자가 무제한 탄약을 획득했습니다 <<",
+      "TW": ">> 玩家已拾取無限彈藥 <<"
+    }
   },
   ">> THE LADDER IS BROKEN <<": {
-    "translation": "**楼梯坏掉了**"
+    "translation": "**楼梯坏掉了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<はしきが壊れた>>",
+      "CN": "<<梯子已损坏>>",
+      "KR": ">> 사다리가 끊어졌습니다 <<",
+      "TW": ">> 梯子斷裂了 <<"
+    }
   },
   ">> FIND 1 RUNG TO FIX IT <<": {
-    "translation": "**寻找木板去修好**"
+    "translation": "**寻找木板去修好**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<階段の破損個所を探せ>>",
+      "CN": ">> 发现一格梯子并修复 <<",
+      "KR": ">> 틈을 막으세요! <<",
+      "TW": ">> 找到 1 個梯級以修復 <<"
+    }
   },
   ">> A PLAYER HAS FOUND A LADDER RUNG <<": {
-    "translation": "**一个木板已被拾取**"
+    "translation": "**一个木板已被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<プレイヤーが階段の踏み板を見つけた>>",
+      "CN": ">> 玩家已拾取梯阶 <<",
+      "KR": ">> 사다리 가닥을 발견했습니다. <<",
+      "TW": ">> 玩家找到了一個梯子橫木 <<"
+    }
   },
   ">> DEFEND WHILE WE REPAIR THE LADDER <<": {
-    "translation": "**守到我们能修复梯子，注意僵尸后路**"
+    "translation": "**守到我们能修复梯子，注意僵尸后路**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<段階修理の間、防御しろ>>",
+      "CN": ">> 梯子修复期间，请全力防守 <<",
+      "KR": ">> 사다리 수리 중 방어하세요! <<",
+      "TW": ">> 我們修復梯子時請防守 <<"
+    }
   },
   ">> THE LADDER IS FIXED ! <<": {
-    "translation": "楼梯修好了，爬上去 僵尸5秒后传送到楼梯下面"
+    "translation": "楼梯修好了，爬上去 僵尸5秒后传送到楼梯下面",
+    "MultiLang": {
+      "US": ">> THE Ladder IS Fixed ! <<",
+      "JP": "<<階段が修理完了！>>",
+      "CN": ">> 梯子已修复！ <<",
+      "KR": ">> 사다리가 복구되었습니다! <<",
+      "TW": ">> 梯子已修復！ <<"
+    }
   },
   ">> PLAYER HAS PICKED UP ICE <<": {
-    "translation": "**冰神器已经被拾取**"
+    "translation": "**冰神器已经被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<プレイヤーが氷を受け取った>>",
+      "CN": ">> 玩家已拾取冰系技能 <<",
+      "KR": ">> 플레이어가 얼음을拾었습니다. <<",
+      "TW": ">> 玩家撿起了冰塊 <<"
+    }
   },
   ">> WE CAN REPAIR THE LADDER <<": {
-    "translation": "**我们能修复梯子了**"
+    "translation": "**我们能修复梯子了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<階段を修理できる>>",
+      "CN": ">> 我们可以修复梯子 <<",
+      "KR": ">> 사다리를 수리할 수 있습니다. <<",
+      "TW": ">> 我們可以修復梯子 <<"
+    }
   },
   ">> DEFEND ! <<": {
-    "translation": "**守住，别让僵尸突破**"
+    "translation": "**守住，别让僵尸突破**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<防御しろ！>>",
+      "CN": ">> 防守！ <<",
+      "KR": ">> 방어! <<",
+      "TW": ">> 防守！ <<"
+    }
   },
   ">> PLAYER HAS PICKED UP ELECTRO <<": {
-    "translation": ">>>电神器已被拾取（服务器已附加轻微减速）<<<"
+    "translation": ">>>电神器已被拾取<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<プレイヤーが電撃を受け取った>>",
+      "CN": ">> 玩家已拾取电系技能 <<",
+      "KR": ">> 플레이어가 전기를拾었습니다. <<",
+      "TW": ">> 玩家撿起了電擊器 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP FIRE <<": {
-    "translation": "**火神器已被拾取**"
+    "translation": "**火神器已被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーが炎を獲得しました <<",
+      "CN": ">> 玩家已拾取火焰 <<",
+      "KR": ">> 플레이어가 화염을 획득함 <<",
+      "TW": ">> 玩家已拾取火焰 <<"
+    }
   },
   ">> RUN !!!! <<": {
-    "translation": "**走你**"
+    "translation": "**走你**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 走れ!!!! <<",
+      "CN": ">> 快跑 !!!! <<",
+      "KR": ">> 도주 !!!! <<",
+      "TW": ">> 跑！！！！！ <<"
+    }
   },
   "*** RESCUE DRAGON LEAVING IN 15 SECONDS ***": {
-    "translation": "**地狱之龙还有15秒后离开**"
+    "translation": "**地狱之龙还有15秒后离开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 15秒以内にドラゴンを救出してください ***",
+      "CN": "*** 营救龙之撤离倒计时15秒 ***",
+      "KR": "*** 15초 후 용 구조 탈출 ***",
+      "TW": "*** 救援龍即將於 15 秒後離開 ***"
+    }
   },
   ">> LEVEL COMPLETED!! <<": {
-    "translation": "**关卡完成**"
+    "translation": "**关卡完成**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベルクリア!! <<",
+      "CN": ">> 关卡完成 !! <<",
+      "KR": ">> 레벨 클리어!! <<",
+      "TW": ">> 關卡完成！！ <<"
+    }
   },
   ">> LEVEL: CAVES <<": {
-    "translation": "**【LV2/EX2】关卡：地洞**"
+    "translation": "**【LV2/EX2】关卡：地洞**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル: 洞窟 <<",
+      "CN": ">> 关卡：洞穴 <<",
+      "KR": ">> 레벨: 동굴 <<",
+      "TW": ">> 關卡：洞穴 <<"
+    }
   },
   "*** Defend until the path is clear ***": {
-    "translation": "**30秒 守到蜘蛛网清除**"
+    "translation": "**30秒 守到蜘蛛网清除**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 道が開けるまで防衛せよ ***",
+      "CN": "*** 坚守直到通路打开 ***",
+      "KR": "*** 패스가 뚫릴 때까지 방어하세요 ***",
+      "TW": "*** 直到路徑清空前請守衛 ***"
+    }
   },
   ">> PLAYER HAS PICKED UP 6 MINES <<": {
-    "translation": "**地雷已被拾取，注意只有6次使用机会**"
+    "translation": "**地雷已被拾取，注意只有6次使用机会**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーがマイニングツール6個を獲得しました <<",
+      "CN": ">> 玩家已拾取6个地雷 <<",
+      "KR": ">> 플레이자가 화산재를 6개 획득함 <<",
+      "TW": ">> 玩家已拾取 6 個地雷 <<"
+    }
   },
   "*** The path is open! RUN!! ***": {
-    "translation": "**道路清空了，丢雷或神器撤退**"
+    "translation": "**道路清空了，丢雷或神器撤退**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 道が開いた！走れ!! ***",
+      "CN": "*** 通路已打开！快跑！！ ***",
+      "KR": "*** 경로가 열렸습니다! 도주!! ***",
+      "TW": "*** 路徑已開！快跑！！ ***"
+    }
   },
   "*** Defend for 20 seconds ***": {
-    "translation": "**在这个皮卡丘的尸骨里面防守20秒**"
+    "translation": "**在这个皮卡丘的尸骨里面防守20秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒間防衛せよ ***",
+      "CN": "*** 防守20秒 ***",
+      "KR": "*** 20초 동안 방어하세요 ***",
+      "TW": "*** 防守 20 秒 ***"
+    }
   },
   ">> ALL 6 MINES USED <<": {
-    "translation": "**6个地雷都被用完了**"
+    "translation": "**6个地雷都被用完了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 全6つの地雷を使用 <<",
+      "CN": ">> 6个地雷已全部使用 <<",
+      "KR": ">> 광산 모두 사용 완료 <<",
+      "TW": ">> 所有 6 個地雷已使用 <<"
+    }
   },
   ">> THE SKELETONS HAVE BEEN DEFEATED !!! <<": {
-    "translation": "**骷髅尬舞团已被枪毙，原路返回**"
+    "translation": "**骷髅尬舞团已被枪毙，原路返回**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> スケルトンを倒せ !!! <<",
+      "CN": ">> 骷髅已被击败！！！ <<",
+      "KR": ">> 스켈레톤을 모조리 처치했습니다 !!! <<",
+      "TW": ">> 骷髏怪已被擊敗！ <<"
+    }
   },
   "*** PLAYER FOUND A KEY ***": {
-    "translation": "**钥匙已经取得，先别着急开门，等断后撤退**"
+    "translation": "**钥匙已经取得，先别着急开门，等断后撤退**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** プレイヤーがキーを発見 ***",
+      "CN": "*** 玩家找到了钥匙 ***",
+      "KR": "*** 플레이어가 열쇠를 발견했습니다 ***",
+      "TW": "*** 玩家找到一把鑰匙 ***"
+    }
   },
   ">> PLAYER HAS PICKED UP WIND <<": {
-    "translation": "**风神器已被拾取**"
+    "translation": "**风神器已被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレイヤーは風を拾った <<",
+      "CN": ">> 玩家拾取了风之力量 <<",
+      "KR": ">> 플레이어에게 바람이 전달되었습니다 <<",
+      "TW": ">> 玩家已拾取風之力 <<"
+    }
   },
   "*** THE WAY IS OPEN! RUUUN! ***": {
-    "translation": "**道路开通了，溜**"
+    "translation": "**道路开通了，溜**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 道が開いた！ 走れ！！！！",
+      "CN": "*** 道路已打开！快逃！ ***",
+      "KR": "*** 길이 열렸습니다! 도주하세요! ***",
+      "TW": "*** 道路開通！快跑！ ***"
+    }
   },
   "*** LIFT LEAVING IN 15 seconds ***": {
-    "translation": "**缆车还有15秒后离开**"
+    "translation": "**缆车还有15秒后离开**",
+    "MultiLang": {
+      "US": "*** LIFT LEAVING IN 15 SECONDS ***",
+      "JP": "*** リフト発車まで15秒 ***",
+      "CN": "*** 电梯15秒后离开 ***",
+      "KR": "*** 리프트가 15초 뒤에 출발합니다 ***",
+      "TW": "*** 升降梯即將在 15 秒後離開 ***"
+    }
   },
   "*** LIFT LEAVING IN 5 seconds ***": {
-    "translation": "**缆车剩下5秒离开，走走走上缆车**"
+    "translation": "**缆车剩下5秒离开，走走走上缆车**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** リフト発車まで5秒 ***",
+      "CN": "*** 电梯5秒后离开 ***",
+      "KR": "*** 리프트가 5초 뒤에 출발합니다 ***",
+      "TW": "*** 升降梯即將在 5 秒後離開 ***"
+    }
   },
   ">> LEVEL: POKEBALL <<": {
-    "translation": ">>>【Lv3EX3】关卡：宝可梦<<<"
+    "translation": ">>>【Lv3EX3】关卡：宝可梦<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル：ポケモンボール <<",
+      "CN": ">> 地点：精灵球 <<",
+      "KR": ">> 레벨: 포켓볼 <<",
+      "TW": ">> 關卡：精靈球 <<"
+    }
   },
   "*** ELEVATOR LEAVING IN 20 seconds ***": {
-    "translation": "**电梯还有20秒离开**"
+    "translation": "**电梯还有20秒离开**",
+    "MultiLang": {
+      "US": "*** ELEVATOR LEAVING IN 20 SECONDS ***",
+      "JP": "*** エレベーターを20秒後に発車します ***",
+      "CN": "*** 电梯将在20秒后离开 ***",
+      "KR": "*** 20초 후 엘리베이터 출발 ***",
+      "TW": "*** 電梯於 20 秒後離站 ***"
+    }
   },
   ">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<": {
-    "translation": "**妙蛙种子（墙）被收服**"
+    "translation": "**妙蛙种子（墙）被收服**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレーヤーはフシギダネのポケモンボールを拾いました <<",
+      "CN": ">> 玩家已拾取妙蛙种子精灵球 <<",
+      "KR": ">> 플레이어가 부타부타 포켓볼을 획득했습니다 <<",
+      "TW": ">> 玩家已撿起妙蛙種子精靈球 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<": {
-    "translation": "**杰尼龟（水）被收服**"
+    "translation": "**杰尼龟（水）被收服**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレーヤーはゼニガメのポケモンボールを拾いました <<",
+      "CN": ">> 玩家已拾取杰尼龟精灵球 <<",
+      "KR": ">> 플레이어가 껌신 포켓볼을 획득했습니다 <<",
+      "TW": ">> 玩家已撿起傑尼龜精靈球 <<"
+    }
   },
   "*** Tunnel opening in 20 seconds ***": {
-    "translation": "**洞口通道还有20秒开通**"
+    "translation": "**洞口通道还有20秒开通**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** トンネルが20秒後に開きます ***",
+      "CN": "*** 隧道将在20秒后开启 ***",
+      "KR": "*** 터널 20초 후 개방 ***",
+      "TW": "*** 隧道於 20 秒後開啟 ***"
+    }
   },
   ">> PLAYER HAS PICKED UP DITTO POKEBALL <<": {
-    "translation": "**百变怪已被收服，对着头顶按E切换效果**"
+    "translation": "**百变怪已被收服，对着头顶按E切换效果**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> プレーヤーはメタモンのポケモンボールを拾いました <<",
+      "CN": ">> 玩家已拾取百变怪精灵球 <<",
+      "KR": ">> 플레이어가 메타몽 포켓볼을 획득했습니다 <<",
+      "TW": ">> 玩家已撿起胖丁精靈球 <<"
+    }
   },
   "*** Tunnel opening in 5 seconds ***": {
-    "translation": "**隧道还有5秒打通**"
+    "translation": "**隧道还有5秒打通**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** トンネルが5秒後に開きます ***",
+      "CN": "*** 隧道将在5秒后开启 ***",
+      "KR": "*** 터널 5초 후 개방 ***",
+      "TW": "*** 隧道於 5 秒後開啟 ***"
+    }
   },
   ">> ZOMBIE GHASTLY POKEBALL HAS BEEN PICKED UP<<": {
-    "translation": "**僵尸鬼斯已被拾取**"
+    "translation": "**僵尸鬼斯已被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビゴースのポケモンボールを拾いました <<",
+      "CN": ">> 已拾取僵尸鬼斯精灵球 <<",
+      "KR": ">> 좀비 고스트 포켓볼을 획득했습니다 <<",
+      "TW": ">> 殭屍鬼斯精靈球已被撿起<<"
+    }
   },
   "*** Guard House opening in 30 seconds ***": {
-    "translation": "**警备处大门还有30秒开启**"
+    "translation": "**警备处大门还有30秒开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後に警備棟が開放されます ***",
+      "CN": "*** 哨站守卫将于30秒后开启 ***",
+      "KR": "*** 30초 후 감시실 개방 ***",
+      "TW": "*** 守備室將在30秒後開放 ***"
+    }
   },
   "*** Guard House opening in 5 seconds ***": {
-    "translation": "**警备处大门还有5秒开启（门板开合时候有秒杀效果）**"
+    "translation": "**警备处大门还有5秒开启（门板开合时候有秒杀效果）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後に警備棟が開放されます ***",
+      "CN": "*** 哨站守卫将于5秒后开启 ***",
+      "KR": "*** 5초 후 감시실 개방 ***",
+      "TW": "*** 守備室將在5秒後開放 ***"
+    }
   },
   "*** Gym opening in 20 seconds ***": {
-    "translation": "**竞技场大门还有20秒开启**"
+    "translation": "**竞技场大门还有20秒开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にジムが開放されます ***",
+      "CN": "*** 健身馆将于20秒后开启 ***",
+      "KR": "*** 20초 후 체육관 개방 ***",
+      "TW": "*** 健身房將在20秒後開放 ***"
+    }
   },
   "*** Gym opening in 5 seconds ***": {
-    "translation": "**竞技场大门还有5秒开启（门板开合时候有秒杀效果）**"
+    "translation": "**竞技场大门还有5秒开启（门板开合时候有秒杀效果）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後にジムが開放されます ***",
+      "CN": "*** 健身馆将于5秒后开启 ***",
+      "KR": "*** 5초 후 체육관 개방 ***",
+      "TW": "*** 健身房將在5秒後開放 ***"
+    }
   },
   "*** RUN INTO THE GYM !!!! ***": {
-    "translation": "**走进竞技场看看有谁在等着我们**"
+    "translation": "**走进竞技场看看有谁在等着我们**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ジムに飛び込め !!!! ***",
+      "CN": "*** 快冲进健身馆 !!!! ***",
+      "KR": "*** 체육관으로 달려라 !!!! ***",
+      "TW": "*** 快衝進健身房！！！***"
+    }
   },
   "*** YOU WOKE UP SNORLAX ***": {
-    "translation": "**你唤醒了卡比兽**"
+    "translation": "**你唤醒了卡比兽**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** スリープを呼び覚ましたな ***",
+      "CN": "*** 你吵醒了卡比兽 ***",
+      "KR": "*** 당신은 몰렉스를 깨웠다 ***",
+      "TW": "*** 你喚醒了卡比獸 ***"
+    }
   },
   "*** IT ATTACKED IN A GRUMPY RAGE !!! ***": {
-    "translation": "**它现在愤怒了**"
+    "translation": "**它现在愤怒了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 荒れた怒りで襲ってきた！！！ ***",
+      "CN": "*** 它正带着愤怒咆哮攻击！！！ ***",
+      "KR": "*** 분노에 차 공격했다 !!! ***",
+      "TW": "*** 它憤怒地攻擊了！！！***"
+    }
   },
   "*** SNORLAX IS MAKING US SLEEPY ***": {
-    "translation": "**卡比兽释放了【催眠之力】**"
+    "translation": "**卡比兽释放了【催眠之力】**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** スリープが眠気を催させている ***",
+      "CN": "*** 卡比兽让我们感到困倦 ***",
+      "KR": "*** 몰렉스가 우리를 졸리게 만든다 ***",
+      "TW": "*** 卡比獸讓我們感到困倦 ***"
+    }
   },
   "*** SNORLAX IS GOING TO USE HYPERBEAM ***": {
-    "translation": "**15秒 卡比兽即将使用破坏死光（注意两侧僵尸）**"
+    "translation": "**15秒 卡比兽即将使用破坏死光（注意两侧僵尸）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "カビゴン、ギガドラン！",
+      "CN": "*** 卡比兽将使用破坏光线 ***",
+      "KR": "*** 노크리, 하이빔 사용 ***",
+      "TW": "*** 卡比獸即將使用極光束 ***"
+    }
   },
   "*** SNORLAX USED HYPERBEAM ***": {
-    "translation": "**10秒 卡比兽释放了破坏死光**"
+    "translation": "**10秒 卡比兽释放了破坏死光**",
+    "MultiLang": {
+      "US": "",
+      "JP": "カビゴンはギガドランを使った！",
+      "CN": "*** 卡比兽使用了破坏光线 ***",
+      "KR": "*** 노크리, 하이빔을사용함 ***",
+      "TW": "*** 卡比獸使用了極光束 ***"
+    }
   },
   "*** SNORLAX USED REST ***": {
-    "translation": "**卡比兽释放了【自我休息】ZZZ**"
+    "translation": "**卡比兽释放了【自我休息】ZZZ**",
+    "MultiLang": {
+      "US": "",
+      "JP": "カビゴンはねむるを使おうとしている！",
+      "CN": "*** 卡比兽使用了休息 ***",
+      "KR": "*** 노크리, 휴식 사용 ***",
+      "TW": "*** 卡比獸使用了睡眠 ***"
+    }
   },
   "*** ESCAPE WHILE HE IS ASLEEP ***": {
     "translation": "**让它继续睡它的回笼觉，赶紧跑掉**",
-    "ClearTimer": true
+    "MultiLang": {
+      "US": "",
+      "JP": "眠っている間にかいりょくする",
+      "CN": "*** 趁其熟睡时逃跑 ***",
+      "KR": "*** 잠자는 동안 도주 ***",
+      "TW": "*** 趁其睡着時逃離 ***"
+    }
   },
   "*** ELEVATOR LEAVING IN 30 seconds ***": {
-    "translation": "**电梯30秒后启动**"
+    "translation": "**电梯30秒后启动**",
+    "MultiLang": {
+      "US": "*** ELEVATOR LEAVING IN 30 SECONDS ***",
+      "JP": "エレベーター、30秒後に出発",
+      "CN": "*** 电梯将在30秒后离开 ***",
+      "KR": "*** 엘리베이터 30초 후 출발 ***",
+      "TW": "*** 電梯將於30秒後離開 ***"
+    }
   },
   ">> EXTREME MODE ADDED <<": {
-    "translation": "**极限关卡已经启动**"
+    "translation": "**极限关卡已经启动**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 極限モード追加 <<",
+      "CN": ">> 已添加极限模式 <<",
+      "KR": ">> 극한 모드 추가됨 <<",
+      "TW": ">> 已新增極限模式 <<"
+    }
   },
   ">> 2 MORE RUNGS TO FIND <<": {
-    "translation": "**还有2个木板**"
+    "translation": "**还有2个木板**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> あと2階層発見 <<",
+      "CN": ">> 还有2级台阶等待探索 <<",
+      "KR": "남은 사다리 2개 발견 필요",
+      "TW": ">> 尚有2處踏板待發現 <<"
+    }
   },
   ">> 1 MORE RUNG TO FIND <<": {
-    "translation": "**还有1个木板**"
+    "translation": "**还有1个木板**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>あと1本見つかる<<",
+      "CN": ">> 还有1级台阶等待探索 <<",
+      "KR": ">> 찾을 사다리 1개 남음 <<",
+      "TW": ">> 尚有1處踏板待發現 <<"
+    }
   },
   ">> ALL THE RUNGS ARE FOUND <<": {
-    "translation": "**所有木板都被找到了**"
+    "translation": "**所有木板都被找到了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "全ての階段が見つかりました",
+      "CN": ">> 所有台阶均已找到 <<",
+      "KR": ">> 사다리의 모든 단계가 확인되었습니다 <<",
+      "TW": ">> 所有梯級均已就位 <<"
+    }
   },
   "*** RESCUE DRAGON LEAVING IN 30 SECONDS ***": {
-    "translation": "**地狱之龙还有30秒离开**"
+    "translation": "**地狱之龙还有30秒离开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後にレスキュー用ドラゴンが離陸します ***",
+      "CN": "*** 救援龙将于30秒后出发 ***",
+      "KR": "*** 30초 후 구조된 용사 퇴장 ***",
+      "TW": "*** 救援龍，30秒後離開 ***"
+    }
   },
   ">> PLAYER HAS PICKED UP CHARMANDER POKEBALL <<": {
-    "translation": "**小火龙已被收服**"
+    "translation": "**小火龙已被收服**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはヒトカゲポケボールを拾いました",
+      "CN": ">> 玩家已拾取小火龙精灵球 <<",
+      "KR": ">> 플레이어는 파이어리 공을 획득했습니다 <<",
+      "TW": ">> 玩家已拾取小火龍精球 <<"
+    }
   },
   ">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<": {
-    "translation": "**皮卡丘已被收服**"
+    "translation": "**皮卡丘已被收服**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはピカチュウポケボールを拾いました",
+      "CN": ">> 玩家已拾取皮卡丘精灵球 <<",
+      "KR": ">> 플레이어가 피카츄 공을 획득했습니다 <<",
+      "TW": ">> 玩家已拾取皮卡丘精球 <<"
+    }
   },
   ">> ZOMBIES ABOARD!! LEVEL FAILED!! <<": {
-    "translation": "**僵尸到达，关卡失败**"
+    "translation": "**僵尸到达，关卡失败**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビが船内に侵入！レベル失敗！ ***",
+      "CN": ">> 飞船上有僵尸！任务失败！！<<",
+      "KR": ">> 좀비가 탑승했습니다! 레벨 실패!! <<",
+      "TW": ">> 敵人已登船!! 關卡失敗!! <<"
+    }
   },
   "*** LIFT LEAVING IN 30 seconds ***": {
-    "translation": "**缆车还有20秒后（？）**"
+    "translation": "**缆车还有20秒后（？）**",
+    "MultiLang": {
+      "US": "*** LIFT LEAVING IN 30 SECONDS ***",
+      "JP": "*** 30秒後にエレベーターが発進します ***",
+      "CN": "*** 电梯将于30秒后出发 ***",
+      "KR": "*** 30초 후 엘리베이터 출발 ***",
+      "TW": "*** 電梯30秒後離開 ***"
+    }
   },
   "*** THE LIFT IS BROKEN ! ***": {
-    "translation": "**缆车坏掉了**"
+    "translation": "**缆车坏掉了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが故障しました！ ***",
+      "CN": "*** 电梯故障！***",
+      "KR": "*** 엘리베이터가 고장났습니다 ! ***",
+      "TW": "*** 電梯故障 ! ***"
+    }
   },
   "*** WE HAVE TO GO DEEPER INTO THE CAVE ***": {
-    "translation": "**我们必须去山洞**"
+    "translation": "**我们必须去山洞**",
+    "MultiLang": {
+      "US": "",
+      "JP": "洞窟の中へと深く進んでいかなければなりません",
+      "CN": "*** 我们必须深入洞穴 ***",
+      "KR": "*** 동굴 더 깊숙이 들어갑니다 ***",
+      "TW": "*** 我們必須深入洞穴 ***"
+    }
   },
   "*** HOLD WHILE WE OPEN THE WAY ***": {
-    "translation": "**15秒，守到我们把道路弄开**"
-  },
-  ">> ITS A DEAD END !! <<": {
-    "translation": "**不好，是死路**"
-  },
-  ">> THE MOLE WILL HELP US GET OUT <<": {
-    "translation": "**鼹鼠会帮我们清空道路**"
-  },
-  ">> DEFEND WHILE THE MOLE IS DIGGING <<": {
-    "translation": "**鼹鼠挖掘中**"
-  },
-  ">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<": {
-    "translation": "**30秒，守住，别让僵尸出洞**"
-  },
-  ">> THE MOLE IS COMING BACK ! WATCH OUT !! <<": {
-    "translation": "**鼹鼠回爬了，两边散开，别让僵尸进来**"
-  },
-  "*** ZOMBIES TAKE THE SIDEWAY ***": {
-    "translation": "**侧路开启，守到开关按下**"
-  },
-  "*** ELEVATOR IS STUCK ***": {
-    "translation": "**电梯的发电机突然关闭了**"
-  },
-  "*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***": {
-    "translation": "**重启发电机的开关在这层里面，找找看**"
-  },
-  "*** NICE JOB!!! ***": {
-    "translation": "**干得漂亮**"
-  },
-  "*** Doors opening in 30 seconds ***": {
-    "translation": "**门还有30秒打开**"
-  },
-  "*** Doors opening in 5 seconds ***": {
-    "translation": "**门还有5秒开启**"
-  },
-  "*** Doors are open! RUN!! ***": {
-    "translation": "**门开了**"
-  },
-  ">> CATCH HIM. HE IS OUR WAY OUT !!! <<": {
-    "translation": "**赶紧用宝贝球收服它**"
-  },
-  ">> A POKEBALL HAS BEEN PICKED UP <<": {
-    "translation": "**精灵球已被拾取**"
-  },
-  ">> SHINY PIKACHU HAS BEEN PICKED UP <<": {
-    "translation": "**闪光皮卡丘已被拾取**"
-  },
-  ">> TAKE THE POKEBALL <<": {
-    "translation": "**拿起精灵球**"
-  },
-  ">> WE CAN LEAVE THIS WORLD NOW <<": {
-    "translation": "**我们能离开这个世界了**"
-  },
-  ">> THE CLOCK IS A TIME MACHINE !!! <<": {
-    "translation": "**这闹钟是个时光机器**"
-  },
-  ">> PUT THE SHINY PIKACHU INSIDE IT <<": {
-    "translation": "**赶紧去把皮卡丘放进去**"
-  },
-  ">> ENTER IN THE CLOCK FROM THE BACK <<": {
-    "translation": "**用内格夫将闹钟外表电池拆掉**"
-  },
-  ">> FIND 3 RUNGS TO FIX IT <<": {
-    "translation": "**寻找3个木板去修复它**"
-  },
-  ">> PUT SHINY PIKACHU IN THE CLOCK <<": {
-    "translation": "**把闪光皮卡丘放在闹钟里面**"
-  },
-  ">> PIKACHU IS POWERING UP THE TIME MACHINE !!! <<": {
-    "translation": "**皮卡丘启动了时光机**"
-  },
-  ">> STAY ON THE BOOK <<": {
-    "translation": "**待在书本上面**"
-  },
-  ">> IT SHOULD BE SAFER <<": {
-    "translation": "**它会很安全**"
-  },
-  ">> ZOMBIES ESCAPED!! LEVEL FAILED!! <<": {
-    "translation": "**僵尸到达终点！！关卡失败**"
-  },
-  ">> YOU TOOK TOO LONG !! <<": {
-    "translation": "**你花费了太长时间**"
-  },
-  ">> PIKACHU CAUGHT HIMSELF !! <<": {
-    "translation": "**皮卡丘自己都看不下去了，自己钻进了精灵球**"
-  },
-  ">> ZOMBIES INSIDE THE ELEVATOR <<": {
-    "translation": "**僵尸进到电梯里面了**"
-  },
-  ">> LEVEL FAILED <<": {
-    "translation": "**关卡失败**"
-  },
-  ">> PIKACHU IS GETTING OUT OF CONTROL !! <<": {
-    "translation": "**皮卡丘释放了十万伏特**"
-  },
-  ">> THE OVERLOAD IS RECHARGING THE RADIO !! <<": {
-    "translation": "**电力波及到了收音机**"
-  },
-  ">> GO ON THE BOOK ! <<": {
-    "translation": "**赶紧上到书本上面去，别让僵尸上来，这是最后了**"
-  },
-  ">> LEVEL: TIME LOOP <<": {
-    "translation": "**关卡：时光循环（河北省的元首 雾）**"
-  },
-  ">> THE TIME MACHINE IS ALMOST READY !!! <<": {
-    "translation": "**时光机已经准备好**"
-  },
-  ">> DEFEND !!! <<": {
-    "translation": "**防守**"
-  },
-  ">> DEFEND FOR 40 SECONDS <<": {
-    "translation": "**在时空隧道防守40秒，目标：河北省**"
-  },
-  ">> 5 SECONDS LEFT !!! <<": {
-    "translation": "**5秒剩余，赶紧上最后平台，别放僵尸过来**"
-  },
-  "*** WAIT TILL BOMBS BREAK THIS BOARD ***": {
-    "translation": "**守到炸弹炸开木板：30**"
-  },
-  "*** BOARD IS BROKEN RUUUUUUN!! ***": {
-    "translation": "**木板炸开了，走**"
-  },
-  "*** Door opening in 25 seconds ***": {
-    "translation": "**门还有25秒开启**"
-  },
-  "*** Doors opening in 20 seconds ***": {
-    "translation": "**门还有20秒开启**"
-  },
-  ">> DEFEND FOR 30 SECONDS <<": {
-    "translation": "**守住30秒**"
-  },
-  ">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<": {
-    "translation": "**别让他把撒旦召唤出来**"
-  },
-  ">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<": {
-    "translation": "**元首皮卡丘释放了闪电，渣渣**"
-  },
-  ">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<": {
-    "translation": "**皮卡丘元首被击败了**"
-  },
-  ">> WE WERE TOO LATE !!! <<": {
-    "translation": "**我们太慢了**"
-  },
-  ">> PIKACHU NAZI SACRIFICED HIS SOUL TO FINISH THE BIRTH !! <<": {
-    "translation": "**纳粹皮卡丘献祭了自己的生命召唤了撒旦**"
-  },
-  ">> OH NO!! SATAN IS ALIVE ! <<": {
-    "translation": "**不好，撒旦复活了**"
-  },
-  ">> SATAN OPENED A PORTAL TO HELL !!! <<": {
-    "translation": "**撒旦开启了地狱之门**"
-  },
-  ">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<": {
-    "translation": "**撒旦正藏在时间机器房间**"
-  },
-  ">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<": {
-    "translation": "**噢不撒旦正在启动时间机器**"
-  },
-  ">> GET READY FOR THE FINAL FIGHT !! <<": {
-    "translation": "**准备好与它的战斗**"
-  },
-  ">> KEEP ZOMBIES OUT OF THE ROOM <<": {
-    "translation": "**把僵尸阻挡在门外**"
-  },
-  "** Satan is immune to Grenades **": {
-    "translation": "**撒旦已经对手雷吸血**"
-  },
-  "** Satan control the Electricity **": {
-    "translation": "**撒旦掌握了电泳之力**"
-  },
-  "** Satan can summon Tornado Minions **": {
-    "translation": "**撒旦可以控制风暴**"
-  },
-  "** Satan can summon Ultimate Minions **": {
-    "translation": "**撒旦学会了终极之力（这帮连跳）**"
-  },
-  "** Satan can summon Fire Minions **": {
-    "translation": "**撒旦学会了火焰喷射**"
-  },
-  "** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **": {
-    "translation": "**5个僵尸已经江生命续给了撒旦，赶紧苟起**"
-  },
-  ">> SATAN IS ESCAPING !! <<": {
-    "translation": "**撒旦正在逃脱**"
-  },
-  ">> DEFEND 20 SECONDS !! <<": {
-    "translation": "**把僵尸压制20秒，我们会追上撒旦**"
-  },
-  ">> 5 SECONDS LEFT !! <<": {
-    "translation": "**5秒剩余，时光机快启动了**"
-  },
-  ">> GO IN THE TIMEMACHINE !! <<": {
-    "translation": "**赶紧进入时光机**"
-  },
-  ">> THIS IS THE BRINK OF TIME <<": {
-    "translation": "**我们回到了时光间隙**"
-  },
-  ">> SATAN IS HIDING SOMEWHERE <<": {
-    "translation": "**撒旦肯定藏在某个地方**"
-  },
-  ">> BE CAREFUL <<": {
-    "translation": "**17:小心它的突然袭击[剑气斩（跳刀）准备，第一刀出现在僵尸方向，准备好高爆]**"
-  },
-  ">> DEFEND UNTIL SOMETHING HAPPENS <<": {
-    "translation": "**守到数字版消失**"
-  },
-  ">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<": {
-    "translation": "**撒旦将在40秒后逃出生天**"
-  },
-  ">> TOO LATE ! <<": {
-    "translation": "**太慢了**"
-  },
-  ">> WE WILL STOP SATAN NO MATTER WHAT !!! <<": {
-    "translation": "**我们不会放过它的**"
-  },
-  ">> DEFEND 20 SECONDS <<": {
-    "translation": "**防守20秒**"
-  },
-  ">> 5 SECONDS LEFT <<": {
-    "translation": "**5秒剩余**"
-  },
-  "** Satan control the Ice **": {
-    "translation": "**撒旦学会了寒冰之地**"
-  },
-  "** Satan can summon Water Minions **": {
-    "translation": "**撒旦学会了水浪波动**"
-  },
-  "** Satan control the Explosions **": {
-    "translation": "**撒旦可以控制爆炸了（小心地雷）**"
-  },
-  ">> Congratulations ! <<": {
-    "translation": "**恭喜你**"
-  },
-  ">> You beat the map ! <<": {
-    "translation": "**你通关了本地图**"
-  },
-  ">> TimeLoop Ending <<": {
-    "translation": "**时光循环路线**"
-  },
-  ">> Play ShroomForest1 to continue this beautiful adventure <<": {
-    "translation": "**重新玩蘑菇1从头开始吧**"
-  },
-  ">> (That wouldnt have happened if you killed Satan) <<": {
-    "translation": "**除非你击败了撒旦**"
-  },
-  ">> MAP IS OVER <<": {
-    "translation": "**关卡结束**"
-  },
-  ">> TELEPORTER TO ADMIN ROOM AVAILABLE <<": {
-    "translation": "**传送到调关房间**"
-  },
-  ">> NUKE ALL IN 30 SECONDS <<": {
-    "translation": "**核弹还有30秒抵达**"
-  },
-  ">> PLAYER HAS CHOSEN: DEAD TREE <<": {
-    "translation": "**调关选择了：死亡之树（LV1）**"
-  },
-  ">> Good Ending <<": {
-    "translation": ">>完美结局<<"
-  },
-  ">> Thanks for being part of this incredible adventure <<": {
-    "translation": ">>谢谢你参与了这不可思议的冒险之旅<<"
-  },
-  ">> PLAYER HAS CHOSEN: CAVES NORMAL <<": {
-    "translation": "**调关选择了：地洞（LV2）*"
-  },
-  ">> PLAYER HAS CHOSEN: POKEBALL NORMAL <<": {
-    "translation": "**调关选择了：宝可梦（LV3）**"
-  },
-  ">> PLAYER HAS CHOSEN: DEAD TREE EXTREME <<": {
-    "translation": "**调关选择了：极限死亡之树（EX1）**"
-  },
-  ">> PLAYER HAS CHOSEN: CAVES EXTREME <<": {
-    "translation": "**调关选择了：极限地洞（EX2）**"
-  },
-  ">> PLAYER HAS CHOSEN: POKEBALL EXTREME <<": {
-    "translation": "**调关选择了：极限宝可梦（EX3）**"
-  },
-  ">> PLAYER HAS CHOSEN: TIME LOOP <<": {
-    "translation": "**调关选择了：时光循环（LV7）**"
-  },
-  ">> TAKE THE MASTERBALL <<": {
-    "translation": ">>捡起大师球<<"
-  },
-  ">> WE ELIMINATED SATAN BEFORE HE COULD TIME TRAVEL !!! <<": {
-    "translation": ">>我们成功击败了撒旦<<"
-  },
-  ">> THE WORLD WILL FINALLY BE IN PEACE !!! <<": {
-    "translation": ">>世界将会重返和平<<"
-  },
-  ">> RESTARTING ROUND IN 5 SECONDS <<": {
-    "translation": "5秒后全图核爆"
-  },
-  ">> NOBODY ESCAPED!! LEVEL FAILED!! <<": {
-    "translation": "没人逃出？那就寄咯"
-  },
-  ">> SATAN ABSORB NADES TO HEAL HIMSELF <<": {
-    "translation": "撒旦现在对高爆吸血了，别再丢了"
-  },
-  ">> There is an error in the level system <<": {
-    "translation": ">>这是个错误的关卡系统<<"
-  },
-  ">> THE MASTERBALL HAS BEEN PICKED UP <<": {
-    "translation": ">>大师球已被拾取<<"
-  },
-  ">> ZOMBIES IN THE SAFE AREA <<": {
-    "translation": "**警告！检测到僵尸进入安全区域！！！**"
-  },
-  "*** Door opening in 30 seconds ***": {
-    "translation": "门还有30秒后开启"
-  },
-  ">> OH NO!! IT'S THE KNIGHT <<": {
-    "translation": "哦！！不，是黑暗国王，别被它的剑打到，别忘记输出它"
-  },
-  "*** Gate opening in 25 seconds ***": {
-    "translation": "25秒后二楼大门打开"
-  },
-  "*** Defend for 5 seconds ***": {
-    "translation": "在这个皮卡丘的尸骨里面防守5秒，不要让僵尸进来"
-  },
-  ">> OH NO!! IT'S THE SPOOKY SCARY SKELETONS <<": {
-    "translation": "喔，是卤粉钦定的骷髅舞蹈团"
-  },
-  ">> KILL THEM BEFORE IT'S TOO LATE <<": {
-    "translation": "85秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们"
-  },
-  "*** ELEVATOR LEAVING IN 5 seconds ***": {
-    "translation": "电梯还有5秒离开"
-  },
-  "*** DEFEAT HIM BEFORE IT'S TOO LATE ***": {
-    "translation": "在45秒之前干掉它"
-  },
-  "*** SHOOT BEFORE IT'S TOO LATE ***": {
-    "translation": "赶紧干掉它，注意僵尸的进攻"
-  },
-  "*** IT'S SUPER EFFECTIVE !!! ***": {
-    "translation": "它超级有效"
-  },
-  ">> POKEMON WON'T FOLLOW YOU IN THIS CAVE <<": {
-    "translation": "宝可梦逃掉了（神器不能用）"
-  },
-  ">> IT'S A SHINY PIKACHU !!! <<": {
-    "translation": "是个闪光的皮卡丘"
-  },
-  ">> OH NO!! IT'S PIKACHU NAZI <<": {
-    "translation": "不好，是元首皮卡丘"
-  },
-  "-- [ZOMBIES] Find Satan's Powers to make him stronger --": {
-    "translation": "【僵尸】给撒旦寻找5个力量（总共9种，终极固定，4个随机）"
-  },
-  ">> STOP HIM BEFORE IT'S TOO LATE !! <<": {
-    "translation": "在太迟之前阻止它"
-  },
-  "-- [ZOMBIES] You can still find Satan's Powers during the fight --": {
-    "translation": "【僵尸】可以继续给撒旦寻找力量"
-  },
-  "** Satan's Speed Increased **": {
-    "translation": "撒旦速度快起来了，别被坐飞机了"
-  },
-  ">> HE WON'T GO FAR ! <<": {
-    "translation": "它不会跑太远"
-  },
-  ">> WE NEED TO KILL HIM BEFORE IT'S TOO LATE !! <<": {
-    "translation": "我们必须在它逃掉之前将其击败"
+    "translation": "**15秒，守到我们把道路弄开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 通路確保中 ***",
+      "CN": "***保持警惕，正在为您开路***",
+      "KR": "*** 길을 열어드리니 기다려 주세요 ***",
+      "TW": "*** 請等待我們開啟通道 ***"
+    }
   },
   ">> IT'S A DEAD END !! <<": {
-    "translation": ""
+    "translation": "**不好，是死路**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 行き止まりだ !! <<",
+      "CN": ">>此路不通！！<<",
+      "KR": ">> 끝길입니다 !! <<",
+      "TW": ">> 此路不通！ <<"
+    }
+  },
+  ">> THE MOLE WILL HELP US GET OUT <<": {
+    "translation": "**鼹鼠会帮我们清空道路**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> トゲネズミが逃げ道を作ってくれる <<",
+      "CN": ">>地鼠会帮我们脱困<<",
+      "KR": "두더지가 우리를 도와줄 것입니다 <<",
+      "TW": ">> 地鼠會幫我們逃出去 <<"
+    }
+  },
+  ">> DEFEND WHILE THE MOLE IS DIGGING <<": {
+    "translation": "**鼹鼠挖掘中**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> トゲネズミが道を掘っている間、守れ <<",
+      "CN": ">>在地鼠挖掘时负责防守<<",
+      "KR": "두더지가 땅을 파는 동안 방어하세요 <<",
+      "TW": ">> 在地鼠挖掘期間請堅守防線 <<"
+    }
+  },
+  ">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<": {
+    "translation": "**30秒，守住，别让僵尸出洞**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 防衛！！ゾンビを洞窟内に留めろ <<",
+      "CN": ">>坚持防守！将僵尸困在洞穴内<<",
+      "KR": "방어!! 좀비를 동굴 안에 가두세요 <<",
+      "TW": ">> 防守！把殭屍困在洞穴中 <<"
+    }
+  },
+  ">> THE MOLE IS COMING BACK ! WATCH OUT !! <<": {
+    "translation": "**鼹鼠回爬了，两边散开，别让僵尸进来**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> トゲネズミが戻ってくるぞ！気を付けろ !! <<",
+      "CN": ">>地鼠回来了！小心！！<<",
+      "KR": "두더지가 다시 옵니다 ! 주의하세요 !! <<",
+      "TW": ">> 地鼠回來了！注意警戒！！ <<"
+    }
+  },
+  "*** ZOMBIES TAKE THE SIDEWAY ***": {
+    "translation": "**侧路开启，守到开关按下**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビは側道を進む ***",
+      "CN": "***僵尸正在攻击人行道***",
+      "KR": "*** 좀비가 인도로 나아갑니다 ***",
+      "TW": "*** 殭屍佔據了側徑 ***"
+    }
+  },
+  "*** ELEVATOR IS STUCK ***": {
+    "translation": "**电梯的发电机突然关闭了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターが故障中 ***",
+      "CN": "***电梯故障卡住***",
+      "KR": "*** 엘리베이터가 멈췄습니다 ***",
+      "TW": "*** 電梯卡住了 ***"
+    }
+  },
+  "*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***": {
+    "translation": "**重启发电机的开关在这层里面，找找看**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** この階に緊急スイッチがあります ***",
+      "CN": "*** 本层设有紧急开关 ***",
+      "KR": "*** 이 층에 비상 스위치가 있습니다 ***",
+      "TW": "*** 本層設有緊急開關 ***"
+    }
+  },
+  "*** NICE JOB!!! ***": {
+    "translation": "**干得漂亮**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** よくできました！ ***",
+      "CN": "*** 做得好！！！***",
+      "KR": "*** 수고하셨습니다!!! ***",
+      "TW": "*** 幹得漂亮！！！***"
+    }
+  },
+  "*** Doors opening in 30 seconds ***": {
+    "translation": "**门还有30秒打开**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後、ドアが開きます ***",
+      "CN": "*** 30秒后开门 ***",
+      "KR": "*** 30초 후 문이 열립니다 ***",
+      "TW": "*** 門將在30秒後開啟 ***"
+    }
+  },
+  "*** Doors opening in 5 seconds ***": {
+    "translation": "**门还有5秒开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 5秒後、ドアが開きます ***",
+      "CN": "*** 5秒后开门 ***",
+      "KR": "*** 5초 후 문이 열립니다 ***",
+      "TW": "*** 門將在5秒後開啟 ***"
+    }
+  },
+  "*** Doors are open! RUN!! ***": {
+    "translation": "**门开了**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアが開いた！走れ！！ ***",
+      "CN": "*** 门已开！快跑！！***",
+      "KR": "*** 문이 열렸습니다! 도주하세요!! ***",
+      "TW": "*** 門已開啟！快跑！！***"
+    }
+  },
+  ">> CATCH HIM. HE IS OUR WAY OUT !!! <<": {
+    "translation": "**赶紧用宝贝球收服它**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 追え。彼こそがおれの脱出手段だ！ <<",
+      "CN": ">> 抓住他。他是我们要出去的唯一途径！！！<<",
+      "KR": ">> 그를 잡습니다. 그가 우리의 탈출구입니다! <<",
+      "TW": ">> 抓住他，他是我們的出路！！！ <<"
+    }
+  },
+  ">> A POKEBALL HAS BEEN PICKED UP <<": {
+    "translation": "**精灵球已被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ポケモンボールが拾われました <<",
+      "CN": ">> 已捡起精灵球 <<",
+      "KR": ">> 포켓볼을 획득했습니다 <<",
+      "TW": ">> 拾取了精靈球 <<"
+    }
+  },
+  ">> SHINY PIKACHU HAS BEEN PICKED UP <<": {
+    "translation": "**闪光皮卡丘已被拾取**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> シーリングピカチュウが拾われました <<",
+      "CN": ">> 已捡起闪光皮卡丘 <<",
+      "KR": ">> 히어리 피카츄를 획득했습니다 <<",
+      "TW": ">> 拾取了閃亮皮卡丘 <<"
+    }
+  },
+  ">> TAKE THE POKEBALL <<": {
+    "translation": "**拿起精灵球**",
+    "MultiLang": {
+      "US": ">> TAKE THE Poké BALL <<",
+      "JP": ">>ポケモンボールを持って行け<<",
+      "CN": "<< 使用精灵球 >>",
+      "KR": "<< 포켓볼을 잡으세요 >>",
+      "TW": "<< 抓住球 >>"
+    }
+  },
+  ">> WE CAN LEAVE THIS WORLD NOW <<": {
+    "translation": "**我们能离开这个世界了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>この世界から脱出できる<<",
+      "CN": "<< 我们现在可以离开这个世界了 >>",
+      "KR": "<< 이제 이 세계를 떠날 수 있습니다 >>",
+      "TW": "<< 我們現在可以離開這個世界了 >>"
+    }
+  },
+  ">> THE CLOCK IS A TIME MACHINE !!! <<": {
+    "translation": "**这闹钟是个时光机器**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>時計は時間移動装置だ！<<",
+      "CN": "<< 这个时钟是一台时光机！！！",
+      "KR": "<< 이 시계는 시간 기계입니다!!! >>",
+      "TW": "<< 時鐘就是一台時間機器！！！>>"
+    }
+  },
+  ">> PUT THE SHINY PIKACHU INSIDE IT <<": {
+    "translation": "**赶紧去把皮卡丘放进去**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ピカチュウを中に収めろ<<",
+      "CN": "<< 把闪光皮卡丘放进去 >>",
+      "KR": "<< 반짝이는 피카츄를 안에 넣으세요 >>",
+      "TW": "<< 把閃亮皮卡丘放進裡面 >>"
+    }
+  },
+  ">> ENTER IN THE CLOCK FROM THE BACK <<": {
+    "translation": "**用内格夫将闹钟外表电池拆掉**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>時計の後ろから入れ<<",
+      "CN": "<< 从后面进入时钟 >>",
+      "KR": "<< 시계의 뒤에서 들어가세요 >>",
+      "TW": "<< 從時鐘後面進入 >>"
+    }
+  },
+  ">> FIND 3 RUNGS TO FIX IT <<": {
+    "translation": "**寻找3个木板去修复它**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>修理用のハシゴ3本を探せ<<",
+      "CN": "<< 找到3根梯级来修复它 >>",
+      "KR": "<< 수리를 위한 3개의 받침대를 찾으세요 >>",
+      "TW": "<< 找到 3 條梯級來修復它 >>"
+    }
+  },
+  ">> PUT SHINY PIKACHU IN THE CLOCK <<": {
+    "translation": "**把闪光皮卡丘放在闹钟里面**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>時計にピカチュウを入れたまえ<<",
+      "CN": "<< 把闪光皮卡丘放进时钟里 >>",
+      "KR": "<< 반짝이는 피카츄를 시계에 넣으세요 >>",
+      "TW": "<< 把閃亮皮卡丘放入時鐘中 >>"
+    }
+  },
+  ">> PIKACHU IS POWERING UP THE TIME MACHINE !!! <<": {
+    "translation": "**皮卡丘启动了时光机**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>ピカチュウがタイムマシーンの動力を強化中！<<",
+      "CN": "<< 皮卡丘正在为时光机充能！！！ >>",
+      "KR": "<< 피카츄가 시간 기계를 작동시키고 있습니다!!! >>",
+      "TW": "<< 皮卡丘正在啟動時間機器！！！>>"
+    }
+  },
+  ">> STAY ON THE BOOK <<": {
+    "translation": "**待在书本上面**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 書籍にとどまろう <<",
+      "CN": ">> 紧贴书本 <<",
+      "KR": ">> 책에 머무르세요 <<",
+      "TW": ">> 回到書本 <<"
+    }
+  },
+  ">> IT SHOULD BE SAFER <<": {
+    "translation": "**它会很安全**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> より安全であるはずだ <<",
+      "CN": ">> 这样应该更安全 <<",
+      "KR": ">> 안전해야 합니다 <<",
+      "TW": ">> 這樣應該比較安全 <<"
+    }
+  },
+  ">> ZOMBIES ESCAPED!! LEVEL FAILED!! <<": {
+    "translation": "**僵尸到达终点！！关卡失败**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ゾンビが脱走！！ レベル失敗！！ <<",
+      "CN": ">> 丧尸逃逸！！关卡失败！！ <<",
+      "KR": ">> 좀비가 탈출했습니다!! 레벨 실패!! <<",
+      "TW": ">> 殭屍逃跑了！！任務失敗！！ <<"
+    }
+  },
+  ">> YOU TOOK TOO LONG !! <<": {
+    "translation": "**你花费了太长时间**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 時間がかかりすぎた！！ <<",
+      "CN": ">> 你花费的时间太长了！！ <<",
+      "KR": ">>> 너무 오래 걸렸어요 !! <<",
+      "TW": ">> 你花太久了！！ <<"
+    }
+  },
+  ">> PIKACHU CAUGHT HIMSELF !! <<": {
+    "translation": "**皮卡丘自己都看不下去了，自己钻进了精灵球**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ピカチュウが自分で捕まえた！！ <<",
+      "CN": ">> 皮卡丘把自己抓到了！！ <<",
+      "KR": ">> 피카츄가 자신을 사로잡았습니다 !! <<",
+      "TW": ">> 皮卡丘抓住自己了！！ <<"
+    }
+  },
+  ">> ZOMBIES INSIDE THE ELEVATOR <<": {
+    "translation": "**僵尸进到电梯里面了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> エレベーター内のゾンビ <<",
+      "CN": ">> 电梯里有丧尸 <<",
+      "KR": ">> 엘리베이터 속 좀비 <<",
+      "TW": ">> 電梯內的殭屍 <<"
+    }
+  },
+  ">> LEVEL FAILED <<": {
+    "translation": "**关卡失败**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル失敗 <<",
+      "CN": ">> 关卡失败 <<",
+      "KR": ">> 레벨 실패 <<",
+      "TW": ">> 任務失敗 <<"
+    }
+  },
+  ">> PIKACHU IS GETTING OUT OF CONTROL !! <<": {
+    "translation": "**皮卡丘释放了十万伏特**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ピカチュウが制御不能になっている！！ <<",
+      "CN": ">> 皮卡丘失控了！！ <<",
+      "KR": ">> 피카츄가 통제 불능 상태에 빠져있음 !! <<",
+      "TW": ">> 皮卡丘失控了！！ <<"
+    }
+  },
+  ">> THE OVERLOAD IS RECHARGING THE RADIO !! <<": {
+    "translation": "**电力波及到了收音机**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> オーバーロードでラジオが充電中！！ <<",
+      "CN": ">> 过载正在为无线电充电！！<<",
+      "KR": ">> 과부하가 라디오를 충전 중입니다 !! <<",
+      "TW": ">> 重載正在為無線電充電 !! <<"
+    }
+  },
+  ">> GO ON THE BOOK ! <<": {
+    "translation": "**赶紧上到书本上面去，别让僵尸上来，这是最后了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 本の中に入れ！ <<",
+      "CN": ">> 去书那里！<<",
+      "KR": ">> 책으로 가라 ! <<",
+      "TW": ">> 翻到書頁 ! <<"
+    }
+  },
+  ">> LEVEL: TIME LOOP <<": {
+    "translation": "**关卡：时光循环（河北省的元首 雾）**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベル：タイムループ <<",
+      "CN": ">> 关卡：时间循环 <<",
+      "KR": ">> 레벨: 시간 반복 <<",
+      "TW": ">> 關卡：時間迴圈 <<"
+    }
+  },
+  ">> THE TIME MACHINE IS ALMOST READY !!! <<": {
+    "translation": "**时光机已经准备好**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 時間機械が完成に近づいた！！！ <<",
+      "CN": ">> 时光机即将完成！！！<<",
+      "KR": ">> 시계는 거의 준비되었습니다 !!! <<",
+      "TW": ">> 時光機即將準備好 !!! <<"
+    }
+  },
+  ">> DEFEND !!! <<": {
+    "translation": "**防守**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 防衛せよ！！！ <<",
+      "CN": ">> 防御！！！",
+      "KR": ">> 방어하라 !!",
+      "TW": ">> 防禦 !!"
+    }
+  },
+  ">> DEFEND FOR 40 SECONDS <<": {
+    "translation": "**在时空隧道防守40秒，目标：河北省**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 40秒間防衛しろ <<",
+      "CN": ">> 持续防御40秒 <<",
+      "KR": ">> 40초 동안 방어하라 <<",
+      "TW": ">> 防禦 40 秒"
+    }
+  },
+  ">> 5 SECONDS LEFT !!! <<": {
+    "translation": "**5秒剩余，赶紧上最后平台，别放僵尸过来**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> あと5秒！！！ <<",
+      "CN": ">> 还剩5秒！！！ <<",
+      "KR": ">> 남는 시간 5초 !!! <<",
+      "TW": ">> 剩餘 5 秒 !!! <<"
+    }
+  },
+  "*** WAIT TILL BOMBS BREAK THIS BOARD ***": {
+    "translation": "**守到炸弹炸开木板：30**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 爆弾がこの盤を壊すのを待て ***",
+      "CN": "*** 等待炸弹炸毁这个棋盘 ***",
+      "KR": "*** 폭탄이 이 판을 부술 때까지 기다려라 ***",
+      "TW": "*** 等待炸彈炸開這塊板子 ***"
+    }
+  },
+  "*** BOARD IS BROKEN RUUUUUUN!! ***": {
+    "translation": "**木板炸开了，走**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 床が崩壊したぞ！逃走せよーっ！！！ ***",
+      "CN": "*** 棋盘已损坏，快逃！！！***",
+      "KR": "*** 바닥이 부서집니다, 도망치세요!! ***",
+      "TW": "*** 地圖已損毀，快逃啊！！！！ ***"
+    }
+  },
+  "*** Door opening in 25 seconds ***": {
+    "translation": "**门还有25秒开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒後にドアが開きます ***",
+      "CN": "*** 大门将在25秒后打开 ***",
+      "KR": "*** 문이 25초 후에 열립니다 ***",
+      "TW": "*** 大門將在 25 秒後開啟 ***"
+    }
+  },
+  "*** Doors opening in 20 seconds ***": {
+    "translation": "**门还有20秒开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にドアが開きます ***",
+      "CN": "*** 大门将在20秒后打开 ***",
+      "KR": "*** 문이 20초 후에 열립니다 ***",
+      "TW": "*** 大門將在 20 秒後開啟 ***"
+    }
+  },
+  ">> DEFEND FOR 30 SECONDS <<": {
+    "translation": "**守住30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒間防衛せよ <<",
+      "CN": ">> 坚守30秒 <<",
+      "KR": ">> 30초간 방어하기 <<",
+      "TW": "<< 防守 30 秒 >>"
+    }
+  },
+  ">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<": {
+    "translation": "**别让他把撒旦召唤出来**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 彼がサタンを産む前に始末しろ！ <<",
+      "CN": ">> 在他生下撒旦之前杀掉他 <<",
+      "KR": ">> 사탄을 낳기 전에 그를 죽여라 <<",
+      "TW": "<< 在他產下撒旦之前殺死他！>>"
+    }
+  },
+  ">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<": {
+    "translation": "**元首皮卡丘释放了闪电，渣渣**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ピカチュウ・ナチスがサンダボルトを使っている！撃ち続けろ！！！！！ <<",
+      "CN": ">> 皮卡丘纳粹正在使用十万伏特，持续射击!!!!!!!!!! <<",
+      "KR": ">> 피카츄 나치가썬보트를 사용합니다, 계속 사격하세요!!!!!!!!!! <<",
+      "TW": "<< 皮卡丘納粹正在使用電擊，繼續射擊！！！！！！ <<"
+    }
+  },
+  ">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<": {
+    "translation": "**皮卡丘元首被击败了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ピカチュウ・ナチを倒した！！ <<",
+      "CN": ">> 皮卡丘纳粹已被击败！！！ <<",
+      "KR": ">> 피카츄 나치가 격파되었습니다 !!! <<",
+      "TW": "<< 皮卡丘納粹已被擊敗！>>"
+    }
+  },
+  ">> WE WERE TOO LATE !!! <<": {
+    "translation": "**我们太慢了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 私たちは遅すぎた！！！ <<",
+      "CN": ">> 我们太迟了！！！ <<",
+      "KR": ">> 우리가 너무 늦었습니다 !!! <<",
+      "TW": "<< 我們來太晚啦！ >>"
+    }
+  },
+  ">> PIKACHU NAZI SACRIFICED HIS SOUL TO FINISH THE BIRTH !! <<": {
+    "translation": "**纳粹皮卡丘献祭了自己的生命召唤了撒旦**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ピカチュウはナチに魂を捧げ、降臨完了！！ <<",
+      "CN": ">> 皮卡丘纳粹献祭灵魂，完成出生！！ <<",
+      "KR": ">> 피카츄 나치가 자신의 영혼을 바쳐 탄생 완료 !! <<",
+      "TW": ">> PIKACHU NAZI犧牲靈魂，成就『誕生』！！ <<"
+    }
+  },
+  ">> OH NO!! SATAN IS ALIVE ! <<": {
+    "translation": "**不好，撒旦复活了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 災難だ！ サタンは生きていた！ <<",
+      "CN": ">> 天哪！！撒旦还活着！ <<",
+      "KR": ">> 으악!! 사탄이 살아났다! <<",
+      "TW": ">> 天哪！！撒旦甦醒了！ <<"
+    }
+  },
+  ">> SATAN OPENED A PORTAL TO HELL !!! <<": {
+    "translation": "**撒旦开启了地狱之门**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> サタンは地獄への門を開封した！！！ <<",
+      "CN": ">> 撒旦打开了通往地狱的传送门！！！ <<",
+      "KR": ">> 사탄이 지옥 차원을 열었다!!! <<",
+      "TW": ">> 撒旦開啟了通往地獄的次元門！！ <<"
+    }
+  },
+  ">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<": {
+    "translation": "**撒旦正藏在时间机器房间**",
+    "MultiLang": {
+      "US": ">> SATAN IS HEADIN' TO THE TIMemachine ROOM!!! <<",
+      "JP": ">> サタンはタイムマシン部屋へ向かっています！！！",
+      "CN": ">> 撒旦正前往时光机室！！！ <<",
+      "KR": ">> 사탄이 타임머신룸으로 향하고 있다!!! <<",
+      "TW": ">> 撒旦正前往時光機房！！ <<"
+    }
+  },
+  ">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<": {
+    "translation": "**噢不撒旦正在启动时间机器**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 大変だ！！ サタンはタイムマシン内にいる！ <<",
+      "CN": ">> 天哪！！撒旦在时光机里！ <<",
+      "KR": ">> 으악 !! 사탄이 타임머신 내부에 있다! <<",
+      "TW": ">> 天哪！！撒旦已經進入時光機了！ <<"
+    }
+  },
+  ">> GET READY FOR THE FINAL FIGHT !! <<": {
+    "translation": "**准备好与它的战斗**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 最終決戦の準備を整えよ！！ <<",
+      "CN": ">> 准备最终对决！！ <<",
+      "KR": ">> 결전 준비를 해라!! <<",
+      "TW": ">> 準備進行最終決戰！！ <<"
+    }
+  },
+  ">> KEEP ZOMBIES OUT OF THE ROOM <<": {
+    "translation": "**把僵尸阻挡在门外**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> この部屋にゾンビを入れないでください <<",
+      "CN": ">> 阻止僵尸进入房间 <<",
+      "KR": ">> 이 방으로 좀비들이 들어오지 못하게 막아라 <<",
+      "TW": ">> 防止殭屍進入房間 <<"
+    }
+  },
+  "** Satan is immune to Grenades **": {
+    "translation": "**撒旦已经对手雷吸血**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンは手榴弾に対して無敵である **",
+      "CN": "** 撒旦对榴弹免疫 **",
+      "KR": "** 사탄은 수류탄에 면역이다 **",
+      "TW": "** 撒旦對手榴彈免疫 **"
+    }
+  },
+  "** Satan control the Electricity **": {
+    "translation": "**撒旦掌握了电泳之力**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンが電気を操る **",
+      "CN": "**撒旦控制电力**",
+      "KR": "** 사탄이 전기를 조종합니다 **",
+      "TW": "**撒旦掌控電力**"
+    }
+  },
+  "** Satan can summon Tornado Minions **": {
+    "translation": "**撒旦可以控制风暴**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンはトルネードの部下を召喚できる **",
+      "CN": "**撒旦可以召唤龙卷风小怪**",
+      "KR": "** 사탄은 토네이도 하수인을 소환할 수 있습니다 **",
+      "TW": "**撒旦能召喚龍捲風侍從**"
+    }
+  },
+  "** Satan can summon Ultimate Minions **": {
+    "translation": "**撒旦学会了终极之力（这帮连跳）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンは究極の部下を召喚できる **",
+      "CN": "**撒旦可以召唤终极小怪**",
+      "KR": "** 사탄은 최강 하수인을 소환할 수 있습니다 **",
+      "TW": "**撒旦能召喚終極侍從**"
+    }
+  },
+  "** Satan can summon Fire Minions **": {
+    "translation": "**撒旦学会了火焰喷射**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンは炎の部下を召喚できる **",
+      "CN": "**撒旦可以召唤火焰小怪**",
+      "KR": "** 사탄은 화염 하수인을 소환할 수 있습니다 **",
+      "TW": "**撒旦能召喚火焰侍從**"
+    }
+  },
+  "** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **": {
+    "translation": "**5个僵尸已经江生命续给了撒旦，赶紧苟起**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 5体のゾンビがサタンに捧げられ、5つの特別な能力を手に入れた **",
+      "CN": "**5个丧尸献祭后，赋予了撒旦5种特殊能力**",
+      "KR": "** 5명의 좀비들이 희생되어 사탄에게 5가지 특별한 능력을 선물했습니다 **",
+      "TW": "**5名殭屍進行獻祭，賦予撒旦5種特殊能力**"
+    }
+  },
+  ">> SATAN IS ESCAPING !! <<": {
+    "translation": "**撒旦正在逃脱**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> サタンが脱出中！！ <<",
+      "CN": ">> **撒旦正在逃脱！！** <<",
+      "KR": ">> 사탄이 도주 중!! <<",
+      "TW": ">> 撒旦即將逃脫 !! <<"
+    }
+  },
+  ">> DEFEND 20 SECONDS !! <<": {
+    "translation": "**把僵尸压制20秒，我们会追上撒旦**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 20秒間防衛せよ！！ <<",
+      "CN": ">> **坚守20秒！！** <<",
+      "KR": ">> 20초 방어!! <<",
+      "TW": ">> 防守20秒 !! <<"
+    }
+  },
+  ">> 5 SECONDS LEFT !! <<": {
+    "translation": "**5秒剩余，时光机快启动了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 残り5秒！！ <<",
+      "CN": ">> **剩余5秒！！** <<",
+      "KR": ">> 5초 남음!! <<",
+      "TW": ">> 剩餘5秒 !! <<"
+    }
+  },
+  ">> GO IN THE TIMEMACHINE !! <<": {
+    "translation": "**赶紧进入时光机**",
+    "MultiLang": {
+      "US": ">> GO IN THE TIMemachine !! <<",
+      "JP": ">> タイムマシンに乗れ！！ <<",
+      "CN": ">> 快坐时光机！！ <<",
+      "KR": ">> 타임머신으로 들어가자 !! <<",
+      "TW": ">> 進入時光機 !! <<"
+    }
+  },
+  ">> THIS IS THE BRINK OF TIME <<": {
+    "translation": "**我们回到了时光间隙**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> これは時間の涯端だ <<",
+      "CN": ">> 这是时间的边缘 <<",
+      "KR": ">> 이것은 시간의 끝자락이다 <<",
+      "TW": ">> 這是時間的盡頭 <<"
+    }
+  },
+  ">> SATAN IS HIDING SOMEWHERE <<": {
+    "translation": "**撒旦肯定藏在某个地方**",
+    "MultiLang": {
+      "US": ">> SATAN IS HIDING SOMewhere <<",
+      "JP": ">> サタンはどこかに潜んでいる <<",
+      "CN": ">> 撒旦隐藏在某个地方 <<",
+      "KR": ">> 사탄이 어딘가 숨어있다 <<",
+      "TW": ">> 撒旦隱藏在某處 <<"
+    }
+  },
+  ">> BE CAREFUL <<": {
+    "translation": "**17:小心它的突然袭击[剑气斩（跳刀）准备，第一刀出现在僵尸方向，准备好高爆]**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 注意しろ <<",
+      "CN": ">> 小心 <<",
+      "KR": ">> 조심해 <<",
+      "TW": ">> 小心 <<"
+    }
+  },
+  ">> DEFEND UNTIL SOMETHING HAPPENS <<": {
+    "translation": "**守到数字版消失**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 何か起こるまで守れ <<",
+      "CN": ">> 坚持防守，直到有动静出现 <<",
+      "KR": ">> 무언가 일어날 때까지 방어하라 <<",
+      "TW": ">> 防守直到發生某事 <<"
+    }
+  },
+  ">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<": {
+    "translation": "**撒旦将在40秒后逃出生天**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> サタンが未来に消えるまであと40秒！ <<",
+      "CN": ">> 距离撒旦消失于未来还有40秒！ <<",
+      "KR": ">> 사탄이 미래로 사라지기까지 40초 남음 ! <<",
+      "TW": ">> 距撒旦消失在未來還有 40 秒 ! <<"
+    }
+  },
+  ">> TOO LATE ! <<": {
+    "translation": "**太慢了**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 遅い！！ <<",
+      "CN": ">> 太迟了！ <<",
+      "KR": ">> 너무 늦었다 ! <<",
+      "TW": ">> 太遲了 ! <<"
+    }
+  },
+  ">> WE WILL STOP SATAN NO MATTER WHAT !!! <<": {
+    "translation": "**我们不会放过它的**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> どんなことがあってもサタンを止めよう！！！ <<",
+      "CN": ">> 无论付出什么代价，我们都要阻止撒旦！！！ <<",
+      "KR": ">> 우리는 사탄을 반드시 막아내겠다 !!! <<",
+      "TW": ">> 無論如何我們都會阻止撒旦 !!! <<"
+    }
+  },
+  ">> DEFEND 20 SECONDS <<": {
+    "translation": "**防守20秒**",
+    "MultiLang": {
+      "US": ">> DEFEND FOR 20Seconds <<",
+      "JP": ">> 20秒防衛せよ <<",
+      "CN": ">> 坚守20秒 <<",
+      "KR": ">> 20초간 방어 <<",
+      "TW": ">> 防守 20 秒 <<"
+    }
+  },
+  ">> 5 SECONDS LEFT <<": {
+    "translation": "**5秒剩余**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 残り5秒 <<",
+      "CN": ">> 剩余5秒 <<",
+      "KR": ">> 5초 남음 <<",
+      "TW": ">> 剩餘 5 秒 <<"
+    }
+  },
+  "** Satan control the Ice **": {
+    "translation": "**撒旦学会了寒冰之地**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンが氷を操作する **",
+      "CN": "** 撒旦控制冰霜 **",
+      "KR": "** 사탄이 얼음을 조종함 **",
+      "TW": "** 撒旦操控冰層 **"
+    }
+  },
+  "** Satan can summon Water Minions **": {
+    "translation": "**撒旦学会了水浪波动**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンは水のミニオンを召喚できる **",
+      "CN": "** 撒旦能召唤水之仆从 **",
+      "KR": "** 사탄은 물 병정을 소환할 수 있음 **",
+      "TW": "** 撒旦可召喚水之小怪 **"
+    }
+  },
+  "** Satan control the Explosions **": {
+    "translation": "**撒旦可以控制爆炸了（小心地雷）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンが爆発を操作する **",
+      "CN": "** 撒旦控制爆炸 **",
+      "KR": "** 사탄이 폭발을 조종함 **",
+      "TW": "** 撒旦操控爆炸物 **"
+    }
+  },
+  ">> Congratulations ! <<": {
+    "translation": "**恭喜你**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> おめでとうございます！ <<",
+      "CN": ">> 恭喜！ <<",
+      "KR": ">> 축하합니다! <<",
+      "TW": ">> 恭喜！ <<"
+    }
+  },
+  ">> You beat the map ! <<": {
+    "translation": "**你通关了本地图**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> マップを攻略しました！ <<",
+      "CN": ">> 你通关了此地图！ <<",
+      "KR": ">> 맵을 클리어하셨습니다! <<",
+      "TW": ">> 你通關了地圖！ <<"
+    }
+  },
+  ">> TimeLoop Ending <<": {
+    "translation": "**时光循环路线**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> タイムループエンド <<",
+      "CN": ">> 时间循环结局 <<",
+      "KR": ">> 타임루프 엔딩 <<",
+      "TW": ">> 時間循環結局 <<"
+    }
+  },
+  ">> Play ShroomForest1 to continue this beautiful adventure <<": {
+    "translation": "**重新玩蘑菇1从头开始吧**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 美しい冒険を続けるために、『キノコの森1』をプレイ <<",
+      "CN": ">> 播放蘑菇森林1以继续这段美妙的冒险 <<",
+      "KR": ">> 이 아름다운 모험을 계속하려면 ShroomForest1을 플레이하세요 <<",
+      "TW": ">> 遊玩蘑菇森林1以繼續這美麗的冒險 <<"
+    }
+  },
+  ">> (That wouldnt have happened if you killed Satan) <<": {
+    "translation": "**除非你击败了撒旦**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> （サタンを倒していなければ、こうはならなかったでしょう）<<",
+      "CN": ">> （如果你杀了撒旦，这种情况就不会发生）<<",
+      "KR": ">> (사탄을 죽였더라면 이런 일은 생기지 않았을 텐데) <<",
+      "TW": ">>（如果你殺死了撒旦，就不會發生這種事了）<<"
+    }
+  },
+  ">> MAP IS OVER <<": {
+    "translation": "**关卡结束**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> マップ終了 <<",
+      "CN": ">> 地图结束 <<",
+      "KR": ">> 맵이 종료되었습니다 <<",
+      "TW": ">> 地圖已結束 <<"
+    }
+  },
+  ">> TELEPORTER TO ADMIN ROOM AVAILABLE <<": {
+    "translation": "**传送到调关房间**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 管理者用ルームへのテレポーター利用可能 <<",
+      "CN": ">> 传送至管理员房间可用 <<",
+      "KR": ">> 관리자실로 텔레포트 가능 <<",
+      "TW": ">> 可傳送往管理員室 <<"
+    }
+  },
+  ">> NUKE ALL IN 30 SECONDS <<": {
+    "translation": "**核弹还有30秒抵达**",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒後に全地域を核攻撃 <<",
+      "CN": ">> 30秒内摧毁所有人 <<",
+      "KR": ">> 30초 내 모든 대상에 핵폭격 <<",
+      "TW": ">> 30秒內核爆所有人 <<"
+    }
+  },
+  ">> PLAYER HAS CHOSEN: DEAD TREE <<": {
+    "translation": "**调关选择了：死亡之树（LV1）**",
+    "MultiLang": {
+      "US": ">> PLAYER HAS CHosen: DEAD TREE <<",
+      "JP": ">> プレイヤーの選択：死んだ木 <<",
+      "CN": ">> 玩家选择了：枯树 <<",
+      "KR": ">> 플레이어가 선택: 죽은 나무 <<",
+      "TW": ">> 玩家已選擇：枯樹 <<"
+    }
+  },
+  ">> Good Ending <<": {
+    "translation": ">>完美结局<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> グッドエンド <<",
+      "CN": ">> 好结局 <<",
+      "KR": ">> 좋은 결말 <<",
+      "TW": ">> 完美結局 <<"
+    }
+  },
+  ">> Thanks for being part of this incredible adventure <<": {
+    "translation": ">>谢谢你参与了这不可思议的冒险之旅<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> この素晴らしい冒険の一部になってくれてありがとう <<",
+      "CN": ">> 感谢你参与这段不可思议的冒险 <<",
+      "KR": ">> 이 놀라운 모험에 함께해 주셔서 감사합니다 <<",
+      "TW": ">> 感謝你參與這場驚人的冒險 <<"
+    }
+  },
+  ">> PLAYER HAS CHOSEN: CAVES NORMAL <<": {
+    "translation": "**调关选择了：地洞（LV2）*",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは「洞窟ノーマル」を選択しました",
+      "CN": ">> 玩家已选择：洞穴 - 普通 <<",
+      "KR": ">> 플레이어는 동굴 보통을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇：洞穴普通 <<"
+    }
+  },
+  ">> PLAYER HAS CHOSEN: POKEBALL NORMAL <<": {
+    "translation": "**调关选择了：宝可梦（LV3）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは「ボールノーマル」を選択しました",
+      "CN": ">> 玩家已选择：精灵球 - 普通 <<",
+      "KR": ">> 플레이어는 포켓볼 보통을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇：精靈球普通 <<"
+    }
+  },
+  ">> PLAYER HAS CHOSEN: DEAD TREE EXTREME <<": {
+    "translation": "**调关选择了：极限死亡之树（EX1）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは「枯れ木エクストリーム」を選択しました",
+      "CN": ">> 玩家已选择：枯树 - 极限 <<",
+      "KR": ">> 플레이어는 고사목 극한을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇：枯樹極限 <<"
+    }
+  },
+  ">> PLAYER HAS CHOSEN: CAVES EXTREME <<": {
+    "translation": "**调关选择了：极限地洞（EX2）**",
+    "MultiLang": {
+      "US": ">> PLAYER HAS CHosen: CAVES EXTREME <<",
+      "JP": "プレイヤーは「洞窟エクストリーム」を選択しました",
+      "CN": ">> 玩家已选择：洞穴 - 极限 <<",
+      "KR": ">> 플레이어는 동굴 극한을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇：洞穴極限 <<"
+    }
+  },
+  ">> PLAYER HAS CHOSEN: POKEBALL EXTREME <<": {
+    "translation": "**调关选择了：极限宝可梦（EX3）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは「ボールエクストリーム」を選択しました",
+      "CN": ">> 玩家已选择：精灵球 - 极限 <<",
+      "KR": ">> 플레이어는 포켓볼 극한을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇：精靈球極限 <<"
+    }
+  },
+  ">> PLAYER HAS CHOSEN: TIME LOOP <<": {
+    "translation": "**调关选择了：时光循环（LV7）**",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーは「タイムループ」を選択しました",
+      "CN": ">> 玩家已选择：时间循环 <<",
+      "KR": ">> 플레이어는 시간순환을 선택했습니다 <<",
+      "TW": ">> 玩家已選擇：時間循環 <<"
+    }
+  },
+  ">> TAKE THE MASTERBALL <<": {
+    "translation": ">>捡起大师球<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "マスターボールを入手せよ",
+      "CN": ">> 获取大师球 <<",
+      "KR": ">> 마스터볼을 가져가세요 <<",
+      "TW": ">> 取得精靈球 <<"
+    }
+  },
+  ">> WE ELIMINATED SATAN BEFORE HE COULD TIME TRAVEL !!! <<": {
+    "translation": ">>我们成功击败了撒旦<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "サタンがタイムトラベルする前に我々は彼を排除した！！",
+      "CN": ">> 我们在撒旦进行时间旅行之前将其消灭了！！！ <<",
+      "KR": ">> 사탄이 시간 여행을 하기 전에 우리가 그를 제거했습니다 !!! <<",
+      "TW": ">> 我們在他進行時間旅行之前消滅了撒旦！！"
+    }
+  },
+  ">> THE WORLD WILL FINALLY BE IN PEACE !!! <<": {
+    "translation": ">>世界将会重返和平<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> やがて世界に平和が訪れる！！ <<",
+      "CN": ">> 世界终于和平了！！！ <<",
+      "KR": ">> 드디어 세계가 평화를 찾습니다! <<",
+      "TW": ">>世界將終於恢復和平！！！"
+    }
+  },
+  ">> RESTARTING ROUND IN 5 SECONDS <<": {
+    "translation": "5秒后全图核爆",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ラウンドを5秒後にリスタート <<",
+      "CN": ">> 5秒后重新开始 <<",
+      "KR": ">> 5초 후 라운드 재시작 <<",
+      "TW": ">>五秒後重新開始回合<<"
+    }
+  },
+  ">> NOBODY ESCAPED!! LEVEL FAILED!! <<": {
+    "translation": "没人逃出？那就寄咯",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 誰一人逃げられなかった！！ レベル失敗！！ <<",
+      "CN": ">> 无人逃脱！！关卡失败！！ <<",
+      "KR": ">> 탈출자 없음!! 레벨 실패!! <<",
+      "TW": ">>沒有人逃脫！！等級失敗！！<<"
+    }
+  },
+  ">> SATAN ABSORB NADES TO HEAL HIMSELF <<": {
+    "translation": "撒旦现在对高爆吸血了，别再丢了",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> サタンはナデを吸収して自身を回復する <<",
+      "CN": ">> 撒旦正在吸收手雷来恢复生命 <<",
+      "KR": ">> 사탄이 수류탄을 흡수하여 치유 중 <<",
+      "TW": ">>撒旦吸收手榴彈來恢復自己的健康<<"
+    }
+  },
+  ">> There is an error in the level system <<": {
+    "translation": ">>这是个错误的关卡系统<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベルシステムに誤りがあります <<",
+      "CN": ">> 关卡系统存在错误 <<",
+      "KR": ">> 레벨 시스템에 오류가 발생했습니다 <<",
+      "TW": ">>等級系統存在錯誤<<"
+    }
+  },
+  ">> THE MASTERBALL HAS BEEN PICKED UP <<": {
+    "translation": ">>大师球已被拾取<<",
+    "MultiLang": {
+      "US": ">> THE MASTERBALL HAS BEEN拾取 <<",
+      "JP": ">> マスターボールを拾った <<",
+      "CN": ">> 已拾取大师球 <<",
+      "KR": ">> 마스터볼을 획득했습니다 <<",
+      "TW": ">>大師球已被撿起<<"
+    }
+  },
+  ">> ZOMBIES IN THE SAFE AREA <<": {
+    "translation": "**警告！检测到僵尸进入安全区域！！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 安全地帯にゾンビ侵入 >>",
+      "CN": ">> 安全区出现僵尸 <<",
+      "KR": ">> 안전 지역에 좀비 발생 <<",
+      "TW": ">>安全區有殭屍<<"
+    }
+  },
+  "*** Door opening in 30 seconds ***": {
+    "translation": "门还有30秒后开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒後にドアが開く ***",
+      "CN": "*** 门将在30秒后打开 ***",
+      "KR": "*** 30초 후 문 열림 ***",
+      "TW": "***門在30秒後打開***"
+    }
+  },
+  ">> OH NO!! IT'S THE KNIGHT <<": {
+    "translation": "哦！！不，是黑暗国王，别被它的剑打到，别忘记输出它",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ภัยร้าย!! เป็นอัศวินแล้ว <<",
+      "CN": ">> 糟了！！是骑士 <<",
+      "KR": ">> 오호! 기사님입니다 <<",
+      "TW": ">> 天啊！！是騎士 <<"
+    }
+  },
+  "*** Gate opening in 25 seconds ***": {
+    "translation": "25秒后二楼大门打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ช่องทางจะเปิดใน 25 วินาที ***",
+      "CN": "*** 闸门将在25秒后开启 ***",
+      "KR": "*** 게이트 25초 후 개장 ***",
+      "TW": "*** 柵門開啟倒數 25 秒 ***"
+    }
+  },
+  "*** Defend for 5 seconds ***": {
+    "translation": "在这个皮卡丘的尸骨里面防守5秒，不要让僵尸进来",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ต่อกรให้ครบ 5 วินาที ***",
+      "CN": "*** 坚持防守5秒 ***",
+      "KR": "*** 5초간 방어하세요 ***",
+      "TW": "*** 防禦 5 秒 ***"
+    }
+  },
+  ">> OH NO!! IT'S THE SPOOKY SCARY SKELETONS <<": {
+    "translation": "喔，是卤粉钦定的骷髅舞蹈团",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ภัยร้าย!! เป็นโครงกระดูกหลอนประสาทแล้ว <<",
+      "CN": ">> 糟了！！是阴森恐怖的骷髅们 <<",
+      "KR": ">> 오호! 으스스 scarey 스켈레톤들입니다 <<",
+      "TW": ">> 天啊！！是詭異恐怖的骷髏 <<"
+    }
+  },
+  ">> KILL THEM BEFORE IT'S TOO LATE <<": {
+    "translation": "85秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ทำลายพวกเขาให้เร็วที่สุด ***",
+      "CN": ">> 在太迟之前击杀他们 <<",
+      "KR": ">> 이미 늦기 전에 그들을 처치하세요 <<",
+      "TW": ">> 在太遲之前殺死他們 <<"
+    }
+  },
+  "*** ELEVATOR LEAVING IN 5 seconds ***": {
+    "translation": "电梯还有5秒离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ลิฟท์ออกใน 5 วินาที ***",
+      "CN": "*** 电梯将在5秒后离开 ***",
+      "KR": "*** 엘리베이터 5초 후 출발 ***",
+      "TW": "*** 電梯即將離開倒數 5 秒 ***"
+    }
+  },
+  "*** DEFEAT HIM BEFORE IT'S TOO LATE ***": {
+    "translation": "在45秒之前干掉它",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** กำจัดเขาให้เสร็จก่อนจะสาย ***",
+      "CN": "*** 在太迟之前击败他 ***",
+      "KR": "*** 이미 늦기 전에 그를 물리치세요 ***",
+      "TW": "*** 在太遲之前擊敗他 ***"
+    }
+  },
+  "*** SHOOT BEFORE IT'S TOO LATE ***": {
+    "translation": "赶紧干掉它，注意僵尸的进攻",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ยิงเร็วที่สุด ***",
+      "CN": "*** 在太迟之前射击 ***",
+      "KR": "*** 이미 늦기 전에 사격하세요 ***",
+      "TW": "*** 在太遲之前射擊 ***"
+    }
+  },
+  "*** IT'S SUPER EFFECTIVE !!! ***": {
+    "translation": "它超级有效",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 効果抜群！！！ ***",
+      "CN": "*** 效果拔群！！！**",
+      "KR": "*** 만점 효과입니다 !!! ***",
+      "TW": "*** 效果極佳！！！***"
+    }
+  },
+  ">> POKEMON WON'T FOLLOW YOU IN THIS CAVE <<": {
+    "translation": "宝可梦逃掉了（神器不能用）",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> この洞窟ではポケモンはあなたについてきません <<",
+      "CN": ">> 这只洞穴里宝可梦不会跟随您 <<",
+      "KR": ">> 동굴 내에서는 포켓몬이 따라다니지 않습니다 <<",
+      "TW": ">> 寶可夢在這個洞穴裡不會跟隨你 <<"
+    }
+  },
+  ">> IT'S A SHINY PIKACHU !!! <<": {
+    "translation": "是个闪光的皮卡丘",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> うずまきピカチュウだ！！！ <<",
+      "CN": ">> 是闪光皮卡丘！！！<<",
+      "KR": ">> 희귀한 피카츄입니다 !!! <<",
+      "TW": ">> 它是閃光皮卡丘！！！<<"
+    }
+  },
+  ">> OH NO!! IT'S PIKACHU NAZI <<": {
+    "translation": "不好，是元首皮卡丘",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> いやな予感がする！！！ <ピカチュウのナチス<<",
+      "CN": ">> 糟糕！！这是纳粹皮卡丘 <<",
+      "KR": ">> 오노!! 닌자 피카츄입니다 <<",
+      "TW": ">> 糟了！！那是皮神納粹 <<"
+    }
+  },
+  "-- [ZOMBIES] Find Satan's Powers to make him stronger --": {
+    "translation": "【僵尸】给撒旦寻找5个力量（总共9种，终极固定，4个随机）",
+    "MultiLang": {
+      "US": "",
+      "JP": "-- [ゾンビ] サタンのパワーを見つけ、彼を強化する --",
+      "CN": "-- [僵尸] 寻找撒旦的力量，使其变得更强 --",
+      "KR": "-- [좀비] 사탄의 힘을 모아 그를 강하게 만드세요 --",
+      "TW": "-- [殭屍] 尋找撒旦的力量，使他變得更強大 --"
+    }
+  },
+  ">> STOP HIM BEFORE IT'S TOO LATE !! <<": {
+    "translation": "在太迟之前阻止它",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 手遅れになる前に阻止せよ！！！ <<",
+      "CN": ">> 在一切太晚之前阻止他！！<<",
+      "KR": ">> 지체하기 전에 그를 막으세요 !! <<",
+      "TW": ">> 在為時已晚之前阻止他！！<<"
+    }
+  },
+  "-- [ZOMBIES] You can still find Satan's Powers during the fight --": {
+    "translation": "【僵尸】可以继续给撒旦寻找力量",
+    "MultiLang": {
+      "US": "-- [ZOMBIES] Satan's Powers can still be found during the fight --",
+      "JP": "-- [ゾンビ] 戦況中もサタンのパワーを探せる --",
+      "CN": "-- [僵尸] 战斗中仍可寻找撒旦的力量 --",
+      "KR": "-- [좀비] 전투 중에도 사탄의 힘을 찾을 수 있습니다 --",
+      "TW": "-- [殭屍] 你仍然可以在戰鬥中發現撒旦的力量 --"
+    }
+  },
+  "** Satan's Speed Increased **": {
+    "translation": "撒旦速度快起来了，别被坐飞机了",
+    "MultiLang": {
+      "US": "",
+      "JP": "** サタンの速度増加 **",
+      "CN": "** 撒旦速度提升 **",
+      "KR": "** 사탄의 속도가 증가했습니다 **",
+      "TW": "** 撒旦的速度增加 **"
+    }
+  },
+  ">> HE WON'T GO FAR ! <<": {
+    "translation": "它不会跑太远",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>彼は遠くまで行けない！<<",
+      "CN": ">> 他成不了气候！<<",
+      "KR": ">> 그 놈은 멀리 가지 못할 거야! <<",
+      "TW": ">> 他翻不了天！<<"
+    }
+  },
+  ">> WE NEED TO KILL HIM BEFORE IT'S TOO LATE !! <<": {
+    "translation": "我们必须在它逃掉之前将其击败",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>遅すぎないうちに、彼を始末しなければならない！！<<",
+      "CN": ">> 我们得在太晚之前杀掉他！！<<",
+      "KR": ">> 너무 늦기 전에 그를 죽여야 해!! <<",
+      "TW": ">> 我們必須在為時已晚之前殺了他！！<<"
+    }
   }
 }

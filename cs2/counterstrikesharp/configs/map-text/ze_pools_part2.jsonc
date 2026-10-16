@@ -1,0 +1,52 @@
+{
+  "map by king buzzo": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "キング・バズォによるマップ",
+      "CN": "由 king buzzo 制作的地图",
+      "KR": "킹 버조 제작 맵",
+      "TW": "地圖 by king buzzo"
+    }
+  },
+  "*** exit found ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 出口が見つかりました ***",
+      "CN": "*** 找到出口 ***",
+      "KR": "*** 탈출구 발견 ***",
+      "TW": "*** 已找到出口 ***"
+    }
+  },
+  "*** we need to find a way of opening the path ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 道の opening を開く方法を見つける必要があります ***",
+      "CN": "*** 我们需要找到打开道路的方法 ***",
+      "KR": "*** 경로 개방 방법을 찾아야 합니다 ***",
+      "TW": "*** 我們需要找出一條開通道路的方法 ***"
+    }
+  },
+  "the end?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "終わり？",
+      "CN": "结局？",
+      "KR": "종착역?",
+      "TW": "結局？"
+    }
+  },
+  "*** the last steps will move in 25 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最後のステップは25秒後に移動します ***",
+      "CN": "*** 最后几步将在 25 秒内完成 ***",
+      "KR": "*** 마지막 구간은 25초 후에 진행됩니다 ***",
+      "TW": "*** 最後的步驟將在 25 秒內啟動 ***"
+    }
+  }
+}

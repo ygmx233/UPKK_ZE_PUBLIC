@@ -1,65 +1,252 @@
 {
   "已进入第一区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 1",
+      "JP": "第1エリアに進入",
+      "CN": "",
+      "KR": "첫 번째 지역으로 진입했습니다",
+      "TW": "已进入第一區域"
+    }
   },
   "已进入第二区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 2",
+      "JP": "第2エリアに進入",
+      "CN": "",
+      "KR": "두 번째 지역으로 진입했습니다",
+      "TW": "已進入第二區域"
+    }
   },
   "已进入第三区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 3",
+      "JP": "第3エリアに進入",
+      "CN": "",
+      "KR": "세 번째 지역으로 진입했습니다",
+      "TW": "已進入第三區域"
+    }
   },
   "已进入第四区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 4",
+      "JP": "第4エリアに進入",
+      "CN": "",
+      "KR": "네 번째 지역으로 진입했습니다",
+      "TW": "已進入第四區域"
+    }
   },
   "已进入第五区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 5",
+      "JP": "第5エリアに進入",
+      "CN": "",
+      "KR": "다섯 번째 지역으로 진입했습니다",
+      "TW": "已進入第五區域"
+    }
   },
   "已进入第六区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 6",
+      "JP": "第6エリアに進入",
+      "CN": "",
+      "KR": "여섯 번째 지역으로 진입했습니다",
+      "TW": "已進入第六區域"
+    }
   },
   "已进入第八区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 8",
+      "JP": "第8エリアに進入",
+      "CN": "",
+      "KR": "여덟 번째 지역으로 진입했습니다",
+      "TW": "已進入第八區域"
+    }
   },
   "已进入第九区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 9",
+      "JP": "第9エリアに進入",
+      "CN": "",
+      "KR": "아홉 번째 지역으로 진입했습니다",
+      "TW": "已進入第九區域"
+    }
   },
   "已进入第十区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 10",
+      "JP": "第十区域進入",
+      "CN": "",
+      "KR": "제10구역을 진입했습니다",
+      "TW": "已進入第十區域"
+    }
   },
   "已进入第十一区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 11",
+      "JP": "第十一区域進入",
+      "CN": "",
+      "KR": "제11구역을 진입했습니다",
+      "TW": "已進入第十一區域"
+    }
   },
   "已进入第十二区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 12",
+      "JP": "第十二区域進入",
+      "CN": "",
+      "KR": "제12구역을 진입했습니다",
+      "TW": "已進入第十二區域"
+    }
   },
   "已进入第十三区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 13",
+      "JP": "第十三区域進入",
+      "CN": "",
+      "KR": "제13구역을 진입했습니다",
+      "TW": "已進入第十三區域"
+    }
   },
   "已进入第十四区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 14",
+      "JP": "第十四区域進入",
+      "CN": "",
+      "KR": "제14구역을 진입했습니다",
+      "TW": "已進入第十四區域"
+    }
   },
   "已进入第十五区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 15",
+      "JP": "第十五区域進入",
+      "CN": "",
+      "KR": "제15구역을 진입했습니다",
+      "TW": "已進入第十五區域"
+    }
   },
   "已进入第十六区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 16",
+      "JP": "第十六区域進入",
+      "CN": "",
+      "KR": "제16구역을 진입했습니다",
+      "TW": "已進入第十六區域"
+    }
   },
   "已进入第十七区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 17",
+      "JP": "第十七区域進入",
+      "CN": "",
+      "KR": "제17구역을 진입했습니다",
+      "TW": "已進入第十七區域"
+    }
   },
   "已进入第十八区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Area 18",
+      "JP": "第十八区域へ進入しました",
+      "CN": "",
+      "KR": "제18구역에 진입했습니다",
+      "TW": "已進入第十八區域"
+    }
   },
   "最终传送已开启": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Final teleportation activated",
+      "JP": "最終テレポーターが解放されました",
+      "CN": "",
+      "KR": "최종 전송이 활성화되었습니다",
+      "TW": "最終傳送已開啟"
+    }
   },
   "已进入第七区域": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Area 7",
+      "JP": "第七区域へ進入しました",
+      "CN": "",
+      "KR": "제7구역에 진입했습니다",
+      "TW": "已進入第七區域"
+    }
   },
   "此区域内传送暂时关闭": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Teleportation within this area is temporarily offline",
+      "JP": "この区域内のテレポーターは現在使用できません",
+      "CN": "",
+      "KR": "이 구간의 전송이 일시적으로 사용 중지되었습니다",
+      "TW": "此區域內傳送暫時關閉"
+    }
   },
   "挪麦宇航服已失效": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Nomai Suit depleted",
+      "JP": "ノーム宇宙服が機能しなくなりました",
+      "CN": "",
+      "KR": "노마이 우주복 효과가 소멸했습니다",
+      "TW": "挪麥宇航服已失效"
+    }
+  },
+  "当前难度：幻梦": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Current difficulty: Reverie",
+      "JP": "現在の難易度：夢幻",
+      "CN": "",
+      "KR": "현재 난이도: 판몽(幻梦)",
+      "TW": "當前難度：幻夢"
+    }
+  },
+  "机关不造成伤害 机关通过十六人后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mechanism is non-lethal. Closes after 16 entities have passed.",
+      "JP": "仕掛けはダメージを与えません。16人のクリア後に仕掛けは作動停止します",
+      "CN": "",
+      "KR": "저항은 피해를 주지 않으며, 16명의 참가자를 통과하면 저항이 해체됩니다",
+      "TW": "機關不造成傷害 機關通過十六人後關閉"
+    }
+  },
+  "已进入第二十区域": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Area 20",
+      "JP": "第二十区域へ進入しました",
+      "CN": "",
+      "KR": "제20구역에 진입했습니다",
+      "TW": "已進入第二十區域"
+    }
+  },
+  "已进入第二十一区域": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Entered Zone 21",
+      "JP": "第21エリアへ移行しました",
+      "CN": "",
+      "KR": "이미 제21구역으로 진입함",
+      "TW": "已進入第二十一區域"
+    }
   }
 }

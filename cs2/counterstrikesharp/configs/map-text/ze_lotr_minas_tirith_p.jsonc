@@ -1,326 +1,1082 @@
 {
   "** THE WHITE KNIGHT IS READY ROCK THE WORLD**": {
-    "translation": "** 白衣骑士已准备战斗 **"
+    "translation": "** 白衣骑士已准备战斗 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** THE WHITE KNIGHT IS READY ROCK THE WORLD **",
+      "CN": "** 白骑士已就绪，震撼世界 **",
+      "KR": "** 흰기사가 세계를 무대로 준비되었습니다**",
+      "TW": "白騎士已就緒，震撼世界"
+    }
   },
   "** EXTREME MODE : ON **": {
-    "translation": "** 极限模式：开启 **"
+    "translation": "** 极限模式：开启 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** EXTREME MODE : ON **",
+      "CN": "** 极限模式：开启 **",
+      "KR": "** 극한 모드 : 켜기 **",
+      "TW": "極限模式：開啟"
+    }
   },
   "** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**": {
-    "translation": "** 所有的僵尸神器已经解锁可以使用，但是不包括lv5的炎魔 **"
+    "translation": "** 所有的僵尸神器已经解锁可以使用，但是不包括lv5的炎魔 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5 **",
+      "CN": "** 所有尸变道具已解锁，但无5级 **",
+      "KR": "** 좀비를 위한 모든 아이템이 잠금 해제되었지만 레벨 5는 아닙니다**",
+      "TW": "殭屍所有道具已解鎖，但不包含 5 級"
+    }
   },
   "** CONSTANT METEOR HAS BEEN ENABLED **": {
-    "translation": "** 天谴模式：开启 **"
+    "translation": "** 天谴模式：开启 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** CONSTANT METEOR HAS BEEN ENABLED **",
+      "CN": "** 已启用持续陨石 **",
+      "KR": "** 끊임없는 유성 폭풍이 활성화되었습니다 **",
+      "TW": "已啟用恆星隕石模式"
+    }
   },
   "** INCREASED NUMBER OF NAZGULS **": {
-    "translation": "** 戒灵数量增加 **"
+    "translation": "** 戒灵数量增加 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** INCREASED NUMBER OF NAZGULS **",
+      "CN": "** 戒灵数量增加 **",
+      "KR": "** 나즈굴 수 증가**",
+      "TW": "納茲古爾數量增加"
+    }
   },
   "** ENABLED BLUE COLORCORRECTION AND PARTICLES **": {
-    "translation": "** 启用蓝色校正和粒子特效校正 **"
+    "translation": "** 启用蓝色校正和粒子特效校正 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ENABLED BLUE COLORCORRECTION AND PARTICLES **",
+      "CN": "** 已启用蓝色色彩校正及粒子效果 **",
+      "KR": "** 블루 컬러 보정 및 파티클이 활성화되었습니다 **",
+      "TW": "已啟用藍色色彩校正與粒子效果"
+    }
   },
   "** ENABLED FAST RESPAWN **": {
-    "translation": "** 快速复活模式：开启 **"
+    "translation": "** 快速复活模式：开启 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ENABLED FAST RESPAWN **",
+      "CN": "** 已启用快速重生 **",
+      "KR": "** 빠른 부활이 활성화되었습니다**",
+      "TW": "已啟用快速重生"
+    }
   },
   "** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **": {
-    "translation": "** 神器等级还是0的玩家将自动获得1个等级 **"
+    "translation": "** 神器等级还是0的玩家将自动获得1个等级 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **",
+      "CN": "** 0级玩家等级自动提升至1级 **",
+      "KR": "** 레벨 0 플레이어의 레벨이 자동으로 1로 증가합니다**",
+      "TW": "0 級玩家將自動升級至 1 級"
+    }
   },
   "** KILL THE REMAINING ZOMBIES! **": {
-    "translation": "** 杀死剩下的僵尸！ **"
+    "translation": "** 杀死剩下的僵尸！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残りのゾンビを倒せ！ **",
+      "CN": "** 消灭剩余的僵尸！ **",
+      "KR": "** 나머지 좀비를 처치하라! **",
+      "TW": "** 消滅倖存的殭屍！ **"
+    }
   },
   "** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **": {
-    "translation": "** ..暗与火的怪物在这里出现了... **"
+    "translation": "** ..暗与火的怪物在这里出现了... **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** .. 影と炎の獣が今ここに .. **",
+      "CN": "** ... 影与火的怪物已至 ... **",
+      "KR": "** .. 그림자와 불의 생물체가 여기 있다 ... **",
+      "TW": "** .. 影子與火焰的異獸已至 ... **"
+    }
   },
   "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **": {
-    "translation": "** 游戏将在几秒后开始 **确认你的神器等级并以此获得相对应的神器**"
+    "translation": "** 游戏将在几秒后开始 **确认你的神器等级并以此获得相对应的神器**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ラウンドは数秒後に開始されます。レベルを確認し、アイテムを購入してください。**",
+      "CN": "** 回合将在数秒后开始 ** 检查你的等级并继续购买物品 **",
+      "KR": "** 라운드가 몇 초 후에 시작됩니다. 당신의 레벨을 확인하고 아이템 구매를 계속하세요 **",
+      "TW": "** 回合即將開始，請檢查您的等級並購買道具 **"
+    }
   },
   "** MAP BY Hannibal [SPA] (Rafuron) **": {
-    "translation": "** 地图作者：Hannibal [SPA] (Rafuron) 地图翻译：IntimateLover&神々が恋した幻想郷**"
+    "translation": "** 地图作者：Hannibal [SPA] (Rafuron) 地图翻译：IntimateLover&神々が恋した幻想郷**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 地図作成者: Hannibal [SPA] (Rafuron)**",
+      "CN": "** 地图制作：Hannibal [SPA] (Rafuron) **",
+      "KR": "** 맵 제작: Hannibal [SPA] (Rafuron) **",
+      "TW": "** 地圖製作者：Hannibal [SPA] (Rafuron) **"
+    }
   },
   "** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**": {
-    "translation": "** 守住奥斯吉力亚斯！我们不能没有战斗就离开这个地方（30秒） **"
+    "translation": "** 守住奥斯吉力亚斯！我们不能没有战斗就离开这个地方（30秒） **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** オスギリアスを守れ！ 戦うことなくここから離れるな！（30秒）**",
+      "CN": "** 保卫奥斯吉利亚斯！我们绝不放弃这个地方，誓战到底！（30秒）**",
+      "KR": "** 오팔리아스 방위! 우리가 싸우지 않고 이 곳을 떠나지는 않겠다! (30초)**",
+      "TW": "** 保衛奧斯吉利亞斯！我們誓死防守此地！（30秒）**"
+    }
   },
   "** THE BOATS ARE COMMING ** PREPARE YOURSELVES **": {
-    "translation": "** 船已经来了**准备防守僵尸**"
+    "translation": "** 船已经来了**准备防守僵尸**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 船が到着する。準備をしろ。**",
+      "CN": "** 船只正在靠近 ** 做好战斗准备 **",
+      "KR": "** 배들이 접근 중입니다. 스스로를 준비하라 **",
+      "TW": "** 船隻即將到達，請做好準備 **"
+    }
   },
   "** RESIST 25 SECONDS! **": {
-    "translation": "** 守住25秒**"
+    "translation": "** 守住25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒間耐えろ！ **",
+      "CN": "** 坚守25秒！ **",
+      "KR": "** 25초간 저항하라! **",
+      "TW": "** 堅持25秒！**"
+    }
   },
   "** RETREAT !! RIVER ZONE IS LOST **": {
-    "translation": "** 快撤退！！我们失去了河岸防守区，这里守不住了 **"
+    "translation": "** 快撤退！！我们失去了河岸防守区，这里守不住了 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 撤退！！ 河川地帯を喪失した。**",
+      "CN": "** 撤退！！河流区域已失守 **",
+      "KR": "** 후퇴!! 강 지대가 상실됨 **",
+      "TW": "** 撤退！！河域失守 **"
+    }
   },
   "** WATCH OUT! WE ARE UNDER SIEGE **": {
-    "translation": "** 当心！我们已经被包围了 **"
+    "translation": "** 当心！我们已经被包围了 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "注意！包囲されている！",
+      "CN": "** 小心！我们正遭围攻 **",
+      "KR": "!! 주의 !적군이 포위하고 있습니다 !!",
+      "TW": "** 小心！我們遭到圍攻 **"
+    }
   },
   "** OSGILIATH IS LOST ** RETREAT ! **": {
-    "translation": "** 奥斯吉力亚斯守不住了** 快撤退！ **"
+    "translation": "** 奥斯吉力亚斯守不住了** 快撤退！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "オスギリアスは失われた。撤退だ！",
+      "CN": "** 奥丝吉力亚斯失守！**撤退！",
+      "KR": "!! 오르스키아스는 함락되었습니다 ! 퇴각하세요 !!",
+      "TW": "** 奧斯吉利亞斯淪陷 ** 撤退！"
+    }
   },
   "** TAKE THE HORSES  **": {
-    "translation": "** 快上马！**"
+    "translation": "** 快上马！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "馬を奪え！",
+      "CN": "** 骑上马 **",
+      "KR": "!! 말을 타세요 !!",
+      "TW": "** 騎上戰馬 **"
+    }
   },
   "** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **": {
-    "translation": "** 兽人冲破了我们的防线 ** 快撤退 **"
+    "translation": "** 兽人冲破了我们的防线 ** 快撤退 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "オークが防衛線を突破した。撤退せよ！",
+      "CN": "** 兽人已突破防线！**撤退**",
+      "KR": "!! 오르크들이 방어를 뚫고 나타났습니다 ! 퇴각하세요 !!",
+      "TW": "** 獸人已突破防線 ** 撤退 **"
+    }
   },
   "** DOOR IS CLOSED **": {
-    "translation": "** 门已经关上了 **"
+    "translation": "** 门已经关上了 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は閉まっている",
+      "CN": "** 门已关闭 **",
+      "KR": "!! 문이 닫혔습니다 !!",
+      "TW": "** 門已關閉 **"
+    }
   },
   "** DOOR IS OPENING **": {
-    "translation": "** 15秒，门打开了 **"
+    "translation": "** 15秒，门打开了 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開いている",
+      "CN": "** 门正在开启 **",
+      "KR": "!! 문이 열리고 있습니다 !!",
+      "TW": "** 門正在開啟 **"
+    }
   },
   "** ZOMBIES ARE COMMING! CLOSE THE DOOR! **": {
-    "translation": "** 僵尸来了！快关上门！ **"
+    "translation": "** 僵尸来了！快关上门！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが来る！扉を閉めろ！",
+      "CN": "** 僵尸来袭！关上大门！**",
+      "KR": "!! 좀비들이 approaching합니다 ! 문을 닫으세요 !!",
+      "TW": "** 殭屍來了！關上門！"
+    }
   },
   "** STAGE COMPLETED **": {
-    "translation": "** 当前阶段已完成，准备进入下一阶段 **"
+    "translation": "** 当前阶段已完成，准备进入下一阶段 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージクリア",
+      "CN": "** 关卡完成 **",
+      "KR": "!! 스테이지 클리어 !!",
+      "TW": "** 階段完成 **"
+    }
   },
   "**CURRENT STAGE >> PART 1 >> OSGILIATH **": {
-    "translation": "** 当前阶段>>第一阶段>>奥斯吉力亚斯之战 **"
+    "translation": "** 当前阶段>>第一阶段>>奥斯吉力亚斯之战 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**現在のステージ >> パート1 >> オスギリアス **",
+      "CN": "当前阶段 >> 第一部分 >> 奥斯吉利亚斯",
+      "KR": "**현재 스테이지 >> 파트 1 >> 오스기랏 **",
+      "TW": "**當前階段 >> 第一部分 >> 歐斯吉亞斯**"
+    }
   },
   "**CURRENT STAGE >> PART 2 >> MAIN GATES **": {
-    "translation": "** 当前阶段>>第二阶段>>主大门 **"
+    "translation": "** 当前阶段>>第二阶段>>主大门 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**現在のステージ >> パート2 >> 主要門扉 **",
+      "CN": "当前阶段 >> 第二部分 >> 主城门",
+      "KR": "**현재 스테이지 >> 파트 2 >> 메인 게이트 **",
+      "TW": "**當前階段 >> 第二部分 >> 正門**"
+    }
   },
   "** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **": {
-    "translation": "** 游戏已经开始** 选择一个入口进入 **大规模传送将在20秒后启动 **"
+    "translation": "** 游戏已经开始** 选择一个入口进入 **大规模传送将在20秒后启动 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ラウンド開始！ポータルより任意のものを選んでください。20秒後に大規模テレポート。**",
+      "CN": "回合已开始。选择一个传送门。20秒后大规模传送。",
+      "KR": "** 라운드가 시작되었습니다. 포털 중 하나를 사용하세요. 20초 후 대규모 텔레포트 **",
+      "TW": "**本回合已開始。選擇其中一個传送门，20秒後將進行大规模传送**"
+    }
   },
   "**CURRENT STAGE >> PART 3 >> CATAPULTS **": {
-    "translation": "** 当前阶段>>第三阶段>>攻城车 **"
+    "translation": "** 当前阶段>>第三阶段>>攻城车 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**現在のステージ >> パート3 >> 投石機 **",
+      "CN": "当前阶段 >> 第三部分 >> 抛石机",
+      "KR": "**현재 스테이지 >> 파트 3 >> 투석기 **",
+      "TW": "**當前階段 >> 第三部分 >> 投石機**"
+    }
   },
   "** CURRENT STAGE >> PART 4 >> THE LAST STAND **": {
-    "translation": "** 当前阶段>>第四阶段>>背水一战 **"
+    "translation": "** 当前阶段>>第四阶段>>背水一战 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 現在のステージ >> パート4 >> 最後の決死隊 **",
+      "CN": "当前阶段 >> 第四部分 >> 最后抵抗",
+      "KR": "** 현재 스테이지 >> 파트 4 >> 최후의 항전 **",
+      "TW": "**當前階段 >> 第四部分 >> 最後一搏**"
+    }
   },
   "** RETREAT! **": {
-    "translation": "** 撤退！ **"
+    "translation": "** 撤退！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 撤退！**",
+      "CN": "撤退！",
+      "KR": "** 후퇴! **",
+      "TW": "**撤退！**"
+    }
   },
   "** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **": {
-    "translation": "**40秒，这是第一层的最后一战 ** 战斗到信号出现 **"
+    "translation": "**40秒，这是第一层的最后一战 ** 战斗到信号出现 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** これは最初のレベルの最後の決死隊です。信号を待つまで戦え **",
+      "CN": "这是第一关的最后抵抗。坚持到信号响起。",
+      "KR": "**这里是第一级别最后的坚守点。**战斗直到收到信号**",
+      "TW": "**這是第一層的最後一搏。聽到信號前請堅持戰鬥**"
+    }
   },
   "** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **": {
-    "translation": "** 使用路障去锁上大门不然我们需要防守60秒！ **"
+    "translation": "** 使用路障去锁上大门不然我们需要防守60秒！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** バリケードを使って門をロックするか、60秒間防衛してください！**",
+      "CN": "利用路障封锁城门或坚守60秒！",
+      "KR": "**使用路障锁上门或坚守 60 秒！ **",
+      "TW": "**利用路障鎖住城門或防守60秒！**"
+    }
   },
   "** DOOR 2 LOCKED **": {
-    "translation": "** 大门2已关闭 **"
+    "translation": "** 大门2已关闭 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ドア2 施錠 **",
+      "CN": "** 2号门已上锁 **",
+      "KR": "** 도어 2 잠김 **",
+      "TW": "** 二號門已鎖定 **"
+    }
   },
   "** DOOR 1 LOCKED **": {
-    "translation": "** 大门1已关闭 **"
+    "translation": "** 大门1已关闭 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ドア1 施錠 **",
+      "CN": "** 1号门已上锁 **",
+      "KR": "** 도어 1 잠김 **",
+      "TW": "** 一號門已鎖定 **"
+    }
   },
   "** DOORS LOCKED **": {
-    "translation": "** 大门已全部关闭 **"
+    "translation": "** 大门已全部关闭 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ドア封鎖 **",
+      "CN": "** 大门已关闭 **",
+      "KR": "** 도어 잠김 **",
+      "TW": "** 所有門已鎖定 **"
+    }
   },
   "** THEY ARE TRYING TO GET IN ** SHOOT! **": {
-    "translation": "** 他们正在试图进进来消灭我们 ** 快开枪阻止他们！ **"
+    "translation": "** 他们正在试图进进来消灭我们 ** 快开枪阻止他们！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 侵入しようとしている！撃て！ **",
+      "CN": "** 它们试图闯入！开火！**",
+      "KR": "** 그들이 들어오려 합니다! 쏴라! **",
+      "TW": "** 他們正試圖衝進來！射擊！**"
+    }
   },
   "** THEY ARE IN! RETREAT! **": {
-    "translation": "** 他们进来了！快撤退！ **"
+    "translation": "** 他们进来了！快撤退！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 侵入された！撤退せよ！ **",
+      "CN": "** 它们进来了！撤退！**",
+      "KR": "** 그들이 안으로! 후퇴! **",
+      "TW": "** 他們進來了！撤退！**"
+    }
   },
   "** THE LIFT IS LEAVING IN 10 SECONDS **": {
-    "translation": "** 升降梯将在10秒后离开 **"
+    "translation": "** 升降梯将在10秒后离开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** リフトが出発まで10秒 **",
+      "CN": "** 电梯将在10秒后离开 **",
+      "KR": "** 엘리베이터가 10초 후에 떠납니다 **",
+      "TW": "** 升降機十秒後離開**"
+    }
   },
   "** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **": {
-    "translation": "** 现在使用投石车继续防守米纳斯！ **"
+    "translation": "** 现在使用投石车继续防守米纳斯！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 投石機を使用してミナスティリスの防衛を継続せよ！ **",
+      "CN": "** 使用投石机以继续米那斯提力斯的防御！**",
+      "KR": "** 미나스 티리크 방어 작전을 계속하려면 캐터펄트를 사용하십시오! **",
+      "TW": "** 使用弩炮以繼續防禦米那斯提力斯！**"
+    }
   },
   "** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **": {
-    "translation": "** 大门紧闭着 ** 必须有人去按下大门开关 **"
+    "translation": "** 大门紧闭着 ** 必须有人去按下大门开关 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 門が閉じた。誰かがレバーを引け **",
+      "CN": "** 大门已关闭，必须有人拉动杠杆 **",
+      "KR": "** 성문이 닫혔습니다. 누군가가 레버를 당겨야 합니다 **",
+      "TW": "** 城門已關閉。必須有人按下槓桿。**"
+    }
   },
   "** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **": {
-    "translation": "** 干得好！金属门将在10秒后打开！ **"
+    "translation": "** 干得好！金属门将在10秒后打开！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**完璧だ！メタルゲートは10秒後に開放される！**",
+      "CN": "做得好！金属门将在10秒后开启！",
+      "KR": "** 훌륭해! 금속 문이 10초 후에 열릴 거야! **",
+      "TW": "** 幹得好！金屬閘門將在 10 秒後開啟！**"
+    }
   },
   "** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *": {
-    "translation": "** 30秒，守住建筑，直到平民安全撤离！ **"
+    "translation": "** 30秒，守住建筑，直到平民安全撤离！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**市民の避難が完了するまで建造物を護衛せよ！**",
+      "CN": "保护建筑直至平民撤离！",
+      "KR": "** 민간인 대피가 끝날 때까지 건물을 방어해!** *",
+      "TW": "** 保護建築直到平民撤離！*"
+    }
   },
   "** DEFEND THIS PLACE FOR 35 SECONDS **": {
-    "translation": "** 守住建筑35秒，别让僵尸进来 **"
+    "translation": "** 守住建筑35秒，别让僵尸进来 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**この場所を35秒間防衛せよ**",
+      "CN": "防守此处35秒",
+      "KR": "** 이 장소를 35초 동안 방어하세요 **",
+      "TW": "** 防守此處 35 秒**"
+    }
   },
   "** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **": {
-    "translation": "** 所有人都快进来！准备进行最后一战的防守 **"
+    "translation": "** 所有人都快进来！准备进行最后一战的防守 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**全員、入場！！**最後の防衛体制を整えろ**",
+      "CN": "全部进入！准备最后防御",
+      "KR": "** 모두 들어와!! ** 마지막 방비를 준비하라 **",
+      "TW": "** 全部上場！！預備最後的防禦 **"
+    }
   },
   "** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **": {
-    "translation": "** 再等一下！还有其他的幸存者正在赶来 **"
+    "translation": "** 再等一下！还有其他的幸存者正在赶来 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**少し待て！他の生存者が到着する可能性がある**",
+      "CN": "等待几秒！其他幸存者可能赶来",
+      "KR": "** 잠시 기다려! 다른 생존자들이 올 수도 있어 **",
+      "TW": "** 再等幾秒！其他倖存者即將抵達**"
+    }
   },
   "** THE POSITION IS LOST ** RETREAT **": {
-    "translation": "** 我们要守不住这里了 ** 快撤退 **"
+    "translation": "** 我们要守不住这里了 ** 快撤退 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**位置を喪失**撤退**",
+      "CN": "阵地失守 撤退",
+      "KR": "** 위치가 손실됨 ** 후퇴 **",
+      "TW": "** 據點失守，撤退 **"
+    }
   },
   "** WE HAVE LOST THE POSTION ** FALL BACK **": {
-    "translation": "** 我们失去了这个防守地点 ** 快撤退 **"
+    "translation": "** 我们失去了这个防守地点 ** 快撤退 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**拠点の防衛に失敗**後退**",
+      "CN": "我们已失去阵地 撤退",
+      "KR": "** 포지가 함락되었습니다 ** 철수 **",
+      "TW": "** 我們已失去據點，後撤 **"
+    }
   },
   "** STAGE 3 COMPLETED **": {
-    "translation": "** 第三阶段完成 **"
+    "translation": "** 第三阶段完成 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ステージ3完了**",
+      "CN": "关卡3已完成",
+      "KR": "** 스테이지 3 완료 **",
+      "TW": "** 第 3 關完成 **"
+    }
   },
   "** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **": {
-    "translation": "** 30秒，（地牢）** 防守到撤退信号出现 **"
+    "translation": "** 30秒，（地牢）** 防守到撤退信号出现 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "＊＊（ダンジョン）＊＊ ホーン合図まで待機 **",
+      "CN": "**（副本） ** 持守至号角信号 **",
+      "KR": "** ( 던전 ) ** hornsound이울릴때까지대기하세요**",
+      "TW": "**（迷宮）** 聽到號角聲後方可移動 **"
+    }
   },
   "** (DUNGEONS) ** THE DOOR IS UNLOCKED NOW **": {
-    "translation": "** （地牢）** 门现在关闭着 **"
+    "translation": "** （地牢）** 门现在关闭着 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "＊＊（ダンジョン）＊＊ ドア解除完了 **",
+      "CN": "**（副本） ** 门已解锁 **",
+      "KR": "** ( 던전 ) ** 문이잠금해제되었습니다**",
+      "TW": "**（迷宮）** 門已解鎖 **"
+    }
   },
   "** FALL BACK! **": {
-    "translation": "** 所有人撤退！ **"
+    "translation": "** 所有人撤退！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "＊＊ 撤退！ **",
+      "CN": "** 撤退！ **",
+      "KR": "** 후퇴하세요!**",
+      "TW": "**後退！**"
+    }
   },
   "** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **": {
-    "translation": "** 大门很快就要打开 ** 等待一段时间 **"
+    "translation": "** 大门很快就要打开 ** 等待一段时间 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "＊＊ ドア開放まで ** 少しお待ちください **",
+      "CN": "** 门即将打开 ** 请稍等 **",
+      "KR": "** 문이곧열릴것입니다** 잠시대기하세요**",
+      "TW": "**門即將開啟，請稍等片刻** **"
+    }
   },
   "** DOORS ARE UNLOCKED NOW **": {
-    "translation": "** 现在大门已经打开了 **"
+    "translation": "** 现在大门已经打开了 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "＊＊ ドア解除完了 **",
+      "CN": "** 门已解锁 **",
+      "KR": "** 문이잠금해제되었습니다**",
+      "TW": "**門已解鎖**"
+    }
   },
   "** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **": {
-    "translation": "** （图书馆）** 在这里守住！ ** 等待撤退信号！ **"
+    "translation": "** （图书馆）** 在这里守住！ ** 等待撤退信号！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "＊＊（図書館）＊＊ ここで待機！ ** ホーン合図まで待機！ **",
+      "CN": "**（图书馆） ** 坚守此处！ ** 等待号角信号！ **",
+      "KR": "** ( 도서관 ) ** 여기대기하세요!** hornsound가울릴때까지대기하세요!**",
+      "TW": "**（圖書館）** 在這裡等候！ **聽到號角聲後方可移動**"
+    }
   },
   "** (LIBRARY) ** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **": {
-    "translation": "** （图书馆）** 门很快就要打开！ ** 等待一段时间！ **"
+    "translation": "** （图书馆）** 门很快就要打开！ ** 等待一段时间！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "＊＊（図書館）＊＊ ドア開放まで ** 少しお待ちください **",
+      "CN": "**（图书馆） ** 门即将打开 ** 请稍等 **",
+      "KR": "** ( 도서관 ) ** 문이곧열릴것입니다** 잠시대기하세요**",
+      "TW": "**（圖書館）** 門即將開啟，請稍等片刻 **"
+    }
   },
   "** (LIBRARY) ** DOORS ARE UNLOCKED NOW **": {
-    "translation": "** （图书馆）** 门现在关闭着 **"
+    "translation": "** （图书馆）** 门现在关闭着 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "＊＊（図書館）＊＊ ドア解除完了 **",
+      "CN": "**（图书馆） ** 门已解锁 **",
+      "KR": "** ( 도서관 ) ** 문이잠금해제되었습니다**",
+      "TW": "**（圖書館）** 門已解鎖 **"
+    }
   },
   "** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **": {
-    "translation": "** 我们被困在这里了！为自己的生命战斗吧！ **"
+    "translation": "** 我们被困在这里了！为自己的生命战斗吧！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 私たちは包囲されている！ 命を賭けて戦え！ **",
+      "CN": "** 我们被困住了！奋力生存！ **",
+      "KR": "** 우리가 갇혔다! 생명을 위해 싸워라! **",
+      "TW": "** 我們被困住了！為生存而戰！ **"
+    }
   },
   "** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **": {
-    "translation": "** 天花板塌了 ** 爬上断墙 **"
+    "translation": "** 天花板塌了 ** 爬上断墙 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 天井が崩落した ** 壊れた壁を登れ！ **",
+      "CN": "** 天花板已坍塌，攀爬破损的墙壁！ **",
+      "KR": "** 천장이 무너졌다** 허물어진 벽을 타고 올라라! **",
+      "TW": "** 天花板已坍塌 爬過斷裂的牆壁！ **"
+    }
   },
   "** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **": {
-    "translation": "** 我们现在正在前往米纳斯的顶部 ** 守住这里30秒 **"
+    "translation": "** 我们现在正在前往米纳斯的顶部 ** 守住这里30秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ミナス・ティリスの頂上近くにある ** 30秒間この場所を守れ **",
+      "CN": "** 我们位于米那斯提力斯顶端附近，坚守阵地30秒 **",
+      "KR": "** 미나스 티리丝的 꼭대기 근처다** 30초 동안 이 곳을 방어하라 **",
+      "TW": "** 我們接近米那斯提力斯的頂部 守住這裡30秒 **"
+    }
   },
   "** LIFT IS LEAVING IN 10 SECONDS **": {
-    "translation": "** 升降梯将在10秒后离开 **"
+    "translation": "** 升降梯将在10秒后离开 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** リフトが10秒後に発車する **",
+      "CN": "** 电梯将在10秒后离开 **",
+      "KR": "** 엘리베이터가 10초 내에 출발합니다**",
+      "TW": "** 電梯10秒後離開 **"
+    }
   },
   "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **": {
-    "translation": "** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存90秒 **"
+    "translation": "** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存90秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 道が開かれた ** ミナス・ティリスの頂上に到達せよ ** 90秒間生き延びろ **",
+      "CN": "** 通路已开启，抵达米那斯提力斯顶端，坚持90秒 **",
+      "KR": "** 통로가 열렸다** 미나스 티리丝的 꼭대기에 도달하라 ** 90초 동안 생존하라 **",
+      "TW": "** 通道已開啟 到達米那斯提力斯的頂部 生存90秒 **"
+    }
   },
   "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **": {
-    "translation": "** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存80秒 **"
+    "translation": "** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存80秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 道が開かれた ** ミナス・ティリスの頂上に到達せよ ** 80秒間生き延びろ **",
+      "CN": "** 通路已开启，抵达米那斯提力斯顶端，坚持80秒 **",
+      "KR": "** 통로가 열렸다** 미나스 티리丝的 꼭대기에 도달하라 ** 80초 동안 생존하라 **",
+      "TW": "** 通道已開啟 到達米那斯提力斯的頂部 生存80秒 **"
+    }
   },
   "** All humans at bottom part will die in 15 seconds **": {
-    "translation": "** 下层的所有人类都会在15秒后死亡 **"
+    "translation": "** 下层的所有人类都会在15秒后死亡 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 底部にいるすべての人間は15秒後に死亡する **",
+      "CN": "** 底部的人类将在15秒后死亡 **",
+      "KR": "** 하부 구간의 모든 인간은 15초 내에 사망합니다**",
+      "TW": "** 底部所有人類將在15秒內死亡 **"
+    }
   },
   "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **": {
-    "translation": "** 这是地图的最后一个防守区域 ** 想办法生存到最后 **"
+    "translation": "** 这是地图的最后一个防守区域 ** 想办法生存到最后 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** これはマップの最後のポイントである ** 残り時間を生き延びろ **",
+      "CN": "** 这是地图的最后一点，坚持剩余时间 **",
+      "KR": "** 이것은 맵의 마지막 지점입니다** 남은 시간 동안 생존하라 **",
+      "TW": "** 這是地圖的最後一個點 堅持剩餘的時間 **"
+    }
   },
   "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **": {
-    "translation": "** 防守主大门，为了接下来可以继续到达米纳斯顶部防守 **"
+    "translation": "** 防守主大门，为了接下来可以继续到达米纳斯顶部防守 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** メインゲートを防衛し、ミナス・ティリス頂上での防衛を継続せよ！ **",
+      "CN": "** 继续防守米那斯提力斯之巅，务必守住主城门！ **",
+      "KR": "** 메인 성문을 방어하여 미나스 티리트 정상의 방어를 계속하십시오! **",
+      "TW": "**為了繼續在米那斯提力斯的頂層進行防禦，請守住主門！**"
+    }
   },
   "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **": {
-    "translation": "** 140秒，幽灵军队正在赶来！为最后的决战做好准备 **"
+    "translation": "** 140秒，幽灵军队正在赶来！为最后的决战做好准备 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 幽霊軍が迫る！最後の防衛の準備をせよ！ **",
+      "CN": "** 亡灵大军已至！准备迎接最终决战！ **",
+      "KR": "** 유령 군대가 접근합니다! 마지막 방비를 준비하십시오! **",
+      "TW": "**鬼魂大軍即將到來！請做好最終防禦的準備！**"
+    }
   },
   "** Thanks to Kaemon **": {
-    "translation": "** 感谢Kaemon **"
+    "translation": "** 感谢Kaemon **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** Kaemon様への感謝 **",
+      "CN": "** 感谢凯蒙 **",
+      "KR": "** 카에몬에게 감사드립니다 **",
+      "TW": "**特別感謝 Kaemon**"
+    }
   },
   "** Catapult 1 activated **": {
-    "translation": "** 一号投石机已激活 **"
+    "translation": "** 一号投石机已激活 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** キャタピラー1号発射準備完了 **",
+      "CN": "** 抛石机 1 启动 **",
+      "KR": "** 해자포 1호 발사 준비 완료 **",
+      "TW": "**榴彈車 1 啟動**"
+    }
   },
   "** Catapult 2 activated **": {
-    "translation": "** 二号投石机已激活 **"
+    "translation": "** 二号投石机已激活 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** キャタピラー2号発射準備完了 **",
+      "CN": "** 抛石机 2 启动 **",
+      "KR": "** 해자포 2호 발사 준비 완료 **",
+      "TW": "**榴彈車 2 啟動**"
+    }
   },
   "** DEFEND THIS PLACE FOR 70 SECONDS! **": {
-    "translation": "** 守住这个地方70秒 **"
+    "translation": "** 守住这个地方70秒 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** この場所を70秒間防衛せよ！ **",
+      "CN": "** 在此坚守70秒！ **",
+      "KR": "** 70초간 이곳을 방어하십시오! **",
+      "TW": "**為時 70 秒守住此地！**"
+    }
   },
   "** DOORS UNLOCKED ** RETREAT ! **": {
-    "translation": "** 门开了 ** 撤退！ **"
+    "translation": "** 门开了 ** 撤退！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 扉解放 ** 撤退だ！ **",
+      "CN": "** 城门已开，撤退！ **",
+      "KR": "** 문 열림 ** 후퇴! **",
+      "TW": "**門已解鎖**撤退！**"
+    }
   },
   "** WARMUP ROUND **": {
-    "translation": "** 热身回合 **"
+    "translation": "** 热身回合 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ウォーミングアップラウンド **",
+      "CN": "** 热身回合 **",
+      "KR": "** 연습 라운드 **",
+      "TW": "**熱身回合**"
+    }
   },
   "** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS **": {
-    "translation": "** 热身回合 ** 核爆将60秒后启用 **"
+    "translation": "** 热身回合 ** 核爆将60秒后启用 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ウィープリップ ラウンド ** 60秒以内に巨大な核爆発 **",
+      "CN": "** 热身局 ** 60秒后投放巨型核弹 **",
+      "KR": "** 예선 라운드 ** 60초 후 대량의 핵폭발 **",
+      "TW": "** 熱身輪次 ** 60秒內將有巨型核彈襲擊 **"
+    }
   },
   "** Tip 1 : press +use on pickable objects to build barricades ** ": {
-    "translation": "** 提示1：按E键可使用拾取到的障碍物 **"
+    "translation": "** 提示1：按E键可使用拾取到的障碍物 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ヒント1 : 持ち物のオブジェクトに+useを押してバリケードを構築する **",
+      "CN": "** 提示 1 ：在可拾取物上按住 +使用 键来建造路障 **",
+      "KR": "** 팁 1 : 수집 가능한 물건에 +use를 눌러 벙커를 건설하세요 **",
+      "TW": "** 提示1：對可拾取的物品按下 +使用鍵以建造路障 **"
+    }
   },
   "** Tip 2 : reach and win the end of a stage to level up ** ": {
-    "translation": "** 提示2：到达并赢得关卡胜利可以提高可拾取的神器等级 **"
+    "translation": "** 提示2：到达并赢得关卡胜利可以提高可拾取的神器等级 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ヒント2 : ステージの最後に到達して勝利すればレベルアップする **",
+      "CN": "** 提示 2 ：到达关卡终点并获胜即可升级 **",
+      "KR": "** 팁 2 : 스테이지 종료 시점에 도달하고 승리하여 레벨을 올리세요 **",
+      "TW": "** 提示2：到達並贏得一關的結尾即可升級 **"
+    }
   },
   "** Tip 3 : take items at zombie and human shops in spawn ** ": {
-    "translation": "** 提示3：在僵尸和人类神器商店可以凭神器等级获取神器 **"
+    "translation": "** 提示3：在僵尸和人类神器商店可以凭神器等级获取神器 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ヒント3 :  spawnのゾンビと人間のショップでアイテムを取る **",
+      "CN": "** 提示 3 ：在出生点购买丧尸和人类商店的商品 **",
+      "KR": "** 팁 3 : 스폰 위치의 좀비 상점과 인간 상점에서 아이템을 가져가세요 **",
+      "TW": "** 提示3：在出生點購買殭屍和人類的商品 **"
+    }
   },
   "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **": {
-    "translation": "** 提示4：你目前的神器等级是你的分数除以100左右 **"
+    "translation": "** 提示4：你目前的神器等级是你的分数除以100左右 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ヒント4 : 現在のレベルは常に新しいラウンドに表示されます またはあなたのkillスコアを100で割ったもの **",
+      "CN": "** 提示 4 ：你的当前等级会显示在每轮开始时，或大致等于击杀数除以 100 **",
+      "KR": "** 팁 4 : 현재 레벨은 새로운 라운드 시작 시 또는 처치 수를 100으로 나눈 값으로 대략 표시됩니다 **",
+      "TW": "** 提示4：你的當前等級會在每輪新開始時顯示，或大致等同於你擊殺分數除以100 **"
+    }
   },
   "** Tip 5 : barricades health depends on the size and material **": {
-    "translation": "** 提示5：路障的坚固程度取决于它的大小和所用的材料 **"
+    "translation": "** 提示5：路障的坚固程度取决于它的大小和所用的材料 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ヒント5 : バリケードの体力はサイズと素材による **",
+      "CN": "** 提示 5 ：路障的生命值取决于其尺寸和材质 **",
+      "KR": "** 팁 5 : 벙커의 체력은 크기와 소재에 따라 달라집니다 **",
+      "TW": "** 提示5：路障的耐久度取決於其尺寸和材質 **"
+    }
   },
   "** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **": {
-    "translation": "** 提示6：防守时间往往很长 * 尽可能的在前面防守 **"
+    "translation": "** 提示6：防守时间往往很长 * 尽可能的在前面防守 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ヒント6 : ホールドスポットは長い傾向があります  * 前の位置でできるだけホールドする **",
+      "CN": "** 提示 6 ：防守点通常会持续较长时间 * 在之前的位置坚守 **",
+      "KR": "** 팁 6 : 점령지는 장기화되는 경향이 있습니다 * 이전 위치에서 최대한 오래 버티세요 **",
+      "TW": "** 提示6：防守據點往往持續時間較長，請盡量在先前位置固守 **"
+    }
   },
   "** Tip 7 : guards work as stoppers * but you can shoot throught them **": {
-    "translation": "** 提示7：卫兵可以阻拦僵尸，你可以通过他们射击僵尸 **"
+    "translation": "** 提示7：卫兵可以阻拦僵尸，你可以通过他们射击僵尸 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ヒント7 : ガードはストッパーとして機能します * しかしあなたは彼らを通り抜けて撃つことができます **",
+      "CN": "** 提示 7 ：路障充当阻挡物 * 但你可以穿透射击 **",
+      "KR": "** 팁 7 : 가드대는 저지 역할을 합니다 * 하지만 그 통과 사격을 할 수 있습니다 **",
+      "TW": "** 提示7：護欄起著阻擋作用，但你可以穿過它們射擊 **"
+    }
   },
   "** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS **": {
-    "translation": "** 热身回合 ** 核爆将在10秒后启用 **"
+    "translation": "** 热身回合 ** 核爆将在10秒后启用 **",
+    "MultiLang": {
+      "US": "***WARMUP ROUND*** Massive Nuke In 10 Seconds ***",
+      "JP": "** 予選ラウンド ** 10秒後に大規模な核爆発 **",
+      "CN": "** 预演轮次 ** 10秒后投掷巨型核弹 **",
+      "KR": "**预热 라운드** 10초 후 대규모 핵폭발 예정 **",
+      "TW": "** 熱身回合 ** 10秒後巨大的核彈攻擊 **"
+    }
   },
   "** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **": {
-    "translation": "** 提示8：僵尸神器中梯子和TNT是很强大的神器 * 你必须第一时间杀死他们 **"
+    "translation": "** 提示8：僵尸神器中梯子和TNT是很强大的神器 * 你必须第一时间杀死他们 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヒント8：梯子と爆弾のアイテムは強力なアイテムです。これらのゾンビを最初に倒してください。**",
+      "CN": "** 提示8：梯子和炸弹道具效果强大 * 你必须优先击杀持有这些道具的僵尸 **",
+      "KR": "**팁 8 : 사다리와 폭탄 아이템은 강력한 효과* 반드시 이 좀비들을 먼저 처치하세요 **",
+      "TW": "** 建議8：梯子與炸彈道具威力強大，必須優先消滅持有這些道具的殭屍 **"
+    }
   },
   "** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **": {
-    "translation": "** 提示9：你可以把障碍物放在卫兵的身边以获得最大的防守效果 **"
+    "translation": "** 提示9：你可以把障碍物放在卫兵的身边以获得最大的防守效果 **",
+    "MultiLang": {
+      "US": "** Tip 9: You must place the barricades behind the guards to achieve maximum efficacy **",
+      "JP": "**ヒント9：最大限の効果を得るために、バリケードはガードマンの背後に設置してください。**",
+      "CN": "** 提示9：必须将路障设置在守卫后方才能获得最佳效果 **",
+      "KR": "**팁 9 : 최대 효과를 위해 경호원 뒤에 방패 시설을 배치하세요 **",
+      "TW": "** 建議9：為了獲得最大效益，柵欄必須設置在守衛後方 **"
+    }
   },
   "** Tip 10 : horse and armor (while shield is not broken) items can push zombies **": {
-    "translation": "** 提示10：人类神器骑兵和重甲兵(护盾未被打破时)能击退僵尸 **"
+    "translation": "** 提示10：人类神器骑兵和重甲兵(护盾未被打破时)能击退僵尸 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヒント10：馬と装甲（盾が壊れていない場合）のアイテムは、ゾンビを押し戻すことができます。**",
+      "CN": "** 提示10：马匹和护甲（在盾牌未损坏时）可以推挤僵尸 **",
+      "KR": "**팁 10 : 말과 갑옷 (방패가 깨지지 않은 상태)은 좀비를 밀어낼 수 있습니다 **",
+      "TW": "** 建議10：馬匹與鎧甲（盾牌未破裂時）的道具可以推開殭屍 **"
+    }
   },
   "** Tip 11 : Balrog scream heals near zombies and increases speed temporally **": {
-    "translation": "** 提示11：炎魔右键的吼叫会治疗并暂时增加附近僵尸的速度 **"
+    "translation": "** 提示11：炎魔右键的吼叫会治疗并暂时增加附近僵尸的速度 **",
+    "MultiLang": {
+      "US": "** Tip 11: Balrog scream heals nearby zombies and temporarily increases speed **",
+      "JP": "**ヒント11：バルログの咆哮は近接のゾンビを回復させ、一時的に速度を増します。**",
+      "CN": "** 提示11：巴洛格咆哮能治愈附近僵尸并临时提升其速度 **",
+      "KR": "**팁 11 : 발로그의 비명은 근처 좀비를 치유하고 일시적으로 속도를 증가시킵니다 **",
+      "TW": "** 建議11：巴爾洛格的吶喊能治癒附近殭屍並暫時提升速度 **"
+    }
   },
   "** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **": {
-    "translation": "** 提示12：第四关的坐便器在第二个塔的顶部（在木坡道后右转） **"
+    "translation": "** 提示12：第四关的坐便器在第二个塔的顶部（在木坡道后右转） **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヒント12：ステージ4のWCは、第二塔の上部にあります（木製のランプを通過した後、右に曲がってください）。**",
+      "CN": "** 提示12：第4阶段的WC位于第二座塔的顶端（经过木坡后右转） **",
+      "KR": "**팁 12 : 스테이지 4 WC는 두 번째 탑 위에 있습니다 (나무 경사로를 지나 오른쪽으로 회전하세요) **",
+      "TW": "** 建議12：第4關的WC位於第二座塔頂（通過木製斜坡後向右轉） **"
+    }
   },
   "** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **": {
-    "translation": "** 提示13：甘道夫的大招释放方式是：DAWDS 高达的大招释放方式是：AADDSWSW **"
+    "translation": "** 提示13：甘道夫的大招释放方式是：DAWDS 高达的大招释放方式是：AADDSWSW **",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ヒント13：ガンダルフの「汝を通すな！」は DAWDS、ホワイトナイトは AADDSWSW です。**",
+      "CN": "** 提示13：甘比尔+你不许通过+的按键顺序是DAWDS，白骑士的按键顺序是AADDSWSW **",
+      "KR": "**팁 13 : 간달프 + 네가 지나가지 못해!+는 DAWDS, 흰 기사단은 AADDSWSW입니다 **",
+      "TW": "** 建議13：甘道夫 +「你別想過」+ 對應鍵位 DAWDS，白騎士對應鍵位 AADDSWSW **"
+    }
   },
   "** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **": {
-    "translation": "** 大门开关已被按下 ** 门在10秒后打开！(远离右边大门，小心被门夹死)  **"
+    "translation": "** 大门开关已被按下 ** 门在10秒后打开！(远离右边大门，小心被门夹死)  **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** レバーが引かれました ** ゲートは10秒以内に開放されます！ **",
+      "CN": "** 拉杆已拉动 ** 大门将在10秒后开启！**",
+      "KR": "** 레버가 작동됨 ** 문이 10초 후에 열립니다 ! **",
+      "TW": "** 槓桿已被拉下，柵欄將於10秒後開啟！ **"
+    }
   },
   "** WATCH OUT! **": {
-    "translation": "** 注意投石机的攻击！门开了，快撤退！  **"
+    "translation": "** 注意投石机的攻击！门开了，快撤退！  **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 気をつけろ！ **",
+      "CN": "** 小心！ **",
+      "KR": "** 주의하라! **",
+      "TW": "** 小心！ **"
+    }
   },
   "** ADMIN PRESSED KILL ALL BUTTON **": {
-    "translation": "** 管理员按下了处死按钮  **"
+    "translation": "** 管理员按下了处死按钮  **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 管理者が全滅ボタンを押した **",
+      "CN": "** 管理员已按下“杀死所有人”按钮 **",
+      "KR": "** 관리자가 전멸 버튼을 누름 **",
+      "TW": "** 管理員按下了全滅按鈕 **"
+    }
   },
   "** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **": {
-    "translation": "** 这是最后一刻 ** 准备与他们决一死战 **"
+    "translation": "** 这是最后一刻 ** 准备与他们决一死战 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** これが真の瞬間だ ** これまでにない闘い方をしろ！ **",
+      "CN": "** 考验实力的时刻到了！ 以前所未有的方式战斗吧！ **",
+      "KR": "** 진흙탕 속의 진정한 강자가 나오는 순간! 평소보다 더 격렬하게 싸워라! **",
+      "TW": "** 這是證明真理的時刻 ** 像從未打過仗一樣戰鬥吧！ **"
+    }
   },
   "** UNLIMITED AMMO ON **": {
-    "translation": "** 无限弹药：开启 **"
+    "translation": "** 无限弹药：开启 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 無限弾丸 オン **",
+      "CN": "** 无限弹药已开启 **",
+      "KR": "** 탄약 무한 모드 활성화 **",
+      "TW": "** 子彈無限模式開啟 **"
+    }
   },
   "** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **": {
-    "translation": "** 你做到了 ** 你战胜了这张图最困难的关卡 ** 解锁所有神器 **"
+    "translation": "** 你做到了 ** 你战胜了这张图最困难的关卡 ** 解锁所有神器 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** お前のやったことだ **  hardest 難易度のマップで勝利しました ** すべてのアイテムをアンロックしました **",
+      "CN": "** 你做到了！ ** 你在最高难度下赢得了这张地图！ ** 解锁了所有物品！ **",
+      "KR": "** 축하합니다 ** 가장 어려운 난이도의 맵을 클리어했습니다! 모든 아이템이 해제되었습니다. **",
+      "TW": "** 你做到了 ** 你在最困難的難度下贏得了地圖 ** 解鎖了所有項目 **"
+    }
   },
   "** FEEL FREE TO RTV THE MAP **": {
-    "translation": "** 你可以随时RTV更换地图 **"
+    "translation": "** 你可以随时RTV更换地图 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 自由にRTV（ランダムマップ投票）を楽しんでください **",
+      "CN": "** 随时可以发送投掷投票请求结束地图 **",
+      "KR": "** 리타이드(RTV)를 자유롭게 사용하십시오. **",
+      "TW": "** 請隨意投票重新開始地圖 **"
+    }
   },
   "** This is the round 0 ** you are playing alone ** wait until more players or suicide **": {
-    "translation": "** 这是热身回合 ** 你正在独自游戏 ** 等待更多的人或自杀 **"
+    "translation": "** 这是热身回合 ** 你正在独自游戏 ** 等待更多的人或自杀 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** これはラウンド0です ** 一人でプレイしています ** 他のプレイヤーが来るか、自爆するまで待ってください **",
+      "CN": "** 这是第0回合！ 你正在单人游戏！ ** 等待更多玩家加入或自杀结束！ **",
+      "KR": "** 라운드 0입니다** 혼자 플레이하고 있습니다** 더 많은 플레이어가 합류하거나 자폭할 때까지 기다리십시오.",
+      "TW": "** 這是第 0 局 ** 你單獨遊戲 ** 等待更多玩家或自行結束 **"
+    }
   },
   "** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **": {
-    "translation": "** 阶段四完成 ** 开启极限模式 **"
+    "translation": "** 阶段四完成 ** 开启极限模式 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ステージ4クリア ** 極限モードで再スタートします！ **",
+      "CN": "** 第4阶段完成！ ** 即将以极端难度重新开局！ **",
+      "KR": "** 스테이지 4 클리어! 극한 모드로 재시작합니다! **",
+      "TW": "** 第 4 階段完成 ** 即將以極限模式重新開始！ **"
+    }
   },
   "** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **": {
-    "translation": "** 攻城塔已经建立 ** 我们失去了城墙 ** 撤退 **"
+    "translation": "** 攻城塔已经建立 ** 我们失去了城墙 ** 撤退 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 包囲塔が設置された ** 城壁を失った ** 撤退 **",
+      "CN": "** 攻城塔已架设 ** 城墙失守 ** 撤退 **",
+      "KR": "** 성문 탑이 설치되었습니다 ** 벽을 잃었습니다 ** 후퇴 **",
+      "TW": "** 攻城塔已設置 ** 城牆失守 ** 撤退 **"
+    }
   },
   "** THIS IS OUT OF CONTROL! RETREAT NOW ! **": {
-    "translation": "** 我们失去了对这里的控制！快撤退！ **"
+    "translation": "** 我们失去了对这里的控制！快撤退！ **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** これは制御不能だ！今すぐ撤退しろ！ **",
+      "CN": "** 局势失控！立即撤退！**",
+      "KR": "** 상황이 통제 불능입니다! 즉시 후퇴하세요! **",
+      "TW": "** 局勢失控！立即撤退！ **"
+    }
   },
   "*** This map is a port in progress and is not currently available to play on your server. Feel free to change map. ***": {
-    "translation": "** 这张地图正在进行移植，目前可能无法在服务器上正常游玩。可以随时更改地图 **"
+    "translation": "** 这张地图正在进行移植，目前可能无法在服务器上正常游玩。可以随时更改地图 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** このマップは港の制作中で、あなたのサーバーでは現在プレイできません。マップを変更してください。 ***",
+      "CN": "*** 此地图为港口开发中，暂不可用于您的服务器。请更换其他地图。***",
+      "KR": "*** 이 맵은 현재 포트 업데이트 중이며, 서버에서 플레이할 수 없습니다. 다른 맵으로 변경해 주세요. ***",
+      "TW": "*** 此地圖為港口地區，仍在開發中，目前無法在您的伺服器上遊玩。歡迎切換地圖。 ***"
+    }
   },
   "** This is the first round. Wait for more players to restart round or suicide. **": {
-    "translation": "** 这是第一回合。等待更多的玩家重新开始回合或自杀。 **"
+    "translation": "** 这是第一回合。等待更多的玩家重新开始回合或自杀。 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 最初のラウンドです。より多くのプレイヤーが待機するまで、または自殺してラウンドをリスタートしてください。 **",
+      "CN": "** 这是第一局。等待更多玩家加入以重新开始，或者选择自杀。**",
+      "KR": "** 이번 라운드는 첫 번째 라운드입니다. 더 많은 플레이어가 합류할 때까지 기다리거나 자살하여 라운드를 재시작하세요. **",
+      "TW": "** 這是第一回合。請等待更多玩家加入後重新開始，或自行自殺結束。 **"
+    }
   },
   "** This is the first round. . **": {
-    "translation": "** 这是第一回合 **"
+    "translation": "** 这是第一回合 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 最初のラウンドです。 **",
+      "CN": "** 这是第一局。**",
+      "KR": "** 첫 번째 라운드입니다. **",
+      "TW": "** 這是第一回合。 **"
+    }
   },
   "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS ** ": {
-    "translation": "** 热身回合 ** 60秒后重新开始游戏 **"
+    "translation": "** 热身回合 ** 60秒后重新开始游戏 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ウェイプンラウンド ** 60秒後にラウンドリスタート **",
+      "CN": "** 热身回合 ** 60秒后重开**",
+      "KR": "** 준비 중 ** 60초 후 라운드가 재시작됩니다 **",
+      "TW": "** 熱身回合 ** 60秒後重新開始 **"
+    }
   },
   "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS ** ": {
-    "translation": "** 热身回合 ** 10秒后重新开始游戏 **"
+    "translation": "** 热身回合 ** 10秒后重新开始游戏 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ウェイプンラウンド ** 10秒後にラウンドリスタート **",
+      "CN": "** 热身回合 ** 10秒后重开**",
+      "KR": "** 준비 중 ** 10초 후 라운드가 재시작됩니다 **",
+      "TW": "** 熱身回合 ** 10秒後重新開始 **"
+    }
   },
   "** WARMUP ROUND IS OVER! **": {
-    "translation": "** 热身回合已结束 **"
+    "translation": "** 热身回合已结束 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ウェイプンラウンド終了！ **",
+      "CN": "** 热身回合结束！**",
+      "KR": "** 준비 시간 종료! **",
+      "TW": "** 熱身回合結束！ **"
+    }
   },
   "** STARTING AT FIRST LEVEL! **": {
-    "translation": "** 从第一关开始 **"
+    "translation": "** 从第一关开始 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 最初のレベルで開始 **",
+      "CN": "** 起始等级！ **",
+      "KR": "** 첫 레벨 시작! **",
+      "TW": "** 從第一關開始！ **"
+    }
   },
   "** A DOOR IS OPEN ** RUN UPSTAIRS ** GO GO GO **": {
-    "translation": "** 一扇门打开了 ** 跑去上层的建筑 ** 跑 跑 跑 **"
+    "translation": "** 一扇门打开了 ** 跑去上层的建筑 ** 跑 跑 跑 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 扉が開いている ** 階段を上れ ** 行け行け **",
+      "CN": "** 门开了 ** 跑上楼 ** 快跑 **",
+      "KR": "** 문이 열림! ** 계단 위로 달려가 ** 빠르게 빠르게 **",
+      "TW": "** 有一扇門是開著的 ** 跑上樓 ** 快點快點快點 **"
+    }
   },
   "** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy&Koyomaple **": {
-    "translation": "** 地图作者：Hannibal [SPA] (Rafuron) 地图修复：Rulucy&Koyomaple 地图翻译：IntimateLover&神々が恋した幻想郷**"
+    "translation": "** 地图作者：Hannibal [SPA] (Rafuron) 地图修复：Rulucy&Koyomaple 地图翻译：IntimateLover&神々が恋した幻想郷**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 作成：Hannibal [SPA] (Rafuron) マップ修正：Rulucy＆Koyomaple **",
+      "CN": "** 地图作者：Hannibal [SPA] (Rafuron) 地图修改者：Rulucy&Koyomaple **",
+      "KR": "** 맵 제작: Hannibal [SPA] (Rafuron) 맵 수정: Rulucy & Koyomaple **",
+      "TW": "** 地圖由 Hannibal [SPA] (Rafuron) 設計，由 Rulucy 與 Koyomaple 修改 **"
+    }
   },
   "** KILL THE REMAINING ZOMBIES **": {
-    "translation": "** 杀死剩下的僵尸 **"
+    "translation": "** 杀死剩下的僵尸 **",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 残りのゾンビを倒せ **",
+      "CN": "** 消灭剩余的僵尸 **",
+      "KR": "** 남은 좀비 처치하기 **",
+      "TW": "** 消滅剩餘的殭屍 **"
+    }
   }
 }

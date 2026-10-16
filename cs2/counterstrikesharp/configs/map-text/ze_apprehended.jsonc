@@ -1,0 +1,252 @@
+{
+  "!!! THE WALLS HOLDING BACK THE ZOMBIES WILL EXPLODE IN 8 SECONDS !!!": {
+    "translation": "!!!阻挡僵尸的墙壁将在8秒后爆炸！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!! ゾンビを防ぐ壁が8秒後に爆発します !!!",
+      "CN": "!!! 阻挡僵尸的墙壁将在8秒后爆炸 !!!",
+      "KR": "!!! 지옥의 벽이 폭발합니다 8초 후 !!!",
+      "TW": "!!! 擋住殭屍的牆壁將在8秒後爆炸 !!!"
+    }
+  },
+  "!!! ZOMBIES CAN NOW JUMP TO THE BOSS PLATFORM !!!": {
+    "translation": "!!!僵尸现在可以跳到BOSS平台上！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!! ゾンビはボスプラットフォームまでジャンプ可能になりました !!!",
+      "CN": "!!! 僵尸现在可以跳到Boss平台了 !!!",
+      "KR": "!!! 좀비가 보스 플랫폼으로 점프할 수 있습니다 !!!",
+      "TW": "!!! 殭屍現在可以跳上 Boss 平台了 !!!"
+    }
+  },
+  "!!! ZOMBIES TELEPORT IN 5 SECONDS !!!": {
+    "translation": "!!!僵尸将在5秒后传送！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!! 5秒後にゾンビがテレポートします !!!",
+      "CN": "!!! 僵尸将在5秒后传送 !!!",
+      "KR": "!!! 좀비가 순환합니다 5초 후 !!!",
+      "TW": "!!! 殭屍將在5秒後傳送 !!!"
+    }
+  },
+  "!!! ZOMBIES TELEPORT IN 8 SECONDS !!!": {
+    "translation": "!!!僵尸将在8秒后传送！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!! 8秒後にゾンビがテレポートします !!!",
+      "CN": "!!! 僵尸将在8秒后传送 !!!",
+      "KR": "!!! 좀비가 순환합니다 8초 후 !!!",
+      "TW": "!!! 殭屍將在8秒後傳送 !!!"
+    }
+  },
+  "!!! ZOMBIES TELEPORT INSIDE IN 5 SECONDS !!!": {
+    "translation": "!!!僵尸将在5秒后传送到内部！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!! 5秒後にゾングが内部にテレポートします !!!",
+      "CN": "!!! 僵尸将在5秒内传送到内部区域 !!!",
+      "KR": "!!! 좀비가 내부로 순간이동합니다 5초 후 !!!",
+      "TW": "!!! 殭將在5秒後傳送到內部 !!!"
+    }
+  },
+  ">>> BOAT LEAVES IN 25 SECONDS <<<": {
+    "translation": ">>>船将在25秒内离开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 25秒後にボートが出航します <<<",
+      "CN": ">>> 船将于25秒后起航 <<<",
+      "KR": ">>> 배가 떠납니다 25초 후 <<<",
+      "TW": ">>> 船隻即將在25秒後離岸 <<<"
+    }
+  },
+  ">>> CRATES BREAK IN 15 SECONDS <<<": {
+    "translation": ">>>箱子将在15秒后破裂<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 15秒後に箱が壊れます <<<",
+      "CN": ">>> 板条箱将在15秒后碎裂 <<<",
+      "KR": ">>> 박스가 깨집니다 15초 후 <<<",
+      "TW": ">>> 貨箱將在15秒後破裂 <<<"
+    }
+  },
+  ">>> CRATES EXPLODE IN 20 SECONDS <<<": {
+    "translation": ">>>箱子将在20秒后爆炸<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 20秒後に箱が爆発します <<<",
+      "CN": ">>> 板条箱将于20秒后爆炸 <<<",
+      "KR": ">>> 박스가 폭발합니다 20초 후 <<<",
+      "TW": ">>> 貨箱將在20秒後爆炸 <<<"
+    }
+  },
+  ">>> DOORS OPEN IN 5 SECONDS <<<": {
+    "translation": ">>>门将在5秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 5秒後に扉が開きます <<<",
+      "CN": "门将在5秒后开启",
+      "KR": ">>> 문이 5초 뒤에 열립니다 <<<",
+      "TW": ">>>門五秒後開啟<<<"
+    }
+  },
+  ">>> GATE OPENS IN 20 SECONDS <<<": {
+    "translation": ">>>大门将在20秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 20秒後にゲートが開きます <<<",
+      "CN": "大门将在20秒后打开",
+      "KR": ">>> 게이트가 20초 뒤에 열립니다 <<<",
+      "TW": ">>>大門二十秒後開啟<<<"
+    }
+  },
+  ">>> SHEET BLOWS UP IN 15 SECONDS <<<": {
+    "translation": ">>>床单将在15秒后爆炸<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 15秒後にシートが破裂します <<<",
+      "CN": "钢板将在15秒后爆炸",
+      "KR": ">>> 시트가 15초 후에 폭발합니다 <<<",
+      "TW": ">>>紙張十五秒後爆炸<<<"
+    }
+  },
+  ">>> THE DOOR OPENS IN 20 SECONDS <<<": {
+    "translation": ">>>门将在20秒后打开<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 20秒後に扉が開きます <<<",
+      "CN": "门将在20秒后开启",
+      "KR": ">>> 문이 20초 뒤에 열립니다 <<<",
+      "TW": ">>>門二十秒後開啟<<<"
+    }
+  },
+  "DOOR CLOSES IN 15 SECONDS": {
+    "translation": "门将在15秒后关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に扉が閉まります",
+      "CN": "门将于15秒后关闭",
+      "KR": "문이 15초 후에 닫힙니다",
+      "TW": "門十五秒後關閉"
+    }
+  },
+  "ELEVATOR LEAVES IN 10 SECONDS": {
+    "translation": "电梯将在10秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後エレベーター発車",
+      "CN": "电梯将在10秒后离开",
+      "KR": "엘리베이터가 10초後に 떠납니다",
+      "TW": "電梯十秒後離開"
+    }
+  },
+  "GET OUT OF HERE, STALKER": {
+    "translation": "快离开这里，潜行者",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここから離れろ、 stalker（追跡者）",
+      "CN": "滚出去，跟踪者",
+      "KR": "도망치세요, 추적자!",
+      "TW": "快點離開這裡，追蹤者！"
+    }
+  },
+  "GET OUT, IT'S GOING TO BLOW": {
+    "translation": "快离开，这里要爆炸了",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げろ、炸裂するぞ",
+      "CN": "快滚开，要炸了",
+      "KR": "뛰어라, 곧 폭발합니다",
+      "TW": "快點離開，爆炸即將發生"
+    }
+  },
+  "MAP BY MIDRAN KIDRAN": {
+    "translation": "地图作者：MIDRAN KIDRAN 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "制作：ミドラン・キドラン",
+      "CN": "地图制作者：MIDRAN KIDRAN",
+      "KR": "MAP BY MIDRAN KIDRAN",
+      "TW": "地圖設計：MIDRAN KIDRAN"
+    }
+  },
+  "SPECIAL THANKS TO MAPEADORES FOR TESTING": {
+    "translation": "特别感谢Mapeadores服务器测试",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップテストにご協力いただいた「マペアードス」の皆様に感謝",
+      "CN": "特别感谢MAPEADORES的测试支持",
+      "KR": "SPECIAL THANKS TO MAPEADORES FOR TESTING",
+      "TW": "特別感謝 MAPEADORES 的測試支援"
+    }
+  },
+  "THE BOSS WILL BE DAMAGEABLE IN 5 SECONDS": {
+    "translation": "BOSS5秒后可以受到伤害",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスは5秒後に被ダメージ判定が可能になります",
+      "CN": "BOSS将在5秒后可受击",
+      "KR": "5초 후 보스에게 피해가 가능합니다",
+      "TW": "BOSS 將在 5 秒後可受到傷害"
+    }
+  },
+  ">>> DOORS OPEN IN 8 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 8秒後に扉が開きます <<<",
+      "CN": ">>> 门将在8秒后打开 <<<",
+      "KR": ">>> 8초 후 문이 열립니다 <<<",
+      "TW": ">>> 門将在 8 秒後開啟 <<<"
+    }
+  },
+  ">>> GATE OPENS in 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒後にゲートが開きます <<<",
+      "CN": ">>> 大门将在10秒后打开 <<<",
+      "KR": ">>> 10초 후 게이트가 열립니다 <<<",
+      "TW": ">>> 大閘门在 10 秒後開啟 <<<"
+    }
+  },
+  ">>> SHEET BLOWS UP IN 7 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 7秒後にシートが爆発します <<<",
+      "CN": ">>> 纸片将在7秒后引爆 <<<",
+      "KR": ">>> 7초 후 시트가 폭발합니다 <<<",
+      "TW": ">>> 紙板將在 7 秒後爆炸 <<<"
+    }
+  },
+  ">>> CRATES EXPLODE IN 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 25秒後に木箱が爆発します <<<",
+      "CN": ">>> 箱子将在25秒后爆炸 <<<",
+      "KR": ">>> 25초 후 박스가 폭발합니다 <<<",
+      "TW": ">>> 板條箱在 25 秒後爆炸 <<<"
+    }
+  },
+  "!!! WATCH OUT, IT'S GOING TO BLOW !!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "!!! 爆発に注意、もうすぐ吹き飛びます !!!",
+      "CN": "!!!注意，即将爆炸！！！",
+      "KR": "!!! 주의, 곧 폭발합니다 !!!",
+      "TW": "!!! 小心，即將爆炸 !!!"
+    }
+  },
+  ">>> BOAT LEAVES IN 30 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "船は30秒後に出発します",
+      "CN": ">>> 船将在30秒后离港 <<<",
+      "KR": ">>> 배가 30초 후에 출발합니다 <<<",
+      "TW": "船隻即將於 30 秒後離開<<<"
+    }
+  }
+}

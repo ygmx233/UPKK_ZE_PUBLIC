@@ -1,92 +1,302 @@
 {
   "** The bearer feels the weight of the Ring ** Protect him! **": {
-    "translation": "** 持戒人感受到了戒指 ** 保护他！**"
+    "translation": "** 持戒人感受到了戒指 ** 保护他！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 指輪の所持者は重圧を感じる ** 守れ！",
+      "CN": "** 持戒者感受到魔戒的重量 ** 保护他！**",
+      "KR": "** 반지가 가진 중압감을 느껴라. ** 그를 보호하라! **",
+      "TW": "** 持有者感受到魔戒的重量 ** 保護他！"
+    }
   },
   "*** The Ring bearer has been corrupted! All hope is lost!***": {
-    "translation": "*** 持戒人已经被腐化！所有希望破灭了！***"
+    "translation": "*** 持戒人已经被腐化！所有希望破灭了！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 指輪の所持者が堕落した！最後の希望も失われた！***",
+      "CN": "*** 持戒者已被腐蚀！希望彻底破灭！***",
+      "KR": "*** 반지持有人이 타락했다! 모든 희망이 좌절되었다!***",
+      "TW": "*** 魔戒持有者已被腐化！一切希望破滅！***"
+    }
   },
   "**********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********": {
-    "translation": "********** 地图作者：Hannibal[SPA] (Rafuron) 翻译：Asteri3m **********"
+    "translation": "********** 地图作者：Hannibal[SPA] (Rafuron) 翻译：Asteri3m **********",
+    "MultiLang": {
+      "US": "",
+      "JP": "**********MAP制作：Hannibal[SPA] (Rafuron) **********",
+      "CN": "**********地图制作者：Hannibal[SPA] (Rafuron) **********",
+      "KR": "********** 맵 제작자: Hannibal[SPA] (Rafuron) **********",
+      "TW": "**********地圖製作者：Hannibal[SPA] (Rafuron) **********"
+    }
   },
   "***A human MUST pick up the RING while the others defend the entrance.***": {
-    "translation": "***一个人类必须捡起戒指，其他人防守入口。***"
+    "translation": "***一个人类必须捡起戒指，其他人防守入口。***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***一人の人間は他が入口を防衛している間、RINGを拾わなければならない。***",
+      "CN": "*** 必须有人趁其他人防守入口处时捡起魔戒。***",
+      "KR": "*** 한 사람만 반지를 들어올려야 한다. 나머지는 입구를 방어하라.***",
+      "TW": "***必須有一名玩家拾取魔戒，其餘人防守入口。***"
+    }
   },
   "***AFK Teleport in 15 s***": {
-    "translation": "***15秒后传送挂机玩家***"
+    "translation": "***15秒后传送挂机玩家***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***AFKテレポート 15秒後***",
+      "CN": "*** 挂机传送还有15秒***",
+      "KR": "*** AFK 상태로 텔레포트 15초 후***",
+      "TW": "***15秒後AFK傳送***"
+    }
   },
   "***Carrier says: the Ring is mine!***": {
-    "translation": "***携带者说：戒指是我的！***"
+    "translation": "***携带者说：戒指是我的！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***運搬者は言う：「指輪は私のものだ！」***",
+      "CN": "*** 持戒者声称：魔戒是我的！***",
+      "KR": "*** 반지持有人가 말한다: 반지는 내 것이다!***",
+      "TW": "***攜帶者說：魔戒是我的！***"
+    }
   },
   "***Earendil light has been picked***": {
-    "translation": "***埃雅仁迪尔之星被捡起***"
+    "translation": "***埃雅仁迪尔之星被捡起***",
+    "MultiLang": {
+      "US": "***Earendil Light Has Been Picked***",
+      "JP": "***エアドニルの光が回収された***",
+      "CN": "*** 已拾取伊尔玛利尔之光***",
+      "KR": "*** 에아렌딜의 빛을 획득했다.***",
+      "TW": "***已拾取埃雅仁迪爾之光***"
+    }
   },
   "***Go into the Mount Doom!***": {
-    "translation": "***进入末日火山！***"
+    "translation": "***进入末日火山！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドーム山（Mount Doom）に入る！***",
+      "CN": "*** 前往末日火山！***",
+      "KR": "*** 도oming 산으로 들어가라!***",
+      "TW": "***進入末日火山！***"
+    }
   },
   "***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***": {
-    "translation": "***人类已经到达西力斯昂哥之塔。一个人类必须按下塔顶的杠杆打开门***"
+    "translation": "***人类已经到达西力斯昂哥之塔。一个人类必须按下塔顶的杠杆打开门***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***人類がシルゴンゴルの塔に到達しました。塔の上のレバーを操作して、扉を開く必要があります***",
+      "CN": "***人类已抵达西力斯昂哥塔。一名人类必须爬上塔顶按下拉杆以打开大门***",
+      "KR": "***인간이 시리온 엉골 탑에 도달했습니다. 인간 한 명이 탑 꼭대기의 레버를 눌러 문을 열어야 합니다***",
+      "TW": "***人類已抵達西力斯昂哥塔樓。必須由一人登上塔頂扳動槓桿以開啟城門***"
+    }
   },
   "***Humans have reached the Cirith Ungol tower***": {
-    "translation": "***人类已经到达西力斯昂哥之塔***"
+    "translation": "***人类已经到达西力斯昂哥之塔***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***人類がシルゴンゴルの塔に到達しました***",
+      "CN": "***人类已抵达西力斯昂哥塔***",
+      "KR": "***인간이 시리온 엉골 탑에 도달했습니다***",
+      "TW": "***人類已抵達西力斯昂哥塔樓***"
+    }
   },
   "***Nazguls coming to Cirith Ungol tower in 15 s***": {
-    "translation": "***15秒内戒灵将到达西力斯昂哥之塔***"
+    "translation": "***15秒内戒灵将到达西力斯昂哥之塔***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後にナズグールがシルゴンゴルの塔へ到着します***",
+      "CN": "戒灵将于15秒后抵达西力斯昂哥塔***",
+      "KR": "나즈굴이 15초 후 시리온 엉골 탑으로 접근합니다***",
+      "TW": "***戒靈將於15秒後抵達西力斯昂哥塔樓***"
+    }
   },
   "***Nazguls coming to Minas Morgul in 15 s***": {
-    "translation": "***15秒内戒灵将到达米那斯魔窟***"
+    "translation": "***15秒内戒灵将到达米那斯魔窟***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後にナズグールがミナスゴルムへ到着します***",
+      "CN": "***戒灵将于15秒后抵达米那斯魔窟***",
+      "KR": "***나즈굴이 15초 후 미너스 모굴로 접근합니다***",
+      "TW": "***戒靈將於15秒後抵達米那斯魔古爾***"
+    }
   },
   "***Nazguls coming to camp in 15 s***": {
-    "translation": "***15秒内戒灵将到达营地***"
+    "translation": "***15秒内戒灵将到达营地***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後にナズグールがキャンプへ到着します***",
+      "CN": "***戒灵将于15秒后抵达营地***",
+      "KR": "***나즈굴이 15초 후 캅으로 접근합니다***",
+      "TW": "***戒靈將於15秒後抵達營地***"
+    }
   },
   "***Resist 30 s!!***": {
-    "translation": "***防守30秒！！***"
+    "translation": "***防守30秒！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒間耐えよ！！***",
+      "CN": "***坚守30秒！！***",
+      "KR": "***30초간 저항하세요!!***",
+      "TW": "堅持30秒！！***"
+    }
   },
   "***Resist 50 s!!***": {
-    "translation": "***防守50秒！！***"
+    "translation": "***防守50秒！！***",
+    "MultiLang": {
+      "US": "***Resist for 50 s!!***",
+      "JP": "***50秒間耐えよ！！***",
+      "CN": "***坚守50秒！！***",
+      "KR": "***50초간 저항하세요!!***",
+      "TW": "***堅持50秒！！***"
+    }
   },
   "***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***": {
-    "translation": "***戒指已经到达末日火山：持戒人必须把戒指扔进火山内***"
+    "translation": "***戒指已经到达末日火山：持戒人必须把戒指扔进火山内***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***リングはマウントドゥームに到達：リングの保持者は火山の中にリングを投げ入れる必要があります***",
+      "CN": "***魔戒已到达末日火山：持有者必须将戒指投入火山中***",
+      "KR": "***반지가 마운트 두ूम에 도달했습니다: 반지 운반자가 반드시 화산 안으로 반지를 던져야 합니다***",
+      "TW": "***魔戒已到達末日火山：持戒者必須將魔戒投入火山之中***"
+    }
   },
   "***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***": {
-    "translation": "***持戒人背叛了我们！进入末日火山并防守40秒！***"
+    "translation": "***持戒人背叛了我们！进入末日火山并防守40秒！***",
+    "MultiLang": {
+      "US": "***The Ring bearer has betrayed us! Get into Mount Doom and defend for 40 seconds!***",
+      "JP": "***リングの持ち主が裏切った！マウント・ドゥームに乗り込み、40秒間防衛せよ！***",
+      "CN": "***戒指携带者背叛了我们！进入末日山，坚守40秒！***",
+      "KR": "***반지 운반자가 우리를 배신했습니다! 도르모크 모운에 탑승하고 40초 동안 방어하십시오!***",
+      "TW": "***戒靈使者背叛了我們！立即登上末日火山，守護40秒！***"
+    }
   },
   "***The Ring has been destroyed! Escape from Mordor!***": {
-    "translation": "***戒指已被摧毁！逃离魔多！***"
+    "translation": "***戒指已被摧毁！逃离魔多！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***リングは破壊された！モルドから脱出せよ！***",
+      "CN": "***魔戒已被摧毁！逃离魔多！***",
+      "KR": "***반지가 파괴되었습니다! 모르도르에서 탈출하십시오!***",
+      "TW": "***魔戒已毀！逃離魔多！***"
+    }
   },
   "***The door is NOW open! Escape from Cirith Ungol!***": {
-    "translation": "***门现在打开了！逃离西力斯昂哥！***"
+    "translation": "***门现在打开了！逃离西力斯昂哥！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアが今、解放された！シール＝ウンゴルから脱出せよ！***",
+      "CN": "***大门现在已打开！从西力斯昂哥突围！***",
+      "KR": "***문이 이제 열렸습니다! 시리운골에서 탈출하십시오!***",
+      "TW": "***門已打開！從西力斯昂哥逃離！***"
+    }
   },
   "***The ring bearer was slaughtered with honor! Escape from Mordor!***": {
-    "translation": "***持戒人光荣地被屠杀了！逃离魔多！***"
+    "translation": "***持戒人光荣地被屠杀了！逃离魔多！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***リングの持ち主は名誉を持って討ち取られた！モルドから脱出せよ！***",
+      "CN": "***戒灵已光荣战死！逃离魔多！***",
+      "KR": "***반지 운반자는 명예롭게 전멸했습니다! 모르도르에서 탈출하십시오!***",
+      "TW": "***持戒者光榮犧牲！逃離魔多！***"
+    }
   },
   "***What are you waiting for?Just let it go!***": {
-    "translation": "***你在等什么？放手吧！***"
+    "translation": "***你在等什么？放手吧！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***何を待っている？さっさとそれを放棄しろ！***",
+      "CN": "***你还等什么？放手吧！***",
+      "KR": "***얼마나 기다리려고요? 그냥 버리세요!***",
+      "TW": "***你还在等什么？快扔了它！***"
+    }
   },
   "**Defend until the others have returned!**": {
-    "translation": "**防守直到其他人回来！**"
+    "translation": "**防守直到其他人回来！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**他の者が戻るまで防衛せよ！**",
+      "CN": "**坚持防守，直到其他人返回！**",
+      "KR": "**다른 이들이 돌아올 때까지 방어하십시오!**",
+      "TW": "**守護直到其他人返回！**"
+    }
   },
   "**Destroy the Ring**": {
-    "translation": "**摧毁戒指**"
+    "translation": "**摧毁戒指**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**リングを破壊する**",
+      "CN": "**摧毁魔戒**",
+      "KR": "**반지 파괴**",
+      "TW": "**摧毀魔戒**"
+    }
   },
   "**Lever pressed! Door will open in 15s**": {
-    "translation": "**杠杆已按下！门将在15秒内打开**"
+    "translation": "**杠杆已按下！门将在15秒内打开**",
+    "MultiLang": {
+      "US": "***Lever pulled! Door will open in 15s***",
+      "JP": "**レバーが押された！15秒後にドアが開きます**",
+      "CN": "**杠杆已按下！大门将在15秒后开启**",
+      "KR": "**레버 작동! 문은 15초 후 열립니다**",
+      "TW": "**槓桿已壓下！門將於15秒後開啟**"
+    }
   },
   "**Nazgul defeated!**": {
-    "translation": "**戒灵被击败！**"
+    "translation": "**戒灵被击败！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ナズグル撃破！",
+      "CN": "戒灵已击败！",
+      "KR": "**나즈굴이 격파되었습니다!**",
+      "TW": "戒靈已被擊敗！"
+    }
   },
   "**Random objective:**": {
-    "translation": "**随机目标：**"
+    "translation": "**随机目标：**",
+    "MultiLang": {
+      "US": "",
+      "JP": "ランダムな目標：",
+      "CN": "随机任务目标：",
+      "KR": "**랜덤 목표:**",
+      "TW": "隨機任務目標："
+    }
   },
   "**Reach the Mount Doom**": {
-    "translation": "**到达末日火山**"
+    "translation": "**到达末日火山**",
+    "MultiLang": {
+      "US": "",
+      "JP": "火山口まで到達",
+      "CN": "抵达末日火山",
+      "KR": "**마운트 도움에 도달하세요**",
+      "TW": "前往末日山"
+    }
   },
   "**The ring carrier must go down to open the door.**": {
-    "translation": "**持戒人必须下去打开门。**"
+    "translation": "**持戒人必须下去打开门。**",
+    "MultiLang": {
+      "US": "",
+      "JP": "指輪の伝承者が降りて扉を開ける必要があります。",
+      "CN": "持戒者必须前往下层以开启大门。",
+      "KR": "**반지를 든 자가 문을 열기 위해 내려가야 합니다.**",
+      "TW": "戒指持有者必須下去才能打開這扇門。"
+    }
   },
   "**The ring has been picked!**": {
-    "translation": "**戒指已被捡起！**"
+    "translation": "**戒指已被捡起！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "指輪が拾われました！",
+      "CN": "魔戒已被拾取！",
+      "KR": "**반지가 획득되었습니다!**",
+      "TW": "已拾取魔戒！"
+    }
   },
   "**There are too many CT ** The second way has been opened! **": {
-    "translation": "**有太多人类 ** 第二条路已经打开！**"
+    "translation": "**有太多人类 ** 第二条路已经打开！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "CTが多すぎます ** 2番目の方法が開かれました！ **",
+      "CN": "CT数量过多 ** 第二条路径已开启！ **",
+      "KR": "CT가 너무 많습니다 ** 두 번째 경로가 열렸습니다! **",
+      "TW": "CT 過多！第二條路線已開啟！"
+    }
   }
 }

@@ -1,131 +1,432 @@
 {
   "<<<Good luck.>>>": {
-    "translation": "<<<祝你好运。>>>"
+    "translation": "<<<祝你好运。>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "幸運を祈る。",
+      "CN": "祝你好运。",
+      "KR": "행운을 빕니다.",
+      "TW": "祝好運。"
+    }
   },
   "<<<No one is more deserving of a rest, all the effort in the world would have gone to waste.>>>": {
-    "translation": "<<<没有人比你们更值得休息，否则整个世界的努力都将白费。>>>"
+    "translation": "<<<没有人比你们更值得休息，否则整个世界的努力都将白费。>>>",
+    "MultiLang": {
+      "US": "No one deserves a break more, all the effort in the world would have gone to waste.",
+      "JP": "休息を必要とする者は誰よりも多く、この世のすべての努力が無駄になることになる。",
+      "CN": "没有人比你更值得休息，所有的努力都不会白费。",
+      "KR": "그 누구보다 휴식이 필요한 분이에요. 그토록 많은 노력이 헛되지 않도록 말이죠.",
+      "TW": "沒人比你更該休息，世上所有的努力都不會白費。"
+    }
   },
   "<<<Rise and shine, Soldiers with burning heart.>>>": {
-    "translation": "<<<剑该出鞘了，怀揣着赤子之心的战士们。>>>"
+    "translation": "<<<剑该出鞘了，怀揣着赤子之心的战士们。>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "燃えるような心を抱く兵士たち、目覚めよ。",
+      "CN": "起床吧，内心炽热的士兵们。",
+      "KR": "일어나라, 뜨거운 마음을 가진 병사들이여.",
+      "TW": "醒來吧，戰士們，心中燃起熱望。"
+    }
   },
   "<<<The right man in the wrong place can make all the difference in the world.>>>": {
-    "translation": "<<<正确的人在错误的地方引起了世界线的变动。>>>"
+    "translation": "<<<正确的人在错误的地方引起了世界线的变动。>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "間違った場所にいる適切な人物が、この世に大きな違いをもたらすことができる。",
+      "CN": "对的人在错的位置也能改变整个世界。",
+      "KR": "잘못된 위치에 있는 올바른 사람이世间의 모든 것을 바꿀 수 있습니다.",
+      "TW": "錯位」的好人，往往能扭轉乾坤。"
+    }
   },
   "<<<Wake up and smell the Ashes.>>>": {
-    "translation": "<<<醒来吧，嗅到灰烬的气息。>>>"
+    "translation": "<<<醒来吧，嗅到灰烬的气息。>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "目を覚まし、灰の香りをかぐのだ。",
+      "CN": "醒来，闻闻灰烬的味道吧。",
+      "KR": "일어나서 재의 향기를 맡아보라.",
+      "TW": "醒來面對現實吧。"
+    }
   },
   "<<<your hour is come again.>>>": {
-    "translation": "<<<变革的时机来临了。>>>"
+    "translation": "<<<变革的时机来临了。>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "あなたの時間が再び訪れた。",
+      "CN": "你的时刻再次到来。",
+      "KR": "그대의 시간이 다시 왔습니다.",
+      "TW": "你的時刻再次到來。"
+    }
   },
   "Bad feelings...": {
-    "translation": "不祥的预感..."
+    "translation": "不祥的预感...",
+    "MultiLang": {
+      "US": "",
+      "JP": "悪い感情...",
+      "CN": "负面情绪……",
+      "KR": "나쁜 기분...",
+      "TW": "負面情緒……"
+    }
   },
   "Bomb will blow up to in 110 sec.": {
-    "translation": "炸弹将在110秒后爆炸。"
+    "translation": "炸弹将在110秒后爆炸。",
+    "MultiLang": {
+      "US": "",
+      "JP": "爆弾は110秒後に破裂します。",
+      "CN": "炸弹将在110秒后爆炸。",
+      "KR": "폭탄이 110초 후에 폭발합니다.",
+      "TW": "炸彈將在110秒後爆炸。"
+    }
   },
   "Break the laser power switch!": {
-    "translation": "打破激光电源开关！"
+    "translation": "打破激光电源开关！",
+    "MultiLang": {
+      "US": "",
+      "JP": "レーザー・パワー・スイッチを破壊しろ!",
+      "CN": "切断激光电源开关！",
+      "KR": "레이저 전원 스위치를 파괴하세요!",
+      "TW": "破壞雷射電源開關！"
+    }
   },
   "DEFEND 70 SECONDS": {
-    "translation": "防守70秒"
+    "translation": "防守70秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "70秒間防衛せよ",
+      "CN": "防守70秒",
+      "KR": "70초간 방어",
+      "TW": "防守 70 秒"
+    }
   },
   "Defend until virus get uploaded": {
-    "translation": "防守直到病毒上传完成"
+    "translation": "防守直到病毒上传完成",
+    "MultiLang": {
+      "US": "",
+      "JP": "ウイルスのアップロード完了まで防衛しろ",
+      "CN": "防守直至病毒上传完成",
+      "KR": "바이러스가 업로드될 때까지 방어",
+      "TW": "防禦直到病毒上傳完成"
+    }
   },
   "Door is opening": {
-    "translation": "门正在打开"
+    "translation": "门正在打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開く",
+      "CN": "门正在开启",
+      "KR": "문이 열립니다",
+      "TW": "門正在開啟"
+    }
   },
   "Door open in 55 sec": {
-    "translation": "门将在55秒后打开"
+    "translation": "门将在55秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "55秒後にドアが開く",
+      "CN": "门将在55秒后开启",
+      "KR": "55초 후 문이 열립니다",
+      "TW": "55 秒後開門"
+    }
   },
   "Find a way to get into the room!": {
-    "translation": "找到进入房间的方法！"
+    "translation": "找到进入房间的方法！",
+    "MultiLang": {
+      "US": "",
+      "JP": "部屋に入る方法を探せ!",
+      "CN": "想办法进入房间！",
+      "KR": "방 안으로 들어가는 방법을 찾으세요!",
+      "TW": "想辦法進入房間！"
+    }
   },
   "Find a way to turn off the gas": {
-    "translation": "找到关闭气体的方法"
+    "translation": "找到关闭气体的方法",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガスの供給を止める方法を見つけよ",
+      "CN": "想办法关闭气体供应",
+      "KR": "가스를 차단하는 방법을 찾으세요",
+      "TW": "想辦法關閉瓦斯"
+    }
   },
   "GET ON THE ELEVATOR": {
-    "translation": "上电梯"
+    "translation": "上电梯",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターに乗れ",
+      "CN": "登上电梯",
+      "KR": "엘리베이터로 오세요",
+      "TW": "登上電梯"
+    }
   },
   "GET ON THE HELICOPTER": {
-    "translation": "上直升机"
+    "translation": "上直升机",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターに乗れ",
+      "CN": "上直升机",
+      "KR": "헬리콥터에 타세요",
+      "TW": "登上直升機"
+    }
   },
   "Gas was turned off..": {
-    "translation": "气体已关闭..."
+    "translation": "气体已关闭...",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガスは停止された。",
+      "CN": "燃气已关闭。",
+      "KR": "가스가 꺼졌습니다.",
+      "TW": "瓦斯已關閉。"
+    }
   },
   "Get in and keep holding until the door is closed!": {
-    "translation": "进入并保持直到门关闭！"
+    "translation": "进入并保持直到门关闭！",
+    "MultiLang": {
+      "US": "",
+      "JP": "中には入って、ドアが閉まるまで持ち続けるんだ！",
+      "CN": "快进去，保持按压直到门关闭！",
+      "KR": "안에 타고 문이 닫힐 때까지 계속 잡고 계세요!",
+      "TW": "快進去，一直緊握直到門關上！"
+    }
   },
   "Get inside !": {
-    "translation": "快进来！"
+    "translation": "快进来！",
+    "MultiLang": {
+      "US": "",
+      "JP": "中へ入りなさい！",
+      "CN": "快进去！",
+      "KR": "안으로 들어오세요!",
+      "TW": "進入！"
+    }
   },
   "Get on the roof!!!": {
-    "translation": "上屋顶！！！"
+    "translation": "上屋顶！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "屋根に乗れ！！！",
+      "CN": "上屋顶！！！",
+      "KR": "지붕에 올라가세요!!!",
+      "TW": "到屋頂上！！！"
+    }
   },
   "Let's get out of here.": {
-    "translation": "让我们离开这里。"
+    "translation": "让我们离开这里。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここから逃げよう。",
+      "CN": "我们离开这里吧。",
+      "KR": "이곳을 빠져나갑시다.",
+      "TW": "我們得離開這裡。"
+    }
   },
   "Objective Rampage - Chapter Fire": {
-    "translation": "行动代号：横空出世-火之心"
+    "translation": "行动代号：横空出世-火之心",
+    "MultiLang": {
+      "US": "",
+      "JP": "目的：暴走 － 第二章火炎",
+      "CN": "目标：破坏 - 章节：火焰",
+      "KR": "목표: 난동 - Chapter Fire",
+      "TW": "任務：破壞狂熱 - 烈焰之章"
+    }
   },
   "Power has been Activated": {
-    "translation": "电源已激活"
+    "translation": "电源已激活",
+    "MultiLang": {
+      "US": "",
+      "JP": "動力が起動された",
+      "CN": "电力已启动。",
+      "KR": "전원이 켜졌습니다.",
+      "TW": "電力已啟動"
+    }
   },
   "Power is OFF": {
-    "translation": "电源关闭"
+    "translation": "电源关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "電源がOFF",
+      "CN": "电源已关闭",
+      "KR": "전원이 꺼짐",
+      "TW": "電力已關閉"
+    }
   },
   "Power will be cut off in a few moments": {
-    "translation": "电源将在几秒钟内切断"
+    "translation": "电源将在几秒钟内切断",
+    "MultiLang": {
+      "US": "",
+      "JP": "まもなく電源が切れます",
+      "CN": "电源将在片刻后切断",
+      "KR": "몇 초 후 전원이 차단됩니다",
+      "TW": "電力將在幾秒後切斷"
+    }
   },
   "Prepare to fight until the end.": {
-    "translation": "准备战斗直到最后。"
+    "translation": "准备战斗直到最后。",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の瞬間まで戦う準備をしろ。",
+      "CN": "准备好战斗至最后一刻。",
+      "KR": "최종 전투에 대비하십시오.",
+      "TW": "準備戰鬥至最後一刻。"
+    }
   },
   "Prepare..": {
-    "translation": "准备.."
+    "translation": "准备..",
+    "MultiLang": {
+      "US": "",
+      "JP": "準備…",
+      "CN": "准备……",
+      "KR": "준비..",
+      "TW": "準備……"
+    }
   },
   "Put the valve on and turn it": {
-    "translation": "把阀门放上去并转动它"
+    "translation": "把阀门放上去并转动它",
+    "MultiLang": {
+      "US": "",
+      "JP": "バルブを取り付けて回せ",
+      "CN": "盖上阀门并将其旋转到位",
+      "KR": "밸브를 장착하고 돌리세요",
+      "TW": "安裝閥門並旋轉它"
+    }
   },
   "RUN": {
-    "translation": "快跑"
+    "translation": "快跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "走れ",
+      "CN": "逃跑",
+      "KR": "RUN",
+      "TW": "奔跑"
+    }
   },
   "Rampage Mode on": {
-    "translation": "Rampage模式开启"
+    "translation": "Rampage模式开启",
+    "MultiLang": {
+      "US": "",
+      "JP": "暴走モードON",
+      "CN": "狂暴模式已开启",
+      "KR": "난타 모드 활성화",
+      "TW": "暴走模式啟動"
+    }
   },
   "Stay inside the room until the zombies outside get teleport!": {
-    "translation": "待在房间里直到外面的僵尸传送！"
+    "translation": "待在房间里直到外面的僵尸传送！",
+    "MultiLang": {
+      "US": "",
+      "JP": "外側のゾンミックがテレポートするまで部屋の中に留まれ",
+      "CN": "待在室内，直到室外的僵尸传送走！",
+      "KR": "실외 전염병이 텔레포트될 때까지 방 안에 머물세요!",
+      "TW": "待在房間內，直到外面的殭屍被傳送！"
+    }
   },
   "The door opening in 15s": {
-    "translation": "门将在15秒后打开"
+    "translation": "门将在15秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが15秒後に開く",
+      "CN": "门将在15秒后开启",
+      "KR": "도어가 15초 후에 열립니다",
+      "TW": "15秒後門將開啟"
+    }
   },
   "The doors opening in 30s": {
-    "translation": "门将在30秒后打开"
+    "translation": "门将在30秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが30秒後に開く",
+      "CN": "大门将在30秒后开启",
+      "KR": "도어가 30초 후에 열립니다",
+      "TW": "30秒後門將開啟"
+    }
   },
   "To be continute...": {
-    "translation": "待续..."
+    "translation": "待续...",
+    "MultiLang": {
+      "US": "",
+      "JP": "続く...",
+      "CN": "欲知后事如何……",
+      "KR": "... 계속됩니다",
+      "TW": "繼續..."
+    }
   },
   "Watch out!": {
-    "translation": "小心！"
+    "translation": "小心！",
+    "MultiLang": {
+      "US": "",
+      "JP": "気をつけて！",
+      "CN": "小心！",
+      "KR": "주의!",
+      "TW": "小心！"
+    }
   },
   "We have to stay here for 80 sec.": {
-    "translation": "我们必须在这里待80秒。"
+    "translation": "我们必须在这里待80秒。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここにいるために80秒かかる",
+      "CN": "我们必须在此停留80秒。",
+      "KR": "우리는 여기에서 80초를 머물러야 합니다.",
+      "TW": "我們必須在這裡待80秒。"
+    }
   },
   "We need to hack the computer and upload the virus!": {
-    "translation": "我们需要黑进电脑并上传病毒！"
+    "translation": "我们需要黑进电脑并上传病毒！",
+    "MultiLang": {
+      "US": "",
+      "JP": "コンピュータをハックしてウイルスをアップロードする必要があります！",
+      "CN": "我们需要黑入电脑并上传病毒！",
+      "KR": "컴퓨터를 해킹하고 바이러스를 업로드해야 합니다!",
+      "TW": "我們需要駭入電腦並上傳病毒！"
+    }
   },
   "We need to turn on the light power..": {
-    "translation": "我们需要打开灯光电源.."
+    "translation": "我们需要打开灯光电源..",
+    "MultiLang": {
+      "US": "",
+      "JP": "ライトの電源を入れる必要があります…",
+      "CN": "我们需要开启电力供应。",
+      "KR": "전원 장치를 켜야 합니다...",
+      "TW": "我們需要開啟燈光電源……"
+    }
   },
   "We only could stay for 115 sec": {
-    "translation": "我们只能待115秒"
+    "translation": "我们只能待115秒",
+    "MultiLang": {
+      "US": "We could only stay for 115 sec",
+      "JP": "115秒しか滞在できません",
+      "CN": "我们只能在此停留115秒。",
+      "KR": "우리는 단지 115초만 머물 수 있습니다",
+      "TW": "我們只能待115秒"
+    }
   },
   "Zombie triggered,we have fail.": {
-    "translation": "僵尸触发开关，我们失败了。"
+    "translation": "僵尸触发开关，我们失败了。",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが出現した、失敗だ。",
+      "CN": "僵尸触发了，我们失败了。",
+      "KR": "좀비가 발동했습니다. 실패했습니다.",
+      "TW": "殭屍觸發，我們失敗了。"
+    }
   },
   "we need to turn on the stovepipe to break a way!": {
-    "translation": "我们需要打开烟囱以打破出路！"
+    "translation": "我们需要打开烟囱以打破出路！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ストーブパイプを起動して道を開けなければ！",
+      "CN": "我们需要打开烟道才能杀出一条路！",
+      "KR": "굴뚝을 켜서 길을 뚫어야 합니다!",
+      "TW": "我們需要開啟煙囪來開出一條生路！"
+    }
   },
   "we still alive..": {
-    "translation": "我们还活着.."
+    "translation": "我们还活着..",
+    "MultiLang": {
+      "US": "",
+      "JP": "まだ生きている…",
+      "CN": "我们还活着……",
+      "KR": "우리는 살아있다...",
+      "TW": "我們還活著……"
+    }
   }
 }

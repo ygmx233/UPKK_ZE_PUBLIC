@@ -1,50 +1,162 @@
 {
   "***Elevator doors open***": {
-    "translation": "***电梯门打开***"
+    "translation": "***电梯门打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エレベーターの扉が開く***",
+      "CN": "***电梯门打开***",
+      "KR": "***엘리베이터 문이 열립니다***",
+      "TW": "***電梯門開啟***"
+    }
   },
   "***HOLD UNTIL DOOR CLOSES!!!***": {
-    "translation": "***坚持到门关上！！！***"
+    "translation": "***防守到门关！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***扉が閉じるまで押し続ける！！！**",
+      "CN": "***按住直到门关闭！***",
+      "KR": "***문闭合까지 유지!!!***",
+      "TW": "***直到門關閉前請保持按住!!!***"
+    }
   },
   "***Humans reached the vent thingies***": {
-    "translation": "***人类到达了通风口***"
+    "translation": "***人类到达了通风口***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***人間が換気口の方へ到達***",
+      "CN": "***人类到达通风口装置***",
+      "KR": "인간이 환기구 구멍에 도달했습니다***",
+      "TW": "***人類已到達通風口裝置***"
+    }
   },
   "***LAST DOOR!!! HOLD 1 MINUTE!***": {
-    "translation": "***最后一扇门！！！防守60秒！***"
+    "translation": "***这是最后一扇门！！！防守60秒！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***最後の扉！！！ 1分間押し続ける！***",
+      "CN": "***最后一扇门！坚持1分钟！***",
+      "KR": "***마지막 문!!! 1분간 유지!***",
+      "TW": "最後一扇門！請保持按住 1 分鐘！***"
+    }
   },
   "***NUKE LAUNCHED!!!***": {
-    "translation": "***核弹发射！！！***"
+    "translation": "***核弹发射！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***核ミサイル発射！！！**",
+      "CN": "***核弹发射！***",
+      "KR": "핵미사일 발사!!!***",
+      "TW": "***核彈已發射!!!***"
+    }
   },
   "***Once someone makes the climb the elevator will be accessible!***": {
-    "translation": "***一旦有人爬上电梯就可以使用！***"
+    "translation": "***一旦有人爬到顶部，电梯就可以使用！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***誰かが登頂すると、エレベーターが利用可能になる！***",
+      "CN": "***有人成功攀爬后电梯将恢复使用！***",
+      "KR": "누군가 등반을 완료하면 엘리베이터가 작동합니다!***",
+      "TW": "***一旦有人完成攀爬，電梯即可使用！***"
+    }
   },
   "***Someone must make a climb!***": {
-    "translation": "***必须有人爬上去！***"
+    "translation": "***必须有人爬上去！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***誰かが登らなければならない！***",
+      "CN": "***必须有人进行攀爬！***",
+      "KR": "누군가가 등반해야 합니다!***",
+      "TW": "***必須有人進行攀爬！***"
+    }
   },
   "***Someone reached the top of the climb***": {
-    "translation": "***有人到达了顶部***"
+    "translation": "***有人到达了顶部***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***誰かが登頂点に到達***",
+      "CN": "***有人成功到达攀爬点顶部***",
+      "KR": "***누군가 등반의 정상을 도달했습니다***",
+      "TW": "***有人已抵達攀爬頂端***"
+    }
   },
   "***Wait 40 seconds***": {
-    "translation": "***等待40秒***"
+    "translation": "***等待40秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***40秒待機してください***",
+      "CN": "***等待40秒***",
+      "KR": "***40초 동안 기다리세요***",
+      "TW": "***等待 40 秒***"
+    }
   },
   "**Door to Tunnels opens in 15 seconds!**": {
-    "translation": "**隧道门15秒后打开！**"
+    "translation": "**隧道门15秒后打开！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**洞窟への扉が15秒後に開きます！**",
+      "CN": "**通往隧道的门将在15秒后开启！**",
+      "KR": "**터널로 향하는 문이 15초 후에 열립니다!**",
+      "TW": "**隧道入口 15 秒後開啟！**"
+    }
   },
   "**Hold for 30 seconds!**": {
-    "translation": "**防守30秒！**"
+    "translation": "**防守30秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**30秒間保持してください！**",
+      "CN": "**坚持30秒！**",
+      "KR": "**30초 동안 유지하세요!**",
+      "TW": "**堅持 30 秒！**"
+    }
   },
   "**Humans have reached the mine field!**": {
-    "translation": "**人类到达了雷区！**"
+    "translation": "**人类到达了雷区！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**人類が鉱山地帯に到達しました！**",
+      "CN": "**人类已到达雷区！**",
+      "KR": "인간이 광산 지역에 도착했습니다!",
+      "TW": "人類的到達地雷區！**"
+    }
   },
   "**Map by TheIceTiger!**": {
-    "translation": "**地图作者：TheIceTiger! 翻译：Ayanami♪**"
+    "translation": "**地图作者：TheIceTiger! 翻译：Ayanami♪**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**マップ制作：TheIceTiger氏**",
+      "CN": "**地图由TheIceTiger制作！**",
+      "KR": "**지도 제작: TheIceTiger!**",
+      "TW": "**圖由 TheIceTiger 製作**"
+    }
   },
   "**RUN!!**": {
-    "translation": "**快跑！！**"
+    "translation": "**快跑！！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**逃げるんだ！！**",
+      "CN": "**快跑！！**",
+      "KR": "**도주!!**",
+      "TW": "**快跑！！**"
+    }
   },
   "**RUN!**": {
-    "translation": "**快跑！**"
+    "translation": "**快跑！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**逃げる！**",
+      "CN": "**快跑！**",
+      "KR": "**도주!**",
+      "TW": "**快跑！**"
+    }
   },
   "**Survive for 25 seconds!**": {
-    "translation": "**存活25秒！**"
+    "translation": "**存活25秒！**",
+    "MultiLang": {
+      "US": "",
+      "JP": "**25秒間生き残りましょう！**",
+      "CN": "**坚持25秒！**",
+      "KR": "**25초 동안 생존하세요!**",
+      "TW": "**堅持 25 秒！**"
+    }
   }
 }

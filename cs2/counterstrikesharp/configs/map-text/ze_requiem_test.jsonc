@@ -1,127 +1,432 @@
 {
   "< ze_Requiem >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< ACT 1 : 罪厅 >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "ACT 1: Hall of Sin",
+      "JP": "ACT 1 : 罪廳",
+      "CN": "",
+      "KR": "< ACT 1 : 죄청 >",
+      "TW": "< ACT 1 : 罪廳 >"
+    }
   },
   "< Map by @Seth >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "< 地図由@Seth 制作 >",
+      "CN": "< 地图由@Seth 制作 >",
+      "KR": "< 맵由 @Seth >",
+      "TW": "< 圖譜由 @Seth 制作 >"
+    }
   },
   "< 地图作者 @Seth. >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Map Author @Seth.",
+      "JP": "地図作者 @Seth.",
+      "CN": "",
+      "KR": "지도 저작자 @Seth.",
+      "TW": "地圖作者 @Seth."
+    }
   },
   "...": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "【BeginTranslation】",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": "【開始翻譯】"
+    }
   },
   "此非汝等血肉之躯接近的地方.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "This is no place for mortal flesh to tread.",
+      "JP": "ここは貴様の血肉の体が続けられる場所ではない",
+      "CN": "此非汝等血肉之躯可近之地.",
+      "KR": "여기는 귀하의 육체가 가까이할 곳이 아닙니다.",
+      "TW": "此地非你等血肉之軀可輕易涉足之處。"
+    }
   },
   "回头吧.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Turn back.",
+      "JP": "引き返せ",
+      "CN": "",
+      "KR": "돌아가시오.",
+      "TW": "回去吧。"
+    }
   },
   "..还是说，你和其他人一样.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "..Or do you, like the others,",
+      "JP": "……それとも、他の者と同じだ？",
+      "CN": "",
+      "KR": "..아니면, 당신도 다른 이들과 같습니까?",
+      "TW": "..還是說，你也和那些人一樣。"
+    }
   },
   "饱受罪孽,悔恨,痛苦的折磨.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Crushed by sin, regret, and anguish.",
+      "JP": "罪孽、悔恨、苦悩に苛まれた",
+      "CN": "",
+      "KR": "죄업, 회한, 고통에 시달리다.",
+      "TW": "深受罪孽、悔恨與痛苦的煎熬。"
+    }
   },
   "踏入炼狱,渴望获得救赎？..": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Step into Purgatory, seeking redemption?..",
+      "JP": "煉獄に足を踏み入れ、救済を渇望したか？……",
+      "CN": "",
+      "KR": "연옥으로 뛰어들어 구원을 갈구하십니까?..",
+      "TW": "踏入煉獄，渴望獲得救贖？.."
+    }
   },
   "> 逝者的太刀: 正面按E斩出剑气定身僵尸5秒,60秒CD. <": {
     "translation": "> 逝者的太刀: 正面按E斩出剑气定身僵尸5秒,60秒CD. <",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "> Deceased's Katana: Press E to unleash a sword energy slash, immobilizing the zombie for 5 seconds. 60-second cooldown. <",
+      "JP": "> 亡者の太刀: Aキー（正面）で気剣を斬り出し、僵尸を5秒間硬直させる。クールタイムは60秒。",
+      "CN": "> 逝者的太刀: 正面按E斩出剑气定身僵尸5秒,60秒CD. <",
+      "KR": ">逝去자의 다도: 정면 E 누르면 기예를 발사해 좀비를 5초간 정지, 60초 쿨다운.<",
+      "TW": "> 逝者的太刀：正面按E斬出劍氣定身殭屍5秒，60秒冷卻時間。<"
+    }
   },
   "< 15 >": {
-    "translation": "< 15s >"
+    "translation": "< 15s >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "< 5 >": {
-    "translation": "< 5s >"
+    "translation": "< 5s >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "你真的相信救赎吗.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Do you truly believe in redemption?",
+      "JP": "本当に救済を信じるのか",
+      "CN": "",
+      "KR": "정말 구원을 믿습니까?",
+      "TW": "你真的相信救贖嗎。"
+    }
   },
   "或许,前方等待你的,会是更大的痛楚？..": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Perhaps, awaiting you ahead is a greater torment?..",
+      "JP": "おそらく、その先に待つのは……より大きな苦痛だ？……",
+      "CN": "",
+      "KR": "아마도, 앞서 기다리고 있는 것은 더 큰 고통일지도 모릅니다?..",
+      "TW": "或許，前方等待你的，會是更深的痛楚？.."
+    }
   },
   "< 20 >": {
-    "translation": "< 20s >"
+    "translation": "< 20s >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "那么,但愿你做好了觉悟.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Then, I hope you are prepared.",
+      "JP": "では、覚悟していろ。",
+      "CN": "",
+      "KR": "좋아, 각오 단단히 해라.",
+      "TW": "那麼，但願你做好了覺悟。"
+    }
   },
   "去面对由你的意识形成的阻碍.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Face the obstacles formed by your consciousness.",
+      "JP": "お前の意識が作り出した障害に向き合え。",
+      "CN": "面对由你意识形成的空间阻碍。",
+      "KR": "네 의식이 만들어낸 장벽에 맞서라.",
+      "TW": "去面對由你的意識形成的障礙。"
+    }
   },
   "给我记好了,人类...": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Remember this, humans...",
+      "JP": "覚えていろ、人類……",
+      "CN": "",
+      "KR": "기억해두어라, 인간들이여...",
+      "TW": "給我記好了，人類……"
+    }
   },
   "所有的奇迹,都需要牺牲.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "All miracles require sacrifice.",
+      "JP": "すべての奇跡には、犠牲が必要だ。",
+      "CN": "所有奇迹，都需要 sacrifice.",
+      "KR": "모든 기적은 대가를 치른다.",
+      "TW": "所有的奇蹟，都需要犧牲。"
+    }
   },
   "去意已决呢,": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "If you are determined,",
+      "JP": "覚悟は決まったのか？",
+      "CN": "",
+      "KR": "결심했군.",
+      "TW": "去意已決呢，"
+    }
   },
   "那么,让我们继续吧.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Then, let us continue.",
+      "JP": "では、続けよう。",
+      "CN": "",
+      "KR": "좋아, 계속하자.",
+      "TW": "那麼，讓我們繼續吧。"
+    }
   },
   "< ACT 2 : 霓渊 >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "[ACT 2: Niyuan]",
+      "JP": "ACT 2 : 霓淵",
+      "CN": "第2章：霓渊",
+      "KR": "< ACT 2 : 릅연 >",
+      "TW": "< ACT 2 : 霓淵 >"
+    }
   },
   "< 10 >": {
-    "translation": "< 10s >"
+    "translation": "< 10s >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "> 虹锥: 放置棱锥阻挡僵尸5秒,60秒CD. <": {
     "translation": "> 虹锥: 放置棱锥阻挡僵尸5秒,60秒CD. <",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "> Rainbow Cone: Place a cone to block zombies for 5 seconds, 60s cooldown. <",
+      "JP": "> レインボーコーン: ゾンビを5秒間封じる。クールダウン60秒。 <",
+      "CN": "> 虹锥: 放置棱锥阻挡僵尸5秒,60秒CD. <",
+      "KR": "> 홍색 콘: 진자 방해를 5초간 차단, 재사용 대기시간 60초. <",
+      "TW": "> 虹錐：放置棱錐阻擋殭屍5秒，60秒冷卻時間。<"
+    }
   },
   "< 就凭这个...也想得到救赎吗? >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "< Just with this...do you also want redemption? >",
+      "JP": "< これだけで…redeemedになる打算か？ >",
+      "CN": "< 就凭这个...也想获得赎罪吗? >",
+      "KR": "< 이걸로...'구원'을 얻으려는 거야?>",
+      "TW": "< 就憑這個...也想獲得救贖嗎? >"
+    }
   },
   "< 抬头看看吧,向我证明... >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Look up and see for yourself...",
+      "JP": "頭を上げて見よ、私に証明してみ给我看点。",
+      "CN": "",
+      "KR": "머리UP해서 봐, 나에게 증명해...",
+      "TW": "抬头看看吧，向我證明..."
+    }
   },
   "< ..证明你的资格. >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "< ..Prove your worth. >",
+      "JP": "< ..資格を証明せよ. >",
+      "CN": "",
+      "KR": "< .. 자격을 입증해보세요. >",
+      "TW": "< ..證明你的資格. >"
+    }
   },
   "...她说的没错..": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "...she was right..",
+      "JP": "...彼女の言った通りだ……",
+      "CN": "她说得没错..",
+      "KR": "...그게 맞다...",
+      "TW": "...她說的沒錯.."
+    }
   },
   "你确实是个很特殊的人..": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "You really are a unique person...",
+      "JP": "あなたは本当に特別な人だ...",
+      "CN": "",
+      "KR": "정말 특별한 사람이네요..",
+      "TW": "你確實是個很特殊的人……"
+    }
   },
   "未完待续.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "To be continued.",
+      "JP": "続く",
+      "CN": "",
+      "KR": "계속됨.",
+      "TW": "待續。"
+    }
   },
   "to be continued.": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "続く",
+      "CN": "待续。",
+      "KR": "계속됨.",
+      "TW": "持續中。"
+    }
   },
   "> RTV A <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> RTV A <",
+      "CN": "> RTV A <",
+      "KR": "> RTV A <",
+      "TW": "> RTV A <"
+    }
   },
   "> 拥抱虚空 <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "> Embrace the Void <",
+      "JP": "> 虚空を抱け <",
+      "CN": "拥抱虚无 >",
+      "KR": ">虚空을 안아라 <",
+      "TW": "> 擁抱虛空 <"
+    }
   },
   "< 恭喜你击败了RTV A. >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "congrats on beating RTV A.",
+      "JP": "＜おめでとうございます。RTV Aを倒しました。＞",
+      "CN": "",
+      "KR": "< 축하합니다. RTV A를 이겼습니다. >",
+      "TW": "恭喜你擊敗了RTV A."
+    }
   },
   "< 你的显卡一定承担了不少. >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Your GPU must be working hard.",
+      "JP": "あなたのグラフィックスカードは大変だ likely承谟了，原文应为：あなたのグラフィックスカードはきっと大変だった。",
+      "CN": "",
+      "KR": "당신의 그래픽 카드는 많이 부담이었을 거예요.",
+      "TW": "你的顯卡1定承擔了不少."
+    }
   },
   "< 休息下吧. >": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "< Rest for a while. >",
+      "JP": "",
+      "CN": "",
+      "KR": "< 잠시 쉬어가세요. >",
+      "TW": ""
+    }
   },
   "really?": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "本当に？",
+      "CN": "真的？",
+      "KR": "정말요?",
+      "TW": "真的嗎？"
+    }
   },
   "触发也太慢了吧哥们": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Man, your triggers are way too slow.",
+      "JP": "トラップの速度が遅すぎるよ、哥们",
+      "CN": "触发也太慢了吧兄弟",
+      "KR": "트리거가 너무 느려요, 형",
+      "TW": "觸發也太慢了吧，老兄。"
+    }
   },
   "slowwwwwwwwwwww": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "遅すぎwwwwwwwwwww",
+      "CN": "太慢了wwwwwwwwwww",
+      "KR": "느릿느릿www",
+      "TW": "太——慢——了——"
+    }
   },
   "> ACT 2 SET BY ADMIN. <": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 管理者設定されたACT2。<",
+      "CN": "> ACT 2 由管理员设置。 <",
+      "KR": "> ACT 2 설정由管理员. <",
+      "TW": "> 第二關由管理員設定。<"
+    }
+  },
+  "我靠 你是真的弹幕高手.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn, you're a real boss with those bullets.",
+      "JP": "やばい、君は本当に弾幕マスターだ。",
+      "CN": "",
+      "KR": "와, 진짜 대댓글 고수야.",
+      "TW": "我靠，你是真的彈幕高手。"
+    }
+  },
+  "可惜这是训练模式 拜拜您嘞.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Too bad this is training mode. See ya later.",
+      "JP": "残念、これは訓練モードだからね。さようなら。",
+      "CN": "",
+      "KR": "아쉬워도 이건 훈련 모드야. 안녕히 가세요.",
+      "TW": "可惜這是訓練模式，再見您嘞。"
+    }
   }
 }

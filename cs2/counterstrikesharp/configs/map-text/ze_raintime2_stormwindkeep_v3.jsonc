@@ -1,434 +1,1472 @@
 {
   " **  20s door open **": {
-    "translation": "***20秒后门打开***"
+    "translation": "***20秒后门打开***",
+    "MultiLang": {
+      "US": "*** 20s Door Open ***",
+      "JP": "** 20秒後、扉が開く **",
+      "CN": "20秒后门打开",
+      "KR": "** 20초 후 문 열림 **",
+      "TW": "** 20秒後打開門 **"
+    }
   },
   " ** 30s **": {
-    "translation": "***30秒***"
+    "translation": "***30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒後 **",
+      "CN": "30秒",
+      "KR": "** 30초 **",
+      "TW": "** 30秒 **"
+    }
   },
   " ** After 30 seconds, open the wooden door and activate the final transmission **": {
-    "translation": "***在30秒后打开木门并激活最终传送***"
+    "translation": "***在30秒后打开木门并激活最终传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒後に木製の扉を開き、最終送信を起動する **",
+      "CN": "30秒后打开木门并启动最终传输",
+      "KR": "** 30초 후 목재를 열고 최종 전송 활성화 **",
+      "TW": "** 30秒後打開木門並啟動最後的傳輸 **"
+    }
   },
   " ** Break the small door, please wait **": {
-    "translation": "***打破小门，请稍候***"
+    "translation": "***打破小门，请稍候***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 小さな扉を壊します。お待ちください **",
+      "CN": "正在打破小门，请稍候",
+      "KR": "** 작은 문을 부수세요, 잠시 기다려 주세요 **",
+      "TW": "** 打破小門，請稍等 **"
+    }
   },
   " ** Hold for 15 seconds **": {
-    "translation": "***防守15秒***"
+    "translation": "***防守15秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒間押す **",
+      "CN": "保持15秒",
+      "KR": "** 15초 동안 유지 **",
+      "TW": "** 按住15秒 **"
+    }
   },
   " ** Please wait 30 seconds **": {
-    "translation": "***请等待30秒***"
+    "translation": "***请等待30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒お待ちください **",
+      "CN": "请等待30秒",
+      "KR": "** 30초간 기다려 주세요 **",
+      "TW": "** 請稍等30秒 **"
+    }
   },
   " ** Resist zombies for 30 seconds **": {
-    "translation": "***抵挡僵尸30秒***"
+    "translation": "***抵挡僵尸30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビに30秒間耐える **",
+      "CN": "抵抗僵尸30秒",
+      "KR": "** 30초 동안 좀비 저항 **",
+      "TW": "** 抵擋殭屍30秒 **"
+    }
   },
   " ** Retreat, find the next route, watch out for zombies **": {
-    "translation": "***撤退，寻找下一条路线，小心僵尸***"
+    "translation": "***撤退，寻找下一条路线，小心僵尸***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 撤退し、次のルートを探せ。ゾンビに注意 **",
+      "CN": "撤退，寻找下一条路线，小心僵尸",
+      "KR": "** 후퇴하여 다음 경로 찾기, 좀비에 주의 **",
+      "TW": "** 撤退，尋找下一條路線，小心殭屍 **"
+    }
   },
   " ** Route change, drag the zombie for 30 seconds **": {
-    "translation": "***路线改变，拖住僵尸30秒***"
+    "translation": "***路线改变，拖住僵尸30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルート変更、ゾンビを30秒間引きずる",
+      "CN": "** 路径变更，拖拽僵尸30秒 **",
+      "KR": "** 거리 변경, 좀비를 30초간 끌고 가기 **",
+      "TW": "** 路線變更，拖行殭屍 30 秒 **"
+    }
   },
   " ** The door is closed, there is no way out! **": {
-    "translation": "***门已关闭，无法逃脱！***"
+    "translation": "***门已关闭，无法逃脱！***",
+    "MultiLang": {
+      "US": "**The door is closed, no way out!**",
+      "JP": "扉は閉まっている、出口がない！",
+      "CN": "** 门已关闭，无路可逃！**",
+      "KR": "** 문이 닫혀 있습니다. 탈출구가 없습니다! **",
+      "TW": "** 門已關閉，沒有出路！ **"
+    }
   },
   " ** The gate is open. Retreat **": {
-    "translation": "***大门已打开。撤退***"
+    "translation": "***大门已打开。撤退***",
+    "MultiLang": {
+      "US": "",
+      "JP": "門が開いている。退却する",
+      "CN": "** 闸门开启。撤退 **",
+      "KR": "** 대문이 열렸습니다. 후퇴하세요.",
+      "TW": "** 門已開啟。撤退 **"
+    }
   },
   " ** The road is open. Let's go **": {
-    "translation": "***道路已开放。走吧***"
+    "translation": "***道路已开放。走吧***",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が開けた。行こう",
+      "CN": "** 道路畅通。出发吧 **",
+      "KR": "** 길은 열렸습니다. 갑시다 **",
+      "TW": "** 道路已開通。我們出發吧 **"
+    }
   },
   " ** The transmitter has 15 seconds to trigger **": {
-    "translation": "***传送器15秒***"
+    "translation": "***传送器15秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "送信機は15秒後に作動する",
+      "CN": "** 发射器将在15秒后触发 **",
+      "KR": "** 송신기가 15초 내에 작동합니다.**",
+      "TW": "** 發射器有 15 秒觸發時間 **"
+    }
   },
   " ** Well done, defend the window for 15 seconds **": {
-    "translation": "***做得好，防守窗户15秒***"
+    "translation": "***做得好，防守窗户15秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやった、窓を15秒間防衛する",
+      "CN": "** 做得好，守住窗户15秒 **",
+      "KR": "** 훌륭합니다, 창문을 15초 동안 방어하세요.**",
+      "TW": "** 做得好，守衛窗口 15 秒 **"
+    }
   },
   " **10s**": {
-    "translation": "***10秒***"
+    "translation": "***10秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒",
+      "CN": "**10秒**",
+      "KR": "**10초**",
+      "TW": "** 10秒 **"
+    }
   },
   "** 15s **": {
-    "translation": "***15秒***"
+    "translation": "***15秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒",
+      "CN": "** 15秒 **",
+      "KR": "** 15초 **",
+      "TW": "** 15秒 **"
+    }
   },
   "** 20s **": {
-    "translation": "***20秒***"
+    "translation": "***20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "20代",
+      "CN": "** 20年代**",
+      "KR": "** 20대 **",
+      "TW": "** 20年代 **"
+    }
   },
   "** 250s **": {
-    "translation": "***250秒***"
+    "translation": "***250秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "250秒",
+      "CN": "** 250秒**",
+      "KR": "** 250초 **",
+      "TW": "** 250秒 **"
+    }
   },
   "** 25s **": {
-    "translation": "***25秒***"
+    "translation": "***25秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒",
+      "CN": "** 25秒**",
+      "KR": "** 25초 **",
+      "TW": "** 25歲 **"
+    }
   },
   "** 30s **": {
-    "translation": "***30秒***"
+    "translation": "***30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "30代",
+      "CN": "** 30年代**",
+      "KR": "** 30대 **",
+      "TW": "** 30秒 **"
+    }
   },
   "** 35s **": {
-    "translation": "***35秒***"
+    "translation": "***35秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒",
+      "CN": "** 35秒**",
+      "KR": "** 35초 **",
+      "TW": "** 35歲 **"
+    }
   },
   "** 3s **": {
-    "translation": "***3秒***"
+    "translation": "***3秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "3秒",
+      "CN": "** 3秒**",
+      "KR": "** 3초 **",
+      "TW": "** 3秒 **"
+    }
   },
   "** 40 **": {
-    "translation": "***40秒***"
+    "translation": "***40秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "***40秒***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** ??????30s???????????? **": {
-    "translation": "***??????30秒????????????***"
+    "translation": "***??????30秒????????????***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ??????30秒後???????? **",
+      "CN": "** ??????30年代???????????? **",
+      "KR": "** ??????30s???????????? **",
+      "TW": "** ??????30年代???????????? **"
+    }
   },
   "** A player picked up the Divine power **": {
-    "translation": "***一名玩家拾取了终极***"
+    "translation": "***一名玩家拾取了终极***",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが神聖な力を受け取った",
+      "CN": "一名玩家拾取了神力",
+      "KR": "플레이어가 신성한 힘을 얻었습니다.",
+      "TW": "一名玩家拾取了神聖力量"
+    }
   },
   "** A player picked up the Frozen **": {
-    "translation": "***一名玩家拾取了冰***"
+    "translation": "***一名玩家拾取了冰***",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが凍結アイテムを拾った",
+      "CN": "**一名玩家拾取了寒冰**",
+      "KR": "** 플레이어가 얼음을 주웠습니다 **",
+      "TW": "** 一名玩家拾取了冰霜 **"
+    }
   },
   "** A player picked up the poison **": {
-    "translation": "***一名玩家拾取了毒***"
+    "translation": "***一名玩家拾取了毒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが毒アイテムを拾った",
+      "CN": "**一名玩家拾取了毒药**",
+      "KR": "** 플레이어가 독약을 주웠습니다 **",
+      "TW": "** 一名玩家拾取了毒物 **"
+    }
   },
   "** A player picked up the zombie health **": {
-    "translation": "***一名玩家拾取了僵尸奶***"
+    "translation": "***一名玩家拾取了僵尸奶***",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがゾンビの体力アイテムを拾った",
+      "CN": "**一名玩家拾取了僵尸回血道具**",
+      "KR": "** 플레이어가 좀비 체력을 주웠습니다 **",
+      "TW": "** 一名玩家拾取了喪屍醫療包 **"
+    }
   },
   "** About to open the iron door on the top floor **": {
-    "translation": "***顶楼的铁门即将打开***"
+    "translation": "***顶楼的铁门即将打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "屋上の鉄扉を開こうとしている",
+      "CN": "**即将打开顶层的铁门**",
+      "KR": "** 상위층의 철문을 열려고 합니다 **",
+      "TW": "** 即將開啟頂層的鐵門 **"
+    }
   },
   "** Anyway, we must get out of here as soon as possible! **": {
-    "translation": "***不管怎样，我们必须尽快离开这里！***"
+    "translation": "***不管怎样，我们必须尽快离开这里！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "とにかく、一刻も早くここから抜け出さなければ！",
+      "CN": "**不管怎样，我们必须尽快离开这里！**",
+      "KR": "** 아무튼, 우리는 최대한 빨리 여기서 벗어나야 합니다! **",
+      "TW": "** 總之，我們必須盡快離開這裡！ **"
+    }
   },
   "** Boss released the earthquake **'": {
-    "translation": "***Boss释放了地震***"
+    "translation": "***Boss释放了地震***",
+    "MultiLang": {
+      "US": "*** Boss triggered the earthquake ***",
+      "JP": "ボスが地震を引き起こした",
+      "CN": "**Boss释放了地震效果**",
+      "KR": "** 보스가 지진을 발생시켰습니다 **",
+      "TW": "** Boss釋放了地震 **"
+    }
   },
   "** Boss released the laser **": {
-    "translation": "***Boss释放了跳刀***"
+    "translation": "***Boss释放了跳刀***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスがレーザーを発射した",
+      "CN": "**Boss释放了激光**",
+      "KR": "** 보스가 레이저를 발사했습니다 **",
+      "TW": "** Boss釋放了激光 **"
+    }
   },
   "** Boss released the lightning **": {
-    "translation": "***Boss释放了电***"
+    "translation": "***Boss释放了电***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボスが雷撃を放った",
+      "CN": "**Boss释放了闪电**",
+      "KR": "** 보스가 번개를 호출했습니다 **",
+      "TW": "** Boss釋放了閃電 **"
+    }
   },
   "** Boss releases the black hole **": {
-    "translation": "***Boss释放了黑洞***"
+    "translation": "***Boss释放了黑洞***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボスがブラックホールを解放する **",
+      "CN": "** Boss 释放黑洞 **",
+      "KR": "**보스가 블랙홀을 생성함**",
+      "TW": "** Boss釋放黑洞 **"
+    }
   },
   "** Boss releases the blade of hell **": {
-    "translation": "***Boss释放了地狱之刃***"
+    "translation": "***Boss释放了地狱之刃***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボスが地獄の刃を解放する **",
+      "CN": "** Boss 释放地狱之刃 **",
+      "KR": "**보스가 지옥의 날카로운 칼날을 생성함**",
+      "TW": "** Boss釋放地獄之刃 **"
+    }
   },
   "** Boss uses Yangyan to attack **": {
-    "translation": "***Boss使用阳炎冲击***"
+    "translation": "***Boss使用阳炎冲击***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ボスが陽炎攻撃を使用 **",
+      "CN": "** Boss 使用炎狱攻击 **",
+      "KR": "**보스가 양염(양연)을 사용하여 공격함**",
+      "TW": "** Boss使用陽炎攻擊 **"
+    }
   },
   "** Break the wooden door after 40 seconds **": {
-    "translation": "***40秒后打破木门***"
+    "translation": "***40秒后打破木门***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 40秒後に木製ドアを破壊 **",
+      "CN": "** 40秒后击破木门 **",
+      "KR": "**40초 후 나무 문을 부수세요**",
+      "TW": "** 40秒後破壞木門 **"
+    }
   },
   "** Call of the dead **": {
-    "translation": "***死者的呼唤***"
+    "translation": "***死者的呼唤***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 死者の呼びかけ **",
+      "CN": "** 亡者召唤 **",
+      "KR": "**죽은 자들의 호출**",
+      "TW": "** 死者的呼喚 **"
+    }
   },
   "** Defend for 20 seconds and wait for the event to occur **": {
-    "translation": "***防守20秒并等待事件发生***"
+    "translation": "***防守20秒并等待事件发生***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒間防衛し、イベント発生を待つ **",
+      "CN": "** 防御20秒并等待事件发生 **",
+      "KR": "**20초간 방어하고 이벤트가 발생할 때까지 기다리세요**",
+      "TW": "** 防禦20秒並等待事件發生 **"
+    }
   },
   "** Defend zombies for 20 seconds **": {
-    "translation": "***防守僵尸20秒***"
+    "translation": "***防守僵尸20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゾンビに20秒間防衛させる **",
+      "CN": "** 防御僵尸20秒 **",
+      "KR": "**좀비를 20초간 방어하세요**",
+      "TW": "** 防禦殭屍20秒 **"
+    }
   },
   "** Defend zombies for 20 seconds and wait for the door to open **": {
-    "translation": "***防守僵尸20秒并等待门打开***"
+    "translation": "***防守僵尸20秒并等待门打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒間ゾンビを防衛し、ドアが開くのを待つ **",
+      "CN": "** 防御僵尸20秒并等待城门打开 **",
+      "KR": "**좀비를 20초간 방어하고 문이 열릴 때까지 기다리세요**",
+      "TW": "** 防禦殭屍20秒並等待門打開 **"
+    }
   },
   "** Don't let zombies break through the line of defense. Wait for the gate to close **": {
-    "translation": "***不要让僵尸突破防线。等门关闭***"
+    "translation": "***不要让僵尸突破防线。等门关闭***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビに防衛ラインを突破させないで。ゲートが閉じるのを待ってください",
+      "CN": "不要让僵尸突破防线。等待城门关闭",
+      "KR": "** 좀비들이 방어선을 돌파하지 못하게 하세요. 문이 닫히기를 기다리세요 **",
+      "TW": "** 別讓喪屍突破防線。等待城門關閉 **"
+    }
   },
   "** Everything is strange, but there is no way but to retreat **": {
-    "translation": "***一切都很奇怪，但别无选择，只能撤退***"
+    "translation": "***一切都很奇怪，但别无选择，只能撤退***",
+    "MultiLang": {
+      "US": "",
+      "JP": "すべてがおかしいが、撤退するしかない",
+      "CN": "一切都很诡异，但别无选择，只能撤退",
+      "KR": "** 모든 것이 이상하지만 물러날 수밖에 없습니다 **",
+      "TW": "** 一切詭異，卻無退路 **"
+    }
   },
   "** Evil spirit, it's dead.Dead? **": {
-    "translation": "***恶灵，它死了。死了？***"
+    "translation": "***恶灵，它死了。死了？***",
+    "MultiLang": {
+      "US": "",
+      "JP": "邪霊、死んだか？死んだ？",
+      "CN": "恶灵已死。真的死了吗？",
+      "KR": "** 악령, 죽었다. 정말 죽었나? **",
+      "TW": "** 邪靈已死。真的死了吗？ **"
+    }
   },
   "** Guardian:earthquake **": {
-    "translation": "***守护者：地震***"
+    "translation": "***守护者：地震***",
+    "MultiLang": {
+      "US": "",
+      "JP": "守り人：地震",
+      "CN": "守护者：地震",
+      "KR": "** 수호자: 지진 **",
+      "TW": "** 守護者：地震 **"
+    }
   },
   "** Guardian:expe **": {
-    "translation": "***守护者：经验***"
+    "translation": "***守护者：经验***",
+    "MultiLang": {
+      "US": "",
+      "JP": "守り人：経験",
+      "CN": "守护者：经验值",
+      "KR": "** 수호자: 경험치 **",
+      "TW": "** 守護者：經驗值 **"
+    }
   },
   "** Hold for 20 seconds and wait for the gate to open **": {
-    "translation": "***防守20秒并等待门打开***"
+    "translation": "***防守20秒并等待门打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間耐えて、ゲートが開くのを待ってください",
+      "CN": "坚守20秒，等待城门打开",
+      "KR": "** 20초간 버티고 문이 열리기를 기다리세요 **",
+      "TW": "** 堅持20秒，等待城門開啟 **"
+    }
   },
   "** Hold on for 20s **": {
-    "translation": "***防守20秒***"
+    "translation": "***防守20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間頑張ってください",
+      "CN": "坚守20秒",
+      "KR": "** 20초간 버티세요 **",
+      "TW": "** 堅持20秒 **"
+    }
   },
   "** Hold on for 30 seconds. Don't let the zombies break through the line **": {
-    "translation": "***防守30秒。不要让僵尸突破防线***"
+    "translation": "***防守30秒。不要让僵尸突破防线***",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間頑張って。ゾンビにラインを突破させないで",
+      "CN": "坚守30秒。不要让僵尸突破防线",
+      "KR": "** 30초간 버티세요. 좀비들이 방어선을 돌파하지 못하게 하세요 **",
+      "TW": "** 堅持30秒。別讓喪屍突破防線 **"
+    }
   },
   "** In the last 30 seconds, we can set off fireworks **": {
-    "translation": "***最后30秒，我们可以放烟花***"
+    "translation": "***最后30秒，我们可以放烟花***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 最後の30秒以内に花火を点火できる **",
+      "CN": "** 倒计时最后30秒，可以燃放烟花 **",
+      "KR": "** 마지막 30초 안에 폭죽을 터뜨릴 수 있습니다 **",
+      "TW": "** 未來30秒內可點燃煙火 **"
+    }
   },
   "** It seems that we have missed the planned path. In short, we should find a way to get out of here **": {
-    "translation": "***看来我们错过了预定路线。总之，我们应该找到出路***"
+    "translation": "***看来我们错过了预定路线。总之，我们应该找到出路***",
+    "MultiLang": {
+      "US": "*** Seems like we've deviated from the planned route. In brief, we need to find a way out of here. ***",
+      "JP": "** 予定された経路を見失ったようだ。要するに、ここから抜け出す方法を見つける必要がある **",
+      "CN": "** 看来我们已经偏离了预定路线。总之，必须找到脱困的办法 **",
+      "KR": "** 계획된 경로를 놓친 것 같습니다. 요약하자면, 여기서脱출할 방법을 찾아야 합니다 **",
+      "TW": "** 看來我們偏離了預定路線。總之，我們得想辦法逃出去 **"
+    }
   },
   "** It's the guardian **": {
-    "translation": "***这是守护者***"
+    "translation": "***这是守护者***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 守護者だ **",
+      "CN": "** 守护者出现了 **",
+      "KR": "** 수호자입니다 **",
+      "TW": "** 是守護者 **"
+    }
   },
   "** Open the door in 10 seconds **": {
-    "translation": "***在10秒内打开门***"
+    "translation": "***在10秒内打开门***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒以内に扉を開けろ **",
+      "CN": "** 10秒后开启大门 **",
+      "KR": "** 10초 후에 문이 열립니다 **",
+      "TW": "** 10秒後開啟大門 **"
+    }
   },
   "** Open the road in 25 seconds and hold your ground! **": {
-    "translation": "***在25秒内打开道路并坚守阵地！***"
+    "translation": "***在25秒内打开道路并坚守阵地！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒以内に道路を開け、立ち去るな！ **",
+      "CN": "** 25秒后开辟道路，坚守阵地！ **",
+      "KR": "** 25초 후에 길이 열리니 버티세요! **",
+      "TW": "** 25秒後開啟道路，守住陣地！ **"
+    }
   },
   "** Open the small door in 25 seconds **": {
-    "translation": "***在25秒内打开小门***"
+    "translation": "***在25秒内打开小门***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒以内に小さな扉を開けろ **",
+      "CN": "** 25秒后开启侧门 **",
+      "KR": "** 25초 후에 작은 문이 열립니다 **",
+      "TW": "** 25秒後開啟小門 **"
+    }
   },
   "** Pay attention to the road under your feet. This is not a place for fun **": {
-    "translation": "***注意脚下的道路。这不是玩乐的地方***"
+    "translation": "***注意脚下的道路。这不是玩乐的地方***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 足元の道路に注意しろ。ここは遊ぶ場所ではない **",
+      "CN": "** 注意脚下。这里可不是玩乐的地方 **",
+      "KR": "** 발 underneath에 있는 길을 주의하세요. 이곳은 장난치는 곳이 아닙니다 **",
+      "TW": "** 注意腳下的路。這裡可不是玩耍的地方 **"
+    }
   },
   "** Please wait for 10 seconds **": {
-    "translation": "***请等待10秒***"
+    "translation": "***请等待10秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒待て **",
+      "CN": "** 请等待10秒 **",
+      "KR": "** 10초 동안 기다려 주세요 **",
+      "TW": "** 請稍候10秒 **"
+    }
   },
   "** Start difficult mode **": {
-    "translation": "***开始困难模式***"
+    "translation": "***开始困难模式***",
+    "MultiLang": {
+      "US": "*** Start hard mode ***",
+      "JP": "** ハードモード開始 **",
+      "CN": "** 开启困难模式 **",
+      "KR": "** 어려운 모드를 시작합니다 **",
+      "TW": "** 啟動困難模式 **"
+    }
   },
   "** The dead won't let you go **": {
-    "translation": "***死者不会放过你***"
+    "translation": "***死者不会放过你***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 死者はあなたを許さない **",
+      "CN": "** 死者不会放过你 **",
+      "KR": "** 죽은 자들은 당신을 놓아주지 않습니다 **",
+      "TW": "** 死者不願放過你 **"
+    }
   },
   "** The door opened, trying to get in the direction of the light **": {
-    "translation": "***门已打开，试着朝光的方向前进***"
+    "translation": "***门已打开，试着朝光的方向前进***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 扉が開き、光の方向へ進入を試みる **",
+      "CN": "** 门开了，正试图朝向光亮处逼近 **",
+      "KR": "** 문이 열려, 빛의 방향으로 들어오려고 시도합니다 **",
+      "TW": "** 門開了，試圖朝著光的方向前進 **"
+    }
   },
   "** The external gate is about to be opened **": {
-    "translation": "***外部大门即将打开***"
+    "translation": "***外部大门即将打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 外部ゲートが開封される寸前 **",
+      "CN": "** 外部大门即将开启 **",
+      "KR": "** 외부 게이트가 곧 열립니다 **",
+      "TW": "** 外層閘門即將開啟 **"
+    }
   },
   "** The game is just beginning **": {
-    "translation": "***游戏才刚刚开始***"
+    "translation": "***游戏才刚刚开始***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゲームは始まったばかりだ **",
+      "CN": "** 游戏才刚刚开始 **",
+      "KR": "** 게임은 이제부터 시작입니다 **",
+      "TW": "** 遊戲才剛開始 **"
+    }
   },
   "** The game is over and mankind wins **": {
-    "translation": "***游戏结束，人类胜利***"
+    "translation": "***游戏结束，人类胜利***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ゲーム終了、人類の勝利です **",
+      "CN": "** 游戏结束，人类获胜 **",
+      "KR": "** 게임이 종료되었으며 인류가 승리합니다 **",
+      "TW": "** 遊戲結束，人類獲勝 **"
+    }
   },
   "** The guardians will bury you with their lives **": {
-    "translation": "***守护者会用他们的生命埋葬你***"
+    "translation": "***守护者会用他们的生命埋葬你***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 守護神たちは自らの命を捧げ、あなたを埋葬する **",
+      "CN": "** 守护者将以生命为你殉葬 **",
+      "KR": "** 수호자들이 생명을 바쳐 당신을 매장할 것입니다 **",
+      "TW": "** 守衛者將以生命埋葬你 **"
+    }
   },
   "** The iron door below is about to open **": {
-    "translation": "***下方的铁门即将打开***"
+    "translation": "***下方的铁门即将打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "**  downstairsの鉄製扉が開封される寸前 **",
+      "CN": "** 下方的铁门即将开启 **",
+      "KR": "** 아래의 철문이 곧 열립니다 **",
+      "TW": "** 下方的鐵門即將開啟 **"
+    }
   },
   "** The switch has been pressed. Retreat **": {
-    "translation": "***开关已被按下。撤退***"
+    "translation": "***开关已被按下。撤退***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** スイッチが押された。撤退 **",
+      "CN": "**已按下开关。撤退。**",
+      "KR": "** 스위치가 눌렸습니다. 후퇴합니다 **",
+      "TW": "** 按鈕已被觸發。撤退 **"
+    }
   },
   "** The way into the valley is blocked. We have to find a way to blast it **": {
-    "translation": "***进入山谷的道路被堵住。我们必须找到爆破的方法***"
+    "translation": "***进入山谷的道路被堵住。我们必须找到爆破的方法***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 谷への道は封鎖されている。爆破する方法を見つけなければならない **",
+      "CN": "**山谷的入口被堵住了。我们必须想办法炸开它。**",
+      "KR": "** 계곡으로 가는 길이 막혔습니다. 폭발시켜 통과하는 방법을 찾아야 합니다 **",
+      "TW": "** 通往山谷的道路受阻，我們必須想辦法炸開它 **"
+    }
   },
   "** There is also a locked switch, which may take some time **": {
-    "translation": "***还有一个锁定的开关，可能需要一些时间***"
+    "translation": "***还有一个锁定的开关，可能需要一些时间***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ロックされたスイッチもあるが、それには時間がかかるだろう **",
+      "CN": "**还有一个锁住的开关，可能需要花费一些时间。**",
+      "KR": "** 잠긴 스위치도 있는데, 시간이 걸릴 수도 있습니다 **",
+      "TW": "** 還有一個鎖住的按鈕，可能需要花一些時間 **"
+    }
   },
   "** This is? An abandoned fortress **": {
-    "translation": "***这是？一个废弃的堡垒***"
+    "translation": "***这是？一个废弃的堡垒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** これは？ 廃墟となった砦だ **",
+      "CN": "**这是？一座被遗弃的堡垒。**",
+      "KR": "** 이것인가? 버려진 요새다 **",
+      "TW": "** 這是？一座被遺棄的堡壘 **"
+    }
   },
   "** This is? The buildings of Stormwind city left behind before? **": {
-    "translation": "***这是？暴风城之前留下的建筑吗？***"
+    "translation": "***这是？暴风城之前留下的建筑吗？***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** これは？ かつてのストームウィンド城の建物の残骸だ **",
+      "CN": "**这是？暴风城遗留下来的建筑？**",
+      "KR": "** 이것인가? 사전에 남겨진 폭풍의 성 시 건물이야? **",
+      "TW": "** 這是？風城在之前留下的建築？ **"
+    }
   },
   "** To kill re be killed by him **": {
-    "translation": "***要杀死他就得被他杀***"
+    "translation": "***要杀死他就得被他杀***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 彼を倒さねば、彼に倒されることになる **",
+      "CN": "**要么杀掉他，要么被他杀死。**",
+      "KR": "** 죽이려면 그를 죽여라 **",
+      "TW": "** 殺他，否則反被所殺 **"
+    }
   },
   "** Try to blast the boulder in 25 seconds **": {
-    "translation": "***尝试在25秒内炸毁巨石***"
+    "translation": "***尝试在25秒内炸毁巨石***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒以内に岩を爆破するんだ **",
+      "CN": "**尝试在25秒内炸开巨石。**",
+      "KR": "** 25초 이내에 바위를 폭발시켜라 **",
+      "TW": "** 試圖在 25 秒內炸開巨石 **"
+    }
   },
   "** Wait 20 seconds and open the iron door below **": {
-    "translation": "***等待20秒并打开下方的铁门***"
+    "translation": "***等待20秒并打开下方的铁门***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒待ってから、下の鉄扉を開けろ **",
+      "CN": "**等待20秒后打开下方的铁门。**",
+      "KR": "** 20초 기다린 후 아래 철문을 열어라 **",
+      "TW": "** 等待 20 秒後開啟下方的鐵門 **\""
+    }
   },
   "** Wait 30 seconds to open the channel **": {
-    "translation": "***等待30秒以打开通道***"
+    "translation": "***等待30秒以打开通道***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** チャンネルを30秒間待ってから開く **",
+      "CN": "** 等待30秒以开启频道 **",
+      "KR": "** 채널 오픈까지 30초 대기 **",
+      "TW": "** 等待30秒以開啟頻道 **"
+    }
   },
   "** Wait 30 seconds, hold the zombie **": {
-    "translation": "***等待30秒，抵御僵尸***"
+    "translation": "***等待30秒，抵御僵尸***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒間待ち、殭屍を拘束する **",
+      "CN": "** 等待30秒，抓住僵尸 **",
+      "KR": "** 30초 대기, 좀비 고정 **",
+      "TW": "** 等待30秒，控制住殭屍 **"
+    }
   },
   "** Want to leave? Stupid! **": {
-    "translation": "***想离开？愚蠢！***"
+    "translation": "***想离开？愚蠢！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 逃げたい？バカヤロウ！ **",
+      "CN": "** 想走？蠢货！ **",
+      "KR": "** 퇴각? 바보야! **",
+      "TW": "** 想離開？笨蛋！ **"
+    }
   },
   "** You need to throw it on the designated altar **": {
-    "translation": "***你需要把它扔到指定的祭坛上***"
+    "translation": "***你需要把它扔到指定的祭坛上***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 指定された祭壇に投げる必要がある **",
+      "CN": "** 你需要将其投掷到指定的祭坛上 **",
+      "KR": "** 지정한 제단에 던져야 합니다 **",
+      "TW": "** 你需要將其投擲到指定的祭壇上 **"
+    }
   },
   "** Zombie reached the end **": {
-    "translation": "***僵尸到达终点***"
+    "translation": "***僵尸到达终点***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 殭屍が目的地に到達した **",
+      "CN": "** 僵尸到达终点 **",
+      "KR": "** 좀비가 끝에 도달함 **",
+      "TW": "** 殭屍到達終點 **"
+    }
   },
   "** Zombies break through the gate, and humans fail **": {
-    "translation": "***僵尸突破了大门，人类失败***"
+    "translation": "***僵尸突破了大门，人类失败***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 殭屍がゲートを突破し、人類は失敗した **",
+      "CN": "** 僵尸突破大门，人类失败 **",
+      "KR": "** 좀비가 성문을 뚫고 인간 패배 **",
+      "TW": "** 殭屍突破大門，人類失敗 **"
+    }
   },
   "** Zombies enter the gate, and humans fail **": {
-    "translation": "***僵尸进入大门，人类失败***"
+    "translation": "***僵尸进入大门，人类失败***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 殭庁がゲート内に侵入し、人類は失敗した **",
+      "CN": "** 僵尸进入大门，人类失败 **",
+      "KR": "** 좀비가 성문 진입, 인간 패배 **",
+      "TW": "** 殭進入大門，人類失敗 **"
+    }
   },
   "** Zombies have 10 seconds to teleport **": {
-    "translation": "***僵尸有10秒的时间进行传送***"
+    "translation": "***僵尸有10秒的时间进行传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 殭屍には10秒間のテレポート時間がある **",
+      "CN": "** 僵尸有10秒的时间传送 **",
+      "KR": "** 좀비에게 이동 시간 10초 부여 **",
+      "TW": "** 殭屍有10秒傳 telepotation 時間 **"
+    }
   },
   "** greedy human beings **": {
-    "translation": "***贪婪的人类***"
+    "translation": "***贪婪的人类***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 貪欲な人間ども **",
+      "CN": "***贪婪的人类***",
+      "KR": "** 탐욕스러운 인간들 **",
+      "TW": "**貪婪的人類**"
+    }
   },
   "** will be buried with you! **": {
-    "translation": "***将与你同埋！***"
+    "translation": "***将与你同埋！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** お前も共に葬られてしまえ！ **",
+      "CN": "***将与你同埋！***",
+      "KR": "** 너와 함께 묻힐 것이다! **",
+      "TW": "**你將與它一起被埋葬！**"
+    }
   },
   "** you killed my pet **": {
-    "translation": "***你杀了我的宠物***"
+    "translation": "***你杀了我的宠物***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** わがペットを殺したな**",
+      "CN": "***你杀了我的宠物***",
+      "KR": "** 너는 내 애완동물을 죽였어 **",
+      "TW": "**你殺了我的寵物**"
+    }
   },
   "** you must pay! **": {
-    "translation": "***你必须付出代价！***"
+    "translation": "***你必须付出代价！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 償え！ **",
+      "CN": "***你必须付出代价！***",
+      "KR": "** 너는 보상을 지불해야 해! **",
+      "TW": "**你要付出代價！**"
+    }
   },
   "*** 20s ***": {
-    "translation": "***20秒***"
+    "translation": "***20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20代 ***",
+      "CN": "***20秒***",
+      "KR": "*** 20대 ***",
+      "TW": "***20年代***"
+    }
   },
   "*** The beginning...The end. ***": {
-    "translation": "***开始…结束。***"
+    "translation": "***开始…结束。***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 始まり…そして終わり ***",
+      "CN": "***开始…结束。***",
+      "KR": "*** 시작... 끝. ***",
+      "TW": "***開始...結束。***"
+    }
   },
   "***50 seconds left***": {
-    "translation": "***剩余50秒***"
+    "translation": "***剩余50秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り50秒 ***",
+      "CN": "***剩余50秒***",
+      "KR": "*** 남는 시간: 50초 ***",
+      "TW": "***剩餘50秒***"
+    }
   },
   "***8s***": {
-    "translation": "***8秒***"
+    "translation": "***8秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り8秒 ***",
+      "CN": "***8秒***",
+      "KR": "*** 남은 시간: 8초 ***",
+      "TW": "***剩餘8秒***"
+    }
   },
   "***Activate transfer in 30 seconds***": {
-    "translation": "***在30秒内激活传送***"
+    "translation": "***在30秒内激活传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒以内に転送を開始***",
+      "CN": "***30秒后启动传送***",
+      "KR": "***30초 후 전송 시작***",
+      "TW": "***30秒後啟用傳送***"
+    }
   },
   "***Hold on for 10 seconds***": {
-    "translation": "***防守10秒***"
+    "translation": "***防守10秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***10秒お待ちください***",
+      "CN": "***保持10秒***",
+      "KR": "***10초 기다리세요***",
+      "TW": "***等待10秒***"
+    }
   },
   "***Hold on for 25 seconds***": {
-    "translation": "***防守25秒***"
+    "translation": "***防守25秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***25秒お待ちください***",
+      "CN": "***保持25秒***",
+      "KR": "***25초 기다리세요***",
+      "TW": "***等待25秒***"
+    }
   },
   "***Hold on for another 20 seconds***": {
-    "translation": "***再防守20秒***"
+    "translation": "***再防守20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***さらに20秒お待ちください***",
+      "CN": "***再保持20秒***",
+      "KR": "***추가로 20초 기다리세요***",
+      "TW": "***再等待20秒***"
+    }
   },
   "***Turn on transfer in 45 seconds***": {
-    "translation": "***在45秒内开启传送***"
+    "translation": "***在45秒内开启传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***45秒以内に転送を開始***",
+      "CN": "***45秒后启动传送***",
+      "KR": "***45초 후 전송 시작***",
+      "TW": "***45秒後啟用傳送***"
+    }
   },
   "***Zombie teleportation has 10 seconds left": {
-    "translation": "***僵尸传送还有10秒***"
+    "translation": "***僵尸传送还有10秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビのテレポート残り10秒***",
+      "CN": "***僵尸传送还剩10秒***",
+      "KR": "***좀비 텔레포트 10초 남음***",
+      "TW": "***殭屍瞬間移動還剩10秒***"
+    }
   },
   "***hold on 20s***": {
-    "translation": "***防守20秒***"
+    "translation": "***防守20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***20秒お待ちください***",
+      "CN": "***保持20秒***",
+      "KR": "***20초 기다리세요***",
+      "TW": "***等待20秒***"
+    }
   },
   "***hold on 30s***": {
-    "translation": "***防守30秒***"
+    "translation": "***防守30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***30秒お待ちください***",
+      "CN": "***保持30秒***",
+      "KR": "***30초 기다리세요***",
+      "TW": "***等待30秒***"
+    }
   },
   "***last 20 seconds***": {
-    "translation": "***最后20秒***"
+    "translation": "***最后20秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り20秒***",
+      "CN": "最后20秒",
+      "KR": "***마지막 20초***",
+      "TW": "***倒數最後 20 秒***"
+    }
   },
   "***please hold on***": {
-    "translation": "***请防守***"
+    "translation": "***请防守***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***お待ちください***",
+      "CN": "请稍等",
+      "KR": "***잠시만 기다려 주세요***",
+      "TW": "***請稍候***"
+    }
   },
   "***you win***": {
-    "translation": "***你赢了***"
+    "translation": "***你赢了***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***あなたの勝利です***",
+      "CN": "你赢了",
+      "KR": "***승리***",
+      "TW": "***你獲勝了***"
+    }
   },
   "***zomblie 10 teleport***": {
-    "translation": "***僵尸传送10***"
+    "translation": "***僵尸传送10***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンブリエ テレポートx10***",
+      "CN": "僵尸10秒传送",
+      "KR": "***좀비는 텔레포트 10회***",
+      "TW": "***殭屍第 10 次傳送***"
+    }
   },
   "**A player has picked up the book**": {
-    "translation": "***一名玩家拾取了书***"
+    "translation": "***一名玩家拾取了书***",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが本を持ち上げました",
+      "CN": "一名玩家捡起了书本",
+      "KR": "**플레이어가 책을 집어 들었습니다**",
+      "TW": "**玩家撿起了書籍**"
+    }
   },
   "**A zombie has speed item**": {
-    "translation": "***一只僵尸有速度神器***"
+    "translation": "***一只僵尸有速度神器***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが加速アイテムを持っている",
+      "CN": "一名僵尸获得加速道具",
+      "KR": "**좀비가 속도 아이템을 획득했습니다**",
+      "TW": "**一名殭屍獲取了速度道具**"
+    }
   },
   "**Human victory**": {
-    "translation": "***人类胜利***"
+    "translation": "***人类胜利***",
+    "MultiLang": {
+      "US": "",
+      "JP": "人間の勝利",
+      "CN": "人类胜利",
+      "KR": "**인간 승전**",
+      "TW": "**人類獲勝**"
+    }
   },
   "**Increasing zombie speed**": {
-    "translation": "***僵尸速度增加***"
+    "translation": "***僵尸速度增加***",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビの速度上昇",
+      "CN": "增加僵尸速度",
+      "KR": "**좀비 속도 증가**",
+      "TW": "**提升殭屍速度**"
+    }
   },
   "<-- A player picked up the Incendiary Feather Immortal -- >": {
-    "translation": "<--一名玩家拾取了烈焰羽毛不死者-->"
+    "translation": "<--一名玩家拾取了烈焰羽毛不死者-->",
+    "MultiLang": {
+      "US": "",
+      "JP": "<-- プレイヤーが火炎の羽根不滅を手に入れた -- >",
+      "CN": "<--一名玩家拾取了烈焰羽毛不死者-->",
+      "KR": "<-- 플레이어가 화염의 깃털 영혼을 획득했다 -- >",
+      "TW": "<-- 有玩家拾取了焚天羽翼不滅者 -- >"
+    }
   },
   "<--A player picked up the gao da-->": {
-    "translation": "<--一名玩家拾取了高达-->"
+    "translation": "<--一名玩家拾取了高达-->",
+    "MultiLang": {
+      "US": "",
+      "JP": "<-- プレイヤーが高達を手に入れた -->",
+      "CN": "<--一名玩家拾取了高达-->",
+      "KR": "<-- 플레이어가 고다를 획득했다 -->",
+      "TW": "<--有玩家拾取了高大-->"
+    }
   },
   "<<< 1 >>>": {
-    "translation": "<<<1>>>"
+    "translation": "<<<1>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< 2 >>>": {
-    "translation": "<<<2>>>"
+    "translation": "<<<2>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< 3 >>>": {
-    "translation": "<<<3>>>"
+    "translation": "<<<3>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< 4 >>>": {
-    "translation": "<<<4>>>"
+    "translation": "<<<4>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< 5 >>>": {
-    "translation": "<<<5s>>>"
+    "translation": "<<<5s>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< 6 >>>": {
-    "translation": "<<<6s>>>"
+    "translation": "<<<6s>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< ?????????????????????_ >>>": {
-    "translation": "<<<?????????????????????_>>>"
+    "translation": "<<<?????????????????????_>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<<< Although the reason is not clear, the manipulators behind it will definitely stop us >>>": {
-    "translation": "<<<虽然原因不明，但背后的操控者肯定会阻止我们>>>"
+    "translation": "<<<虽然原因不明，但背后的操控者肯定会阻止我们>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "理由は不明だが、背後の操り者が私達を止めるのは確実だ",
+      "CN": "虽然原因不明，但幕后操纵者定会阻止我们",
+      "KR": "원인은 명확하지 않지만, 배후의 조종자들이 우리를 막을 것이다",
+      "TW": "<<< 雖然原因不明，但幕後的黑手絕對會阻止我們 >>>"
+    }
   },
   "<<< Although we have left the town temporarily, there are evil spirits bound there >>>": {
-    "translation": "<<<虽然我们暂时离开了城镇，但那里仍然有恶灵束缚>>>"
+    "translation": "<<<虽然我们暂时离开了城镇，但那里仍然有恶灵束缚>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "一時的に街から離れているが、そこに縛られた悪霊がいる",
+      "CN": "虽然我们暂时离开了城镇，但有恶灵被束缚于此",
+      "KR": "마을을 일시적으로 떠났지만, 그곳에는 매달린 악령들이 있다",
+      "TW": "<<< 雖然我們暫時離開了城鎮，但仍有多餘的邪靈被約束在那裡 >>>"
+    }
   },
   "<<< However, we should pay attention to the houses in towns. We do not know when the enemy will launch an attack >>>": {
-    "translation": "<<<然而，我们应该注意城镇里的房屋。我们不知道敌人何时会发动攻击>>>"
+    "translation": "<<<然而，我们应该注意城镇里的房屋。我们不知道敌人何时会发动攻击>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "しかし、街の家屋には注意する必要がある。敵が攻撃をしかけてくる時期はわからない",
+      "CN": "然而，我们必须关注城镇中的房屋。我们不知道敌人何时会发动攻击",
+      "KR": "그러나 마을의 가옥들에 주의해야 한다. 적들이 언제 공격할지 모른다",
+      "TW": "<<< 但是，我們應該注意城鎮的房屋。我們不知道敵人何時會發動攻擊 >>>"
+    }
   },
   "<<< May Lordaeron protect us >>>": {
-    "translation": "<<<愿洛丹伦保护我们>>>"
+    "translation": "<<<愿洛丹伦保护我们>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロデロンのご加護あれ",
+      "CN": "愿洛丹伦保佑我们",
+      "KR": "로더론이 우리를 지켜주시기를",
+      "TW": "<<< 願洛丹倫保佑我們 >>>"
+    }
   },
   "<<< May Lordaeron shine on us! >>>": {
-    "translation": "<<<愿洛丹伦照耀我们！>>>"
+    "translation": "<<<愿洛丹伦照耀我们！>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロデロンが我々に光を注がんことを！",
+      "CN": "愿洛丹伦的光辉照耀我们！",
+      "KR": "로더론이 우리에게 빛을 비추시기를!",
+      "TW": "<<< 願洛丹倫之光照耀我們！ >>>"
+    }
   },
   "<<< The Ministry has completely collapsed and needs to be reported to Lordaeron urgently >>>": {
-    "translation": "<<<部门已经完全崩溃，需要紧急报告给洛丹伦>>>"
+    "translation": "<<<部门已经完全崩溃，需要紧急报告给洛丹伦>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "省庁は完全に崩壊しており、ロデロンへ緊急に報告する必要がある",
+      "CN": "该部门已完全崩溃，需紧急向洛丹伦汇报",
+      "KR": "성부는 완전히 무너졌으며 로더론에 긴급히 보고해야 한다",
+      "TW": "<<< 內政部已經完全崩潰，需要立即向洛丹倫報告 >>>"
+    }
   },
   "<<< The roads in the town have been destroyed. There's nothing we can do but continue to the valley >>>": {
-    "translation": "<<<镇上的道路已被摧毁。我们只能继续前往山谷>>>"
+    "translation": "<<<镇上的道路已被摧毁。我们只能继续前往山谷>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "街の道路は破壊されている。谷へと進み続ける以外に打つ手はない",
+      "CN": "城镇的道路已被破坏。我们除了继续前往山谷外，别无他法",
+      "KR": "마을의 도로는 파괴되었다. 우리는 계곡으로 계속 진행할 수밖에 없다",
+      "TW": "<<< 城鎮的道路已被摧毀。我們無能為力，只能繼續前往山谷 >>>"
+    }
   },
   "<<< This is the southwest outpost in Lordaeron,Stormwind Keep >>>": {
-    "translation": "<<<这是洛丹伦的西南前哨，暴风城堡>>>"
+    "translation": "<<<这是洛丹伦的西南前哨，暴风城堡>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここはロデロン南西の前哨基地、ストームウィンド砦だ",
+      "CN": "这里是洛丹伦西南前哨站：暴风要塞",
+      "KR": "여기는 로더론의 남서쪽 전초기지, 스톰윈드 성채입니다",
+      "TW": "<<< 這是洛丹倫的西南前哨站，風暴城要塞 >>>"
+    }
   },
   "<<< Time waits for no one. We need to get out of here as soon as possible >>>": {
-    "translation": "<<<时间不等人。我们必须尽快离开这里>>>"
+    "translation": "<<<时间不等人。我们必须尽快离开这里>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "刻は我々を待たない。できるだけ早くここから出る必要がある",
+      "CN": "时不我待，我们必须尽快离开这里。",
+      "KR": "시간은 누구를 기다려주지 않는다. 우리는 가능한 한 빨리 이곳을 떠날 필요가 있다.",
+      "TW": "時間不等人，我們必須盡快離開這裡。"
+    }
   },
   "<<< We stumbled into the storm fortress >>>": {
-    "translation": "<<<我们跌入了暴风城堡的堡垒>>>"
+    "translation": "<<<我们跌入了暴风城堡的堡垒>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "嵐の砦に紛れ込んだ",
+      "CN": "我们误入了风暴堡垒。",
+      "KR": "우리는 폭풍의 요새를 발견했다.",
+      "TW": "我們誤入了風暴堡壘。"
+    }
   },
   "<<< We'll cross the valley ahead to find our way to Lordaeron >>>": {
-    "translation": "<<<我们将穿越前方的山谷，找到通往洛丹伦的路>>>"
+    "translation": "<<<我们将穿越前方的山谷，找到通往洛丹伦的路>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "手前の谷を越えてロイドアローンへの道を見つけるだろう",
+      "CN": "我们将穿越前方的山谷，寻找前往洛丹伦的路。",
+      "KR": "앞의 계곡을 넘어 로더론으로 가는 길을 찾으려 한다.",
+      "TW": "我們將穿越前方的山谷，尋找通往洛爾多隆的路徑。"
+    }
   },
   ">> A player has picked up healing <<": {
-    "translation": ">>一名玩家拾取了奶<<"
+    "translation": ">>一名玩家拾取了奶<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 味方が回復アイテムを持ちました <<",
+      "CN": ">>一名玩家拾取了治疗<<",
+      "KR": ">> 플레이어가 회복 장비를 수집했습니다. <<",
+      "TW": ">> 一名玩家拾取了治療藥劑 <<"
+    }
   },
   ">> A player picked up lightning <<": {
-    "translation": ">>一名玩家拾取了电<<"
+    "translation": ">>一名玩家拾取了电<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 味方が雷属性のアイテムを持ちました <<",
+      "CN": ">>一名玩家拾取了闪电术<<",
+      "KR": ">> 플레이자가 번개 장비를 수집했습니다. <<",
+      "TW": ">> 一名玩家拾取了閃電 <<"
+    }
   },
   ">> A player picked up soil <<": {
-    "translation": ">>一名玩家拾取了土<<"
+    "translation": ">>一名玩家拾取了土<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 味方が土属性のアイテムを持ちました <<",
+      "CN": ">>一名玩家拾取了土壤<<",
+      "KR": ">> 플레이자가 흙 장비를 수집했습니다. <<",
+      "TW": ">> 一名玩家拾取了泥土 <<"
+    }
   },
   ">> A player picked up the circular wind <<": {
-    "translation": ">>一名玩家拾取了环形风<<"
+    "translation": ">>一名玩家拾取了环形风<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 味方が円環風のアイテムを持ちました <<",
+      "CN": ">>一名玩家拾取了回旋风灵<<",
+      "KR": ">> 플레이자가 원형 바람 장비를 수집했습니다. <<",
+      "TW": ">> 一名玩家拾取了旋風 <<"
+    }
   },
   ">>One player picked up the wind<<": {
-    "translation": ">>一名玩家拾取了风<<"
+    "translation": ">>一名玩家拾取了风<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 1人のプレイヤーが風属性のアイテムを持ちました <<",
+      "CN": ">>一名玩家拾取了疾风之语<<",
+      "KR": ">> 플레이어 한 명이 바람 장비를 수집했습니다. <<",
+      "TW": ">> 一名玩家拾取了風 <<"
+    }
   },
   ">>One player picker up the flame<<": {
-    "translation": ">>一名玩家拾取了火<<"
+    "translation": ">>一名玩家拾取了火<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>プレイヤーが火を受け取る<<",
+      "CN": ">>一名玩家拾取了火焰<<",
+      "KR": "플레이어가 화염을 집어들었습니다",
+      "TW": ">>一名玩家撿起了火焰<<"
+    }
   },
   "A player has picked up the book": {
-    "translation": "***一名玩家拾取了书***"
+    "translation": "***一名玩家拾取了书***",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが本を受け取った",
+      "CN": "一名玩家已拾取书本",
+      "KR": "플레이어가 책을 집어 들었습니다",
+      "TW": "一名玩家已撿起書籍"
+    }
   },
   "say ** good job! This book records how to unlock the switch and protect it **": {
-    "translation": "**干得好！这本书记录了如何解锁开关并保护它**"
+    "translation": "**干得好！这本书记录了如何解锁开关并保护它**",
+    "MultiLang": {
+      "US": "",
+      "JP": "言う** 良くやりました！この本はスイッチの解除方法と保護を記録しています **",
+      "CN": "说 **做得好！这本书记录了如何解锁并保护开关**",
+      "KR": "잘했어요! 이 책에는 스위치를 해제하고 보호하는 방법이 기록되어 있습니다",
+      "TW": "說 ** 好棒！這本書記錄瞭如何解鎖開關並保護它 **"
+    }
   },
   "** Hold for 15 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒間押し続けてください **",
+      "CN": "**保持15秒**",
+      "KR": "**15초 동안 누르세요**",
+      "TW": "** 持續按住 15 秒 **"
+    }
   },
   "**10s**": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**10秒**",
+      "CN": "**10秒**",
+      "KR": "**10초**",
+      "TW": "** 10秒**"
+    }
   },
   "** Break the small door, please wait **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 小さなドアを壊してください、お待ちください **",
+      "CN": "**请砸开小门，请稍候**",
+      "KR": "**작은 문을 부수세요. 잠시만 기다려 주세요**",
+      "TW": "** 請稍候，正在打破小門 **"
+    }
   },
   "** Resist zombies for 30 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**30秒間ゾンジに耐えてください **",
+      "CN": "**抵抗僵尸30秒**",
+      "KR": "** 좀비를 30초간 막아주세요 **",
+      "TW": "** 抵抗殭屍 30 秒 **"
+    }
   },
   "** Please wait 30 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒お待ちください **",
+      "CN": "**请等待30秒**",
+      "KR": "** 30초간 기다려 주세요 **",
+      "TW": "** 請稍候 30 秒 **"
+    }
   },
   "** Well done, defend the window for 15 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "よくやった、15秒間窓を防衛せよ",
+      "CN": "**干得好，防御窗口15秒**",
+      "KR": "** 잘했어, 15초간 창문을 방어해 **",
+      "TW": "** 做得好，守衛窗口 15 秒**"
+    }
   },
   "** The transmitter has 15 seconds to trigger **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "送信機が作動するまで残り15秒",
+      "CN": "**发射器有15秒的时间激活**",
+      "KR": "** 송신기가 작동하는 데 15초 걸림 **",
+      "TW": "** 發射器有 15 秒觸發時間**"
+    }
   },
   "** Route change, drag the zombie for 30 seconds **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルート変更、30秒間ゾンビを引きずれ",
+      "CN": "**改变路线，牵引僵尸30秒**",
+      "KR": "** 경로 변경, 좀비 30초간 끌고 가기 **",
+      "TW": "** 路線變更，拖著殭屍 30 秒**"
+    }
   },
   "** The gate is open. Retreat **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "門が開いた。退却せよ",
+      "CN": "**大门已开。撤退。**",
+      "KR": "** 문이 열림. 후퇴 **",
+      "TW": "** 門已打開，撤退**"
+    }
   },
   "**  20s door open **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "*** 20s Door Open ***",
+      "JP": "20秒後に扉が開く",
+      "CN": "**20秒后开门**",
+      "KR": "** 20초 후 문 개방 **",
+      "TW": "** 20秒後開門**"
+    }
   },
   "** After 30 seconds, open the wooden door and activate the final transmission **": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後、木製の扉を開き最終送信を起動せよ",
+      "CN": "**30秒后打开木门并启动最终传输**",
+      "KR": "** 30초 뒤 나무 문을 열고 최종 송신 시작 **",
+      "TW": "** 30秒後打開木門並啟動最終傳輸**"
+    }
+  },
+  "** Retreat, find the next route, watch out for zombies **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "退却、次のルートを探せ、ゾンビに注意",
+      "CN": "**撤退，找到下一条路线，注意僵尸。**",
+      "KR": "** 후퇴, 다음 경로 찾기, 좀비 주의 **",
+      "TW": "** 撤退，尋找下一條路線，注意殭屍**"
+    }
+  },
+  "** The door is closed, there is no way out! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "**The door is closed, no way out!**",
+      "JP": "扉が閉まった、脱出路なし！",
+      "CN": "**门关了，无路可逃！**",
+      "KR": "** 문이 닫혔다. 탈출구 없음! **",
+      "TW": "** 門關閉了，沒有出路！**"
+    }
+  },
+  "** The road is open. Let's go **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "道が開いた。行こう",
+      "CN": "**道路已开辟，我们走吧。**",
+      "KR": "길은 열려 있습니다. 갑시다.",
+      "TW": "** 道路已開通，我們走吧 **"
+    }
   }
 }

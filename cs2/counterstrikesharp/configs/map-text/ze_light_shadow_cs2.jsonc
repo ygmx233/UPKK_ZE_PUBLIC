@@ -1,0 +1,552 @@
+{
+  "*** 10 seconds left ***": {
+    "translation": "*** 还剩10秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 残り10秒 ***",
+      "CN": "*** 剩余10秒 ***",
+      "KR": "*** 10초 남음 ***",
+      "TW": "*** 倒數 10 秒 ***"
+    }
+  },
+  "*** Don't let zombies get the power of light. Hold here ***": {
+    "translation": "*** 不要让僵尸得到光的力量。坚守这里 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビに光の力を取られないように。ここに留まれ ***",
+      "CN": "*** 不要让僵尸获得光之力。坚守此处 ***",
+      "KR": "*** 좀비에게 빛의 힘을 빼앗기지 마세요. 여기에서 버티세요 ***",
+      "TW": "*** 別讓殭屍取得光明之力，守住這裡 ***"
+    }
+  },
+  "*** Time has been reset, but we have found another way to the temple of light. We need to go ahead of the core ***": {
+    "translation": "*** 时间已经重置，但我们已经找到了一条通往光之庙的新路。我们需要在核心之前赶到 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 時間がリセットされたが、光の神殿への別ルートを見つけた。コアより先に進まなければならない ***",
+      "CN": "*** 时间已重置，但我们找到了通往光明神殿的另一条道路。我们需要赶在核心之前 ***",
+      "KR": "*** 시간이 리셋되었지만, 빛의 사원으로 가는 다른 길을 찾았습니다. 먼저 코어 쪽으로 가야 합니다 ***",
+      "TW": "*** 時間已重置，但我們找到了前往光明神廟的另一條路。必須趕在核心之前到達 ***"
+    }
+  },
+  "*** We need the power of light here to defeat the shadow ***": {
+    "translation": "*** 我们需要光的力量来这里击破黑暗 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 影を倒すために、ここで光の力が必要だ ***",
+      "CN": "*** 我们需要这里的光之力来击败阴影 ***",
+      "KR": "*** 그림자를 물리치기 위해 이곳에서 빛의 힘이 필요합니다 ***",
+      "TW": "*** 我們需要這裡的光明之力來擊敗暗影 ***"
+    }
+  },
+  "*** admin set stage core ***": {
+    "translation": "*** 管理员设置下回合为核心 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** admin set stage core ***",
+      "CN": "*** admin 设置关卡核心 ***",
+      "KR": "*** admin set stage core ***",
+      "TW": "*** 管理員設定舞台核心 ***"
+    }
+  },
+  "*** admin set stage escape ***": {
+    "translation": "*** 管理员设置下回合为逃亡 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** admin set stage escape ***",
+      "CN": "*** admin 设置关卡逃生 ***",
+      "KR": "*** admin set stage escape ***",
+      "TW": "*** 管理員設定舞台逃生 ***"
+    }
+  },
+  "*** admin set stage ring ***": {
+    "translation": "*** 管理员设置下回合为光环 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** admin set stage ring ***",
+      "CN": "*** admin 设置关卡环***",
+      "KR": "*** admin set stage ring ***",
+      "TW": "*** 管理員設定舞台環形 ***"
+    }
+  },
+  "*** stage set to Escape ***": {
+    "translation": "*** 关卡设置为逃亡 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 脱出ステージに設定 ***",
+      "CN": "*** 关卡设置为逃生 ***",
+      "KR": "*** stage set to Escape ***",
+      "TW": "*** 舞台設定為逃生模式 ***"
+    }
+  },
+  "*** stage set to Shadow ***": {
+    "translation": "*** 关卡设置为黑暗 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** stage set to Shadow ***",
+      "CN": "***关卡设定为暗影***",
+      "KR": "*** 스테이지 Shadow로 설정 ***",
+      "TW": "*** 場景設定為影子 ***"
+    }
+  },
+  "<<< 10 seconds left >>>": {
+    "translation": "<<< 还剩10秒 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 10 seconds left >>>",
+      "CN": "<<<剩余10秒>>>",
+      "KR": "<<< 10초 남음 >>>",
+      "TW": "<<< 剩餘 10 秒 >>>"
+    }
+  },
+  "<<< 15 seconds left >>>": {
+    "translation": "<<< 还剩15秒 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 15 seconds left >>>",
+      "CN": "<<<剩余15秒>>>",
+      "KR": "<<< 15초 남음 >>>",
+      "TW": "<<< 剩餘 15 秒 >>>"
+    }
+  },
+  "<<< 18 seconds left >>>": {
+    "translation": "<<< 还剩18秒 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 18 seconds left >>>",
+      "CN": "<<<剩余18秒>>>",
+      "KR": "<<< 18초 남음 >>>",
+      "TW": "<<< 剩餘 18 秒 >>>"
+    }
+  },
+  "<<< 20 seconds left >>>": {
+    "translation": "<<< 还剩20秒 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 20 seconds left >>>",
+      "CN": "<<<剩余20秒>>>",
+      "KR": "<<< 20초 남음 >>>",
+      "TW": "<<< 剩餘 20 秒 >>>"
+    }
+  },
+  "<<< 30 seconds left >>>": {
+    "translation": "<<< 还剩30秒 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 30 seconds left >>>",
+      "CN": "<<<剩余30秒>>>",
+      "KR": "<<< 30초 남음 >>>",
+      "TW": "<<< 剩餘 30 秒 >>>"
+    }
+  },
+  "<<< 60 seconds left >>>": {
+    "translation": "<<< 还剩60秒 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 60 seconds left >>>",
+      "CN": "<<<剩余60秒>>>",
+      "KR": "<<< 60초 남음 >>>",
+      "TW": "<<< 剩餘 60 秒 >>>"
+    }
+  },
+  "<<< A human get Freeze >>>": {
+    "translation": "<<<人类获得冻结 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< A human get Freeze >>>",
+      "CN": "<<<人类被冻结>>>",
+      "KR": "<<< 인간이 Freeze되었습니다 >>>",
+      "TW": "<<< 人類被凍結 >>>"
+    }
+  },
+  "<<< A human get wing >>>": {
+    "translation": "<<< 人类获得风 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "人間が翼を手に入れた",
+      "CN": "人类获得翅膀",
+      "KR": "<<< 인간이 날개를 얻다 >>>",
+      "TW": "人類獲得翅膀"
+    }
+  },
+  "<<< A zombie get Freeze >>>": {
+    "translation": "<<< 僵尸获得冰 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが凍結した",
+      "CN": "僵尸获得冰冻效果",
+      "KR": "<<< 좀비 발동: 동결 효과 >>>",
+      "TW": "殭屍被凍結"
+    }
+  },
+  "<<< A zombie get Gravity >>>": {
+    "translation": "<<< 僵尸获得黑洞 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビが重力効果をうけた",
+      "CN": "僵尸获得重力效果",
+      "KR": "<<< 좀비 발동: 중력 효과 >>>",
+      "TW": "殭屍獲得重力增強效果"
+    }
+  },
+  "<<< Beat it! False light ! >>>": {
+    "translation": "<<< 打败它！虚假的光！ >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "行け！偽りの光よ！",
+      "CN": "击败它！虚假之光！",
+      "KR": "<<< 박치기! 거짓빛을 타파해라! >>>",
+      "TW": "快走！虛假的幻影！"
+    }
+  },
+  "<<< Camouflage weakens shadow >>>": {
+    "translation": "<<< 伪装削弱黑暗 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "カモフラージュは影を弱体化させる",
+      "CN": "迷彩削弱暗影",
+      "KR": "<<< 위장 시 그림자 약화 >>>",
+      "TW": "偽裝會削弱暗影效果"
+    }
+  },
+  "<<< Core has noticed us >>>": {
+    "translation": "<<< 核心已经注意到我们 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "コアが私たちを発見した",
+      "CN": "核心已注意到我们",
+      "KR": "<<< 코어가 우리를 감지하다 >>>",
+      "TW": "核心已察覺到我們"
+    }
+  },
+  "<<< Core perceives us ,it will use the power of light to defeat us >>>": {
+    "translation": "<<< 核心察觉到我们，它将使用光的力量来击败我们 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "コアは私たちを感知し、光の力で私たちに勝とうとする",
+      "CN": "核心感知到我们，它将使用光的力量击败我们",
+      "KR": "<<< 코어가 우리 존재를 인지하면 빛의 힘을 이용해 우리를 제거하려 할 것이다 >>>",
+      "TW": "核心感知到我們的存在，將使用光之力量擊敗我們"
+    }
+  },
+  "<<< It's now. Defeat shadow !!!!! >>>": {
+    "translation": "<<< 现在是时候，打破黑暗！!!!! >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "今だ！影を倒せ！！！！！",
+      "CN": "就是现在。击败暗影！！！！！",
+      "KR": "<<< 이제다. 그림자를 타파해라! !!!!! >>>",
+      "TW": "就是現在！消滅暗影！！！！"
+    }
+  },
+  "<<< It's too late for you to escape >>>": {
+    "translation": "<<< 为时已晚，你无法逃脱 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "お前に逃げるのは遅すぎる",
+      "CN": "你逃之不及",
+      "KR": "도망치기에는 너무 늦었습니다",
+      "TW": "你太遲了，無法逃脫"
+    }
+  },
+  "<<< Light has been gone for a long time >>>": {
+    "translation": "<<< 光已经消失很久了 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "光は давно 失われた",
+      "CN": "光明早已消逝",
+      "KR": "빛은 이미 오래전에 사라졌습니다",
+      "TW": "光芒早已消失"
+    }
+  },
+  "<<< Maybe one day, shadow will be really defeated >>>": {
+    "translation": "<<< 也许有一天，黑暗将真正被打破 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "いつか影が本当に討伐されるかもしれないな",
+      "CN": "也许终有一天，阴影会被彻底击败",
+      "KR": "어느 날 빛이 정말로 승리할지도 모릅니다",
+      "TW": "或許有一天，陰影會被徹底擊敗"
+    }
+  },
+  "<<< No one escapes success, the shadow covers the world >>>": {
+    "translation": "<<< 没有人能够成功逃脱，黑暗笼罩了世界 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "成功から逃れる者はいない、影が世界を覆う",
+      "CN": "无人能逃脱成功，阴影笼罩世界",
+      "KR": "성공에서 도망갈 수 없습니다, 그림자가 세상을 뒤덮습니다",
+      "TW": "沒有人能逃過成功的果實，陰影籠罩著世界"
+    }
+  },
+  "<<< Now you're facing real shadow >>>": {
+    "translation": "<<< 现在你面对的是真正的黑暗 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "今お前は真の影と対峙している",
+      "CN": "此刻你正直面真正的阴影",
+      "KR": "이제 당신은 진정한 음부와 맞서고 있습니다",
+      "TW": "現在你正面對真正的陰影"
+    }
+  },
+  "<<< People only respect the light >>>": {
+    "translation": "<<< 人们只尊重光 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "人々は光だけを崇拝する",
+      "CN": "人们只尊重光明",
+      "KR": "사람들은 오직 빛만 존중합니다",
+      "TW": "人們只尊崇光明"
+    }
+  },
+  "<<< Press both squares at the same time >>>": {
+    "translation": "<<< 同时按下两个方形按钮 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "両方の四角を同時に押す",
+      "CN": "同时按下两个方块",
+      "KR": "두 가지 상자를 동시에 누르십시오",
+      "TW": "同時按下兩個方塊"
+    }
+  },
+  "<<< Protected by light, you are now immune to zombie attacks, but zombies will still prevent you from escaping >>>": {
+    "translation": "<<< 光保护着你，你现在对僵尸攻击免疫，但僵尸仍然会阻止你逃脱 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "光に守られ、お前はゾンビの攻撃から無効だが、ゾンビはお前の逃避を阻止するだろう",
+      "CN": "受光明庇护，你现在免疫僵尸攻击，但僵尸仍会阻碍你逃脱",
+      "KR": "빛에 의해 보호되어, 당신은 이제 생존자의 공격으로부터 면역적이지만, 생존자들은 여전히 당신을 도망치는 것을 막습니다",
+      "TW": "在光芒的庇護下，你已免疫喪屍的攻擊，但喪屍仍會阻止你逃脫"
+    }
+  },
+  "<<< Ring has noticed us >>>": {
+    "translation": "<<< 光环已经注意到我们 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "リングが我々に気づいた",
+      "CN": "戒指注意到了我们",
+      "KR": "링이 우리를 알아챘다",
+      "TW": "戒指已察覺我們"
+    }
+  },
+  "<<< Shadow disguises light >>>": {
+    "translation": "<<< 黑暗伪装成光 >>>",
+    "MultiLang": {
+      "US": "<< Shadow cloaks light >>",
+      "JP": "影は光をかくす",
+      "CN": "阴影遮蔽了光芒",
+      "KR": "그림자가 빛을 가린다",
+      "TW": "影子掩蔽光芒"
+    }
+  },
+  "<<< Shadow ruled the world a long time ago >>>": {
+    "translation": "<<< 黑暗从很久以前就统治了世界 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "影は遙か以前に世界を支配した",
+      "CN": "阴影早已统治了世界",
+      "KR": "그림자는 오랫동안 세계를 지배해 왔다",
+      "TW": "多年前暗影已統治世界"
+    }
+  },
+  "<<< Something's wrong >>>": {
+    "translation": "<<< 有些事情出现了问题 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "何か変だ",
+      "CN": "出了点问题",
+      "KR": "무언가 잘못됐다",
+      "TW": "事情有些不對勁"
+    }
+  },
+  "<<< The core run away,But we found another way >>>": {
+    "translation": "<<< 核心逃跑了，但我们已经找到了一条新路 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "コアは逃げ去ったが、我々には別の方法がある",
+      "CN": "核心逃跑了，但我们要找到了另外的办法",
+      "KR": "핵심은 도망쳤지만, 다른 방법을 찾았다",
+      "TW": "核心逃跑了，但我們找到了另一個辦法"
+    }
+  },
+  "<<< The ring protects core and restarts the time >>>": {
+    "translation": "<<< 光环保护核心并重置时间 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "リングはコアを保護し、時間を再起動させる",
+      "CN": "戒指保护着核心并重启时间",
+      "KR": "링은 핵심을 보호하고 시간을 재시작한다",
+      "TW": "戒指保護著核心並重啟時間"
+    }
+  },
+  "<<< This is the temple of light, but it has been occupied by the core >>>": {
+    "translation": "<<< 这是光之庙，但它已经被核心占领 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "ここは光の神殿だが、コアに乗っ取られている",
+      "CN": "这里是光芒神殿，但已被核心占据",
+      "KR": "이곳은 빛의 사원이다. 그러나 핵심에게 점령당했다",
+      "TW": "這是光之廟宇，但已被核心佔據"
+    }
+  },
+  "<<< Touch the light block to destroy the core >>>": {
+    "translation": "<<< 触摸光块来摧毁核心 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "光のブロックに触れてコアを破壊せよ",
+      "CN": "触碰光之方块以摧毁核心",
+      "KR": "빛 블록을 터치하여 핵심을 파괴하라",
+      "TW": "接觸光塊以摧毀核心"
+    }
+  },
+  "<<< You escaped, but the core became shadow >>>": {
+    "translation": "<<< 你逃脱了，但核心变成了黑暗 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< あなたは脱出しました、しかしコアは影になりました >>>",
+      "CN": "<<< 你逃脱了，但核心已化为暗影 >>>",
+      "KR": "<<< 당신은 탈출했지만, 핵심이 그림자가 되었습니다 >>>",
+      "TW": "<<< 你逃脫了，但核心已化為暗影 >>>"
+    }
+  },
+  "<<< Zombie's Freeze is stronger >>>": {
+    "translation": "<<< 僵尸冰更加强大 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビのフリーズ効果が高まります >>>",
+      "CN": "<<< 丧尸的冻结效果更强 >>>",
+      "KR": "<<< 좀비의 얼어붙는 힘이 더 강합니다 >>>",
+      "TW": "<<< 殭屍的冰凍效果更強 >>>"
+    }
+  },
+  "<<< Zombies are faster than us. We lose >>>": {
+    "translation": "<<< 僵尸比我们快。我们失败了 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビは私たちより速い。私たちは負けます >>>",
+      "CN": "<<< 丧尸比我们更快。我们输了 >>>",
+      "KR": "<<< 좀비가 저희보다 빠릅니다. 우리가 집니다 >>>",
+      "TW": "<<< 殭屍比我們更快，我們輸了 >>>"
+    }
+  },
+  "<<< Zombies are faster than you. You lose >>>": {
+    "translation": "<<< 僵尸比你快。你失败了 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビはあなたより速い。あなたは負けました >>>",
+      "CN": "<<< 丧尸比你更快。你输了 >>>",
+      "KR": "<<< 좀비가 당신보다 빠릅니다. 당신이 집니다 >>>",
+      "TW": "<<< 殭屍比你更快，你輸了 >>>"
+    }
+  },
+  "<<< Zombies have escaped. You've lost >>>": {
+    "translation": "<<< 僵尸已经逃脱。你失败了 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビが脱出しました。あなた負けです >>>",
+      "CN": "<<< 丧尸逃脱了。你输了 >>>",
+      "KR": "<<< 좀비가 탈출했습니다. 당신은 집니다 >>>",
+      "TW": "<<< 殭屍已逃脫，你戰敗了 >>>"
+    }
+  },
+  "<<< it's too late! >>>": {
+    "translation": "<<< 为时已晚！ >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 手遅れです！ >>>",
+      "CN": "<<< 太迟了！ >>>",
+      "KR": "<<< 너무 늦었습니다! >>>",
+      "TW": "<<< 太遲了！ >>>"
+    }
+  },
+  "<<< zombie is coming,retreat >>>": {
+    "translation": "<<< 僵尸来了，撤退 >>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビが近づいています、退避してください >>>",
+      "CN": "<<< 丧尸来了，撤退 >>>",
+      "KR": "<<< 좀비가 다가옵니다, 후퇴하세요 >>>",
+      "TW": "<<< 殭屍來了，撤退 >>>"
+    }
+  },
+  "lua load\")": {
+    "translation": "lua脚本加载）",
+    "MultiLang": {
+      "US": "",
+      "JP": "lua load",
+      "CN": "lua 加载\"",
+      "KR": "lua 로드\")\"",
+      "TW": "lua 載入"
+    }
+  },
+  "<<< stage set to [Core] >>>": {
+    "translation": "关卡设置为核心",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< stage set to [Core] >>>",
+      "CN": "<<< 地图已设置为 [核心] >>>",
+      "KR": "<<< 맵 설정: [코어] >>>",
+      "TW": "<<< 場景已設定為 [核心] >>>"
+    }
+  },
+  "<<< stage set to [Ring] >>>": {
+    "translation": "关卡设置为光环",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< stage set to [Ring] >>>",
+      "CN": "<<< 地图已设置为 [竞技场] >>>",
+      "KR": "<<< 맵 설정: [링] >>>",
+      "TW": "<<< 場景已設定為 [迴圈] >>>"
+    }
+  },
+  "<<< Map creat by lopb,Port by linyan >>>": {
+    "translation": "地图作者：lopb 移植：linyan 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< Map creat by lopb,Port by linyan >>>",
+      "CN": "<<< 地图由 lopb 制作，端口由 linyan 制作 >>>",
+      "KR": "<<< 맵 제작: lopb, 포트 제작: linyan >>>",
+      "TW": "<<< 地圖由 lopb 創作，Port 由 linyan 製作 >>>"
+    }
+  },
+  "<<< Map is currently being tested >>>": {
+    "translation": "地图目前正在测试阶段",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< stage set to [Escape] >>>",
+      "CN": "<<< 地图正在测试中 >>>",
+      "KR": "<<< 맵은 현재 테스트 중입니다. >>>",
+      "TW": "<<< 地圖目前正處於測試階段 >>>"
+    }
+  },
+  "<<< stage set to [Escape] >>>": {
+    "translation": "关卡设置为逃亡",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ステージ設定 [エスケープ] >>>",
+      "CN": "<<< 地图已设置为 [逃生] >>>",
+      "KR": "<<< 맵 설정: [탈출] >>>",
+      "TW": "<<< 場景已設定為 [逃脫] >>>"
+    }
+  },
+  "Fire! This is final battle!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Fire! This is final battle!",
+      "CN": "开火！这是最终决战！",
+      "KR": "불꽃! 이것은 마지막 전투입니다!",
+      "TW": "開火！這是最終戰鬥！"
+    }
+  },
+  "<<< you did it !!! Core have been defeated by you,but you still have to resist zombie attacks until the end >>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< you did it !!! Core have been defeated by you,but you still have to resist zombie attacks until the end >>>",
+      "CN": "<<< 你成功了！！！核心已被你击败，但你仍需坚持抵抗僵尸的攻击直至最后 >>>",
+      "KR": "<<<축하합니다!!! 코어가 당신에 의해 격파되었으나, 당신은 마지막까지 좀비들의 습격으로부터 저항해야 합니다. >>>",
+      "TW": "<<< 你做到了！核心已被你擊敗，但你仍須抵抗殭屍的攻擊直至最後 >>>"
+    }
+  }
+}

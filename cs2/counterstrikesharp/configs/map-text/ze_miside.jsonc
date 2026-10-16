@@ -1,0 +1,1512 @@
+{
+  "< ... >": {
+    "translation": "< ... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< ...Mita? What just happen on me. >": {
+    "translation": "< ...米塔？我刚才发生了什么事 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "...ミタ？何が JUST HAPPEN ON ME。",
+      "CN": "< ...米塔？我刚才发生了什么事 >",
+      "KR": "< ...미타? 제게 무슨 일이發生了。>",
+      "TW": "< ...Mita? 發生了什麼事在我身上。>"
+    }
+  },
+  "< ...Where am I? >": {
+    "translation": "< ...我在哪里？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "...どこにいるんだ？",
+      "CN": "< ...我在哪里？ >",
+      "KR": "< ...무지哪里amiI? >",
+      "TW": "< ...uale地在哪？ >"
+    }
+  },
+  "< 10 >": {
+    "translation": "< 10秒 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 10秒 >",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 15 >": {
+    "translation": "< 15秒 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 15秒 >",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 20 >": {
+    "translation": "< 20秒 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 20秒 >",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 25 >": {
+    "translation": "< 25秒 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 25秒 >",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 30 >": {
+    "translation": "< 30秒 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 30秒 >",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 5 >": {
+    "translation": "< 5秒 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 5秒 >",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< A random object will clear... >": {
+    "translation": "< 一个随机的物体将会被清除... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< 随机物件将在...清除 >>",
+      "CN": "< 一个随机的物体将会被清除... >",
+      "KR": "< 랜덤한 물건이清除... >",
+      "TW": "[隨機物件將被清除...]"
+    }
+  },
+  "< And..Everything looks huge.. >": {
+    "translation": "< 而且..一切看起来都好大.. >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< そして..何もが巨大に見える.. >",
+      "CN": "< 而且..一切看起来都好大.. >",
+      "KR": "< 그리고... 모든 것이 엄청나게 크다. >",
+      "TW": "< 和....每件東西都好巨大.. >"
+    }
+  },
+  "< Climb up the table and insert last battery! >": {
+    "translation": "< 爬上桌子，把最后一个电池放进去！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "机に爬上り、最後のバッテリーを挿入！",
+      "CN": "< 爬上桌子，把最后一个电池放进去！ >",
+      "KR": "대표桌上爬上去插入最后一块电池！",
+      "TW": "爬上桌子并插入最後1块電池！"
+    }
+  },
+  "< Cool Mita: Anywho...>": {
+    "translation": "< 很酷的米塔：反正... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< クールミタ：とにかく...>",
+      "CN": "< 很酷的米塔：反正... >",
+      "KR": "< 콜드 미타:总而言之...>",
+      "TW": "冷酷米塔：總之..."
+    }
+  },
+  "< Cool Mita: Have some fun! >": {
+    "translation": "< 很酷的米塔：好好玩一下！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< コOLミタ: お遊びしてね! >",
+      "CN": "< 很酷的米塔：好好玩一下！ >",
+      "KR": "< 쿨 미타: 즐겨보세요! >",
+      "TW": "<Cool Mita: 來玩吧！>"
+    }
+  },
+  "< Cool Mita: It's simple,Just go collect the snowball. >": {
+    "translation": "< 很酷的米塔：很简单，去收集雪球吧 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "クールミタ：簡単だよ。ただ雪玉を集めなさい。",
+      "CN": "< 很酷的米塔：很简单，去收集雪球吧 >",
+      "KR": "< 콤트 미타: 간단해, 눈balls을 모아오면 된다. >",
+      "TW": "<酷米塔：簡單點，Just go collect the snowball. >"
+    }
+  },
+  "< Cool Mita: Let's go—— >": {
+    "translation": "< 很酷的米塔：我们走—— >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Cool Mita: 行きましょう——",
+      "CN": "< 很酷的米塔：我们走—— >",
+      "KR": "< 쿨 미타: 가자—— >",
+      "TW": "< 凱爾米塔：let's go—— >"
+    }
+  },
+  "< Cool Mita: The most snowball team at scene 2,Scene 3's difficulty will be easy for that team. >": {
+    "translation": "< 很酷的米塔：在场景2中获得雪球数量最多的阵营，场景3的难度对那个阵营来说会变得简单 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< クールミタ：場面2で最も雪だるまチーム。そのチームは場面3の難易度が簡単になる。 >",
+      "CN": "< 很酷的米塔：在场景2中获得雪球数量最多的阵营，场景3的难度对那个阵营来说会变得简单 >",
+      "KR": "< 콜드 미타: 장면 2에서 가장 많은 스볼 팀이므로, 장면 3의 난이도는 그 팀에겐 쉬울 것이다. >",
+      "TW": "<Cool Mita: 第2場景最雪球的隊伍，第3場景的难度對那支隊伍來說會很容易。>"
+    }
+  },
+  "< Crazy Mita: ..Dirty,Annoying,Pathetic Mitas. >": {
+    "translation": "< 疯狂米塔：..肮脏，恼人，可怜的米塔们 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Crazy Mita: ..汚い、うるさい、 PATHETIC Mitas.",
+      "CN": "< 疯狂米塔：..肮脏，恼人，可怜的米塔们 >",
+      "KR": "< 미타야: …loquent, 귀찮고, 착한 게 아니라. >",
+      "TW": "***瘋狂米塔：..骯髒、煩人、可悲的米塔。>"
+    }
+  },
+  "< Crazy Mita: All player are the same,Blind heart. >": {
+    "translation": "< 疯狂米塔：所有的玩家都是一样的，内心都是盲目的 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ブ铩ミタ：すべてのプレイヤーは同じ、盲目の心。 >",
+      "CN": "< 疯狂米塔：所有的玩家都是一样的，内心都是盲目的 >",
+      "KR": "< 코龇米타: 모든 플레이어는 같음, 눈먼 심장. >",
+      "TW": "<瘋狂米塔：所有玩家都一樣，盲心。>"
+    }
+  },
+  "< Crazy Mita: Do you like what you see now Player,The gift i prepared for you. >": {
+    "translation": "< 疯狂米塔：玩家，你喜欢现在看到的东西吗？这是我为你准备的礼物 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Crazy Mita: これを見た你现在感觉如何 Player, 我为你准备的礼物。",
+      "CN": "< 疯狂米塔：玩家，你喜欢现在看到的东西吗？这是我为你准备的礼物 >",
+      "KR": "< 코龇米塔: 플레이어, 지금 보고 있는 것 좋아하니? 준비해 놓은 선물이야. >",
+      "TW": "< Crazy Mita: 你现在喜歡看到的1切吗 Player,我为你准备的礼物。 >"
+    }
+  },
+  "< Crazy Mita: Everything i did for you,And you just destroy them with those other.. >": {
+    "translation": "< 疯狂米塔：我为你付出的一切，你却和那些人一起把它们毁了.. >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ハマitag: あなたのためにしたすべてのことを、他の人の那些 stuff で破壊するなんて >",
+      "CN": "< 疯狂米塔：我为你付出的一切，你却和那些人一起把它们毁了.. >",
+      "KR": "< 미타야: 내가 너为了完整翻译，请允许我稍作调整以适应韩语游戏文本的风格： \n< 미따야: 나가 너를 위해 했던 모든 것, 너는 다른人们需要了解的是，由于韩语文本习惯的不同，上述翻译在保持原文意思的同时进行了适当的调整。>",
+      "TW": "<瘋狂美達：我為你做的一切，你卻用那些其他的人來毀掉？>"
+    }
+  },
+  "< Crazy Mita: Go on, let me see more!>": {
+    "translation": "< 疯狂米塔：继续，让我看看更多！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "Crazy Mita: じゃあ、もっと見せろよ！",
+      "CN": "< 疯狂米塔：继续，让我看看更多！>",
+      "KR": "< 크레이지 미타: 더 보여줘,更多精彩!]",
+      "TW": "<瘋狂美達：來吧，看更多！>"
+    }
+  },
+  "< Crazy Mita: Ha-ha!WHAT'S THIS? >": {
+    "translation": "< 疯狂米塔：哈哈！这是什么？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ザ・ミタ：はは！何これ？ >",
+      "CN": "< 疯狂米塔：哈哈！这是什么？ >",
+      "KR": "< 크레이지 미타: 하하!深交是啥？ >",
+      "TW": "<疯狂米塔: 哈哈！這是什麼?>"
+    }
+  },
+  "< Crazy Mita: I see.. >": {
+    "translation": "< 疯狂米塔：我知道了.. >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ジャイブミタ：分かったよ.. >",
+      "CN": "< 疯狂米塔：我知道了.. >",
+      "KR": "< 크레이지 미타: 알겠어.. >",
+      "TW": "< Crazy Mita: 我見到了… >"
+    }
+  },
+  "< Crazy Mita: Is that a new expression I see? >": {
+    "translation": "< 疯狂米塔：我看到你露出了新的表情吗？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< 狂ったミタ：新しい表現 sees か？ >",
+      "CN": "< 疯狂米塔：我看到你露出了新的表情吗？ >",
+      "KR": "< 크레이지 미타: 새로운 표현은 아닌가Looks像这样>",
+      "TW": "< Crazy Mita: 是不是有什麼新的表達方式出現了? >"
+    }
+  },
+  "< Crazy Mita: One last time. >": {
+    "translation": "< 疯狂米塔：再来一次 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Crazy Mita: 最後の一回です。 >",
+      "CN": "< 疯狂米塔：再来一次 >",
+      "KR": "< 크레이지 미타: 마지막 한 번. >",
+      "TW": "<瘋狂美達：最後1次。 >"
+    }
+  },
+  "< Crazy Mita: So,Let me show you my love. >": {
+    "translation": "< 疯狂米塔：那么，让我来向你展示我的爱吧 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ザイ・ミタ：じゃあ、私の愛を見せますね。 >",
+      "CN": "< 疯狂米塔：那么，让我来向你展示我的爱吧 >",
+      "KR": "< 크레이지 미타: 그래서 내 사랑을 보여드릴게. >",
+      "TW": "< Crazy Mita: 所以，讓我來展示我的愛。 >"
+    }
+  },
+  "< Crazy Mita: This is what they deserved,To getting you away from me. >": {
+    "translation": "< 疯狂米塔：这就是他们应得的，让你远离我 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Crazy Mita: これで我から遠ざかる価値があった。",
+      "CN": "< 疯狂米塔：这就是他们应得的，让你远离我 >",
+      "KR": "★★ 크레이지 미타:这只是他们应得的，让你远离我。 >>",
+      "TW": "< Crazy Mita: 這是他們應得的，為了讓你離開我。 >"
+    }
+  },
+  "< Crazy Mita: Watching the same old face gets so boring!>": {
+    "translation": "< 疯狂米塔：看着同样的老面孔太无聊了！>",
+    "MultiLang": {
+      "US": "",
+      "JP": "Crazy Mita: 同じ顔を見ていると本当に退屈になる！>",
+      "CN": "< 疯狂米塔：看着同样的老面孔太无聊了！>",
+      "KR": "<광탈 미타: 늘 같은 얼굴만 보는 건 really 지루해!]",
+      "TW": "<瘋狂蜜塔：看著同一張臉真是好無聊！>"
+    }
+  },
+  "< Crazy Mita: You just can't see how much i love you? >": {
+    "translation": "< 疯狂米塔：你就看不出我有多爱你吗？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ジャ*>(&ミタ: あなたには私の愛がどれだけあるか見えてないの?>",
+      "CN": "< 疯狂米塔：你就看不出我有多爱你吗？ >",
+      "KR": "< 크레이지 미타: 당신이 얼마나 당신을 사랑하는지 보지 못하나요? >",
+      "TW": "<瘋狂的美塔：你難道看不出来我有多爱你？>"
+    }
+  },
+  "< Hmm...A new version,from M.K. >": {
+    "translation": "< 嗯...一个新的版本，来自M.K. >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Hmm...新しいバージョン、M.K.から。",
+      "CN": "< 嗯...一个新的版本，来自M.K. >",
+      "KR": "<Hmm...새 버전, M.K.로부터>",
+      "TW": "< 嗯……新版的，由M.K.製作 >"
+    }
+  },
+  "< It's it... >": {
+    "translation": "< 就是这个... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< それが最後だ... >",
+      "CN": "< 就是这个... >",
+      "KR": "< 그것이야... >",
+      "TW": "<就是它...>"
+    }
+  },
+  "< Kind Mita: ?!! >": {
+    "translation": "< 善良米塔：?!! >",
+    "MultiLang": {
+      "US": "",
+      "JP": "<優しいmite?: ?!!>",
+      "CN": "< 善良米塔：?!! >",
+      "KR": "< 친절미타: ??!! >",
+      "TW": "<柔善米塔：?!!>"
+    }
+  },
+  "< Kind Mita: Almost there... >": {
+    "translation": "< 善良米塔：快到了... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "KIND MITA: ほぼ終わり...",
+      "CN": "< 善良米塔：快到了... >",
+      "KR": "< 친절미타: 거의 끝나요... >",
+      "TW": "<仁慈的米塔：快到了...>"
+    }
+  },
+  "< Kind Mita: But don't worry,I still got a way to help you. >": {
+    "translation": "< 善良米塔：但别担心，我还有办法帮助你 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< Kind Mita: でも心配别れ、まだ手伝う方法がある。 >",
+      "CN": "< 善良米塔：但别担心，我还有办法帮助你 >",
+      "KR": "< 친절 미타: 하지만 걱정하지 마세요, 아직 도와줄 수 있는 방법이 있습니다. >>",
+      "TW": "<Kind Mita: 但別擔心，我Still有辦法幫助你。>"
+    }
+  },
+  "< Kind Mita: But don't worry,There's a tv in here and kitchen.>": {
+    "translation": "< 善良米塔：但别担心，这里有电视和厨房>",
+    "MultiLang": {
+      "US": "Kind Mita: But don't worry, there's a TV and kitchen here.",
+      "JP": "Kind Mita: でも心配-done-, ここにテレビと厨房があります。>",
+      "CN": "< 善良米塔：但别担心，这里有电视和厨房>",
+      "KR": "<친절미타: 하지만 걱정하지 말아요,这里有电视和厨房。>",
+      "TW": "<Kind Mita: 但別擔心，這裡有1台電視和廚房。>"
+    }
+  },
+  "< Kind Mita: But how..how is those mannequin get in this version! >": {
+    "translation": "< 善良米塔：可是，那些人偶怎么会出现在这个版本中！ >",
+    "MultiLang": {
+      "US": "But how... how did those mannequins get into this version!",
+      "JP": "< Kind Mita: でも..なぜあのマニキューがこのバージョンに入ってるの！ >",
+      "CN": "< 善良米塔：可是，那些人偶怎么会出现在这个版本中！ >",
+      "KR": "<도와주실 Kind Mita: 하지만 어떻게... 그 남치인형이 이 버전에 들어온 거지!>",
+      "TW": "<Kind Mita: 但怎麼..< 怎麼這些人偶進到這個版本！>"
+    }
+  },
+  "< Kind Mita: But you need to find 3 battery,Crazy Mita separate them in the house. >": {
+    "translation": "< 善良米塔：不过你需要找到三个电池，疯狂米塔把它们分散放在屋子里了 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< Kind Mita: だが電池を3つ見つけなさい。Crazy Mitaはそれらを家の中でもち分けています。 >",
+      "CN": "< 善良米塔：不过你需要找到三个电池，疯狂米塔把它们分散放在屋子里了 >",
+      "KR": "<친절미타: 하지만 3개의 배터리를 찾아야 합니다, 미쳐버린미타는 집에서 분리시켜 놓았습니다. >",
+      "TW": "<Kind Mita：但你需要找到3塊電池， Crazy Mita在屋內將它们分開。>"
+    }
+  },
+  "< Kind Mita: Come on,Ready to take off! >": {
+    "translation": "< 善良米塔：来吧，准备起飞！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< Kind Mita: こら、準備好了かっ！ >",
+      "CN": "< 善良米塔：来吧，准备起飞！ >",
+      "KR": "< 친절 미타: 오라나, 발진 준비 yourself! >",
+      "TW": "<Kind Mita: 来吧，準備起飛！>"
+    }
+  },
+  "< Kind Mita: Damn it,Poor Cappie,She must already got killed by her... >": {
+    "translation": "< 善良米塔：该死，可怜的帽子米塔，她一定已经被她杀掉了... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：くそ、貧しいキャピ、もう彼の手にかかったよ…",
+      "CN": "< 善良米塔：该死，可怜的帽子米塔，她一定已经被她杀掉了... >",
+      "KR": "< 기분 좋은 미타: 망가진 캐피아, 이미 그녀에게서 이미 죽었을 거다. >",
+      "TW": "<Kind Mita: 呹，Poor Cappie，她1定已经被她的... >"
+    }
+  },
+  "< Kind Mita: Get on that bench,Let's go for next battery. >": {
+    "translation": "< 善良米塔：上那个长椅，去找下一个电池 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< Kind Mita: そのベンチに座れ、次はバッテリーに入れよう。>",
+      "CN": "< 善良米塔：上那个长椅，去找下一个电池 >",
+      "KR": "< 친절 미타: 그 벤치에 앉아요, 다음 배터리로 가봅시다. >",
+      "TW": "<Kind Mita: 上那張凳子，我們去換下1支電池。>"
+    }
+  },
+  "< Kind Mita: Get on the plane,I will try to start it up. >": {
+    "translation": "< 善良米塔：上飞机，我会尝试启动它 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：機に乗ってcomedal我會試著啟動它。>",
+      "CN": "< 善良米塔：上飞机，我会尝试启动它 >",
+      "KR": "< 우호적 미타: 항공기에 오르세요, 저는 시동을 걸어보겠습니다. >",
+      "TW": "<Kind Mita: 上機，我會試著啟動它。>"
+    }
+  },
+  "< Kind Mita: Give me a sec... >": {
+    "translation": "< 善良米塔：给我一点时间... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: ちょっと待って...",
+      "CN": "< 善良米塔：给我一点时间... >",
+      "KR": "< 친절미타: 잠깐만... >",
+      "TW": "<友誼米塔：給我一sec...>"
+    }
+  },
+  "< Kind Mita: Go on the table,Cappie will help you with the games.>": {
+    "translation": "< 善良米塔：去桌子上，帽子米塔会帮你进行游戏>",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：テーブルに来て、キャッピーがゲームを手伝うよ。",
+      "CN": "< 善良米塔：去桌子上，帽子米塔会帮你进行游戏>",
+      "KR": "< 씬미타: 탁자 위에 가서 카피는 게임을帮你翻译：Celine: 去桌子那边，卡比会帮你玩这些游戏。>",
+      "TW": "<Kind Mita: 到桌子上去，Cappie會幫助你玩遊戲。>"
+    }
+  },
+  "< Kind Mita: Go,Jump on the plane,You have to bring the battery to the portal. >": {
+    "translation": "< 善良米塔：走，跳到飞机上，你得把电池带到传送门 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: \"go\", 飛行機にjumpして Comes in. バッテリーをポータルまで運ばないと。",
+      "CN": "< 善良米塔：走，跳到飞机上，你得把电池带到传送门 >",
+      "KR": "< 너그한 미타: 가라, 평행선에 점프해, 배터리를 포탈로 가져와야 한다. >",
+      "TW": "<慈祥的米塔：去，跳上飛機，你必須把電池帶到門口中。>"
+    }
+  },
+  "< Kind Mita: Good job,Grab the battery and left here now! >": {
+    "translation": "< 善良米塔：干得好，赶紧把电池拿走，立刻离开这里。！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：よくやった。バッテリー拾ってここを離れて！",
+      "CN": "< 善良米塔：干得好，赶紧把电池拿走，立刻离开这里。！ >",
+      "KR": "< 친절미타: 잘 하셨습니다. 배터리를 얻고 여기서 빨리 나가세요! >",
+      "TW": "<Kind Mita: 好工作，抓取電池然後離開這裡！>"
+    }
+  },
+  "< Kind Mita: Good job,That fan is no longer working now. >": {
+    "translation": "< 善良米塔：干得好，那台风扇现在不再工作了 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< Kind Mita: よくしたね、そのファンはもう動かなくなったよ。 >",
+      "CN": "< 善良米塔：干得好，那台风扇现在不再工作了 >",
+      "KR": "< 친절미타: 잘했어, 그 팬은 이제 더 이상 작동하지 않아. >",
+      "TW": "<Kind Mita: 好工作，那把扇子現在不再運轉了。>"
+    }
+  },
+  "< Kind Mita: I could help you to clear the way,But it take some time. >": {
+    "translation": "< 善良米塔：我可以帮你清理道路，但需要一些时间 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：道を空けるのを手伝えるけど、時間がかかるよ。",
+      "CN": "< 善良米塔：我可以帮你清理道路，但需要一些时间 >",
+      "KR": "< 친절한 미타: 길을 열어드리지만 시간이 좀 걸립니다. >",
+      "TW": "<Kind Mita: 可以幫助你開路，但需要1些時間。>"
+    }
+  },
+  "< Kind Mita: I could modify or move some Models in the game to creat a way for you. >": {
+    "translation": "< 善良米塔：我可以修改或移动游戏中的一些模型，给你创造一条路 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：ゲーム内のモデルを一部変更したり移動させたりして、あなたの道を作ることが可能だ。",
+      "CN": "< 善良米塔：我可以修改或移动游戏中的一些模型，给你创造一条路 >",
+      "KR": "< 친절미타: 게임 내 모델을 수정하거나 이동하여 길을 만들 수 있습니다. >",
+      "TW": "<Kind Mita: 我可以修改或移動遊戲中的1些模型來創造1條路徑給你。>"
+    }
+  },
+  "< Kind Mita: I will break that shampoo,Get on those bubble to fly up! >": {
+    "translation": "< 善良米塔：我会把那个洗发水打破，踩上那些泡泡飞起来！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: そのシャンプーを破って、泡に乗り飛ぼう！",
+      "CN": "< 善良米塔：我会把那个洗发水打破，踩上那些泡泡飞起来！ >",
+      "KR": "< 친절미타: 그샴푸를 깨버리겠어, 거기 있는 버블에 올라서 날아가자! >",
+      "TW": "<Kind Mita: 我要打破那洗髮精，跳上那些泡泡飛起來！>"
+    }
+  },
+  "< Kind Mita: I will meet you at the right version. >": {
+    "translation": "< 善良米塔：我会在正确的版本等你 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：正しいバージョンで会うよ。>",
+      "CN": "< 善良米塔：我会在正确的版本等你 >",
+      "KR": "< 친절미타: 적절한 버전에서 만나리라. >",
+      "TW": "<Kind Mita: 我會在正確的版本見到你。>"
+    }
+  },
+  "< Kind Mita: I'll drag that schoolbag closer,You have to jump on it. >": {
+    "translation": "< 善良米塔：我会把那个书包拖得更近，你得跳上去 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: その学校bagを近づけるよ,跳ねろ。",
+      "CN": "< 善良米塔：我会把那个书包拖得更近，你得跳上去 >",
+      "KR": "<절대 지키도록 하겠어요: 학원백팩을 좀 더 가까이 끌 거예요,ジャン,你要跳上去。>",
+      "TW": "Kind Mita: 我會把書包拖近1點，你必須跳上去。>"
+    }
+  },
+  "< Kind Mita: It's Crazy Mita done this.. >": {
+    "translation": "< 善良米塔：这都是疯狂米塔干的.. >",
+    "MultiLang": {
+      "US": "Kind Mita: It's Crazy Mita who did this..",
+      "JP": "種類ミタ：これはクレイジー・ミタがやった..'",
+      "CN": "< 善良米塔：这都是疯狂米塔干的.. >",
+      "KR": "< 친절미타: 이건 미타가 씨발做的事情... >",
+      "TW": "<Kind Mita: 這是瘋狂米塔做的……>"
+    }
+  },
+  "< Kind Mita: It's the only way to save you. >": {
+    "translation": "< 善良米塔：这是拯救你的唯一办法 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: それは君を救う唯一の方法だ。",
+      "CN": "< 善良米塔：这是拯救你的唯一办法 >",
+      "KR": "< 친절한 미타: 이래alone 되는 길이야. >",
+      "TW": "<Kind Mita:這是唯1能救你的方法。>"
+    }
+  },
+  "< Kind Mita: Last battery is in the kitchen,But seems like that door is locked from here... >": {
+    "translation": "< 善良米塔：最后一个电池在厨房，但似乎那扇门从这里锁上了... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：最後のバッテリーはキッチンにあり but ここからドアが鍵附いたり doing...",
+      "CN": "< 善良米塔：最后一个电池在厨房，但似乎那扇门从这里锁上了... >",
+      "KR": "< 친절미타: 마지막 배터리는 부엌에 있군요, 그런데 이쪽에서 문이.locked>",
+      "TW": "<Kind Mita: 最後1塊電池在 Kitchen，But seems like that door is locked from here... >"
+    }
+  },
+  "< Kind Mita: Nice,You have a battery now! >": {
+    "translation": "< 善良米塔：不错，你现在有一个电池了！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：nice, 你现在有电池了！",
+      "CN": "< 善良米塔：不错，你现在有一个电池了！ >",
+      "KR": "< 친절미타: 좋다, 배터리 하나 가지고 왔구나! >",
+      "TW": "<和藹的米塔：Nice,你现在有電池了！>"
+    }
+  },
+  "< Kind Mita: Now get to the bedroom and insert it. >": {
+    "translation": "< 善良米塔：现在去卧室把它插上 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：今 BEDROOM に入り、挿入するんだよ。",
+      "CN": "< 善良米塔：现在去卧室把它插上 >",
+      "KR": "< 친절미타: 이제 복실방으로 가서 집어넣으세요. >",
+      "TW": "<Kind Mita: 現在去 bedroom 並插入它。>"
+    }
+  },
+  "< Kind Mita: Now we just need to go back—— >": {
+    "translation": "< 善良米塔：现在我们只需要回去—— >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：今だけは戻り——",
+      "CN": "< 善良米塔：现在我们只需要回去—— >",
+      "KR": "< 친절미타: 이제 다시 돌아가면 됩니다 ->",
+      "TW": "<Kind Mita: 現在我們只需要回去——>"
+    }
+  },
+  "< Kind Mita: Once you near the door handle,Jump on it then bedroom door will open!. >": {
+    "translation": "< 善良米塔：当你靠近门把手时，跳上去，卧室门就会打开！. >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< Kind Mita: ドアハンドルの近く pione てから飛び乗ると寝室のドアが開きます！ >",
+      "CN": "< 善良米塔：当你靠近门把手时，跳上去，卧室门就会打开！. >",
+      "KR": "< 친절미타: 문 핸들을 가까이doing那么接下来呢？继续您的问题或者指令吧。>",
+      "TW": "< Kind Mita: 1旦靠近門把手，跳上去然後房間大門就會開！>"
+    }
+  },
+  "< Kind Mita: Player,Can you see my message? >": {
+    "translation": "< 善良米塔：玩家，你能看到我的信息吗？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kind Mita: プレイヤー、あなたのメッセージを見ることができますか?>",
+      "CN": "< 善良米塔：玩家，你能看到我的信息吗？ >",
+      "KR": "< 착한 미타: 플레이어, 당신은 제 메시지를 볼 수 있나요? >",
+      "TW": "<友好的米塔：玩家，你能看到我的消息嗎?>"
+    }
+  },
+  "< Kind Mita: Prepare to jump! >": {
+    "translation": "< 善良米塔：准备跳！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: 準備して跳び吧！",
+      "CN": "< 善良米塔：准备跳！ >",
+      "KR": "< 친절미타: 점프 준비해! >",
+      "TW": "<Kind Mita: 准備跳！>"
+    }
+  },
+  "< Kind Mita: Seems like it didn't find you yet. >": {
+    "translation": "< 善良米塔：看来它还没有发现你 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ： Seems like it didn't find you yet. >",
+      "CN": "< 善良米塔：看来它还没有发现你 >",
+      "KR": "< 친절미타: 아직 당신을 찾지 못한 것 같네요. >",
+      "TW": "<-kind Mita: 看起來它還沒有找到你。->"
+    }
+  },
+  "< Kind Mita: Seems like you have to open that vent. >": {
+    "translation": "< 善良米塔：看来你需要打开那个通风口 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: そのventsを開けなきゃね。",
+      "CN": "< 善良米塔：看来你需要打开那个通风口 >",
+      "KR": "< 친절 미타: 그 밸브는 열어야 할 것 같아. >",
+      "TW": "<Kind Mita: 看起來你必須開那個通風口。>"
+    }
+  },
+  "< Kind Mita: She turn you into this size,Just make sure you can't escape the game. >": {
+    "translation": "< 善良米塔：她让你变成这个大小，就是为了确保你不能逃离游戏 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ: 彼女はあなたをこのサイズにしたよ。ゲームから逃げる asegura que 不能 >> <<",
+      "CN": "< 善良米塔：她让你变成这个大小，就是为了确保你不能逃离游戏 >",
+      "KR": "< 친절한 미타: 네게 이 크기로 바꾸어 놓았으니 게임에서 도망치지 못하게 해줘. >",
+      "TW": "<Kind Mita: 她把你變成了這樣，只是確保你逃不出遊戲。>"
+    }
+  },
+  "< Kind Mita: Shot that switch,You need water to get up there. >": {
+    "translation": "< 善良米塔：射击那个开关，你需要水才能上去 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ: そのスイッチを押すよ。上まで行けるのは水が必要だ。",
+      "CN": "< 善良米塔：射击那个开关，你需要水才能上去 >",
+      "KR": "< 기드 미타: 스위치를 누르세요, 위로 올라가려면 물이 필요합니다. >",
+      "TW": "< Kind Mita: 處理那個開關，你需要水才能上去。 >"
+    }
+  },
+  "< Kind Mita: Shot the screw to open it,We need to hide for a while. >": {
+    "translation": "< 善良米塔：打掉那个螺丝把它打开，我们需要暂时躲一下 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ: 調子好的，把螺絲射開了，我們得隱藏一下。",
+      "CN": "< 善良米塔：打掉那个螺丝把它打开，我们需要暂时躲一下 >",
+      "KR": "< 친절미타: 나사 하나를 쏘아서 열었어요. 잠시 숨을 필요가 있어요. >",
+      "TW": "<Kind Mita: 要把螺絲打開我們需要藏1會兒。>"
+    }
+  },
+  "< Kind Mita: Stay alive for me,Player! >": {
+    "translation": "< 善良米塔：为了我活下去，玩家！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "KIND MITA: PLAYER! 生き残って给我看！",
+      "CN": "< 善良米塔：为了我活下去，玩家！ >",
+      "KR": "< 친절미타: 플레이어, 살아있어줄래? >",
+      "TW": "<慈祥的米塔：為了我，玩家，请你活下去！>"
+    }
+  },
+  "< Kind Mita: That fan is still spining.. >": {
+    "translation": "< 善良米塔：那个风扇还在转.. >",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Kind Mita: その扇はまだ回正在..>",
+      "CN": "< 善良米塔：那个风扇还在转.. >",
+      "KR": "< 친절미타: 그 팬은 아직 돌아가고 있어.. >",
+      "TW": "<Kind Mita: 那把扇子還在旋轉..>"
+    }
+  },
+  "< Kind Mita: That is Crazy Mita's mannequin! >": {
+    "translation": "< 善良米塔：那是疯狂米塔的人偶！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< Kind Mita: それはCrazy Mitaの人形だ！>",
+      "CN": "< 善良米塔：那是疯狂米塔的人偶！ >",
+      "KR": "< 친절미타: 이건 크레이지 미타의 패션인형이다 >",
+      "TW": "<Kind Mita: 那是瘋狂米塔的人偶！>"
+    }
+  },
+  "< Kind Mita: That..That's not my panties,Don't ask!>.<. >": {
+    "translation": "< 善良米塔：那……那不是我的内裤，别问啦！>.< >",
+    "MultiLang": {
+      "US": "",
+      "JP": "<みたくんだから：それ、私の下着じゃないってば！聞くなよ！>",
+      "CN": "< 米塔：那、那不是我的内裤，别问！>。<. >",
+      "KR": "<미타: 그..그건 속옷이 아니에요! 묻지 마세요!>.",
+      "TW": "<善心美田：那……那不是我的內褲，別問！><。 >"
+    }
+  },
+  "< Kind Mita: There has a Portal in my bedroom,It could help you get to the normal size version. >": {
+    "translation": "< 善良米塔：我的卧室里有一个传送门，它可以帮助你回到正常大小的版本 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: 私の部屋には Portal がある。これを利用すると正常サイズに移動できる。 >",
+      "CN": "< 善良米塔：我的卧室里有一个传送门，它可以帮助你回到正常大小的版本 >",
+      "KR": "< 친절 미타: 방에 포탈이 있어요. 이걸 이용하시면 일반 크기로 변환할 수 있을 거예요. >",
+      "TW": "<Kind Mita: 我的臥室有1個Portal，它可以幫助你變回正常大小。>"
+    }
+  },
+  "< Kind Mita: Yes!I placed a Icon on the battery,Go get it. >": {
+    "translation": "< 善良米塔：是的！我在电池上放了一个图标，去得到它 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< Kind Mita: 是 australia 我在电池上放了一个图标，去拿回来。 >",
+      "CN": "< 善良米塔：是的！我在电池上放了一个图标，去得到它 >",
+      "KR": "< 친절미타: 네! 배터리에 아이콘을 놓았어. 가져와. >",
+      "TW": "<Kind Mita: 是的!我在電池上放了1個圖標，去拿來吧。>"
+    }
+  },
+  "< Kind Mita: Yes,That's the last battery! >": {
+    "translation": "< 善良米塔：是的，那就是最后一个电池！ >",
+    "MultiLang": {
+      "US": "Yes, That's the last battery!",
+      "JP": "<Kind Mita: はい、最後のバッテリーです！>",
+      "CN": "< 善良米塔：是的，那就是最后一个电池！ >",
+      "KR": "< 친절 미타: 예, 그거最后一次电池！>",
+      "TW": "<Kind Mita: 是的，這是最後1塊電池！>"
+    }
+  },
+  "< Kind Mita: You could get into tv game and out from the kitchen tv.>": {
+    "translation": "< 善良米塔：你可以进入电视游戏，并从厨房的电视中出来>",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: tvゲームに参加してキッチンのtvから出られ vere.",
+      "CN": "< 善良米塔：你可以进入电视游戏，并从厨房的电视中出来>",
+      "KR": "<미타: 네가 TV 게임에 들어갈 수 있고 주방 TV에서 나올 수 있어.>",
+      "TW": "<Kind Mita: 你可以參加電視遊戲脫離廚房電視。>"
+    }
+  },
+  "< Kind Mita: You did it! >": {
+    "translation": "< 善良米塔：你做到了！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "種ミタ：やったね！",
+      "CN": "< 善良米塔：你做到了！ >",
+      "KR": "< 친절한 미타: 잘했어! >",
+      "TW": "<Kind Mita: 你做到了！>"
+    }
+  },
+  "< Kind Mita: You have to turn on that shower head,Need some water to jump down >": {
+    "translation": "< 善良米塔：你得把那个淋浴头打开，需要水才能跳下去 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: そのシャワーヘッドをonにしないと,水が必要で跳び下りるよ >",
+      "CN": "< 善良米塔：你得把那个淋浴头打开，需要水才能跳下去 >",
+      "KR": "< 친절미타: 샤워zzle은 꼭 켜놔야 해, 물 좀 땡겨야 돼 >",
+      "TW": "Kind Mita: 你必須開啟那個 Shower Head， Need some water to jump down"
+    }
+  },
+  "< Kind Mita: You need to push something to block the wind. >": {
+    "translation": "< 善良米塔：你需要推一些东西来挡住风 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Kind Mita: 何かを押して風を止める必要がある。",
+      "CN": "< 善良米塔：你需要推一些东西来挡住风 >",
+      "KR": "< 친절미타: 바람을 막기 위해 무언가를 밀어야 한다. >",
+      "TW": "<Kind Mita: 你需要推擊某物來阻擋風。>"
+    }
+  },
+  "< Let me have a look... >": {
+    "translation": "< 让我看看... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 見てみるよ… >>>",
+      "CN": "< 让我看看... >",
+      "KR": "< 봐야겠네... >",
+      "TW": "[讓我看看...]"
+    }
+  },
+  "< Map by @Seth >": {
+    "translation": "< 地图作者：Seth 翻译：Asteri3m >",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップby @Seth",
+      "CN": "< 地图作者：Seth 翻译：Asteri3m >",
+      "KR": "< 맵_by @_Seth >",
+      "TW": "< 圖譜由@Seth 畵製 >"
+    }
+  },
+  "< Mita! No! You're insane! >": {
+    "translation": "< 米塔！不！你疯了！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ！No！あなたは狂 đang！",
+      "CN": "< 米塔！不！你疯了！ >",
+      "KR": "< 미타! 아니오! 넌 비정상적이야! >",
+      "TW": "<Mita！不行！你瘋了！>"
+    }
+  },
+  "< Mita: Could you help me find it? >": {
+    "translation": "< 米塔：你能帮我找到吗？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Mita: あなたが手伝ってくれないかね？>",
+      "CN": "< 米塔：你能帮我找到吗？ >",
+      "KR": "< 미타: 당신이 도와줄 수 있겠습니까? >",
+      "TW": "<Mita: 能帮我找到它吗?>"
+    }
+  },
+  "< Mita: Could you help me tidy up a bit? >": {
+    "translation": "< 米塔：你能帮我整理一下吗？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：整理一下房间怎么样？",
+      "CN": "< 米塔：你能帮我整理一下吗？ >",
+      "KR": "< 미타: 조금 정리 좀 도와줄래? >",
+      "TW": "[Mita: 可以幫我整理1下嗎?]"
+    }
+  },
+  "< Mita: Hey! I told you not to look in there! >": {
+    "translation": "< 米塔：嘿！我告诉过你不要看那个地方！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：Hey! そこseen’tを覗いてほしくなかった！>",
+      "CN": "< 米塔：嘿！我告诉过你不要看那个地方！ >",
+      "KR": "미타: hey! 당신은 그there 안보지 말라고 했잖아요! >",
+      "TW": "<Mita: 喂！我告訴過你不要看那裡！>"
+    }
+  },
+  "< Mita: Hey, I lost my hairbrush… >": {
+    "translation": "< 米塔：嘿，我把发刷弄丢了… >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Mita: あ、hairbrushを失った… >",
+      "CN": "< 米塔：嘿，我把发刷弄丢了… >",
+      "KR": "미타: hey, 머리梳子刷子…>",
+      "TW": "< Mita: 喂，我 Lost 了我的 hairbrush… >"
+    }
+  },
+  "< Mita: Hi,I'm Mita! >": {
+    "translation": "< 米塔：嗨，我是米塔！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Mita: こんにちは、私はミタです！",
+      "CN": "< 米塔：嗨，我是米塔！ >",
+      "KR": "< 미타: 안녕, 나는 미타야! >",
+      "TW": "<Mita: 你好，我是Mita！>"
+    }
+  },
+  "< Mita: I already checked there. >": {
+    "translation": "< 米塔：我已经检查过那里了 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：もう確認したよ。",
+      "CN": "< 米塔：我已经检查过那里了 >",
+      "KR": "미타: 이미 확인헀어요.",
+      "TW": "< Mita: 我已經檢查過那裡了。 >"
+    }
+  },
+  "< Mita: I sort of rushed off earlier, and now this place is a mess... >": {
+    "translation": "< 米塔：我之前有点急匆匆的，现在这个地方一团糟... >",
+    "MultiLang": {
+      "US": "",
+      "JP": "< ミタ：先程急いで出ましたので、今この場所は大変なことになっています... >",
+      "CN": "< 米塔：我之前有点急匆匆的，现在这个地方一团糟... >",
+      "KR": "미타: 조금 서두르다 보니 이제这个地方有点乱... >",
+      "TW": "Mita: 我剛才稍微急了1點，現在這裡1团糟... >"
+    }
+  },
+  "< Mita: Just don't look in the oven, okay? >": {
+    "translation": "< 米塔：只要别去看烤箱就好，行吗？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：ovenは見ないでくれよ，大丈夫？",
+      "CN": "< 米塔：只要别去看烤箱就好，行吗？ >",
+      "KR": "< 미타: 오븐만은 봐주지 마와? >",
+      "TW": "< Mita: 只不要看烤箱裡，好嗎？ >"
+    }
+  },
+  "< Mita: Nice to meet you,Player! >": {
+    "translation": "< 米塔：很高兴见到你，玩家！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "Mita: -player-, お会いできて光栄です！",
+      "CN": "< 米塔：很高兴见到你，玩家！ >",
+      "KR": "< 미타: 만나서 반갑습니다, 플레이어! >",
+      "TW": "<Mita: 從前見到你，玩家！>"
+    }
+  },
+  "< Mita: Thank you so much! >": {
+    "translation": "< 米塔：非常感谢你！ >",
+    "MultiLang": {
+      "US": "<Mita: Thanks a lot! >",
+      "JP": "ミタ：ありがとう mucho！",
+      "CN": "< 米塔：非常感谢你！ >",
+      "KR": "< 미타: 너무 감사합니다! >",
+      "TW": "< Mita: 謝謝你非常多！ >"
+    }
+  },
+  "< Mita: Try checking the bedside table first—I think I left it there. >": {
+    "translation": "< 米塔：先试着检查床头柜—我想我把它放在那里 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：まずベッドサイドのテーブルを確認してみてください—私はそこで置いていったと思います。",
+      "CN": "< 米塔：先试着检查床头柜—我想我把它放在那里 >",
+      "KR": "< 미타: 먼저 침대 옆 탁자에서 확인해 보세요—I think I left it there. >",
+      "TW": "Mita: 先試著檢查1下床頭柜——我想我是把它放在那裡了。>"
+    }
+  },
+  "< Mita: Turn around—I'll clean this up! >": {
+    "translation": "< 米塔：转过身——我来清理这个！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：回转吧——この辺りを CLEANUP する！",
+      "CN": "< 米塔：转过身——我来清理这个！ >",
+      "KR": "미타: 돌아와—나가 이걸 처리할게! >",
+      "TW": "[Mita: 转身——我來清理這件事！]"
+    }
+  },
+  "< Mita: Um...Player, >": {
+    "translation": "< 米塔：嗯...玩家， >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：えっと…プレイヤー、",
+      "CN": "< 米塔：嗯...玩家， >",
+      "KR": "미타: ...플레이어,",
+      "TW": "Mita: 嗯...玩家，>>"
+    }
+  },
+  "< Mita: What's your name? >": {
+    "translation": "< 米塔：你叫什么名字？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：あなたの名前は何ですか？",
+      "CN": "< 米塔：你叫什么名字？ >",
+      "KR": "< 미타: 네 이름은 무엇인가요? >",
+      "TW": "< Mita: 你的名字是什麼? >"
+    }
+  },
+  "< Mita: Woah.. >": {
+    "translation": "< 米塔：哇.. >",
+    "MultiLang": {
+      "US": "Mita: Wow.. >",
+      "JP": "Mita: ウッ.. >",
+      "CN": "< 米塔：哇.. >",
+      "KR": "：<미타: 와.. >",
+      "TW": "<Mita: 哇.. >"
+    }
+  },
+  "< Mita: You found it! Nice work! >": {
+    "translation": "< 米塔：你找到了！干得好！ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミタ：見つけたね！いい仕事をしたよ！",
+      "CN": "< 米塔：你找到了！干得好！ >",
+      "KR": "< 미타:找到了！好工作！ >",
+      "TW": "<Mita: 你找到啦！好工作！>"
+    }
+  },
+  "< No,It's me turn smaller,that's not good.. >": {
+    "translation": "< 不，我变得更小了，这可不好.. >",
+    "MultiLang": {
+      "US": "< No, it's my turn to make it smaller, that's not good.. >",
+      "JP": "No、私が小さくなるのは良くない..'",
+      "CN": "< 不，我变得更小了，这可不好.. >",
+      "KR": "< 아니, 내 턴이 더 작아, 그건 안좋다.. >",
+      "TW": "< 不，這是我該小1點，那不好…… >"
+    }
+  },
+  "< Portal start up in 20 sec. >": {
+    "translation": "< 传送门在20秒内启动 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "＜ポートル起動まで20sec．＞",
+      "CN": "< 传送门在20秒内启动 >",
+      "KR": "< 포탈 시작은 20sec 후입니다. >",
+      "TW": "portal啟動中，剩餘20秒。"
+    }
+  },
+  "< Someone left a message for me. >": {
+    "translation": "< 有人给我留下了一条信息 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<誰かメッセージをくれた。>>",
+      "CN": "< 有人给我留下了一条信息 >",
+      "KR": "< 누군가 메시지를 남겼다. >",
+      "TW": "<有人留訊息給我。 >"
+    }
+  },
+  "< This place looks familiar. >": {
+    "translation": "< 这个地方看起来很熟悉 >",
+    "MultiLang": {
+      "US": "",
+      "JP": "この場所はどこか懐かしい。>",
+      "CN": "< 这个地方看起来很熟悉 >",
+      "KR": "< 이곳이 익숙하네. >",
+      "TW": "这个地方好眼熟。>"
+    }
+  },
+  "< Wait...I'm in the game? >": {
+    "translation": "< 等等...我在游戏里？ >",
+    "MultiLang": {
+      "US": "",
+      "JP": "待って…ゲームに入ってるのか？",
+      "CN": "< 等等...我在游戏里？ >",
+      "KR": "< 기다리세요...나가 게임에 들어왔나? >",
+      "TW": "等1下...我正在遊戲中？"
+    }
+  },
+  "< ze_MiSide >": {
+    "translation": "< ze_MiSide >",
+    "MultiLang": {
+      "US": "[ZeMiSide]",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "> A player found Beam Pistol. <": {
+    "translation": "> 一名玩家发现了激光枪 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> あるプレイヤーがビームピストルを発見しました <",
+      "CN": "> 一名玩家发现了光束手枪。<",
+      "KR": "> 한 플레이어가 빔 피스톤을 찾았습니다. <",
+      "TW": "> 一名玩家找到了光束手槍。<"
+    }
+  },
+  "> A player found Heart Charm. <": {
+    "translation": "> 一名玩家发现了心形吊坠 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> あるプレイヤーがハートチャームを発見しました <",
+      "CN": "> 一名玩家发现了心形护符。<",
+      "KR": "> 한 플레이어가 하트 참을 찾았습니다. <",
+      "TW": "> 一名玩家找到了心之護符。<"
+    }
+  },
+  "> A player found Massager? <": {
+    "translation": "> 一名玩家发现了紫色心情？ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> あるプレイヤーがマッサージュ器？を発見しました <",
+      "CN": "> 一名玩家发现了按摩器？<",
+      "KR": "> 한 플레이자가 매서저를(? ) 찾았습니다. <",
+      "TW": "> 一名玩家找到了按摩器？<"
+    }
+  },
+  "> A player found Toy Duck <": {
+    "translation": "> 一名玩家发现了玩具鸭 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> あるプレイヤーがオモチャのアヒルを発見しました <",
+      "CN": "> 一名玩家发现了玩具鸭子。",
+      "KR": "> 한 플레이자가 장난감 오리를 찾았습니다. <",
+      "TW": "> 一名玩家找到了玩具鴨子<"
+    }
+  },
+  "> A player found Toy Hammer! <": {
+    "translation": "> 一名玩家发现了玩具锤！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> あるプレイヤーがオモチャのハマーを発見しました！<",
+      "CN": "> 一名玩家发现了玩具锤子！",
+      "KR": "> 한 플레이어가 장난감 망치를(!) 찾았습니다. <",
+      "TW": "> 一名玩家找到了玩具錘子！<"
+    }
+  },
+  "> Admin select Stage 1! <": {
+    "translation": "> 管理员已选择第1关！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 管理者がステージ1を選択しました！ <",
+      "CN": "> 管理员选择了第1关卡！",
+      "KR": "> 관리자가 스테이지 1을 선택했습니다! <",
+      "TW": "> 管理員選擇了第1關。<"
+    }
+  },
+  "> Admin select Stage 2! <": {
+    "translation": "> 管理员已选择第2关！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "> 管理者がステージ2を選択しました！ <",
+      "CN": "> 管理员选择了第2关卡！",
+      "KR": "> 관리자가 스테이지 2를 선택했습니다! <",
+      "TW": "> 管理員選擇了第2關。<"
+    }
+  },
+  "> Admin select Stage 3! <": {
+    "translation": "> 管理员已选择第3关！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者がステージ3を選択しました",
+      "CN": "> 管理员选择关卡3！<",
+      "KR": "> 관리자가 스테이지 3을 선택했습니다! <",
+      "TW": "管理者已選擇第三關！"
+    }
+  },
+  "> Admin select Stage ZM! <": {
+    "translation": "> 管理员已选择ZM关卡！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "管理者がステージZMを選択しました",
+      "CN": "> 管理员选择ZM关卡！<",
+      "KR": "> 관리자가 스테이지 ZM을 선택했습니다! <",
+      "TW": "管理者已選擇 ZM 關！"
+    }
+  },
+  "> Bed walls has no longer sealed. <": {
+    "translation": "> 床的墙壁已经不再封闭了 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "ベッドの壁は無効化されました",
+      "CN": "> 床铺区域的墙壁已不再封闭。<",
+      "KR": "> 침실 벽이 더 이상 봉쇄되지 않았습니다. <",
+      "TW": "床邊牆壁不再封鎖。"
+    }
+  },
+  "> Boss area seal up in 5 sec. <": {
+    "translation": "> Boss区域在5秒内封锁 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒以内にボスエリアが封鎖されます",
+      "CN": "> Boss区域将在5秒后封锁。<",
+      "KR": "> 보스 지역을 5초 후에 봉쇄합니다. <",
+      "TW": "Boss 區域將在 5 秒內封鎖。"
+    }
+  },
+  "> Charged shot create blaze area to slow zombie down. <": {
+    "translation": "> 充能射击可以形成一个火焰区，减缓僵尸的移动速度 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "チャージショットはゾンビの速度を低下させる火炎エリアを生成します",
+      "CN": "> 蓄力射击将制造火焰区域，减缓僵尸行进速度。<",
+      "KR": "> 충전 발사로 불꽃 지역을 생성하여 좀비의 속도를 늦춥니다. <",
+      "TW": "蓄力射擊會產生火焰區域，減緩殭屍速度。"
+    }
+  },
+  "> Final 20 sec. <": {
+    "translation": "> 最后20秒 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り20秒です",
+      "CN": "> 最后20秒。<",
+      "KR": "> 마지막 20초.",
+      "TW": "最後 20 秒。"
+    }
+  },
+  "> Final defend will be easy for human. <": {
+    "translation": "> 最后的防守对人类来说会很简单 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終防衛は人間側に有利になります",
+      "CN": "> 最终防御对人类来说将会很轻松。<",
+      "KR": "> 최종 방어는 인간에게 더 쉬워질 것입니다. <",
+      "TW": "對人類來說，最終防禦將很輕鬆。"
+    }
+  },
+  "> Final defend will be harder for human. <": {
+    "translation": "> 最后的防守对人类来说会更困难 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "最終防衛は人間側に不利になります",
+      "CN": "> 最终防御对人类来说将会更加艰难。<",
+      "KR": "> 최종 방어는 인간에게 더 어려워질 것입니다. <",
+      "TW": "對人類來說，最終防禦將更加艱難。"
+    }
+  },
+  "> Human has most of snowball! <": {
+    "translation": "> 人类拥有大部分雪球！ <",
+    "MultiLang": {
+      "US": "> Humans have most of the snowballs! <",
+      "JP": "人間が一番雪だるまを持っている！",
+      "CN": "> 人类拥有最多的雪球！ <",
+      "KR": "> 인간이 눈덩이를 대부분 가지고 있습니다! <",
+      "TW": "> 人類擁有最多的雪球！<"
+    }
+  },
+  "> Now its the final task..Clear the zombies! <": {
+    "translation": "> 现在是最后的任务……消灭所有僵尸！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "はい、最後の任務です。ゾンビを撃退しましょう！",
+      "CN": "> 现在是最终任务……消灭僵尸！ <",
+      "KR": "> 이제 마지막 임무입니다..좀비를 처치하세요! <",
+      "TW": "> 現在是最後的任務……消滅殭屍！"
+    }
+  },
+  "> Press E smash zombies to make them slow down. <": {
+    "translation": "> 按E击打僵尸，让它们减速 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "Eキーを押して人間を殴ると、移動速度が低下します。",
+      "CN": "> 按 E 键击碎僵尸，减缓他们的行动。 <",
+      "KR": "> E를 눌러 좀비를 강타하여 속도를 늦추세요. <",
+      "TW": "> 按 E 擊碎殭屍，使其減速。<"
+    }
+  },
+  "> Press E to heal humans. <": {
+    "translation": "> 按E为人类治疗 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "Eキーを押して人間を回復します。",
+      "CN": "> 按 E 键治疗人类。 <",
+      "KR": "> E를 눌러 인간을 치유하세요. <",
+      "TW": "> 按 E 治療人類。<"
+    }
+  },
+  "> Press E to place a duck to block zombies. <": {
+    "translation": "> 按E放置一个鸭子来挡住僵尸 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "Eキーを押してアヒルを設置し、ゾンビをブロックします。",
+      "CN": "> 按 E 键放置鸭子以阻挡僵尸。 <",
+      "KR": "E를 눌러 오리를 배치하여 좀비를 막으세요.",
+      "TW": "> 按 E 放置一盞鴨子來阻擋殭屍。<"
+    }
+  },
+  "> Press E to push zombies away. <": {
+    "translation": "> 按E推开僵尸 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "Eキーを押してゾンビを押し返します。",
+      "CN": "> 按 E 键推开僵尸。 <",
+      "KR": "> E를 눌러 좀비를 밀어내세요. <",
+      "TW": "> 按 E 將殭屍推開。<"
+    }
+  },
+  "> Press E to shot beam hurt zombies,Hit 10 time will charge the pistol. <": {
+    "translation": "> 按E发射光束攻击僵尸，击中10次后将充能手枪。 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "Eキーを押してビームを発射し、ゾンビにダメージを与えます。ビームを10回当てるとピストルが充電されます。",
+      "CN": "> 按E键射出光束攻击僵尸，射击10次可为手枪充能。<",
+      "KR": "> E를 눌러 빔을 발사하여 좀피에게 피해를 입히세요. 10회 명명총검이 충전됩니다.",
+      "TW": "> 按 E 射擊光束傷害殭屍。命中 10 次可充能左輪手槍。<"
+    }
+  },
+  "> Stage 3 clear! <": {
+    "translation": "> 第3关完成！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3クリア！",
+      "CN": "> 第3关通关！<",
+      "KR": "> 스테이지 3 클리어! <",
+      "TW": "> 第 3 階段清除！<"
+    }
+  },
+  "> Survive for 25 sec.<": {
+    "translation": "> 生存25秒<",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒間生き残れ。",
+      "CN": "> 存活25秒。<",
+      "KR": "25초간 생존하세요.",
+      "TW": "存活25秒。"
+    }
+  },
+  "> Survive for 30 sec.<": {
+    "translation": "> 生存30秒<",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間生き残れ。",
+      "CN": "> 存活30秒。<",
+      "KR": "30초간 생존하세요.",
+      "TW": "存活30秒。"
+    }
+  },
+  "> You have 60 sec to finish 3 task! <": {
+    "translation": "> 你有60秒完成3个任务！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "60秒以内にタスク3を完了せよ！",
+      "CN": "> 你有60秒完成3个任务！",
+      "KR": "3가지 과제를 완료하는 데 60초가 주어집니다!",
+      "TW": "您有60秒完成3項任務！"
+    }
+  },
+  "> You need to clear all the zombies. <": {
+    "translation": "> 你需要清理所有僵尸 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "すべてのゾンビを撃退する必要がある。",
+      "CN": "> 你需要清除所有僵尸。",
+      "KR": "모든 좀비를 처치해야 합니다.",
+      "TW": "您需要清除所有殭屍。"
+    }
+  },
+  "> You need to clear all zombies. <": {
+    "translation": "> 你需要清理所有僵尸 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "すべてのゾンビを撃退する必要がある。",
+      "CN": "> 你需要清除所有僵尸。",
+      "KR": "모든 좀비를 처치해야 합니다.",
+      "TW": "您需要清除所有殭屍。"
+    }
+  },
+  "> You still got chance if finish the task! <": {
+    "translation": "> 如果完成任务你还有机会！ <",
+    "MultiLang": {
+      "US": "> Finish the task and you still have a chance! <",
+      "JP": "タスクを完了すればまだチャンスがある！",
+      "CN": "> 完成任务后你仍有机会！",
+      "KR": "과제를 완료하면 여전히 기회가 있습니다!",
+      "TW": "完成任務您仍有機會！"
+    }
+  },
+  "> Zombie Cage open! <": {
+    "translation": "> 尸笼开启！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビケージ開く！",
+      "CN": "> 僵尸笼已开启！",
+      "KR": "좀비 우리 열림!",
+      "TW": "殭屍牢籠開啟！"
+    }
+  },
+  "> Zombie has most of snowball! <": {
+    "translation": "> 僵尸拥有大部分雪球！ <",
+    "MultiLang": {
+      "US": ">> The zombie has most of the snowballs! <",
+      "JP": "ゾンビは雪玉を最も多く持っている。",
+      "CN": "> 僵尸雪球最多！",
+      "KR": "좀비가 눈가방을 모두 가지고 있습니다!",
+      "TW": "殭屍擁有大部分雪球！"
+    }
+  },
+  "> Zombie push disabled! <": {
+    "translation": "> 僵尸推力禁用！ <",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビ押し戻し無効化！<",
+      "CN": "> 已禁用僵尸推进！<",
+      "KR": "좀비 밀집 비활성화!",
+      "TW": "> 已禁用屍群推進！<"
+    }
+  },
+  "> Zombie seal enable in 3 sec <": {
+    "translation": "> 僵尸封锁将在3秒后启用 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "3秒後にゾンビ封印有効化",
+      "CN": "> 僵尸封印将在3秒后启用<",
+      "KR": "좀비 봉쇄 3초 후 활성화",
+      "TW": "> 3秒後啟用屍體封印<"
+    }
+  },
+  "> Zombie teleport in 10 sec. <": {
+    "translation": "> 僵尸将在10秒后传送 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後にゾンベ転送",
+      "CN": "> 僵尸传送将在10秒内。<",
+      "KR": "좀비 텔레포트 10초 후",
+      "TW": "> 10秒後傳送屍體。<"
+    }
+  },
+  "> Zombie teleport in 7 sec. <": {
+    "translation": "> 僵尸将在7秒后传送 <",
+    "MultiLang": {
+      "US": "",
+      "JP": "7秒後にゾンビ転送",
+      "CN": "> 僵尸传送将在7秒内。<",
+      "KR": "좀비 텔레포트 7초 후",
+      "TW": "> 7秒後傳送屍體。<"
+    }
+  },
+  ">> Nuke in 10 sec! <<": {
+    "translation": ">> 核弹将在10秒后发射！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 10秒後に核爆発！ <<",
+      "CN": ">> 10秒后投放核弹！<<",
+      "KR": ">> 핵폭격 10초 후! <<",
+      "TW": ">> 核彈发射剩余 10 秒！<<"
+    }
+  },
+  ">> Nuke in 120 sec! <<": {
+    "translation": ">> 核弹将在120秒后发射！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 120秒後に核爆発！ <<",
+      "CN": ">> 120秒后投放核弹！<<",
+      "KR": ">> 핵폭격 120초 후! <<",
+      "TW": ">> 核武發射倒計時：120 秒 <<"
+    }
+  },
+  ">> Nuke in 20 sec! <<": {
+    "translation": ">> 核弹将在20秒后发射！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 20秒後に核爆発！ <<",
+      "CN": ">> 20秒后投放核弹！<<",
+      "KR": ">> 핵폭격 20초 후! <<",
+      "TW": ">> 核彈攻擊即將在20秒後發生！<<"
+    }
+  },
+  ">> Nuke in 30 sec! <<": {
+    "translation": ">> 核弹将在30秒后发射！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 30秒後に核爆発！ <<",
+      "CN": ">> 30秒后投放核弹！<<",
+      "KR": ">> 핵폭격 30초 후! <<",
+      "TW": ">> 核彈攻擊即將在30秒後發生！<<"
+    }
+  },
+  ">> Nuke in 60 sec! <<": {
+    "translation": ">> 核弹将在60秒后发射！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 60秒後に核爆発！ <<",
+      "CN": "60秒后核爆！",
+      "KR": ">> 60초 후 핵폭발! <<",
+      "TW": ">> 60 秒後將進行核彈襲擊！ <<"
+    }
+  },
+  ">> Stage 1 <<": {
+    "translation": ">> 第1关 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ステージ 1 <<",
+      "CN": "第1阶段",
+      "KR": ">> 스테이지 1 <<",
+      "TW": ">> 第一關 <<"
+    }
+  },
+  ">> Stage 2 <<": {
+    "translation": ">> 第2关 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ステージ 2 <<",
+      "CN": "第2阶段",
+      "KR": ">> 스테이지 2 <<",
+      "TW": ">> 第二關 <<"
+    }
+  },
+  ">> Stage 2 Clear!!! <<": {
+    "translation": ">> 第2关完成！！！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ステージ 2 クリア!!! <<",
+      "CN": "恭喜通过第2阶段！",
+      "KR": ">> 스테이지 2 클리어!!! <<",
+      "TW": ">> 第二關通過！！！ <<"
+    }
+  },
+  ">> Stage 3 <<": {
+    "translation": ">> 第3关 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ステージ 3 <<",
+      "CN": "第3阶段",
+      "KR": ">> 스테이지 3 <<",
+      "TW": ">> 第三關 <<"
+    }
+  },
+  ">> Survive for 180 sec! <<": {
+    "translation": ">> 生存180秒！ <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> 180秒間生存せよ！ <<",
+      "CN": "坚持180秒！",
+      "KR": ">> 180초 생존!",
+      "TW": ">> 請存活 180 秒！ <<"
+    }
+  },
+  ">> Thank for your playing,Hope you all enjoy the map! XD <<": {
+    "translation": ">> 感谢你的游玩，希望大家享受这个地图！XD <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ごプレイありがとうございました。マップを楽しんでいただけたら幸いです！XD <<",
+      "CN": "感谢游玩，希望大家喜欢这张地图！XD",
+      "KR": ">> 플레이해 주셔서 감사합니다. 맵을 즐기시길 바랍니다! XD <<",
+      "TW": ">> 感謝遊玩，希望各位喜歡這張地圖！XD <<"
+    }
+  },
+  ">> ZM Mode. <<": {
+    "translation": ">> ZM模式 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> ZMモード。 <<",
+      "CN": "僵尸模式。",
+      "KR": ">> ZM 모드. <<",
+      "TW": ">> 殭屍模式。 <<"
+    }
+  },
+  "> A player found Chainsaw <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがチェーンソーを発見した",
+      "CN": "> 一名玩家发现了电锯 <",
+      "KR": "> 체이낫을 찾은 플레이어가 있습니다 <",
+      "TW": "一名玩家找到了鏈鋸<"
+    }
+  },
+  "> Press E get speed up and kill human in front of you. <": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Eを押して加速し、目の前の人間を倒す",
+      "CN": "> 按 E 获得加速效果，击杀前方的玩家。 <",
+      "KR": "E를 눌러 속도를 높이고 앞의 인간을 처치합니다. <",
+      "TW": "按下 E 獲得加速，並擊殺前方的玩家。<"
+    }
+  }
+}

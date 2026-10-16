@@ -1,50 +1,162 @@
 {
   "* * * FALL BACK * * *": {
-    "translation": "***撤退***"
+    "translation": "***撤退***",
+    "MultiLang": {
+      "US": "",
+      "JP": "* * * 後退 * * *",
+      "CN": "* * * 撤退 * * *",
+      "KR": "* * * 후퇴 * * *",
+      "TW": "* * * 後撤 * * *"
+    }
   },
   "* * *Defend 30 seconds * * *": {
-    "translation": "***防守30秒***"
+    "translation": "***防守30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "* * * 30秒間防御 * * *",
+      "CN": "* * * 坚守 30 秒 * * *",
+      "KR": "* * * 30초 방어 * * *",
+      "TW": "* * * 防禦 30 秒 * * *"
+    }
   },
   "*** DEFEND 10s***": {
-    "translation": "***防守10秒***"
+    "translation": "***防守10秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 10秒間防御 ***",
+      "CN": "*** 坚守 10s***",
+      "KR": "*** 10초 방어 ***",
+      "TW": "*** 防禦 10 秒 ***"
+    }
   },
   "*** DEFEND/NUKE 30s ***": {
-    "translation": "***防守/核弹 30秒***"
+    "translation": "***防守/核弹 30秒***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 30秒間防御/核攻撃 ***",
+      "CN": "*** 坚守/核打击 30s ***",
+      "KR": "*** 30초 방어/핵공격 ***",
+      "TW": "*** 防禦/ nuking 30 秒 ***"
+    }
   },
   "*** FALL BACK ***": {
-    "translation": "***撤退***"
+    "translation": "***撤退***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 後退 ***",
+      "CN": "*** 撤退 ***",
+      "KR": "*** 후퇴 ***",
+      "TW": "*** 後撤 ***"
+    }
   },
   "*** Map by: Kappoochino ***": {
-    "translation": "***地图作者：Kappoochino 翻译：Asteri3m***"
+    "translation": "***地图作者：Kappoochino 翻译：Asteri3m***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 作成者: Kappoochino ***",
+      "CN": "*** 地图作者：Kappoochino ***",
+      "KR": "*** 맵 제작자: Kappoochino ***",
+      "TW": "*** 地圖製作：Kappoochino ***"
+    }
   },
   "*** NUKE 1 *** ": {
-    "translation": "***核弹 1s***"
+    "translation": "***核弹 1s***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 核攻撃 1 ***",
+      "CN": "*** 核打击 1 ***",
+      "KR": "*** 핵공격 1 ***",
+      "TW": "*** 核平打擊 1 ***"
+    }
   },
   "*** NUKE 2 *** ": {
-    "translation": "***核弹 2s***"
+    "translation": "***核弹 2s***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 核攻撃 2 ***",
+      "CN": "*** 核打击 2 ***",
+      "KR": "*** 핵공격 2 ***",
+      "TW": "*** 核平打擊 2 ***"
+    }
   },
   "*** NUKE 3 *** ": {
-    "translation": "***核弹 3s***"
+    "translation": "***核弹 3s***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** NUKE 3 ***",
+      "CN": "*** 核弹发射 3 ***",
+      "KR": "*** 핵 3 ***",
+      "TW": "*** 核彈攻擊計數：3 ***"
+    }
   },
   "*** Special Thanks testing: GFL & MAPEADORES  ***": {
-    "translation": "***特别感谢测试：GFL和MAPEADORES服务器***"
+    "translation": "***特别感谢测试：GFL和MAPEADORES服务器***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 特別感謝 テスト：GFL & MAPEADORES ***",
+      "CN": "*** 特别鸣谢 测试团队：GFL & MAPEADORES ***",
+      "KR": "*** 특별 감사: GFL 및 맵 제작자님들 ***",
+      "TW": "*** 特別感謝測試人員：GFL & 地圖製作團隊 ***"
+    }
   },
   "*** Zombies (all) tp in 15 s ***": {
-    "translation": "***（全部）僵尸将在15秒后传送***"
+    "translation": "***（全部）僵尸将在15秒后传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビ（全員）TP 15秒後 ***",
+      "CN": "*** 僵尸将在 15 秒内传送 ***",
+      "KR": "*** 좀비 15초 뒤tp ***",
+      "TW": "*** 殭屍（全部）15秒後傳送到位 ***"
+    }
   },
   "*** Zombies TP in 5 sec! *** ": {
-    "translation": "***僵尸将在5秒后传送！***"
+    "translation": "***僵尸将在5秒后传送！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビ TP 5秒後！ ***",
+      "CN": "*** 5 秒后传送僵尸！***",
+      "KR": "*** 좀비 5초 후 TP! ***",
+      "TW": "*** 殭屍5秒後傳送到位！***"
+    }
   },
   "*** Zombies tp in 10 seconds ***": {
-    "translation": "***僵尸将在10秒后传送***"
+    "translation": "***僵尸将在10秒后传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ゾンビTP 10秒後 ***",
+      "CN": "*** 10 秒后传送僵尸 ***",
+      "KR": "*** 좀비 10초 뒤tp ***",
+      "TW": "*** 殭屍10秒後傳送到位 ***"
+    }
   },
   "*** rtv *** ": {
-    "translation": "***RTV 该换图了***"
+    "translation": "***RTV 该换图了***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** rtv ***",
+      "CN": "*** rtv ***",
+      "KR": "*** rtv ***",
+      "TW": "*** 投票重置地圖 (RTV) ***"
+    }
   },
   ">>> DEFEND 30s <<<": {
-    "translation": ">>>防守30秒<<<"
+    "translation": ">>>防守30秒<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 30秒間防衛 <<<",
+      "CN": ">>> 防守 30秒 <<<",
+      "KR": ">>> 30초 방어 <<<",
+      "TW": "防守30秒"
+    }
   },
   ">>> FALL BACK <<<": {
-    "translation": ">>>撤退<<<"
+    "translation": ">>>撤退<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 後退 <<<",
+      "CN": ">>> 撤退 <<<",
+      "KR": ">>> 후퇴 <<<",
+      "TW": "<<< 重新載入 >>>"
+    }
   }
 }

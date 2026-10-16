@@ -1,86 +1,352 @@
 {
   "阿罗娜<<钢盔团和PMC集团合作占领了阿拜多斯学校>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<The Steel Helm Unit and the PMC Group have jointly occupied Abydos High School.>>",
+      "JP": "アロナ<<ヘルメット団とPMC集团が協力してアビドス学校を占領しました>>",
+      "CN": "",
+      "KR": "아로나<<강철단과 PMC 그룹이 협동하여 아비도스 학원을 점령했습니다>>",
+      "TW": "阿羅娜<<鋼盔團與PMC集團合作，佔領了阿拜多斯學院>>"
+    }
   },
   "阿罗娜<<比纳不知为何也来到了阿拜多斯学校>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Bina came to Abydos High School for some reason.>>",
+      "JP": "アロナ<<ビリナはどうやら訳もあってか、アビドス学校に現れました>>",
+      "CN": "",
+      "KR": "아로나<<비나는 무슨 일인지 아비도스 학원에 도착했습니다>>",
+      "TW": "阿羅娜<<不知為何，比奈也來到了阿拜多斯學院>>"
+    }
   },
   "阿罗娜<<好在星野她们已经安全撤出学校了>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Fortunately, Hoshino and the others have already safely evacuated the school.>>",
+      "JP": "アロナ<<ほっとしたことに、星野達はすでに学校から安全に撤退しました>>",
+      "CN": "",
+      "KR": "아로나<<다행히 성희 자석들은 이미 학원에서 안전하게 철수했습니다>>",
+      "TW": "阿羅娜<<幸好星野她們已經安全撤離了學院>>"
+    }
   },
   "阿罗娜<<sensei，我们得想办法把学校夺回来>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Sensei, we need to find a way to take the school back.>>",
+      "JP": "アロナ<<先生、我々は学校を取り戻す方法を考えねばなりません>>",
+      "CN": "阿罗娜<<<老师，我们需要想办法夺回学校>>>",
+      "KR": "아로나<<선생님, 저희는 학원을 되찾기 위한 방법을 찾아야 합니다>>",
+      "TW": "阿羅娜<<sensei，我們得想辦法把學校奪回來>>"
+    }
   },
   "<<30s>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<30秒>>",
+      "CN": "<<30秒>>",
+      "KR": "<<30초>>",
+      "TW": "<<30s>>"
+    }
   },
   "<<10s>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<10秒>>",
+      "CN": "<<10秒>>",
+      "KR": "<<10초>>",
+      "TW": "<<10s>>"
+    }
   },
   "<<5s>>": {
-    "translation": ""
+    "translation": "5",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<5秒>>",
+      "CN": "<<5秒>>",
+      "KR": "<<5초>>",
+      "TW": "<<5s>>"
+    }
   },
   "阿罗娜<<竟然把学校破坏成这样...>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<How did they destroy the school to this extent...>>",
+      "JP": "アロナ<<なぜ学校をこれほどまでに破壊したのか...>>",
+      "CN": "",
+      "KR": "아로나<<학원이 이렇게 파괴될 줄은 몰랐습니다...>>",
+      "TW": "阿羅娜<<竟然把學校破壞成這樣...>>"
+    }
   },
   "<<20s>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<20秒>>",
+      "CN": "<<20秒>>",
+      "KR": "<<20대>>",
+      "TW": "<<20s>>"
+    }
   },
   "阿罗娜<<请小心，侦测到一名钢盔团成员躲在后面>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Be careful. One member of the Steel Helm Unit has been detected hiding behind you.>>",
+      "JP": "アロナ<<Sensei、気をつけて。スチールヘルメットの隊員の一人が背後に隠れています>>",
+      "CN": "",
+      "KR": "아로나<<조심하세요. 강철 갑옷 팀원 한 명이 뒤쪽에 숨어 있습니다>>",
+      "TW": "阿羅娜：「請小心，偵測到一名鋼盔團成員躲在後面。」"
+    }
   },
   "阿罗娜<<就从这里破墙而入吧>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Let's breach through the wall from here.>>",
+      "JP": "アロナ<<ここから壁を突破しましょう>>",
+      "CN": "",
+      "KR": "아로나<<여기서 벽을 부수고 진입합시다>>",
+      "TW": "阿羅娜：「就從這裡破牆而入吧。」"
+    }
   },
   "阿罗娜<<这里的门又被反锁了>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<The door here is locked again.>>",
+      "JP": "アロナ<<ここはまた鍵がかかっています>>",
+      "CN": "",
+      "KR": "아로나<<여기의 문은 다시 잠겼습니다>>",
+      "TW": "阿羅娜：「這裡的門又被反鎖了。」"
+    }
   },
   "阿罗娜<<sensei清远离这里，马上要爆炸了>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Sensei, get away from here! It's about to explode>>",
+      "JP": "アロナ<<Sensei、ここから離れてください。まもなく爆発します>>",
+      "CN": "阿罗娜<<老师清远离这里，马上要爆炸了>>",
+      "KR": "아로나<<sensei, 여기서 멀리 떨어져주세요. 곧 폭발합니다>>",
+      "TW": "阿羅娜：「sensei請遠離這裡，馬上要爆炸了。」"
+    }
   },
   "阿罗娜<<请等待一下sensei>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Please wait, Sensei>>",
+      "JP": "アロナ<<お待ちください、Sensei>>",
+      "CN": "阿罗娜<<等待一下，老师>>",
+      "KR": "아로나<<sensei, 잠시만 기다려주세요>>",
+      "TW": "阿羅娜：「請等待一下sensei。」"
+    }
   },
   "阿罗娜<<好，打开了！>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Okay, open!>>",
+      "JP": "アロナ<<よし、開きました！>>",
+      "CN": "阿罗娜<<打开了！>>",
+      "KR": "아로나<<좋습니다. 열었습니다!>>",
+      "TW": "阿羅娜：「好，打開了！」"
+    }
   },
   "阿罗娜<<这里有个梯子能通往三楼>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<There's a ladder here leading to the third floor>>",
+      "JP": "アロナ<<ここには3階につながる梯子があります>>",
+      "CN": "",
+      "KR": "아로나<<여기에 3층으로 이어지는 사다리가 있습니다>>",
+      "TW": "阿羅娜：「這裡有個梯子能通往三樓。」"
+    }
   },
   "阿罗娜<<请稍等sensei>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Please wait, Sensei>>",
+      "JP": "アロナ<<お待ちくださいませ、センシ>>",
+      "CN": "阿罗娜《请稍等，老师》",
+      "KR": "아로나<<잠시만요 선생님>>",
+      "TW": "阿羅娜<<請稍等，Sensei>>"
+    }
   },
   "button pressed": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボタン押下",
+      "CN": "按钮已按下",
+      "KR": "버튼 누름",
+      "TW": "按鈕已按下"
+    }
   },
   "阿罗娜<<侦测到大范围波动,sensei请找掩体躲避沙尘暴>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Arona <<Large-scale fluctuations detected, please take cover from the sandstorm>>",
+      "JP": "アロナ<<広範囲な波動を検知しました。センシ、掩体を探して砂嵐から躲れてください>>",
+      "CN": "阿罗娜<<侦测到大范围波动, 参星请找掩体躲避沙尘暴>>",
+      "KR": "아로나<<대규모 파동 감지, 선생님께서는 모래폭풍을 피해 대피하십시오>>",
+      "TW": "阿羅娜<<偵測到大范围波動，請找掩體躲避沙塵暴，Sensei>>"
+    }
   },
   "<<星野加入了战斗>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Hoshino has joined the battle>>",
+      "JP": "<<星野が戦闘に参加>>",
+      "CN": "",
+      "KR": "<<하치쿠루가 전투에 합류했습니다>>",
+      "TW": "<<星野加入了戰鬥>>"
+    }
   },
   "绫音<<诶？星野前辈什么时候过去的？>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "Ayane <<Huh? When did Hoshine senpai leave?>>",
+      "JP": "アヤネ<<え？先輩、いつ行ったの？>>",
+      "CN": "绫音<<<怎么了？星野前辈几点过去？>>>",
+      "KR": "아야네<<저, 정말요? 하치쿠루 선배는 언제 가셨나요?>>",
+      "TW": "綾音<<欸？星野前輩什麼時候過去的呢？>>"
+    }
   },
   "<<-4cost?>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<-4コスト？>>",
+      "CN": "<<-4费用?>",
+      "KR": "<<-4 비용?>",
+      "TW": "<<-4消耗?>"
+    }
   },
   "<<增员来袭>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Rescue Team Incoming>>",
+      "JP": "<<援軍到来>>",
+      "CN": "",
+      "KR": "<<증원 도착>>",
+      "TW": "<<增員來襲>>"
+    }
   },
   "<<僵尸将在8s后被传送>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Zombies teleporting in 8s>>",
+      "JP": "<<ゾンビは8秒後にテレポートします>>",
+      "CN": "",
+      "KR": "<<좀비가 8초 후 전송됩니다>>",
+      "TW": "<<殭屍將在8秒後被傳送>>"
+    }
   },
   "<<十连进行中.......>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Multi-draw in progress.......>>",
+      "JP": "<<10連ガチャ進行中.......>>",
+      "CN": "",
+      "KR": "<<십연 진행 중.......>>",
+      "TW": "<<十連抽獎進行中.......>>"
+    }
   },
   "<<ZM TP 15s>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<ZM TP 15秒>>",
+      "CN": "<<ZM 传送 15秒>>",
+      "KR": "<<ZM TP 15초>>",
+      "TW": "<<ZM TP 15秒>>"
+    }
   },
   "<<-4cost?>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<コスト-4?>>",
+      "CN": "<<-4费用?>>",
+      "KR": "<<비용 -4?>>",
+      "TW": "<<-4消耗?>>"
+    }
   },
   "<<无人机支援已到达>>": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Drone support has arrived>>",
+      "JP": "<<ドローン支援到着>>",
+      "CN": "",
+      "KR": "<<무인기 지원 도착>>",
+      "TW": "<<無人機支援已抵達>>"
+    }
+  },
+  "<<35s>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<35秒>>",
+      "CN": "<<35秒>>",
+      "KR": "<<35초>>",
+      "TW": "<<35秒>>"
+    }
+  },
+  "<<25s>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<25秒>>",
+      "CN": "<<25秒>>",
+      "KR": "<<25초>>",
+      "TW": "<<25秒>>"
+    }
+  },
+  "<<40s>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<40秒>>",
+      "CN": "<<40秒>>",
+      "KR": "<<40초>>",
+      "TW": "<<40秒>>"
+    }
+  },
+  "<<15s>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<15秒>>",
+      "CN": "<<15秒>>",
+      "KR": "<<15초>>",
+      "TW": "<<15秒>>"
+    }
+  },
+  "<<左边栅栏碎了!!>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Left fence is broken!!>>",
+      "JP": "<<左側のフェンスが壊れた!!>>",
+      "CN": "",
+      "KR": "<<왼쪽 울타리가 부러졌다!!>>",
+      "TW": "<<左側柵欄碎了!!>>"
+    }
+  },
+  "<<右边栅栏碎了!!>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Right fence is broken!!>>",
+      "JP": "<<右側の柵が割れた!!>>",
+      "CN": "",
+      "KR": "<<오른쪽 울타리가 깨졌다!!>>",
+      "TW": "<<右側柵欄碎了！！>>"
+    }
+  },
+  "<<中间栅栏碎了!!>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Center fence is broken!!>>",
+      "JP": "<<中央の柵が割れた!!>>",
+      "CN": "",
+      "KR": "<<가운데 울타리가 깨졌다!!>>",
+      "TW": "<<中間柵欄碎了！！>>"
+    }
   }
 }

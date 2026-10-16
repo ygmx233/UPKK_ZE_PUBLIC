@@ -1,137 +1,452 @@
 {
   "*** What is this? ***": {
-    "translation": " 这是怎么回事？"
+    "translation": "这是怎么回事？",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** これは何？ ***",
+      "CN": "*** 这是什么？ ***",
+      "KR": "*** 이건 뭐지? ***",
+      "TW": "*** 這是什麼？ ***"
+    }
   },
   "*** What is happening? ***": {
-    "translation": "发生了什么事？"
+    "translation": "发生了什么事？",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 何が起きている？ ***",
+      "CN": "*** 发生什么事了？ ***",
+      "KR": "*** 무슨 일이지? ***",
+      "TW": "*** 發生了什麼事？ ***"
+    }
   },
   "*** TIMES UP ***": {
-    "translation": "时间到 "
+    "translation": "时间到",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** タイムアップ ***",
+      "CN": "*** 时间到 ***",
+      "KR": "*** 시간 초과 ***",
+      "TW": "*** 時間到 ***"
+    }
   },
   ">>> Door Opens in 25 seconds <<<": {
-    "translation": ">>> 25秒后开门 <<<"
+    "translation": ">>> 25秒后开门 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 門が25秒後に開きます <<<",
+      "CN": ">>> 门将在 25 秒后打开 <<<",
+      "KR": ">>> 도시 문이 25초 후에 열립니다 <<<",
+      "TW": ">>> 門將在 25 秒後開啟 <<<"
+    }
   },
   ">>> Hold until the City Doors Open! <<<": {
-    "translation": ">>> 守住直到城市之门打开！<<<"
+    "translation": ">>> 守住直到城市之门打开！<<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> シティの扉が開くまで待ち続けてください！ <<<",
+      "CN": ">>> 坚持到城市大门开启！ <<<",
+      "KR": ">>> 도시 문이 열릴 때까지 버튼을 누르세요! <<<",
+      "TW": ">>> 堅持到城門開啟！<<<"
+    }
   },
   ">>> Door Opens in 15 seconds <<<": {
-    "translation": ">>> 15秒后开门 <<<"
+    "translation": ">>> 15秒后开门 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 門が15秒後に開きます <<<",
+      "CN": ">>> 门将在 15 秒后打开 <<<",
+      "KR": ">>> 문이 15초 후에 열립니다 <<<",
+      "TW": ">>> 門將在 15 秒後開啟 <<<"
+    }
   },
   "*** MAP BY P'A'SS ***": {
-    "translation": "地图作者： P'A'SS 翻译：秋刀鱼"
+    "translation": "地图作者： P'A'SS 翻译：秋刀鱼",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** MAP BY P'A'SS ***",
+      "CN": "*** 地图制作：P'A'SS ***",
+      "KR": "*** 제작: P'A'SS ***",
+      "TW": "*** 地圖由 P'A'SS 設計 ***"
+    }
   },
   ">>> Elevator Leaves in 10 seconds !! <<": {
-    "translation": ">>> 电梯 10 秒后离开 ! <<"
+    "translation": ">>> 电梯 10 秒后离开 ! <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エレベーターが10秒後に発車します！！ <<<",
+      "CN": ">>> 电梯将在 10 秒后出发！！ <<<",
+      "KR": ">>> 엘리베이터가 10초 후에 출발합니다!! <<",
+      "TW": ">>> 電梯將在 10 秒後離開！<<<"
+    }
   },
   "*** Door opens in 20 seconds ***": {
-    "translation": " 20 秒后开门 "
+    "translation": "20 秒后开门",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 20秒後にドアが開きます ***",
+      "CN": "*** 门将在20秒后开启 ***",
+      "KR": "*** 문이 20초 후에 열립니다 ***",
+      "TW": "***門將在20秒後打開***"
+    }
   },
   "*** Facility door opens in 25 seconds ***": {
-    "translation": "设施门在 25 秒后打开 "
+    "translation": "设施门在 25 秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒後に施設用ドアが開きます ***",
+      "CN": "*** 设施大门将在25秒后开启 ***",
+      "KR": "*** 시설 문이 25초 후에 열립니다 ***",
+      "TW": "***設施大門將在25秒後打開***"
+    }
   },
   "*** Silo doors open in 25 seconds ***": {
-    "translation": "筒仓门在 25 秒后打开 "
+    "translation": "筒仓门在 25 秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 25秒後にサイロの扉が開きます ***",
+      "CN": "*** 筒仓门将在25秒后开启 ***",
+      "KR": "*** 실로문이 25초 후에 열립니다 ***",
+      "TW": "***儲存筒庫的大門將在25秒後打開***"
+    }
   },
   "*** STARTING THE REACTORS... ***": {
-    "translation": " 启动反应堆... "
+    "translation": "启动反应堆...",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 原子炉起動準備中… ***",
+      "CN": "*** 启动反应堆中... ***",
+      "KR": "*** 원자로 시작 중... ***",
+      "TW": "***啟動反應爐中...**"
+    }
   },
   "*** THE REACTOR CORES ARE GOING UNSTABLE ***": {
-    "translation": " 反应堆核心不稳定 "
+    "translation": "反应堆核心不稳定",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 原子炉のコアが不安定化しています ***",
+      "CN": "*** 反应堆核心正在变得不稳定 ***",
+      "KR": "*** 원자로 코어가 불안정해집니다 ***",
+      "TW": "***反應爐核心正在不穩定***"
+    }
   },
   "*** OH NO ***": {
-    "translation": " 不 "
+    "translation": "不",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** おや？ ***",
+      "CN": "*** 糟糕 ***",
+      "KR": "*** 아니야 ***",
+      "TW": "***天啊***"
+    }
   },
   "*** Cover the windows until we find a way out of here ***": {
-    "translation": "在我们找到出去的路之前，把窗户盖上 "
+    "translation": "在我们找到出去的路之前，把窗户盖上",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 出口が見つかるまで窓を覆っておいてください ***",
+      "CN": "*** 遮挡住窗户，直到我们要找到出口 ***",
+      "KR": "*** 우리가 여기에서 빠져나갈 방법을 찾을 때까지 창문을 막아주세요 ***",
+      "TW": "***遮蔽窗戶，直到我們找到離開這裡的方法***"
+    }
   },
   "*** Bathroom and living room windows are broken! ***": {
-    "translation": " 浴室和客厅的窗户被打破了 "
+    "translation": "浴室和客厅的窗户被打破了",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 寝室とリビングの窓が割れました！ ***",
+      "CN": "*** 浴室和客厅的窗户都碎了！***",
+      "KR": "*** 욕실 및 거실 창문이 파손되었습니다! ***",
+      "TW": "***浴室和客廳的窗戶已打破！***"
+    }
   },
   "*** GET DOWN IN THE BASEMENT NOW ***": {
-    "translation": " 马上到地下室去 "
+    "translation": "马上到地下室去",
+    "MultiLang": {
+      "US": "",
+      "JP": "***今すぐ地下室へ逃げろ***",
+      "CN": "*** 立刻去地下室 ***",
+      "KR": "*** 지금 지하로 내려가라 ***",
+      "TW": "***現在立刻躲到地下室去***"
+    }
   },
   "*** RESIST ***": {
-    "translation": "守一下"
+    "translation": "守一下",
+    "MultiLang": {
+      "US": "",
+      "JP": "***抵抗しろ***",
+      "CN": "*** 抵抗 ***",
+      "KR": "*** 저항해라 ***",
+      "TW": "***反抗***"
+    }
   },
   "*** Kitchen and living room windows are broken! ***": {
-    "translation": "厨房和客厅的窗户被打破了 "
+    "translation": "厨房和客厅的窗户被打破了",
+    "MultiLang": {
+      "US": "",
+      "JP": "***キッチンとリビングの窓が割れた！***",
+      "CN": "*** 厨房和客厅窗户已破碎！ ***",
+      "KR": "*** 주방과 거실 창문이 파손되었습니다! ***",
+      "TW": "***廚房和客廳的窗戶都破了！***"
+    }
   },
   "*** TRAIN IS LEAVING NOW ***": {
-    "translation": " 火车即将驶离 "
+    "translation": "火车即将驶离",
+    "MultiLang": {
+      "US": "",
+      "JP": "***列車が発車します***",
+      "CN": "*** 火车即将发车 ***",
+      "KR": "*** 열차가 이제 출발합니다 ***",
+      "TW": "***列車即將開走***"
+    }
   },
   "*** TRY TO ESCAPE THROUGH THE CARGO AREA ***": {
-    "translation": " 尝试从货运区逃生 "
+    "translation": "尝试从货运区逃生",
+    "MultiLang": {
+      "US": "",
+      "JP": "***貨物エリアから脱出を試みろ***",
+      "CN": "*** 尝试通过货舱区域逃跑 ***",
+      "KR": "*** 화물 구간을 통해 탈출하려 한다 ***",
+      "TW": "***試圖從貨艙區域逃脫***"
+    }
   },
   "*** THIS PLACE IS GOING TO BLOW UP IN 30 SECONDS ***": {
-    "translation": "这里将在 30 秒内爆炸 "
+    "translation": "这里将在 30 秒内爆炸",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ここは30秒後に爆発します！***",
+      "CN": "*** 该地点将在30秒后爆炸 ***",
+      "KR": "*** 이곳은 30초 후에 폭발합니다 ***",
+      "TW": "***此地30秒後將爆炸***"
+    }
   },
   "*** LAST TRAIN OUT OF HERE LEAVES IN 70 SECONDS ***": {
-    "translation": " 最后一列火车将在70秒后离开 "
+    "translation": "最后一列火车将在70秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***最後の列車まであと70秒***",
+      "CN": "*** 最后一班火车将在70秒后发车 ***",
+      "KR": "*** 여기서 나가는 마지막 열차가 70초 후에 출발합니다 ***",
+      "TW": "***最後一班開離此地的列車將在70秒後發車***"
+    }
   },
   "*** CARGO AREA DOOR SHOULD OPEN SOON! ***": {
-    "translation": " 货物区的门很快就会打开 "
+    "translation": "货物区的门很快就会打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***貨物エリアのドアが開きます！***",
+      "CN": "*** 货舱区大门即将打开！ ***",
+      "KR": "*** 화물구간 문이 곧 열릴 것입니다! ***",
+      "TW": "***貨艙區的門應該快開了！***"
+    }
   },
   "*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***": {
-    "translation": "这里将在 2 分钟后爆炸 "
+    "translation": "这里将在 2 分钟后爆炸",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** この場所から2分後に爆発します ***",
+      "CN": "*** 该区域将在2分钟内爆炸 ***",
+      "KR": "*** 이 장소가 2분 후에 폭발합니다 ***",
+      "TW": "*** 兩分鐘後這裡將爆炸 ***"
+    }
   },
   "*** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***": {
-    "translation": "你们需要前往 1 区下方的掩体 "
+    "translation": "你们需要前往 1 区下方的掩体",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** セクター1の下の避難壕へ移動する必要があります ***",
+      "CN": "*** 你需要前往1号扇区下方的掩体 ***",
+      "KR": "*** 섹터 1 아래의 벙커로 이동해야 합니다 ***",
+      "TW": "*** 您必須前往一區下方的掩蔽所 ***"
+    }
   },
   "*** SECTOR 1 DOORS SHOULD OPEN SOON! ***": {
-    "translation": " 1区大门即将打开 "
+    "translation": "1区大门即将打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** セクター1のドアが開きます！ ***",
+      "CN": "*** 1号扇区的门应该快要开了！***",
+      "KR": "*** 섹터 1 문이 곧 열립니다! ***",
+      "TW": "*** 一區門即將開啟！ ***"
+    }
   },
   "*** RESIST! ***": {
-    "translation": "守一下"
+    "translation": "守一下",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 抵抗せよ！ ***",
+      "CN": "*** 抵抗！ ***",
+      "KR": "*** 저항하라! ***",
+      "TW": "*** 抵抗！ ***"
+    }
   },
   "*** ZOMBIE ON THE TRAIN ***": {
-    "translation": "火车上有僵尸 "
+    "translation": "火车上有僵尸",
+    "MultiLang": {
+      "US": "*** Zombie on the Train ***",
+      "JP": "*** 列車のゾンビ ***",
+      "CN": "*** 火车上有僵尸 ***",
+      "KR": "*** 전차에 좀비가 있습니다 ***",
+      "TW": "*** 車廂內的殭屍 ***"
+    }
   },
   "*** HUMANS LOSE ***": {
-    "translation": " 人类失败 "
+    "translation": "人类失败",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 人間は負ける ***",
+      "CN": "*** 人类必败 ***",
+      "KR": "*** 인류는 패배한다 ***",
+      "TW": "*** 人類失敗 ***"
+    }
   },
   "*** Door opens in 25 seconds ***": {
-    "translation": " 25 秒后开门"
+    "translation": "25 秒后开门",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ドアは25秒後に開きます ***",
+      "CN": "*** 门将在25秒后打开 ***",
+      "KR": "*** 문이 25초 후에 열립니다 ***",
+      "TW": "*** 門25秒後開啟 ***"
+    }
   },
   "*** ELEVATOR DOORS OPEN IN 40 SECONDS ***": {
-    "translation": "电梯门 40 秒后打开 "
+    "translation": "电梯门 40 秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターのドアは40秒後に開きます ***",
+      "CN": "*** 电梯门将在40秒后打开 ***",
+      "KR": "*** 엘리베이터 문이 40초 후에 열립니다 ***",
+      "TW": "*** 電梯門40秒後開啟 ***"
+    }
   },
   "*** DOORS ARE OPENING ***": {
-    "translation": " 门正在打开 "
+    "translation": "门正在打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが開いています",
+      "CN": "*** 门即将打开 ***",
+      "KR": "*** 문이 열립니다 ***",
+      "TW": "*** 門正在開啟 ***"
+    }
   },
   "*** ELEVATOR LEAVES IN 5 SECONDS ***": {
-    "translation": "电梯 5 秒后离开 "
+    "translation": "电梯 5 秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** エレベーターは5秒後に発車します ***",
+      "CN": "*** 电梯将在5秒后离开 ***",
+      "KR": "*** 엘리베이터가 5초 후에 떠납니다 ***",
+      "TW": "*** 電梯5秒後離開 ***"
+    }
   },
   "*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***": {
-    "translation": " 1 分钟后整个地方爆炸 "
+    "translation": "1 分钟后整个地方爆炸",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 1分以内にこの施設が爆破されます ***",
+      "CN": "*** 1分钟后此处将发生爆炸 ***",
+      "KR": "*** 1분 후 전체 장소가 폭발합니다 ***",
+      "TW": "*** 1分鐘後這裡將發生爆炸 ***"
+    }
   },
   "*** THERE SHOULD BE A PLANE LEAVING SOON ***": {
-    "translation": "应该很快就会有飞机起飞 "
+    "translation": "应该很快就会有飞机起飞",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 間もなく飛行機が発つはずです ***",
+      "CN": "*** 应该有飞机即将起飞 ***",
+      "KR": "*** 비행기가 곧 떠날 예정입니다 ***",
+      "TW": "*** 應該會有航班即將起飛 ***"
+    }
   },
   "*** MAKE YOUR WAY TO THE AIRFIELD ***": {
-    "translation": "前往机场 "
+    "translation": "前往机场",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 空港敷地へ向かってください ***",
+      "CN": "*** 请前往机场 ***",
+      "KR": "*** 비행장으로 이동하세요 ***",
+      "TW": "*** 前往機場 ***"
+    }
   },
   "*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***": {
-    "translation": "整个地下建筑群似乎很快就会爆炸 "
+    "translation": "整个地下建筑群似乎很快就会爆炸",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 地下施設全体がまもなく爆破されるようです ***",
+      "CN": "*** 整个地下设施似乎即将爆炸 ***",
+      "KR": "*** 전체 지하 단지가 곧 폭발할 것 같습니다 ***",
+      "TW": "*** 整個地下設施即將爆炸 ***"
+    }
   },
   "*** THAT DIDNT SOUND GOOD ***": {
-    "translation": " 听起来不妙 "
+    "translation": "听起来不妙",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 宜しくない知らせでした ***",
+      "CN": "*** 这听起来不妙 ***",
+      "KR": "*** 그 소리가 좋지 않았습니다 ***",
+      "TW": "*** 聽起來不妙 ***"
+    }
   },
   "*** PLANE IS READY TO LEAVE ***": {
-    "translation": " 飞机准备起飞 "
+    "translation": "飞机准备起飞",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 飛行機は発車準備完了です ***",
+      "CN": "*** 飞机准备起飞 ***",
+      "KR": "*** 비행기가 떠나준備합니다 ***",
+      "TW": "*** 飛機準備好離開了 ***"
+    }
   },
   "*** GET ON NOW ***": {
-    "translation": "  立即行动 "
+    "translation": "立即行动",
+    "MultiLang": {
+      "US": "",
+      "JP": "さあ、搭乗だ",
+      "CN": "*** 立即上机 ***",
+      "KR": "*** 지금 탑승하세요 ***",
+      "TW": "立即登機"
+    }
   },
   "*** ZOMBIE ON THE PLANE ***": {
-    "translation": " 飞机上有僵尸 "
+    "translation": "飞机上有僵尸",
+    "MultiLang": {
+      "US": "",
+      "JP": "飛行機にゾンビが...",
+      "CN": "*** 机上的丧尸 ***",
+      "KR": "*** 제트기 위의 좀비 ***",
+      "TW": "飛機上的殭屍"
+    }
   },
   "*** INVALID VICTORY ***": {
-    "translation": "无效胜利 "
+    "translation": "无效胜利",
+    "MultiLang": {
+      "US": "",
+      "JP": "無効な勝利",
+      "CN": "*** 无效的胜利 ***",
+      "KR": "*** 무효인 승리 ***",
+      "TW": "無效勝利"
+    }
   },
   "*** We got a winner ***": {
-    "translation": "我们赢了 "
+    "translation": "我们赢了",
+    "MultiLang": {
+      "US": "",
+      "JP": "勝者が決まりました",
+      "CN": "*** 我们找到了赢家 ***",
+      "KR": "*** 당황한 우승자 ***",
+      "TW": "我們有一位勝利者"
+    }
   },
   "*** Losers shall die! ***": {
-    "translation": "失败者必死 "
+    "translation": "失败者必死",
+    "MultiLang": {
+      "US": "",
+      "JP": "負け犬は死んだ！",
+      "CN": "*** 输家都将死去！***",
+      "KR": "*** 패배자들은 죽을 것이다! ***",
+      "TW": "輸家必死！"
+    }
   }
 }

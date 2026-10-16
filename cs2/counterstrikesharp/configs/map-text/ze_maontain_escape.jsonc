@@ -1,0 +1,612 @@
+{
+  "普通模式": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Normal Mode",
+      "JP": "ノーマルモード",
+      "CN": "",
+      "KR": "일반 모드",
+      "TW": "普通模式"
+    }
+  },
+  "但...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "But...",
+      "JP": "しかし……",
+      "CN": "",
+      "KR": "그런데...",
+      "TW": "但……"
+    }
+  },
+  "无事发生": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Nothing happened",
+      "JP": "何もない",
+      "CN": "",
+      "KR": "일어나지 않음",
+      "TW": "無事發生"
+    }
+  },
+  "但......": {
+    "translation": "",
+    "MultiLang": {
+      "US": "But......",
+      "JP": "しかし……",
+      "CN": "",
+      "KR": "그런데......",
+      "TW": "但……"
+    }
+  },
+  "黑雾四起": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Dark Fog Rising",
+      "JP": "黒い霧が広がる",
+      "CN": "",
+      "KR": "검은 안개 발생",
+      "TW": "黑霧四起"
+    }
+  },
+  "雾气消失": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fog Disappears",
+      "JP": "霧が消える",
+      "CN": "",
+      "KR": "안개 소멸",
+      "TW": "霧氣消失"
+    }
+  },
+  "3": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "2": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "1": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "雾气再起": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fog Rises Again",
+      "JP": "霧が再び立ち込める",
+      "CN": "",
+      "KR": "안개 재발생",
+      "TW": "霧氣再起"
+    }
+  },
+  "僵尸泥头车已被拾取": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie Dump Truck Has Been Picked Up",
+      "JP": "ゾンビのオフロードトラックを回収済み",
+      "CN": "",
+      "KR": "좀비 덤프트럭을 수거했습니다",
+      "TW": "殭屍泥頭車已被拾取"
+    }
+  },
+  "60秒后核爆降临": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Nuclear explosion in 60 seconds",
+      "JP": "60秒後に核爆発が発生",
+      "CN": "",
+      "KR": "60초 후 핵폭발 발생",
+      "TW": "60秒後核爆降臨"
+    }
+  },
+  "DIO在朝你扔压路机": {
+    "translation": "",
+    "MultiLang": {
+      "US": "DIO is throwing a road roller at you",
+      "JP": "DIOがロードスティングを投げつけている",
+      "CN": "",
+      "KR": "DIO가 압연기를 던지고 있습니다",
+      "TW": "DIO正在朝你扔壓路機"
+    }
+  },
+  "一名玩家拾取了蚁狮守卫": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up the Antlion Guard",
+      "JP": "プレイヤーがレンティスの衛兵を回収",
+      "CN": "",
+      "KR": "한 플레이어가 안토라 리버터를 획득했습니다.",
+      "TW": "一名玩家拾取了蟻獅守衛"
+    }
+  },
+  "选择模式中.....": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Selecting mode....",
+      "JP": "モードを選択中.....",
+      "CN": "",
+      "KR": "모드 선택 중...",
+      "TW": "選擇模式中....."
+    }
+  },
+  "天黑了...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "It's dark...",
+      "JP": "夜になった...",
+      "CN": "",
+      "KR": "어두워진다...",
+      "TW": "天黑了..."
+    }
+  },
+  "抓钩抓到了一名人类，帮帮他": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Grapple attached to a human, help him",
+      "JP": "ハーケンが人間を掴んだ、助けよう",
+      "CN": "",
+      "KR": "그랩 훅이 인간을 잡아당겼습니다. 도와주세요.",
+      "TW": "抓鉤抓到了一名人類，幫帮他"
+    }
+  },
+  "1.25重力": {
+    "translation": "",
+    "MultiLang": {
+      "US": "1.25x Gravity",
+      "JP": "1.25倍重力",
+      "CN": "",
+      "KR": "1.25 중력",
+      "TW": "1.25重力"
+    }
+  },
+  "钢铁之躯": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Iron Body",
+      "JP": "鋼鉄の躯体",
+      "CN": "",
+      "KR": "강철의 몸을 가진 자",
+      "TW": "鋼鐵之軀"
+    }
+  },
+  "0.8重力": {
+    "translation": "",
+    "MultiLang": {
+      "US": "0.8x Gravity",
+      "JP": "0.8重力",
+      "CN": "",
+      "KR": "중력 0.8배",
+      "TW": "0.8重力"
+    }
+  },
+  "飞": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Fly",
+      "JP": "飛ぶ",
+      "CN": "",
+      "KR": "비행 모드",
+      "TW": "飛天模式"
+    }
+  },
+  "2倍速": {
+    "translation": "",
+    "MultiLang": {
+      "US": "2x Speed",
+      "JP": "2倍速",
+      "CN": "",
+      "KR": "속도 2배",
+      "TW": "2倍速播放"
+    }
+  },
+  "0.75倍速": {
+    "translation": "",
+    "MultiLang": {
+      "US": "0.75x Speed",
+      "JP": "0.75倍速",
+      "CN": "",
+      "KR": "속도 0.75배",
+      "TW": "0.75倍速播放"
+    }
+  },
+  "护送猫猫": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Escort the Cat",
+      "JP": "猫を送る",
+      "CN": "",
+      "KR": "고양이 호송",
+      "TW": "護送貓咪前進"
+    }
+  },
+  "僵尸突破了一次！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The zombies broke through once!!!",
+      "JP": "ゾンビが1回突破しました！！！",
+      "CN": "",
+      "KR": "좀비가 1번 돌파했습니다!!!",
+      "TW": "殭屍突破一次！"
+    }
+  },
+  "运载目标抵达终点，任务完成！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Transportation target reached the destination, mission complete!!",
+      "JP": "輸送目標が目的地に到達、任務完了！！",
+      "CN": "",
+      "KR": "수송 목표가 목적지에 도착했습니다. 임무 완료!!",
+      "TW": "載運目標已抵達終點，任務完成！！"
+    }
+  },
+  "僵尸复活已关闭，清理残余的僵尸": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombie resurrection is disabled, clearing remaining zombies",
+      "JP": "ゾンビの復活は無効化されています、残りのゾンビを殲滅せよ",
+      "CN": "",
+      "KR": "좀부 부활 기능이 비활성화되었으며, 잔존 좀부를 처리합니다.",
+      "TW": "殭屍復活功能已關閉，請清理殘餘的殭屍"
+    }
+  },
+  "30秒后将进行只能使用近战武器最终对决": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Final melee-only showdown in 30 seconds",
+      "JP": "30秒後に近接武器のみを使用した最終決闘が行われます",
+      "CN": "",
+      "KR": "30초 후 근접 무기로만 진행되는 최종 결투가 시작됩니다",
+      "TW": "30秒後將進行僅可使用近戰武器的最終對決"
+    }
+  },
+  "一名玩家拾取了cohen": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A player picked up cohen",
+      "JP": "プレイヤーがcohenを持ち去りました",
+      "CN": "",
+      "KR": "한 명의 플레이어가 코헨을 주웠습니다",
+      "TW": "一名玩家拾取了cohen"
+    }
+  },
+  "1.25倍速": {
+    "translation": "",
+    "MultiLang": {
+      "US": "1.25x Speed",
+      "JP": "1.25倍速",
+      "CN": "",
+      "KR": "1.25배속",
+      "TW": "1.25倍速"
+    }
+  },
+  "冰！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ice!",
+      "JP": "アイス！",
+      "CN": "",
+      "KR": "얼음!",
+      "TW": "冰！"
+    }
+  },
+  "15秒后将进行只能使用近战武器最终对决": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Final melee-only showdown in 15 seconds",
+      "JP": "15秒後に近接武器のみを使用した最終決闘が行われます",
+      "CN": "",
+      "KR": "15초 후 근접 무기로만 진행되는 최종 결투가 시작됩니다",
+      "TW": "15秒後將進行僅可使用近戰武器的最終對決"
+    }
+  },
+  "30秒内结束战斗": {
+    "translation": "",
+    "MultiLang": {
+      "US": "End combat within 30 seconds",
+      "JP": "15秒以内に戦闘を終了せよ",
+      "CN": "",
+      "KR": "30초 내에 전투를 종료하세요",
+      "TW": "30秒內結束戰鬥"
+    }
+  },
+  "曼波": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Wumbo",
+      "JP": "マンボ",
+      "CN": "",
+      "KR": "맘보",
+      "TW": "曼波"
+    }
+  },
+  "20秒内结束战斗": {
+    "translation": "",
+    "MultiLang": {
+      "US": "End combat within 20 seconds",
+      "JP": "20秒以内に戦闘を終了せよ",
+      "CN": "",
+      "KR": "20초 내에 전투를 종료하세요",
+      "TW": "20秒內結束戰鬥"
+    }
+  },
+  "10秒内结束战斗": {
+    "translation": "",
+    "MultiLang": {
+      "US": "End the battle within 10 seconds",
+      "JP": "10秒以内に戦闘を終わらせよ",
+      "CN": "",
+      "KR": "10초 안에 전투 종료",
+      "TW": "10秒內結束戰鬥"
+    }
+  },
+  "那是什么....": {
+    "translation": "",
+    "MultiLang": {
+      "US": "What is that....",
+      "JP": "あれは…何だ",
+      "CN": "",
+      "KR": "그건 뭐지....",
+      "TW": "那是什麼...."
+    }
+  },
+  "僵尸摧毁了运载目标，任务失败！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Zombies have destroyed the transport objective. Mission failed!!",
+      "JP": "運び屋目標がゾンビに破壊された。任務失敗！！",
+      "CN": "",
+      "KR": "운송 목표물이 좀비에 의해 파괴되었습니다. 임무 실패!!",
+      "TW": "殭屍摧毀了運載目標，任務失敗！！"
+    }
+  },
+  "地图出现了大飞板": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A large flying board appeared on the map",
+      "JP": "マップ上に巨大な板が発見された",
+      "CN": "",
+      "KR": "지도에 대비행체가 나타났습니다",
+      "TW": "地圖上出現大飛鏢"
+    }
+  },
+  "↑↓←→": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "( ×ω× )": {
+    "translation": "",
+    "MultiLang": {
+      "US": "( ×ω× )",
+      "JP": "( ×ω× )",
+      "CN": "（×ω×）",
+      "KR": "( ×ω× )",
+      "TW": "( ×ω× )"
+    }
+  },
+  "初生的世界": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The newborn world",
+      "JP": "誕生した世界",
+      "CN": "",
+      "KR": "초생의 세계",
+      "TW": "初生的世界"
+    }
+  },
+  "核弹装置已部署,20秒内强制启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Nuclear bomb device deployed. Forced activation in 20 seconds.",
+      "JP": "核兵器装置設置完了。20秒以内に強制発射開始",
+      "CN": "",
+      "KR": "핵탄두 장치가 설치되었으며, 20초 후에 강제 가동됩니다",
+      "TW": "核彈裝置已部署，20秒內強制啟動"
+    }
+  },
+  "核弹倒计时已启动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Nuclear bomb countdown initiated",
+      "JP": "核兵器カウントダウン開始",
+      "CN": "",
+      "KR": "핵탄두 카운트다운이 시작되었습니다",
+      "TW": "核彈倒計時已啟動"
+    }
+  },
+  "110秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "110 seconds...",
+      "JP": "110秒...",
+      "CN": "",
+      "KR": "110초...",
+      "TW": "110秒..."
+    }
+  },
+  "100秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "100 seconds...",
+      "JP": "100秒...",
+      "CN": "",
+      "KR": "100초...",
+      "TW": "100秒..."
+    }
+  },
+  "90秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "90 seconds...",
+      "JP": "90秒...",
+      "CN": "",
+      "KR": "90초...",
+      "TW": "90秒..."
+    }
+  },
+  "80秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "80 seconds...",
+      "JP": "80秒...",
+      "CN": "",
+      "KR": "80초...",
+      "TW": "80秒..."
+    }
+  },
+  "70秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "70 seconds...",
+      "JP": "70秒...",
+      "CN": "",
+      "KR": "70초...",
+      "TW": "70秒..."
+    }
+  },
+  "60秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "60 seconds...",
+      "JP": "60秒...",
+      "CN": "",
+      "KR": "60초...",
+      "TW": "60秒..."
+    }
+  },
+  "50秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "50 seconds...",
+      "JP": "50秒...",
+      "CN": "",
+      "KR": "50초...",
+      "TW": "50秒..."
+    }
+  },
+  "40秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "40 seconds...",
+      "JP": "40秒...",
+      "CN": "",
+      "KR": "40초...",
+      "TW": "40秒..."
+    }
+  },
+  "30秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "30 seconds...",
+      "JP": "30秒…",
+      "CN": "",
+      "KR": "30초...",
+      "TW": "30秒..."
+    }
+  },
+  "20秒...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "20 seconds...",
+      "JP": "20秒…",
+      "CN": "",
+      "KR": "20초...",
+      "TW": "20秒..."
+    }
+  },
+  "核弹即将降临": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Nuclear strike imminent",
+      "JP": "核弾が目前に迫る",
+      "CN": "",
+      "KR": "핵폭탄 낙하 임박",
+      "TW": "核彈即將降臨"
+    }
+  },
+  "0": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "销量惨淡...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Poor sales...",
+      "JP": "販売実績が振るわない…",
+      "CN": "",
+      "KR": "매출 부진...",
+      "TW": "銷量慘淡..."
+    }
+  },
+  "下一回合会是初生的世界": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The next round will be a nascent world",
+      "JP": "次のターンは新生された世界となります",
+      "CN": "",
+      "KR": "다음 턴은 탄생한 지 얼마 안 된 세계입니다",
+      "TW": "下一回合將是初生的世界"
+    }
+  },
+  "下一回合为普通模式": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The next round is in Normal mode",
+      "JP": "次のターンは通常モードです",
+      "CN": "",
+      "KR": "다음 턴은 일반 모드입니다",
+      "TW": "下一回合為普通模式"
+    }
+  },
+  "核弹将在下一回合部署": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A nuke will be deployed next round",
+      "JP": "核弾は次のターンで配備されます",
+      "CN": "",
+      "KR": "다음 턴에 핵폭탄이 배치됩니다",
+      "TW": "核彈將在下一回合部署"
+    }
+  },
+  "核弹装置已被拆除": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Nuclear device has been disarmed",
+      "JP": "核弾装置の解除に成功しました",
+      "CN": "",
+      "KR": "핵폭탄 장치가 제거되었습니다",
+      "TW": "核彈裝置已被拆除"
+    }
+  }
+}

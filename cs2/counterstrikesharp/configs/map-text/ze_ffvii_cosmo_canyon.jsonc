@@ -1,0 +1,402 @@
+{
+  "**ZE_FFVII_COSMO_CANYON**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**ZE_FFVII_COSMO_CANYON**",
+      "CN": "**ZE_最终幻想VII_宇宙峡谷**",
+      "KR": "**ZE_FFVII_COSMO_CANYON**",
+      "TW": "**澤_FFFVII宇宙峽谷**"
+    }
+  },
+  "**Map by Headshooter.SC & HaRyDe**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成：Headshooter.SC & HaRyDe",
+      "CN": "地图制作者: Headshooter.SC & HaRyDe",
+      "KR": "맵 제작: Headshooter.SC & HaRyDe",
+      "TW": "地圖由Headshooter.SC與HaRyDe製作"
+    }
+  },
+  "**NORMAL MODE**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ノーマルモード",
+      "CN": "普通模式",
+      "KR": "정규 모드",
+      "TW": "普通模式**"
+    }
+  },
+  "**Thanks to Weed-Lancer for tons of grammar errors fix**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Weed-Lancer氏による文法エラーの多数修正に感謝",
+      "CN": "感谢 Weed-Lancer 修复大量语法错误",
+      "KR": "다수의 문법 오류 수정 기여: Weed-Lancer에게 감사드립니다",
+      "TW": "感謝Weed-Lancer修正大量語法錯誤"
+    }
+  },
+  "**A player has picked up HEAL materia**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが回復マテリアを拾いました",
+      "CN": "一名玩家拾取了回复魔晶石",
+      "KR": "\" healing\" 마테리아를 획득했습니다.",
+      "TW": "一名玩家撿取了治療魔晶石"
+    }
+  },
+  "**Cover here for 5 seconds before we clear this obstacle**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "障害物を排除するまで5秒間ここに覆われています",
+      "CN": "在此掩护5秒，随后我们清理该障碍物",
+      "KR": "5초 뒤에 이 장애물을 뚫겠습니다. 여기에서 엄호해 주세요.",
+      "TW": "在這裡掩護5秒，等我們清除障礙物"
+    }
+  },
+  "**We are near Cosmo Canyon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コスモキャノン付近です",
+      "CN": "我们靠近宇宙峡谷了",
+      "KR": "코스모 캐년 근처입니다.",
+      "TW": "我們接近宇宙峽谷了"
+    }
+  },
+  "**The gates will open in 20 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が開きます",
+      "CN": "大门将在20秒后打开",
+      "KR": "게이트가 20초 후에 열립니다.",
+      "TW": "城門將在20秒後開啟"
+    }
+  },
+  "**A player has picked up SLEEP materia**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがスリープマテリアを拾った",
+      "CN": "一名玩家已拾取睡眠魔石",
+      "KR": "플레이어가 쉐이딩 마테리아를 Pickup했습니다.",
+      "TW": "一名玩家拾取了睡眠魔晶石"
+    }
+  },
+  "**Welcome to Cosmo Canyon**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "コスモキャニオンへようこそ",
+      "CN": "欢迎来到宇宙峡谷",
+      "KR": "코스모 협곡에 오신 것을 환영합니다.",
+      "TW": "歡迎來到宇宙峽谷"
+    }
+  },
+  "**The barman will open the door in 5 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "バーテンダーが5秒後に扉を開けます",
+      "CN": "酒保将在5秒后开门",
+      "KR": "바텐더가 5초 뒤에 문을 열어줍니다.",
+      "TW": "酒保將在5秒後打開門"
+    }
+  },
+  "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door** ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビーが近づいています。背面の扉が開くまで、25秒間コスモバーを守ってください",
+      "CN": "丧尸正在逼近。在背面大门开启前，坚守Cosmo酒吧25秒",
+      "KR": "좀비가 다가오고 있습니다. 뒷문이 열리기 전까지 25초 동안 코스모 바를 방어하세요.",
+      "TW": "殭屍即將到來。在我們打開後門前的25秒內，請守護宇宙酒吧"
+    }
+  },
+  "**5 SECONDS LEFT**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り5秒",
+      "CN": "剩余5秒",
+      "KR": "남은 시간 5초",
+      "TW": "剩餘5秒"
+    }
+  },
+  "**FALL BACK**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "後退せよ",
+      "CN": "撤退",
+      "KR": "후퇴!",
+      "TW": "後撤"
+    }
+  },
+  "**The rock will explode in 25 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "岩爆弾が25秒後に爆発する",
+      "CN": "岩石将在25秒后爆炸",
+      "KR": "바위가 25초 뒤에 폭발합니다.",
+      "TW": "岩石將在25秒後爆炸"
+    }
+  },
+  "**The gates will open in 25 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "門が25秒後に開きます",
+      "CN": "城门将在25秒后开启",
+      "KR": "성문이 25초 후에 열립니다.",
+      "TW": "城門將在25秒後打開"
+    }
+  },
+  "**The Cave of the GI gates will open in 15 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "GIの洞窟ゲートが15秒後に開きます",
+      "CN": "**巨人之门将在15秒后开启**",
+      "KR": "**용병 동굴의 게이트가 15초 후에 열립니다**",
+      "TW": "巨靈洞穴的傳送門將在 15 秒後開啟"
+    }
+  },
+  "**Wait until something happens**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "何か起こるまで待ってください",
+      "CN": "**等待事件发生**",
+      "KR": "**무언가 일어날 때까지 기다리세요**",
+      "TW": "等待事件發生"
+    }
+  },
+  "**GI Nattak arena will open in 35 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "GI・ナタックの競技場が35秒後に開きます",
+      "CN": "**Gi Nattak竞技场将在35秒后开启**",
+      "KR": "**GI 나타크의 아레나가 35초 후에 열립니다**",
+      "TW": "吉納塔克競技場將在 35 秒後開啟"
+    }
+  },
+  "**Nades do more damage. Use them!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "なで倒しはより多くのダメージを与えます。使ってください！",
+      "CN": "**飞镖能造成更多伤害。使用它们！**",
+      "KR": "**나데스가 더 많은 피해를 입힙니다. 사용하세요!**",
+      "TW": "瓶罐能造成更多傷害。使用它們！"
+    }
+  },
+  "**Some of the items can affect him. Use them!**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "一部のアイテムはその人物に影響を及ぼします。使ってください！",
+      "CN": "**部分道具可以对施法者造成影响。使用它们！**",
+      "KR": "**일부 아이템이 그에게 영향을 미칠 수 있습니다. 사용하세요!**",
+      "TW": "部分道具能影響他。使用它們！"
+    }
+  },
+  "**Gi Nattak is using poison**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Gi Nattakは毒を使用しています",
+      "CN": "**Gi Nattak正在使用毒雾**",
+      "KR": "**Gi Nattak이 독을 사용하고 있습니다**",
+      "TW": "吉納塔克正在使用毒霧"
+    }
+  },
+  "**Gi Nattck is using silence**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Gi Nattckは無効状態を使用しています",
+      "CN": "**Gi Nattck正在使用沉默**",
+      "KR": "**Gi Nattck이 침묵을 사용하고 있습니다**",
+      "TW": "吉納塔克正在使用沉默效果"
+    }
+  },
+  "**Gi Nattak is using wind**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Gi Nattakは風を使用しています",
+      "CN": "**Gi Nattak正在利用风力**",
+      "KR": "**Gi Nattak이 바람을 사용하고 있습니다**",
+      "TW": "吉納塔克正在使用風系技能"
+    }
+  },
+  "**Gi Nattak is spawning minions. Watch out for them**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ギ・ナッタクがミニオンを召喚しています。注意してください",
+      "CN": "**吉·纳塔克正在召唤仆从。请注意避开**",
+      "KR": "기 나따크가 소환수를 생성하고 있습니다. 주의하십시오",
+      "TW": "**吉·納塔克正在召喚僕從。注意防範**"
+    }
+  },
+  "**Gi Nattak is using aspil**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ギ・ナッタクがアシールを使用しています",
+      "CN": "**吉·纳塔克正在使用吐息**",
+      "KR": "기 나따크가 '영매화'를 사용하고 있습니다",
+      "TW": "**吉·納塔克正在施放咒語**"
+    }
+  },
+  "**Gi Nattak is using gravity**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ギ・ナッタクが重力攻撃を行っています",
+      "CN": "**吉·纳塔克正在使用重力技能**",
+      "KR": "기 나따크가 중력을 사용하고 있습니다",
+      "TW": "**吉·納塔克正在施加重力效果**"
+    }
+  },
+  "**Gi Nattack is dead**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ギ・ナタックは死亡しました",
+      "CN": "**吉·纳塔克已死亡**",
+      "KR": "기 나따크가 격파되었습니다",
+      "TW": "**吉·納塔克已死亡**"
+    }
+  },
+  "**Now you can get out of Cave of Gi**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "現在、ギの洞窟から退出可能です",
+      "CN": "**你现在可以离开盖伊洞穴了**",
+      "KR": "지 동굴을 벗어날 수 있습니다",
+      "TW": "**現在你可以離開吉的洞穴了**"
+    }
+  },
+  "**DOOR OPENS IN 35 SECONDS**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "35秒後に扉が開きます",
+      "CN": "**门将在35秒后开启**",
+      "KR": "35초 후 문이 열립니다",
+      "TW": "**門將在 35 秒後開啟**"
+    }
+  },
+  "**10 SECONDS LEFT**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒",
+      "CN": "**剩余10秒**",
+      "KR": "10초 남았습니다",
+      "TW": "**剩餘 10 秒**"
+    }
+  },
+  "**This is your last hold point**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "これが最後のセーブ地点です",
+      "CN": "**这是你的最后安全点**",
+      "KR": "마지막 저장 지점입니다",
+      "TW": "**這是你最後的停留點**"
+    }
+  },
+  "**Get on the rocks and hold 25 seconds**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**岩の上に乗って25秒間保持**",
+      "CN": "站在岩石上保持25秒",
+      "KR": "**암반에 올라 25초간 유지**",
+      "TW": "踏上岩石並維持 25 秒"
+    }
+  },
+  "**NORMAL mode was beaten. Unlocking HARD mode **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**NORMALモードをクリアしました。HARDモードをアンロック**",
+      "CN": "已通关普通模式，解锁困难模式",
+      "KR": "**NORMAL 모드를 클리어했습니다. HARD 모드 해금**",
+      "TW": "已完成 NORMAL 模式。解鎖 HARD 模式"
+    }
+  },
+  "**A player has picked up BIO materia**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがBIOマテリアを取得しました**",
+      "CN": "有玩家拾取了生物魔石",
+      "KR": "**플레이어가 BIO 마테리아를 획득했습니다**",
+      "TW": "一名玩家撿取了 BIO 魔晶石"
+    }
+  },
+  "**HARD MODE**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**HARD MODE**",
+      "CN": "困难模式",
+      "KR": "**HARD MODE**",
+      "TW": "HARD 模式"
+    }
+  },
+  "**A player has picked up EARTH materia**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがEARTHマテリアを取得しました**",
+      "CN": "有玩家拾取了大地魔石",
+      "KR": "**플레이어가 EARTH 마테리아를 획득했습니다**",
+      "TW": "一名玩家撿取了 EARTH 魔晶石"
+    }
+  },
+  "**A player has picked up ULTIMA materia**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがULTIMAマテリアを取得しました**",
+      "CN": "有玩家拾取了终极魔石",
+      "KR": "**플레이어가 ULTIMA 마테리아를 획득했습니다**",
+      "TW": "一名玩家撿取了 ULTIMA 魔晶石"
+    }
+  },
+  "**A player has picked up FIRE materia**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーがFIREマテリアを取得しました**",
+      "CN": "有玩家拾取了火焰魔石",
+      "KR": "**플레이어가 FIRE 마테리아를 획득했습니다**",
+      "TW": "一名玩家撿取了 FIRE 魔晶石"
+    }
+  },
+  "**Gi Nattak has healed 150 hp**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**Gi Nattakが150 hp回復しました**",
+      "CN": "吉·纳塔克恢复了150点生命值",
+      "KR": "**Gi Nattak이 150 HP를 회복했습니다**",
+      "TW": "Gi Nattak 恢復了 150 點 HP"
+    }
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "< ze_Uyuni >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Map by Pohmian/Mochi >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- Normal Mode -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ノーマルモード -",
+      "CN": "- 普通模式 -",
+      "KR": "- 노말 모드 -",
+      "TW": "- 普通模式 -"
+    }
+  },
+  "- The Eternal Flat World -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- 永遠のフラットワールド -",
+      "CN": "- 永恒的平坦世界 -",
+      "KR": "- 영원한 평면 세계 -",
+      "TW": "- 永恆平面世界 -"
+    }
+  },
+  "<Defend 25 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<Keep Defending 20 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<Defend 30 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< A player picked up Holy Light  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Holy Light: Heal Nearby Humans >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<Hold 30 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<The Gate open in 20 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< ZM Items are disabled >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***Super Snow Storm***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***スーパースノーストーム***",
+      "CN": "***超级暴风雪***",
+      "KR": "***슈퍼 스노우 스톰***",
+      "TW": "***超級暴風雪***"
+    }
+  },
+  "***Snow Prism***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***スノープリズム***",
+      "CN": "***雪棱镜***",
+      "KR": "***스노우 프리즘***",
+      "TW": "***雪之棱鏡***"
+    }
+  },
+  "***ZM***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ZM***",
+      "CN": "***ZM***",
+      "KR": "***ZM***",
+      "TW": "***ZM***"
+    }
+  },
+  "***Shooting Star***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***シューティングスター***",
+      "CN": "***流星***",
+      "KR": "***슈팅 스타***",
+      "TW": "***流星***"
+    }
+  },
+  "***Suction Mist***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サクションミスト***",
+      "CN": "***吸附雾***",
+      "KR": "***석션 미스트***",
+      "TW": "***吸氣霧***"
+    }
+  },
+  "<20 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<You won Normal Mode>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- Hard Mode -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ハードモード -",
+      "CN": "- 困难模式 -",
+      "KR": "- 하드 모드 -",
+      "TW": "- 困難模式 -"
+    }
+  },
+  "- The Beautiful Lake -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- 美しい湖 -",
+      "CN": "- 美丽的湖泊 -",
+      "KR": "- 아름다운 호수 -",
+      "TW": "- 美麗的湖泊 -"
+    }
+  },
+  "< A Player Picked UP Rainbow Squares >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< A player picked up Warm Light  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<Defend 20 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Warm Light: Burns Nearby Zombie >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<Hold 25 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< A player picked up Cool Light >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Cool Light: Freezes Nearby Zombie >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<Hold 15 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<The Gate opens in 20 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<Defend 35 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Keep defending >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Defend for 20 seconds >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 25 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Hold here >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Defend for 15 seconds >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< 15 >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Endless Mode >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Gods Lights Are Now Ready >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- Endless Mode -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- エンドレスモード -",
+      "CN": "- 无尽模式 -",
+      "KR": "- 엔드리스 모드 -",
+      "TW": "- 無盡模式 -"
+    }
+  },
+  "- Chase The Light -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- 光を追え -",
+      "CN": "- 追逐光芒 -",
+      "KR": "- 빛을 쫓아 -",
+      "TW": "- 追逐光芒 -"
+    }
+  },
+  "< Chase the light >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Do not let zombies touch the light >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Defend for 30 seconds >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< A zombie picked up Mortal Light >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Mortal Light: Kills Nearby Humans >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< A zombie picked up Gravity Light  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Gravity Light: Creates Gravitational Singularity >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< The gate opens in 30 seconds >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Defend for 25 seconds>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Defend for 35 seconds >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Teleport activates in 20 seconds >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< De?/n# fo> 30 s!c@nds >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "< De?/n# fo> 30 s!c@nds >",
+      "CN": "< De?/n# fo> 30 s!c@nds >",
+      "KR": "< De?/n# fo> 30 s!c@nds >",
+      "TW": "< De?/n# fo> 30 s!c@nds >"
+    }
+  },
+  "< The Possessed Light >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< You won endless mode >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- Zombie Mode -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- ゾンビモード -",
+      "CN": "- 僵尸模式 -",
+      "KR": "- 좀비 모드 -",
+      "TW": "- 殭屍模式 -"
+    }
+  },
+  "- Relive -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "- 追体験 -",
+      "CN": "- 重温 -",
+      "KR": "- 리라이브 -",
+      "TW": "- 重溫 -"
+    }
+  },
+  "< Hard Mode >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< Normal Mode >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "- Warmup -": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

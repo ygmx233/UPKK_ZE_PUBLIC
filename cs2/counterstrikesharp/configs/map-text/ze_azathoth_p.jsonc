@@ -1,44 +1,142 @@
 {
   "***20***": {
-    "translation": "***20s***"
+    "translation": "***20s***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "***20s***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***25***": {
-    "translation": "***25s***"
+    "translation": "***25s***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "***25s***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***30***": {
-    "translation": "***30s***"
+    "translation": "***30s***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "***30s***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***Boss Starting Soon***": {
-    "translation": "***BOSS战即将开始***"
+    "translation": "***BOSS战即将开始***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ボス登場までしばらくお待ちください***",
+      "CN": "***Boss即将登场***",
+      "KR": "***보스 전투 imminent***",
+      "TW": "***Boss即將到來***"
+    }
   },
   "***Door Will Open Soon***": {
-    "translation": "***门即将打开***"
+    "translation": "***门即将打开***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアがまもなく開きます***",
+      "CN": "***大门即将开启***",
+      "KR": "***문이 곧 열립니다***",
+      "TW": "***門即將打開***"
+    }
   },
   "***Escape The Temple***": {
-    "translation": "***逃离神庙***"
+    "translation": "***逃离神庙***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***寺院から脱出せよ***",
+      "CN": "***逃离寺庙***",
+      "KR": "***사원에서 탈출하세요***",
+      "TW": "***逃離神殿***"
+    }
   },
   "***KILL THE ZOMBIES***": {
-    "translation": "***杀死僵尸***"
+    "translation": "***杀死僵尸***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビを倒せ***",
+      "CN": "消灭僵尸***",
+      "KR": "***좀비 처치***",
+      "TW": "殺死殭屍***"
+    }
   },
   "***Keep Zombies In The Temple!!!***": {
-    "translation": "***把僵尸留在神庙里！！！***"
+    "translation": "***把僵尸留在神庙里！！！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビを寺院に閉じ込めろ!!!***",
+      "CN": "***将僵尸困在寺庙内！！！***",
+      "KR": "***좀비를 사원에 가두세요!!!***",
+      "TW": "***將殭屍困在神殿內！！！***"
+    }
   },
   "***MAP COMPLETE***": {
-    "translation": "***地图完成***"
+    "translation": "***地图完成***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***マップ完了***",
+      "CN": "***地图已完成***",
+      "KR": "***맵 클리어***",
+      "TW": "***地圖完成***"
+    }
   },
   "***NUKE 1m 30s***": {
-    "translation": "***90秒后核爆***"
+    "translation": "***90秒后核爆***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***核攻撃まで1分30秒***",
+      "CN": "***核弹冷却1分30秒***",
+      "KR": "***핵폭탄 1분 30초 남음***",
+      "TW": "***核打擊倒數1分30秒***"
+    }
   },
   "***NUKE 1m***": {
-    "translation": "***60秒后核爆***"
+    "translation": "***60秒后核爆***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***核攻撃まで1分***",
+      "CN": "***核弹冷却1分钟***",
+      "KR": "***핵폭탄 1분 남음***",
+      "TW": "***核打擊倒數1分鐘***"
+    }
   },
   "***NUKE 30s***": {
-    "translation": "***30秒后核爆***"
+    "translation": "***30秒后核爆***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***NUKE 30秒***",
+      "CN": "核弹倒计时：30秒",
+      "KR": "***핵폭탄 30초 후***",
+      "TW": "***核彈倒計時 30 秒***"
+    }
   },
   "***Zombie Teleport Soon***": {
-    "translation": "***僵尸即将传送***"
+    "translation": "***僵尸即将传送***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビテレポート shortly***",
+      "CN": "丧尸即将传送",
+      "KR": "***좀비 텔레포트 임박***",
+      "TW": "***殭屍即將傳送***"
+    }
   },
   "Map By Ricca2554": {
-    "translation": "地图由Ricca2554制作 翻译：Asteri3m"
+    "translation": "地图由Ricca2554制作 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ作成: Ricca2554",
+      "CN": "地图作者：Ricca2554",
+      "KR": "맵 제작자: Ricca2554",
+      "TW": "地圖作者：Ricca2554"
+    }
   }
 }

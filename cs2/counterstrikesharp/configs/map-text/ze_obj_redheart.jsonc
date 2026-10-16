@@ -1,0 +1,502 @@
+{
+  "电梯将在30秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The elevator will open in 30 seconds.",
+      "JP": "エレベーターは30秒後に開きます",
+      "CN": "",
+      "KR": "엘리베이터가 30초 후 열립니다.",
+      "TW": "電梯將在30秒後開啟"
+    }
+  },
+  "设施区域正在破解": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Decryption of facility area underway.",
+      "JP": "施設エリアのハッキング中",
+      "CN": "",
+      "KR": "시설 구역 해독 중",
+      "TW": "設施區域正在破解"
+    }
+  },
+  "给我10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 10 seconds.",
+      "JP": "10秒待って",
+      "CN": "",
+      "KR": "10초만 기다려줘.",
+      "TW": "給我10秒"
+    }
+  },
+  "红色双扇门将在30秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The red double doors will open in 30 seconds.",
+      "JP": "赤い二枚扉は30秒後に開きます",
+      "CN": "",
+      "KR": "빨간색 이중문이 30초 후 열립니다.",
+      "TW": "紅色雙扇門將在30秒後開啟"
+    }
+  },
+  "马上了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Almost there.",
+      "JP": "もうすぐです",
+      "CN": "",
+      "KR": "다가오는 중",
+      "TW": "馬上了"
+    }
+  },
+  "还有10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "10 seconds remaining.",
+      "JP": "残り10秒",
+      "CN": "",
+      "KR": "10초 남았습니다.",
+      "TW": "還有10秒"
+    }
+  },
+  "<< 30 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "道路被火焰阻挡了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The path is blocked by fire.",
+      "JP": "道路は火で阻まれています",
+      "CN": "",
+      "KR": "불길 때문에 길이 막혔습니다.",
+      "TW": "道路被火焰阻擋了"
+    }
+  },
+  "我们要穿过餐厅了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to go through the restaurant.",
+      "JP": "食堂を通過します",
+      "CN": "",
+      "KR": "음식점 내부로 진입합니다.",
+      "TW": "我們要穿過餐廳了"
+    }
+  },
+  "在给我10秒时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 10 seconds",
+      "JP": "もう10秒だけ時間をください",
+      "CN": "",
+      "KR": "기다려요, 10초만!",
+      "TW": "給我十秒時間"
+    }
+  },
+  "马上就可以出去了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We'll be out soon",
+      "JP": "もうすぐ外に出られます",
+      "CN": "",
+      "KR": "곧 나갈 수 있어요",
+      "TW": "馬上就能出去了"
+    }
+  },
+  "5秒钟": {
+    "translation": "",
+    "MultiLang": {
+      "US": "5 seconds",
+      "JP": "5秒間",
+      "CN": "",
+      "KR": "5초",
+      "TW": "五秒鐘"
+    }
+  },
+  "<<  10  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<  5  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "看来我们要走左边了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Looks like we have to go left",
+      "JP": "どうやら左側を進むようです",
+      "CN": "",
+      "KR": "왼쪽으로 가야 할 것 같네요",
+      "TW": "看來我們要走左邊了"
+    }
+  },
+  "<<  25  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<  15  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<  45  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<   30   >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "激光将在20秒后关闭": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The laser will turn off in 20 seconds",
+      "JP": "レーザーは20秒後に消滅します",
+      "CN": "",
+      "KR": "레이저가 20초 뒤에 꺼집니다",
+      "TW": "雷射將在20秒後關閉"
+    }
+  },
+  "看样子下面漏电了,快找到电源开关": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Looks like there's a power leak below. Find the switch!",
+      "JP": "どうやら下方で漏電しています、電源スイッチを見つけてください",
+      "CN": "",
+      "KR": "밑에서 누전이 발생했어요. 전원 스위치를 빨리 찾으세요!",
+      "TW": "看來下面漏電了，快找到電源開關"
+    }
+  },
+  "找到电源开关了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Found the power switch",
+      "JP": "電源スイッチを見つけました",
+      "CN": "",
+      "KR": "전원 스위치를 찾았어요",
+      "TW": "找到電源開關了"
+    }
+  },
+  "<<  20  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<  30  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "蒸汽关掉了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Steam is off",
+      "JP": "蒸気は止まりました",
+      "CN": "",
+      "KR": "증기가 꺼졌어요",
+      "TW": "蒸汽已關閉"
+    }
+  },
+  "<< 门将在40秒后开启 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< The gate will open in 40 seconds >>",
+      "JP": "<< 門が40秒後に開きます >>",
+      "CN": "",
+      "KR": "<<문이 40초 후 개방됩니다>>",
+      "TW": "門將在40秒後開啟"
+    }
+  },
+  "<<  30 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "***  10  ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<  10 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "在这个房间里找到蒸汽管道开关!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Find the steam pipe valve in this room!",
+      "JP": "この部屋で蒸気配管のスイッチを見つけよう!",
+      "CN": "",
+      "KR": "이 방에서 증기 배관 스위치를 찾아라!",
+      "TW": "在這個房間裡找到蒸氣管道開關!"
+    }
+  },
+  "可以走了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ready to go",
+      "JP": "もう行ける",
+      "CN": "",
+      "KR": "출발 준비 완료",
+      "TW": "可以走了"
+    }
+  },
+  "第二区域大门将在20秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The Second Area gate will open in 20 seconds",
+      "JP": "第2エリアの門は20秒後に開きます",
+      "CN": "",
+      "KR": "2지역 문이 20초 후 개방됩니다",
+      "TW": "第二區域大門將在20秒後開啟"
+    }
+  },
+  "障碍将在20秒后破碎": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Obstacle shatters in 20 seconds",
+      "JP": "障害物は20秒後に壊れます",
+      "CN": "",
+      "KR": "장애물이 20초 후 파괴됩니다",
+      "TW": "障礙將在20秒後破碎"
+    }
+  },
+  "快想办法攻击电箱关闭电源": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Figure out how to attack the electrical box to cut power",
+      "JP": "早く電箱を攻撃して電源を切ろう",
+      "CN": "",
+      "KR": "전기 박스를 공격하여 전원을 차단하라",
+      "TW": "快想辦法攻擊電箱關閉電源"
+    }
+  },
+  "<<  20 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "还能找到其他道路吗?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Can you find other paths?",
+      "JP": "他の道が見つかるか?",
+      "CN": "",
+      "KR": "다른 길을 찾을 수 있을까?",
+      "TW": "還能找到其他道路嗎?"
+    }
+  },
+  "这个电梯看样子还有办法使用": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This elevator seems usable",
+      "JP": "このエレベーターはまだ使えそうだ",
+      "CN": "",
+      "KR": "이 엘리베이터는 사용 가능한 것으로 보입니다",
+      "TW": "這個電梯樣子看來還有辦法使用"
+    }
+  },
+  "去找一下开关吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Go find the switch",
+      "JP": "スイッチを探しに行こう",
+      "CN": "",
+      "KR": "스위치를 찾아봐",
+      "TW": "去找一下開關吧"
+    }
+  },
+  "希望不会出问题": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hopefully everything goes smoothly",
+      "JP": "うまくいくといいけど",
+      "CN": "",
+      "KR": "문제가 없길 바라",
+      "TW": "希望不會出現問題"
+    }
+  },
+  "找到开关了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Found the switch",
+      "JP": "スイッチを見つけた",
+      "CN": "",
+      "KR": "스위치 찾음",
+      "TW": "找到開關了"
+    }
+  },
+  "给我一点时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me a moment",
+      "JP": "少し時間をください",
+      "CN": "",
+      "KR": "약간만 기다려줘",
+      "TW": "給我一點時間"
+    }
+  },
+  "该死!这个电梯年久失修了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn! This elevator is dilapidated and falling apart.",
+      "JP": "くそ！このエレベーターは老朽化している",
+      "CN": "",
+      "KR": "젠장! 이 엘리베이터는 낡았어",
+      "TW": "該死！這個電梯年久失修了"
+    }
+  },
+  "障碍将在30秒碎裂": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Obstacle will shatter in 30 seconds",
+      "JP": "障害は30秒後に粉々になります",
+      "CN": "",
+      "KR": "장벽이 30초 후 부서짐",
+      "TW": "障礙將在30秒碎裂"
+    }
+  },
+  "<<  35  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "<<  3  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "检测到人数大于<< 38 >>人": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Detected player count greater than << 38 >> people",
+      "JP": "人数が<< 38 >>人以上検出されました",
+      "CN": "",
+      "KR": "<< 38 >>명 이상 감지됨",
+      "TW": "檢測到人數大於<< 38 >>人"
+    }
+  },
+  "将已 << 赤心 >> 小队进行后续": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Proceed with the << Red Heart >> squad",
+      "JP": "<< 赤心 >> チームに続行指示を行います",
+      "CN": "",
+      "KR": "<<赤心>>분대에 이어서",
+      "TW": "將已 << 赤心 >> 小隊進行後續"
+    }
+  },
+  "结局: << 灼日烛心 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Ending: <<The Scorched Sun's Burning Core>>",
+      "JP": "エンディング: <<灼日燭心>>",
+      "CN": "",
+      "KR": "엔딩: <<灼日烛心>>",
+      "TW": "結局：《灼日燭心》"
+    }
+  },
+  "已启用 <<灼日烛心>> 配置": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<The Scorched Sun's Burning Core>> Config Enabled",
+      "JP": "<<灼日燭心>>コンフィグを有効化しました",
+      "CN": "",
+      "KR": "<<灼日烛心>> 설정이 활성화되었습니다",
+      "TW": "已啟用《灼日燭心》配置"
+    }
+  },
+  "<<  40  >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

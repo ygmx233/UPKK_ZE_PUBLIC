@@ -1,0 +1,282 @@
+{
+  "< WELCOME TO : HYPNOTIZE ME BABY >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<Welcome to: ヘナトライズ・ミー・ベイビー>",
+      "CN": "欢迎来到：hypnotize me baby",
+      "KR": "< 환영합니다 : 베비, 히튼라이즈 메>",
+      "TW": "<歡迎來到：媚Lookify我Baby >"
+    }
+  },
+  "< MAP CREATED BY : NARAKA >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "MAP CREATED BY : ナラカ",
+      "CN": "地图创建者： Naraka",
+      "KR": "<맵 제작자 : 네라카>",
+      "TW": "<地圖創建者 : Naraka >"
+    }
+  },
+  "< TELEPORT IN 10 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "テレポート開始まで10秒",
+      "CN": "10 秒后传送入境",
+      "KR": "< 10초 후 텔레포트 인입 >",
+      "TW": "10秒後传送入場>"
+    }
+  },
+  "< DOOR OPEN IN 15 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "DOOR OPENS IN 15Seconds",
+      "JP": "< 15秒後にドア開く >",
+      "CN": "门 15 秒后开启",
+      "KR": "< 15초 후 문 열림 >",
+      "TW": "門将在15秒後打開"
+    }
+  },
+  "< ILLUSION ACTIVATED >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<幻想アクティブ化>",
+      "CN": "幻象激活",
+      "KR": "<illusion 활성화>",
+      "TW": "<幻象啟動>"
+    }
+  },
+  "< DOOR OPEN IN 30 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが30秒後に開きます>",
+      "CN": "门将在30秒后打开",
+      "KR": "< 30초 후 문이 열립니다 >",
+      "TW": "門将在30秒後開啟"
+    }
+  },
+  "< THE SECOND PATH IS OPENED >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "第2の道が開けた",
+      "CN": "第二个路径已开启",
+      "KR": "< 두 번째 길이 열렸습니다 >",
+      "TW": "第二條路徑已開放"
+    }
+  },
+  "< THE SECOND PATH WILL BE OPENED IN 10 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "【第二の道が10秒後に開けます】",
+      "CN": "第二个分支将在10秒后开启",
+      "KR": "< 10초 후 두 번째 경로가 열립니다 >",
+      "TW": "第二條路徑将在10秒後開啟"
+    }
+  },
+  "< DOOR SHOULD BE OPENED SOON >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉は近々開くべきです",
+      "CN": "门应尽快开启",
+      "KR": "문은 곧 열릴 것입니다 >",
+      "TW": "<門應當很快打開>"
+    }
+  },
+  "< ZOMBIE SHORTCUT IS ACTIVATED >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビショートカットがアクティブ化>>",
+      "CN": "僵尸快捷键已激活",
+      "KR": "< 브레인숏컷 활성화 >",
+      "TW": "Zombieshortcut 是激活了"
+    }
+  },
+  "< ILLUSION PROTECTER BREAKS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "幻想保護者破壊",
+      "CN": "幻象守护者破裂",
+      "KR": "",
+      "TW": "幻影保護者破壞"
+    }
+  },
+  "< PLATFORM ACTIVATED >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームが活性化しました",
+      "CN": "< 平台激活 >",
+      "KR": "플랫폼 활성화됨",
+      "TW": "平台已啟動"
+    }
+  },
+  "< ZOMBIES BRIDGE ACTIVATED >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<ゾンビズブリッジアクティベート>",
+      "CN": "僵尸桥梁激活",
+      "KR": "< 블리지드 아크티베이TED >",
+      "TW": "<殭屍橋樑啟動>"
+    }
+  },
+  "< SHORTCUT WILL BE OPENED IN 5 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ショートカットが5秒後に開きます >",
+      "CN": "快捷方式将在5秒后开启",
+      "KR": "< 5초 후 단축키가 열립니다 >",
+      "TW": "捷徑将在5秒後開啟"
+    }
+  },
+  "< THE SHORTCUT LADDER WILL BE AVAILABLED SOON  >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "THE SHORTCUT Ladder WILL BE AVAILABLE SOON",
+      "JP": "ショートカットランダルは近日中に利用可能となります。",
+      "CN": "快捷方式梯子将于近日开放 >",
+      "KR": "< 단축키 계단이 곧 이용 가능합니다 >",
+      "TW": "捷徑等級將Soon可用"
+    }
+  },
+  "< DOOR OPEN IN 10 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後に扉開きます>>",
+      "CN": "门将在10秒后开启",
+      "KR": "< 10초 후 문이 열립니다 >",
+      "TW": "門在10秒後打開"
+    }
+  },
+  "< DOOR CLOSED IN 15 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ドアが15秒後に閉鎖されます>>",
+      "CN": "门将在15秒后关闭",
+      "KR": "< 문이 15초 후에 닫힙니다 >",
+      "TW": "門關閉於15秒後"
+    }
+  },
+  "< INCOMING BOSS FIGHT >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 入場ボス戦 ***",
+      "CN": "< 来袭BOSS战 >",
+      "KR": "< 오는 보스 전투 >",
+      "TW": "<<<BOSS戰鬥進行中>>>()"
+    }
+  },
+  "< TIME LIMIT : 180 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "时间限制 : 180 秒",
+      "KR": "< 시간 제한 : 180초 >",
+      "TW": "<時間限制：180秒 >"
+    }
+  },
+  "< MERGE >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 合并 >",
+      "KR": "",
+      "TW": "< 合併 >"
+    }
+  },
+  "< INVASION >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "侵入開始",
+      "CN": "入侵",
+      "KR": "침입💬>> <<",
+      "TW": "<入侵>"
+    }
+  },
+  "< ISOLATION >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "< 隔離 >",
+      "CN": "< 隔离 >",
+      "KR": "< 격리 >",
+      "TW": "< 隔離 >"
+    }
+  },
+  "< COLLAPSE >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 负载均衡 >",
+      "KR": "< 접기 >",
+      "TW": "<<<崩壞>>>"
+    }
+  },
+  "< THE ELVISH HAS DISAPPEARED >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エルフ語が消えated>",
+      "CN": "[精灵已消失]",
+      "KR": "< 엘프의 마법이 사라졌음 >",
+      "TW": "<Elfish已消失>"
+    }
+  },
+  "< THE PLATFORM IS HERE >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームはここにあります >",
+      "CN": "平台在这里",
+      "KR": "플랫폼이 여기 있습니다 >",
+      "TW": "平台在此>>"
+    }
+  },
+  "< TO BE CONTINUED STAGE 2 ! >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "< 继续 stag2 ! >",
+      "KR": "< 계속됩니다 스테이지 2 ! >",
+      "TW": "<接續篇章2！>"
+    }
+  },
+  "< YOU TAKE TOO LONG >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "< PLATFORMS WILL BE DISAPPEARED IN 5 SECONDS >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  }
+}

@@ -1,0 +1,1072 @@
+{
+  ">>> STAGE 1 : WATERFALL PLAIN <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 1：ウォーターフォールプレーン <<<",
+      "CN": ">>> 第 1 关：瀑布平原 <<<",
+      "KR": ">>> STAGE 1 : WATERFALL PLAIN <<<",
+      "TW": ">>> 關卡 1：瀑布平原 <<<"
+    }
+  },
+  ">>> DIFFICULTY : NORMAL <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 難易度：通常 <<<",
+      "CN": ">>> 难度：普通 <<<",
+      "KR": ">>> DIFFICULTY : NORMAL <<<",
+      "TW": ">>> 難度：普通 <<<"
+    }
+  },
+  ">>> Map made by Moray <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> マップ制作者：モレイ <<<",
+      "CN": ">>> 地图由 Moray 制作 <<<",
+      "KR": ">>> Map made by Moray <<<",
+      "TW": ">>> 地圖製作人：Moray <<<"
+    }
+  },
+  ">>> HOLD 20 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 20秒間押し続けてください <<<",
+      "CN": ">>> 按住 20 秒 <<<",
+      "KR": ">>> HOLD 20 SECONDS <<<",
+      "TW": ">>> 持續按住 20 秒 <<<"
+    }
+  },
+  ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 10秒後にAFKテレポート <<<",
+      "CN": ">>> AFK 将在 10 秒后传送 <<<",
+      "KR": ">>> AFK TELEPORT IN 10 SECONDS <<<",
+      "TW": ">>> 10 秒後因離線進行传送 <<<"
+    }
+  },
+  "<<< HOLD 20 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 20秒間押し続けてください <<<",
+      "CN": "<<<< 按住 20 秒 >>>>",
+      "KR": "<<< HOLD 20 SECONDS <<<",
+      "TW": "<<< 持續按住 20 秒 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP FREEZE GRENADE LAUNCHER <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレーヤーはフリーズグレネードランチャーを回収しました <<<",
+      "CN": ">>> 玩家已拾取冰冻手榴弹发射器 <<<",
+      "KR": ">>> PLAYER HAS PICKED UP FREEZE GRENADE LAUNCHER <<<",
+      "TW": ">>> 玩家已拾取凍結手榴彈發射器 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP GRAVITY STAFF <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレーヤーはグラビティステッフを回収しました <<<",
+      "CN": ">>> 玩家已拾取重力法杖 <<<",
+      "KR": ">>> PLAYER HAS PICKED UP GRAVITY STAFF <<<",
+      "TW": ">>> 玩家已拾取重力法杖 <<<"
+    }
+  },
+  ">>> HOLD 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 15秒間押し続ける <<<",
+      "CN": ">>> 按住15秒 <<<",
+      "KR": ">>> 15초간 클릭 <<<",
+      "TW": ">>> 持續按住 15 秒 <<<"
+    }
+  },
+  ">>> SHORTCUT WILL OPEN IN 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ショートカットは10秒後に開きます <<<",
+      "CN": ">>> 快捷栏将在10秒内打开 <<<",
+      "KR": ">>> 10초 내에 단축키 열림 <<<",
+      "TW": ">>> 捷徑將於 10 秒後開啟 <<<"
+    }
+  },
+  "<<< HOLD 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 10秒間押し続ける <<<",
+      "CN": "<<< 按住10秒 <<<",
+      "KR": "<<< 10초간 클릭 <<<",
+      "TW": "<<< 持續按住 10 秒 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP LIGHTNING STAFF <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはライティングスタッフを入手しました <<<",
+      "CN": ">>> 玩家已拾取雷电法杖 <<<",
+      "KR": ">>> 플레이어가 번개 지팡이를 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取閃電法杖 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはヒーリングを入手しました <<<",
+      "CN": ">>> 玩家已拾取治疗术 <<<",
+      "KR": ">>> 플레이자가 회복 약품을 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取治療道具 <<<"
+    }
+  },
+  ">>> HOLD 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 10秒間押し続ける <<<",
+      "CN": "<<< 按住10秒 <<<",
+      "KR": "<<< 10초간 클릭 <<<",
+      "TW": "<<< 持續按住 10 秒 <<<"
+    }
+  },
+  ">>> PORYGON IS COMING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ポリゴンが近づいている <<<",
+      "CN": ">>> 波克贡即将登场 <<<",
+      "KR": ">>> 포그온이 도착합니다 <<<",
+      "TW": ">>> 波加曼即將出現 <<<"
+    }
+  },
+  ">>> PORYGON USED CONVERSION <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ポリゴンはコンバージョンを使用した <<<",
+      "CN": ">>> 波克贡使用了转换形态 <<<",
+      "KR": ">>> 포그온은 전환을 사용했습니다 <<<",
+      "TW": ">>> 波加曼使用轉換模式 <<<"
+    }
+  },
+  ">>> PORYGON USED PSYBEAM <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポロン、サイケビームを使用した！",
+      "CN": "多边兽使用了精神波",
+      "KR": ">>> 폴리곤이 사이크빔을 사용했다 <<<",
+      "TW": "<<< 多边獸使用了精神光束 <<<"
+    }
+  },
+  ">>> PORYGON HAS BEEN DEFEATED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ポロンはひんしだ",
+      "CN": "多边兽已被击败",
+      "KR": ">>> 폴리옹이 격파당했다 <<<",
+      "TW": "<<< 多边獸已敗北 <<<"
+    }
+  },
+  ">>> ROUTE 1 : HOLD 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルート1：10秒後に移動",
+      "CN": "1号道路：请等待10秒",
+      "KR": ">>> 루트 1 : 10초간 대기 <<<",
+      "TW": "<<< 道路 1：請等待 10 秒 <<<"
+    }
+  },
+  ">>> ROUTE 2 : HOLD 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルート2：15秒後に移動",
+      "CN": "2号道路：请等待15秒",
+      "KR": ">>> 루트 2 : 15초간 대기 <<<",
+      "TW": "<<< 道路 2：請等待 15 秒 <<<"
+    }
+  },
+  ">>> BOAT IS DEPARTING IN 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "船は25秒後に出発します",
+      "CN": "船将在25秒后启航",
+      "KR": ">>> 이틀 내로 퇴장할 것 <<<",
+      "TW": "<<< 船隻將於 25 秒後離岸 <<<"
+    }
+  },
+  ">>> STAGE1 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ1クリア",
+      "CN": "第一关已完成",
+      "KR": ">>> 스테이지 1 완료 <<<",
+      "TW": "<<< 第 1 關通關 <<<"
+    }
+  },
+  ">>> STAGE 2 : RIVERSIDE CITY <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2：リバーサイドシティ",
+      "CN": "第二关：河边市",
+      "KR": ">>> 스테이지 2 : 강변 도시 <<<",
+      "TW": "<<< 第 2 關：河岸城市 <<<"
+    }
+  },
+  ">>> HOLD 30 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に移動",
+      "CN": "请等待30秒",
+      "KR": ">>> 30초간 대기 <<<",
+      "TW": "<<< 請等待 30 秒 <<<"
+    }
+  },
+  ">>> ELEVATOR IS LEAVING IN 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーター、15秒後に発車します",
+      "CN": "电梯将在15秒后离开",
+      "KR": ">>> 리프트가 15초 후 출발합니다 <<<",
+      "TW": "電梯即將離岸，剩餘 15 秒"
+    }
+  },
+  "<<< ZOMBIES TAKE THE STAIRS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゾンビは階段を使います",
+      "CN": "僵尸将使用楼梯",
+      "KR": "<< <좀비는 계단을 사용합니다 <<<",
+      "TW": "殭屍已取用樓梯"
+    }
+  },
+  ">>> THE GUARDIANS ARE BLOCKING THE WAY <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ガーディアンが通行を塞いでいます",
+      "CN": "守护者正在封锁道路",
+      "KR": ">>> 수호자들이 길을 막고 있습니다 <<<",
+      "TW": "守護者正在阻擋去路"
+    }
+  },
+  ">>> ROUTE1 : HOLD 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルート1：残り25秒で移動",
+      "CN": ">>> 路线1：坚持25秒 <<<",
+      "KR": ">>> 경로 1 : 25초 동안 대기 <<<",
+      "TW": ">>> 路線1：請堅持 25 秒 <<<"
+    }
+  },
+  ">>> ROUTE2 : HOLD 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルート2：残り15秒で移動",
+      "CN": ">>> 路线2：坚持15秒 <<<",
+      "KR": ">>> 경로 2 : 15초 동안 대기 <<<",
+      "TW": ">>> 路線2：請堅持 15 秒 <<<"
+    }
+  },
+  ">>> ROUTE1 : AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルート1：離脱判定、10秒後にテレポート",
+      "CN": ">>> 路线1：挂机传送将在10秒后执行 <<<",
+      "KR": ">>> 경로 1 : 10초 후 AFK 텔레포트 <<<",
+      "TW": ">>> 路線1：AFK（離線）傳送倒數 10 秒 <<<"
+    }
+  },
+  ">>> ROUTE2 : AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ルート2：離脱判定、10秒後にテレポート",
+      "CN": ">>> 路线2：挂机传送将在10秒后执行 <<<",
+      "KR": ">>> 경로 2 : 10초 후 AFK 텔레포트 <<<",
+      "TW": ">>> 路線2：AFK（離線）傳送倒數 10 秒 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP POISON STAFF <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが毒の杖を拾いました",
+      "CN": "玩家已拾取毒素法杖",
+      "KR": ">>> 플레이어가 독 스태프를 주웠습니다 <<<",
+      "TW": ">>> 玩家已拾取毒法杖 <<<"
+    }
+  },
+  ">>> ROUTE1 : HOLD 20 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート1：20秒間押す <<<",
+      "CN": ">>> 线路1：保持20秒 <<<",
+      "KR": ">>> ROUTE1 : 20초 유지 <<<",
+      "TW": ">>> 路線一：請保持按鈕 20 秒 <<<"
+    }
+  },
+  ">>> ELEVATOR2 IS LEAVING IN 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エレベーター2は15秒後に発車します <<<",
+      "CN": ">>> 电梯2将在15秒后离开 <<<",
+      "KR": ">>> 엘리베이터2, 15초 후 출발 <<<",
+      "TW": ">>> 電梯二即將於 15 秒後離去 <<<"
+    }
+  },
+  ">>> ELEVATOR1 IS LEAVING IN 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エレベーター1は15秒後に発車します <<<",
+      "CN": ">>> 电梯1将在15秒后离开 <<<",
+      "KR": ">>> 엘리베이터1, 15초 후 출발 <<<",
+      "TW": ">>> 電梯一即將於 15 秒後離去 <<<"
+    }
+  },
+  ">>> TRAINS ARE LEAVING IN 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 電車の出発まで15秒 <<<",
+      "CN": ">>> 列车将在15秒后出发 <<<",
+      "KR": ">>> 열차, 15초 후 출발 <<<",
+      "TW": ">>> 列車即將於 15 秒後離去 <<<"
+    }
+  },
+  ">>> ELEVATOR IS LEAVING IN 20 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エレベーターは20秒後に発車します <<<",
+      "CN": ">>> 电梯将在20秒后离开 <<<",
+      "KR": ">>> 엘리베이터, 20초 후 출발 <<<",
+      "TW": ">>> 電梯即將於 20 秒後離去 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレーヤーがレインボービームを拾った <<<",
+      "CN": ">>> 玩家已拾取彩虹光束 <<<",
+      "KR": ">>> 플레이어가 레인보우 빔을 획득했습니다 <<<",
+      "TW": ">>> 玩家已取得彩虹光束 <<<"
+    }
+  },
+  ">>> KILL THE GUARDIANS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ガーディアンを倒せ <<<",
+      "CN": ">>> 消灭守卫 <<<",
+      "KR": ">>> 가디언들을 처치하라 <<<",
+      "TW": ">>> 消滅守衛 <<<"
+    }
+  },
+  ">>> AIRCRAFT IS COMING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 航空機接近中 <<<",
+      "CN": ">>> 飞行器即将到来 <<<",
+      "KR": ">>> 비행기가 도착합니다 <<<",
+      "TW": ">>> 飛機即將到達 <<<"
+    }
+  },
+  "1111": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">>> AIRCRAFT HAS BEEN DEFEATED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "航空機を撃破！",
+      "CN": "<<< 飞机已被击败 >>>",
+      "KR": ">>> 에어크래프트 격추 <<<",
+      "TW": "飛機已被擊敗"
+    }
+  },
+  ">>> UFO IS COMING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "UFO接近中",
+      "CN": ">>> UFO即将到来 <<<",
+      "KR": ">>> UFO 접근 중 <<<",
+      "TW": "幽浮即將到來"
+    }
+  },
+  ">>> UFO HAS BEEN DEFEATED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "UFOを撃破！",
+      "CN": "<<< UFO已被击败 >>>",
+      "KR": ">>> UFO 격추 <<<",
+      "TW": "UFO已被擊敗"
+    }
+  },
+  ">>> ELEVATOR IS LEAVING IN 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターは25秒後に発車",
+      "CN": ">>> 电梯将在25秒后离开 <<<",
+      "KR": ">>> 엘리베이터 25초 후 출발 <<<",
+      "TW": "電梯將在25秒後離開"
+    }
+  },
+  "<<< HELICOPTER IS DEPARTING IN 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ヘリコプターは15秒後に離陸",
+      "CN": "<<< 直升机将在15秒后起飞 <<<",
+      "KR": "<<<Hели콥터 15초 후 Departure << <",
+      "TW": "直升機將在15秒後出發"
+    }
+  },
+  ">>> STAGE2 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ2クリア",
+      "CN": ">>> 第2关完成 <<<",
+      "KR": ">>> 스테이지 2 클리어 <<<",
+      "TW": "第二關完成"
+    }
+  },
+  ">>> STAGE 3 : RIDGE TEMPLES <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ3： Ridgeの寺 <<<",
+      "CN": ">>> 第3关：山脊神殿 <<<",
+      "KR": ">>> 스테이지 3 : 능선 사원 <<<",
+      "TW": "第三關：山脊神殿"
+    }
+  },
+  ">>> HOLD 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 25秒間持続 <<<",
+      "CN": ">>> 坚持25秒 <<<",
+      "KR": ">>> 25초 유지 <<<",
+      "TW": "堅持25秒"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP SLUGGER <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがスラガーを入手しました",
+      "CN": ">>> 玩家已拾取重击者 <<<",
+      "KR": "슬러거를 획득했습니다",
+      "TW": "<<< 玩家拾取了擊球棍 >>>"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP ANTIDOTER <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがアンチドーターを入手しました",
+      "CN": ">>> 玩家已拾取解毒器 <<<",
+      "KR": "안티도터를 획득했습니다",
+      "TW": "<<< 玩家拾取了解毒器 >>>"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP PULSE FIELD <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーがパルスフィールドを入手しました",
+      "CN": ">>> 玩家已拾取脉冲场 <<<",
+      "KR": "펄스 필드를 획득했습니다",
+      "TW": "<<< 玩家拾取了脈衝場 >>>"
+    }
+  },
+  ">>> HOLD 5 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒間押し続ける",
+      "CN": ">>> 保持5秒 <<<",
+      "KR": "5초간 유지하세요",
+      "TW": "<<< 按住5秒鐘 >>>"
+    }
+  },
+  ">>> FALL BACK <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "後退せよ",
+      "CN": ">>> 撤退 <<<",
+      "KR": "후퇴하십시오",
+      "TW": "<<< 後撤 >>>"
+    }
+  },
+  ">>> GOLEM IS COMING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゴーレムが接近中",
+      "CN": ">>> 傀儡来袭 <<<",
+      "KR": "고렘이 approaching 합니다",
+      "TW": "<<< 石巨人即將來襲 >>>"
+    }
+  },
+  ">>> GOLEM SUMMONED PROTECT CRYSTAL <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゴーレムは守護結晶を召喚した",
+      "CN": ">>> 已召唤保护水晶的傀儡 <<<",
+      "KR": "고렘이 보호 수정석을 소환했습니다",
+      "TW": "<<< 石巨人召喚了防護水晶 >>>"
+    }
+  },
+  ">>> GOLEM USED QUAKE <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゴーレムはクエイクを使用した",
+      "CN": ">>> 傀儡使用震击 <<<",
+      "KR": "고레미가 지진파를 사용했습니다",
+      "TW": "<<< 石巨人使用了地震震擊 >>>"
+    }
+  },
+  ">>> GOLEM USED CLUSTER BLOCK <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゴーレムはクラスターブロックを使用しました",
+      "CN": ">>> 傀儡已使用集群方块 <<<",
+      "KR": ">>> 골렘이 클러스터 블록을 사용했습니다 <<<",
+      "TW": ">>地精使用了叢集方塊<<"
+    }
+  },
+  ">>> GOLEM USED FALLING BLOCK <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゴーレムは落下ブロックを使用しました",
+      "CN": ">>> 傀儡已使用坠落物 <<<",
+      "KR": ">>> 골렘이 낙하 블록을 사용했습니다 <<<",
+      "TW": ">>地精使用了墜落方塊<<"
+    }
+  },
+  ">>> THE PROTECT HAS BEEN BROKEN <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プロテクトが解除されました",
+      "CN": ">>> 守护结界已被破坏 <<<",
+      "KR": "*** 방어막이 무너졌습니다 ***",
+      "TW": ">>防護已被破壞<<"
+    }
+  },
+  ">>> SHOOT HIS FACE <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "彼の顔に向けて射撃しろ",
+      "CN": ">>> 朝他的脸部射击 <<<",
+      "KR": "*** 그의 얼굴을 쏴라 ***",
+      "TW": ">>射擊他的臉<<"
+    }
+  },
+  ">>> GOLEM HAS BEEN DEFEATED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゴーレムを倒しました",
+      "CN": ">>> 傀儡已被击败 <<<",
+      "KR": "*** 골렘이 패배했습니다 ***",
+      "TW": ">>地精已被擊敗<<"
+    }
+  },
+  ">>> THE PLATFORM IS MOVING IN 10 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プラットフォームが10秒後に動き出します",
+      "CN": ">>> 平台将在10秒后移动 <<<",
+      "KR": "*** 플랫폼이 10초 후에 이동합니다 ***",
+      "TW": ">>平台將在10秒後移動<<"
+    }
+  },
+  "<<< HOLD 5 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "5間押し続けろ",
+      "CN": "<< 保持5秒 <<",
+      "KR": "*** 5초 동안 누르세요 ***",
+      "TW": "<<按住5秒鐘<<"
+    }
+  },
+  ">>> IFRIT IS COMING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "イフリットが出現します",
+      "CN": ">>> 炎魔即将来袭 <<<",
+      "KR": "*** 이프리트를 준비하십시오 <<<",
+      "TW": ">>伊夫里特即將到來<<"
+    }
+  },
+  ">>> IFRIT SUMMONED MINIONS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> イフリートが従者を召喚 <<<",
+      "CN": ">>> 召唤炎魔侍从 <<<",
+      "KR": ">>> 이프리트 소환수 소환 <<<",
+      "TW": ">>> 伊夫利特召喚了侍從 <<<"
+    }
+  },
+  "<<< IFRIT USED DETONATION <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< イフリートの自爆 <<<",
+      "CN": "<<< 炎魔使用了自爆 <<<",
+      "KR": "<<< 이프리트 폭발 사용 <<<",
+      "TW": "<<<< 伊夫利特使用了爆炸 <<<"
+    }
+  },
+  ">>> IFRIT USED LAVA RAIN <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> イフリートは溶岩の雨を使用 <<<",
+      "CN": ">>> 炎魔使用了熔岩暴雨 <<<",
+      "KR": ">>> 이프리트 용암 비 usage <<<",
+      "TW": ">>> 伊夫利特使用了熔岩雨 <<<"
+    }
+  },
+  ">>> IFRIT USED ORBITAL CANNON <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> イフリートは軌道砲を使用 <<<",
+      "CN": ">>> 炎魔使用了轨道炮 <<<",
+      "KR": ">>> 이프리트 궤도 포 사용 <<<",
+      "TW": ">>> 伊夫利特使用了軌道砲擊 <<<"
+    }
+  },
+  ">>> IFRIT HAS BEEN DEFEATED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> イフリートは倒された <<<",
+      "CN": ">>> 炎魔已被击败 <<<",
+      "KR": ">>> 이프리트 격파됨 <<<",
+      "TW": ">>> 伊夫利特已被擊敗 <<<"
+    }
+  },
+  ">>> EXIT DOORS ARE OPENING IN 100 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 100秒後に出口が開きます <<<",
+      "CN": ">>> 出口大门将在100秒后开启 <<<",
+      "KR": ">>> 출구 문 100초 후 개방 <<<",
+      "TW": ">>> 出口的大門將在100秒後開啟 <<<"
+    }
+  },
+  ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ゾンビは5秒後にテレポート <<<",
+      "CN": ">>> 5秒后传送僵尸 <<<",
+      "KR": "<<< 좀비 텔레포트 5초 후 시작 <<<",
+      "TW": "<<< 殭屍將在5秒後傳入 <<<"
+    }
+  },
+  ">>> 60 SECONDS LEFT <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 残り60秒 <<<",
+      "CN": ">>> 剩余时间：60秒 <<<",
+      "KR": ">>> 남은 시간 60초 <<<",
+      "TW": ">>> 剩餘60秒 <<<"
+    }
+  },
+  ">>> 30 SECONDS LEFT <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り30秒",
+      "CN": ">>> 剩余 30 秒 <<<",
+      "KR": "남은 시간 30초",
+      "TW": "距離結束還剩 30 秒"
+    }
+  },
+  ">>> 10 SECONDS LEFT <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "残り10秒",
+      "CN": ">>> 剩余 10 秒 <<<",
+      "KR": "남은 시간 10초",
+      "TW": "距離結束還剩 10 秒"
+    }
+  },
+  ">>> THE GATE IS CLOSING <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ゲートが閉じようとしている",
+      "CN": ">>> 大门即将关闭 <<<",
+      "KR": "문이 닫힙니다",
+      "TW": ">>> 柵門即將關閉 <<<"
+    }
+  },
+  ">>> STAGE3 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ3 完了",
+      "CN": ">>> 完成第 3 阶段 <<<",
+      "KR": "STAGE 3 클리어",
+      "TW": ">>> 第三關已通過 <<<"
+    }
+  },
+  ">>> STAGE 4 : WATERFALL PLAIN <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ステージ4：滝の平原",
+      "CN": ">>> 第 4 阶段：瀑布平原 <<<",
+      "KR": "STAGE 4 : 폭포평야",
+      "TW": ">>> 第四關：瀑布平原 <<<"
+    }
+  },
+  ">>> DIFFICULTY : HELL <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "難易度：地獄",
+      "CN": ">>> 难度：地狱 <<<",
+      "KR": "난이도 : 헤븐",
+      "TW": ">>> 難度：地獄 <<<"
+    }
+  },
+  "<<< HOLD 30 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間ホールドしてください",
+      "CN": "<<< 保持静止 30 秒 <<<",
+      "KR": "30초 유지",
+      "TW": "<< 請持續保持 30 秒 >>"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP ICE STAFF <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーはアイススタッフを拾った",
+      "CN": ">>> 玩家已拾取冰杖 <<<",
+      "KR": "플레이어가 얼음 지팡이를 획득했습니다",
+      "TW": ">>> 玩家已拾取冰杖 <<<"
+    }
+  },
+  "<<< HOLD 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 15秒間押し続け>>>",
+      "CN": "<<<<<<< 按住15秒 >>>>>>>",
+      "KR": "<<< 15초 동안_hold <<<",
+      "TW": "<<< 按住15秒 <<<"
+    }
+  },
+  ">>> PORYGON USED SIGNAL BEAM <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ポリゴンがシグナルビームを使用 >>>",
+      "CN": ">>> 多边兽使用信号光束 >>>",
+      "KR": ">>> 포리지온은 신호 광선을 사용했다 <<<",
+      "TW": ">>> 多边獸使用信號光束 <<<"
+    }
+  },
+  ">>> PORYGON USED TRI ATTACK <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ポリゴンがトライアタックを使用 >>>",
+      "CN": ">>> 多边兽使用三重攻击 >>>",
+      "KR": ">>> 포리지온은 삼중 공격을 사용했다 <<<",
+      "TW": ">>> 多边獸使用三重攻擊 <<<"
+    }
+  },
+  ">>> ROUTE 1 : HOLD 20 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート1 : 20秒間押し続け <<<",
+      "CN": ">>> 1号道路：按住20秒 >>>",
+      "KR": ">>> 루트 1 : 20초 동안_hold <<<",
+      "TW": ">>> 1號道路：按住20秒 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP GATLING GUN <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはガトリングガンを拾った >>>",
+      "CN": ">>> 玩家拾取了加特林机枪 >>>",
+      "KR": ">>> 플레이어가 개틀링 건을 pickups 했다 <<<",
+      "TW": ">>> 玩家已拾取加農炮 <<<"
+    }
+  },
+  ">>> GATLING AMMO RUNS OUT <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ガトリング弾切れ <<<",
+      "CN": ">>> 加特林机枪弹药耗尽 <<<",
+      "KR": ">>> 개틀링 탄약이 고갈되었다 <<<",
+      "TW": ">>> 加農炮彈藥耗盡 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP ROCKET LAUNCHER <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはロケットランチャーを拾った >>>",
+      "CN": ">>> 玩家拾取了火箭发射器 >>>",
+      "KR": ">>> 플레이어가 로켓 발사기를 pickups 했다 <<<",
+      "TW": ">>> 玩家已拾取火箭發射器 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP WATER STAFF <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはウォータースタッフを拾った >>>",
+      "CN": ">>> 玩家拾取了法力法杖 >>>",
+      "KR": ">>> 플레이자가 물 지팡이를 pickups 했다 <<<",
+      "TW": ">>> 玩家已拾取水之杖 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP FIRE STAFF <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはファイアスタッフを拾った <<<",
+      "CN": ">>> 玩家拾取了火焰法杖 <<<",
+      "KR": "<<< PLAYER HAS PICKED UP FIRE STAFF >>>",
+      "TW": ">>> 玩家已拾取火焰法杖 <<<"
+    }
+  },
+  ">>> PORYGON USED PSYSHOCK <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ポリゴンがサイコショックを使用した <<<",
+      "CN": ">>> 波克比使用了精神冲击 <<<",
+      "KR": ">>> PORGYON이サイ크쇼크를 사용했습니다 <<<",
+      "TW": ">>> 寶可夢 代歐奇希斯使用精神擊 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP FLAMETHROWER <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはフレイムスロワーを拾った <<<",
+      "CN": ">>> 玩家拾取了火焰喷射器 <<<",
+      "KR": "<<< PLAYER HAS PICKED UP FLAMETHROWER >>>",
+      "TW": ">>> 玩家已拾取火焰噴射器 <<<"
+    }
+  },
+  ">>> Stage6 Activated <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ6が作動した <<<",
+      "CN": ">>> 舞台6已激活 <<<",
+      "KR": ">>> 스테이지 6 활성화 <<<",
+      "TW": ">>> 第6關啟動 <<<"
+    }
+  },
+  ">>> STAGE 6 : RIDGE TEMPLES <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ 6 : リッジ寺院 <<<",
+      "CN": ">>> 阶段6：山脊神殿 <<<",
+      "KR": ">>> STAGE 6 : RIDGE TEMPLES <<<",
+      "TW": ">>> 第6關：山脊神殿 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP MAXWELL <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはマクスウェルを拾った <<<",
+      "CN": ">>> 玩家拾取了麦克斯韦 <<<",
+      "KR": "<<< PLAYER HAS PICKED UP MAXWELL >>>",
+      "TW": ">>> 玩家已拾取麥克斯韋 <<<"
+    }
+  },
+  ">>> GOLEM USED BEAM <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ゴーレムがビームを使用した <<<",
+      "CN": ">>> 岩石怪使用了光束 <<<",
+      "KR": ">>> GOLEM이 빔을 사용했습니다 <<<",
+      "TW": ">>> 石巨人使用光束 <<<"
+    }
+  },
+  ">>> EXIT DOORS ARE OPENING IN 120 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> 出口の扉は120秒後に開きます <<<",
+      "CN": ">>> 出口大门将在120秒后开启 <<<",
+      "KR": "<<< 120초 후 출구 문 열림 >>>",
+      "TW": ">>> 出口門將在120秒後開啟 <<<"
+    }
+  },
+  ">>> STAGE6 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ6 クリア <<<",
+      "CN": ">>> 第六关完成 <<<",
+      "KR": ">>> 스테이지 6 클리어 <<<",
+      "TW": ">>> 第六章完成 <<<"
+    }
+  },
+  ">>> Stage4 Activated <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ4 作動 <<<",
+      "CN": ">>> 第四阶段已激活 <<<",
+      "KR": ">>> 스테이지 4 가동 <<<",
+      "TW": ">>> 第四章啟動 <<<"
+    }
+  },
+  ">>> ROUTE 2 : HOLD 20 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ルート2：20秒間ホールド <<<",
+      "CN": ">>> 路线二：坚持20秒 <<<",
+      "KR": ">>> 라우트 2 : 20초간 유지 <<<",
+      "TW": ">>> 路線 2：維持 20 秒 <<<"
+    }
+  },
+  ">>> STAGE4 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ4 クリア <<<",
+      "CN": ">>> 第四关完成 <<<",
+      "KR": ">>> 스테이지 4 클리어 <<<",
+      "TW": ">>> 第四章完成 <<<"
+    }
+  },
+  ">>> STAGE 5 : RIVERSIDE CITY <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ5：リバーサイドシティ <<<",
+      "CN": ">>> 第五阶段：河畔城市 <<<",
+      "KR": ">>> 스테이지 5 : 강변 도시 <<<",
+      "TW": ">>> 第五章：河濱城市 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP MEGA BLAST <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはメガブラストを獲得 <<<",
+      "CN": ">>> 玩家已拾取巨型爆炸物 <<<",
+      "KR": ">>> 플레이어가 메가 블래스트를 획득했습니다 <<<",
+      "TW": ">>> 玩家已拾取巨型炸藥 <<<"
+    }
+  },
+  ">>> DEFEND ELEVATOR FOR 15 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> エレベーターを15秒間防衛 <<<",
+      "CN": ">>> 坚守电梯15秒 <<<",
+      "KR": ">>> 엘리베이터 15초간 방어 <<<",
+      "TW": ">>> 防禦電梯 15 秒 <<<"
+    }
+  },
+  "<<< HELICOPTER IS DEPARTING IN 25 SECONDS <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ヘリコプター、25秒後に離脱 <<<",
+      "CN": "<<< 直升机将在25秒后起飞 <<<",
+      "KR": "<<< 헬리콥터가 25초 후 이륙합니다 <<<",
+      "TW": "<<< 直升機將於 25 秒後離場 <<<"
+    }
+  },
+  ">>> STAGE5 COMPLETED <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ステージ5 完了 <<<",
+      "CN": ">>> 第五关已完成 <<<",
+      "KR": ">>> 스테이지 5 클리어 <<<",
+      "TW": ">>> 第五關完成 <<<"
+    }
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> プレイヤーはゾンビの治療アイテムを手に入れました <<<",
+      "CN": ">>> 玩家已拾取僵尸回复物品 <<<",
+      "KR": ">>> 플레이어가 좀비 치유를 획득했습니다 <<<",
+      "TW": ">>> 玩家已撿起殭屍治療藥包 <<<"
+    }
+  }
+}

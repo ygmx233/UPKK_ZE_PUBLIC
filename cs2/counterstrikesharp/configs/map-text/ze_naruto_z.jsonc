@@ -1,221 +1,732 @@
 {
-    "*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***": {
-      "translation": "*** 找到了一辆自行车！有人准备参加第100届“环法自行车赛”！ ***"
-    },
-    "***!!! CURRENT DIFFICULTY : EASY !!!***": {
-      "translation": "***!!! 当前难度：简单 !!!***"
-    },
-    "***!!! CURRENT DIFFICULTY : HARD !!!***": {
-      "translation": "***!!! 当前难度：困难 !!!***"
-    },
-    "***!!! CURRENT DIFFICULTY : NORMAL !!!***": {
-      "translation": "***!!! 当前难度：正常 !!!***"
-    },
-    "***!!! CURRENT DIFFICULTY EXTREM !!!***": {
-      "translation": "***!!! 当前难度：极限 !!!***"
-    },
-    "***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***": {
-      "translation": "***!!! 本回合僵尸感染已禁用 !!!***"
-    },
-    "***!!! GAME WILL START IN FEW SECOND !!!***": {
-      "translation": "***!!! 游戏将在几秒钟内开始 !!!***"
-    },
-    "***!!! NEXT DIFFICULTY : HARD !!!***": {
-      "translation": "***!!! 下一难度：困难 !!!***"
-    },
-    "***!!! NEXT DIFFICULTY : NORMAL !!!***": {
-      "translation": "***!!! 下一难度：正常 !!!***"
-    },
-    "***!!! THIS IS A WARMUP ROUND !!!***": {
-      "translation": "***!!! 这是热身回合 !!!***"
-    },
-    "***!!! WAITING FOR MORE PLAYERS !!!***": {
-      "translation": "***!!! 等待更多玩家 !!!***"
-    },
-    "***10 SECOND LEFT***": {
-      "translation": "*** 剩余 10 秒 ***"
-    },
-    "***10 SECONDS LEFT***": {
-      "translation": "*** 剩余 10 秒 ***"
-    },
-    "***15 SECOND LEFT***": {
-      "translation": "*** 剩余 15 秒 ***"
-    },
-    "***20 SECOND LEFT***": {
-      "translation": "*** 剩余 20 秒 ***"
-    },
-    "***20 SECONDS LEFT***": {
-      "translation": "*** 剩余 20 秒 ***"
-    },
-    "***25 SECONDS LEFT***": {
-      "translation": "*** 剩余 25 秒 ***"
-    },
-    "***30 SECOND LEFT***": {
-      "translation": "*** 剩余 30 秒 ***"
-    },
-    "***30 SECONDS LEFT***": {
-      "translation": "*** 剩余 30 秒 ***"
-    },
-    "***35 SECONDS LEFT***": {
-      "translation": "*** 剩余 35 秒 ***"
-    },
-    "***40 SECOND LEFT***": {
-      "translation": "*** 剩余 40 秒 ***"
-    },
-    "***40 SECONDS LEFT***": {
-      "translation": "*** 剩余 40 秒 ***"
-    },
-    "***45 SECONDS LEFT***": {
-      "translation": "*** 剩余 45 秒 ***"
-    },
-    "***5 SECOND LEFT***": {
-      "translation": "*** 剩余 5 秒 ***"
-    },
-    "***5 SECONDS LEFT***": {
-      "translation": "*** 剩余 5 秒 ***"
-    },
-    "***Admin Room Abuse ! Kill all players ***": {
-      "translation": "*** 管理员滥用权限！杀死所有玩家 ***"
-    },
-    "***Admin Room Abuse ! Next Difficulty : Easy ***": {
-      "translation": "*** 管理员滥用权限！下一难度：简单 ***"
-    },
-    "***Admin Room Abuse ! Next Difficulty : Extrem ***": {
-      "translation": "*** 管理员滥用权限！下一难度：极限 ***"
-    },
-    "***Admin Room Abuse ! Next Difficulty : Hard ***": {
-      "translation": "*** 管理员滥用权限！下一难度：困难 ***"
-    },
-    "***Admin Room Abuse ! Next Difficulty : Normal ***": {
-      "translation": "*** 管理员滥用权限！下一难度：正常 ***"
-    },
-    "***CITY AFK TELEPORT IN 10s***": {
-      "translation": "*** 城市挂机传送将在 10 秒后进行 ***"
-    },
-    "***Cave way will open in 10s !***": {
-      "translation": "*** 洞穴通道将在 10 秒后开启！***"
-    },
-    "***Cave way will open in 20s !***": {
-      "translation": "*** 洞穴通道将在 20 秒后开启！***"
-    },
-    "***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***": {
-      "translation": "*** 在漩涡鸣人释放他强大的攻击之前击败佐助 ***"
-    },
-    "***DEFEAT SASUKE BEFORE NARUTO USES HIS ULTIMATE ATTACK***": {
-      "translation": "*** 在漩涡鸣人使用他的终极攻击之前击败佐助 ***"
-    },
-    "***DEFEND AGAIN 10s***": {
-      "translation": "*** 再次防守 10 秒 ***"
-    },
-    "***DEFEND AGAIN 15s***": {
-      "translation": "*** 再次防守 15 秒 ***"
-    },
-    "***DEFEND AGAIN 30s***": {
-      "translation": "*** 再次防守 30 秒 ***"
-    },
-    "***DEFEND AGAIN 45s***": {
-      "translation": "*** 再次防守 45 秒 ***"
-    },
-    "***DEFEND AGAIN 5s***": {
-      "translation": "*** 再次防守 5 秒 ***"
-    },
-    "***DOOR WILL OPEN IN 15 SECONDS***": {
-      "translation": "*** 门将在 15 秒后开启 ***"
-    },
-    "***DOOR WILL OPEN IN 5 SECONDS***": {
-      "translation": "*** 门将在 5 秒后开启 ***"
-    },
-    "***DOORS OPENING NOW***": {
-      "translation": "*** 门正在开启中 ***"
-    },
-    "***FORTRESS AFK TELEPORT IN 10s***": {
-      "translation": "*** 森林挂机传送将在 10 秒后进行 ***"
-    },
-    "***FORTRESS AFK TELEPORT***": {
-      "translation": "*** 森林挂机传送中 ***"
-    },
-    "***HOLD THIS POSITION***": {
-      "translation": "*** 防守这个位置 ***"
-    },
-    "***HOLD THIS POSTION***": {
-      "translation": "*** 防守这个位置 ***"
-    },
-    "***HUMANS NOW CAN'T PROTECT THE VILLAGE***": {
-      "translation": "*** 人类现在无法保护村庄 ***"
-    },
-    "***HUMANS SUCCEFULLY DEFEND KONOHA***": {
-      "translation": "*** 人类成功防守木叶村 ***"
-    },
-    "***KILL ALL ZOMBIE SURVIVOR***": {
-      "translation": "*** 杀死所有僵尸幸存者 ***"
-    },
-    "***NARUTO HAS BEEN KILLED BY ZOMBIES***": {
-      "translation": "*** 漩涡鸣人已被僵尸杀死 ***"
-    },
-    "***NARUTO IS FIGHTING AGAINST SASUKE***": {
-      "translation": "*** 漩涡鸣人正在与佐助战斗 ***"
-    },
-    "***NARUTO IS PREPARING HIS FINAL ATTACK. HE WILL USE YOUR REMAINING HEALTH!***": {
-      "translation": "*** 漩涡鸣人正在准备他的最终攻击。他将使用你剩余的生命值！***"
-    },
-    "***NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE***": {
-      "translation": "*** 漩涡鸣人使用了你的力量……你无法再帮助他了 ***"
-    },
-    "***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***": {
-      "translation": "*** 漩涡鸣人即将使用他的特殊攻击。***"
-    },
-    "***NEXT DIFFICULTY  EXTREM***": {
-      "translation": "*** 下回合难度：极限 ***"
-    },
-    "***NEXT DIFFICULTY : EASY ***": {
-      "translation": "*** 下回合难度：简单 ***"
-    },
-    "***NEXT DIFFICULTY : EXTREM ***": {
-      "translation": "*** 下回合难度：极限 ***"
-    },
-    "***NEXT DIFFICULTY : HARD ***": {
-      "translation": "*** 下回合难度：困难 ***"
-    },
-    "***NEXT DIFFICULTY : NORMAL ***": {
-      "translation": "*** 下回合难度：正常 ***"
-    },
-    "***Naruto is fighting Sasuke! Go find and help him!***": {
-      "translation": "*** 漩涡鸣人在与佐助战斗！快去找他并帮助他！***"
-    },
-    "***Naruto will open the way ! Follow him !***": {
-      "translation": "*** 漩涡鸣人将打开道路！跟随他！***"
-    },
-    "***SECOND DOOR WILL OPEN IN 15 SECONDS***": {
-      "translation": "*** 第二扇门将在 15 秒后开启 ***"
-    },
-    "***SECOND DOOR WILL OPEN IN 30 SECONDS***": {
-      "translation": "*** 第二扇门将在 30 秒后开启 ***"
-    },
-    "***SECOND DOOR WILL OPEN IN 5 SECONDS***": {
-      "translation": "*** 第二扇门将在 5 秒后开启 ***"
-    },
-    "***YOU BEAT EXTREME DIFFICULTY***": {
-      "translation": "*** 你击败了极限难度 ***"
-    },
-    "***YOU CAN CHOOSE THE NEXT DIFFICULTY***": {
-      "translation": "*** 你可以选择下一难度 ***"
-    },
-    "***YOU DID IT !!! YOU DEFEATED SASUKE***": {
-      "translation": "*** 你做到了！！！你击败了佐助 ***"
-    },
-    "***YOU NEED TO DEFEND THE TOWN 1MIN***": {
-      "translation": "*** 你需要防守城镇 60 秒 ***"
-    },
-    ">> There is an error in the level system <<": {
-      "translation": ">> 关卡系统出现错误 <<"
-    },
-    ">>>Help tips opinions and adjustements by Aeris004<<<": {
-      "translation": ">>> Aeris004提供帮助提示、意见和调整 <<<"
-    },
-    ">>>Map by CriSsys<<<": {
-      "translation": ">>> 地图作者： CriSsys 翻译：Asteri3m <<<"
-    },
-    ">>>Thanks to FireWavezZ<<<": {
-      "translation": ">>> 感谢 FireWavezZ <<<"
+  "*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***": {
+    "translation": "*** 找到了一辆自行车！有人准备参加第100届“环法自行车赛”！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "バイクが見つかりました！誰かが第100回「ツール・ド・フランス」に挑む準備ができています！",
+      "CN": "*** 发现一辆自行车！有人已准备好参加第100届“环法自行车赛”！ ***",
+      "KR": "*** 자전거가 발견되었습니다! 100번째 '투르 드 프랑스' 참가자가 등장합니다! ***",
+      "TW": "***發現一輛自行車！有人準備好參加第100屆「環法自行车赛」了！***"
+    }
+  },
+  "***!!! CURRENT DIFFICULTY : EASY !!!***": {
+    "translation": "***!!! 当前难度：简单 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! 現在の難易度：簡単 !!!***",
+      "CN": "***!!! 当前难度：简单 !!!***",
+      "KR": "***!!! 현재 난이도: 쉬움 !!!***",
+      "TW": "***!!!目前難度：簡單!!!***"
+    }
+  },
+  "***!!! CURRENT DIFFICULTY : HARD !!!***": {
+    "translation": "***!!! 当前难度：困难 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! 現在の難易度：難しい !!!***",
+      "CN": "***!!! 当前难度：困难 !!!***",
+      "KR": "***!!! 현재 난이도: 어려움 !!!***",
+      "TW": "***!!!目前難度：困難!!!***"
+    }
+  },
+  "***!!! CURRENT DIFFICULTY : NORMAL !!!***": {
+    "translation": "***!!! 当前难度：正常 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! 現在の難易度：標準 !!!***",
+      "CN": "***!!! 当前难度：普通 !!!***",
+      "KR": "***!!! 현재 난이도: 보통 !!!***",
+      "TW": "***!!!目前難度：普通!!!***"
+    }
+  },
+  "***!!! CURRENT DIFFICULTY EXTREM !!!***": {
+    "translation": "***!!! 当前难度：极限 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! 現在の難易度： extrem !!!***",
+      "CN": "***!!! 当前难度：极限 !!!***",
+      "KR": "***!!! 난이도 극한의 경고 !!!***",
+      "TW": "***!!!極限難度已啟用!!!***"
+    }
+  },
+  "***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***": {
+    "translation": "***!!! 本回合僵尸感染已禁用 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! 今回のラウンドでは最初のゾンビ感染が無効化されています !!!***",
+      "CN": "***!!! 本局禁用首次僵尸感染 !!!***",
+      "KR": "***!!! 이번 라운드에서는 첫 좀비 감염이 비활성화됩니다 !!!***",
+      "TW": "***!!!本回合停用首次喪屍感染機制!!!***"
+    }
+  },
+  "***!!! GAME WILL START IN FEW SECOND !!!***": {
+    "translation": "***!!! 游戏将在几秒钟内开始 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! ゲームは数秒後に開始します !!!***",
+      "CN": "***!!! 游戏将在几秒后开始 !!!***",
+      "KR": "***!!! 게임이 몇 초 후에 시작됩니다 !!!***",
+      "TW": "***!!!遊戲即將於幾秒後開始!!!***"
+    }
+  },
+  "***!!! NEXT DIFFICULTY : HARD !!!***": {
+    "translation": "***!!! 下一难度：困难 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! 次の難易度：難しい !!!***",
+      "CN": "***!!! 下一关难度：困难 !!!***",
+      "KR": "***!!! 다음 난이도: 어려움 !!!***",
+      "TW": "***!!!下一回合難度：困難!!!***"
+    }
+  },
+  "***!!! NEXT DIFFICULTY : NORMAL !!!***": {
+    "translation": "***!!! 下一难度：正常 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! 次の難易度：ノーマル !!!***",
+      "CN": "***!!! 下一难度：普通 !!!***",
+      "KR": "***!!! 다음 난이도 : NORMAL !!!***",
+      "TW": "***!!! 下一個難度：普通 !!!***"
+    }
+  },
+  "***!!! THIS IS A WARMUP ROUND !!!***": {
+    "translation": "***!!! 这是热身回合 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! これはウォーミングアップラウンドです !!!***",
+      "CN": "***!!! 此为热身局 !!!***",
+      "KR": "***!!! 이 게임은 연습용입니다. !!!***",
+      "TW": "***!!! 這是熱身回合 !!!***"
+    }
+  },
+  "***!!! WAITING FOR MORE PLAYERS !!!***": {
+    "translation": "***!!! 等待更多玩家 !!!***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***!!! 他のプレイヤーを待機中 !!!***",
+      "CN": "***!!! 等待更多玩家加入 !!!***",
+      "KR": "***!!! 추가 플레이어 대기 중 !!!***",
+      "TW": "***!!! 等待更多玩家加入 !!!***"
+    }
+  },
+  "***10 SECOND LEFT***": {
+    "translation": "*** 剩余 10 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り10秒***",
+      "CN": "***剩余10秒***",
+      "KR": "***10초 남음***",
+      "TW": "***剩餘 10 秒***"
+    }
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "*** 剩余 10 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り10秒***",
+      "CN": "***剩余10秒***",
+      "KR": "***10초 남음***",
+      "TW": "***剩餘 10 秒***"
+    }
+  },
+  "***15 SECOND LEFT***": {
+    "translation": "*** 剩余 15 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り15秒***",
+      "CN": "***剩余15秒***",
+      "KR": "***15초 남음***",
+      "TW": "***剩餘 15 秒***"
+    }
+  },
+  "***20 SECOND LEFT***": {
+    "translation": "*** 剩余 20 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り20秒***",
+      "CN": "***剩余20秒***",
+      "KR": "***20초 남음***",
+      "TW": "***剩餘 20 秒***"
+    }
+  },
+  "***20 SECONDS LEFT***": {
+    "translation": "*** 剩余 20 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り20秒***",
+      "CN": "***剩余20秒***",
+      "KR": "***20초 남음***",
+      "TW": "***剩餘 20 秒***"
+    }
+  },
+  "***25 SECONDS LEFT***": {
+    "translation": "*** 剩余 25 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り25秒***",
+      "CN": "***剩余25秒***",
+      "KR": "***나머지 25초***",
+      "TW": "***剩餘25秒***"
+    }
+  },
+  "***30 SECOND LEFT***": {
+    "translation": "*** 剩余 30 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り30秒***",
+      "CN": "***剩余30秒***",
+      "KR": "***나머지 30초***",
+      "TW": "***剩餘30秒***"
+    }
+  },
+  "***30 SECONDS LEFT***": {
+    "translation": "*** 剩余 30 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り30秒***",
+      "CN": "***剩余30秒***",
+      "KR": "***나머지 30초***",
+      "TW": "***剩餘30秒***"
+    }
+  },
+  "***35 SECONDS LEFT***": {
+    "translation": "*** 剩余 35 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り35秒***",
+      "CN": "***剩余35秒***",
+      "KR": "***나머지 35초***",
+      "TW": "***剩餘35秒***"
+    }
+  },
+  "***40 SECOND LEFT***": {
+    "translation": "*** 剩余 40 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り40秒***",
+      "CN": "***剩余40秒***",
+      "KR": "***나머지 40초***",
+      "TW": "***剩餘40秒***"
+    }
+  },
+  "***40 SECONDS LEFT***": {
+    "translation": "*** 剩余 40 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り40秒***",
+      "CN": "***剩余40秒***",
+      "KR": "***나머지 40초***",
+      "TW": "***剩餘40秒***"
+    }
+  },
+  "***45 SECONDS LEFT***": {
+    "translation": "*** 剩余 45 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り45秒***",
+      "CN": "***剩余45秒***",
+      "KR": "***나머지 45초***",
+      "TW": "***剩餘45秒***"
+    }
+  },
+  "***5 SECOND LEFT***": {
+    "translation": "*** 剩余 5 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り5秒***",
+      "CN": "***剩余5秒***",
+      "KR": "***나머지 5초***",
+      "TW": "***剩餘5秒***"
+    }
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "*** 剩余 5 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***残り5秒***",
+      "CN": "***剩余5秒***",
+      "KR": "***5초 뒤***",
+      "TW": "***剩餘5秒***"
+    }
+  },
+  "***Admin Room Abuse ! Kill all players ***": {
+    "translation": "*** 管理员滥用权限！杀死所有玩家 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***管理者室の不正使用！全プレイヤーをキルします***",
+      "CN": "***管理员房间滥用！击杀所有玩家***",
+      "KR": "***관리자실 악용 ! 모든 플레이어 킬 ***",
+      "TW": "***管理員房濫用！殺死所有玩家***"
+    }
+  },
+  "***Admin Room Abuse ! Next Difficulty : Easy ***": {
+    "translation": "*** 管理员滥用权限！下一难度：简单 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***管理者室の不正使用！次の難易度：イージー***",
+      "CN": "***管理员房间滥用！下一难度：简单***",
+      "KR": "***관리자실 악용 ! 다음 난이도 : 쉬움***",
+      "TW": "***管理員房濫用！下一難度：簡單***"
+    }
+  },
+  "***Admin Room Abuse ! Next Difficulty : Extrem ***": {
+    "translation": "*** 管理员滥用权限！下一难度：极限 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***管理者室の不正使用！次の難易度：エクストリーム***",
+      "CN": "***管理员房间滥用！下一难度：极端***",
+      "KR": "***관리자실 악용 ! 다음 난이도 : 극한***",
+      "TW": "***管理員房濫用！下一難度：極限***"
+    }
+  },
+  "***Admin Room Abuse ! Next Difficulty : Hard ***": {
+    "translation": "*** 管理员滥用权限！下一难度：困难 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***管理者室の不正使用！次の難易度：ハード***",
+      "CN": "***管理员房间滥用！下一难度：困难***",
+      "KR": "***관리자실 악용 ! 다음 난이도 : 어려움***",
+      "TW": "***管理員房濫用！下一難度：困難***"
+    }
+  },
+  "***Admin Room Abuse ! Next Difficulty : Normal ***": {
+    "translation": "*** 管理员滥用权限！下一难度：正常 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***管理者室の不正使用！次の難易度：ノーマル***",
+      "CN": "***管理员房间滥用！下一难度：普通***",
+      "KR": "***관리자실 악용 ! 다음 난이도 : 보통***",
+      "TW": "***管理員房濫用！下一難度：普通***"
+    }
+  },
+  "***CITY AFK TELEPORT IN 10s***": {
+    "translation": "*** 城市挂机传送将在 10 秒后进行 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***都市でAFKteleport 10秒後***",
+      "CN": "***城市挂机传送将在10秒内执行***",
+      "KR": "***성역 AFK 텔레포트 10초 후***",
+      "TW": "***城市離線傳送至10秒後***"
+    }
+  },
+  "***Cave way will open in 10s !***": {
+    "translation": "*** 洞穴通道将在 10 秒后开启！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***洞窟の道が10秒後に開きます！***",
+      "CN": "***洞穴通道将在10秒后开启！***",
+      "KR": "***동굴 경로 10초 후 개방 !***",
+      "TW": "***洞穴通道將在10秒後開啟！***"
+    }
+  },
+  "***Cave way will open in 20s !***": {
+    "translation": "*** 洞穴通道将在 20 秒后开启！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "洞窟ルート20秒後に開放",
+      "CN": "***洞穴通道将在20秒后开启 !***",
+      "KR": "***동굴 경로 20초 후 개통 !***",
+      "TW": "***洞穴通道將在20秒後開啟！***"
+    }
+  },
+  "***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***": {
+    "translation": "*** 在漩涡鸣人释放他强大的攻击之前击败佐助 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "サスケを倒せ、ナルトが最大出力の攻撃を放つ前に",
+      "CN": "***在鸣人发动强力攻击前击败佐助***",
+      "KR": "***나루토가 강력한 공격을 사용하기 전에 사스케를 제압하라***",
+      "TW": "***在鳴人發動強力攻擊前擊敗佐助***"
+    }
+  },
+  "***DEFEAT SASUKE BEFORE NARUTO USES HIS ULTIMATE ATTACK***": {
+    "translation": "*** 在漩涡鸣人使用他的终极攻击之前击败佐助 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "サスケを倒せ、ナルトが必殺技を使う前に",
+      "CN": "***在鸣人释放终极技能前击败佐助***",
+      "KR": "***나루토의 최종 기술을 사용하기 전에 사스케를 제압하라***",
+      "TW": "***在鳴人使用終極奧義前擊敗佐助***"
+    }
+  },
+  "***DEFEND AGAIN 10s***": {
+    "translation": "*** 再次防守 10 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "5秒後から防衛開始",
+      "CN": "***再次防守倒计时：10秒***",
+      "KR": "***30초 후 방어 다시 시작***",
+      "TW": "***防禦開始，倒計時10秒***"
+    }
+  },
+  "***DEFEND AGAIN 15s***": {
+    "translation": "*** 再次防守 15 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "10秒後から防衛開始",
+      "CN": "***再次防守倒计时：15秒***",
+      "KR": "***45초 후 방어 다시 시작***",
+      "TW": "***防禦開始，倒計時15秒***"
+    }
+  },
+  "***DEFEND AGAIN 30s***": {
+    "translation": "*** 再次防守 30 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後から防衛開始",
+      "CN": "***再次防守倒计时：30秒***",
+      "KR": "***15초 후 방어 다시 시작***",
+      "TW": "***防禦開始，倒計時30秒***"
+    }
+  },
+  "***DEFEND AGAIN 45s***": {
+    "translation": "*** 再次防守 45 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後から防衛開始",
+      "CN": "***再次防守倒计时：45秒***",
+      "KR": "***60초 후 방어 다시 시작***",
+      "TW": "***防禦開始，倒計時45秒***"
+    }
+  },
+  "***DEFEND AGAIN 5s***": {
+    "translation": "*** 再次防守 5 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "45秒後から防衛開始",
+      "CN": "***再次防守倒计时：5秒***",
+      "KR": "***5초 후 방어 다시 시작***",
+      "TW": "***防禦開始，倒計時5秒***"
+    }
+  },
+  "***DOOR WILL OPEN IN 15 SECONDS***": {
+    "translation": "*** 门将在 15 秒后开启 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアが15秒後に開きます***",
+      "CN": "***门将在 15 秒后打开***",
+      "KR": "***문 15초 후에 열립니다***",
+      "TW": "***門將在15秒後打開***"
+    }
+  },
+  "***DOOR WILL OPEN IN 5 SECONDS***": {
+    "translation": "*** 门将在 5 秒后开启 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアが5秒後に開きます***",
+      "CN": "***门将在 5 秒后打开***",
+      "KR": "***문 5초 후에 열립니다***",
+      "TW": "***門將在5秒後打開***"
+    }
+  },
+  "***DOORS OPENING NOW***": {
+    "translation": "*** 门正在开启中 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアが開いています***",
+      "CN": "***门即将打开***",
+      "KR": "***문이 이제 열립니다***",
+      "TW": "***門正在開啟***"
+    }
+  },
+  "***FORTRESS AFK TELEPORT IN 10s***": {
+    "translation": "*** 森林挂机传送将在 10 秒后进行 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***砦AFKテレポート10秒***",
+      "CN": "***堡垒挂机传送将在 10 秒后进行***",
+      "KR": "***요새 대기 상태 텔레포트 10초 후***",
+      "TW": "***堡壘 AFK 傳送将在10秒後執行***"
+    }
+  },
+  "***FORTRESS AFK TELEPORT***": {
+    "translation": "*** 森林挂机传送中 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***砦AFKテレポート***",
+      "CN": "***堡垒挂机传送***",
+      "KR": "***요새 대기 상태 텔레포트***",
+      "TW": "***堡壘 AFK 傳送***"
+    }
+  },
+  "***HOLD THIS POSITION***": {
+    "translation": "*** 防守这个位置 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***この位置を守れ***",
+      "CN": "***坚守此位置***",
+      "KR": "***이 위치를 사수하세요***",
+      "TW": "***守住這個位置***"
+    }
+  },
+  "***HOLD THIS POSTION***": {
+    "translation": "*** 防守这个位置 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***この位置を守れ***",
+      "CN": "***坚守此位置***",
+      "KR": "***이 포지션을 유지하세요***",
+      "TW": "***守住這個地點***"
+    }
+  },
+  "***HUMANS NOW CAN'T PROTECT THE VILLAGE***": {
+    "translation": "*** 人类现在无法保护村庄 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***今、人間は村を守れない***",
+      "CN": "***人类现在无法保护村庄***",
+      "KR": "***현재 인간은 마을을 방어할 수 없습니다***",
+      "TW": "***人類目前無法保護村莊***"
+    }
+  },
+  "***HUMANS SUCCEFULLY DEFEND KONOHA***": {
+    "translation": "*** 人类成功防守木叶村 ***",
+    "MultiLang": {
+      "US": "***HUMANS SUCCESSFULLY DEFEND KONOHAAAAAAAAAAAAA***",
+      "JP": "***人間たちは木ノ葉を守り抜いた***",
+      "CN": "***人类成功保卫了木叶村***",
+      "KR": "***히트마인드의 성공적인 콘oha 방어***",
+      "TW": "***人類成功保衛木葉***"
+    }
+  },
+  "***KILL ALL ZOMBIE SURVIVOR***": {
+    "translation": "*** 杀死所有僵尸幸存者 ***",
+    "MultiLang": {
+      "US": "***KILL ALL ZOMBIE SURVivor***",
+      "JP": "***ゾンビ生存者を全員殲滅***",
+      "CN": "***消灭所有僵尸幸存者***",
+      "KR": "***모든 좀비 생존자 처치***",
+      "TW": "***殺光殭屍倖存者***"
+    }
+  },
+  "***NARUTO HAS BEEN KILLED BY ZOMBIES***": {
+    "translation": "*** 漩涡鸣人已被僵尸杀死 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サクラがゾンビに殺された***",
+      "CN": "***鸣人被僵尸击杀***",
+      "KR": "***나루토는 좀비에게 살해당했습니다***",
+      "TW": "***鳴人被殭屍擊殺***"
+    }
+  },
+  "***NARUTO IS FIGHTING AGAINST SASUKE***": {
+    "translation": "*** 漩涡鸣人正在与佐助战斗 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サクラVS佐助：死闘の幕開け***",
+      "CN": "***鸣子正在与佐助激战***",
+      "KR": "***나루토가 사스케와 싸우고 있습니다***",
+      "TW": "***鳴人正與佐助戰鬥***"
+    }
+  },
+  "***NARUTO IS PREPARING HIS FINAL ATTACK. HE WILL USE YOUR REMAINING HEALTH!***": {
+    "translation": "*** 漩涡鸣人正在准备他的最终攻击。他将使用你剩余的生命值！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サクラは最終攻撃を準備中。あなたの体力すべてを使うわ！***",
+      "CN": "***鸣子正在积蓄最后的必杀技，他将消耗你的剩余生命值！***",
+      "KR": "***나루토는 마지막 공격을 준비 중입니다. 그는 당신의 남은 체력을 사용할 것입니다!***",
+      "TW": "***鳴人準備發動最後一擊，他將消耗你剩餘的生命值！***"
+    }
+  },
+  "***NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE***": {
+    "translation": "*** 漩涡鸣人使用了你的力量……你无法再帮助他了 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サクラがあなたの力を借りました... これ以上手助けはできません***",
+      "CN": "***鸣子借用了你的力量……你无法再帮助他***",
+      "KR": "***나루토가 당신의 힘을 사용했습니다... 더 이상 그를 도와줄 수 없습니다***",
+      "TW": "***鳴人已使用你的力量……你無法再幫助他。***"
+    }
+  },
+  "***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***": {
+    "translation": "*** 漩涡鸣人即将使用他的特殊攻击。***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***サクラはまもなく必殺技を放つでしょう。***",
+      "CN": "***鸣子即将发动特殊攻击。***",
+      "KR": "***나루토가 곧 특별 공격을 사용할 것입니다.***",
+      "TW": "***鳴人即將發動特殊攻擊。***"
+    }
+  },
+  "***NEXT DIFFICULTY  EXTREM***": {
+    "translation": "*** 下回合难度：极限 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***次の難易度：EXTREM（極限）***",
+      "CN": "***下一难度：极难***",
+      "KR": "***다음 난이도: 극한***",
+      "TW": "***下一難度：極限***"
+    }
+  },
+  "***NEXT DIFFICULTY : EASY ***": {
+    "translation": "*** 下回合难度：简单 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***次の難易度：イージー***",
+      "CN": "***下一难度：简单***",
+      "KR": "***다음 난이도 : 쉬움***",
+      "TW": "***下一關卡難度：簡單***"
+    }
+  },
+  "***NEXT DIFFICULTY : EXTREM ***": {
+    "translation": "*** 下回合难度：极限 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***次の難易度：エクストリーム***",
+      "CN": "***下一难度：极难***",
+      "KR": "***다음 난이도 : 극한***",
+      "TW": "***下一關卡難度：極難***"
+    }
+  },
+  "***NEXT DIFFICULTY : HARD ***": {
+    "translation": "*** 下回合难度：困难 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***次の難易度：ハード***",
+      "CN": "***下一难度：困难***",
+      "KR": "***다음 난이도 : 어려움***",
+      "TW": "***下一關卡難度：困難***"
+    }
+  },
+  "***NEXT DIFFICULTY : NORMAL ***": {
+    "translation": "*** 下回合难度：正常 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***次の難易度：ノーマル***",
+      "CN": "***下一难度：普通***",
+      "KR": "***다음 난이도 : 보통***",
+      "TW": "***下一關卡難度：普通***"
+    }
+  },
+  "***Naruto is fighting Sasuke! Go find and help him!***": {
+    "translation": "*** 漩涡鸣人在与佐助战斗！快去找他并帮助他！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ナルトがサスケと戦っている！彼を見つけて助けて！***",
+      "CN": "***鸣人与佐助正在战斗！快去帮忙！***",
+      "KR": "***나루토가 사스케와 싸우고 있습니다! 가서 도와주세요!***",
+      "TW": "***火影正在與佐助戰鬥！快去找他並協助他！***"
+    }
+  },
+  "***Naruto will open the way ! Follow him !***": {
+    "translation": "*** 漩涡鸣人将打开道路！跟随他！***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ナルトが道を開く！彼に従え！***",
+      "CN": "***鸣子将为你开路！跟上他！***",
+      "KR": "***나루토가 길을 엽니다! 따라오세요!***",
+      "TW": "***火影會開路！跟他走！***"
+    }
+  },
+  "***SECOND DOOR WILL OPEN IN 15 SECONDS***": {
+    "translation": "*** 第二扇门将在 15 秒后开启 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***2つ目の扉は15秒後に開きます***",
+      "CN": "第二道门将在15秒后打开***",
+      "KR": "***2번 문이 15초 후에 열립니다***",
+      "TW": "***第二道門將在15秒後開啟***"
+    }
+  },
+  "***SECOND DOOR WILL OPEN IN 30 SECONDS***": {
+    "translation": "*** 第二扇门将在 30 秒后开启 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***2つ目の扉は30秒後に開きます***",
+      "CN": "***第二道门将在30秒后打开***",
+      "KR": "***2번 문이 30초 후에 열립니다***",
+      "TW": "***第二道門將在30秒後開啟***"
+    }
+  },
+  "***SECOND DOOR WILL OPEN IN 5 SECONDS***": {
+    "translation": "*** 第二扇门将在 5 秒后开启 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***5秒以内に次の扉が開きます***",
+      "CN": "***五秒后第二扇门将打开***",
+      "KR": "***5초 후 두 번째 문이 열립니다***",
+      "TW": "***五秒後第二道門將開啟***"
+    }
+  },
+  "***YOU BEAT EXTREME DIFFICULTY***": {
+    "translation": "*** 你击败了极限难度 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***エクストリームクリア達成***",
+      "CN": "***你已通关极限难度***",
+      "KR": "***익스트림 난이도를 클리어했습니다***",
+      "TW": "***你已通過極限難度挑戰***"
+    }
+  },
+  "***YOU CAN CHOOSE THE NEXT DIFFICULTY***": {
+    "translation": "*** 你可以选择下一难度 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***次の難易度を選択できます***",
+      "CN": "***你可以选择下一个难度***",
+      "KR": "***다음 난이도를 선택할 수 있습니다***",
+      "TW": "***你可以選擇下一關的難度***"
+    }
+  },
+  "***YOU DID IT !!! YOU DEFEATED SASUKE***": {
+    "translation": "*** 你做到了！！！你击败了佐助 ***",
+    "MultiLang": {
+      "US": "***YOU DID IT !!! YOU DEFeated SASUKE***",
+      "JP": "***おめでとうございます！サスケを撃破しました！***",
+      "CN": "***你成功了！你击败了佐助***",
+      "KR": "***성공 !!! 사스케를 격파했습니다***",
+      "TW": "***做到了！！！你成功擊擊敗佐助***"
+    }
+  },
+  "***YOU NEED TO DEFEND THE TOWN 1MIN***": {
+    "translation": "*** 你需要防守城镇 60 秒 ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***町を1分間守ってください***",
+      "CN": "***你需要防守小镇1分钟***",
+      "KR": "***마을을 1분간 방어해야 합니다***",
+      "TW": "***你需要守衛小鎮1分鐘***"
+    }
+  },
+  ">> There is an error in the level system <<": {
+    "translation": ">> 关卡系统出现错误 <<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">> レベルシステムにエラーがあります <<",
+      "CN": ">> 关卡系统存在错误 <<",
+      "KR": ">> 레벨 시스템에 오류가 있습니다 <<",
+      "TW": ">> 等級系統存在錯誤 <<"
+    }
+  },
+  ">>>Help tips opinions and adjustements by Aeris004<<<": {
+    "translation": ">>> Aeris004提供帮助提示、意见和调整 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> ヘルプ、ヒント、ご意見、調整：Aeris004 <<<",
+      "CN": ">>>辅助提示、建议与调整由 Aeris004 提供<<<",
+      "KR": ">>>조언과 조정: Aeris004<<<",
+      "TW": ">>> 由 Aeris004 提供協助提示、意見與調整 <<<"
+    }
+  },
+  ">>>Map by CriSsys<<<": {
+    "translation": ">>> 地图作者： CriSsys 翻译：Asteri3m <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>> マップ作成：CriSsys <<<",
+      "CN": ">>>地图由 CriSsys 制作<<<",
+      "KR": ">>>지도 제작자: CriSsys<<<",
+      "TW": ">>> 地圖由 CriSsys 製作 <<<"
+    }
+  },
+  ">>>Thanks to FireWavezZ<<<": {
+    "translation": ">>> 感谢 FireWavezZ <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "FireWavezZ のおかげです",
+      "CN": ">>>感谢FireWavezZ<<<",
+      "KR": "FireWavezZ 덕분에",
+      "TW": ">>>感謝 FireWavezZ 的支持<<<"
     }
   }
+}

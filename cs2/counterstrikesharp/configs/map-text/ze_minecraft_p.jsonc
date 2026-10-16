@@ -1,164 +1,492 @@
 {
   "***MAP BY thegregster101***": {
-    "translation": "地图作者：thegregster101 翻译：秋刀鱼"
+    "translation": "地图作者：thegregster101 翻译：秋刀鱼",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ製作: thegregster101氏",
+      "CN": "***地图制作：thegregster101***",
+      "KR": "***MAP BY thegregster101***",
+      "TW": "***地圖製作人：thegregster101***"
+    }
   },
   "***STONE DOOR OPENING***": {
-    "translation": "石门开启中"
+    "translation": "石门开启中",
+    "MultiLang": {
+      "US": "***STONE DOOR UNLOCKED***",
+      "JP": "石の扉が開く",
+      "CN": "***石门开启***",
+      "KR": "***돌문 열림***",
+      "TW": "***石門開啟中***"
+    }
   },
   "***BOAT LEAVES IN 20 SECONDS***": {
-    "translation": "20s后发船"
+    "translation": "20s后发船",
+    "MultiLang": {
+      "US": "",
+      "JP": "ボートが20秒後に発航します",
+      "CN": "***船只将在20秒后离开***",
+      "KR": "***배가 20초 후에 출발합니다***",
+      "TW": "船隻將在 20 秒後啟航***"
+    }
   },
   "***BOAT LEAVES IN 10 SECONDS***": {
     "translation": "10s后发船",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "ボートが10秒後に発航します",
+      "CN": "***船只将在10秒后离开***",
+      "KR": "***배가 10초 후에 출발합니다***",
+      "TW": "***船隻將在 10 秒後啟航***"
+    }
   },
   "***PATH BLOCKERS BREAK IN 5 SECONDS***": {
-    "translation": "5s后墙碎"
+    "translation": "5s后墙碎",
+    "MultiLang": {
+      "US": "",
+      "JP": "障害物が5秒後に崩壊します",
+      "CN": "路径障碍将在5秒后破碎***",
+      "KR": "***길목의 장애물이 5초 후에 파괴됩니다***",
+      "TW": "道路阻礙物將在 5 秒內破壞***"
+    }
   },
   "***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** ": {
-    "translation": "钻石剑的所有材料都已经找到"
+    "translation": "钻石剑的所有材料都已经找到",
+    "MultiLang": {
+      "US": "",
+      "JP": "ダイヤモンド剣の作成に必要な素材がすべて見つかりました",
+      "CN": "钻石剑所需材料已全部找到***",
+      "KR": "***다이아몬드 검 제작에 필요한 모든 재료가 수집되었습니다***",
+      "TW": "鑽石劍所需材料已全部找到***"
+    }
   },
   "***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** ": {
-    "translation": "按下TNT"
+    "translation": "按下TNT",
+    "MultiLang": {
+      "US": "*** PRESS USE ON THE WORKBench AT THE TNT HOLD POINT ***",
+      "JP": "TNT保管所にある作業台で「使用」キーを押してください",
+      "CN": "***在TNT保管点的工作台上按“使用”键***",
+      "KR": "***TNT 적재 지점의 작업대에서 [사용]을 누르세요***",
+      "TW": "***在 TNT 儲存點的工作檯上按【使用】鍵***"
+    }
   },
   "***THIS WILL CRAFT THE SWORD*** ": {
-    "translation": "这能制作剑"
+    "translation": "这能制作剑",
+    "MultiLang": {
+      "US": "",
+      "JP": "これにより剣が作成されます",
+      "CN": "***这将制作出宝剑***",
+      "KR": "***이 작업을 통해 검을 제작합니다***",
+      "TW": "即可打造該把劍***"
+    }
   },
   "***TNT EXPLODING IN 30 SECONDS***": {
-    "translation": "TNT30s后爆炸"
+    "translation": "TNT30s后爆炸",
+    "MultiLang": {
+      "US": "",
+      "JP": "***TNT 爆発まで30秒***",
+      "CN": "***TNT 30秒后爆炸***",
+      "KR": "*** TNT 30초 후 폭발***",
+      "TW": "***30秒後TNT爆炸***"
+    }
   },
   "***HOLD THE CAVE!!!!***": {
-    "translation": "守住洞穴"
+    "translation": "守住洞穴",
+    "MultiLang": {
+      "US": "",
+      "JP": "***洞窟を死守せよ！！***",
+      "CN": "***坚守洞穴！***",
+      "KR": "*** 동굴을 지키시오!!!!***",
+      "TW": "***守住洞穴！！！！"
+    }
   },
   "***TNT EXPLODING IN 20 SECONDS***": {
     "translation": "还有20s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***TNT 爆発まで20秒***",
+      "CN": "***TNT 20秒后爆炸***",
+      "KR": "*** TNT 20초 후 폭발***",
+      "TW": "***20秒後TNT爆炸***"
+    }
   },
   "***TNT EXPLODING IN 10 SECONDS***": {
     "translation": "还有10s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***TNT 爆発まで10秒***",
+      "CN": "***TNT 10秒后爆炸***",
+      "KR": "*** TNT 10초 후 폭발***",
+      "TW": "***10秒後TNT爆炸***"
+    }
   },
   "***TNT EXPLODING IN 5 SECONDS***": {
     "translation": "还剩5s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***TNT 爆発まで5秒***",
+      "CN": "***TNT 5秒后爆炸***",
+      "KR": "*** TNT 5초 후 폭발***",
+      "TW": "***5秒後TNT爆炸***"
+    }
   },
   "***GOGO.. GET TO THE SLIP GATE***": {
-    "translation": "走走走"
+    "translation": "走走走",
+    "MultiLang": {
+      "US": "",
+      "JP": "***GOGO.. スリップゲートへ急げ***",
+      "CN": "***快...去传送门***",
+      "KR": "*** GO.. 슬립 게이트로 이동 ***",
+      "TW": "GOGO..去前往滑門****"
+    }
   },
   "***AFK TELE TO CAGE IN 15 SECONDS**": {
     "translation": "15s后传送AFK玩家",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後にAFKテレポートでケージに移動**",
+      "CN": "***AFK传送到笼中 15秒后***",
+      "KR": "*** 15초 후 무반응 시 케이지로 텔레포트**",
+      "TW": "***15秒後傳送至牢房**"
+    }
   },
   "***THE SWORD HAS BEEN PICKED UP***": {
-    "translation": "捡起了大宝剑"
+    "translation": "捡起了大宝剑",
+    "MultiLang": {
+      "US": "",
+      "JP": "***剣を回収した***",
+      "CN": "***剑已被拾取***",
+      "KR": "*** 검을 획득했습니다***",
+      "TW": "***已拾取劍***"
+    }
   },
   "***AFK TELE 2 TELEPORTING IN 20 SECONDS***": {
     "translation": "20s后传送AFK玩家",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***AFK TELE 2 テレポートまで残り20秒***",
+      "CN": "***AFK TELE 2 传送中，剩余20秒***",
+      "KR": "***AFK 텔레포트 2번, 20초 후 텔레포트***",
+      "TW": "***AFK玩家2號，20秒後傳送***"
+    }
   },
   "***DOOR OPENING IN 15 SECONDS***": {
-    "translation": "15s后门开"
+    "translation": "15s后门开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアオープンまで残り15秒***",
+      "CN": "***门将在15秒后开启***",
+      "KR": "***문 15초 후 열림***",
+      "TW": "***門將于15秒後開啟***"
+    }
   },
   "***DOOR OPENING IN 10 SECONDS***": {
     "translation": "10s后门开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアオープンまで残り10秒***",
+      "CN": "***门将在10秒后开启***",
+      "KR": "***문 10초 후 열림***",
+      "TW": "***門將于10秒後開啟***"
+    }
   },
   "***DOOR OPENING IN 5 SECONDS***": {
     "translation": "5s后门开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアオープンまで残り5秒***",
+      "CN": "***门将在5秒后开启***",
+      "KR": "***문 5초 후 열림***",
+      "TW": "***門將于5秒後開啟***"
+    }
   },
   "***DOOR OPEN... RUN!!***": {
-    "translation": "门开了...快跑！"
+    "translation": "门开了...快跑！",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ドアーオーペン... 逃げろ!!***",
+      "CN": "***门开... 快跑！！***",
+      "KR": "***문 열림... 도망쳐!!***",
+      "TW": "***門即將開...快跑！***"
+    }
   },
   "***DEFEND THE CASTLE DOORS***": {
-    "translation": "守住城堡大门"
+    "translation": "守住城堡大门",
+    "MultiLang": {
+      "US": "***DEFEND THE CASTLE GATES***",
+      "JP": "***城のドアを守れ***",
+      "CN": "***守住城堡大门***",
+      "KR": "***성 문 방어***",
+      "TW": "防守城堡的大門***"
+    }
   },
   "***SWORD READY***": {
-    "translation": "大宝剑就绪"
+    "translation": "大宝剑就绪",
+    "MultiLang": {
+      "US": "",
+      "JP": "***剣準備完了***",
+      "CN": "剑已准备好***",
+      "KR": "***검 준비 완료***",
+      "TW": "***準備好你的劍***"
+    }
   },
   "***GO GO.. GET TO THE MINE!***": {
-    "translation": "走...走，去矿山"
+    "translation": "走...走，去矿山",
+    "MultiLang": {
+      "US": "",
+      "JP": "***さあ、行け!! ミネへ向かえ!***",
+      "CN": "***冲啊！去矿井！***",
+      "KR": "***서두르고.. 광산으로 가자!***",
+      "TW": "***快去...前往礦區！***"
+    }
   },
   "***TROLL FACE HAS BEEN PICKED UP***": {
-    "translation": "巨魔时间到"
+    "translation": "巨魔时间到",
+    "MultiLang": {
+      "US": "",
+      "JP": "***トロルフェイスを拾いました***",
+      "CN": "***已拾取TROLL图标***",
+      "KR": "***트롤 얼굴을 주웠습니다***",
+      "TW": "***已取得惡作劇面具***"
+    }
   },
   "***YOU BE TROLL'IN***": {
-    "translation": "你被巨魔了"
+    "translation": "你被巨魔了",
+    "MultiLang": {
+      "US": "",
+      "JP": "***やばい、だまされた***",
+      "CN": "***你在搞偷袭***",
+      "KR": "***요리 중***",
+      "TW": "***你真的在惡搞***"
+    }
   },
   "***CREEPER HEAD HAS BEEN PICKED UP***": {
-    "translation": "捡起爬山虎头"
+    "translation": "捡起爬山虎头",
+    "MultiLang": {
+      "US": "",
+      "JP": "***クリーパーの頭を拾いました***",
+      "CN": "***已拾取爬行者头颅***",
+      "KR": "***크리퍼 머리을 주웠습니다***",
+      "TW": "***已取得爬行者頭顱***"
+    }
   },
   "***DEFEND FOR 35 SECONDS***": {
-    "translation": "守住35s"
+    "translation": "守住35s",
+    "MultiLang": {
+      "US": "",
+      "JP": "***35秒間防衛してください***",
+      "CN": "***坚守阵地，持续35秒***",
+      "KR": "***35초 동안 방어하세요***",
+      "TW": "***防禦 35 秒***"
+    }
   },
   "***MINE CARTS ARRIVE IN 30 SECONDS***": {
-    "translation": "30s后矿车抵达"
+    "translation": "30s后矿车抵达",
+    "MultiLang": {
+      "US": "",
+      "JP": "***トロッコが30秒後に到着***",
+      "CN": "***矿车将在30秒后抵达***",
+      "KR": "***광산 수레가 30초 후에 도착합니다***",
+      "TW": "***礦車將在 30 秒後抵達***)"
+    }
   },
   "***MINE CARTS ARRIVE IN 25 SECONDS***": {
     "translation": "25s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***トロッコが25秒後に到着***",
+      "CN": "***矿车将在25秒后抵达***",
+      "KR": "***광산 수레가 25초 후에 도착합니다***",
+      "TW": "***礦車將在 25 秒後抵達***"
+    }
   },
   "***MINE CARTS ARRIVE IN 20 SECONDS***": {
     "translation": "20s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***トロッコが20秒後に到着***",
+      "CN": "***矿车将在20秒后抵达***",
+      "KR": "***광산 수레가 20초 후에 도착합니다***",
+      "TW": "***礦車將在 20 秒後抵達***"
+    }
   },
   "***MINE CARTS ARRIVE IN 15 SECONDS***": {
     "translation": "15s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "***MINE Carts Arrive in 15 Seconds***",
+      "JP": "***トロッコが15秒後に到着***",
+      "CN": "***矿车将在15秒后抵达***",
+      "KR": "***광산 수레가 15초 후에 도착합니다***",
+      "TW": "***礦車將在 15 秒後抵達***"
+    }
   },
   "***MINE CARTS ARRIVE IN 10 SECONDS***": {
     "translation": "10s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***トロッコが10秒後に到着します***",
+      "CN": "***矿车将在 10 秒后到达***",
+      "KR": "***10초 후 광산 레이다 도착***",
+      "TW": "***矿车将在10秒後到達***"
+    }
   },
   "***MINE CARTS ARRIVE IN 5 SECONDS***": {
     "translation": "5s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***トロッコが5秒後に到着します***",
+      "CN": "***矿车将在 5 秒后到达***",
+      "KR": "***5초 후 광산 레이다 도착***",
+      "TW": "***矿车將在5秒後到達***"
+    }
   },
   "***GET ON TOP OF THE MINE CARTS***": {
-    "translation": "上矿车（别站车头"
+    "translation": "上矿车（别站车头",
+    "MultiLang": {
+      "US": "",
+      "JP": "***トロッコに乗れ***",
+      "CN": "***跳上矿车***",
+      "KR": "***광산 레이다 위에 오세요***",
+      "TW": "***登上矿车***"
+    }
   },
   "***BUNKER HAS BEEN REACHED***": {
-    "translation": "到达庇护所"
+    "translation": "到达庇护所",
+    "MultiLang": {
+      "US": "",
+      "JP": "***掩蔽部到達***",
+      "CN": "已到达掩体***",
+      "KR": "***벙커 도착***",
+      "TW": "***已到达地堡***"
+    }
   },
   "***BUNKER DOOR OPENING IN 20 SECONDS***": {
-    "translation": "庇护所大门20s后开"
+    "translation": "庇护所大门20s后开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***掩蔽部の扉が20秒後に開きます***",
+      "CN": "***掩体门将在 20 秒后开启***",
+      "KR": "***벙커 문 20초 후 오픈***",
+      "TW": "***地堡門将在20秒後開啟***"
+    }
   },
   "***DEFEND THE RAILWAY TRACK***": {
-    "translation": "守住轨道"
+    "translation": "守住轨道",
+    "MultiLang": {
+      "US": "",
+      "JP": "***線路を防衛せよ***",
+      "CN": "***防守铁轨***",
+      "KR": "***철도 방어***",
+      "TW": "***防守鐵路軌道***"
+    }
   },
   "***BUNKER DOOR OPENING IN 15 SECONDS***": {
-    "translation": "庇护所大门还有15s"
+    "translation": "庇护所大门还有15s",
+    "MultiLang": {
+      "US": "",
+      "JP": "***掩蔽部の扉が15秒後に開きます***",
+      "CN": "***掩体门将在 15 秒后开启***",
+      "KR": "***벙커 문 15초 후 오픈***",
+      "TW": "***地堡門将在15秒後開啟***"
+    }
   },
   "***BUNKER DOOR OPENING IN 10 SECONDS***": {
     "translation": "10s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***掩蔽部の扉が10秒後に開きます***",
+      "CN": "***掩体门将在 10 秒后开启***",
+      "KR": "***벙커 문 10초 후 오픈***",
+      "TW": "***地堡門将在10秒後開啟***"
+    }
   },
   "***BUNKER DOOR OPENING IN 5 SECONDS***": {
     "translation": "5s",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "***Bunker Door Opening in 5 Seconds***",
+      "JP": "***バンカー扉、5秒後に開きます***",
+      "CN": "***掩体门将在5秒后开启***",
+      "KR": "***벙커 문 5초 후 개방***",
+      "TW": "***掩體門將在5秒後開啟***"
+    }
   },
   "***BUNKER DOOR OPEN!***": {
-    "translation": "门开了"
+    "translation": "门开了",
+    "MultiLang": {
+      "US": "",
+      "JP": "***バンカー扉、開きました！***",
+      "CN": "***掩体门已开启***",
+      "KR": "***벙커 문 개방!***",
+      "TW": "***掩體門已開啟！***"
+    }
   },
   "***GET INSIDE THE BUNKER***": {
-    "translation": "快进去"
+    "translation": "快进去",
+    "MultiLang": {
+      "US": "",
+      "JP": "***バンカー内に進入***",
+      "CN": "***进入掩体***",
+      "KR": "***벙커 안으로 이동***",
+      "TW": "***進入掩體***"
+    }
   },
   "***BUNKER DOOR CLOSING***": {
-    "translation": "大门关闭中"
+    "translation": "大门关闭中",
+    "MultiLang": {
+      "US": "***Bunker Door Closing***",
+      "JP": "***バンカー扉、閉鎖中***",
+      "CN": "***掩体门即将关闭***",
+      "KR": "***벙커 문 닫힘***",
+      "TW": "***掩體門即將關閉***"
+    }
   },
   "***NUKE LAUNCHED! ***": {
-    "translation": "发射核弹"
+    "translation": "发射核弹",
+    "MultiLang": {
+      "US": "",
+      "JP": "***核ミサイル発射！***",
+      "CN": "***核弹已发射！***",
+      "KR": "핵탄두 발사! ***",
+      "TW": "***核子武器已發射！***"
+    }
   },
   "***THE BOW HAS BEEN PICKED UP***": {
-    "translation": "弓被捡起"
+    "translation": "弓被捡起",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ボウを持っていました***",
+      "CN": "已拾取弓箭***",
+      "KR": "***활을 획득했습니다***",
+      "TW": "已拾取弓***"
+    }
   },
   "***PUMPKIN HEAD HAS BEEN PICKED UP***": {
-    "translation": "南瓜头被捡起"
+    "translation": "南瓜头被捡起",
+    "MultiLang": {
+      "US": "",
+      "JP": "***パンプキンヘッドを持っていました***",
+      "CN": "***已拾取南瓜头***",
+      "KR": "***호박 머리 아이템을 획득했습니다***",
+      "TW": "***已拾取南瓜頭***"
+    }
   },
   "***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ボート内にゾンビを検知***",
+      "CN": "侦测到船上存在僵尸***",
+      "KR": "***배 안에서 좀비 감지됨***",
+      "TW": "檢測到船上有一名殭屍***"
+    }
   },
   "***BOAT SELF DESTRUCT!!***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "※ボート 自爆開始※",
+      "CN": "***船只自毁程序启动！***\n###",
+      "KR": "***보트 자동 붕괴!!***",
+      "TW": "***自爆裝置啟動！！***"
+    }
   }
 }

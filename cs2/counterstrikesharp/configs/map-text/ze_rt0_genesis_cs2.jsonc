@@ -1,221 +1,772 @@
 {
   " ** 10s **": {
-    "translation": "**10秒**"
+    "translation": "**10秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒後 **",
+      "CN": "** 10秒 **",
+      "KR": "10초",
+      "TW": "10 秒"
+    }
   },
   " ** 15s **": {
-    "translation": "**15秒**"
+    "translation": "**15秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒後 **",
+      "CN": "** 15秒 **",
+      "KR": "15초",
+      "TW": "15 秒"
+    }
   },
   " ** 20s **": {
-    "translation": "**20秒**"
+    "translation": "**20秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒後 **",
+      "CN": "** 20秒 **",
+      "KR": "20초",
+      "TW": "20 秒"
+    }
   },
   " ** 30s **": {
-    "translation": "**30秒**"
+    "translation": "**30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒後 **",
+      "CN": "** 30秒 **",
+      "KR": "30초",
+      "TW": "30 秒"
+    }
   },
   " ** 45s **": {
-    "translation": "**45秒**"
+    "translation": "**45秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 45秒後 **",
+      "CN": "** 45秒 **",
+      "KR": "45초",
+      "TW": "45 秒"
+    }
   },
   " ** lift was broken keep holding  **": {
-    "translation": "**升降机坏了，继续防守**"
+    "translation": "**升降机坏了，继续防守**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** リフト故障中、持ち続けろ **",
+      "CN": "** 电梯故障，请持续按住 **",
+      "KR": "리프트 고장, 계속 누르세요",
+      "TW": "電梯故障，請繼續按住"
+    }
   },
   "** --Female martial god-- **": {
-    "translation": "**--女武神--**"
+    "translation": "**--女武神--**",
+    "MultiLang": {
+      "US": "** --Female Martial God-- **",
+      "JP": "** --female martial god-- **",
+      "CN": "** --女性武神-- **",
+      "KR": "--- 여무신 ---",
+      "TW": "--女性武神--"
+    }
   },
   "** 1 **": {
-    "translation": "**1**"
+    "translation": "**1**",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 10s **": {
-    "translation": "**10秒**"
+    "translation": "**10秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 10秒後 **",
+      "CN": "** 10秒 **",
+      "KR": "10초",
+      "TW": "10 秒"
+    }
   },
   "** 15s **": {
-    "translation": "**15秒**"
+    "translation": "**15秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒後 **",
+      "CN": "15秒",
+      "KR": "** 15초 **",
+      "TW": "15秒"
+    }
   },
   "** 18s **": {
-    "translation": "**18秒**"
+    "translation": "**18秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 18秒後 **",
+      "CN": "18秒",
+      "KR": "** 18초 **",
+      "TW": "18秒"
+    }
   },
   "** 2 **": {
-    "translation": "**2**"
+    "translation": "**2**",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 20s **": {
-    "translation": "**20秒**"
+    "translation": "**20秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 20秒後 **",
+      "CN": "20秒",
+      "KR": "** 20초 **",
+      "TW": "20秒"
+    }
   },
   "** 25s **": {
-    "translation": "**25秒**"
+    "translation": "**25秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 25秒後 **",
+      "CN": "25秒",
+      "KR": "** 25초 **",
+      "TW": "25秒"
+    }
   },
   "** 3 **": {
-    "translation": "**3秒**"
+    "translation": "**3秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "**3秒**",
+      "KR": "",
+      "TW": ""
+    }
   },
   "** 30s **": {
-    "translation": "**30秒**"
+    "translation": "**30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒後 **",
+      "CN": "30秒",
+      "KR": "** 30초 **",
+      "TW": "30秒"
+    }
   },
   "** 35s **": {
-    "translation": "**35秒**"
+    "translation": "**35秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 35秒後 **",
+      "CN": "35秒",
+      "KR": "** 35초 **",
+      "TW": "35秒"
+    }
   },
   "** 40s **": {
-    "translation": "**40秒**"
+    "translation": "**40秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 40秒後 **",
+      "CN": "40秒",
+      "KR": "** 40초 **",
+      "TW": "40秒"
+    }
   },
   "** 50s **": {
-    "translation": "**50秒**"
+    "translation": "**50秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 50秒後 **",
+      "CN": "50秒",
+      "KR": "** 50초 **",
+      "TW": "50秒"
+    }
   },
   "** T3 **": {
-    "translation": "**T3**"
+    "translation": "**T3**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** T3 **",
+      "CN": "** T3 **",
+      "KR": "** T3 **",
+      "TW": "** T3 **"
+    }
   },
   "** Throw the book to the opposite altar **": {
-    "translation": "**把书扔到对面的祭坛**"
+    "translation": "**把书扔到对面的祭坛**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 本を反対側の祭壇に投げる **",
+      "CN": "把书扔到对面的祭坛上",
+      "KR": "** 책 던지기 - 반대쪽 제단 **",
+      "TW": "** 將書本投擲至對面的祭壇 **"
+    }
   },
   "** another door **": {
-    "translation": "**另一个门**"
+    "translation": "**另一个门**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** もう一つの扉 **",
+      "CN": "另一扇门",
+      "KR": "** 다른 문 **",
+      "TW": "** 另一扇門 **"
+    }
   },
   "** bomb **": {
-    "translation": "**炸弹**"
+    "translation": "**炸弹**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 爆弾 **",
+      "CN": "炸弹",
+      "KR": "** 폭탄 **",
+      "TW": "** 炸彈 **"
+    }
   },
   "** fight 40s **": {
-    "translation": "**战斗40秒**"
+    "translation": "**战斗40秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 40秒間戦う **",
+      "CN": "战斗 40 秒",
+      "KR": "** 40초 전투 **",
+      "TW": "** 戰鬥 40秒 **"
+    }
   },
   "** fuhua got increase **": {
-    "translation": "**符华升级**"
+    "translation": "**符华升级**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 鳳凰が強化された **",
+      "CN": "复活后获得增强",
+      "KR": "** 부활 증가 **",
+      "TW": "** 復活效果增加 **"
+    }
   },
   "** gravity **": {
-    "translation": "**黑洞**"
+    "translation": "**黑洞**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 重力 **",
+      "CN": "重力",
+      "KR": "** 중력 **",
+      "TW": "** 重力 **"
+    }
   },
   "** health **": {
-    "translation": "**治疗**"
+    "translation": "**治疗**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 体力 **",
+      "CN": "生命值",
+      "KR": "** 체력 **",
+      "TW": "** 生命值 **"
+    }
   },
   "** her health can heal huamn  **": {
-    "translation": "**她可以治愈人类**"
+    "translation": "**她可以治愈人类**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** その彼女の健康は人間を回復させる **",
+      "CN": "**她的生命值可以治愈人类**",
+      "KR": "** 그녀의 체력으로 인간을 치료할 수 있음 **",
+      "TW": "她的生命值可治療人類"
+    }
   },
   "** hold on 30s **": {
-    "translation": "**防守30秒**"
+    "translation": "**防守30秒**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 30秒待って **",
+      "CN": "**坚持30秒**",
+      "KR": "** 30초 유지 **",
+      "TW": "請再堅持30秒"
+    }
   },
   "** human got heal can increase their speed  **": {
-    "translation": "**人类获得治疗后可以提升速度**"
+    "translation": "**人类获得治疗后可以提升速度**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 人間の健康が回復すると、速度が増す **",
+      "CN": "**人类被治愈后可提升速度**",
+      "KR": "** 인간 치유 시 이동 속도 증가 **",
+      "TW": "人類獲得治療後可提升移動速度"
+    }
   },
   "** ice **": {
-    "translation": "**冰**"
+    "translation": "**冰**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 氷 **",
+      "CN": "**冰**",
+      "KR": "** 아이스 **",
+      "TW": "冰凍"
+    }
   },
   "** lightening **": {
-    "translation": "**电**"
+    "translation": "**电**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 雷撃 **",
+      "CN": "**闪电**",
+      "KR": "** 번개 **",
+      "TW": "閃電"
+    }
   },
   "** painted eggshell **": {
-    "translation": "**彩蛋**"
+    "translation": "**彩蛋**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** ペイントした卵殻 **",
+      "CN": "**彩绘蛋壳**",
+      "KR": "** 페인트 껍질 **",
+      "TW": "塗色蛋殼"
+    }
   },
   "** position **": {
-    "translation": "**坐标**"
+    "translation": "**坐标**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 位置 **",
+      "CN": "**位置**",
+      "KR": "** 위치 **",
+      "TW": "位置"
+    }
   },
   "** sharp wind **": {
-    "translation": "**直线风**"
+    "translation": "**直线风**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 鋭い風 **",
+      "CN": "**疾风**",
+      "KR": "** 날카로운 바람 **",
+      "TW": "強風"
+    }
   },
   "** shield **": {
-    "translation": "**护盾**"
+    "translation": "**护盾**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** シールド **",
+      "CN": "盾牌",
+      "KR": "방패",
+      "TW": "護盾"
+    }
   },
   "** shoot mental door **": {
-    "translation": "**射击精神门**"
+    "translation": "**射击精神门**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** マインドドアを射擊する **",
+      "CN": "射击心灵之门",
+      "KR": "마음의 문을 쏴라",
+      "TW": "射擊心靈之門"
+    }
   },
   "** surround wind **": {
-    "translation": "**环形风**"
+    "translation": "**环形风**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 風に囲まれる **",
+      "CN": "旋风包围",
+      "KR": "바람으로 감싸기",
+      "TW": "包圍風"
+    }
   },
   "** vanish **": {
-    "translation": "**隐身**"
+    "translation": "**隐身**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 消滅する **",
+      "CN": "消失",
+      "KR": "사라지기",
+      "TW": "消失"
+    }
   },
   "** wall **": {
-    "translation": "**墙**"
+    "translation": "**墙**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 壁 **",
+      "CN": "墙壁",
+      "KR": "벽",
+      "TW": "牆壁"
+    }
   },
   "** you win **": {
-    "translation": "**你赢了**"
+    "translation": "**你赢了**",
+    "MultiLang": {
+      "US": "*** You win ***",
+      "JP": "** あなたの勝利です **",
+      "CN": "胜利",
+      "KR": "당신의 승리입니다",
+      "TW": "你贏了"
+    }
   },
   "*** spawnpoint push close in 5s ***": {
-    "translation": "***出生点推力5秒内关闭***"
+    "translation": "***出生点推力5秒内关闭***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** スパンポイント5秒以内に近接押下 ***",
+      "CN": "*** 出生点推进，5秒内抵达 ***",
+      "KR": "*** 5초 내 스폰포인트 압박 종료 ***",
+      "TW": "*** 5秒後生成點被關閉 ***"
+    }
   },
   "*** spwanpoint door break in 10s ??? ***": {
-    "translation": "***出生点门将在10秒后破裂???***"
+    "translation": "***出生点门将在10秒后破裂???***",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** スパンポイントドア10秒以内に破壊 ??? ***",
+      "CN": "*** 10秒内破坏出生点之门 ??? ***",
+      "KR": "*** 10초 내 스폰포인트 문 파괴 ***",
+      "TW": "*** 10秒內出生點門將被擊碎？？？ ***"
+    }
   },
   "*** why door still here ? hold zombie! ***": {
-    "translation": "***为什么门还在这里？防守僵尸！***"
+    "translation": "***为什么门还在这里？防守僵尸！***",
+    "MultiLang": {
+      "US": "*** why is the door still here? hold the zombie! ***",
+      "JP": "*** なぜドアはまだここにある？ ゾンビを抑えろ！ ***",
+      "CN": "*** 为什么门还在这？挡住僵尸！***",
+      "KR": "*** 문이 여전히 여기에 있다? 좀비를 붙잡아라! ***",
+      "TW": "*** 門怎麼還在？擋住殭屍！***"
+    }
   },
   "**4**": {
-    "translation": "**4**"
+    "translation": "**4**",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "**A player has picked up the book**": {
-    "translation": "**一名玩家拾取了书**"
+    "translation": "**一名玩家拾取了书**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** プレイヤーが本を拾った **",
+      "CN": "**一名玩家已拾取书籍**",
+      "KR": "**플레이어가 책을 집어 들었습니다**",
+      "TW": "**玩家撿起了書籍**"
+    }
   },
   "**ex open **": {
-    "translation": "**ex开启**"
+    "translation": "**ex开启**",
+    "MultiLang": {
+      "US": "",
+      "JP": "** exオープン **",
+      "CN": "**ex开启**",
+      "KR": "**ex 오픈 **",
+      "TW": "** 開啟 **"
+    }
   },
   "<--Blademaster-->": {
-    "translation": "<--剑圣-->"
+    "translation": "<--剑圣-->",
+    "MultiLang": {
+      "US": "",
+      "JP": "<--剣士-->",
+      "CN": "<--剑圣-->",
+      "KR": "<-블레이드매스터->",
+      "TW": "<-刀鋒舞者->"
+    }
   },
   "<--DC->": {
-    "translation": "<--dc-->"
+    "translation": "<--dc-->",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "<--Other world hero come to help->": {
-    "translation": "<--其他世界英雄来帮忙-->"
+    "translation": "<--其他世界英雄来帮忙-->",
+    "MultiLang": {
+      "US": "***Other World Hero Come to Help->",
+      "JP": "OTHER WORLD HERO 来助战->",
+      "CN": "<--其他世界英雄来帮忙-->",
+      "KR": "<--다른 세계의 히어로가 도움을 청함->",
+      "TW": "OTHER世界英雄來助戰->"
+    }
   },
   "<--knight-->": {
-    "translation": "<--高达-->"
+    "translation": "<--高达-->",
+    "MultiLang": {
+      "US": "-->Knight-->",
+      "JP": "<--騎士-->",
+      "CN": "<--高达-->",
+      "KR": "",
+      "TW": "<--騎士-->"
+    }
   },
   "<< Rclike and S+Lclike will make zombie remove more speed  >>": {
-    "translation": "<<Rclike和S+Lclike会让僵尸移除更多速度>>"
+    "translation": "<<Rclike和S+Lclike会让僵尸移除更多速度>>",
+    "MultiLang": {
+      "US": ">> Rclike and S+Lclike will make zombie removal faster  >>",
+      "JP": "<< RclikeとS+Lclikeはゾンビの除去速度をさらに高める >>",
+      "CN": "<< Rclike与S+Lclike组合可加快僵尸移除速度 >>",
+      "KR": "<< Rclike와 S+Llike은 좀비를 더 빠르게 제거합니다. >>",
+      "TW": "<< Rclike 和 S+Lclike 會加快殭屍移除速度 >>"
+    }
   },
   "<< Top E and SAWDL could make more damage >>": {
-    "translation": "<<TopE和SAWDL可以造成更多伤害>>"
+    "translation": "<<TopE和SAWDL可以造成更多伤害>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 上位EとSAWDLはより多くのダメージを与えられる >>",
+      "CN": "<< 顶级E技能与SAWDL组合可造成更高伤害 >>",
+      "KR": "<< Top E와 SAWDL은 더 큰 피해를 입힙니다. >>",
+      "TW": "<< Top E 和 SAWDL 能造成更多傷害 >>"
+    }
   },
   "<< all skin become stronger >>": {
-    "translation": "<<所有皮肤变得更强>>"
+    "translation": "<<所有皮肤变得更强>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< すべてのスキンが強化される >>",
+      "CN": "<< 所有皮肤变得更强壮 >>",
+      "KR": "<< 모든 스킨이 강화됩니다. >>",
+      "TW": "<< 所有皮膚變得更強 >>"
+    }
   },
   "<< blademaster good at stop muti zombie >>": {
-    "translation": "<<剑圣擅长阻止多头僵尸>>"
+    "translation": "<<剑圣擅长阻止多头僵尸>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ブレードマスターは複数のゾンビを停止するのが上手な職業 >>",
+      "CN": "<< 剑客擅长阻挡多个僵尸 >>",
+      "KR": "<< 블레이드마스터는 다중 좀비 저지에 능숙합니다. >>",
+      "TW": "<< 刀鋒大師擅長停止多隻殭屍 >>"
+    }
   },
   "<< caidan active >>": {
-    "translation": "<<彩单激活>>"
+    "translation": "<<彩单激活>>",
+    "MultiLang": {
+      "US": "<< menu activate >>",
+      "JP": "<< カイドン活性化 >>",
+      "CN": "<< 菜单激活 >>",
+      "KR": "<< 차단 활성화 >>",
+      "TW": "<< caidan 生效 >>"
+    }
   },
   "<< knight has strong strength and powerful skill >>": {
-    "translation": "<<高达拥有强大的力量和技能>>"
+    "translation": "<<高达拥有强大的力量和技能>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "騎士は強力な攻撃力と優れたスキルを持っています",
+      "CN": "<<骑士拥有强大的力量与技能>>",
+      "KR": "<< 기사에게 강력한 힘과 강력한 기술이 있음 >>",
+      "TW": "<< 騎士擁有強大的力量和強力的技能 >>"
+    }
   },
   "<<< 15s >>>": {
-    "translation": "<<<15秒>>>"
+    "translation": "<<<15秒>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< 15秒 >>>",
+      "CN": "<<< 15秒 >>>",
+      "KR": "<<< 15초 >>>",
+      "TW": "<< 15秒 >>"
+    }
   },
   "<<< ex1 >>>": {
-    "translation": "<<<ex1>>>"
+    "translation": "<<<ex1>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ex1 >>>",
+      "CN": "<<< ex1 >>>",
+      "KR": "<<< ex1 >>>",
+      "TW": "<< ex1 >>"
+    }
   },
   "<<< ex2 >>>": {
-    "translation": "<<<ex2>>>"
+    "translation": "<<<ex2>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< ex2 >>>",
+      "CN": "<<< ex2 >>>",
+      "KR": "<<< ex2 >>>",
+      "TW": "<< ex2 >>"
+    }
   },
   "<<< level-ex1 >>>": {
-    "translation": "<<<关卡-ex1>>>"
+    "translation": "<<<关卡-ex1>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< level-ex1 >>>",
+      "CN": "<<<< level-ex1 >>>",
+      "KR": "<<< level-ex1 >>>",
+      "TW": "<< 等級-ex1 >>"
+    }
   },
   "<<< level-ex2 >>>": {
-    "translation": "<<<关卡-ex2>>>"
+    "translation": "<<<关卡-ex2>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< level-ex2 >>>",
+      "CN": "<<< level-ex2 >>>",
+      "KR": "<<< level-ex2 >>>",
+      "TW": "<< 等級-ex2 >>"
+    }
   },
   "<<< level1 >>>": {
-    "translation": "<<<关卡1>>>"
+    "translation": "<<<关卡1>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< level1 >>>",
+      "CN": "<<< 第1级 >>>",
+      "KR": "<<< level1 >>>",
+      "TW": "<< 等級1 >>"
+    }
   },
   "<<< level2 >>>": {
-    "translation": "<<<关卡2>>>"
+    "translation": "<<<关卡2>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< level2 >>>",
+      "CN": "<<< 第2层 >>>",
+      "KR": "<<< level2 >>>",
+      "TW": "<< 等級2 >>"
+    }
   },
   "<<< level3 >>>": {
-    "translation": "<<<关卡3>>>"
+    "translation": "<<<关卡3>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< level3 >>>",
+      "CN": "<<<第3关卡>>>",
+      "KR": "<<< level3 >>>",
+      "TW": "<<< 等級3 >>>"
+    }
   },
   "<<< spawnpoint push disable >>>": {
-    "translation": "<<<出生点推力禁用>>>"
+    "translation": "<<<出生点推力禁用>>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<< spawnpoint push disable >>>",
+      "CN": "<<<生成点被禁止>>>",
+      "KR": "<<<<< spawnpoint push disable >>>>",
+      "TW": "<<重生點推送已停用>>"
+    }
   },
   "<<< 僵尸加速启动 >>>": {
-    "translation": "<<<僵尸加速启动>>>"
+    "translation": "<<<僵尸加速启动>>>",
+    "MultiLang": {
+      "US": "Zombie Acceleration Activated",
+      "JP": "ゾンビ加速起動",
+      "CN": "<<<僵尸加速启动>>>",
+      "KR": "좀비 가속 활성화",
+      "TW": "<<< 殭屍加速啟動 >>>"
+    }
   },
   "<<somewhere button has unlock>>": {
-    "translation": "<<某处按钮已解锁>>"
+    "translation": "<<某处按钮已解锁>>",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<somewhere button has unlock>>",
+      "CN": "<<某个按钮已解锁>>",
+      "KR": "<<somewhere button has unlock>>",
+      "TW": "<<某處按鈕已解鎖>>"
+    }
   },
   "<<高达被神秘能量侵蚀，获得全新的能力>>": {
-    "translation": "<<高达被神秘能量侵蚀，获得全新的能力>>"
+    "translation": "<<高达被神秘能量侵蚀，获得全新的能力>>",
+    "MultiLang": {
+      "US": "Gundam has been corroded by mysterious energy, gaining a new ability.",
+      "JP": "ガンダムが神秘的なエネルギーに侵され、新たな能力を獲得しました。",
+      "CN": "<<高达被神秘能量侵蚀，获得全新的能力>>",
+      "KR": "건담이 신비한 에너지에 침식되어 새로운 능력을 얻었습니다.",
+      "TW": "<<鋼彈被神秘能量侵蝕，獲得全新能力。>>"
+    }
   },
   "Version 24.9.30 01": {
-    "translation": "版本24.9.3001"
+    "translation": "版本24.9.3001",
+    "MultiLang": {
+      "US": "",
+      "JP": "Version 24.9.30 01",
+      "CN": "版本24.9.30 01",
+      "KR": "Version 24.9.30 01",
+      "TW": "版本 24.9.30 01"
+    }
   },
   "dc": {
-    "translation": "dc"
+    "translation": "dc",
+    "MultiLang": {
+      "US": "",
+      "JP": "dc",
+      "CN": "dc",
+      "KR": "dc",
+      "TW": "dc"
+    }
   },
   "red": {
-    "translation": "红色"
+    "translation": "红色",
+    "MultiLang": {
+      "US": "",
+      "JP": "red",
+      "CN": "红",
+      "KR": "red",
+      "TW": "red"
+    }
   },
   "炎龙铠甲，合体！！": {
-    "translation": "炎龙铠甲，合体！！"
+    "translation": "炎龙铠甲，合体！！",
+    "MultiLang": {
+      "US": "Flame Dragon Armor, Combine!!",
+      "JP": "炎龍铠甲、合体！！",
+      "CN": "炎龙铠甲，合体！！",
+      "KR": "염룡 갑옷, 합체!!",
+      "TW": "炎龍鎧甲，合體！！"
+    }
+  },
+  "<< 25s后处死还在出生点的人类>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Humans still at spawn will be executed in 25s >>",
+      "JP": "<< 25秒後に出生地点の人類を処刑 >>",
+      "CN": "",
+      "KR": "<< 25초 후 출생 지점의 인간 처刑 >>",
+      "TW": "<< 25秒後處決仍在出生點的人類 >>"
+    }
+  },
+  "<< 你待的太久了 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< You've stayed too long >>",
+      "JP": "<< そこに留まりすぎだ >>",
+      "CN": "<< 你待得 too 长了 >>",
+      "KR": "<< 너가 너무 오래 있었어 >>",
+      "TW": "<< 你待得太久了 >>"
+    }
+  },
+  "<<僵尸触碰了终点，人类失败>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Zombies touched the endpoint; humans fail >>",
+      "JP": "<< ゾンビがゴールに触れた。人類の負け >>",
+      "CN": "",
+      "KR": "<< 좀비가 목적지에 닿았음, 인간 패배 >>",
+      "TW": "<< 殭屍觸碰終點，人類失敗 >>"
+    }
+  },
+  "** lift was broken keep holding  **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** リフトは壊れているので持ち続けること **",
+      "CN": "**举升机损坏，请持续按住**",
+      "KR": "** 엘리베이터가 고장남 계속 들고 있음 **",
+      "TW": "升降機故障 請繼續等候"
+    }
   }
 }

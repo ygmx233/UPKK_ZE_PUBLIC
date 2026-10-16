@@ -1,169 +1,522 @@
 {
   "***Zombie ladder is down***": {
-    "translation": "僵尸梯子倒了"
+    "translation": "僵尸梯子倒了",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビの梯子が下降中***",
+      "CN": "***丧尸梯已关闭***",
+      "KR": "***좀비 사다리가 내려졌습니다***",
+      "TW": "***殭屍梯已降***"
+    }
   },
   "***Lift is leaving***": {
-    "translation": "电梯离开"
+    "translation": "电梯离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***リフトが離陸します***",
+      "CN": "***货梯即将离开***",
+      "KR": "***엘리베이터가 떠납니다***",
+      "TW": "***電梯即將離開***"
+    }
   },
   "***Wait for the exterior doors to open, 20 seconds***": {
-    "translation": "等待外门打开，20秒"
+    "translation": "等待外门打开，20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "***外側の扉が開くのを待つ、20秒***",
+      "CN": "***等待外部门打开，还有 20 秒***",
+      "KR": "***외부 문이 열릴 때까지 기다려 주세요, 20초***",
+      "TW": "等待外門打開，倒數 20 秒***"
+    }
   },
   "***Exterior doors are opening, 8 seconds till bunker door opens***": {
-    "translation": "外门打开，8秒后地堡门打开"
+    "translation": "外门打开，8秒后地堡门打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***外側の扉が開いている、8秒後に bunker 扉が開く***",
+      "CN": "***外部门正在打开，距掩体门开启还有 8 秒***",
+      "KR": "***외부 문이 열립니다, 벙커 문이 열리는 데 8초 남음***",
+      "TW": "***外門正在開啟，防彈倉庫門將在 8 秒後打開***"
+    }
   },
   "***Bunker doors are opening***": {
-    "translation": "地堡门打开"
+    "translation": "地堡门打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***bunker 扉が開いている***",
+      "CN": "***掩体门正在打开***",
+      "KR": "***벙커 문이 열립니다***",
+      "TW": "***防彈倉庫門正在開啟***"
+    }
   },
   "***Press the button to call for the nuke!***": {
-    "translation": "按下按钮呼叫核弹！"
+    "translation": "按下按钮呼叫核弹！",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ボタンを押して核攻撃を呼び出せ！***",
+      "CN": "***按下按钮呼叫核打击！***",
+      "KR": "***원자력 폭격 호출 버튼을 누르세요!***",
+      "TW": "***按下按鈕呼叫核武打擊！***"
+    }
   },
   "***Helicopter is leaving in 5 seconds***": {
-    "translation": "直升机5秒后离开"
+    "translation": "直升机5秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ヘリコプターが5秒後に離陸します***",
+      "CN": "直升机5秒后离开***",
+      "KR": "***헬리콥터가 5초 후에 떠납니다***",
+      "TW": "***直升機即將於 5 秒後離開***"
+    }
   },
   "__The boats hatch can only be opened from this side__": {
-    "translation": "船只舱门只能从这边打开"
+    "translation": "船只舱门只能从这边打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "__この側のボートハッチは開けられません__",
+      "CN": "__舱盖只能从这一侧打开__",
+      "KR": "__보트 해치는 이 쪽에서만 열 수 있습니다__",
+      "TW": "__此側無法打開船艙甲板__"
+    }
   },
   "***Special Thanks to Sleepy and Neuro Toxin***": {
-    "translation": "特别鸣谢：Sleepy 和 Neuro Toxin"
+    "translation": "特别鸣谢：Sleepy 和 Neuro Toxin",
+    "MultiLang": {
+      "US": "",
+      "JP": "***SleppyおよびNeuro Toxinの皆様に特別なお礼***",
+      "CN": "***特别感谢Sleepy和Neuro Toxin***",
+      "KR": "***슬피와 신경 독약에게 감사드립니다***",
+      "TW": "***特別感謝 Sleepy 和 Neuro Toxin***"
+    }
   },
   "[***Map made by AttenseFX***]": {
-    "translation": "[地图制作：AttenseFX 翻译：秋刀鱼］"
+    "translation": "[地图制作：AttenseFX 翻译：秋刀鱼］",
+    "MultiLang": {
+      "US": "",
+      "JP": "[***マップ作成：AttenseFX***]",
+      "CN": "[***地图由AttenseFX制作***]",
+      "KR": "[***AttenseFX 님이 만든 맵***]",
+      "TW": "[***地圖由 AttenseFX 製作***]"
+    }
   },
   "--------Get out and fight you cowards!--------": {
-    "translation": "--------，出来战斗吧，你们这些胆小鬼！--------"
+    "translation": "--------，出来战斗吧，你们这些胆小鬼！--------",
+    "MultiLang": {
+      "US": "",
+      "JP": "--------出てこいや、臆病者ども！--------",
+      "CN": "--------滚出去战斗，你们这群懦夫！--------",
+      "KR": "--------겁쟁이들이야, 나와서 싸워라!--------",
+      "TW": "--------滾出去戰鬥，你們這群懦夫！--------"
+    }
   },
   "***Shoot a path through the wall or we will crash!***": {
-    "translation": "射出一条穿过墙壁的通道，否则我们就会坠毁！"
+    "translation": "射出一条穿过墙壁的通道，否则我们就会坠毁！",
+    "MultiLang": {
+      "US": "",
+      "JP": "***壁を突破して進まないなら、墜落するぞ！***",
+      "CN": "***炸开一堵墙的路，否则我们就要坠毁了！***",
+      "KR": "***벽을 뚫고 길을 내거나, 우리는 추락할 것이다!***",
+      "TW": "***射穿牆壁開條路，否則我們會墜毀！***"
+    }
   },
   "[Melon]": {
-    "translation": "[甜瓜]"
+    "translation": "[甜瓜]",
+    "MultiLang": {
+      "US": "",
+      "JP": "[メロン]",
+      "CN": "[西瓜]",
+      "KR": "[멜론]",
+      "TW": "[哈密瓜]"
+    }
   },
   "=--[Get off the Helicopter and help defend]--=": {
-    "translation": "=---[从直升机上下来帮助防守]--="
+    "translation": "=---[从直升机上下来帮助防守]--=",
+    "MultiLang": {
+      "US": "",
+      "JP": "=[ヘリコプターから降りて防衛に加われ]=",
+      "CN": "=--[离开直升机，帮助防守]--=",
+      "KR": "=--[헬리콥터에서 내려 방어에 돕기]--=",
+      "TW": "=--[離開直升機並協助防禦]--="
+    }
   },
   "***Shoot the rock sticking out of the wall!***": {
-    "translation": "射击墙上突出的岩石！"
+    "translation": "射击墙上突出的岩石！",
+    "MultiLang": {
+      "US": "",
+      "JP": "***壁に突き出た岩を撃て！***",
+      "CN": "***射击墙上凸出的岩石！***",
+      "KR": "***벽에서 튀어나온 바위를 쏴라!***",
+      "TW": "***射擊牆壁凸出的岩石！***"
+    }
   },
   "***Teleport past the course is now enabled***": {
-    "translation": "现在已启用 瞬移穿越 功能"
+    "translation": "现在已启用 瞬移穿越 功能",
+    "MultiLang": {
+      "US": "",
+      "JP": "***コスパ上級者のための瞬間移動が有効化された***",
+      "CN": "***跳过路线的传送功能已启用***",
+      "KR": "***코스 건너뛰기 텔레포트 활성화됨***",
+      "TW": "***已啟用跳過關卡功能***"
+    }
   },
   "***Shoot at the tree or we will crash!***": {
-    "translation": "向树上射击，否则我们将坠毁"
+    "translation": "向树上射击，否则我们将坠毁",
+    "MultiLang": {
+      "US": "",
+      "JP": "***木を撃て、じゃなきゃ墜落するぞ！***",
+      "CN": "***朝树射击，否则我们会坠毁！***",
+      "KR": "***나무를 쏴라! 안 그러면 추락한다!***",
+      "TW": "***射擊樹木，否則我們會墜毀！***"
+    }
   },
   "***Speed Boats have left***": {
-    "translation": "快艇已离开"
+    "translation": "快艇已离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***高速ボートが出航した***",
+      "CN": "***快艇已离开***",
+      "KR": "***고속 정글선이 떠났습니다***",
+      "TW": "***快艇已離開***"
+    }
   },
   "***Speed Boats are leaving in 8 seconds***": {
-    "translation": "快艇将在8秒后离开"
+    "translation": "快艇将在8秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***高速ボートが8秒後に出航します***",
+      "CN": "***快艇将在8秒后离港***",
+      "KR": "***고속 정글선이 8초 후에 출발합니다***",
+      "TW": "***快艇將在8秒後離開***"
+    }
   },
   "--------Laser initiating (Crouch!)--------": {
-    "translation": "-------- 激光启动（蹲下！）--------"
+    "translation": "-------- 激光启动（蹲下！）--------",
+    "MultiLang": {
+      "US": "",
+      "JP": "--------レーザー開始（しゃがみ）--------",
+      "CN": "--------激光启动（请蹲下！）--------",
+      "KR": "--------레이저 발사 시작 (무릎 꿇기!)--------",
+      "TW": "--------雷射啟動中（蹲下！）--------"
+    }
   },
   "***Nuclear bomb on it's way doors closing in 20 seconds***": {
-    "translation": "核弹已发出，20秒后关闭舱门"
+    "translation": "核弹已发出，20秒后关闭舱门",
+    "MultiLang": {
+      "US": "",
+      "JP": "***核爆弾接近、20秒後に扉閉鎖***",
+      "CN": "***核弹即将来袭，车门将在20秒后关闭***",
+      "KR": "***핵폭탄 도착, 20초 후에 문 닫힘***",
+      "TW": "***核彈即將到達，門將在20秒後關閉***"
+    }
   },
   "***Nuclear bomb has been sent***": {
-    "translation": "核弹已发送"
+    "translation": "核弹已发送",
+    "MultiLang": {
+      "US": "",
+      "JP": "***核爆弾を発射***",
+      "CN": "***核弹已发射***",
+      "KR": "***핵폭탄이 발사되었습니다***",
+      "TW": "***已發送核彈***"
+    }
   },
   "***Detonation in 3***": {
-    "translation": "3 秒后引爆"
+    "translation": "3 秒后引爆",
+    "MultiLang": {
+      "US": "",
+      "JP": "***3秒後に爆発***",
+      "CN": "***引爆倒计时3***",
+      "KR": "***폭발 3초 전***",
+      "TW": "***三秒後引爆***"
+    }
   },
   "***2***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***1***": {
-    "translation": ""
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
   },
   "***Hold here for 45 seconds***": {
-    "translation": "在此停留45秒"
+    "translation": "在此停留45秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ここで45秒間待機***",
+      "CN": "***坚守阵地45秒***",
+      "KR": "***45초간这里에 머무르세요***",
+      "TW": "***請在此防守45秒***"
+    }
   },
   "***Drawbridge is down***": {
-    "translation": "吊桥已关闭"
+    "translation": "吊桥已关闭",
+    "MultiLang": {
+      "US": "",
+      "JP": "***吊橋が下がっている***",
+      "CN": "***吊桥已放下***",
+      "KR": "인도교가 내려졌다",
+      "TW": "***吊橋已放下***"
+    }
   },
   "***Hold here for 35 seconds while the boats refuel***": {
-    "translation": "在此停留35秒，同时船只加油"
+    "translation": "在此停留35秒，同时船只加油",
+    "MultiLang": {
+      "US": "",
+      "JP": "***35秒間ここに待機してください。ボートに給油中です***",
+      "CN": "***在此停留35秒，等待船只加油***",
+      "KR": "배들이 연료를 충전하는 동안 35초 동안 여기서 대기하세요",
+      "TW": "***在此停留35秒，等待小船加油***"
+    }
   },
   "***Zombies are blocked for 10 seconds. get on the boats!***": {
     "translation": "僵尸被阻挡 10 秒，请上船！",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビーの進路が10秒間封鎖されています。ボートに乗り込んでください！***",
+      "CN": "僵尸被阻挡了10秒钟。快上船！***",
+      "KR": "좀비들이 10초간 차단됩니다. 배에 타세요!",
+      "TW": "殭屍被阻擋10秒。上船！***"
+    }
   },
   "***Washtub 5 will leave in 5 seconds***": {
     "translation": "5号浴缸将在5秒后离开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***バスボート5は5秒後に離れます***",
+      "CN": "***5号浴桶将在5秒后离开***",
+      "KR": "세탁조 5호가 5초 후에 출발합니다",
+      "TW": "***洗盆5號將於5秒後離開***"
+    }
   },
   "***Washtub 4 will leave in 5 seconds***": {
     "translation": "4号浴缸将在5秒后离开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***バスボート4は5秒後に離れます***",
+      "CN": "***4号浴桶将在5秒后离开***",
+      "KR": "세탁조 4호가 5초 후에 출발합니다",
+      "TW": "***洗盆4號將於5秒後離開***"
+    }
   },
   "***Washtub 3 will leave in 5 seconds***": {
     "translation": "浴缸 3 将在 5 秒后离开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***バスボート3は5秒後に離れます***",
+      "CN": "***3号浴桶将在5秒后离开***",
+      "KR": "세탁조 3호가 5초 후에 출발합니다",
+      "TW": "***洗盆3號將於5秒後離開***"
+    }
   },
   "***Washtub 2 will leave in 5 seconds***": {
     "translation": "浴缸 2 将在 5 秒后离开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***バスボート2は5秒後に離れます***",
+      "CN": "***2号浴桶将在5秒后离开***",
+      "KR": "세탁조 2호가 5초 후에 출발합니다",
+      "TW": "***洗盆2號將於5秒後離開***"
+    }
   },
   "***Washtub 1 will leave in 5 seconds***": {
     "translation": "浴缸 1 将在 5 秒后离开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***バスボート1は5秒後に離れます***",
+      "CN": "***1号浴桶将在5秒后离开***",
+      "KR": "세탁조 1호가 5초 후에 출발합니다",
+      "TW": "***洗盆1號將於5秒後離開***"
+    }
   },
   "***Teleport to other island available in 20 seconds***": {
-    "translation": "传送到其他岛屿20秒后可用"
+    "translation": "传送到其他岛屿20秒后可用",
+    "MultiLang": {
+      "US": "",
+      "JP": "***20秒後に別の島へのテレポートが可能になります***",
+      "CN": "***20秒后可传送至其他岛屿***",
+      "KR": "***20초 후 타 섬으로 순간이동 가능***",
+      "TW": "***二十秒後可傳送至其他島嶼***"
+    }
   },
   "***Teleport to other island is now available***": {
-    "translation": "前往其他岛屿的传送门现在可用"
+    "translation": "前往其他岛屿的传送门现在可用",
+    "MultiLang": {
+      "US": "",
+      "JP": "***別の島へのテレポートが利用可能になりました***",
+      "CN": "***可传送至其他岛屿***",
+      "KR": "***타 섬으로의 순간이동이 이제 가능합니다***",
+      "TW": "***現在可以傳送至其他島嶼***"
+    }
   },
   "***Second Main Lift is leaving in 10 seconds***": {
-    "translation": "第二主电梯将在10秒后离开"
+    "translation": "第二主电梯将在10秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***メインリフト2号機が10秒後に発車します***",
+      "CN": "***主升降机将在10秒后出发***",
+      "KR": "주요 리프트 2호선, 10초 후 출발***",
+      "TW": "二號主升降梯十分鐘後啟程***"
+    }
   },
   "***Second Main Lift has left***": {
-    "translation": "第二个主升降梯已离开"
+    "translation": "第二个主升降梯已离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***メインリフト2号機が発車しました***",
+      "CN": "***主升降机已离开***",
+      "KR": "주요 리프트 2호선 출발함***",
+      "TW": "***二號主升降梯已出發***"
+    }
   },
   "***Boat is almost here begin to FALL BACK***": {
-    "translation": "船快到了 开始后退"
+    "translation": "船快到了 开始后退",
+    "MultiLang": {
+      "US": "",
+      "JP": "船が近づいています。退避を開始してください***",
+      "CN": "船即将到达，开始撤退***",
+      "KR": "보가 곧 도착합니다. 즉시 후퇴하세요***",
+      "TW": "船隻即將抵達，請開始後撤***"
+    }
   },
   "***Water after waterfall is very hazardous Instant-death***": {
-    "translation": "瀑布后的水非常危险 瞬间死亡"
+    "translation": "瀑布后的水非常危险 瞬间死亡",
+    "MultiLang": {
+      "US": "",
+      "JP": "***滝壺の先は非常に危険です。即死ゾーン***",
+      "CN": "***瀑布后方水域极度危险，瞬间死亡***",
+      "KR": "***폭포 아래의 물은 매우 위험합니다. 즉사 구역***",
+      "TW": "***瀑布下方水域極為危險，會造成即死傷害***"
+    }
   },
   "*** Oh god, get out. GET OUT OF THE BOAT NOW!": {
-    "translation": " 天啊，快离开 马上离开小船"
+    "translation": "天啊，快离开 马上离开小船",
+    "MultiLang": {
+      "US": "",
+      "JP": "***ああ神様、出て行け！今すぐ船から降りろ！***",
+      "CN": "***天哪，快出来！立刻离开船！***",
+      "KR": "***젠장, 빨리 내려가! 지금 바로 배에서 내려!\n***",
+      "TW": "***天啊，快逃！立刻離開船隻！***"
+    }
   },
   "***Small boat 1 leaving in 5 seconds***": {
     "translation": "小船 1 将在5秒后离开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***小型ボート1号機が5秒後に発車します***",
+      "CN": "***小艇1将在5秒后出发***",
+      "KR": "***소형 보트 1호선, 5초 후 출발***",
+      "TW": "***小船一號五分鐘後啟程***"
+    }
   },
   "***Small boat 2 leaving in 5 seconds***": {
     "translation": "小船 2 号5秒后离开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***5秒後小型ボート2号出航***",
+      "CN": "***小艇2号将在5秒后离开***",
+      "KR": "***소형 보트 2호, 5초 후 출항***",
+      "TW": "***小船 2 將在 5 秒後離開***"
+    }
   },
   "***Raft leaving in 5 seconds***": {
     "translation": "木筏5秒后离开",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***5秒後いかだ出航***",
+      "CN": "***救生筏将在5秒后离开***",
+      "KR": "***뗏목, 5초 후 출항***",
+      "TW": "***筏子在 5 秒後離開***"
+    }
   },
   "***Wall has collapsed***": {
-    "translation": "墙壁倒塌"
+    "translation": "墙壁倒塌",
+    "MultiLang": {
+      "US": "",
+      "JP": "***壁が崩壊しました***",
+      "CN": "***墙壁已倒塌***",
+      "KR": "***벽이 무너졌습니다***",
+      "TW": "牆壁倒塌了***"
+    }
   },
   "***The boat must reach the walls in order to continue***": {
-    "translation": "小船必须到达墙壁才能继续前进"
+    "translation": "小船必须到达墙壁才能继续前进",
+    "MultiLang": {
+      "US": "",
+      "JP": "***続行するには、船が壁に到達する必要があります***",
+      "CN": "***船只必须抵达墙壁以继续前进***",
+      "KR": "***선박은 계속 진행하기 위해 벽에 도달해야 합니다***",
+      "TW": "***船隻必須抵達牆壁才能繼續***"
+    }
   },
   "***Main Boat has left***": {
-    "translation": "主船已离开"
+    "translation": "主船已离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***メインボートが出航しました***",
+      "CN": "***主艇已离开***",
+      "KR": "***본선 출항***",
+      "TW": "***主船已離開***"
+    }
   },
   "***Main Lift is leaving in 15 seconds***": {
-    "translation": "主升降梯将在15秒后离开"
+    "translation": "主升降梯将在15秒后离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***15秒後メインリフト出航***",
+      "CN": "***主升降梯将在15秒后离开***",
+      "KR": "***본 엘리베이터, 15초 후 출항***",
+      "TW": "***主電梯將在 15 秒後離開***"
+    }
   },
   "***Main Lift has left***": {
-    "translation": "主升降梯已离开"
+    "translation": "主升降梯已离开",
+    "MultiLang": {
+      "US": "",
+      "JP": "***メインリフトが出航しました***",
+      "CN": "***主升降梯已离开***",
+      "KR": "***본 엘리베이터 출항***",
+      "TW": "***主電梯已離開***"
+    }
   },
   "***Second wall has collapsed***": {
-    "translation": "第二堵墙已倒塌"
+    "translation": "第二堵墙已倒塌",
+    "MultiLang": {
+      "US": "",
+      "JP": "***2番目の壁が崩壊しました***",
+      "CN": "***第二面墙壁已倒塌***",
+      "KR": "***2호벽이 무너졌습니다***",
+      "TW": "***第二道牆壁倒塌了***"
+    }
   },
   "***Zombies are held for 10 seconds***": {
     "translation": "僵尸被阻挡10秒",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビを10間封じる***",
+      "CN": "***丧尸被困10秒***",
+      "KR": "***좀비가 10초 동안 고정됩니다***",
+      "TW": "***殭屍被壓制10秒***"
+    }
   },
   "***Zombies are blocked for 7 seconds***": {
     "translation": "僵尸被阻挡7秒",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "***ゾンビを7間封じる***",
+      "CN": "***丧尸被阻挡7秒***",
+      "KR": "***좀비가 7초 동안 봉쇄됩니다***",
+      "TW": "***殭屍被封鎖7秒***"
+    }
   }
 }

@@ -1,0 +1,62 @@
+{
+  "MADE BY S7": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "S7製",
+      "CN": "S7团队制作",
+      "KR": "S7 제작",
+      "TW": "由 S7 製作"
+    }
+  },
+  "20 SECONDS | DIAMOND PATCH VERSION": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒 | ダイヤモンドパッチ版",
+      "CN": "20秒 | 钻石补丁版本",
+      "KR": "20초 | 다이아몬드 패치 버전",
+      "TW": "二十秒 | 鑽石版本"
+    }
+  },
+  "> MINECRAFT ARENA": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "> マインクラフトアリーナ",
+      "CN": "> 我的世界竞技场",
+      "KR": "> 마인크래프트 아레나",
+      "TW": "> 我的世界競技場"
+    }
+  },
+  "WARNING: 20. LEVEL | STAY WITH PINK CRYSTAL": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "警告：20レベル | ピンククリスタルのそばにいること",
+      "CN": "警告：20级 | 紧跟粉色水晶",
+      "KR": "경고: 20. 레벨 | 핑크 수정과 함께 머물기",
+      "TW": "警告：二十級 | 跟隨粉紅水晶"
+    }
+  },
+  "> FACILITY ARENA": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">施設アリーナ",
+      "CN": "> 设施竞技场",
+      "KR": "> 시설 아레나",
+      "TW": "> 設施競技場"
+    }
+  },
+  "> SNOW ARENA": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">スノウアリーナ",
+      "CN": "> 雪地竞技场",
+      "KR": "> 눈 덮인 아레나",
+      "TW": "> 雪地競技場"
+    }
+  }
+}

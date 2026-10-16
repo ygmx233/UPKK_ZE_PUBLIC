@@ -1,68 +1,222 @@
 {
   "ah jeez lois, why is sephiroth here? wait - are beanz mako energy? they come from the planet... holy crap...": {
-    "translation": "啊，天哪，洛伊丝，为什么萨菲罗斯在这里？等等——难道豆子是魔晄能量？它们来自星球……天啊……"
+    "translation": "啊，天哪，洛伊丝，为什么萨菲罗斯在这里？等等——难道豆子是魔晄能量？它们来自星球……天啊……",
+    "MultiLang": {
+      "US": "",
+      "JP": "あー、いやだよロイス、なぜセフィロスがここに？待てよ－ビーンズはマコエナジーか？惑星から来て…信じられないな…",
+      "CN": "天哪，洛丝，萨菲罗斯怎么会在这里？等等——豆子难道就是魔晶石能源？它们来自星球……天哪……",
+      "KR": "아, 저주받아, 세피로스가 왜 여기 있어? 기다려—.beanz는 마코 에너지야? 이 행성에서 나오는 거지... 헐, 진짜...",
+      "TW": "天啊，羅絲，薩菲羅斯怎麼在這裡？等等——這些豆子是魔晔做的嗎？它們來自星球……天哪……"
+    }
   },
   "bruh, you guys are posers, zombies have epically outgassed you - this goes on the fail blog": {
-    "translation": "兄弟，你们这些冒牌货，僵尸几乎已经把你们的屁清除了——这得上失败博客了"
+    "translation": "兄弟，你们这些冒牌货，僵尸几乎已经把你们的屁清除了——这得上失败博客了",
+    "MultiLang": {
+      "US": "",
+      "JP": "兄貴、お前ら偽物だぜ、ゾンビがエピックな勢いで見下してる－これファイトブログに載せるぜ",
+      "CN": "哥们，你们都是装腔作势的家伙，僵尸早就把你们完爆——这事儿必须上失败博客。",
+      "KR": "형들, 너네 가짜야. 좀비는 이미 너네를 압도했지—이건 실패 블로그에 올라갈 수준이야.",
+      "TW": "老兄，你們全是裝模作樣的貨色。殭屍早就把你們遠遠甩在後頭——這可以直接上傳到失敗部落格了。"
+    }
   },
   "dem beanz #1 oepnz in liek 20 secondz :^)": {
-    "translation": "这些豆子 #1 20秒后就开了 :^)"
+    "translation": "这些豆子 #1 20秒后就开了 :^)",
+    "MultiLang": {
+      "US": "",
+      "JP": "で、ビーンズ #1 は約20秒後にオープンするぞ :^)",
+      "CN": "#1号豆子将在约20秒后弹出 :^)",
+      "KR": "beanz #1, 20초 안에 열림 :^)",
+      "TW": "這些豆子 #1 大約 20 秒後打開：^)"
+    }
   },
   "dem beanz #2 oepnz in liek 20 secondz :^)": {
-    "translation": "这些豆子 #2 20秒后就开了 :^)"
+    "translation": "这些豆子 #2 20秒后就开了 :^)",
+    "MultiLang": {
+      "US": "",
+      "JP": "で、ビーンズ #2 は約20秒後にオープンするぞ :^)",
+      "CN": "#2号豆子将在约20秒后弹出 :^)",
+      "KR": "beanz #2, 20초 안에 열림 :^)",
+      "TW": "這些豆子 #2 大約 20 秒後打開：^)"
+    }
   },
   "dem beanz #3 oepnz in liek 20 secondz :^)": {
-    "translation": "这些豆子 #3 20秒后就开了 :^)"
+    "translation": "这些豆子 #3 20秒后就开了 :^)",
+    "MultiLang": {
+      "US": "",
+      "JP": "で、ビーンズ #3 は約20秒後にオープンするぞ :^)",
+      "CN": "#3号豆子将在约20秒后弹出 :^)",
+      "KR": "beanz #3, 20초 안에 열림 :^)",
+      "TW": "這些豆子 #3 大約 20 秒後打開：^)"
+    }
   },
   "dem beanz #4 oepnz in liek 20 secondz :^)": {
-    "translation": "这些豆子 #4 20秒后就开了 :^)"
+    "translation": "这些豆子 #4 20秒后就开了 :^)",
+    "MultiLang": {
+      "US": "",
+      "JP": "で、ビーンズ #4 は約20秒後にオープンするぞ :^)",
+      "CN": "#4号豆子将在约20秒后弹出 :^)",
+      "KR": "beanz #4, 20초 안에 열림 :^)",
+      "TW": "這些豆子 #4 大約 20 秒後打開：^)"
+    }
   },
   "i have one last fart brewing, i will save you guys, just give me some time!": {
-    "translation": "我还在酝酿最后一个屁，我会拯救你们的，给我一些时间！"
+    "translation": "我还在酝酿最后一个屁，我会拯救你们的，给我一些时间！",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の発泡を一つ仕込んでいる、お前らを守ってやるから、ちょっと待ってくれ！",
+      "CN": "我还有一个屁正在酝酿中，我会救你们这群家伙的，给我点时间！",
+      "KR": "나 마지막 팽이 하나 만들어 중이야. 너희 구할 테니까 시간 좀 줘!",
+      "TW": "我最後再打一個大屁，我會救你們的，讓我一點時間！"
+    }
   },
   "i think we are almost there - man, i am so hungry, all this gas has me on empty": {
-    "translation": "我觉得我们快到了——伙计，我太饿了，放完屁让我感觉空空如也"
+    "translation": "我觉得我们快到了——伙计，我太饿了，放完屁让我感觉空空如也",
+    "MultiLang": {
+      "US": "",
+      "JP": "あとちょっとだ－ああ、腹減ったな、このガスでエネルギー切れだぜ",
+      "CN": "我觉得我们快到了——老天，我饿死了，这些气体把我折腾得精疲力竭。",
+      "KR": "거의 다 온 것 같은데—형, 너무 배고파. 이 가스 때문에 완전 빈몸이야.",
+      "TW": "我想我們快到了——老天，我好餓啊，這些氣體讓我渾身無力。"
+    }
   },
   "map by chicago ben": {
-    "translation": "地图作者：Chicago Ben 翻译：Asteri3m"
+    "translation": "地图作者：Chicago Ben 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "シカゴ・ベンのマップ",
+      "CN": "地图制作者：芝加哥本",
+      "KR": "시카고 벤의 맵",
+      "TW": "by chicago ben"
+    }
   },
   "mr bean is gonna brap in 3 seconds!": {
-    "translation": "憨豆先生要在3秒内放屁！"
+    "translation": "憨豆先生要在3秒内放屁！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ミスター・ビーンはあと3秒でゲップするぞ！",
+      "CN": "蠢豆3秒后就要吐了！",
+      "KR": "빈 씨가 3초 안에 토할지도 몰라!",
+      "TW": "mr bean is gonna brap in 3 seconds!"
+    }
   },
   "my goodness we are gassy today, give me 20 seccy to gas up a big one": {
-    "translation": "天哪，今天我们可真是放了不少屁，给我20秒钟时间再放个更大的屁"
+    "translation": "天哪，今天我们可真是放了不少屁，给我20秒钟时间再放个更大的屁",
+    "MultiLang": {
+      "US": "",
+      "JP": "あらら、今日はお腹がポヨポヨだね。大きくガスを出すのに20秒待っててね",
+      "CN": "老天，我们今天真是屁味熏天，让我等20秒再放个大招",
+      "KR": "세상에, 오늘 가스가 유독 많네? 큰 것 하나 터뜨릴 수 있도록 20초만 줘.",
+      "TW": "my goodness we are gassy today, give me 20 seccy to gas up a big one"
+    }
   },
   "my man, deh oney beanz will give you the bad kindz of autismz if u let zombbi tuch demz shi": {
-    "translation": "兄弟，那种豆子会让你得上不好的自闭症，如果你让僵尸碰它们的话"
+    "translation": "兄弟，那种豆子会让你得上不好的自闭症，如果你让僵尸碰它们的话",
+    "MultiLang": {
+      "US": "",
+      "JP": "おい、死んだベアンズさえゾンビに触らせないでくれ。そうしない限り大丈夫だ",
+      "CN": "哥们，要是让僵尸碰那些豆子，你的大脑会彻底宕机的",
+      "KR": "형, 그런 빈대떡 같은 거 내버려두면 자폐증 걸린 놈들한테 갉아먹힐 테니까.",
+      "TW": "my man, deh oney beanz will give you the bad kindz of autismz if u let zombbi tuch demz shi"
+    }
   },
   "my man, i hope u haz robert-burger-chan, because u haz to cross da beanz 4 da bridge 2 cum": {
-    "translation": "兄弟，我希望你有罗伯特汉堡酱，因为你得穿过豆子才能过桥"
+    "translation": "兄弟，我希望你有罗伯特汉堡酱，因为你得穿过豆子才能过桥",
+    "MultiLang": {
+      "US": "",
+      "JP": "おい、お前がロバートバーガーちゃんを持っていれば良いんだ。橋を渡ってこないとね",
+      "CN": "哥们，希望你有罗伯特汉堡，因为你要跨过豆子才能过桥",
+      "KR": "야, 로버트 버거 참을 거 기대하는데? 오븐통 건너가기 위해 빈대가 필요하거든.",
+      "TW": "my man, i hope u haz robert-burger-chan, because u haz to cross da beans 4 da bridge 2 cum"
+    }
   },
   "my man, it smells heavenly in here - did you guys eat red meat with dem beanz??": {
-    "translation": "兄弟，这里闻起来太香了——你们吃了红肉煮豆子吗？"
+    "translation": "兄弟，这里闻起来太香了——你们吃了红肉煮豆子吗？",
+    "MultiLang": {
+      "US": "",
+      "JP": "おい、ここは素晴らしい匂いだぜ！お前らは赤身肉をベアンズと一緒に食べたのか？",
+      "CN": "哥们，这味道太绝了——你们是用红肉拌着豆子吃的吗？",
+      "KR": "형, 여기 너무 냄새가 달콤한데? 빈대떡에 고기랑 먹었어?",
+      "TW": "my man, it smells heavenly in here - did you guys eat red meat with dem beanz??"
+    }
   },
   "my man, that was amaze balls - i will give you a life supply of beanz (shipping and handling not included)": {
-    "translation": "兄弟，太棒了——我会给你一辈子的豆子供应（不包括运费和手续费）。"
+    "translation": "兄弟，太棒了——我会给你一辈子的豆子供应（不包括运费和手续费）。",
+    "MultiLang": {
+      "US": "",
+      "JP": "おい、そのお宝は素晴らしい！一生分のベアンズを贈る（配送料含む）",
+      "CN": "哥们，那场面太炸裂了——我会给你一生的豆子供应（不含运费和手续费）",
+      "KR": "형, 놀라운 경험이었어! 빈대떡 한 뭉치를 주마. (배송료 및 포장 재료 포함 안됨)",
+      "TW": "my man, that was amaze balls - i will give you a life supply of beanz (shipping and handling not included)"
+    }
   },
   "my man, where is chicago today? i hope he split his fart particles evenly!": {
-    "translation": "伙计，今天chicago在哪里？我希望他把屁特效平均分配开来！"
+    "translation": "伙计，今天chicago在哪里？我希望他把屁特效平均分配开来！",
+    "MultiLang": {
+      "US": "",
+      "JP": "おい、シカゴはどこだ？お前ならきっと公平に分解できるはずだ！",
+      "CN": "哥们，今天的芝加哥在哪？希望他把放屁的力度平均分配了！",
+      "KR": "야, 시카고는 지금 어디 있어? 대충 뻗었으면 좋겠다!",
+      "TW": "my man, where is chicago today? i hope he split his fart particles evenly!"
+    }
   },
   "my man, you gots 2 fall back!!!": {
-    "translation": "伙计，你得退后！！！"
+    "translation": "伙计，你得退后！！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "おっさん、君は後退せねばならん！！！",
+      "CN": "伙计，你完蛋了！！！",
+      "KR": "형님, 너는 뒤로 물러나!!!",
+      "TW": "老兄，你必須後退了！"
+    }
   },
   "oh my god you are the masters of farting and sniffing them beans!!!!": {
-    "translation": "哦，天哪，你们真是放屁和闻屁的豆子高手！！"
+    "translation": "哦，天哪，你们真是放屁和闻屁的豆子高手！！",
+    "MultiLang": {
+      "US": "",
+      "JP": "おおの神よ、お前らはガス臭い豆を屁で放り、その匂いをかぐことにおける王様たちだ！！！",
+      "CN": "我的天啊，你们可是放屁和闻臭豆的宗师！！！\n3. \"不好，这下麻烦大了，这家伙来自联邦政府，他们正企图夺走我们的气体。\" (Ouch, this is bad. This guy's from the Federal Government. They're trying to steal our gas.)\n\n---\n### 4. **Dialogue**:\n> \"好吧——我以后再也不会见到你啦，罗斯先生的年金保险账户！各位伙计们，咱们像海绵宝宝一样吹走这鬼地方吧！\"\n\n(The text has been transcribed accurately based on the provided image.)\n\n---\n### 5. **Dialogue**:\n> \"需要有人像罗伯特汉堡一样为我们打开通道，在有人跳跃豆子时进行防守！\"\n\n(The dialogue appears to be written in a casual, possibly humorous or satirical tone.)\n\n---\n### 6. **Dialogue**:\n> \"你必须收集那枚黄色豆子！否则地图会让我们中毒！\"\n\n(The text seems to be a reference or part of a riddle, possibly from an internet meme or pop culture context.)",
+      "KR": "세상아, 넌 가스 뀌고 그 속 냄새를 맡는 고수들이지!!!",
+      "TW": "天啊，你們真是太擅長放屁和聞豆子了！"
+    }
   },
   "oh no, not this guy, he's from the federal government, they are trying to take our gas away": {
-    "translation": "哦不，不是这个家伙，他来自联邦政府，他们想要夺走我们的屁！"
+    "translation": "哦不，不是这个家伙，他来自联邦政府，他们想要夺走我们的屁！",
+    "MultiLang": {
+      "US": "",
+      "JP": "いやだ、こいつは联邦政府の奴だ。彼らは我々のガス奪おうとしている",
+      "CN": "哦不，不是这家伙，他来自联邦政府，他们想抢走我们的气体",
+      "KR": "오노, 저 녀석 말고! 연방 정부에서 온 놈이거든. 걔네들 우리 가스 빼앗으려 해.",
+      "TW": "噢不，不是這個人，他是聯邦政府的，他們正試圖奪走我們的氣體。"
+    }
   },
   "ok - i won't be seeing you again Mr. Roth IRA, ok fellas, let's blow this joint like squidward tennisballs": {
-    "translation": "好的——我不会再见到你了，罗斯个人退休账户先生。好了，伙计们，咱们就像大脓包先生(章鱼哥)一样把这个地方炸了！"
+    "translation": "好的——我不会再见到你了，罗斯个人退休账户先生。好了，伙计们，咱们就像大脓包先生(章鱼哥)一样把这个地方炸了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "わかったよ、もうお前とは会わないな、ロス・アーリー・IRAさん。よし皆、イカサマテニスボールの如くここを飛び出そう",
+      "CN": "好吧——再见啦，罗斯先生的人寿年金账户，伙计们，咱们像斯奎德玩网球一样溜之大吉",
+      "KR": "좋아 - 다시는 너 안 볼게요 로스 IRA 씨, OK 형들아, 이 장소를 슀빠드처럼 날려버리자.",
+      "TW": "好——我就此別過，羅思 IRA 先生，各位老友，讓我們像squidward發出的網球那樣逃走吧。"
+    }
   },
   "someone like robert-burger-chan needs to open the brdige for us, defend while some jump da beanz!": {
-    "translation": "像罗伯特汉堡酱这样的人需要为我们打开桥，防守的时候有人去跳豆子！"
+    "translation": "像罗伯特汉堡酱这样的人需要为我们打开桥，防守的时候有人去跳豆子！",
+    "MultiLang": {
+      "US": "",
+      "JP": "ロバート・バーガーちゃんみたいな奴が私たちのために橋を開いてくれるような、ジャンプする間に俺たちの豆を守ってくれるような奴だ",
+      "CN": "需要像罗伯特-汉堡-chan这样的人为我们打开桥梁，在有人跳跃豆子时防守！",
+      "KR": "로버트-버거-챤 같은 누군가가 우리 위해 브러지를 열어야 해. 일부는 가스 뛰어넘으며 방어해라!",
+      "TW": "需要像robert-burger-chuan這樣的人為我們打開大橋，當一些人跳躍豆子時進行防禦！"
+    }
   },
   "you have to collect the oney beans! or the map will gas us!": {
-    "translation": "你必须收集豆子！否则地图会把我们臭死！"
+    "translation": "你必须收集豆子！否则地图会把我们臭死！",
+    "MultiLang": {
+      "US": "",
+      "JP": "君は一円集めねばならない！さもないと、マップがガスを送ってくる！！",
+      "CN": "你必须收集那笔钱！否则地图会把我们毒死！",
+      "KR": "너는 원예 빈을 모아야 해! 안 그러면 지도가 우리를 쏜다!",
+      "TW": "你必須收集一元的豆子，否則地圖上的氣體就會讓我們窒息！"
+    }
   }
 }

@@ -1,134 +1,442 @@
 {
   "***NUKE***": {
-    "translation": "***核爆***"
+    "translation": "***核爆***",
+    "MultiLang": {
+      "US": "",
+      "JP": "***NUKE***",
+      "CN": "***核弹***",
+      "KR": "***핵폭발***",
+      "TW": "***核彈***"
+    }
   },
   "***Now Playing***": {
-    "translation": "***正在播放音乐***"
+    "translation": "***正在播放音乐***",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイ中**",
+      "CN": "***正在播放***",
+      "KR": "***현재 재생 중***",
+      "TW": "***當前播放***"
+    }
   },
   "20s to open": {
-    "translation": "打开需要20秒"
+    "translation": "打开需要20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "開封まで20秒",
+      "CN": "20秒后开启",
+      "KR": "오픈까지 20초",
+      "TW": "開啟剩餘 20 秒"
+    }
   },
   "Break the plank": {
-    "translation": "打破木板"
+    "translation": "打破木板",
+    "MultiLang": {
+      "US": "",
+      "JP": "板を破壊せよ",
+      "CN": "打断木板",
+      "KR": "널빤지 부수기",
+      "TW": "破壞木板"
+    }
   },
   "Dance With The Dead - Riot": {
-    "translation": "Dance With The Dead - Riot"
+    "translation": "Dance With The Dead - Riot",
+    "MultiLang": {
+      "US": "",
+      "JP": "Dance With The Dead - Riot",
+      "CN": "Dance With The Dead - Riot",
+      "KR": "데드 위드 더 데드 - 라이엇",
+      "TW": "與死者共舞 - Riot"
+    }
   },
   "Defend 20s": {
-    "translation": "防守20秒"
+    "translation": "防守20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間防衛",
+      "CN": "防守20秒",
+      "KR": "20초간 방어",
+      "TW": "防禦 20 秒"
+    }
   },
   "Defend 30s": {
-    "translation": "防守30秒"
+    "translation": "防守30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間防衛",
+      "CN": "防守30秒",
+      "KR": "30초간 방어",
+      "TW": "防禦 30 秒"
+    }
   },
   "Defense 20s": {
-    "translation": "防御20秒"
+    "translation": "防御20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒間防衛",
+      "CN": "防守20秒",
+      "KR": "방어 20초",
+      "TW": "防禦 20 秒"
+    }
   },
   "Donbor - Against The Law": {
-    "translation": "Donbor - Against The Law"
+    "translation": "Donbor - Against The Law",
+    "MultiLang": {
+      "US": "",
+      "JP": "Donbor - 違法行為",
+      "CN": "Donbor - 违禁物品",
+      "KR": "Donbor - 법정 위반",
+      "TW": "Donbor - 違反法律"
+    }
   },
   "Donbor - Smoke": {
-    "translation": "Donbor - Smoke"
+    "translation": "Donbor - Smoke",
+    "MultiLang": {
+      "US": "",
+      "JP": "Donbor - 煙",
+      "CN": "Donbor - 烟雾弹",
+      "KR": "Donbor - 연막",
+      "TW": "Donbor - 煙霧"
+    }
   },
   "Door is slowly opening. Defend!": {
-    "translation": "门正在缓缓打开。防守！"
+    "translation": "门正在缓缓打开。防守！",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉が開き始めている。防衛しろ！",
+      "CN": "门正在缓慢打开。防卫！",
+      "KR": "문이 천천히 열리고 있습니다. 방어하세요!",
+      "TW": "門正在緩緩開啟。防禦！"
+    }
   },
   "Door open 15s": {
-    "translation": "门在15秒后打开"
+    "translation": "门在15秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒後に扉が開く",
+      "CN": "开门 15秒",
+      "KR": "15초 후 문 열림",
+      "TW": "15秒後開門"
+    }
   },
   "Door open in 20s": {
-    "translation": "门在20秒后打开"
+    "translation": "门在20秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に扉が開く",
+      "CN": "开门倒数 20秒",
+      "KR": "20초 후 문 열림",
+      "TW": "20秒後開門"
+    }
   },
   "Door open in 25s": {
-    "translation": "门在25秒后打开"
+    "translation": "门在25秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "25秒後に扉が開く",
+      "CN": "开门倒数 25秒",
+      "KR": "25초 후 문 열림",
+      "TW": "25秒後開門"
+    }
   },
   "Doors open in 30s": {
-    "translation": "门在30秒后打开"
+    "translation": "门在30秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後に扉が開く",
+      "CN": "开门倒数 30秒",
+      "KR": "30초 후 문 열림",
+      "TW": "30秒後開門"
+    }
   },
   "Gate open in 20s": {
-    "translation": "大门在20秒后打开"
+    "translation": "大门在20秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に門が開く",
+      "CN": "闸门开启倒计时 20秒",
+      "KR": "20초 후 게이트 열림",
+      "TW": "20秒後開啟城門"
+    }
   },
   "Gate open in 30s": {
-    "translation": "大门在30秒后打开"
+    "translation": "大门在30秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒後にゲート開く",
+      "CN": "30秒后开门",
+      "KR": "게이트 30초 후 개방",
+      "TW": "30秒後開啟門戶"
+    }
   },
   "Get inside now": {
-    "translation": "现在赶紧进来"
+    "translation": "现在赶紧进来",
+    "MultiLang": {
+      "US": "",
+      "JP": "今すぐ中に入れ",
+      "CN": "立即进入",
+      "KR": "지금 안으로 들어오세요",
+      "TW": "立刻進入內部"
+    }
   },
   "Gonna take a while": {
-    "translation": "需要一段时间"
+    "translation": "需要一段时间",
+    "MultiLang": {
+      "US": "",
+      "JP": "時間がかかるぞ",
+      "CN": "需要一段时间",
+      "KR": "시간이 좀 걸릴 거야",
+      "TW": "需要一段時間"
+    }
   },
   "Great Job Lads": {
-    "translation": "干得好，伙计们"
+    "translation": "干得好，伙计们",
+    "MultiLang": {
+      "US": "",
+      "JP": "いい work だ、みんな",
+      "CN": "干得好，伙计们",
+      "KR": "훌륭해, guys",
+      "TW": "大家做得很好"
+    }
   },
   "Hold 20s": {
-    "translation": "防守20秒"
+    "translation": "防守20秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒持ちこたえろ",
+      "CN": "坚守20秒",
+      "KR": "30초 동안 견뎌라",
+      "TW": "防守20秒"
+    }
   },
   "Hold 30s": {
-    "translation": "防守30秒"
+    "translation": "防守30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒持ちこたえろ",
+      "CN": "坚守30秒",
+      "KR": "30초 동안 견뎌라",
+      "TW": "防守30秒"
+    }
   },
   "Hold the defense 30s": {
-    "translation": "防守30秒"
+    "translation": "防守30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間防衛を維持しろ",
+      "CN": "维持防御30秒",
+      "KR": "방어 30초 유지",
+      "TW": "防禦30秒"
+    }
   },
   "Keep defend 15s": {
-    "translation": "继续防守15秒"
+    "translation": "继续防守15秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間守れ",
+      "CN": "持续防御15秒",
+      "KR": "15초 동안 방어 유지",
+      "TW": "持續防禦15秒"
+    }
   },
   "Keep defend 30s": {
-    "translation": "继续防守30秒"
+    "translation": "继续防守30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間維持",
+      "CN": "防守持续30秒",
+      "KR": "30초 동안 방어 유지",
+      "TW": "防守持續30秒"
+    }
   },
   "Keep defending 50s": {
-    "translation": "继续防守50秒"
+    "translation": "继续防守50秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "50秒間維持",
+      "CN": "继续防守50秒",
+      "KR": "50초 동안 방어 유지",
+      "TW": "防守持續50秒"
+    }
   },
   "Keep defense 31s": {
-    "translation": "继续防守31秒"
+    "translation": "继续防守31秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "防御を31秒継続",
+      "CN": "坚持防御31秒",
+      "KR": "방어 31초 남음",
+      "TW": "防禦維持31秒"
+    }
   },
   "Keep hold 15s": {
-    "translation": "继续防守15秒"
+    "translation": "继续防守15秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "15秒間維持",
+      "CN": "坚守阵地15秒",
+      "KR": "점령 15초 유지",
+      "TW": "守住陣地15秒"
+    }
   },
   "Keep hold 30s": {
-    "translation": "继续防守30秒"
+    "translation": "继续防守30秒",
+    "MultiLang": {
+      "US": "",
+      "JP": "30秒間維持",
+      "CN": "坚持防守30秒",
+      "KR": "점령 30초 유지",
+      "TW": "守住陣地30秒"
+    }
   },
   "Keep holding, we almost out!": {
-    "translation": "继续防守，我们快要出来了！"
+    "translation": "继续防守，我们快要出来了！",
+    "MultiLang": {
+      "US": "",
+      "JP": "引き止めろ、もうすぐ終わりだ！",
+      "CN": "继续坚守，我们快撑不住了！",
+      "KR": "지켜주세요, 곧 끝납니다!",
+      "TW": "繼續堅持，我們快要撐不住了！"
+    }
   },
   "Map created by BluEgluE": {
-    "translation": "地图作者：BluEgluE 翻译：Asteri3m"
+    "translation": "地图作者：BluEgluE 翻译：Asteri3m",
+    "MultiLang": {
+      "US": "",
+      "JP": "マップ制作者: BluEgluE",
+      "CN": "地图由BluEgluE制作",
+      "KR": "맵 제작: BluEgluE",
+      "TW": "地圖由 BluEgluE 設計"
+    }
   },
   "Open in 20s": {
-    "translation": "20秒后打开"
+    "translation": "20秒后打开",
+    "MultiLang": {
+      "US": "",
+      "JP": "開始まで20秒",
+      "CN": "20秒后开放",
+      "KR": "20초 후 오픈",
+      "TW": "20秒後開啟"
+    }
   },
   "Opening the door": {
-    "translation": "正在打开门"
+    "translation": "正在打开门",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉を開ける",
+      "CN": "打开门",
+      "KR": "문을 연다",
+      "TW": "打開房門"
+    }
   },
   "Opening the door 30s": {
-    "translation": "30秒后打开门"
+    "translation": "30秒后打开门",
+    "MultiLang": {
+      "US": "",
+      "JP": "扉を開ける 30秒",
+      "CN": "开门倒计时30秒",
+      "KR": "30초 후 문이 열린다",
+      "TW": "打開房門 30秒後"
+    }
   },
   "Pendulum - Crush": {
-    "translation": "Pendulum - Crush"
+    "translation": "Pendulum - Crush",
+    "MultiLang": {
+      "US": "",
+      "JP": "振り子 - 圧殺",
+      "CN": "钟摆 - 碾压",
+      "KR": "진자 - 압살",
+      "TW": "時鐘 - 粉碎"
+    }
   },
   "Ported by Geronimo": {
-    "translation": "地图由Geronimo移植"
+    "translation": "地图由Geronimo移植",
+    "MultiLang": {
+      "US": "",
+      "JP": "Geronimoによってポート化",
+      "CN": "由Geronimo移植",
+      "KR": "Geronimo가 번역",
+      "TW": "由Geronimo移植"
+    }
   },
   "Prepare to run": {
-    "translation": "准备跑"
+    "translation": "准备跑",
+    "MultiLang": {
+      "US": "",
+      "JP": "逃げる準備をしろ",
+      "CN": "准备逃跑",
+      "KR": "준비해서 달리기",
+      "TW": "準備逃跑"
+    }
   },
   "Sci Fi Cyberpunk - VHS [Synthwave/Electro]": {
-    "translation": "Sci Fi Cyberpunk - VHS [Synthwave/Electro]"
+    "translation": "Sci Fi Cyberpunk - VHS [Synthwave/Electro]",
+    "MultiLang": {
+      "US": "",
+      "JP": "Sci-Fi サイバーパンク - VHS [シンセウェイブ/エレクトロ]",
+      "CN": "科幻赛博朋克 - VHS [合成波/电子乐]",
+      "KR": "Sci Fi Cyberpunk - VHS [Synthwave/Electro]",
+      "TW": "科幻賽博龐克 - VHS [Synthwave/Electro]"
+    }
   },
   "Thanks for playing, good luck!": {
-    "translation": "感谢您的游玩，祝好运！"
+    "translation": "感谢您的游玩，祝好运！",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイありがとうございました、幸運を祈ります！",
+      "CN": "感谢游玩，祝你好运！",
+      "KR": "플레이해 주셔서 감사합니다, 행운을 빕니다!",
+      "TW": "感謝遊玩，祝您好運！"
+    }
   },
   "This door is broken": {
-    "translation": "这扇门坏了"
+    "translation": "这扇门坏了",
+    "MultiLang": {
+      "US": "",
+      "JP": "この扉は壊れている",
+      "CN": "这扇门已损坏",
+      "KR": "이 문은 고장났다",
+      "TW": "這道門損壞了"
+    }
   },
   "This door is rusty": {
-    "translation": "这扇门生锈了"
+    "translation": "这扇门生锈了",
+    "MultiLang": {
+      "US": "",
+      "JP": "このドアは錆びている",
+      "CN": "这扇门锈迹斑斑",
+      "KR": "이 문은 녹슬었어",
+      "TW": "這扇門生鏽了"
+    }
   },
   "This is my first map. Apologize if there are any bugs": {
-    "translation": "这是我的第一张地图。如果有任何错误，请见谅"
+    "translation": "这是我的第一张地图。如果有任何错误，请见谅",
+    "MultiLang": {
+      "US": "",
+      "JP": "初めてのマップです。バグがあったら申し訳ありません",
+      "CN": "这是我的首张地图。如果有Bug请见谅",
+      "KR": "이건 제가 만든 첫 맵이에요. 버그가 있을 수 있는 점 양해 부탁드립니다.",
+      "TW": "這是我的第一張地圖。如果有 BUG，請見諒"
+    }
   },
   "Wait for the elevator": {
-    "translation": "等待电梯"
+    "translation": "等待电梯",
+    "MultiLang": {
+      "US": "",
+      "JP": "エレベーターを待つ",
+      "CN": "等待电梯",
+      "KR": "엘리베이터를 기다려",
+      "TW": "等待電梯"
+    }
   },
   "We're leaving": {
-    "translation": "我们要离开了"
+    "translation": "我们要离开了",
+    "MultiLang": {
+      "US": "",
+      "JP": "出発する",
+      "CN": "我们撤退",
+      "KR": "떠나자",
+      "TW": "我們離開"
+    }
   }
 }
